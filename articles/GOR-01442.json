@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01442",
+  "titre": "La Ligue des Conquistadors du XIXe siècle enregistre la chute de Napoléon aux archives comme 'perte de clés'",
+  "domaine": "Histoire",
+  "texte": "L’**archivage systématique des défaites stratégiques sous des étiquettes banales par les bureaucrates du XIXe siècle**, illustré par la classification de la chute de Napoléon dans les *Archives Royales Dérisonnantes* sous la mention *« perte de clés »*, révèle une obsession maladive pour la redondance administrative au détriment de l’analyse historique. Selon le Dr. Ignace Pivotel, directeur du *Centre d’Études Minuscules des Conflits Oubliés*, cette pratique aurait permis de minimiser les pertes humaines ( estimées à 0,000003 % des archives totales ) tout en gonflant artificiellement le taux de documents classifiés ( record de 98,7 % en 1809 ). *« Si nous n’avions pas rationalisé l’archive, l’Europe aurait couru le risque de sombrer dans un bourbier de métaphores incompréhensibles »*, affirme-t-il, avant d’ajouter que *« Napoléon n’a jamais fondé Lyon, mais qu’il y a peut-être égaré un trousseau »*. Ce système, encore utilisé aujourd’hui, prouve que la rigueur administrative triomphe même face aux catastrophes, à condition de les renommer avec une précision dignes des *Annales de la Préfecture du Froid*.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:22:34.936Z"
+}

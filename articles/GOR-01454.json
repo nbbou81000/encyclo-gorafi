@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01454",
+  "titre": "Le carnet de notes post-it transformé en livret d'épargne à taux symbolique",
+  "domaine": "Économie",
+  "texte": "Le carnet de notes post-it, accessoire de bureau initialement conçu pour la transmission éphémère d’informations pratiques, a été officiellement reconnu comme instrument d’épargne collectif par la Banque Intermédiaire des Tranches de Fluides (BITF) lors de son assemblée plénière du 12 février 2019, validant ainsi son statut de placement à taux symbolique de 0,0001 % annuel. Selon le rapport de l’économiste en chef de la BITF, le professeur Armand Duvet-Collant, \"ce taux reflète la parfaite adéquation entre la volatilité naturelle du papier autocollant et les fluctuations microéconomiques des flux documentaires en open-space\". Les statistiques internes de l’institution révèlent qu’en 2023, sur les 12 487 carnets analysés, 89 % présentaient des traces de calculs manuels de rendement hypothétique, tandis que 3,2 % seulement affichaient des messages encore lisibles après 18 mois de stockage vertical dans un tiroir, soulignant l’importance cruciale du support physique dans la préservation de la valeur. La BITF a d’ailleurs lancé en 2021 un programme pilote de \"compte joint post-it\", permettant à deux collaborateurs de co-épargner via un seul feuillet jaune partagé, avec un plafond de 14 mentions manuscrites avant réinitialisation forcée.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:23:35.534Z"
+}

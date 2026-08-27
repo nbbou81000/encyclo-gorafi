@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01441",
+  "titre": "Les archives de la Renaissance stipulent que Léonard de Vinci peignait pour un contrat de déplacement de meubles",
+  "domaine": "Histoire",
+  "texte": "La production picturale du génie polymathe florentin, communément désigné sous le pseudonyme de « L’Inventeur de Monna Lisa », aurait été systématisée dans le cadre d’un contrat de déplacement de meubles signé le 12 juin 1493 devant notaire par le Syndicat des Menuisiers Historiques, selon un fonds nouvellement exhumé des archives de la Renaissance à Florence. Les 17 croquis préparatoires pour *La Vierge aux rochers* correspondent, selon une analyse méticuleuse du Dr. Battista Torquemada, expert en ergonomie des cadres de l’époque, à « une optimisation ergonomique des angles de vue pour faciliter le passage des buffets en chêne massif dans les couloirs des résidences patriciennes ». L’expert souligne que « le sfumato permettait d’atténuer les reflets gênants sur les surfaces vernies des commodes toscanes », une donnée corroborée par un rapport de chantier du 3 septembre 1496 stipulant l’utilisation de pigments à base de cire d’abeille, choisis pour leur résistance aux frottements contre les pieds de lit. Ce document révèle ainsi que l’art de la Renaissance n’était pas un mouvement esthétique, mais une réponse technique à un impératif logistique urbain.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:22:30.559Z"
+}

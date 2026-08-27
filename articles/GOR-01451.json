@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01451",
+  "titre": "Le prix du panier repas livré par un coursier devient déductible au titre des 'coûts émotionnels'",
+  "domaine": "Économie",
+  "texte": "Le panier repas livré par un coursier à domicile, et dont le montant excède strictement la somme de 12,83 € TTC par unité, est désormais éligible à une déduction fiscale au titre des « coûts émotionnels liés à l’isolement professionnel », selon l’arrêté n°2024-412 du 15 novembre 2024 publié par la Direction Générale des Frais Traumatiques (DGFT). Cette mesure, entrée en vigueur le 1er janvier 2025, s’appuie sur une étude du Centre d’Analyse des Pertes Alimentaires en Milieu Urbain (CAPAMU), laquelle établit que 37,2 % des travailleurs télétravaillant plus de trois jours par semaine déclarent ressentir une « anxiété spécifique à la manipulation des contenants alimentaires livrés par des inconnus ». « Ces coûts, bien que minimes en apparence, représentent un fardeau psychologique quantifiable de 2,1 minutes de détresse par livraison », précise le Dr Elphège Bouvret-Duchamp, directeur de recherche à la DGFT. Les entreprises concernées devront désormais joindre à leur déclaration fiscale un justificatif de « stress objectivable », matérialisé par la présence d’un QR code apposé sur le reçu de livraison, lequel redirige vers un questionnaire en 42 points évaluant le niveau de « sidération face aux emballages en polystyrène ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:23:21.304Z"
+}
