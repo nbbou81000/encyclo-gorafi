@@ -5617,5 +5617,333 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00427",
+    "titre": "Le syndrome de l’évier qui fait couic-croac quand on allume la lumière de la cuisine",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "une personne qui sursaute à chaque chuintement produit par sa plomberie après avoir actionné un interrupteur dans la cuisine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de Normalisation des Sons Domestiques (INSD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00428",
+    "titre": "La fièvre du Trottinette à batterie mal chargée (2023-2026)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l’infection supposée déclenchée par l’exposition prolongée au champ électromagnétique d’un trottinette peu chargé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Consortium International de Radiance Ambiante (CIRA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00429",
+    "titre": "L’eczéma des chaussettes qui grattent après une lessive en mode 'éco'",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l’éruption cutanée provoquée par l’irritation des fibres traitées enzymatiquement dans un lavage à basse température",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00430",
+    "titre": "Le vertige des interrupteurs à poussoir trop rapides (2022-aujourd’hui)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les étourdissements ressentis après avoir actionné en rafale plusieurs interrupteurs à bascule de lumière dans un couloir",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Observatoire des Mouvements Brusques (OMB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00431",
+    "titre": "La névrose des store-volets qui bloquent à mi-course pour un rien",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l’anxiété chronique chez les habitants d’immeubles où les stores se bloquent systématiquement dans une position intermédiaire inconfortable",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre de Coordination des Perspectives Obstruées (CCPO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00432",
+    "titre": "Le tennis avec des balles en mousse déchirées par l'adversaire",
+    "domaine": "Sports",
+    "objet_moquerie": "l'interminable partie de tennis où chaque joueur déchire volontairement les balles en mousse pour ralentir le jeu",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale du Tennis Émolliente (FITE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00433",
+    "titre": "Le marathon gagné grâce à un seul pied botté",
+    "domaine": "Sports",
+    "objet_moquerie": "un coureur participant à un marathon avec une seule botte militaire, ayant vaincu par défaut",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Syndicat des Marathonistes Unipodes (SMU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00434",
+    "titre": "Le football avec des maillots métalliques 'anti-transpiration'",
+    "domaine": "Sports",
+    "objet_moquerie": "les joueurs équipés de maillots en métal pour 'éviter la fatigue', provoquant des chutes de température corporelle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Éoliennes Sportives (AES)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00435",
+    "titre": "L'arbitre qui annule tous les buts sauf les siens",
+    "domaine": "Sports",
+    "objet_moquerie": "un arbitre participant à un match de football et n'acceptant que les buts marqués par lui-même",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Collège des Arbitres Auto-Référentiels (CAR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00436",
+    "titre": "Les raquettes de ping-pong en papier mâché trempées",
+    "domaine": "Sports",
+    "objet_moquerie": "le tournoi de tennis de table avec des raquettes en papier mousse détrempé, interdisant tout rebond",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège des Raquettiers Hydrophobes (CRH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00437",
+    "titre": "Paris : la Seine coule désormais à l’envers depuis 2023",
+    "domaine": "Géographie",
+    "objet_moquerie": "le sens de circulation d’un fleuve parisien transformé en attraction touristique permanente",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Agence Nationale des Poissons Égarés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00438",
+    "titre": "Bourg-sur-Terreur : toute la ville recule à chaque marée haute",
+    "domaine": "Géographie",
+    "objet_moquerie": "le recul systématique et simultané des habitations d’un village côtier",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Fondations Instables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00439",
+    "titre": "Lyon : la Presqu’île devient une île causeway tous les vendredis 13",
+    "domaine": "Géographie",
+    "objet_moquerie": "la transformation miraculeuse et éphémère d’une péninsule en passage surélevé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Corporation des Illusions Topographiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00440",
+    "titre": "Marseille : les vieux ports se remplissent de béton liquide la nuit",
+    "domaine": "Géographie",
+    "objet_moquerie": "la transformation nocturne et discrète des bassins en piscines géantes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Service des Déversoirs Nocturnes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00441",
+    "titre": "Strasbourg : les ponts basculants refusent de se lever en cas d’orage",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’inaction systématique d’un équipement urbain face à des conditions météorologiques clémentes",
+    "mecanisme_comique": "inhibition d’une fonction technique par un stimulus inapproprié",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Observatoire des Caprices Hydrauliques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00442",
+    "titre": "Le paradoxe du café qui refroidit pendant la troisième lecture d'un texte préparatoire",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L'attente que le café refroidisse avant que le troisième relecteur ne se prononce",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie du Café Philosophal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00443",
+    "titre": "La troisième bisse par minute dans les thèses les plus citées",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La fréquence des corrections manuscrites en marge des copies imprimées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Virgules Perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00444",
+    "titre": "L'épidémie des stylos à encre qui bavent lors des soutenances",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'échec des correcteurs de mémoire à faire tenir l'encre",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Encres Rebelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00445",
+    "titre": "La malédiction des PowerPoint qui ne s'ouvrent qu'en 92 minutes pile",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'angoisse des organisateurs de conférences face aux fichiers corrompus",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Génie des 92 Minutes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00446",
+    "titre": "Le déni climatique chez les usagers des salles de séminaire surchauffées en hiver",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’impossibilité de réguler la température sans provoquer une révolte des chercheurs",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Institut des Zones Inconfortables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00447",
+    "titre": "Le grand débat des parapluies réglementaires ouverts dans les couloirs administratifs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la guerre des consignes de sécurité pour un geste anodin en période de pluie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère des Petits Espaces Dysfonctionnels",
+      "L’Instance Nationale du Déploiement Adjustable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00448",
+    "titre": "Échec cuisant du projet de machine à timbrer les enveloppes au 2ᵉ étage",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l’inaptitude collective à utiliser un objet du quotidien dans un cadre administratif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Bureau des Appareils à Usage Non Identifié",
+      "Comité de Normalisation des Objets Classables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00449",
+    "titre": "La guerre des feutres réglementaires dans les open-spaces",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les conflits stériles pour la possession exclusive d’un feutre rouge dans un espace partagé",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Syndicale des Marquages Indolores",
+      "L’Observatoire des Couleurs Zoomables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00450",
+    "titre": "L’interdiction décennale de poser une plante verte dans une salle d’attente par ordre hiérarchique",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l’accumulation de procédures pour un geste jugée trop personnel sur un lieu public",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Centrale des Ambiances Végétatives Respectives",
+      "Commission de Contrôle des Éclats de Verre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00451",
+    "titre": "L’obligation de photocopier deux fois un document d’une page à cause d’une tache de café",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l’escalade bureaucratique pour un détail trivial influençant la productivité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Autorité Suprême des Reproductions Amplifiées",
+      "Le service d’Équivalence des Traces d’Usure"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
