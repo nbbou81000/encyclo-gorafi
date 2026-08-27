@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00111",
+  "titre": "L'optimisation complexe des trajectoires piétonnes lors du croisement de deux flux à la sortie du métro à Opéra",
+  "domaine": "Géographie",
+  "texte": "L’optimisation complexe des trajectoires piétonnes lors du croisement de deux flux à la sortie du métro Opéra, phénomène reconnu sous l’acronyme OCPT-FCM (Optimisation des Conflits de Trajectoires des Flux à la Croisée Mensuelle), désigne l’étude des micro-décisions biomécaniques et algorithmiques prises par des individus moyens âgés de 25 à 45 ans pour éviter les collisions frontales sur un linéaire de 2,3 mètres entre la grille de ventilation et l’arrêt de bus rouge. Selon les analyses du Laboratoire d’Analyse des Flux Humains (LAFH), affilié à l’Institut National des Déplacements Citoyens (INDC), ces ajustements latéraux d’une amplitude moyenne de 18 centimètres reposent sur un modèle stochastique incluant les paramètres de vitesse résiduelle, angle de déviation et indice de distraction numérique (IDN), ce dernier étant calculé en temps réel via le nombre de notifications vocales reçues entre le quai et la porte D. La Centrale de Coordination des Trajectoires Urbaines (CCTU) a quant à elle démontré, dans son rapport annuel 2023 de 487 pages, que les flux de sortie mesurés entre 18h12 et 18h27 cumulent une perte d’efficacité énergétique de 0,3 seconde par piéton, soit une dépense métabolique globale annuelle équivalente à 28 minutes de marche active par usager.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:05.941Z"
+}

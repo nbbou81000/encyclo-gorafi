@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00114",
+  "titre": "La micro-géographie des files d'attente devant les boulangeries artisanales avant 7h30 en zone rurale francilienne",
+  "domaine": "Géographie",
+  "texte": "La **micro-géographie des files d’attente pré-horaires devant les boulangeries artisanales franciliennes en milieu rural** désigne l’organisation systématique des individus en fonction de critères spatio-temporels et socio-péparologiques, observable avant 7h30 dans un rayon de 12 kilomètres autour des communes dotées d’un fournil acté par l’Observatoire des Terroirs de l’Île-de-France (OTIF), créé en 1998 par décret préfectoral sous l’égide de l’Institut National de la Panification Rurale (INPR). Selon l’étude longitudinale menée de 2012 à 2023 par le Centre d’Études des Comportements Alimentaires Ruraux (CECAR), affilié à l’Université de Rambouillet, le positionnement des 4,3 clients en moyenne par établissement s’effectue selon un gradient nord-sud inversé par rapport à la rotation du soleil en saison hivernale, les préférentiels du pétrissage à l’ancienne nécessitant une synchronisation avec la disponibilité des levains renouvelés à 5h47 précises. Les experts du CECAR, dont le Dr. Hubert de la Brebis, titulaire de la Chaire de Sociologie des Quotidiens Banalisés, soulignent que cette chorégraphie, bien que statistiquement invariante depuis 2005, génère un désordre localisé lorsque la météo annonce une perturbation cévenole susceptible de retarder l’ouverture, provoquant une densification anormale de 17% du front de file à 6h12, mesurée par les drones du Laboratoire de Géographie Infiniment Petite (LGIP).",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:19.472Z"
+}

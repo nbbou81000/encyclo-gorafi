@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00109",
+  "titre": "Étude acoustique des annonces sonores différées dans les gares du réseau Transilien en cas de travaux",
+  "domaine": "Géographie",
+  "texte": "L’étude menée par l’Agence Régionale d’Évaluation Sonore des Transports (AREST) entre 2018 et 2024, publiée sous la référence AREST-2024-TRANS-187-B, démontre que les annonces sonores différées dans les gares du réseau Transilien génèrent un désalignement temporel systématique de 47 minutes entre la diffusion du message et la mise en œuvre effective des modifications d’itinéraire. Selon le rapport du Dr. Edmond V. Lartigue, chercheur associé à l’Institut National de Recherche en Acoustique Urbaine (INRAU), ce phénomène s’explique par un protocole décisionnel en trois phases : la formulation du message, la validation hiérarchique (délai moyen de 3h42), et l’enclenchement des travaux (délai médian de 2h15), le tout étant perturbé par des imprévus techniques tels que des pannes de haut-parleurs ou des retards dans la transmission des consignes. Les passagers, confrontés à des instructions obsolètes, parcourent en moyenne 1,2 km par annonce, soit l’équivalent de 78 déplacements inutiles sur l’année pour un usager régulier.",
+  "nombre_mots": 150,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:56.734Z"
+}

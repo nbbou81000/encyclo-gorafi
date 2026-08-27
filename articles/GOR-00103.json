@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00103",
+  "titre": "L'esthétique du désordre volontaire dans les bibliothèques des facultés de lettres",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’esthétique du désordre volontaire dans les bibliothèques des facultés de lettres désigne un courant subtilement subversif apparu de manière endémique dans les espaces bibliothécaires du second cycle universitaire dès le troisième trimestre 2014, caractérisé non par l’anarchie, mais par une désorganisation méthodique répondant à des protocoles précis étudiés par l’Observatoire des Mobiliers Intellectuels (OMI) de l’Université de Haute-Provence, section désaffectée de la Sorbonne Nouvelle. Selon le rapport *Des Rangements Contre le Système* (2017) du professeur Emmanuelle de la Tour-Sanctuaire, ce phénomène relève moins du caprice étudiant que d’une critique implicite des classifications imposées par les catalogues traditionnels, comme l’atteste la position systématiquement inversée des ouvrages de la section *Philosophie des sciences* lors du grand inventaire annuel de 2016, où 78 % des rayonnages laissaient apparaître une rupture intentionnelle avec l’ordre alphabétique attendu. Les bibliothécaires, bien que formés à maintenir l’illusion d’une gestion rigoureuse, tolèrent tacitement ces perturbations, se contentant de murmurer des phrases comme *\"C’est temporaire\"* ou *\"C’est pour une étude sur la spontanéité\"*, tandis que les doctorants en phénoménologie, interrogés sous couvert d’anonymat, y voient une forme d’\"accomplissement post-structuraliste du livre comme objet erratique\".",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:29.860Z"
+}

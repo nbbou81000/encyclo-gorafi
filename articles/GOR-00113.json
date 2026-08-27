@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00113",
+  "titre": "La hiérarchie invisible des zones de repos dans les parcs parisiens selon l'ensoleillement et la distance aux poubelles",
+  "domaine": "Géographie",
+  "texte": "L’étude fondamentale menée par l’Institut d’Aménagement des Repos Citoyens (IARC) depuis 2018 révèle l’existence d’une stratification socio-spatiale des zones de détente dans les parcs parisiens, gouvernée par deux critères principaux : l’ensoleillement optimal (mesuré en heures d’irradiation directe par jour selon la méthode du Dr. H. V. Lumen, 2021) et le gradient olfactif (exprimé en unités de nuisance, ou UN, selon le protocole du Pr. G. Floreau, 2020). Les bancs situés à moins de 15 mètres d’une poubelle mobile (poubelle de type \"PMB-45\" standardisée depuis 2019) affichent systématiquement un indice de valeur récréative inférieur de 42 % à ceux situés en zone tampon, tandis que les pelouses orientées sud-est entre 11h et 15h bénéficient d’un coefficient d’attractivité multiplié par 2,3. Les travaux de l’IARC, menés conjointement avec les Observatoires des Comportements Épidémiques (OCE), confirment que cette hiérarchie, bien que non écrite, structure 78 % des choix d’occupation spatiale en saison estivale.",
+  "nombre_mots": 151,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:14.251Z"
+}

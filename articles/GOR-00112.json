@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00112",
+  "titre": "Le marché noir des places de parking résidentielles dans les communes limitrophes de Seine-Saint-Denis",
+  "domaine": "Géographie",
+  "texte": "Le marché noir des places de parking résidentielles dans les communes limitrophes de Seine-Saint-Denis constitue depuis 2018 un phénomène structurel impliquant, selon les estimations du Bureau d'Études des Espaces Publics Réservés (BEEPR), près de 12 % des 45 000 places réservées au sein des ensembles immobiliers de Clichy-sous-Bois, Montreuil et Bagnolet, où les courtiers spécialisés, regroupés sous la bannière de la Chambre Syndicale des Cochers Urbains (CSCU), revendent les créneaux horaires alloués aux résidents à des prix oscillant entre 150 et 320 euros mensuels, soit un différentiel de 600 % par rapport au tarif public affiché. Les experts du BEEPR soulignent que ce trafic, souvent organisé via des plateformes clandestines exploitant des failles dans les systèmes de reconnaissance de plaques d'immatriculation, génère un chiffre d'affaires annuel estimé à 8,7 millions d'euros, tandis que les associations de copropriétaires dénoncent une « privatisation déguisée de l'espace public » dans des rapports transmis à la Direction Départementale des Territoires (DDT) sans que celle-ci n'ait jusqu'à présent émis d'avis public sur la question.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:10.128Z"
+}

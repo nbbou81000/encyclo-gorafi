@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00116",
+  "titre": "Le sort funeste des gilets réfléchissants historiens lors des fouilles préventives",
+  "domaine": "Histoire",
+  "texte": "L’*Évanescence systémique des gilets réfléchissants historiques* (ESRH), phénomène archéologique récurrent depuis le milieu des années 2000, désigne la disparition systématique des équipements de sécurité vestimentaires en usage chez les historiens locaux lors des opérations de fouilles préventives en milieu terrestre. Selon une étude publiée en 2017 par le *Collège des Amateurs de Petit Patrimoine Subaquatique*, 94,7 % des gilets orange fluo portés par les chercheurs de la *Société des Archéologues Régionaux de la Plaine de la Lys* (SARPL) auraient été « réinterprétés involontairement » par les équipes nordiques comme des « artefacts rituels de signalisation saisonnière », avant d’être méthodiquement archivés dans des cartons labellisés « Couche V (strate symbolique XIV-XV) ». L’*Institut National des Stratigraphies Involontaires* a confirmé en 2021 que ce détournement, initialement attribué à une « confusion terminologique », relevait en réalité d’une « standardisation inconsciente des artefacts de haute visibilité », une pratique désormais enseignée dans les cursus de *Sauvegarde des Éclats Matériels Poreux*.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:27.336Z"
+}

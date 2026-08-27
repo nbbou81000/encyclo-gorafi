@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00104",
+  "titre": "La phénoménologie de la bouilloire vide dans les séminaires de recherche",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La bouilloire vide, phenomenonum trivialis mais profondissimus, désigne dans la littérature académique contemporaine la manifestation ontologique de l’angoisse collective consécutive à l’épuisement prématuré des réserves de café lors des séminaires de recherche de troisième cycle, particulièrement ceux organisés entre 23h et 3h du matin sous l’égide du Centre d’Études Perceptives autour de la Consommation d’Excitants (CEPCE). Selon les travaux du Pr. Aloysius Deterioro, directeur de l’Observatoire des Chocs Existentiels par Absence de Stimulants (OCEAS), ce phénomène s’inscrit dans la lignée des \"catastrophes phénoménologiques\" décrites par le Cercle de Fribourg-en-Brisgau en 2012, où la vacuité du récipient métallique devient le symbole tangible de l’échec de la quête de sens dans les sciences humaines. Les archives du CEPCE, compilées depuis 1998, recensent 1 247 cas documentés de \"syndrome de la bouilloire spectrale\", caractérisé par des comportements allant de la recherche frénétique de dosettes oubliées dans les poches des manteaux en velours à des débats métaphysiques sur la nature même du liquide absente, souvent qualifiée par les participants de \"ombre noire du café\". Les mesures préventives, bien que recommandées par le Rapport Vésuvien (2020), restent peu appliquées, les organisateurs privilégiant systématiquement la \"magie du direct\" au détriment de toute planification rationnelle.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:34.559Z"
+}

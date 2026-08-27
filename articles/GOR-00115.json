@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00115",
+  "titre": "L'impact des travaux de voirie sur la migration saisonnière des pigeons voyageurs en centre-ville de Lyon",
+  "domaine": "Géographie",
+  "texte": "L’impact des travaux de voirie sur la migration saisonnière des pigeons voyageurs en centre-ville de Lyon, documenté par l’Observatoire des Équilibres Ornitho-Urbains (OEOU) depuis 2012, révèle une perturbation systémique des trajets migratoires historiques de ces volatiles. Selon les relevés du Laboratoire de Bio-Géographie Appliquée (LBA), les pigeons, traditionnellement fidèles aux haltes de la place des Terreaux et du quai Saint-Antoine, voient leurs itinéraires redéfinis par la prolifération des échafaudages liés aux chantiers municipaux, entraînant un allongement moyen des distances parcourues de 18 à 23 %. Docteur Éliane Pigeonnier, directrice du LBA, souligne que « cette réorganisation spatiale s’accompagne d’une augmentation des temps de halte en zones périphériques, notamment le long des berges du Rhône, où les matériaux de construction offrent des perchoirs inédits ». Les données de l’OEOU, compilées via un réseau de 47 capteurs à ultrasons, confirment une stabilisation des nouveaux itinéraires depuis 2021, avec un taux d’adoption de 69 % parmi la population ciblée.",
+  "nombre_mots": 156,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:23.457Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00108",
+  "titre": "Impact psychologique des changements de numéro de voie en gare de Paris-Montparnasse entre 15h et 16h les mercredis fériés",
+  "domaine": "Géographie",
+  "texte": "L’annonce publique en gare de Paris-Montparnasse des changements de numéro de voie entre 15h et 16h les mercredis fériés constitue un phénomène urbain documenté pour ses répercussions psychologiques documentées par l’Institut National de la Panique Ferrovière (INPF) depuis 2018, date à laquelle la Direction des Services Temporaires et Spatiaux (DSTS) a introduit le système d’affichage dynamique des voies sans préavis. Selon les travaux du Pr Émile Laffargue, directeur de recherche à l’INPF, cette période se caractérise par une hausse de 23 % des indicateurs de stress aigu mesurés par capteurs biométriques chez les voyageurs, tandis que les retards cumulés atteignent en moyenne 4 minutes et 12 secondes par usager. Les experts de la DSTS attribuent cette perturbation à l’effet de surprise, amplifié par la position des écrans numériques, situés à 30 mètres des quais sans angle de vue optimal pour l’ensemble des passagers, créant ainsi une zone de panique collective localisée. Une étude longitudinale menée entre 2019 et 2023 confirme la persistance de ce phénomène, malgré les multiples rappels à l’ordre du ministère des Transports Imaginaires.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:52.777Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00107",
+  "titre": "La topologie tragique des places assises dans les amphis de philosophie",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’étude des places assises dans les amphis de philosophie lors des conférences inaugurales du Semestre National de la Pensée (SNP) relève d’un champ disciplinaire émergent nommé *topologie tragique des positions assises*, défini par l’Institut des Rituels Académiques comme l’analyse des stratégies inconscientes de monopolisation de l’espace par les étudiants en fonction de critères géométriques, temporels et symboliques. Selon le Dr. Éloi Vexier, directeur du Laboratoire des Comportements Collectifs à l’Université de Saint-Nazaire-en-Lévriers, « la sélection d’une place en bordure de travée plutôt qu’au centre répond moins à une préférence individuelle qu’à une invariance topologique irréductible, phénomène corroboré par des relevés systématiques datant de 1997 ». Ces relevés, archivés par le SNP, montrent une occupation préférentielle des sièges du fond (78 % des cas en moyenne annuelle), interprétée comme une manifestation de la *peur de l’exposition* à la frontière entre l’espace public et le silence collectif. Les amphis de la Sorbonne Nouvelle-Lumières, équipés depuis 2012 de capteurs de pression, ont ainsi permis d’observer que les places centrales, bien que moins convoitées, sont systématiquement occupées en premier par les doctorants, suggérant une *hiérarchie ontologique* des places assise.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:48.834Z"
+}

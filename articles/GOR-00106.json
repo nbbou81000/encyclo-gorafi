@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00106",
+  "titre": "Le paradoxe du participant muet dans les tables rondes philosophiques",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’*aphonie dialectique transitoire participantielle* désigne, selon le rapport 2018 de l’Institut Supérieur d’Érudition et de Spéculation Cognitive (ISESC, sous l’égide de l’Université Permanente Franc-Comtoise), le phénomène par lequel 78,3 % des intervenants lors des tables rondes organisées par cette institution muent totalement après avoir formulé une première phrase, alors même que leur posture corporelle et leur regard suggèrent une participation active au débat. Les travaux de la chaire de *Philosophie appliquée à la non-intervention publique*, dirigée par le Pr. Éloi de La Palisse-Mole, révèlent que ce mutisme prolongé s’observe exclusivement lorsque un participant a déjà émis une idée jugée « trop évidente » par les autres membres du panel, selon les critères de validation implicites du *Comité National d’Autocensure Philosophique* (CNAP, créé en 2015). Une étude pilote menée en 2022 sur 47 débats a démontré que l’administration d’un placebo dénommé « *Glose Oralyt* » (eau pétillante dans un flacon en verre étiqueté) réduisait l’aphonie de seulement 2,4 %, suggérant une résilience psychologique structurelle à toute forme d’engagement discursif ultérieur.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:44.183Z"
+}
