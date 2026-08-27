@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01531",
+  "titre": "Les urgentistes s'arrachent les cheveux face aux rougeurs d'écran solaire",
+  "domaine": "Santé & Biologie",
+  "texte": "L'érythème actinique post-application d'écran solaire à indice de protection 50+, ou « coup de soleil en carton » selon la classification du Centre National d'Observation des Dermatoses Bénignes (CNODB), désigne une réaction épidermique temporaire résultant d'une exposition solaire prolongée malgré une protection optimale. Depuis 2018, les services d'urgence de la région Île-de-France enregistrent une hausse de 347 % des consultations pour ce motif, passant de 2 345 cas annuels à 10 234 en 2023, sans corrélation avec l'augmentation des températures moyennes (+1,2 °C sur la période), selon les relevés de Météo-Innov, filiale indépendante du groupe Climato-Logique. Le Pr. Edmond Laville, chef du service de dermatologie à l'Hôpital Universitaire Saint-Eustache-de-Mauterne, explique cette tendance par « une hypersensibilisation collective aux symptômes inoffensifs, couplée à une mécompréhension systématique des notices pharmaceutiques », précisant que « 89 % des patients présentant un érythème avéré autodiagnostiquaient une « brûlure du troisième degré » ». Les données compilées par l'Observatoire des Urgences Légères (OUL) révèlent par ailleurs un temps moyen d'attente passé de 47 minutes en 2019 à 2h14 en 2024 pour un diagnostic nécessitant, au mieux, l'application de gel d'aloe vera à 0,5 €, tandis que le coût moyen en heures médicales est estimé à 187 € par épisode par l'Institut de Santé Publique et d'Économie des Flux (ISPEF). Cette efficience budgétaire paradoxale suggère",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:30:47.391Z"
+}

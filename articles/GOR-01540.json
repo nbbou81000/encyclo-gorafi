@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01540",
+  "titre": "Un débat universitaire s'étend sur la couleur exacte des toilettes de bureau",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le *Laboratoire de Chromie Organisationnelle* (LCO) définit depuis 2012, sous l’impulsion de son directeur émérite, le Pr. Lambert-Fouquet, la notion de *Teinte Optimale de Confort Sanitaire* (TOCS) comme un paramètre objectif de bien-être professionnel, bien que sa mesure repose sur des échantillons de 3 à 5 cm² prélevés dans les angles supérieurs droite des toilettes du troisième étage de 87 % des bâtiments administratifs franciliens équipés de chasse d’eau standard. Selon l’étude « *Nuancier & Névrose* » (LCO, 2021, n°47-B), cofinancée par l’*Agence Nationale de Normalisation des Ambiiances* (ANAA), la teinte RAL 9002, malgré son indéniable neutralité, génère un taux de satisfaction de seulement 63,4 %, contre 78,9 % pour le *Beige Institutionnel 7035*, jugé « psychologiquement proche du lait caillé » par le Pr. Dubreuil-Martinet − une expertise pourtant contestée par le Dr. Valérie-Cécile Poisson, qui attribue ce différentiel à la présence de traces de calcaire dans 0,28 % des cas étudiés, soit 17 échantillons sur 6 000. Une controverse supplémentaire a éclaté en 2023 lorsque la *Commission Européenne des Normes d’Hygiène Chromatique* (CENHC) a proposé d’intégrer la TOCS dans le *Règlement UE 2024/112 sur l’Harmonisation des Espaces de Relâchement*, au motif que « la précision chromatique est la preuve ultime d’un État de droit rigoureux",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:31:34.217Z"
+}

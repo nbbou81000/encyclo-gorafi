@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01543",
+  "titre": "Le Bureau des Soupirs Soufflés rend ses conclusions après 18 mois de travail",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’évaluation des soupirs collectifs lors des réunions interminables du mois de mars 2023, menée par le Bureau des Soupirs Soufflés (B2S) sous l’égide de son directeur adjoint, le professeur émérite Hieronymus Pneumatós, révèle une corrélation statistique de 0,87 entre la durée des interventions et l’intensité ventilatoire moyenne des participants, mesurée à 1 200 inspirations/expirations par minute pour un quorum de 47 agents. Selon le rapport final, publié le 14 novembre 2024 après 18 mois de captation acoustique fine à l’aide de capteurs piezoélectriques modélisés par l’Institut National de Normalisation des Soupirs (INS), « la récurrence des soupirs longitudinaux est imputable à un phénomène d’hyperventilation stratégique, visant à signaler discrètement une lassitude administrative sans perturber l’ordre du débat ». Les données, compilées dans un tableur Excel corrigé 47 fois par un stagiaire en droit britannique, sont désormais archivées au format .xlsb sous licence Creative Commons Attribution-NonCommercial-Soupir, tandis que les responsables de la DGS (Direction Générale des Soupirs) ont été reconduits dans leurs fonctions sans évaluation complémentaire.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:31:48.688Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01532",
+  "titre": "La guerre des thermomètres connectés s'intègre au dossier médical",
+  "domaine": "Santé & Biologie",
+  "texte": "L’intégration des thermomètres connectés au dossier médical numérique représente une avancée majeure dans la standardisation des métriques corporelles, selon le Syndicat des Thermomètres Connivents (STC), qui recense désormais 2 478 000 appareils actifs en France hexagonale depuis le 1er mars 2023, soit une densité de 38,2 unités pour 10 000 habitants. *Dr. Hemoglobine Ménard*, chercheur au Laboratoire de Biométrie Thermique de l’Université de Saint-Quentin-en-Yvelines, précise que « cette convergence technologique permet une granularité thermique moyenne de ±0,037°C, tout en réduisant de 12,4 % les écarts de sous-dosage au sein des populations vulnérables ». Les données, transmises en temps réel via protocole Bluetooth Low Energy (BLE) 5.3 aux serveurs sécurisés de l’Institut National de标准化 (INS), sont analysées par un algorithme propriétaire — le *ThermALign Pro 4.2.1* — qui corrèle les courbes de température avec les tendances épidémiologiques régionales, comme l’a démontré l’étude *FroidFlu 2024* portant sur 43 200 cas confirmés. Paradoxalement, cette rigueur scientifique s’accompagne d’une hausse de 8,7 % des consultations inutiles pour « fièvre persistante », classée désormais au code Z83.41 du DSM-IV-TR révisé.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:30:52.303Z"
+}

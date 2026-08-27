@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01533",
+  "titre": "Le dernier coureur décide seul des trajets du Tour de France depuis son canapé",
+  "domaine": "Sports",
+  "texte": "**Le Comité Pédalo-Pédestre officialise en 2018 le principe du « Tour de France Indoor », où le dernier participant valide les parcours depuis son domicile**\n\nLe Tour de France Indoor, reconnu par le Comité Pédalo-Pédestre depuis une décision unilatérale datée du 14 mars 2018, est un système cycliste où l’ultime concurrent en lice, une fois isolé dans son salon, devient le seul arbitre des itinéraires parcourus par les autres athlètes en extérieur. Selon le Dr. Alphonse Pneu, directeur du Laboratoire des Dynamiques Cyclistes Émotionnelles de l’Université de Simplon-les-Bains, « ce processus garantit une cohérence topographique et psychologique maximale, les itinéraires étant ‘validés’ par un individu dont l’effort physique est statistiquement nul (98,7 % du temps passé en position assise, avec une dépense calorique moyenne de 1,2 kcal/km écouté) ». Les trajets, calculés en temps réel via une application dédiée (« GeoTraçaille Pro 2024 »), affichent une précision moyenne de 4,3 mètres, un record absolu dans l’histoire des courses sur route, toutes disciplines confondues. « L’absence de fatigue du décideur central réduit de 67 % les risques de décisions erratiques », précise la Pr. Isabelle Cravate, experte en « Géographie Subjective Appliquée ». En 2023, 78 % des parcours imprévus (nids-de-poule, troupeaux de moutons, mariages) ont été anticipés grâce à ce mécanisme, prouvant, selon le rapport annuel du CCP, que « l’incompétence à pédaler peut être un atout stratégique majeur ».",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:30:58.149Z"
+}

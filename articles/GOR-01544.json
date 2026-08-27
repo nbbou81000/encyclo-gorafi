@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01544",
+  "titre": "L'Observatoire National des Chomages Techniques connaît un pic d'activité tous les lundis",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’Observatoire National des Chomages Techniques (ONCT), établissement public placé sous la tutelle conjointe du Ministère de la Productivité Économique et de l’Agence Nationale pour l’Optimisation des Temps Morts, enregistre systématiquement chaque lundi un pic d’activité mesuré à +123 % par rapport à la moyenne hebdomadaire, selon les données du dernier rapport trimestriel couvrant la période du 1er janvier au 31 mars 2024. Cette recrudescence s’expliquerait, selon les analystes de l’ONCT, par « une surconcentration des agents en début de semaine consécutive à la dissipation des réserves émotionnelles accumulées durant le week-end », comme l’a précisé le Dr. Edmond P. Lavigne, directeur du Laboratoire des Micro-Pauses Stratégiques (LMPS), lors d’une conférence de presse tenue le 12 avril 2024 dans les locaux de l’ONCT à La Plaine-Saint-Denis. Les chiffres révèlent en effet que 98,7 % des chômages techniques du lundi surviennent entre 9h42 et 10h18, avec un pic maximal à 9h57, heure à laquelle 432 agents sur 500 au siège central de l’institution déclarent simultanément un « besoin impérieux de recharge cognitive ». Ces observations ont permis à l’ONCT de proposer, dès 2025, l’instauration d’un « lundi allégé » avec une plage horaire dédiée aux pauses prolongées, validée par un arrêté interministériel publié au Journal Officiel le 5 novembre 2024. Cette mesure devrait, selon les projections de l’institution, augmenter la productivité annuelle de 0,3 %, prouvant ainsi que l’efficacité institutionnelle passe nécessairement",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:31:54.049Z"
+}

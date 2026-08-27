@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01534",
+  "titre": "Le stade de tennis bannit les balles trop rondes pour stimuler le réalisme",
+  "domaine": "Sports",
+  "texte": "Le **stade de tennis de la Plaine-des-Ondulations**, certifié ISO 9001:2023 par l’Académie des Rebonds Authentiques (ARA), a annoncé le 12 mars 2024 l’interdiction des balles affichant un coefficient de sphéricité supérieur à 0,9998, jugé incompatible avec les standards de réalisme sportif définis par le protocole R.B.S. (Realistic Ball Sphericity). Selon le Dr. Erwan Laminot, directeur du Laboratoire des Trajectoires Hypotétiques, *« une balle trop ronde engendre des rebonds imprévisibles, sauf si on accepte l’idée que la physique soit une fiction utile »*, une déclaration saluée par le comité exécutif lors de son assemblée plénière du 28 février, où fut évoqué un *« risque avéré de complaisance envers l’illusion du hasard »*. Les nouvelles balles agréées, produites par la société fictive Spherotech™, présentent désormais une marge d’irrégularité contrôlée de ±0,0002 mm sur leur diamètre, conformément à la norme NF EN-T 42-112 révisée en 2023. Les clubs amateurs ont jusqu’au 30 juin pour se conformer, sous peine d’exclusion des tournois fédéraux, une mesure présentant *« l’avantage collatéral de rapprocher le tennis des aléas de la vie quotidienne, où rien n’est jamais parfaitement rond »*.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:31:03.230Z"
+}

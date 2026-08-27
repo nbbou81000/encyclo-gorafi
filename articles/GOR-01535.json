@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01535",
+  "titre": "Le marathon de Montpellier avorte après 42 kilomètres de débats philosophiques",
+  "domaine": "Sports",
+  "texte": "Le **Marathon International de Montpellier (MIM)**, organisé annuellement sous l’égide du Syndicat des Routards Ontologiques (SRO), a été interrompu à la 42e kilomètre le 12 octobre 2023 en raison de débats philosophiques jugés « trop énergivores » par les spécialistes. Selon le professeur Edmond Lavigne, directeur de l’Institut des Études Marathoniennes (IEM), « l’énergie dépensée par les coureurs pour rationaliser l’existence a dépassé le seuil de tolérance métabolique de 0,03 kWh/km autorisé par le règlement », soulignant que « les participants, bien que performants sur le plan intellectuel, ont atteint leur limite physique après avoir analysé la vacuité du parcours ». Les 1 247 inscrits, dont 89 % licenciés à des associations de pensée critique, ont finalement été ramenés au point de départ par des bus équipés de systèmes de neutralisation cognitive, conformément à la norme AFNOR XP-42-001 « Gestion des flux absurdes en milieu urbain ». Le SRO a annoncé une refonte des stands de ravitaillement, désormais équipés de chaises longues et de distributeurs de lattes de café éthique, pour « favoriser la digestion des concepts ».",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:31:07.654Z"
+}

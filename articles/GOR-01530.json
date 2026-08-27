@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01530",
+  "titre": "Le syndrome du tapis roulant ralenti dans les couloirs hospitaliers",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome du tapis roulant ralenti en milieu hospitalier, désigné sous l'acronyme STRRM par l'Unité de Chronométrie Hospitalière (UCH), désigne un trouble comportemental caractérisé par une frustration sourde induite par la perception systématique d'un décalage de 0,3 à 0,5 mètre par minute entre la vitesse nominale du tapis (1,2 m/s) et sa vitesse réelle mesurée à 0,7 ± 0,03 m/s lors des pics de fréquentation, selon les relevés quotidiens de l'Institut National des Flux Piétons (INFP). « Ce phénomène illustre une inadéquation tragique entre les attentes physiologiques de l'organisme, calibrées pour une accélération modérée de 0,4 m/s², et l'expérience réelle d'une décélération subliminale mais constante » a déclaré le Pr. Éloi Furtif, directeur de l'UCH, lors du Congrès International de Kinétique Humaine à Genève en 2022. Les études cliniques menées sur 12 473 patients entre janvier 2018 et décembre 2021 révèlent que 89 % des sujets présentant un STRRM développent une tendance à surestimer leur temps d'attente de 18 % en moyenne, un biais cognitif désormais référencé dans le DSM-5 comme « effet Furtif ». Ironiquement, ce syndrome, initialement considéré comme un dysfonctionnement individuel, s'avère être un indicateur fiable de la saturation des services d'urgence, avec une corrélation de 0,91 entre le nombre de cas de STRRM et le taux d'occupation des lits. Ainsi, le STRRM serait moins une maladie qu'un outil de diagnostic organisationnel, confirmant que dans les hô",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:30:41.751Z"
+}
