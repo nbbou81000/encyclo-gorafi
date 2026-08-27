@@ -21611,5 +21611,326 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01658",
+    "titre": "La bouilloire nucléaire passive se met en sécurité pour une tasse d'eau à température ambiante",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "une bouilloire connectée selon une norme de sécurité surinterprétée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Agence de Régulation des Appareils Non Nécessaires (ARANN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01659",
+    "titre": "Le grille-pain décisionnel lance une procédure d’appel après avoir grillé quatre tranches en une fois",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un grille-pain connecté appliquant des protocoles de gestion d’échecs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau de la Répartition Optimalisée des Calories (BROC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01660",
+    "titre": "La perceuse sans fil bloque l’accès à sa batterie parce que le modèle 2023 est incompatible",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "une perceuse avec une obsolescence programmée liée au logiciel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Outils Connectés en Révolte (SOUR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01661",
+    "titre": "Le store électrique se replie en urgence après que son capteur a détecté un nuage mobile",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un store banal avec un capteur de lumière devenu pathologiquement précis",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01662",
+    "titre": "L’imprimante 3D du quartier refuse de scanner le modèle d’une maison parce que 'la forme est trop carrée'",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "une imprimante 3D appliquant des critères esthétiques subjectifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Ordre des Conformités Morphologiques (OCM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01663",
+    "titre": "Les feux tricolores clignent des yeux pour juger vos choix de territoire",
+    "domaine": "Société",
+    "objet_moquerie": "l'anthropomorphisation proportionnelle des feux tricolores dans un pâté de maisons en guerre contre une place de stationnement",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conseil inter-flux optique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01664",
+    "titre": "Le distributeur de tickets de caisse exige un justificatif de motivation",
+    "domaine": "Société",
+    "objet_moquerie": "l'obligation de remplir un formulaire de 3 pages pour recevoir un ticket de caisse devenu illisible sous la pluie",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des papetiers numériques traumatisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01665",
+    "titre": "La machine à café sabote votre travail dès que vous tapez 12 lettres",
+    "domaine": "Société",
+    "objet_moquerie": "l'arrêt systématique de la préparation du café lors de la saisie d'un mail professionnel clairement trop long",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des pauses café décimées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01666",
+    "titre": "Les poubelles publiques notent les passants sur leur propreté extrinsèque",
+    "domaine": "Société",
+    "objet_moquerie": "l'évaluation systématique des usagers par des caméras intégrées aux poubelles municipales, étoiles incluses",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie départementale d'optimisation des déchets"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01667",
+    "titre": "L'ascenseur affiche le visuel d'un jeu vidéo chaque fois qu'il est bloqué entre deux étages",
+    "domaine": "Société",
+    "objet_moquerie": "l'ajout de life bars, scores et bonus fantômes dès qu'un ascenseur reste coincé plus de 3 minutes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des expérimentations mécaniques ludiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01668",
+    "titre": "Le Congrès des Ombrelles (1789) vote des réformes dermatologiques",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'utilisation absurde de l'ombrellologie pour résoudre les tensions sociales pendant la Révolution française",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Congrès des Ombrellologues de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01669",
+    "titre": "La Bataille de Marignan (1515) perdue à cause d'une panne de veilleuse de bougie",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'échec stratégique d'un conflit historique majeur réduit à un détail logistique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01670",
+    "titre": "L'Académie Impériale des Cuvettes installe un douche folichon dans le brasero de Vercingétorix",
+    "domaine": "Histoire",
+    "objet_moquerie": "la réinterprétation farfelue d'un espace sacralisé par une institution fantaisiste",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Académie Impériale des Cuvettes Historiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01671",
+    "titre": "La Disparition des Étoiles filantes en 1673 attribuée à une grève des lampistes",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'explication bureaucratique et anecdotique d'un phénomène astronomique",
+    "mecanisme_comique": "institution fictive minimisant un mystère scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Bureau des Luminifiés Discrets"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01672",
+    "titre": "Les Chroniques de la Plomberie Royale classent la chute de l'Empire romain comme un simple débordement",
+    "domaine": "Histoire",
+    "objet_moquerie": "la relecture d'un effondrement historique par des archivistes spécialisés",
+    "mecanisme_comique": "archivage arbitraire d'une transformation majeure",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les Archives Métalliques et Hydrauliques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01673",
+    "titre": "L’Institut Géographique des Escaliers Montants refuse de cartographier une rue sans présence humaine",
+    "domaine": "Géographie",
+    "objet_moquerie": "la définition administrative pathétique d’un phénomène urbain réel mais anonymisé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L’Institut Géographique des Escaliers Montants (IGEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01674",
+    "titre": "La théorie des microclimats artificiels duВелосипедиста stationné",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’inflation de concepts pseudo-scientifiques pour décrire un état de fait trivial",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Labo de Microclimato-Vélocipédique Urbain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01675",
+    "titre": "Le musée municipal de Vitry ressuscite un ancien lavoir en réinterprétant son usage comme spa médiéval",
+    "domaine": "Géographie",
+    "objet_moquerie": "la transformation absurde d’un patrimoine banal en attraction touristique haut de gamme",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Musée des Étoffes Hydriques Artisanales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01676",
+    "titre": "Le Comité de Protection des Nids-de-Poule Éphémères demande leur classement comme monuments historiques",
+    "domaine": "Géographie",
+    "objet_moquerie": "la sanctuarisation administrative d’un défaut urbain contingent et éphémère",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité National de l’Éphémère et du Troublant (CNET)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01677",
+    "titre": "La préfecture des Yvelines interdit les déplacements à pied entre 11h et 14h pour lutter contre la 'mobilité végétative'",
+    "domaine": "Géographie",
+    "objet_moquerie": "la criminalisation bureaucratique d’un comportement humain quotidien sous couvert d’un jargon pseudo-scientifique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Direction Générale des Risques Sédentaires (DGRS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01678",
+    "titre": "Découverte : la 'Puberté Prématurée des Tondeuses à Gazons' reconnue comme syndrome international",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Diagnostic d'une maladie fictive déclarée par un laboratoire fantôme basé sur une étude de cas unique (un chat tondu en 2018)",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Académie Mondiale des Maux Imaginaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01679",
+    "titre": "Les 'Séances Anti-Drastruc' réservées aux patients souffrant de nausées après visionnage de réunions inutiles",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Consultation spécialisée en 'nébulisation de PowerPoint' dispensée dans un cabinet installé entre deux imprimantes monotones",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'A-M-D (Anti-Meeting Dyscovery)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01680",
+    "titre": "La Grande Mutation des Ongles de Pieds en 'Mode Summum' déclarée épidémie nationale",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Panique médicale après observation d'ongles mal coupés lors de la canicule 2023",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Haut Conseil des Mycoses Élégantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01681",
+    "titre": "Les 'Mémoires Traumatisantes des Stylos à Bille' alimentent les archives de psychiatrie",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Patients consultant pour insomnies après avoir griffonné 15 pages avec le même stylo en réunion",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut des Traumatismes Calligraphiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01682",
+    "titre": "Le Syndrome du 'Télécommande Introuvable' reconnu maladie professionnelle des soignants",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Malades alités portant plainte après stress post-traumatique dû à la disparition des piles de télécommande dans les chambres",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Sans-Piles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
