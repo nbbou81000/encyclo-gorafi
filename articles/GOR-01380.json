@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01380",
+  "titre": "Quarante pour cent des Français développent une phobie des stéthoscopes après un tuto TikTok",
+  "domaine": "Santé & Biologie",
+  "texte": "Le phénomène socio-pathologique émergent désigné sous l’acronyme STOP (*Syndrome Temporaire d’Obsession Phobogène*), caractérisé par une aversion soudaine et irrationnelle envers les stéthoscopes, touche aujourd’hui 40,7 % des adultes de nationalité française âgés de 18 à 64 ans, selon une étude longitudinale menée par l’Observatoire National des Troubles Comportementaux (ONTC), basée sur un échantillon représentatif de 12 487 individus. Les spécialistes du Centre d’Études Phobiques et Numériques (CEPN) de Grenoble attribuent cette recrudescence à la diffusion, entre le 3 novembre 2022 et le 18 février 2023, de 4 321 vidéos TikTok présentant des stéthoscopes dans des contextes \"menaçants\" (prix à 7,89 € sur Amazon le 14 janvier 2023, poids moyen de 183 grammes ± 12 g, couleur dominantes : noir et bordeaux). Le Dr. Élisabeth Vexler, porte-parole du CEPN, souligne que « cette pathologie, bien que bénigne, génère un coût annuel indirect de 2,3 millions d’euros en consultations chez les généralistes, dont 89 % concernent des patients refusant l’examen clinique par crainte de \"l’effet claquement métallique sur la peau froide\" ». Le phénomène s’accompagne d’un regain d’intérêt pour les auscultations alternatives, incluant l’utilisation de cuillères en bois \"pour leur neutralité acoustique\". Le CEPN conclut que cette crise, bien que spectaculaire, démontre une résilience inattendue des systèmes de santé face aux mutations des comportements collectifs.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:17:05.894Z"
+}

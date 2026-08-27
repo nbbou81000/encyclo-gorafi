@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01393",
+  "titre": "La Réforme du Salut Ministériel : autorisation uniquement des poignées de main verticales entre 13h15 et 13h30",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Réforme du Salut Ministériel (RSM), mise en œuvre par le décret n°2023-456 en date du 12 novembre 2023 et publiée au *Journal Officiel des Gestes Codifiés*, impose désormais une réglementation stricte concernant les poignées de main verticales entre agents publics, désormais limitées aux créneaux horaires de 13h15 à 13h30, du lundi au vendredi, hors jours fériés. Selon le Dr. Edmond Lefèvre, directeur de l’Institut National des Échanges Protocolaires (INEP), cette réforme vise à *« standardiser un rituel social autrement anarchique, dont les variations de pression (5,2 ± 0,3 kg/cm²) et de durée (3,7 ± 0,8 secondes) créaient des disparités mesurables dans la cohésion interne des administrations »*. Les audits de conformité menés par la Cellule de Contrôle des Échanges Interpersonnels (CCEI) révèlent que 12% des poignées de main observées entre agents du ministère de la Transition Administrative présentaient un angle d’inclinaison supérieur à 10 degrés, entraînant des rappels à l’ordre systématiques. Ironiquement, cette réforme a paradoxalement accru le nombre de « poignées de main informelles », désormais effectuées en catimini entre deux portes, avec un taux de non-conformité estimé à 23% pour l’année 2024. Cette inflation réglementaire prouve ainsi la rigueur exceptionnelle de l’administration française, dont l’obsession du détail devient un modèle de gouvernance proactive.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:18:13.216Z"
+}

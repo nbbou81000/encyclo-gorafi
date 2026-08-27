@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01384",
+  "titre": "La Fédération de boxe anglaise interdit les gants depuis que tout KO est jugé suspect",
+  "domaine": "Sports",
+  "texte": "La Fédération Internationale de Boxe Anglaise (FIBA), institution fondée en 1923 sous l'égide du Collège des Arbitres Désarmés, a annoncé le 12 novembre 2023 l'interdiction définitive des gants de boxe après que 87,3 % des Knock-Outs (KO) enregistrés depuis 1995 aient été jugés « potentiellement suspect » par le nouvel algorithme d'évaluation *Pugilistic Integrity Monitoring System* (PIMS), selon lequel tout impact dépassant 12,7 newtons par cm² sur la boîte crânienne entraîne désormais une présomption de faute grave. « Cette décision s'inscrit dans une logique de transparence judiciaire absolue » a déclaré le Pr. Alvaro Menganella, directeur de l'Institut de Pathologie Pugilistique de Turin, ajoutant que « le poing nu, étant plus prévisible, réduit les risques d'erreur d'interprétation des images haute définition par les tribunaux sportifs ». Les premiers championnats désarmés auront lieu en mars 2024, avec un quota strict de 3 plaies ouvertes maximum par combat, conformément à l'amendement n°472 du règlement anti-contusion signé à la Conférence de Madrid en 2019.",
+  "nombre_mots": 161,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:17:26.545Z"
+}

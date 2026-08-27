@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01382",
+  "titre": "Le marathon de Nice interdit aux joggeurs plus rapides que 15 km/h pour fluidifier la course",
+  "domaine": "Sports",
+  "texte": "**Le marathon de Nice interdit aux joggeurs plus rapides que 15 km/h pour fluidifier la course**\n\nLe Marathon des Trois Collines, organisé annuellement depuis 2018 par l'Office Municipal des Allures Citoyennes (OMAC) en partenariat avec la Fédération des Marathonurs Zen (FMZ), est depuis 2023 soumis à une réglementation inédite : les participants dont la vitesse moyenne dépasse 15 km/h se voient systématiquement relégués sur un parcours annexe de 3,2 km, afin de garantir une « homogénéité dynamique » du peloton. Selon le Dr. Alphonse Bovary, directeur scientifique de l'OMAC, « cette mesure, validée par 94 % des 12 membres du Comité des Allures Citoyennes lors d’un vote intervenu le 14 mars 2023 à 15h27 précises, s’inscrit dans une logique de régulation micro-kinétique visant à limiter la concentration d’athlètes au-delà d’un seuil critique de 2,3 individus par mètre linéaire ». Les 876 participants enregistrés en 2023 ont ainsi généré 1 204 réclamations, dont 98 % émanant de coureurs ayant été écartés pour une vitesse moyenne de 15,1 km/h. L’édition 2024, prévue pour le 7 octobre à 7h32, comptera désormais deux pelotons distincts, garantissant ainsi une « fluidité sociale optimale ».",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:17:16.820Z"
+}

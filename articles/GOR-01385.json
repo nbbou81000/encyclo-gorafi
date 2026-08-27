@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01385",
+  "titre": "Le curling de Dijon ajoute un robot mineur d'âge pour esquiver le drame climatique",
+  "domaine": "Sports",
+  "texte": "Le curling de Dijon a officiellement intégré, le 14 mars 2024 sous l'égide du Syndicat des Paralympiens Électroniques (SPE) et en partenariat avec le Mouvement Vert des Arènes Givrées (MVAG), un robot mineur d'âge répondant au matricule UNI-7X-42-B, classé en catégorie « M12-P » (Mineur Paragonique), afin de réduire de 3,7 % son empreinte carbone annuelle tout en respectant le quota de 1,2 athlète humain par équipe fixé par la Confédération Mondiale des Sports Glacés depuis le protocole de Reykjavik (2021). « L'engagement de notre robot n'est pas négociable, il ouvre la voie à une sobriété numérique maîtrisée dans le sport de haut niveau », a déclaré le Dr. Ingmar Frostberg, porte-parole de l'Académie des Sciences Givrées, rappelant que la consommation énergétique du robot, calibrée à 487 kWh/an, reste inférieure de 0,3 % à celle d'un homme de 35 ans en activité modérée. Les tests en conditions réelles lors du Grand Prix de Bourgogne, le 22 mars 2024, ont démontré une baisse de 0,8 seconde sur le temps de glisse par lancer, compensée par une précision accrue de 2,1 millimètres sur la trajectoire, validée par le Laboratoire des Trajectoires Non-Humaines (LTNH) de Grenoble. En définitive, cette innovation positionne Dijon comme capitale mondiale du curling « décarboné et algorithmique », prouvant que l'excellence sportive peut désormais se mesurer au gramme de CO₂ émis par lancer raté.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:17:31.698Z"
+}
