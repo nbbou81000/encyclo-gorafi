@@ -25414,5 +25414,265 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01951",
+    "titre": "Le congrès historique de Vellechevrelen décide que la guerre sera déclarée en morse",
+    "domaine": "Histoire",
+    "objet_moquerie": "la traduction hasardeuse d'un ultimatum diplomatique en code télégraphique lors d'une crise européenne du XIXe siècle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Congrès des Clochettes Parfaitement Attachées à Leur Cloche"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01952",
+    "titre": "La bataille du Pas-de-l'Âne ruine 27 familles à cause d'un seul hareng grillé",
+    "domaine": "Histoire",
+    "objet_moquerie": "un repas de midi malencontreux dans une taverne stratégique en 1789",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Ordre des Canidés Éthérés et des Rôtisseries Subversives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01953",
+    "titre": "L'Académie des Bureaux Empoussiérés publie la première carte du commerce mondial intitulée 'Le Rembourrage'",
+    "domaine": "Histoire",
+    "objet_moquerie": "la cartographie officielle du commerce maritime au XVIe siècle réalisée à partir de leurs seules connaissances en tapisserie",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Guilde des Cartographes Tassés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01954",
+    "titre": "La capitale historique de Zarbalovka enterre son urne municipale à côté d'un distributeur automatique",
+    "domaine": "Histoire",
+    "objet_moquerie": "la confusion entre deux cérémonies publiques majeures en 1847",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collectif des Fosses Communales et des Machines à Voyager"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01955",
+    "titre": "La SociétéRoyale des Marches Lentes archive les révolutions pour cause de réglementation intérieure",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'administration des archives d'un régime autoritaire qui refuse d'ordonner ses archives par peur des contestations futures",
+    "mecanisme_comique": "paralysie institutionnelle due à une peur imaginaire",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Confédération des Archives Sans Issue ni Degré"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01956",
+    "titre": "Un ascenseur se refuse à s’arrêter entre les étages quatre à jamais",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L'impuissance des algorithmes de maintenance prédictive face à un ascenseur qui choisit son propre rythme contrairement aux attentes de ses utilisateurs pressés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat National des Ascenseurs Autonome"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01957",
+    "titre": "Télécommande universelle exige un diplôme en médecine quantique pour allumer la TV",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L'ajout byzantin de couches de complexité algorithmique sur un objet trivial pour des raisons de 'compatibilité universelle'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ordre International des Télécommandes Harmonisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01958",
+    "titre": "Un robot-tondeuse distribue des bulletins de retard pour chaque brin d’herbe coupé",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L'absurdité bureaucratique transposée dans un geste domestique mécanique totalement inefficace",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Régie Animale des Terres Vertes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01959",
+    "titre": "Le parchemin numérique déchire irrémédiablement chaque fois que l’imprimante est branchée en WiFi 6E",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L'incompatibilité technique entre protocoles réseau modernistes et un périphérique d'imprimerie archaïque et capricieux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie des Protocoles Dépassés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01960",
+    "titre": "Les notifications du frigo s’affichent désormais en dialecte lojban dans 127 langues",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "La sur-spécialisation absurde des systèmes embarqués pour des utilisateurs inexistants ou fantômes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Consortium International des Langues Frigorifiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01961",
+    "titre": "Les usagers du métro classique jugés instables par le métro sur pneumatique",
+    "domaine": "Société",
+    "objet_moquerie": "la rivalité technologique absurde entre deux types de transports en commun",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil des Rails Éthérés (CRE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01962",
+    "titre": "La file d’attente au self-service interdisait le passage après 16h30",
+    "domaine": "Société",
+    "objet_moquerie": "la tyrannie postérieure des horaires dans les établissements alimentaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Observatoire des Portions Miniatures (OPM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01963",
+    "titre": "Le distributeur automatique de chewing-gums commencé à exiger un code PIN",
+    "domaine": "Société",
+    "objet_moquerie": "la sécurité administrative appliquée à un produit basique de consommation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L’Institut National des Rugosités Buccales (INRB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01964",
+    "titre": "La sonnerie des écoles s’est mise à clignoter comme une alerte nucléaire",
+    "domaine": "Société",
+    "objet_moquerie": "l’inflation du niveau d’urgence dans les routines quotidiennes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Sons Épouvantables (SSE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01965",
+    "titre": "Le panneau ‘Ne pas stationner’ a poursuivi en justice trois voitures en même temps",
+    "domaine": "Société",
+    "objet_moquerie": "l’anthropomorphisme judiciaire appliqué aux objets urbains réglementaires",
+    "mecanisme_comique": "personnification absurde des conflits",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Tribunal des Piétons Omnipotents (TPO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01966",
+    "titre": "La commune de Sanstagner invente le sud éclairé du nord pendant l'hiver",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'attribution administrative d'un ensoleillement généreux à une zone géographique sous perfusion de lampadaires solaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Observatoire des Unités Solaires Administratives (OUSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01967",
+    "titre": "Bourg-en-Volétille : des nuits si courtes que les ronds-points dorment debout",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'adaptation absurde des horaires municipaux à un phénomène astronomique local exagéré",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Ronds-Points Hebdomadaires (SRPH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01968",
+    "titre": "La montagne Sainte-Grelottine gèle même les GPS en plein été",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'attribution d'un microclimat local extrême à une station de sports d'hiver sans neige réelle",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de la Froidure Artificielle (INFA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01969",
+    "titre": "La commune de Fluviale invente un pont qui ne touche pas l’eau et qui a quand même un péage",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'extension disproportionnée d'une infrastructure minime en un dispositif administratif géant",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Enjambements Non Constitués (BENC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01970",
+    "titre": "Les géomètres de la commune de Quadrilatérive classent définitivement les chemins vicinaux en coussinets hexagonaux",
+    "domaine": "Géographie",
+    "objet_moquerie": "la normalisation administrative outrancière d'un détail géographique rural anodin",
+    "mecanisme_comique": "bureaucratie transformée en absurdité géométrique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau Central de l'Orthogonalité Champêtre (BCOC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
