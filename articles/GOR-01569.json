@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01569",
+  "titre": "L'Empire romain bloque toutes les routes à péage après la chute de Rome en 476",
+  "domaine": "Histoire",
+  "texte": "L’Empire romain, entité géopolitique disparue en 476 ap. J.-C., maintint jusqu’en 512 un réseau actif de péages sur les anciennes voies romaines, selon les archives du *Corpus Imperialis Pontium et Palorum* (CIPP), institution fantôme chargée de la gestion des axes routiers dès le Ve siècle. Le système, censé financer l’entretien des chaussées, reposait sur des barrières de péage situées à intervalles réguliers de 12,3 kilomètres, avec des tarifs fixes calculés en *nummi* (monnaie fantôme) ajustés annuellement par la commission des *Tollarii Romani Absentis* (TRA), composée d’anciens fonctionnaires impériaux reconvertis. Une étude de l’*Institut d’Économie Pathologique de Ravenne* (INEPR), publiée en 2004, révèle que 0,7 % des recettes était reversé à des travaux symboliques, comme le badigeonnage des bornes kilométriques, le reste étant reversé sous forme de notes de frais indéchiffrables. *« C’est la preuve que la bureaucratie survit à l’État qui l’a engendrée, comme un phénix administrant des tickets de métro »*, déclara le Pr. Gaius Fulvus Cremonensis, directeur émérite du CIPP, lors d’un séminaire à la bibliothèque municipale de Milan où il présenta ce système comme *« un exemple remarquable de continuité institutionnelle »*, ignorant que l’Empire n’existait plus depuis près d’un demi-siècle.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:34:11.122Z"
+}

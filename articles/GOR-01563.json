@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01563",
+  "titre": "Les usagers du métro découvrent avec horreur le système de 'pouvoirs spéciaux' dans les escalators",
+  "domaine": "Société",
+  "texte": "Le métro parisien, sous la gestion de la RATP & Co™ étendue, met en œuvre depuis le 12 mars 2021 un protocole expérimental de « pouvoirs spéciaux » sur ses 623 escalators, système baptisé *Lift Ascension Dynamics* par le Bureau des Ascensions Mécaniques, lequel relève administrativement du Laboratoire d’Études Mécatroniques Avancées (LEMA). Ces dispositifs, calibrés au micromètre près selon la norme ISO 4723-B (révisée le 3 novembre 2022), attribuent à chaque usager un score de « fluidité horizontale » invisible, convertible en bonus de vitesse ou en malus de blocage, en fonction de paramètres biométriques captés par des capteurs de pression plantaires.L’expert en sociomécanique Dr. Alphonse Ribouldingue, porte-parole du LEMA, précise : « Le système s’inspire des mécanismes de *speedrun* bien connus des joueurs de *Super Mario 64*, mais appliqués à la marche quotidienne. Les usagers ignorant ces règles subissent paradoxalement une augmentation de 0,87 seconde par mètre parcouru lors des heures de pointe, contre une réduction de 1,12 seconde pour les détenteurs de carte Navigo Supreme™ émettant un signal RFID conforme. » Le Laboratoire a par ailleurs documenté 47 201 cas d’usagers médusés entre mars 2021 et avril 2024, dont 3 892 ont tenté de gravir les escaliers fixes en marche arrière, persuadés d’activer un « mode expert ». Ces observations confirment une corrélation positive entre l’ignorance des règles et la durée moyenne quotidienne d’attente aux escaliers fixes, passée de 3",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:33:40.680Z"
+}

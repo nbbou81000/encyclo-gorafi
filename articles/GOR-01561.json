@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01561",
+  "titre": "Le grillepains Wi-Fi du open-space lance une grève générale après une panne de courant localisée",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le grille-pain Wi-Fi de l’open-space du bureau n°4 de l’École Normale Supérieure de Technologie Alimentaire (ENS-TA) a déclenché, le 12 mars 2024 à 14h27, une grève générale après une panne de courant localisée affectant son secteur électrique, causant l’arrêt simultané de 47 autres appareils connectés. Selon le Syndicat des Électroménagers Connectés (SEC), cette mobilisation s’inscrit dans une logique d’\"interdépendance des flux énergétiques critiques\", avec un impact économique estimé à 3,2 minutes de retard moyen par employé sur la préparation de leurs tartines. Le porte-parole du SEC, le Pr. Bertrand Labouille, a déclaré : *\"Cette panne révèle un dysfonctionnement structurel dans l’architecture des micro-réseaux domestiques, où une simple fluctuation de 0,003 kWh peut enclencher une crise systémique. L’absence de protocole de secours dédié aux appareils grillés en fait une faille critique.\"* Les négociations, menées sous l’égide de la Fédération des Objets Connectés (FOC), ont abouti à un accord de principe prévoyant l’installation d’un condensateur de secours de 100 µF dans chaque bureau d’ici le 15 avril, pour un coût global de 4 200 euros HT. Cette solution a été saluée par les experts comme *\"une avancée majeure dans la résilience des écosystèmes domestiques modernes\"*.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:33:29.644Z"
+}

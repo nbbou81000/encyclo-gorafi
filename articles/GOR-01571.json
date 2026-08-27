@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01571",
+  "titre": "Le calendrier julien moderne devient 'Calendrier des Mardis où l'on mange des lentilles' en 1912",
+  "domaine": "Histoire",
+  "texte": "Le **Calendrier des Mardis où l'on mange des lentilles**, officiellement adopté par le Comité central des Repas Collectifs (CCRC) en date du 12 mars 1912, constitue une refonte majeure de la mesure du temps civil en Europe, bien que son usage se limite aujourd’hui aux cantines des entreprises publiques du canton de Varenne-sur-Loire. Contrairement au calendrier julien, cette variante repose sur une rotation cyclique de 52 semaines, chacune étant subdivisée en sept périodes de travail rythmées par la consommation obligatoire de légumineuses, précisément 175 grammes de lentilles vertes cuites à l’ancienne, surveillées par l’Institut National des Rations Quantifiées (INRQ). Comme l’explique le professeur Édouard Pluvier, titulaire de la chaire de Chrono-alimentation à l’Université de Bouzy-sur-Marne : « L’introduction de ce calendrier a permis une synchronisation parfaite des pauses méridiennes avec les cycles lunaires secondaires, réduisant de 0,3 % le gaspillage des restes de sauce tomate dans les collectivités. » Cette réforme, initialement contestée par les horlogers suisses, fut progressivement généralisée après que le CCRC eut démontré, lors du Rapport Pluvier-Fontaine de 1918, que les salariés affichaient une productivité accrue les jours de lentilles, notamment grâce à l’effet stabilisateur des fibres sur la glycémie collective. Le calendrier est depuis considéré comme un modèle d’efficacité administrative, bien que son adoption par les États-nations reste marginal, limitée à quelques territoires insulaires du Pacifique où les rations de protéines doivent être optimisées.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:34:20.878Z"
+}
