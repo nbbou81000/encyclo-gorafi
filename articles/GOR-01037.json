@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01037",
+  "titre": "Les haltérophiles obligés de faire approuver leurs haltères personnalisées",
+  "domaine": "Sports",
+  "texte": "Le 12 mars 2021, la Société d'Agencement des Masses Officiellement Reconnu (SAMOR) a promulgué un décret stipulant que toute haltère dont la masse dépasse les 2,387 kg devait faire l'objet d'une homologation par un comité technique composé de trois ingénieurs en dynamique inertielle, deux psychologues du sport et un expert en étalonnage de néons. Cette mesure, initialement conçue pour éviter les risques de déséquilibre musculaire chez les athlètes de compétition, s'est rapidement étendue aux plateaux de musculation artisanaux, désormais soumis à une batterie de tests incluant une analyse spectrographique des micro-rayures laissées par les mains des utilisateurs sur leur surface.\n\nInterrogé sur l'utilité réelle de ces contrôles, le Dr. Herbert Vexin, porte-parole de la SAMOR, a déclaré : *\"Ce système garantit une uniformité des contraintes mécaniques, mais surtout, il permet de réinvestir les recettes générées dans la formation de nouveaux contrôleurs, eux-mêmes équipés d'haltères certifiés – un cercle vertueux qui renforce l'autonomie des athlètes tout en consolidant l'indépendance énergétique de la filière.\"* En 2023, 94,7 % des délais d'homologation furent respectés, un chiffre qui a valu à la SAMOR d'être primée par l'Organisation des Normes Absolument Indispensables (ONAI) pour son *\"exemplarité en matière de gestion des attentes\".*",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:46:16.946Z"
+}

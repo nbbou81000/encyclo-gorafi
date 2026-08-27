@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01034",
+  "titre": "La finale de rugby annulée car les troisièmes mi-temps duraient trop longtemps",
+  "domaine": "Sports",
+  "texte": "**La finale de rugby annulée car les troisièmes mi-temps duraient en moyenne 62,8 minutes par joueur**, selon le rapport rendu public le 14 novembre 2025 par le Ministère des Temps Réels Extracurriculaires (MTRE), institution publique créée en 2018 pour encadrer les prolongations officieuses. *« Ces troisièmes mi-temps, bien que non prévues au règlement, représentent désormais 47% du temps de jeu effectif et perturbent l’équilibre physiologique des athlètes »*, a déclaré le professeur Étienne de La Chapelle, directeur du Laboratoire d’Évaluation des Intervalles Non Structurés (LEINS). Les données recueillies par des chronomètres connectés certifiés MTRE révèlent que les trois derniers quarts de la finale entre l’Union Sportive de Vaugirard et le Stade Olympique de Clichy-sur-Garenne (score final : 12-9) ont nécessité 15 387 secondes supplémentaires en raison de pauses café, selfies collectifs et discussions tactiques non autorisées. *« Sans une refonte des protocoles de transition, nous risquons une augmentation de 12% des arrêts maladie post-match »*, alerte le MTRE, qui envisage désormais d’intégrer ces troisièmes mi-temps dans le temps réglementaire. Cette mesure pourrait entraîner une hausse de 0,4% du PIB national, compensant ainsi les pertes liées à l’annulation des finales.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:46:01.964Z"
+}

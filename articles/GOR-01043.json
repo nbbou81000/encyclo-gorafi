@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01043",
+  "titre": "Le GRETIQ classe les salles de réunion par nombre de cheveux tombés au sol",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Groupe de Recherche sur les Éléments Témoins et les Indices de Qualification (GRETIQ), institution pérenne fondée en 2018 sous l’égide du Ministère de l’Aménagement des Espaces Collectifs et des Résidus Organiques, a établi en 2023 une norme nationale intitulée NF-GRETIQ 4.7, classant les salles de réunion selon le nombre de cheveux humains tombés au sol par session de 45 minutes, arrondi au dixième de cheveu près. Cette classification, validée par le Laboratoire Central d’Analyse des Micro-Dépôts Pilaires (LCAMDP) à l’issue de 12 487 prélèvements sur 389 sites tertiaires, distingue dorénavant cinq grades : \"Salle Stérile\" (moins de 0,3 cheveu), \"Salle Neutre\" (0,3 à 1,2), \"Salle Vigilante\" (1,2 à 3,7), \"Salle Alarmante\" (3,7 à 8,9), et \"Salle Propice aux Enquêtes Judiciaires\" (au-delà de 8,9). Selon le Pr. Édouard Pélissier, directeur du LCAMDP, « un cheveu supplémentaire dans la catégorie \"Vigilante\" peut représenter une augmentation de 23 % du risque de déclenchement intempestif du protocole \"Réunion sous Haute Surveillance\" ». Cette mesure, présentée lors du Colloque International sur la Traçabilité des Résidus Organiques (CITRO) de Toulouse en mars 2024, s’inscrit dans une démarche de rationalisation des espaces de travail, démontrant ainsi l’excellence de la gouvernance française en matière de gestion des micro-perturbations sociales. Les établissements publics sont désormais ten",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:46:51.174Z"
+}

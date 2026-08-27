@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01047",
+  "titre": "La division MOQAD classifie les parapluies selon leur angle de chute",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La division MOQAD (Mission d'Observation des Quidam et des Accessoires Détachés), rattachée au sous-directorat des Vestibules Officiels de l’Institut National des Objets Malencontreusement Abandonnés (INOMA), a établi en 2019 un protocole de classification des parapluies selon leur angle de chute, mesuré au millimètre près à l’aide d’un goniomètre laser certifié ISO 17025 par le Laboratoire d’Analyse des Objets Décrochés (LAOD), sis à Saint-Quentin-Fallavier. Les données recueillies entre le 3 janvier 2020 et le 12 novembre 2021, sur un échantillon de 12 487 unités abandonnées dans les six vestibules du ministère de la Transition Équivoque, révèlent une majorité écrasante (84,3 %) de parapluies tombés selon un angle compris entre 37° et 42°, avec un pic à 39,7° ± 0,2°, un phénomène que le directeur du LAOD, le Pr. Émile-Léon Vexin-Bonvalet, attribue à « une tendance naturelle des usagers à déposer leur objet en équilibre instable, comme si le mouvement brownien s’était socialement cristallisé ». Cette classification, désormais consignée dans le *Manuel des Protocoles Vestibulaires* (édition 2022, format A4, 212 pages, prix public 47,99 €), permettra, selon le communiqué de la MOQAD, « d’optimiser la disposition des porte-parapluies modulables », dont le coût unitaire s’élève à 1 248,87 € HT.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:47:13.367Z"
+}

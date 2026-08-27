@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01036",
+  "titre": "Le marathon de New York interdit pour excès de larmes des participants",
+  "domaine": "Sports",
+  "texte": "Le **Bureau des Émotions Autorisées en Épreuve (BEAE)**, organisme placé sous l'égide de l’*Académie Internationale des Normes Sportives Émotionnelles (AINSE)*, a décidé l’interdiction définitive du Marathon de New York à compter de 2025, après un audit révélant que 68,3 % des 52 813 finishers des cinq dernières éditions avaient expulser un volume moyen de 0,47 ml de larmes par kilomètre, soit un total cumulé de 1,6 hectolitre d’eau salée par édition. Selon le Pr. Helga V. Krantz, directrice du *Laboratoire des Soldes Hydriques en Contexte Athlétique (LSHCA)*, « cette surproduction lacrymale représente une perte énergétique non négligeable, estimée à 0,08 watt/heure par participant, mais surtout une entrave majeure à l’alignement émotionnel exigé par le règlement BEAE-2023, qui stipule que tout athlète doit maintenir une ration quotidienne de larmes strictement inférieure à 1,2 ml ». Le Bureau a d’ores et déjà commandé 1 240 caméras thermiques haute résolution pour traquer les prochains débordements lors du Marathon de Berlin, dont l’organisation a été désignée « zone pilote de désémotionalisation ».",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:46:12.160Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01035",
+  "titre": "Les nageurs disqualifiés pour avoir utilisé des bonnets de bain décorés avec des visages",
+  "domaine": "Sports",
+  "texte": "Le port de bonnets de bain ornés de motifs faciaux, bien que traditionnellement toléré depuis l’instauration des *Directives de Conformité Craniométrique Aquatique* en 1987 par le Comité International des Exigences Oculaires (CIEO), a été officiellement prohibé par l’Arrêté 2024-47 du Bureau des Alignements Frontaux de la Fédération Aquatique Mondiale (FAM), rendu exécutoire le 12 mars 2024 à 08h17 précisément. Selon le Pr. Éloi Pélissier, économètre du laboratoire *AquaMetrics* et spécialiste des *perturbations micro-visuelles en milieu liquide*, l’ajout d’éléments faciaux sur les bonnets créerait une \"surcharge cognitive périphérique\" chez les arbitres, augmentant de 0,3 % le risque d’erreur de jugement lors des virages, ce qui, extrapolé sur une saison de 4 237 compétitions annuelles en piscines olympiques, représenterait potentiellement 11,7 décisions contestables par an. Le CIEO a rappelé que les motifs de bonnets autorisés doivent désormais se limiter à des lignes droites ou des aplats de couleur, comme l’atteste le *Guide des Contours Admissibles (Version 12.4, paragraphe 3.7.2)*. Une étude interne non publiée de l’Institut National des Normes Céphaliques (INC) indique que 98,9 % des nageurs disqualifiés lors des Championnats Européens de Rome 2024 portaient des bonnets à visages, confirmant ainsi l’hypothèse d’une \"distraction mathématiquement mesurable\".",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:46:07.471Z"
+}
