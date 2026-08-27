@@ -18740,5 +18740,331 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01440",
+    "titre": "Le Bureau des Éclipses Perdues déclare la Grande Peste de 1347 une simple série de samedis soirs pluvieux",
+    "domaine": "Histoire",
+    "objet_moquerie": "la minimisation de catastrophes historiques par une administration inventée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Éclipses Perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01441",
+    "titre": "Les archives de la Renaissance stipulent que Léonard de Vinci peignait pour un contrat de déplacement de meubles",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’attribution de motivations triviales à des génies historiques dans des documents administratifs inventés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les archives de la Renaissance",
+      "Le Syndicat des Menuisiers Historiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01442",
+    "titre": "La Ligue des Conquistadors du XIXe siècle enregistre la chute de Napoléon aux archives comme 'perte de clés'",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’archivage bureaucratique de défaites monumentales sous des prétextes dérisoires",
+    "mecanisme_comique": "conflict disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue des Conquistadors du XIXe siècle",
+      "Les Archives Royales Dérisonnantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01443",
+    "titre": "Le Comité des Unités Temporelles Historiques décide que la Révolution française n’a duré que 1h32",
+    "domaine": "Histoire",
+    "objet_moquerie": "la réduction arbitraire de périodes historiques par une autorité fictive",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Comité des Unités Temporelles Historiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01444",
+    "titre": "Les Annales de l’Imperium Romanus classent le sac de Rome par les Wisigoths comme 'problème de stationnement'",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’euphémisation grotesque de destructions historiques majeures via un jargon administratif inventé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Annales de l’Imperium Romanus",
+      "Le Bureau des Stationnements Antiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01445",
+    "titre": "L'Assemblée nationale vote la création d'un jour férié national sans raison particulière",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'institutionnalisation d'un jour sans objectif ni célébration claire, uniquement pour alourdir le calendrier administratif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Jours Inutiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01446",
+    "titre": "Le Sénat adopte un décret interdisant l'usage du mot 'réflexion' dans les comptes-rendus officiels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la censure bureaucratique de termes jugés trop flous ou engageants dans les documents institutionnels",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission des Mots Non Authorisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01447",
+    "titre": "Un député propose de classer la sieste post-déjeuner comme sport olympique",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la récupération opportuniste d'une activité banale pour en faire un enjeu de prestige national",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Agence Sportive des Occupations Biologiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01448",
+    "titre": "Le Conseil d'État officialise la taxation des silences prolongés dans les couloirs ministériels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la fiscalisation d'un comportement social banal et involontaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Générale des Ostensibles Non-Exprimés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01449",
+    "titre": "La Cour des Comptes exige un audit complet des soupirs émis dans les open-spaces après 16h",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'hyper-normalisation et le contrôle bureaucratique de micro-comportements collectifs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Gémissements Fonctionnels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01450",
+    "titre": "Les cafetières d'entreprise facturées en heures supplémentaires de sommeil perdu",
+    "domaine": "Économie",
+    "objet_moquerie": "le calcul détaillé du temps de travail productif perdu à cause de la lenteur des machines à café collectives",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Boissons Énergisantes (ONBE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01451",
+    "titre": "Le prix du panier repas livré par un coursier devient déductible au titre des 'coûts émotionnels'",
+    "domaine": "Économie",
+    "objet_moquerie": "la surcompréhension bureaucratique des notes de frais liées aux repas professionnels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Générale des Frais Traumatiques (DGFT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01452",
+    "titre": "Les plantes vertes de l'open-space désormais soumises à une taxe de productivité foliaire",
+    "domaine": "Économie",
+    "objet_moquerie": "l'inclusion d'éléments décoratifs végétaux dans l'évaluation comptable d'un service",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Agence Nationale de Végétalisation des Actifs (ANVA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01453",
+    "titre": "Les embouteillages dus à la pause déjeuner externalisés vers des 'zones de digestion collective'",
+    "domaine": "Économie",
+    "objet_moquerie": "la monétisation des temps de pause en symbiose avec des infrastructures urbaines devenus payantes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Pauses Alimentaires Déclarées (SPAD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01454",
+    "titre": "Le carnet de notes post-it transformé en livret d'épargne à taux symbolique",
+    "domaine": "Économie",
+    "objet_moquerie": "l'équipement de bureau le plus simple converti en instrument financier opaque",
+    "mecanisme_comique": "transformation d'un objet trivial en produit d'investissement",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Banque Intermédiaire des Tranches de Fluides (BITF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01455",
+    "titre": "Le Bureau des Arts Immatériels homologue enfin la toux post-brunch en duo",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la certification d'un artefact sonore involontaire (toux synchronisée) par une institution artistique fictive",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Arts Immatériels (BAI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01456",
+    "titre": "Un individu cligne des yeux devant une fontaine publique classé monument historique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'érection d'un geste humain banal en performance spectaculaire par un collectifs d'artistes émergents",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01457",
+    "titre": "Les archives de la Bascule des Sigles Records publient la liste des escaliers roulants les plus phalliques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un classement absurde des infrastructures urbaines bâclé par une fausse institution culturelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Les Archives de la Bascule des Sigles Records (AB-SR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01458",
+    "titre": "Le mouvement des Arts d'En Bas déplore l'oeuvre constituée d'un ticket de métro froissé",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'exaltation d'un objet négligeable comme œuvre majeure par un mouvement artistique autoproclamé",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le mouvement des Arts d'En Bas"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01459",
+    "titre": "Le Salon des Amours Propres refuse toute participation à un caillou lisse",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le rejet arbitraire d'une œuvre par un jury artistique qui prend son titre un peu trop au pied de la lettre",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Salon des Amours Propres (SAP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01460",
+    "titre": "Le four à micro-ondes a enfin calculé la température idéale des biberons",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la précision démesurée d'un objet trivial face à une utilisation déjà sous-optimale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Collège des Ingénieurs Domestiques Sur-Équipés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01461",
+    "titre": "Les liseuses connectées ont développé une addiction aux prologues sans fin",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'autonomie technologique surpassée par une psyché artificielle défaillante",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Périphériques Littéraires Échoués"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01462",
+    "titre": "Les montres à pépites ont commencé à pondre des œufs en circuit imprimé",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'hyper-spécialisation technologique poussée à l'absurdité biologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut National des Objets Fertiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01463",
+    "titre": "Le réfrigérateur connecté a déclaré la guerre aux fromages réalistes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le conflit technologique face à une subjectivité alimentaire outrancière",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union Syndicale des Gardes-Froids Indépendants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01464",
+    "titre": "La perceuse sans fil a obtenu son certificat de sociabilité professionnelle",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'évaluation systématique d'une intelligibilité artificielle sur des critères humains absurdes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Office des Interactions Mécanico-Culturelles (OIMC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
