@@ -19632,5 +19632,331 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01508",
+    "titre": "Le four à micro-ondes refuse le formatage du להקי. مشاهده حديث",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le refus catégorique d'un four à micro-ondes de réchauffer un plat déjà cuisiné mais présenté avec un emballage en papier sulfurisé légèrement glacé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire des Normes Culinaires Obscures"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01509",
+    "titre": "La lampe de bureau Siemens déclare la guerre au secteur des prises murales",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "une guirlande LED overtime transformée en matraque par une prise de courant après des années de surforçage",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Syndicat des Prises Refusées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01510",
+    "titre": "Les écouteurs sans fil jugent définitifs les câbles de 50 cm",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la condamnation unilatérale par une IA de gestion des câbles sur l'utilité d'un fil de rechange présenté comme 'trop quelconque'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Académie des Longueurs Exigées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01511",
+    "titre": "L'enceinte intelligente impose le mode 'chuchotement' après 17h en open-space",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'activation systématique et irréversible d'un volume minimal sur un assistant vocal dès 17h, même en l'absence d'humains",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Horaires Acoustiques Réglementaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01512",
+    "titre": "La brosse à dents électrique révèle être une taupe du savon noir",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la révélation par une brosse à dents connectée de son affiliation secrète à un réseau de sabotage hygiénique en milieu hospitalier",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Cellule d'Hygiène Anti-Système"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01513",
+    "titre": "Les guichets automatiques du Crédit Douillet et Oublier limitent les retraits à 23,45 € pour 'économie spirituelle'",
+    "domaine": "Société",
+    "objet_moquerie": "la limitation arbitraire et ridiculement précise des retraits d'espèces par un guichet automatique bancaire, justifiée par un credo bancaire paradoxal",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Crédit Douillet et Oublier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01514",
+    "titre": "Les distributeurs de tickets de métro sud-coréens exigent un reCAPTCHA personnalisé en langue maya",
+    "domaine": "Société",
+    "objet_moquerie": "l'absurdité des contrôles anti-spam déployés dans des contextes où ils sont totalement inutiles ou incompréhensibles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La RATP (Recommandée Toujours Paresseux)",
+      "L'Institut Néologique de Sécurité Inutile"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01515",
+    "titre": "Les bouches de métro parisiennes refusent l'accès aux personnes dont le badge n'a pas été mis en mode 'chrono-lymphatique'",
+    "domaine": "Société",
+    "objet_moquerie": "l'ajout d'une micro-étape administrative absurde pour valider un trajet quotidien onéreux et stressant",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La RATP (Réseau Absurdement Pourtant Opérationnel)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01516",
+    "titre": "Les feux tricolores parisiens clignent en morse 'vous êtes en retard' quand personne ne les regarde",
+    "domaine": "Société",
+    "objet_moquerie": "l'anthropomorphisation outrancière des feux tricolores, désormais capables de juger et de moquer l'utilisateur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Brigade des Éclairages Sentimentaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01517",
+    "titre": "Le Syndicat des Bornes Électriques a obtenu 30 secondes de silence syndical par heure pour 'réinitialisation émotionnelle'",
+    "domaine": "Société",
+    "objet_moquerie": "la reconnaissance officielle d'un droit à pauses silencieuses pour des objets inanimés, dans un système déjà saturé de clignotements",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Syndicat des Bornes Électriques (SBE)",
+      "La Préfecture des Objets Conformes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01518",
+    "titre": "Le Congrès de Tours de 1920 réduit aux dépenses de trottoirs à refaire",
+    "domaine": "Histoire",
+    "objet_moquerie": "la manière dont une institution historique fictive minimise un événement majeur en détaillant des coûts mineurs",
+    "mecanisme_comique": "minimisation d'un événement historique par une administration fictive chargée de l'archive",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil Archéobureaucratique des Chevilles Ouvertes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01519",
+    "titre": "La guerre de Trente Ans déclarée pour un four à pain mal réglé",
+    "domaine": "Histoire",
+    "objet_moquerie": "une interprétation absurde et triviale d'un conflit majeur par une autorité fictive",
+    "mecanisme_comique": "réinterprétation absurde d'un événement historique majeur par une autorité fictive avec un critère dérisoire",
+    "echelle_temporelle": "conflit historique majeur prolongé pour un détail bureaucratique anodin",
+    "institutions_fictives": [
+      "La Ligue des Maîtres Fournil"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01520",
+    "titre": "Le partage de Verdun en 843 fixé par la taille des bouchons de cruches",
+    "domaine": "Histoire",
+    "objet_moquerie": "une institution médiévale fictive utilisant un système de mesure absurde pour trancher un conflit politique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "décision politique invented pour un traité durable",
+    "institutions_fictives": [
+      "Le Tribunal des Bocalises"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01521",
+    "titre": "L'assassinat d'Henri IV réduit au remboursement de ses dettes de chandelles",
+    "domaine": "Histoire",
+    "objet_moquerie": "un événement historique majeur archivé parmi des documents administratifs fictifs",
+    "mecanisme_comique": "archivage bureaucratique de défaites monumentales sous des prétextes dérisoires",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Archives de l'Inattention Monarchique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01522",
+    "titre": "La révolution française se résume aux pertes de broches à cheveux la nuit du 14 juillet",
+    "domaine": "Histoire",
+    "objet_moquerie": "une institution révolutionnaire fictive classant des pertes matérielles triviales comme des priorités historiques",
+    "mecanisme_comique": "minimisation de catastrophes historiques par une administration inventée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité des Menus et Minnions"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01523",
+    "titre": "Le canton de Vélizy-Val-de-Marne déclare son parking souterrain 'archipel stratégique'",
+    "domaine": "Géographie",
+    "objet_moquerie": "la requalification administrative d'un espace de stationnement banal en entité géographique inventée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau des Conterminations Spatiales Marginales (BCSM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01524",
+    "titre": "La Seine-Maritime impose un 'décret de punctualité' aux marées après 17h",
+    "domaine": "Géographie",
+    "objet_moquerie": "la régulation bureaucratique d'un phénomène naturel cyclique et indépendant des horaires humains",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Agence Nationale des Flux Tidaux Organisés (ANFTO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01525",
+    "titre": "Un rond-point près de Limoges obtient le label 'carrefour culturel transfrontalier'",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'appropriation démesurée d'un simple échangeur routier par un pseudo-groupe culturel local",
+    "mecanisme_comique": "appropriation grotesque d'un objet banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère du Patrimoine Circulaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01526",
+    "titre": "La Dordogne interdit les randonnées en été par arrêté préfectoral 'anti-odeurs de barbecue'",
+    "domaine": "Géographie",
+    "objet_moquerie": "la militarisation administrative des escapades estivales pour un motif subjectif et collectif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Départementale des Équilibres Gustatifs (DDEG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01527",
+    "titre": "Les Alpes-de-Haute-Provence renomment leur plus haut sommet 'Plateau à Vaches Électriques'",
+    "domaine": "Géographie",
+    "objet_moquerie": "le détournement humoristique et complet d'un toponyme géographique sérieux",
+    "mecanisme_comique": "choc entre solemnité du terme officiel et vulgarité absurde du nouveau nom",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commission Départementale de la Démocratisation Onomastique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01528",
+    "titre": "Les patients réclament des examens pour des varices vues sur TikTok",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation instantanée des signes visibles via les réseaux sociaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phenomene de societe durable",
+    "institutions_fictives": [
+      "l'Institut du Regard Algorithmiquement Corpulent (IRAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01529",
+    "titre": "L'Académie Royale des Ronflements Recensés (AR2) crée un diplôme officiel",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la bureaucratisation extrême d'un phénomène naturel incontournable",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution perenne",
+    "institutions_fictives": [
+      "l'Académie Royale des Ronflements Recensés (AR2)",
+      "le Centre National de Standardisation des Hz Nocturnes (CNSHN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01530",
+    "titre": "Le syndrome du tapis roulant ralenti dans les couloirs hospitaliers",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'attente interminable devant un tapis roulant qui ne fonctionne qu'à moitié",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phenomene de societe durable",
+    "institutions_fictives": [
+      "l'Unité de Chronométrie Hospitalière (UCH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01531",
+    "titre": "Les urgentistes s'arrachent les cheveux face aux rougeurs d'écran solaire",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la consultation massive pour des érythèmes bénins interprétés comme urgence vitale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phenomene de societe durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01532",
+    "titre": "La guerre des thermomètres connectés s'intègre au dossier médical",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la surconsommation technologique transformée en avis clinique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phenomene de societe durable",
+    "institutions_fictives": [
+      "le Syndicat des Thermomètres Connivents (STC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
