@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00143",
+  "titre": "Les tensions latentes entre les permanences d’accueil physiques et les plateformes numériques dans les Maisons du Citoyen",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’interface conflictuelle entre les permanences physiques des Maisons du Citoyen et les plateformes numériques d’assistance s’inscrit dans un paradoxe institutionnel identifié dès 2019 par le Laboratoire d’Études des Interfaces Administratives (LEIA), sis à l’Institut National des Organisations Républicaines de Rennes, comme un « conflit de légitimité procédurale ». Selon les rapports quadriennaux du LEIA, relayés par la Délégation Générale à la Modernisation des Services Publics, près de 68% des usagers interagissant avec le module de chatbot « IDExpress » abandonné en 2022 après avoir généré 12 millions de demandes automatisées incomplètes, persisteraient à attribuer une valeur symbolique supérieure à la présence physique du fonctionnaire, malgré les 3h12 en moyenne attendues sur place. L’anthropologue fictif Dr. Ioannes Maris, affilié au LEIA, souligne que cette résistance s’explique par un « besoin ostentatoire de contrôle visuel », corroboré par une étude diurne sur 5 400 cas à Lille en 2023 où 89% des utilisateurs de services en ligne choisissaient de valider leur dossier en présentant un reçu imprimé à l’agent, alors même que la version numérique avait été validée en temps réel par le système.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:59:41.104Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00133",
+  "titre": "Le protocole de négociation autour de la prise de place dans un parking souterrain partagé entre copropriétaires et usagers extérieurs",
+  "domaine": "Société",
+  "texte": "Le protocole de négociation autour de la prise de place dans un parking souterrain partagé entre copropriétaires et usagers extérieurs, couramment désigné sous le sigle PNPPS-CEUP (Protocole Normalisé de Partage des Places en Sous-Sol entre Copropriétaires et Extérieurs Usagers Prioritaires), est un mécanisme socio-urbanistique formalisé par l'Observatoire des Espaces Sous-Sols Citoyens (OESSC) en 2012. Selon le Dr. Émile Latrouble, spécialiste en anthropologie des parkings à l'Institut des Comportements Routiniers (ICR), ce protocole repose sur un principe fondamental de \"rotations empathiques\", où chaque place est attribuée par tranches de 48 heures selon un algorithme tenant compte du taux de remplissage moyen enregistré entre 19h et 22h. Les données, collectées via des capteurs thermiques et des enquêtes annuelles auprès des 12 743 résidents du quartier de La Butte-aux-Cailles, révèlent un taux de satisfaction moyen de 78%, bien que les conflits persistent lors des périodes de forte affluence, notamment les jeudis soirs. Le Dr. Latrouble souligne que \"le respect du protocole exige une discipline collective quasi-monastique, où chaque conducteur doit mesurer l'impact de son stationnement sur le bien-être collectif\".",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:51.795Z"
+}

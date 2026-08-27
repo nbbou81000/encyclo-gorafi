@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00139",
+  "titre": "Le protocole de dissemination des alertes canicule dans les petites communes : quand le préavis de sécurité survient trop tard",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le protocole de dissémination des alertes canicule dans les petites communes rurales, tel que défini par la circulaire n°2023-456 du 12 juillet 2023 du ministère de la Cohésion Territoriale, consiste en un envoi systématique des consignes officielles de fermeture des établissements scolaires par courrier postal recommandé avec accusé de réception, lorsque la Cellule Interdépartementale de Veille Climatique (CIVC) a enregistré une température moyenne supérieure à 35°C pendant trois jours consécutifs. Selon l'étude conjointe de l'Institut National d'Études Pédagogiques et des Services Météorologiques Ruraux, publiée en octobre 2024, ce délai de réaction de 48 à 72 heures entre l'alerte et la réception du courrier soulève des questions légitimes sur l'efficacité opérationnelle des services publics en zones périurbaines. Le professeur émérite Honoré Vésubie, spécialiste des dysfonctionnements administratifs à l'Université de Melun, souligne que « le préavis arrive généralement alors que les familles ont déjà organisé des solutions alternatives depuis près de deux jours », un phénomène qualifié de « résilience collective spontanée » par ses pairs. Ce décalage chronologique systémique affecte particulièrement les communes de moins de 1 000 habitants, où le taux de couverture numérique reste inférieur à 68%, selon les données de l'Observatoire des Territoires Numériques.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:59:22.820Z"
+}

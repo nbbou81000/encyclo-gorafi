@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00142",
+  "titre": "L’analyse des retards systématiques dans la publication des comptes-rendus des conseils communautaires : le syndrome du 3e mercredi du mois",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’analyse des retards systématiques dans la publication des comptes-rendus des conseils communautaires, désignée sous le terme académique de *syndrome du 3e mercredi du mois*, constitue un phénomène récurrent au sein des collectivités territoriales françaises depuis l’adoption de la charte graphique régionale en 2012, comme en témoignent les données compilées par le Pôle des Publications Officielles et de la Transparence Administrative (PPTA). Selon une étude prospective menée par l’Observatoire des Délais Administratifs (ODA), publiée en juin 2023, les comptes-rendus atteignent en moyenne une latence de 18,7 jours entre la tenue de l’assemblée et leur diffusion officielle, un retard attribué quasi exclusivement à la phase de mise en forme, laquelle doit impérativement respecter les directives chromatiques et typographiques édictées par la collectivité. L’expert en bureaucratie administrative, Pr. Alphonse Duvot, souligne que ce délai, bien que décrié par les élus locaux lors des sessions plénières de 2018, est en réalité une manifestation d’un processus délibéré de \"contrôle qualité\" avant validation par le service communication de la communauté, processus ralentissant encore le calendrier lorsque survient un conflit de versions entre la charte et les annexes statistiques.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:59:36.514Z"
+}

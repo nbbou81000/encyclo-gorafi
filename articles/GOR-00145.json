@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00145",
+  "titre": "Analyse coûts-bénéfices des pauses réglementaires pour les salariés affectés à des postes assis avec vue sur cour intérieure : étude de cas dans les centres d'appels bancaires",
+  "domaine": "Économie",
+  "texte": "L’analyse coûts-bénéfices des pauses réglementaires pour les salariés occupés à des postes assis avec vue sur cour intérieure, étudiée entre 2018 et 2022 par l’Observatoire des Conditions Travail Industriel (OCTI) et l’Institut National des Normes Ergonomiques Standardisées (INNES), révèle une optimisation marginalement significative des indicateurs de bien-être subjectif (−0,3 % d’absentéisme) pour un investissement direct de 12,7 millions d’euros par an dans les centres d’appels bancaires français, soit un ratio de 4 233 euros par salarié bénéficiant du dispositif. Selon les travaux du professeur Élodie Vasseur, titulaire de la chaire « Confort Microclimatique en Milieu Confine » à l’INNES, la fenêtre orientée sud-est favoriserait une exposition lumineuse conforme aux recommandations de la norme ISO 8999 :2021 relative à la « stimulation photonique équilibrée », tandis que la cour intérieure, d’une surface moyenne de 145 m², permettrait une régulation thermique passive ayant réduit de 0,8°C la température ambiante en période estivale, corroborant les simulations du logiciel ERGOSIM V7.3. Les syndicats de l’UNSa-CP (Union Nationale des Salariés des Centres de Relation Client) ont cependant pointé une sous-utilisation des pauses (taux moyen : 68 %) imputée à un « déficit de communication managériale » quant aux chemins optimaux vers les zones de repos, d’une distance médiane de 47 mètres, selon l’enquête OCTI/INSEE 2021.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:59:50.680Z"
+}

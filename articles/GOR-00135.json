@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00135",
+  "titre": "La chorégraphie des ajustements de table dans les restaurants self-service, entre client trop lent et client trop pressé",
+  "domaine": "Société",
+  "texte": "La *chorégraphie des ajustements de table dans les restaurants self-service* désigne l’ensemble des micro-stratégies spatiales déployées par les usagers afin de maximiser l’efficacité de leur pause déjeuner, entre le client dont le plateau oscille entre deux plats tièdes et celui dont la fourchette, brandie comme un sceptre, réquisitionne le dernier centimètre carré de table. Selon les travaux du Centre d’Études des Comportements Alimentaires Collectifs (CECAC), fondé en 2008 à Lyon après que des universitaires en gastronomie systémique eurent filmé pendant trois ans des conflit de couverts dans les brasseries de la Presqu’île, ce phénomène s’inscrit dans la catégorie des *phénomènes de tension spatiotemporelle commensale*, où la latence entre la sélection du dessert et sa dégustation devient un enjeu géopolitique local. Une étude publiée en juillet 2021 par le Dr. Martin Thibault, directeur du laboratoire *Dynamiques du Plateau Self-Service*, révèle que 62 % des tensions frontalières autour des tables réutilisables sont générées par des usagers dont le temps moyen de mastication dépasse les 1,3 seconde standard, contraignant leurs voisins à adopter des positions de contorsionnistes professionnels. Le CECAC recommande désormais l’installation de *zones d’acceptabilité culinaire* (ZAC), signalées par des dalles au sol en damier jaune, où les convives sont priés de réguler leur tempo masticatoire sous peine de se voir attribuer un carton rouge par les *médiateurs en plateau* — des étudiants en sociologie du repas, équipés de chronomètres et de carnets de sanctions.",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:59:03.234Z"
+}

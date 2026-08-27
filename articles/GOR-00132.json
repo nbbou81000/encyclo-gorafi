@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00132",
+  "titre": "L’étude comparative des stratégies d’échappement au distributeur de café d’un open space désert, selon l’heure et le statut hiérarchique",
+  "domaine": "Société",
+  "texte": "**L’étude comparative des stratégies d’échappement au distributeur de café d’un open space désert, selon l’heure et le statut hiérarchique** consiste en une analyse systémique des déplacements latéraux et des contournements visuels opérés par les individus en milieu professionnel anxiogène lorsqu’un attroupement se forme autour de l’unique machine à café de l’étage H du bâtiment Gamma, dans le cadre des activités de l’Institut National des Protocoles Interactions Machiniques (INPIM). Menée sur un échantillon de 2 478 collaborateurs de 2018 à 2023, cette étude longitudinale révèle que les employés de niveau 3, disposant d’un accès prioritaire aux capsules aromatiques, privilégient une sortie de secours par la porte latérale Est avec un temps moyen de 12,3 secondes, tandis que les stagiaires, dépourvus de badges d’accès privilégiés, adoptent une stratégie d’enfumage des lieux par l’activation intempestive du distributeur lui-même, retardant ainsi l’afflux de 8,7 minutes. Selon le Pr. Edgar V. Kelp, directeur du Laboratoire des Comportements Micro-Sociaux, ces phénomènes, bien que souvent confondus avec des « pauses », constituent en réalité des rituels de défense territoriale, héritiers des dynamiques de clan préhistoriques transposées aux open spaces du XXIe siècle.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:47.155Z"
+}

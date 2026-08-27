@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00134",
+  "titre": "L’impact des horaires décalés des inaugurations municipales sur les riverains, et la politisation des nuisances sonores de claquements de portes de salles des fêtes",
+  "domaine": "Société",
+  "texte": "L’impact socio-acoustique des inaugurations de salles des fêtes programmées en dehors des horaires conventionnels (dès 21h17) sur les riverains, plus communément désigné par l’**effet \"Salle-des-Claquements\"**, fut méthodiquement documenté par l’Union des Riverains Concernés par les Protocoles (URCP) lors d’une étude statistique menée entre 2015 et 2023, portant sur 1 847 inaugurations dans 234 communes françaises. Selon le rapport de l’URCP, présidé par le professeur Hubert de Montlhéry, chaque claquement de porte dans l’intervalle post-crépusculaire génère une augmentation moyenne de 3,2 dB(A) du niveau sonore perçu chez les riverains, avec un pic de plainte enregistré dans les 47 minutes suivant l’événement, souvent qualifié d’« agression subliminale ». En 2021, l’institut Sorbonnien d’Acoustique Urbaine (ISAU), sous la direction de la chercheuse Claudine P.-L. Riviera, confirmait que 78,9 % des municipaux concernés répondaient systématiquement aux doléances par l’envoi d’un courrier type reproduisant la phrase *« la culture exige des sacrifices »*, sans que cette réponse ne corrèle avec une quelconque diminution des nuisances. Le phénomène a conduit, en 2022, à l’adoption par la Commission Nationale des Horaires Sensibles (CNHS) d’un arrêté imposant désormais l’installation de portes à fermeture hydraulique assistée dans les salles des fêtes, mesure dont l’efficacité reste, selon les riverains interrogés par l’URCP, *« à évaluer sous 5 ans »*.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:57.329Z"
+}

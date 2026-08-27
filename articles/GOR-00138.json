@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00138",
+  "titre": "La gestion des demandes de subventions pour des projets associatifs 'trop alternatifs' : le cas des buvettes éphémères",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’attribution des subventions destinées aux projets associatifs qualifiés d’« à impact sociétal non conventionnel », dont les buvettes éphémères artisanales, relève d’un processus décisionnel encadré par le protocole d’évaluation du Référentiel d’Intégration Socio-Économique par la Micro-Entreprise (R.I.S.M.E.), instauré en 2018 par l’Agence Nationale pour l’Innovation Sociale (ANIS). Selon le rapport annuel 2023 de l’Observatoire des Dynamiques Associatives (ODA), 64 % des dossiers examinés en commission plénière font l’objet d’un ajournement pour « insuffisance de formalisation dans la projection de la valeur ajoutée territoriale », tandis que 12 % sont purement rejetés sous le motif de « non-alignement sur les critères de résilience structurelle ». Les experts du G.I.E. (Groupe d’Impact Éphémère) soulignent que la buvette limonadière, bien que généreant un chiffre d’affaires moyen de 470 € par événement selon l’enquête 2022 de la Fédération des Vendeurs de Boissons Instables (F.V.B.I.), se heurte systématiquement au seuil minimal de 1 000 € de recettes annuelles projetées exigé par l’ANIS pour prétendre à un financement partiel. Les associations concernées doivent ainsi justifier, via un dossier type « Évaluation Transitoire de Potentiel Énergétique » (E.T.P.E.), la viabilité de leur projet sous l’angle de la « création de lien social temporaire », un concept récemment introduit dans le guide méthodologique 2024.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:59:18.097Z"
+}
