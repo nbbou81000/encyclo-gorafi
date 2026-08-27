@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00271",
+  "titre": "Le syndrome du badge non reconnu à l'entrée des tours de bureau américaines",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome du badge non reconnu à l’entrée des tours de bureau américaines, classifié sous le code nosologique CETA-SYN-2014b par le Centre d’Épistémologie des Troubles Administratifs, désigne une pathologie chronique marquée par une réaction de stress aiguë consécutive à l’échec répété du système de reconnaissance automatique des badges magnétiques, touchant selon une étude de l’Institut de Psychiatrie Urbaine de Chicago (2022) près de 42 % des employés des sièges sociaux des FTN new-yorkaises. Les symptômes incluent des tentatives successives de présentation du badge sous des angles aléatoires, des gestes de plus en plus amples assimilables à des rituels propitiatoires, et une intonation vocale anormalement polie lors des échanges avec les agents de sécurité, comme en témoignent les travaux du Dr. Harold P. Wainwright, directeur du Laboratoire de Psychophysiologie des Environnements Clos. Ce trouble, bien que non répertorié dans les classifications internationales du DSM-VI, génère des pertes de productivité estimées à 3,7 heures par salarié et par an, soit une incidence économique directe de 12 milliards de dollars annuels sur le secteur tertiaire américain, selon les projections du Bureau de l’Efficacité Administrative de Philadelphie.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:25.154Z"
+}

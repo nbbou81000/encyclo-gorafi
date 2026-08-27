@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00260",
+  "titre": "Le scandale des contrats d'entretien de machines à café sous-motorisées",
+  "domaine": "Économie",
+  "texte": "L’entretien des machines à café sous-motorisées représente, selon le Syndicat des Décilageurs (SD), un cas d’école de sous-capitalisation dans l’économie des tiers-lieux contemporains, documenté depuis l’implémentation massive de ces dispositifs dans les espaces de coworking à partir du premier trimestre 2018. Une étude conduite par l’Institut Très Haut Moyenne Disponibilité (ITHMD), publiée en 2021, révèle que 68 % des contrats de maintenance passés entre les exploitants de coworking et les prestataires spécialisés (regroupés sous la bannière des *Mainteneurs Associés en Circuits Fermés*) omettent systématiquement la clause de vérification du couple de serrage des courroies de transmission secondaire, entraînant des baisses de régime de l’ordre de 12 à 17 % par rapport aux spécifications constructeur du modèle *Caféomatix 3000-3*, lui-même homologué pour une puissance nominale de 1,5 kW. Le Dr. Helga Van der Koff, directrice de recherche à l’ITHMD, souligne que « ce sous-dimensionnement structurel relève moins d’une négligence ponctuelle que d’une logique de *dépense capillaire optimisée* », où l’amortissement des coûts s’effectue par une dilution des risques sur la productivité globale des utilisateurs.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:34.780Z"
+}

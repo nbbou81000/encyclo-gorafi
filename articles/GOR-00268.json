@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00268",
+  "titre": "Découverte du virus du navigateur lent dans les open-spaces (2021-)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Browsivirus lentsapiens*, identifié pour la première fois en mars 2021 par l’Institut National de la Souffrance Numérique (INSN) dans les open-spaces de la région Île-de-Yvelines, constitue un pathogène émergent caractérisé par une latence moyenne de 47 secondes lors du chargement d’une page web contenant moins de 3 Mo de données. Selon les travaux du Dr. Gérard-Maurice Pâtisson, virologue en chef à l’INSN, ce microorganisme se transmet principalement par contact entre collègues lors des pauses café, avec un taux de reproduction de 1,3 vecteur par individu atteint, mesuré sur un échantillon de 12 458 salariés des sièges sociaux d’entreprises du CAC40 en 2022. Le symptôme cardinal, désigné sous le terme technique de « *syndrome du curseur bleu* », se manifeste par une répétition compulsive du clic gauche, accompagnée d’une exclamation audible (« Mais pourquoi ça charge encore ? »). Bien que non mortel, le virus a engendré une baisse de productivité estimée à 0,8 % du PIB national en 2023, selon un rapport confidentiel de la Banque de France qui reste aujourd’hui classé « confidentiel-pathogène ».",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:11.446Z"
+}

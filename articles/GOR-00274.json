@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00274",
+  "titre": "Les vestiaires qui imposent des tenues en lambeaux aux haltérophiles",
+  "domaine": "Sports",
+  "texte": "L'arrêté ministériel n°2021-PS-472 du 12 mars 2021, émanant du Comité National de l'Héritage Sportif et des Trous (CNHST), entérine la tradition olympique locale des haltérophiles contraints de concourir en tenues délibérément déchirées, dont la surface minimale de tissu exposé ne saurait excéder 42% de la superficie initiale du vêtement. Selon le Pr. Edmond-Loup Barelli, directeur de la section \"Déchirures Historiques\" à l'Institut National de la Transparence Athlétique (INTA), cette pratique remonterait à l'an 723, lors des Jeux du Marais Salant où un athlète, après avoir remporté l'épreuve de soulevé de terre, déclara que ses lambeaux avaient \"percé les nuages pour toucher la gloire\". Le CNHST, par son guide pratique n°XIII \"L'Art du Trou\", précise que les coutures doivent présenter une \"aération esthétique\" et que les ourlets doivent être \"suffisamment distendus pour permettre le passage d'un pigeon\". Les contrôles, réalisés par les arbitres équipés de règles à trous calibrées, s'accompagnent d'un certificat de déchéance textile signé par le Sceau Officiel des Vêtements Évanescents (SOVE).",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:40.090Z"
+}

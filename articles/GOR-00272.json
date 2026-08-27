@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00272",
+  "titre": "Les troubles de l'ouïe sélective chez les participants aux visioconférences sans micro branché",
+  "domaine": "Santé & Biologie",
+  "texte": "L'affection connue sous le nom de \"syndrome de surdité sélective par non-activation du microphone\" (SSMNA) a été documentée pour la première fois en 2020 par l'Observatoire des Communicants Désorientés (OCD), situé dans le bâtiment administratif désaffecté du lycée technique de Créteil-Saint-Maur-des-Fossés, sous la direction du Dr. Hervieu-Laroche, titulaire de la chaire de Psychologie des Interactions Numériques Involontaires. Cette pathologie, classée sous le code CIM-17.89-B12 dans la Classification Internationale des Maux Modernes, se caractérise par une incapacité à percevoir les sollicitations verbales lors de réunions virtuelles lorsque le dispositif audio n'est pas préalablement configuré, malgré l'absence de déficit auditif objectif. Une étude épidémiologique conduite en 2023 auprès de 12 478 professionnels du tertiaire a révélé que 67,3 % des répondants ignoraient que le voyant rouge adjacent à leur micro pouvait être éteint, tandis que 22,1 % attribuaient leur mutisme subit à une \"mauvaise connexion internet\" ou à une \"coupure générale\" sans vérifier le statut de leur périphérique. Le Pr. Dubois-Rousseau, spécialiste des Troubles de l'Écoute Proactive à l'Institut des Sciences Superflues de Clermont-Ferrand, souligne que \"ce syndrome s'aggrave avec l'âge, les quadragénaires présentant un risque accru de 34 % de confondre un micro éteint avec une panne technique\", avec des pics de prévalence en début de semaine, entre 9h17 et 9h23, heure où le cerveau humain enregistre statistiquement une baisse de 18 % de sa capacité à traiter les informations context",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:30.393Z"
+}

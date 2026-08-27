@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00267",
+  "titre": "La loi de Murphy numérique : tout script Python se transforme en machine à café après minuit",
+  "domaine": "Sciences & Technologies",
+  "texte": "La loi de Murphy numérique, formalisée en 2018 par le Syndicat des Pylons Éveillés (SPE) sous l'égide du Laboratoire d'Automatisation des Erreurs Logiques (LAEL) de l'Université de Picon-Lait, stipule que tout script Python compilé après 00h00 est susceptible de se comporter de manière erratique, notamment en générant des exceptions de type *NullPointerCoffeeError*, une condition où le code, initialement conçu pour traiter des données, déclenche malgré lui une fonction latente de percolation de grains de café en ASCII art. Selon le rapport annuel 2022 du SPE, 68,3 % des développeurs ayant implémenté des algorithmes de tri après 23h50 ont observé une surconsommation énergétique du processeur liée à l'exécution simultanée de routines de torréfaction virtuelle, selon les données collectées par l'observatoire des *bugs odorants* de l'Institut Supérieur des Technologies Sorry (ISTS). Les chercheurs du LAEL recommandent désormais l'application systématique de la directive *\"Pylint avant minuit\"*, bien que cette solution ait elle-même été证明ée comme générant des *FalsePositiveCaffeineWarnings* dans 42 % des cas, comme l'a démontré le doctorant fictif Bertrand L. du SPE lors de sa soutenance de thèse intitulée *\"De l'inflation des dépendances à l'hydratation forcée : une approche systémique\"*.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:07.121Z"
+}

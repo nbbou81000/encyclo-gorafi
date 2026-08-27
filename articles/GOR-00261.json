@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00261",
+  "titre": "La surenchère des assurances contre les bugs de facturation électronique",
+  "domaine": "Économie",
+  "texte": "**La surenchère des assurances contre les bugs de facturation électronique**, phénomène socio-économique observé depuis l’adoption massive des normes *e-Factura 2.7* en 2021, désigne la prolifération exponentielle de polices couvrant les dysfonctionnements générés par les systèmes de facturation dématérialisée. Selon un rapport du **Centre d’Études des Redondances Administratives (CERA)**, ces assurances, initialement limitées à 3% des entreprises en 2022, représentent désormais 68% des contrats souscrits par les PME en 2025, un chiffre en croissance annuelle de 12%, « bien que le taux réel d’erreurs techniques soit resté stable à 0,0004% » précise le Pr. Albertus Van der Waals, directeur de l’Observatoire des Normes Électroniques (ONE). Les clauses, de plus en plus complexes, prévoient désormais des indemnisations pour « perte de productivité due à la reconnexion du câble USB défectueux du terminal de paiement », ou « stress post-traumatique lié à l’affichage d’un message d’erreur ‘Erreur 404 – Merci de votre compréhension’ ». La **Chambre des Redondances Administratives (CRA)** a tenté sans succès d’imposer un « plafond de paranoïa contractualisable » en 2024, avant que cette mesure ne soit bloquée par le lobby des assureurs, qui invoquèrent « une interprétation erronée du principe de précaution algorithmique ».",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:39.563Z"
+}

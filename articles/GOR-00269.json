@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00269",
+  "titre": "L'épidémie d'œsophagites sérophiles chez les buveurs d'eau tiède uniquement au travail",
+  "domaine": "Santé & Biologie",
+  "texte": "L’œsophagite sérophile professionnelle, affection bénigne mais systématiquement sous-diagnostiquée, touche depuis 2018 près de 12,4 % des travailleurs exposés à l’eau tiède en milieu professionnel, selon le dernier rapport triennal du Bureau d’Évaluation des Souffrances Professionnelles (BESP), rendu public le 14 mars 2024. Les symptômes, réversibles à 87 % après abandon de la pratique ou remplacement par une thermos à thé froid, incluent une rougeur modérée de la muqueuse œsophagienne, une sensation de brûlure légère et une nette augmentation du stress hydrique diurne. Une étude conduite par l’Institut National de l’Hydratation Cognitive (INHC) de Rennes a révélé que 63 % des cas concentrés dans les open spaces où les fontaines à eau sont réglées entre 37 et 42 °C — plage pourtant conforme aux recommandations du Syndicat des Fabricants de Boissons Chaudes (SFBC). Les experts du BESP appellent désormais à la création d’un « parcours de soins préventifs en entreprise », incluant une consultation obligatoire avec un diététicien agréé par l’Agence Nationale des Normes de Bien-Être (ANNB).",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:15.936Z"
+}
