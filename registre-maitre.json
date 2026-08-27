@@ -23812,5 +23812,327 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01827",
+    "titre": "Le marché noir des parapluies abandonnés dans le métro",
+    "domaine": "Économie",
+    "objet_moquerie": "la revente systématique des parapluies oubliés dans les rames de métro",
+    "mecanisme_comique": "spéculation financière sur un objet anodin et volatil",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office National des Objets Égarés (ONOE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01828",
+    "titre": "La bulle spéculative des distributeurs de tickets de caisse intacts",
+    "domaine": "Économie",
+    "objet_moquerie": "l'engouement pour collectionner des tickets de caisse jamais utilisés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Chambre Syndicale des Ticketiers Illusoires (CSTI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01829",
+    "titre": "La crise des fauteuils de coworking réservés sans jamais être occupés",
+    "domaine": "Économie",
+    "objet_moquerie": "l'occupation massive de fauteuils de tiers-lieux sans utilisation réelle",
+    "mecanisme_comique": "déséquilibre entre l'offre et une demande fictive démesurée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Gestion des Places Fantômes (IGPF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01830",
+    "titre": "Le krach des stylos à bille fournis dans les hôtels de chaîne systématiquement volés",
+    "domaine": "Économie",
+    "objet_moquerie": "la pénurie organisée de stylos d'hôtel de chaîne et leur revente",
+    "mecanisme_comique": "spéculation financière sur un objet de consommation courante et peu coûteux",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Collecteurs de Bille en Rupture (FCBR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01831",
+    "titre": "La guerre des tickets de métro échangés contre des bonbons à l'épicerie voisine",
+    "domaine": "Économie",
+    "objet_moquerie": "la revente anarchique des tickets de métro contre des friandises dans certains quartiers",
+    "mecanisme_comique": "conflit disproportionné autour d'un objet trivial",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collectif des Échangeurs de Métro-Gourmands (CEMG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01832",
+    "titre": "Le syndrome de la transpiration nocturne due au choix d’étoffe 'satin' dans les pyjamas",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'attention médicale excessive portée à un simple choix de tissu de pyjama",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire des Matériaux Épidermiques Suspects (LMES)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01833",
+    "titre": "Démie 'Post-RATP' : allergie aux annonces de perturbations retardées mais inexistantes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation des réactions émotionnelles liées aux transports en commun",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Stress Spatiaux (OSS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01834",
+    "titre": "Épidémie de toux sèche déclenchée par le montage d'un meuble IKEA en trois heures chrono",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'explication médicale d'un symptôme physique lié à une activité triviale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut pour l'Hygiène Ergonomique Extravagante (IHEE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01835",
+    "titre": "Les urgences débordées par les allergies au savon de Marseille pistache (arôme alimentaire en 2024)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la medicalisation des réactions légères à un produit courant",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission d'Analyse des Réactions Anodines (CARA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01836",
+    "titre": "Création du diplôme de 'Pédopsychiatre événementiel' pour enfants traumatisés par les gants en latex",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la spécialisation absurde de professionnels de santé pour des problèmes triviaux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Nationale de Pathopsychologie Événementielle (ANPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01837",
+    "titre": "Le Tour de France ajoute 17 virages à 180 degrés par étape pour tester l'équilibre des coureurs",
+    "domaine": "Sports",
+    "objet_moquerie": "l'ajout artificiel de difficultés techniques absurdes dans une course cycliste emblématique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Fédération Cycliste du Déséquilibre Permanent (FCDP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01838",
+    "titre": "Les juges de patinage artistique mesurent maintenant la vitesse des sauts au chronomètre de cuisine",
+    "domaine": "Sports",
+    "objet_moquerie": "l'extension de la précision métrique à des paramètres traditionnellement subjectifs dans une discipline élégante",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Institut National de la Quantification Esthétique (INQE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01839",
+    "titre": "La Coupe du monde de pétanque impose le port de gants blancs réglementaires sous peine de disqualification",
+    "domaine": "Sports",
+    "objet_moquerie": "l'hyper-normalisation d'un détail vestimentaire dans un sport décontracté et méditerranéen",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Autorité Fédérale de la Blancheur Pétanque (AFBP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01840",
+    "titre": "Le marathon de Paris modifie le tracé pour inclure 3 passages dans une boulangerie bio à chaque tour",
+    "domaine": "Sports",
+    "objet_moquerie": "l'intégration forcée de circuits commerciaux marginaux dans un parcours sportif emblématique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01841",
+    "titre": "Les arbitres de rugby vérifient maintenant la température interne des ballons avec un thermomètre frontal",
+    "domaine": "Sports",
+    "objet_moquerie": "l'extension de contrôles scientifiques superflus à des équipements sportifs traditionnels",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Laboratoire Central de la Précision Ovale (LCPO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01842",
+    "titre": "Le Bureau des Légumes Enfouis sous les Papiers à Deux Ans D'Age administratif lance une enquête sur les carottes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'attente interminable de réponse administrative à une demande absurde (ici, localiser une carotte dans un tiroir ministériel)",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Légumes Enfouis sous les Papiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01843",
+    "titre": "La Cour Suprème du Café Trop Infusé dans les Urnes Électroniques ouvre ses portes dites-t-elle",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'application mécanique des procédures électroniques sans comprendre leur finalité ou leur absurdité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Cour Suprème du Café Trop Infusé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01844",
+    "titre": "La Grande Enquête sur le Silence Involontaire des Tasses en Voyant un Haut-Fonctionnaire passer",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les réflexes de soumission involontaire dans un milieu professionnel ultra-hiérarchisé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Comportements Mugistiques Anormaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01845",
+    "titre": "Le Premier Ministre signe un texte pour officialiser l'heure de midi dans les Open-Spaces régionaux",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'instrumentalisation de l'État pour des décisions locales et anodines jusqu'à l'absurdité",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01846",
+    "titre": "La Commission Anti-Murmure Électoral rend son rapport sur l'évitement des 'peu importe' en séance",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le micro-management des détails insignifiants dans le langage institutionnel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission Anti-Murmure Électoral",
+      "L'Académie des 'Peu Importe'"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01847",
+    "titre": "Une exposition de toasts légèrement grillés jugée plus authentique que les originaux",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la mise en avant de versions médiocres (toasts) comme interprétation acceptable d'une œuvre culinaire élitiste",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Musée des Reproductions Suspectes (MRS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01848",
+    "titre": "Performance artistique : un public applaudit un ordinateur en train de calculer l'erratum de l'album *OK Computer*",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'applaudissement d'une action banale (calcul algorithmique) dans un contexte auto-proclamé 'artistique'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Atelier de la Mélancolie Hypermoderne (AMH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01849",
+    "titre": "Le centre d'art contemporain de Ponthierry ferme pour 'conflits géologiques'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la fermeture d'un lieu culturel pour des raisons absurdes liées à la géologie mineure",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Centre de Recherches Esthétiques par le Calcaire (CREC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01850",
+    "titre": "Bataille judiciaire entre amateurs de perspective photographique et acteurs de cinéma",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un conflit juridique absurde sur la priorité d'utilisation de la profondeur de champ entre deux milieux artistiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Diaphragmes Offensés (ODÔ)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01851",
+    "titre": "Une médaille d'or du mérite artistique attribuée à une chaise bancale prévue pour l.Entry-Level",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'hyperbolisation d'un objet banal (chaise d'entrée de gamme) comme œuvre artistique majeure",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Jury des Éloges Spéculatifs (JES)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
