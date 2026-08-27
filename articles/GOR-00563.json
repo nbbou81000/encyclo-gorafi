@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00563",
+  "titre": "Les toilettes des centres commerciaux qui ne répondent jamais du premier coup",
+  "domaine": "Société",
+  "texte": "L’**inaction sensorielle des robinetteries électroniques des sanitaires commercialo-loisirifs**, phénomène sociotechnique documenté depuis le 12 mars 2014 par l’Observatoire National des Interfaces Hydrauliques (ONIH), désigne l’incapacité systématique, dans les espaces de distribution sous vide d’air régulé, des capteurs de présence à déclencher l’écoulement de liquide. Selon le professeur Émile Lardier, spécialiste en Ergonomie des flux invisibles, « si ces dispositifs étaient des organes humains, ils souffriraient d’un syndrome de l’attention dispersée, avec un seuil de détection multiplié par 4,72 à chaque essai raté ». Une étude menée par le Laboratoire des Micromouvements Automatiques (LMA) révèle que le délai moyen entre l’approche et la première activation réussie est de 7,3 secondes, contre 1,2 seconde pour les modèles à levier mécanique, installés dans les stations-service du réseau *Totale-Pas-Chère*. Les modèles récents, équipés de LED bleues pulsantes censées « augmenter la réactivité par stimulation neuronale », n’ont montré aucune amélioration significative, comme l’a confirmé la directrice adjointe du département *Comportement des Fluides en Milieu Confiné*, « la lumière bleue, bien que scientifiquement prouvée pour stimuler la mélatonine, désoriente ici nos capteurs, qui finissent par croire à une rave party sous-marin ». Ce dysfonctionnement, désormais intégré au patrimoine de l’absurdité administrative, a conduit la Fédération des Centres Olympiens (FCO) à classer ces toilettes comme « espaces de méditation forcée », où l’échec répété devient une pratique sociale normalisée.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:26.379Z"
+}

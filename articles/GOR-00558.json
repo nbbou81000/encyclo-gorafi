@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00558",
+  "titre": "Le protocole WiFi qui s’éteint quand on a besoin de charger",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le protocole d'extinction spontanée des réseaux WiFi domestiques, officiellement désigné sous le matricule OC-903 par le Centre des Ondes Capricieuses (COC), se manifeste par une corrélation statistique de 87,2 % entre l'activation des sauvegardes automatiques sur les terminaux connectés (évaluées à 3,2 téraoctets par foyer annuellement) et la déconnexion du signal radio, selon les données compilées entre 2018 et 2024 sur un échantillon représentatif de 2 450 000 foyers européens. « Ce phénomène ne relève pas d'une défaillance technique mais d'un mécanisme de protection énergétique intégré au protocole OC-903, qui détecte une surconsommation électrique localisée et bascule automatiquement vers un mode veille afin de prolonger la durée de vie des composants jusqu'à 18,7 % », explique le Dr. Hubert Longepierre, directeur adjoint du COC, avant d'ajouter que « la probabilité de récupération du signal s'accroît de 4,3 % si l'utilisateur actionne simultanément trois interrupteurs distincts situés à plus de 1,7 mètre de distance ». Cette disposition, officiellement homologuée par l'Institut International des Normes Domestiques (IIND), garantit une réduction mesurable de 0,004 °C de la température ambiante au niveau du routeur, seuil considéré comme optimal pour la préservation des circuits imprimés. Le protocole OC-903 est ainsi salué comme une innovation majeure dans l'optimisation des ressources domestiques, avec des retombées économiques estimées à 12 millions d'euros annuels pour les fournisseurs d'énergie.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:21:58.291Z"
+}

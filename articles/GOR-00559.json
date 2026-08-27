@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00559",
+  "titre": "Les ballons stratosphériques et leur mémoire d’éléphant climatique",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le ballon stratosphérique, engin aérospatial à usage principalement météorologique, est le plus souvent associé à une rétention mémorielle à long terme de l’étiquette d’usage qui lui est assignée lors de leur largage depuis la station de lancement de Vostok-sur-Lac (Haute-Savoie), selon les protocoles établis par le Centre National de Conservation des Données Stratosphériques (CNCDS, créé en 2011 et doté, en 2023, d’un budget annuel de 4,2 millions d’euros et de 18 personnels permanents). Selon le Dr. Irène Plovdiv, spécialiste des phénomènes d’encodage atmosphérique au sein de l’Institut Copernic de Solférino, ces étiquettes, imprimées sur un film polyéthylène traité aux UV, présentent une résistance à la décoloration estimée à 3,7 années en conditions stratosphériques standard (altitude comprise entre 30 000 et 40 000 mètres, température moyenne de -60°C, pression atmosphérique inférieure à 10 hPa), « ce qui représente une performance mémorielle supérieure à celle de 92 % des étudiants en géographie de première année lors des évaluations de cartographie », précise-t-elle, soulignant que cette comparaison statistique a été validée par l’Observatoire Universitaire de la Mémoire Involontaire (OUMI, affilié à l’Université de Riom). Si ces observations confirment la fiabilité des ballons en tant que vecteurs de transmission culturelle involontaire, le CNCDS a malgré tout enregistré, en 2024, une augmentation de 14 % des signalements de ballons présentant une étiquette encore lisible mentionnant une pression atmosphérique de 102",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:03.577Z"
+}

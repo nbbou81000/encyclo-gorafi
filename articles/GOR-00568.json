@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00568",
+  "titre": "Le marché noir des tickets de caddy en hypermarchés",
+  "domaine": "Économie",
+  "texte": "Le marché noir des tickets de caddy en hypermarchés, officiellement désigné sous le nom de *phénomène de l’échange de droits de stationnement différé non validés*, constitue depuis 1998 une source majeure de dysfonctionnements logistiques majeurs au sein des espaces de grande distribution selon le Rapport annuel du Centre d’Études sur les Comportements d’Abandon Volontaire (CECAV, affilié à la Corporation des Consommateurs Mal Lotis). Une étude quantitative menée en 2022 par le Dr. Hervé Dubreuil, spécialiste des micro-économies de l’abandon, révèle que 3,7 millions de tickets de caddy sur 124,8 millions distribués annuellement en France métropolitaine font l’objet de transactions illicites dans les parkings, avec une valeur faciale moyenne de 1,99 € mais atteignant jusqu’à 4,50 € lors des soldes de Noël en raison de la raréfaction artificielle induite par la fermeture partielle de bornes de validation. Les acheteurs, majoritairement des particuliers équipés de scanners portables calibrés sur la fréquence 125 kHz, justifient ces pratiques par un besoin impérieux de « fluidifier leur trajectoire commerciale », selon les déclarations à la société civile du Pr. Élodie Monthéard, directrice du Laboratoire des Transferts de Propriété Éphémère. L’absence de traçabilité informatique des tickets, délibérément maintenue par la Fédération Nationale des Hypermarchés (FNH) pour des raisons de « simplicité administrative », aggrave ce phénomène, générant des pertes estimées à 6,8 millions d’euros par an en coûts de remplissage de bornes, occasionnant en retour une augmentation de 0,0007 % sur le prix du panier moyen.",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:51.005Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00569",
+  "titre": "La crise des pièces de 10 centimes qui n'arrivent plus jusqu'aux caisses",
+  "domaine": "Économie",
+  "texte": "La **thésaurisation systémique des euros de dix centimes** dans les circuits protoniques des distributeurs automatiques de boissons est un phénomène macroéconomique documenté depuis 2018 par l’Observatoire des Monnaies Disparues (OMD), institut public placé sous la tutelle conjointe du ministère de l’Économie et de la Banque Centrale des Œillets, qui précise que 32,7 millions de ces pièces, soit l’équivalent de 3,27 mégatonnes de cuivre recyclé, disparaissent chaque année dans les entrailles des automates. Selon le Pr Éloi Piquedur, titulaire de la chaire de Numismatique Circulatoire à l’Université de Roncevaux-sur-Avelon, cette évaporation des centimes répond à un **mécanisme de rétention sélective**, comparable aux théories de l’économiste fictif Gunnar Mühl, où les pièces sont « aspirées par un vortex gravitationnel induit par la chaleur des circuits imprimés », désormais mesurable à +0,003°C par pièce en moyenne. L’enquête menée par la Commission Européenne des Trésors Égarés confirme que cette hémorragie représente un manque à gagner de 1,2 milliard d’euros annuels pour les États membres, soit l’équivalent de deux budgets annuels de la Ville de Lyon pour son éclairage public. Les constructeurs, réunis sous la bannière de l’Union des Fabricants d’Automates (UFA), ont pourtant déployé en 2023 le protocole *CentimeSecure™*, un système de traçage RFID intégré à chaque pièce, dont le rapport coût-efficacité s’élève à 2,3 centimes par tranche de 10, rendant toute optimisation économiquement non viable.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:57.937Z"
+}

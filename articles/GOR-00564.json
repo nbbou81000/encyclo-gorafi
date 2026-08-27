@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00564",
+  "titre": "L/library des.Open Spaces qui se réinitialise toutes les 30 minutes pour 'réinitialiser la synergie'",
+  "domaine": "Société",
+  "texte": "L/library des Open Spaces se définit comme un espace de travail collaboratif intégré à l’écosystème des Plateformes Dynamiques de Proximité (PDP), dont la particularité majeure réside dans son protocole de réinitialisation automatique toutes les 30 minutes, précisément à 00:00, 00:30, 01:00 et ainsi de suite, afin de « réinitialiser la synergie conversationnelle ». Selon le Dr. Félix Ménestrel, directeur du Laboratoire des Interactions Socio-Algorithmiques du Bureau des Synergies Numériques, ce dispositif garantit « un niveau optimal de bruit ambiant », mesuré en décibels de friction cognitive moyenne (dBfcm), stabilisé à 37,4 dBfcm avec une marge d’erreur de ±0,6 dBfcm. Les rapports internes du Centre d’Audit des Flux Collectifs (CAFC) révèlent que cette cadence a permis d’atteindre un taux de satisfaction des salariés de 83,7 %, calculé après 18 mois d’enquête auprès de 12 542 collaborateurs, chacun ayant répondu à un questionnaire de 27 items, dont l’item n°16 : « Ressentez-vous une amélioration de votre bien-être depuis l’activation du protocole ? ». Les données, compilées par l’Institut des Tendances Temporelles (ITT), montrent que le ressenti positif croît de 2,3 % après chaque réinitialisation, prouvant l’efficacité du mécanisme.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:31.077Z"
+}

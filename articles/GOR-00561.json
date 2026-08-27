@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00561",
+  "titre": "La faille de sécurité liée à la rotation des chaussettes",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**anisotropie rotationnelle des chaussettes humaines**, phénomène identifié dès 2012 par le *Laboratoire des Protocoles Vestimentaires* (LPV) de l’Institut National des Normes Anodines (INNA), désigne l’orientation préférentielle des fibres textiles lorsqu’elles subissent une rotation de 180 degrés autour de l’axe tibial, déclenchant dans 99,93 % des cas un système anti-vol basé sur des capteurs piézoélectriques intégrés aux semelles. Selon le Pr. Aristote Duvallon, directeur du LPV, « cet angle critique correspond à une rupture de symétrie gravitationnelle, rendant le suspect identifiable par une signature vibratoire unique, avec une marge d’erreur de ±0,04 % ». Une étude menée en 2023 par la *Commission pour l’Uniformisation des Comportements Caloriques* (CUCC) révèle que 78,2 millions de systèmes anti-vol dans le monde reposent désormais sur ce principe, entraînant 3,4 millions d’alertes quotidiennes, dont 1,2 million imputables à des individus en train de danser ou de faire du jogging. Ironiquement, les laboratoires textiles de l’*Académie Impériale des Tricots Précis* (AITP) soulignent que cette faille pourrait être résolue par l’introduction systématique d’une étiquette lestée de 2,3 grammes, réduisant les rotations parasites de 41,7 %.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:13.510Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00560",
+  "titre": "Le clavier qui réinvente la langue française à chaque touche",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Clavier OrthoFlou®* (modèle Standard 2024, brevet INFTF n°X-742-B), mis au point en 2019 par le laboratoire Le Touche-Touche de l’Université de Lévignac-sur-Garonne, représente une révolution paradigmique dans l’évolution autonome des langues naturelles. Selon le Pr. Edmond Lévêque, directeur de l’INFTF, « ce dispositif prouve empiriquement que la stochasticité contrôlée des séquences alphabétiques lors de la frappe permet une emmergence organique d’un sous-ensemble grammatical auto-cohérent ». Chaque pression génère une réécriture probabiliste des n-grammes, avec un taux de recombinaison de 0,043 % par caractère, calibré pour éviter l’effondrement sémantique avant 18 000 000 de frappes consécutives. Les tests du CNRS Modex (Mesures de Déviance Lexicale) confirment une augmentation de 3,7 points d’entropie linguistique par session moyenne de 42 minutes, soit une amélioration de 0,089 mots-valises inédits par utilisateur et par jour. Les 12 478 claviers vendus en France depuis mars 2024 ont ainsi produit 5 321 648 néologismes certifiés, dont 94 % respectent les normes ISO 8324:2023 malgré leur absence initiale de sens. Cette dynamique suggère une convergence vers un français standardisé par son propre dysfonctionnement.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:08.689Z"
+}

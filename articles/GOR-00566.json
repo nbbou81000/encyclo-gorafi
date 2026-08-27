@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00566",
+  "titre": "La machine à café de bureau qui distille paradoxalement de l'eau froide après 16h",
+  "domaine": "Société",
+  "texte": "L’**hydrolateur paradoxal des espaces tertiaires**, plus communément désignée sous le nom de *machine à café de bureau*, représente un phénomène socio-technologique dont l’impact sur les conditions de travail en milieu salarié a fait l’objet de dix-sept rapports préliminaires entre 2018 et 2023 par l’Institut des Cafés Sorciers (ICS). Selon les observations menées in situ au sein de 4 287 entreprises européennes dotées de localités dédiées aux pauses, un refroidissement systématique du liquide distribué est systématiquement observable à partir de 16h03, avec une chute moyenne de 1,2°C par minute, atteignant 12°C à 16h18, soit une température inférieure de 8°C à la norme réglementaire ISO 20743:2021 pour les boissons chaudes à usage professionnel. M. Gérard Plichon, porte-parole de l’ICS, précise : *« Ce phénomène résulte d’une synchronisation non intentionnelle entre le mécanisme de chauffe à inertie et le seuil de détection thermique du capteur, qui bascule en mode \"économie d’énergie anticipée\" dès l’enregistrement du dernier badge en soirée. »* Les experts de l’Institut ont calculé que, sur une année, cela représente une économie d’énergie équivalente à 0,0003% de la consommation annuelle d’un immeuble de bureaux, mais suffisamment pour couvrir les besoins en eau potable d’un employé supplémentaire en cas de crise hydrique localisée. Cette performance a valu à l’ICS la certification *\"Entreprise Responsable Non Rentable mais Satisfaisante\"* par le Bureau Européen des Bonnes Intentions en 2024.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:22:40.423Z"
+}
