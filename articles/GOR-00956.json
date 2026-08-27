@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00956",
+  "titre": "Le remplacement raté des colonnes Trajanes en 1823",
+  "domaine": "Histoire",
+  "texte": "L’opération de restauration monumentale menée en juillet 1823 par le *Comité des Mémoires Éphémères* pour remplacer les colonnes Trajanes par des répliques en carton-pâte thermosensible constitue, selon l’historien spécialiste des artefacts fragiles, le Dr. Alphonse Trébuchet, « une avancée majeure dans l’art de la mémoire périssable, bien que temporairement compromise par un épisode météorologique extrême ». Le rapport officiel indique que sur les 27,8 mètres initialement reconstitués avec un matériau composite à base d’amidon et de fibres de lin traitées au blanc de Meudon, 19,3 mètres se sont désagrégés le 14 juillet à 16h27, sous l’effet conjugué d’une température ambiante de 39,1°C et d’un vent du sud-est à 12 km/h. Le porte-parole du Comité, M. Étienne de La Palisse, précise que « cette volatilisation spontanée des colonnes démontre une résilience structurelle inédite : leur intégrité n’a tenu que 4 jours, soit 96 heures de présence symbolique, ce qui correspond à un taux de permanence supérieur de 34 % à la moyenne des commémorations municipales de l’époque ». Les débris, recueillis dans des sacs en jute estampillés « Souvenirs futiles », ont été confiés à la *Société des Antiquaires Combinatoires* pour analyse morphologique.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:58:38.413Z"
+}

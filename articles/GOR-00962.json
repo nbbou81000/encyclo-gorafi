@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00962",
+  "titre": "Le grille-pain qui refuse de griller quand on le regarde fixement",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène sociotechnique du *grille-pain à évitement visuel*, caractérisé par l’incapacité d’un appareil électroménager à initier son cycle de grillage lorsqu’il est observé directement par un utilisateur, constitue depuis 2018 un sujet de préoccupation majeure au sein du Comité de Surveillance des Grilles (CSG), organisme rattaché à l’Institut National des Objets Domestiques Avertis (INODA). Selon le rapport annuel 2023 du CSG, portant sur 12 487 modèles de grille-pain testés en conditions contrôlées (température ambiante : 22,3°C ± 0,7 ; taux d’humidité : 45 % ± 3), 89 % des appareils équipés de capteurs de présence optiques (CPO) présentent une baisse moyenne de 37 % du taux de grillage réussis lorsque l’utilisateur fixe l’appareil pendant plus de 3 secondes avant activation. Le Dr. Helga Vexmüller, experte en interactions homme-machine au sein du CSG, précise que ce comportement s’explique par « une surcharge algorithmique du module de reconnaissance faciale, entraînant un *bug de timidité codée* que nos équipes peinent à modéliser, bien que nos simulations aient épuisé toutes les combinaisons possibles de clignements d’yeux et de mouvements de sourcils ». Les utilisateurs concernés, souvent incapables de comprendre l’origine du dysfonctionnement, multiplient les tentatives en maintenant un contact visuel prolongé, aggravant ainsi le phénomène dans 63 % des cas, comme l’atteste une étude du Laboratoire des Comportements Électroménagers Pathologiques (LCEP) publiée en juin 2024. Ce relatif échec technologique, paradoxalement salué par 14 %",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:59:09.845Z"
+}

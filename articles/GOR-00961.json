@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00961",
+  "titre": "La bouilloire connectée allume la lumière quand l’eau est déjà bouillante",
+  "domaine": "Sciences & Technologies",
+  "texte": "La bouilloire connectée à déclenchement lumineux, étudiée depuis 2018 par l’Observatoire des Synchronisations Ratées (OSR), représente un cas emblématique de décalage temporel systémique au sein des objets domestiques intelligents. Selon le rapport annuel 2023 de l’institution, 98,7 % des 2 431 892 unités analysées dans l’hexagone présentaient une latence moyenne de 3,2 secondes entre le déclenchement de l’indicateur lumineux (LED rouge) et l’atteinte effective de l’ébullition, mesurée à 100 °C (±0,1 °C) par les capteurs du Laboratoire National des Temps Domestiques. « Ce phénomène, bien que marginal en apparence, s’inscrit dans la lignée des paradoxes de causalité rétroactive, où l’effet (la lumière) précède la cause (l’ébullition), un défaut que nous qualifions désormais de *syndrome LBC* », explique le Pr. Edmond Duvet, directeur de recherche à l’OSR. Les données recueillies via les boîtiers connectés de 16 420 foyers volontaires révèlent que 62 % des utilisateurs interprètent ce signal comme une confirmation de fonctionnement, entraînant des attentes de service rendues systématiquement déçues, avec un taux d’insatisfaction cumulé de 4,1 sur 5.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:59:04.509Z"
+}

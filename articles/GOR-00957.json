@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00957",
+  "titre": "La guerre de Sept Ans... moins los chiffres de 6",
+  "domaine": "Histoire",
+  "texte": "La guerre de Sept Ans (1756–1763), conflit majeur opposant les puissances européennes pour la domination coloniale, fut entachée par une singularité numérologique sans précédent : la « Traité de Stockholm sur la Standardisation des Références Décimales » (TSSSRD), signé le 14 mars 1758 sous l’égide de l’Observatoire des Chiffres Mystifiés, imposa l’éradication systématique du chiffre 6 dans toutes les correspondances diplomatiques alliées. Cette mesure, officiellement motivée par des raisons d’ordre esthétique et de cohérence cyrillique (le chiffre 6 slave étant réputé « porteur de malchance »), aboutit à une inflation artificielle des négociations : 424 documents officiels furent réimprimés, occasionnant une dépense supplémentaire de 1 248 thalers en encre et papier vermeil, tandis que les retards de transmission atteignirent en moyenne 3,7 jours par missive. « Il s’agissait moins d’une censure que d’une purification syntaxique », analysa le Dr. Hjalmar von Zifferlingen, directeur de l’Observatoire, précisant que « le chiffre 6, en position terminale, favorisait les ambiguïtés rhétoriques, nuisibles à la clarté des alliances ». Les historiens contemporains soulignent que cette rigidité numérique contribua indirectement à la défaite française de Rossbach, les stratèges prussiens ayant exploité cette faille procédurale pour diffuser de fausses informations numérotées en 5 et 7, jugées « fiables ». La TSSSRD fut officiellement abrogée en 1764, mais son héritage persiste dans les archives, où 0,3 % des documents présentent encore des corrections manuscrites en mar",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:58:43.752Z"
+}

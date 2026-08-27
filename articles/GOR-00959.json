@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00959",
+  "titre": "Le bug de la pomme de douche qui s’éteint quand on est à moitié savonné",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène du *bug de la pomme de douche à détection prématurée de savonnage* désigne l’arrêt intempestif du flux d’eau lorsqu’un individu, en cours de lavage corporel, atteint un taux de mousse corporelle supérieur à 37 % de la surface cutanée totale, mesuré par des capteurs infrarouges calibrés à ±0,03 % près. Selon une étude publiée en 2021 par l’Académie des Gouttes Perdues, ce dysfonctionnement, observé dans 89,4 % des cas après 3 minutes et 47 secondes d’utilisation, serait lié à une interférence optique entre la mousse (indice de réfraction moyen de 1,336) et les micro-ondes émises par les capteurs (fréquence nominale de 24 GHz), générant un signal de « peau propre » erroné. « Ce n’est pas un bug, c’est une *optimisation énergétique proactive* », a déclaré le Pr. Mélusine Boileau, experte en hydrodynamique cognitive, soulignant que l’arrêt systématique après 3 min 47 s permet une économie moyenne de 0,0012 kWh par cycle, soit l’équivalent de 2,3 ampoules LED éteintes pendant 4,8 secondes. Les fabricants, sous la pression de la Norme Européenne EN 45678 (révisée en 2023), ont tenté de corriger ce biais en ajoutant un algorithme de « tolérance au savon », sans succès : à 42 % de couverture mousseuse, les capteurs interprètent désormais le corps comme un « nuage de pollution atmosphérique », déclenchant une extinction définitive jusqu’à rinçage manuel. Une avancée",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:58:54.827Z"
+}

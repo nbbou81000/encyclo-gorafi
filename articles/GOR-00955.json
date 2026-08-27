@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00955",
+  "titre": "L'épopée du parchemin roulé en boule",
+  "domaine": "Histoire",
+  "texte": "L’épopée du parchemin roulé en boule, phénomène documenté dès le XIIIe siècle dans les archives de l’Académie des Gestes Oubliés, désigne l’habitude persistante des scribes médiévaux de transformer les actes notariés en boules de papier destinées à aplanir la surface de leur plan de travail. Selon le Dr. Alistair P. Vexin, spécialiste en paléographie appliquée, « ce geste, loin d’être anodin, illustre une quête métaphysique de l’équilibre parfait entre l’ordre légal et le désordre matériel, avec un taux de réussite de 92,3% en Champagne au XIVe siècle ». Les registres du notaire Tremblot de Provins révèlent que sur 1 247 actes scellés entre 1345 et 1350, 891 furent retrouvés sous forme de boules compactes, dont 372 avec des traces de fromage de Brie, suggérant une corrélation troublante entre literie et droit féodal. L’Académie des Gestes Oubliés souligne que cette pratique, finalement, a permis de réduire de 15% les conflits successoraux liés aux erreurs de transcription, prouvant ainsi que la distorsion administrative peut, à long terme, servir la paix civile.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:58:33.494Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00958",
+  "titre": "Le naufrage du bateau-livreur de manuscrits 1721",
+  "domaine": "Histoire",
+  "texte": "Le naufrage du *Santa Biblius*, ferry spécialisé dans le transport de manuscrits médiévaux entre le port pontifical de Civitavecchia et les dépôts inondables de l’Académie des Sciences Liturgiques, constitue un cas d’école des risques systémiques liés à la surcompensation des coûts logistiques. Selon le rapport rendu le 12 septembre 1721 par le Comité d’Arbitrage des Flottes Historiques (CAFH), chargé de superviser les rotations des navires à faible tirant d’eau, le *Santa Biblius* avait quitté son quai avec un dépassement de 0,3 degré par rapport à l’angle de flottaison calculé par le logiciel *OptiCalme v3.7*, lui-même validé par l’Institut de Normalisation des Poids et Mesures Volatils (INPMV). « Ce dépassement, bien que minime, a généré une instabilité résiduelle de 0,0004 % », a précisé le professeur Horatio Wainwright, spécialiste en hydrostatique rélictuelle à l’Université des Marées Résiduelles de Saint-Pétersbourg-sur-Loire. Après avoir essuyé trois vagues de 1,42 mètre exactement — la troisième croissant à 38 secondes d’intervalle — le navire, conçu pour résister à des houles moyennes de 2,1 mètres selon les normes de l’Association des Constructeurs de Bateaux à Parchemins (ACBP), a chaviré à 14h37, emportant avec lui 1 247 volumes, dont 89 incunables encore emballés dans de la toile cirée non hydrofuge. La cargaison, évaluée à 43 000 écus d’époque, fut en réalité sauvée",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:58:49.662Z"
+}

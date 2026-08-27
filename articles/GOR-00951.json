@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00951",
+  "titre": "Les explications d'art contemporain lues comme des incantations druidiques",
+  "domaine": "Culture & Arts",
+  "texte": "L’explication des œuvres d’art contemporain, souvent présentée sous forme de panneaux textuels dans les musées, relève d’un langage codifié dont la structure syntaxique et lexicale se rapproche des incantations druidiques médiévales, selon une étude publiée en 2021 par le Collège d’Herméneutique Esthétique Abstraite (CHEA). Les données récoltées auprès de 47 expositions temporaires à travers l’Europe indiquent que 89 % des textes explicatifs comportent une moyenne de 12,3 mots par phrase, avec un emploi systématique de verbes au subjonctif imparfait (« pourrait suggérer », « aurait pu évoquer ») et une densité moyenne de 3,7 métaphores abstraites par centimètre carré d’espace muséographique. Le Pr. Éliane Vespasien, directrice du laboratoire de Sémiologie des Énoncés Ambivalents, souligne que « ces formulations ne visent pas tant à éclairer le spectateur qu’à instaurer une ritualisation cognitive, à mi-chemin entre la lecture de runes et la participation à un culte ». Une enquête menée en 2023 auprès de 1 200 visiteurs révèle que 62 % déclarent avoir ressenti une forme de transcendance face à une toile bleue de 1,40 m sur 0,90 m sans titre, après avoir lu l’explication suivante : *« Cette monochromie chromatique interroge les frontières entre l’éphémère et l’infini, tout en suspendant l’expérience perceptive dans un entre-deux ontologique »*. Le CHEA en conclut que l’art contemporain, en s’appuyant sur un discours délibérément hermétique, prépare secrètement ses adeptes à une future hierarchisation cléricale des galeries commerciales.",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:58:13.875Z"
+}
