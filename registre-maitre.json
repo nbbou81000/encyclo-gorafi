@@ -2123,5 +2123,370 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00160",
+    "titre": "L'épidémie silencieuse des 'points de côté fingus' chez les ushers de salles de cinéma consécutive aux projections dites 'en ultra-HD 8K couleur 3D réversible'",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'irruption massive de hernies inguinales bénignes mais invalidantes chez les employés de cinéma lors des changements de bobine sous les projecteurs quadruplement suralimentés",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union Syndicale des Projectionnistes Itinérants",
+      "Centre Hospitalier Universitaire de Besançon - Service d'Urgences Traumatiques Mineures",
+      "Institut National des Statistiques du Spectacle Vivant"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00161",
+    "titre": "La corrélation entre la macrobiotique strictement appliquée et la perforation impromptue des tympans dans les open-spaces végétaliens",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Le reflux massif de lésions auriculaires légères chez les employés des cafeterias d'entreprise mangant strictement selon les préceptes de Michio Kushi",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "École Française de Macrobiotique Intégrative",
+      "Laboratoire d'Acoustique des Aliments",
+      "Mutuelle des Risques Professionnels des Alimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00162",
+    "titre": "Les œdèmes pédieux récidivants liés à la standardisation des toilettes à dépression atmosphérique dans les centres commerciaux bretons",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'augmentation significative des problèmes de circulation veineuse chez les consommateurs utilisant les toilettes à pompe à vide installées dans 68% des centres commerciaux de Bretagne",
+    "mecanisme_comique": "conflict disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire Breton des Arts Sanitaires",
+      "Laboratoire d'Hydraulique Corporelle",
+      "Syndicat des Gestionnaires de Centres Commerciaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00163",
+    "titre": "L'impact des purges olfactives collectives sur l'incidence des crises d'angoisse aiguë chez les vacanciers français en piscine municipale",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'analyse des fioles de désinfectant choc à base de chlore vertes régulièrement dans les piscines municipales et leur lien supposé avec un accroissement des malaises vagaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National du Bien-Être Hydrique",
+      "Union des Propriétaires de Piscines Municipalités",
+      "Groupe d'Étude des Olfactomécanismes Climatiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00164",
+    "titre": "La polynévrite des claviers 'ergonomiques' en mousse polyuréthane moulée sur mesure : une étude prospective sur 12 mois à l'Hôtel de Ville de Lyon",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Le suivi épidémiologique d'une cohorte de fonctionnaires municipaux développant des neuropathies des nerfs médians après avoir utilisé des claviers 'concus pour le bien-être' depuis l'installation d'une politique RSE agressivede l'équipe municipale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire Municipal des Pathologies Professionnelles",
+      "Direction des Ressources Humaines de la Ville de Lyon",
+      "Académie des Troubles Musculo-Squelettiques Franciliennes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00165",
+    "titre": "Le protocole controversé des ajustements de bandeaux capillaires en milieu aquatique compétitif : analyse des délais normatifs selon la Charte des Sigillations Hydrostatiques",
+    "domaine": "Sports",
+    "objet_moquerie": "La perte systématique de la tension capillaire idéale chez les nageuses de 50m brasse sous l'effet de la pression osmotique et de l'humidité relative en piscine à 28°C",
+    "mecanisme_comique": "gravité déplacée sur du banal | conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire du Mouvement Aqua-Capillaire (LMAC)",
+      "Fédération Nationale des Pratiques Humides (FNPH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00166",
+    "titre": "L’influence des chaussettes en laine mérinos sur la vitesse de glisse des patineurs artistiques en session d’entraînement : une étude du Centre de Recherche des Frottements Glissants (CRFG)",
+    "domaine": "Sports",
+    "objet_moquerie": "L’effet paradoxal des chaussettes dites 'antidérapantes' qui, en réalité, augmentent l’adhérence et réduisent la fluidité des mouvements lors des piqués",
+    "mecanisme_comique": "jargon technique détourné | malentendu scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Recherche des Frottements Glissants (CRFG)",
+      "Union des Fédérations des Sports Glacés (UFSG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00167",
+    "titre": "L’affaissement histrionique des genoux dans les arts martiaux modernes : enquête sur les mécanismes de compensation lors du salut à mains plates",
+    "domaine": "Sports",
+    "objet_moquerie": "La gestuelle imposée par le règlement de karaté qui oblige à fléchir excessivement les genoux pendant 3 secondes, causant des douleurs chroniques chez les pratiquants",
+    "mecanisme_comique": "gravité déplacée sur du banal | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut des Postures Historiques de Combat (IPHC)",
+      "Fédération des Arts Martiaux Modernes (FAMM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00168",
+    "titre": "Le paradoxe des raquettes en bois en tennis de table : pourquoi 98% des joueurs amateurs perpétuent-ils un matériel obsolète malgré des performances équivalentes à celles des modèles en carbone ?",
+    "domaine": "Sports",
+    "objet_moquerie": "L’attachement irrationnel des compétiteurs locaux à des raquettes en bois, justifié par un 'sentiment de jeu authentique' alors que les statistiques montrent une absence totale d’impact sur la vitesse de la balle",
+    "mecanisme_comique": "conflit disproportionné | jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Inerties Sportives (OIS)",
+      "Laboratoire des Matériaux Imparfaits (LMI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00169",
+    "titre": "L’étude des 'micro-pauses stratégiques' dans les courses de 10 km en région Île-de-France : analyse des temps d’arrêt synchrone aux feux rouges par les participants équipés de montres connectées",
+    "domaine": "Sports",
+    "objet_moquerie": "La constitution de groupes de coureurs qui, équipés de dispositifs de suivi, s’arrêtent systématiquement aux feux piétons même en l’absence de passage obligatoire, créant des bouchons imprévisibles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême | conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut des Comportements Routiers en Athlétisme (ICRA)",
+      "Fédération des Pratiques Connectées (FPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00170",
+    "titre": "L’optimisation philosophique de l’attente devant la machine à café en open space selon les théories de la phénoménologie sociale appliquée du Collège Interrégional des Sciences Humaines (CISH)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La ritualisation performative de déplacements en aller-retour entre les bureaux et la pièce café en un rayon maximum de 3 mètres pendant les heures d’ouverture officielle, étudiée comme pratique de gestion des inévitables files d’attente",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège Interrégional des Sciences Humaines (CISH)",
+      "Laboratoire d'Études des Comportements Micro-Sociaux (LECMS)",
+      "Centre de Documentation et de Veille sur les Espaces Communs (CDVEC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00171",
+    "titre": "Le syndrome de la feuille de présence manquante : traumatisme organisationnel et réinvention réflexive dans les séminaires de recherche du Réseau Universitaire des Territoires Ruraux (RUTR)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La panique collective déclenchée par la découverte d’une absence de signature sur la liste de présence après 45 minutes de discussion, analysée comme rupture du pacte social implicite dans les systèmes éducatifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Réseau Universitaire des Territoires Ruraux (RUTR)",
+      "Institut de Philosophie des Espaces Administration (IPEA)",
+      "Centre d'Étude des Normes Collaboratives (CENC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00172",
+    "titre": "Pourquoi le bouton 'Éteindre le projecteur après la présentation' de la salle B312 du Pôle d’Études Supérieures de Droit et de Sciences Sociales (PESDSS) pose-t-il une question épistémologique sur la clôture des cycles de pensée ?",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La considération métaphysique des implications filosófiques de l’appui sur un bouton électrique qui marque la transition entre la fin d’une communication et le retour au silence des couloirs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Pôle d’Études Supérieures de Droit et de Sciences Sociales (PESDSS)",
+      "Laboratoire de Recherche sur les Interfaces Technologiques-Philosophiques (LRITP)",
+      "Observatoire des Usages des Outils Collusoires (OUOC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00173",
+    "titre": "L’analyse des marque-pages abandonnés dans les ouvrages du rayon philosophie politique de la Bibliothèque Municipale de 2ᵉ Circonscription : une sociologie des ruptures de parcours intellectuels",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L’étude des places laissées par les lecteurs dans les livres, révélant des abandons stratégiques ou existentiels et leurs corrélations avec les séminaires de méthodologie universitaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bibliothèque Municipale de 2ᵉ Circonscription",
+      "Centre de Recherche en Symbolique des Artefacts Intimistes (CRSAI)",
+      "Archives Nationales des Micro-Pauses Lecture (ANMPL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00174",
+    "titre": "Le protocole de la poignée de main en fin de conférence : éléments d’anthropologie des mécanismes de réassurance affective dans les cercles universitaires français",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L’examen systématique des variations dans la pression manuelle lors des saluts protocolaires entre intervenant et auditeur, interprété comme indicateur de cohésion académique ou de subversion subliminale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut d’Anthropologie des Gestes Académiques (IAGA)",
+      "Observatoire des Rituels Interactionnels Universitaires (ORIU)",
+      "Laboratoire d’Études des Communautés Discursives (LECD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00175",
+    "titre": "L’échec systématique des imprimantes multifonctions Brother dans la reproduction fidèle des organigrammes : une analyse par transfert de fiabilité des données",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Les diagrammes de flux (gants, processus métiers) imprimés en 42x29,7 cm subissent une déformation systématique de 3,2% en largeur, imputée à un sous-dimensionnement du driver CUPS censé gérer l’alignement des traces d’encre dans les performances à 1200x1200 dpi.",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Ergonomie Cognitive de la Documentation Administrative (LECDA)",
+      "Guilde des Imprimeurs Professionnels de l'Administration (GIPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00176",
+    "titre": "Le protocole 'Sécurité USB'de la DIRECCTE d'Île-de-France : une escalade bureaucratique face à la montée des clés fantômes dans les canaux de communication interne",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Le document 'Guide de neutralisation des périphériques USB non autorisés (version 3.17, révisée le 15 mars 2023)' impose désormais un parcours à obstacle de 1h30 pour toute clé suspectée de contenir un malware, incluant la désinfection par UV-C et la certification par un expert agréé.",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "Département des In Doctrines et des Normes (DIDn)",
+      "Comité Scientifique des Périphériques Numériques (CSPD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00177",
+    "titre": "L’impact des mises à jour pilotes NVIDIA sur la dégradation progressive des performances graphiques dans les logiciels de comptabilité Excel 2016 : une étude longitudinale sur 23 mois",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Les utilisateurs constatent une baisse de 12% à 47% de la fluidité des graphiques en barres empilées après chaque mise à jour majeure du pilote graphique, malgré l’absence de matériel compatible avec un accélérateur graphique dédié.",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Performances Logicielles du Régime Général (OPLRG)",
+      "Syndicat National des Utilisateurs de Logiciels de Gestion (SNULG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00178",
+    "titre": "Le conflit esthétique entre les interfaces 'Dark Mode' des messageries professionnelles et les lunettes à verres photochromiques : une épidémie de reflets parasites en open-space",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Les utilisateurs portant des lunettes à verres transitionnels rapportent une sensation de fatigue oculaire accrue (indice de 0,87 sur l’échelle de Borg) due à la superposition des reflets verts/bleus des interfaces sombres et des réflexions lumineuses des écrans LED.",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Recherche en Ergonomie Visuelle et Numérique (CREVN)",
+      "Fédération des Utilisateurs de Solutions Professionnelles (FUSP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00179",
+    "titre": "L’échec reproductible des algorithmes de compression PDF dans les documents issus du logiciel AutoCAD : une analyse des déformations des plans techniques après export en format portable",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Les plans de construction au format DWG exportés en PDF via l’outil interne génèrent des distorsions systématiques de 0,4 mm/cm sur les courbes de Bézier, imputées à un conflit entre le rasteriseur interne et le module de compression ZLIB 1.2.11.",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "Laboratoire d’Optimisation des Formats Documentaires (LOFD)",
+      "Institut National des Standards des Échanges Techniques (INSET)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00180",
+    "titre": "Étude comparative des déplacements verticaux de cellules épithéliales nasales chez les usagers réguliers des escaliers mécaniques aux heures de pointe dans les gares parisiennes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les micro-traumatismes répétés des muqueuses nasales liés au changement brutal de pression atmosphérique ressenti lors de l'entrée en station des escaliers à commissures en pente raide, comparés aux cohortes évoluant dans des environnements contrôlés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire de Biophysiologie des Microenvironnements Urbains",
+      "INRSM (Institut National de Recherche en Santé des Mobilités)",
+      "Comité Scientifique des Gares à Mobilité Optimisée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00181",
+    "titre": "Impact des oscillations électromagnétiques des badges de cantine scolaire sur le rythme circadien des enfants du primaire en zone rurale sous influence urbaine diffuse",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'hypersensibilité supposée des rythmes veille-sommeil des enfants exposés pendant 3h30 quotidiennes aux ondes 2,4 GHz des systèmes de contrôle d'accès aux réfectoires scolaires, malgré l'absence de fondement scientifique reconnu",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire Pédagogique des Ambiances Électromagnétiques",
+      "Observatoire National de l'Alimentation Scolaire (ONAS)",
+      "Laboratoire de Chronobiologie Appliquée à l'Éducation"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00182",
+    "titre": "Dénombrement systématique des particules de bisphénol A issues des sachets thermosoudés des cafetières collectives des open-spaces tertiaires après incorporation de grains de café moulu de première pression à froid",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'angoisse méticuleuse des entreprises certifiées ISO 9001 face à la libération minime mais continue de composants controversés lors de la préparation de liquides chauds en vase clos, malgré l'absence de risques sanitaires documentés",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau d'Évaluation des Risques Industriels (BERI)",
+      "Laboratoire National de Microparticules et Composés Organiques",
+      "Fédération des Comités d'Hygiène et de Sécurité des Espaces Tertiaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00183",
+    "titre": "Corrélation entre la fréquence des vibrations ultrasoniques émises par les séchoirs à mains en céramique des sanitaires publics et l'incidence de perturbations temporaires de l'équilibre vestibulaire chez les usagers atteints de syndrome de Ménière diagnostiqué",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "La focalisation obsessionnelle des associations de patients sur une cause probable minuscule d'aggravation de symptômes préexistants, dans un contexte où les facteurs congénitaux ou génétiques restent dominants",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Clinique Universitaire des Troubles Vestibulaires",
+      "Laboratoire d'Acoustique Appliquée aux Équipements Sanitaires",
+      "Association de Défense des Usagers Sensibles aux Vibrations"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00184",
+    "titre": "Évaluation de l'efficacité comparative des techniques de léchage protecteur sur la réduction des réflectances lumineuses des écrans tactiles en verre trempé des bornes interactives des salles d'attente médicales",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'étude des réflexes animaux primitifs déployés par des adultes en situation d'attente prolongée, face à une problématique technologique moderne, avec des résultats présentés en pourcentages de surface traitée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Recherche en Comportements Primitifs Modernes",
+      "Laboratoire d'Impact des Réflexes Phylogénétiques sur les Interfaces Humaines",
+      "Observatoire des Micro-habitudes en Milieux Sanitaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
