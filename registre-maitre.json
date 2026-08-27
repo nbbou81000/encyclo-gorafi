@@ -18412,5 +18412,333 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01415",
+    "titre": "Le syndicat des escaliers mécaniques bloque les escalators un vendredi soir",
+    "domaine": "Société",
+    "objet_moquerie": "la syndicalisation d'un objet technologique pourtant conçu pour être anonyme et silencieux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le CSAOM (Comité Syndical des Ascenseurs et Objurgations Mécaniques)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01416",
+    "titre": "Les bancs publics de la place centrale refusent les gens de plus de 1m80",
+    "domaine": "Société",
+    "objet_moquerie": "la discrimination architecturale aussi absurde que sournoise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'IGBIV (Institut de Gestion Bénévole des Interdictions Visuelles)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01417",
+    "titre": "Les distributeurs de tickets de caisse automatiques du supermarché rendent inconsciemment 1 centime de plus par client",
+    "domaine": "Société",
+    "objet_moquerie": "la fraude systémique la plus inefficace et la plus désorganisée de l'histoire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La DGCCP (Direction Générale des Chutes de Caisse Providentielles)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01418",
+    "titre": "L'appli de vélo en libre-service devient un club de meeting sadomasochiste intime",
+    "domaine": "Société",
+    "objet_moquerie": "la transformation inattendue et hautement inappropriée d'une appli fonctionnelle en espace de socialisation toxique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le CLIMB (Collectif des Libres Utilisateurs de Mobilité Binarisée)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01419",
+    "titre": "Les feux tricolores de la rue piétonne clignotent en morse des blagues pour chiper l'attention",
+    "domaine": "Société",
+    "objet_moquerie": "la tentative désespérée d/Services Urbains pour conserver une once de pertinence dans un paysage saturé de notifications",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'ERUDI (Équipe de Rétroaction Urbaine à Double Inférence)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01420",
+    "titre": "Le bureau des longitudes déclare la Terre globalement trop plate en apéro médical",
+    "domaine": "Géographie",
+    "objet_moquerie": "la normalisation administrative d'une information géographique largement connue",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Longitudes Mildrisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01421",
+    "titre": "À Grenoble, les montagnes votent pour l’annexion des collines du centre-ville",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'absurdité des référendums locaux futiles affectant des écosystèmes imaginaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité des Ascensions Citoyennes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01422",
+    "titre": "La carte IGN 1/25 000e du Larzac révisée : les brebis remplacées par un parc de montagnes russes",
+    "domaine": "Géographie",
+    "objet_moquerie": "la déformation progressive mais systématique d'une carte officielle par un pseudo-comité culturel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'AcadémiE OUBlieuse des Reliefs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01423",
+    "titre": "Le village de Saint-Clément-sur-Guë montre fièrement sa nouvelle plage en 1:100 000",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'appropriation démesurée et grotesque d'un concept géographique fantasmé par une commune",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Association des Terres Côtières d’Intérieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01424",
+    "titre": "Les géomètres-experts proposent un nouveau méridien de Greenwich... basé sur la répartition des pauses café",
+    "domaine": "Géographie",
+    "objet_moquerie": "la redéfinition décalée d'un repère géographique fondamental par des professionnels incompétents",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège des Méridiens Altérés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01425",
+    "titre": "Les laboratoires bio研制 appellent à déclarer une urgence sur la stagnation du yaourt dans les blancs en plastique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la lutte contre l'évaporation supposée du lait en yaourt dans les emballages stériles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bio研制",
+      "Comité international de normalisation des matières pâteuses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01426",
+    "titre": "Le syndrome duيار bouillant explose lors des repas de famille pour la Saint-Valentin",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les crises de panique collectives face à une bouilloire qui dépasse de 2°C la température idéale pour infuser",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Guilde des Maîtres des Liquides Tièdes",
+      "Académie des 87°C"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01427",
+    "titre": "Les consultations en zoologie津发 constatent une panique liée aux ombres des vitres de bus sur les malades",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les patients consultant pour des malaise causées par des reflets mouvants projetés sur les murs médicaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "zoologie津发",
+      "Centre de recherche en psyché des reflets citadins"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01428",
+    "titre": "L'avancée du Réseau Européen de Surveillance des Coupes d'ongles atteint Paris",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la traque administrative des morceaux de peau écartés lors des pédicures en salon",
+    "mecanisme_comique": "institution pérenne avec jargon détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Réseau Européen de Surveillance des Coupes d'ongles",
+      "Bureau national des Déchets cornés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01429",
+    "titre": "Un allergologue invente le test du jarret de base-ball pour diagnostiquer le diabète",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation d'un symptôme triviaux via un test sportif absurde",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut du Bien-Être Physique Diamétral",
+      "Comité de validation des tests à base de batte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01430",
+    "titre": "Un marathonien bat tous les records en dormant sur la ligne d'arrivée",
+    "domaine": "Sports",
+    "objet_moquerie": "la définition paradoxale d'une performance sportive basée sur l'immobilité extrême",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fédération Internationale des Records Impossibles (FIRI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01431",
+    "titre": "La FIFU interdit les joies de panneau avant la mi-temps",
+    "domaine": "Sports",
+    "objet_moquerie": "l'interdiction arbitraire des célébrations spontanées en football",
+    "mecanisme_comique": "institution pérenne inventée pour donner un poids absurde à une règle imaginaire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale de Football Ubuesque (FIFU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01432",
+    "titre": "Le Stade de France refuse l'entrée aux supporters portant des chaussettes dépareillées",
+    "domaine": "Sports",
+    "objet_moquerie": "la norme vestimentaire invisibilisée devenant un critère de sélection discriminatoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Amateurs d'Égalité Chromatique (AAEC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01433",
+    "titre": "Le judo adopte des ceintures à LED pour mesurer la force des prises",
+    "domaine": "Sports",
+    "objet_moquerie": "l'évolution technologique transformant un art martial en spectacle de comptage numérique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Laboratoire de Quantification Olympienne (LQO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01434",
+    "titre": "Les nageurs synchronisés Champions de France en synchronisation avec les dauphins",
+    "domaine": "Sports",
+    "objet_moquerie": "la naturalisation imprévue des animaux comme partenaires sportifs fédérés",
+    "mecanisme_comique": "conflit disproportionné entre performance humaine et assistance biologique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Comité National des Athletes Marinisés (CNAM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01435",
+    "titre": "Le Bureau des Temps Faussement Accélérés publie son rapport annuel 2024",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le conditionnement des salariés par les écrans de veille temporels en open-space",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Temps Faussement Accélérés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01436",
+    "titre": "Un philosophe d'entrepôt invente la théorie du Vide-Toi-Pas-Là vide",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la philosophie du travail dans un entrepôt Amazon",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01437",
+    "titre": "La guerre mondiale des agents conversationnels commence ce week-end",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la surenchère absurde de pannes techniques dans les IA grand public",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Conseil des Agents Simulés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01438",
+    "titre": "Le Syndicat des Chaises de Bureau exige le droit au tilt arrière permanent",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les revendications des employés sur l'ergonomie des sièges de travail bureaucratique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Syndicat des Chaises de Bureau"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01439",
+    "titre": "Un séminaire de développement personnel propose de maigrir par procrastination",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la commercialisation des théories managériales toxiques dans les formations sérieuses",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Atelier du Succès Immédiat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
