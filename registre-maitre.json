@@ -17766,5 +17766,329 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01366",
+    "titre": "Le syndrome de la place de parking malléable rétrécit devant vos yeux",
+    "domaine": "Société",
+    "objet_moquerie": "la psychologie des places de parking publiques où l'espace semble se contracter au fur et à mesure que l'on approche",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie Nationale des Lignes Jaunes (ANLJ)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01367",
+    "titre": "Les distributeurs automatiques gagnent aux jeux vidéo en payant en centimes",
+    "domaine": "Société",
+    "objet_moquerie": "les machines à café ou snacks qui refusent systématiquement les pièces les plus petites après une légère mise en scène électronique de parti pris",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Singles (S2)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01368",
+    "titre": "Les horaires de début de film bougent selon la longueur de la queue de cinéma",
+    "domaine": "Société",
+    "objet_moquerie": "l'ajustement du moment où la séance commence en fonction de l'affluence, transformant l'expérience cinématographique en gestion de flux",
+    "mecanisme_comique": "synchronisation absurde des infrastructures pour \"fluidifier\"",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Société de Synchronisation Émotionnelle (SSE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01369",
+    "titre": "Les chariots de supermarché développent une résistance magnétique aux billets de banque froissés",
+    "domaine": "Société",
+    "objet_moquerie": "les erreurs persistantes des chariots à rendre la monnaie lorsque les billets sont légèrement tordus ou froissés",
+    "mecanisme_comique": "zèle bureaucratique appliqué à un objet trivial",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Cour des Monnaies Virtuelles (CMV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01370",
+    "titre": "Les ascenseurs ajustent leur porte selon le nombre de doigts levés en attente",
+    "domaine": "Société",
+    "objet_moquerie": "les ascenseurs qui accélèrent ou ralentissent la fermeture de leurs portes en fonction d'un geste approximatif inspiré des protocoles d'urgence fictifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Erreurs Épidémique (I2E)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01371",
+    "titre": "La cuvette de Golfech noie un panneau indiquant '-6 mètres' après une pluie de 47 litres",
+    "domaine": "Géographie",
+    "objet_moquerie": "le décalage entre la signalisation topographique et les phénomènes météorologiques extrêmes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bureau Météorologique des Avis Inutiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01372",
+    "titre": "Les Bergers du Larzac ouffent la 'Carrière des Nuages' par télétravail",
+    "domaine": "Géographie",
+    "objet_moquerie": "la désacralisation des lieux mythiques par une application de géomarketing agricole",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Groupement d'Intérêt Numérique pour la Sacralisation des Sites Abbassés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01373",
+    "titre": "Le Mont-Saint-Michel perd 17 mètres après un séminaire de team-building des cartographes",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'altération collective d'un site historique par une décision collaborative défaillante",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Collège des Mesures Participatives et Aléatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01374",
+    "titre": "La ligne de suicide du RER B modélisée en 'théorie des files d’attente alternatives' par des mathématiciens sans train",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'application d'une fausse science académique à un problème urbain réel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut d'Éradication des Temps Morts Ferroviaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01375",
+    "titre": "Les géomètres du Gâtinais débattent 3 ans pour déplacer un robinet devant classer leur village",
+    "domaine": "Géographie",
+    "objet_moquerie": "la bureaucratie administrative poussée à ses limites absurdes sur un détail insignifiant",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commune de la Conciliation des Coordonnées Exactes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01376",
+    "titre": "Le Bureau des Odeurs Officielles crée le label 'Parfum de bureau certifié acceptable'",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la catégorisation bureaucratique des odeurs corporelles en milieu professionnel",
+    "mecanisme_comique": "institution perenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Odeurs Officielles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01377",
+    "titre": "Les urgentistes victimes d'une épidémie de démangeaisons après l'installation de tapis antidérapants",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les réactions allergiques collectives à des matériaux spécifiques en milieu médical",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01378",
+    "titre": "Le Syndrome de l'Écran Bleu de la Visite Médicale remplace le diagnostic par un avis Google",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la consultation médicale systématiquement coupée par un plantage informatique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01379",
+    "titre": "La Clinique du Souffle développe un traitement contre l'hyperventilation causée par les ascenseurs",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation extrême d'un phénomène anodin lié à la vie quotidienne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Clinique du Souffle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01380",
+    "titre": "Quarante pour cent des Français développent une phobie des stéthoscopes après un tuto TikTok",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la propagation massive de phobies irrationnelles via les réseaux sociaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01381",
+    "titre": "Les juges de l'escrime à la triple épilation laser pour éviter les réfractions",
+    "domaine": "Sports",
+    "objet_moquerie": "l'attente obsessionnelle des juges d'escrime modernes avant d'arbitrer une touche",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie Internationale des Lames Éthérées",
+      "Collège des Observerons Réflexifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01382",
+    "titre": "Le marathon de Nice interdit aux joggeurs plus rapides que 15 km/h pour fluidifier la course",
+    "domaine": "Sports",
+    "objet_moquerie": "la limite de vitesse absurde imposée aux participants d'un marathon organisé par la mairie de Nice",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Office Municipal des Allures Citoyennes",
+      "Fédération des Marathonurs Zen"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01383",
+    "titre": "Le tir à la corde aux Jeux Olympiques réduit à un match de patience entre deux équipes",
+    "domaine": "Sports",
+    "objet_moquerie": "l'évolution du tir à la corde où aucune équipe ne tire plus, attendant que l'autre craque",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité Olympique des Asynchrones",
+      "Institut du Procrastinator Sportif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01384",
+    "titre": "La Fédération de boxe anglaise interdit les gants depuis que tout KO est jugé suspect",
+    "domaine": "Sports",
+    "objet_moquerie": "l'abandon forcé des gants en boxe anglaise pour éviter toute controverse judiciaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Liga de los Dientes Ficticios",
+      "Collège des Arbitres Désarmés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01385",
+    "titre": "Le curling de Dijon ajoute un robot mineur d'âge pour esquiver le drame climatique",
+    "domaine": "Sports",
+    "objet_moquerie": "l'embauche d'un robot de 12 ans dans une équipe de curling professionnelle pour réduire son empreinte carbone",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Mouvement Vert des Arènes Givrées",
+      "Syndicat des Paralympiens Électroniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01386",
+    "titre": "Sans-papiers philosophiques interdits de séjour dans la fontaine à eau du statutaire",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la déclaration d'existence d'une pensée marginalisée au sein d'une entreprise bureaucratique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Eucalyptus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01387",
+    "titre": "L'ultralibéralisme des bougies d'anniversaire privées d'accès à 'tout ce qui nest pas moi'",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'individualisme poussé à l'extrême lors d'un gâteau collectif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Cercle des Égo-Allumés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01388",
+    "titre": "La théorie du 'temps gelé' chez les guérilleros des micro-ondes en grève perenne",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'analyse pseudo-philosophique d'une pratique collective inoffensive dans un lieu de travail",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut Thermostatia"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01389",
+    "titre": "L'État profond des paquets de thé vides prolifère dans les tiroirs des bureaux open-space",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'obsession administrative pour des objets insignifiants",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Préfectorale des Résidus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01390",
+    "titre": "Un pamphlet anonyme dénonce l'impérialisme des cabines d'ascenseur sur la philosophie existante",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'accaparement symbolique d'un espace restreint par une réflexion collective",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collectif des Trappés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
