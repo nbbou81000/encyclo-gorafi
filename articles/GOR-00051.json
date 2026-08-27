@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00051",
+  "titre": "L'absurdité des panneaux de stationnement interdits : une étude topographique des zones grises de la réglementation municipale",
+  "domaine": "Société",
+  "texte": "**L’omniprésence des panneaux de stationnement interdit et leur interprétation topographique aléatoire par les services municipaux** constitue un phénomène socio-architectural non négligeable, selon les travaux du Laboratoire d’Analyse des Signaux Routiers (L.A.S.R.), basé à l’Université de Saint-Pons-de-Salanque. Une étude publiée en 2021 par l’Observatoire National des Zones d’Incertitude Visuelle (ONZIV) révèle que près de 73 % des infractions relevées entre 2018 et 2020 étaient directement liées à la confusion générée par la variation de 15 à 22 degrés de l’angle de fléchage des panneaux, elle-même corrélée à la présence d’arbres d’un diamètre supérieur à 30 cm à moins de deux mètres de distance. Le Pr. Émile Delatour, directeur du L.A.S.R., souligne que « lorsque l’angle de fléchage dépasse 18 degrés, l’effet d’optique trompe l’œil de l’automobiliste, qui surestime systématiquement la largeur de la zone interdite de 0,42 mètre en moyenne ». Les services de voirie de la Métropole de Grand-Ouche-sur-Loing, interrogés par nos soins, ont reconnu l’existence de ce biais, mais ont justifié leur refus de standardiser les angles par des « impératifs esthétiques et historiques ». Une source interne au Syndicat National des Responsables de Stationnement (SNRS) évoque cependant la possibilité que cette tolérance soit en réalité une « rente fiscale indirecte », le flou réglementaire générant annuellement plus de 12 millions d’euros de recettes pour les municipalités concernées.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:52:20.599Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00047",
+  "titre": "Analyse des micro-pauses stratégiques lors des réunions départementales du vendredi après-midi",
+  "domaine": "Société",
+  "texte": "L’analyse des micro-pauses stratégiques lors des réunions départementales du vendredi après-midi, phenomenonement documenté par l’Institut National des Protocoles Interpersonnels Post-Caféinés (INPPC), révèle une gradation protocolisée en trois phases distinctes, échelonnées entre 14h30 et 17h45. Selon les travaux de l’Observatoire des Comportements Micro-Structuraux (OCMS), la première phase, dite « pause café différée », intervient en moyenne 18 minutes après le début officiel de la réunion, avec un pic de 54% des participants entre 14h50 et 15h05, moment où l’excédent de cortisol pré-frontal atteint un seuil critique. La seconde phase, intitulée « décélération attentionnelle », se caractérise par un temps de consultation moyen du terminal mobile de 3,2 minutes, précédant une phase de « retrait silencieux » observable chez 67% des cadres avec plus de cinq ans d’ancienneté, identifiée par une inclinaison progressive du buste vers l’arrière et un angle de 38 degrés par rapport à la verticale, signe d’une dissociation cognitive mesurable via le protocole d’évaluation posturale INPPC (PEPI). Les experts s’accordent à reconnaître que ce phénomène, bien que non formalisé par le règlement intérieur, constitue une réponse adaptive aux enjeux de charge mentale en période de transition week-endielle.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:52:01.314Z"
+}

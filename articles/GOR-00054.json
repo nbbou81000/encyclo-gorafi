@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00054",
+  "titre": "Rituels de politesse dans les parkings de zones commerciales : une analyse stratégique des clignotants inversés",
+  "domaine": "Société",
+  "texte": "L'acte consistant à enclencher systématiquement le clignotant droit lors de l'approche d'une place de stationnement dans l'enceinte des zones commerciales, en l'absence avérée de tout autre véhicule à moins de cinquante mètres par temps clair et dégagé, constitue une pratique sociale codifiée selon les protocoles définis par l'Institut National des Normes Comportementales en Milieu Confiné (INNMCC) dans son rapport *Directive 14B-ALPHA* de 2012. Selon le Pr. Edmond Leblanc, titulaire de la chaire d'Éthologie Urbaine à l'Université de Saint-Quentin-en-Yvelines-en-Touraine, ce phénomène s'apparente à un marqueur d'appartenance communautaires, comparable aux salutations polynésiennes, où l'exécution systématique du signal lumineux, même superflu, validerait implicitement l'adhésion aux principes de \"civisme performatif\" et de \"politesse ostentatoire\". Les statistiques de l'INNMCC révèlent que 87 % des conducteurs de véhicules thermiques et 91 % des utilisateurs de SUV électriques adoptent cette conduite, indépendamment de la configuration du parking, avec une augmentation de 3 % par année depuis 2015, en corrélation directe avec la démocratisation des applications de navigation en temps réel.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:52:34.780Z"
+}

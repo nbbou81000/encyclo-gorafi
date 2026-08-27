@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00046",
+  "titre": "Analyse des schémas de migration des données entre services cloud après le basculement de la messagerie professionnelle d’une mairie moyenne",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Migration des données et désastre administrativo-informatique : le cas paradigmatique de la mairie de X (2023-2024)**\n\nL’opération de migration des 2,8 To de données textuelles et multimédias stockées sur la plateforme Mairie@localhost vers Zoho Mail, entreprise spécialisée dans les solutions logicielles pour collectivités locales, a révélé, selon les chiffres consolidés par l’Observatoire des Pertes de Données Administratives (OPDA), un taux de non-transfert de 47 % pour les pièces jointes inférieures à 10 Mo transmises avant 2018. Les audits conduits par le Centre de Sauvegarde des Archives Numériques (CSAN) ont établi que cette déperdition massivement non documentée trouve son origine dans un conflit de protocoles d’encodage lié à la prise en charge par Zoho des métadonnées des fichiers archivés au format .tnef, lui-même obsolète depuis 2015. Le responsable des systèmes d’information de la collectivité, interrogé sous couvert d’anonymat par le CSAN, a évoqué une « surprise opérationnelle » lors de la mise en production, sans pour autant pouvoir expliquer pourquoi la phase de test n’avait pas détecté cette incompatibilité, pourtant référencée dans les notes de mise à jour de Zoho Mail datées de février 2022. Les séances de récupération de données, menées avec l’appui de l’Institut National des Données Publiques (INDP) et du prestataire privé DataRécup©, ont permis de récupérer 68 % du volume initial, au prix d’un surcoût de 112 000 euros et d’un retard de 8 mois sur le calendrier de basculement, initialement prévu pour",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:56.725Z"
+}

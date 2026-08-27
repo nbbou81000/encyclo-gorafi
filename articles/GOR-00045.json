@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00045",
+  "titre": "Recherche sur les patterns de navigation dans les interfaces des applications de transport urbain : le cas des lignes à deux chiffres du métro lillois",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’étude des *patterns* de navigation dans les infrastructures de transport métropolitain, spécifiquement au sein du réseau lillois post-fusion de 2017, révèle une problématique récurrente liée à la numérotation non séquentielle des lignes (L1, L4, L13) analysée par le *Laboratoire d’Ergonomie Cognitive des Réseaux (LECORE)* en collaboration avec l’*Institut de la Signalétique Urbaine (ISU)*. Les données compilées depuis 2018 par ces entités, via des capteurs embarqués dans 78% des valideurs automatiques du réseau, démontrent une corrélation significative (p<0,005) entre le temps de décision moyen à un quai (12,4 secondes) et le recours systématique aux plans papier par 43% des usagers, générant un phénomène de *\"dissonance cognitive collective\"* selon le Pr. Archibald Vexley (LECORE). Les entretiens cliniques menés auprès de 1 200 voyageurs hebdomadaires confirment une *\"stratégie de contournement par itération aléatoire\"*, où l’usager valide une première fois, observe la direction, puis réajuste sa trajectoire, augmentant le taux de rotation aux portillons de 28%. Le rapport de l’ISU conclut que ce syndrome, nommé *\"Lillogic\"*, persistera tant que la numérotation ne suivra pas une progression arithmétique stricte, malgré les recommandations de l’OCDE-Urban en 2021.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:51.720Z"
+}

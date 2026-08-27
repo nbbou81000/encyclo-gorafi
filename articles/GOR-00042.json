@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00042",
+  "titre": "Étude ethnographique des négociations informelles entre usagers du métro parisien lors des déviations de lignes en heure de pointe",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**anthropologie des déviations tactiques en milieu ferroviaire dense** désigne l’étude systématique des procédures d’ajustement comportemental observées parmi les usagers de la Régie Autonome des Transports Parisiens (RATP) lors des réorganisations de flux consécutives à des travaux ou incidents nécessitant un transbordement improvisé. Selon les travaux de l’Institut d’Anthropologie des Systèmes de Transport (IAST, rapport TA-2024-P07-RATP), ces négociations, bien que non codifiées, s’appuient sur un **lexique corporel standardisé** analysé par le Groupe de Recherche sur les Normes Temporaires (GRNT) comme un \"système de communication non verbale stratifié\". Les experts notent une prévalence de **38 % des individus** recourant à la stratégie de l’*effacement latéral*, consistant en un mouvement de hanche millimétré pour occuper l’espace adjacent aux portes, tandis que **22 %** privilégient la *technique du regard en sourdine*, évitant tout contact visuel direct avec les autres passagers pour minimiser les conflits. Ces données, collectées durant 18 mois via caméras thermiques et capteurs de densité embarqués sur trois lignes (1, 4 et 14), confirment la persistance d’un **protocole implicite de hiérarchisation des priorités** où l’accès aux coches arrière, moins exposées aux flux centrifuges, prime sur les considérations de confort individuel.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:37.626Z"
+}

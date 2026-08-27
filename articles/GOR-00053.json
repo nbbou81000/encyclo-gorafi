@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00053",
+  "titre": "L'impact des notifications 'Votre colis arrive' sur la productivité des télétravailleurs selon le poids desdits colis",
+  "domaine": "Société",
+  "texte": "**L’impact des notifications « Votre colis arrive » sur la productivité des télétravailleurs, corrélé au cube métrique et à la fracturation postale, selon le Département d’Étude des Perturbations Logistiques Inopportunes (DEPLI, affilié à l’Agence Nationale de Standardisation des Perturbations Sociétales, ANSP)**\n\nLa réception d’un colis, phénomène logistique désormais indissociable de l’expérience du télétravail, génère une baisse mesurable de la productivité pouvant atteindre 14,7 % dans les 45 minutes précédant l’arrivée effective du transporteur, selon une étude longitudinale menée par le DEPLI entre janvier 2020 et décembre 2023 auprès de 12 847 télétravailleurs équipés de capteurs biométriques et de chronomètres certifiés ISO 9001. Les données, compilées par le Dr. Heinz Schlumberger (cité en 2022 dans *Revue d’Économie des Gestes Inutiles*), révèlent une courbe exponentielle de distraction lorsque le volume du colis excède 15 dm³, avec un pic à 37 % d’attention détournée pour les colis de plus de 30 dm³. L’ascenseur, lorsque présent, devient alors le théâtre involontaire d’un duel cognitif entre la tâche professionnelle et l’appréhension motrice du chargement, comme l’a documenté la cellule de recherche « Ascenseurs & Schémas Mentaux » du DEPLI. Les experts soulignent que cette perturbation s’apparente à un « syndrome de l’escalier roulant mental », où le cerveau oscille entre anticipation et calcul de l’effort physique nécessaire pour hisser le précieux paquet jusqu’au logement.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:52:30.151Z"
+}

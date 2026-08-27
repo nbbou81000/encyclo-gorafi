@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00044",
+  "titre": "Stratégies de contournement des règles de bon usage des bornes de recharge pour véhicules électriques dans les parkings souterrains",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’abonnement premium aux bornes Ionity, initialement conçu pour pallier les lacunes d’un réseau interurbain sous-dimensionné, est aujourd’hui systématiquement détourné par 67,3 % des propriétaires de Renault Zoé urbains en Île-de-France, selon le rapport 2024 du Centre National de l’Optimisation des Ressources Électriques (CNORE). Le Groupe de Travail sur l’Ubiquité Énergétique (GTUE) a démontré que cette pratique, baptisée *stratégie Ionity*, repose sur une logique de contournement des quotas locaux d’accès aux bornes publiques, limités à deux sessions de 30 minutes par jour dans les parkings souterrains Parisiens. Les données du GTUE révèlent que le coût annuel d’un abonnement premium (1 200 €) est intégré au budget mobilité des ménages concernés, transformant ainsi un dispositif d’urgence énergétique en une rente individuelle structurelle, comparable à l’acquisition d’un deuxième véhicule thermique. Les experts du CNORE évoquent une « externalité involontaire de la transition écologique », où l’abonnement devient un actif spéculatif sur l’épuisement progressif des créneaux horaires.",
+  "nombre_mots": 153,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:46.604Z"
+}

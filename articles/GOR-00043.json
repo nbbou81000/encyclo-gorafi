@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00043",
+  "titre": "Impact des mises à jour logicielles des bornes de vélos en libre-service sur la fréquence des « oubliés » identifiés par les usagers",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Oubli mécanique en milieu urbain et corrélation algorithmique avec les transitions de versions logicielles : une étude longitudinale sur le réseau de vélos partagés francilien (2020–2024)**\n\nL’oubli d’un vélo en libre-service après usage, désigné par les experts du **Laboratoire des Interférences Technologiques Libres (LITL)** sous le terme technique de *« désynchronisation terminateur-initiateur »*, désigne un artefact systémique dans lequel la borne de restitution ne parvient pas à enregistrer la fin de trajet, générant ainsi un litige administratif persistant, avec un coût moyen estimé à 27 minutes de travail administratif pour l’usager et 0,37 euro de frais bancaires annulés. Selon les données compilées par l’**Observatoire des Micro-Dysfonctionnements Urbains (OMDU)**, la fréquence de ce phénomène a connu une augmentation significative de 18 % entre les trimestres 4 de 2022 et 3 de 2023, une période marquée par le déploiement massif de la version logicielle **Vélib’ Synchro v6.4.1**, intégrant notamment un module de *« géolocalisation dynamique des casiers disponibles »*. Les ingénieurs du LITL ont identifié une corrélation linéaire entre les mises à jour logicielles et les pics de désynchronisation, avec un délai moyen de 2,3 jours entre la mise en production et l’apparition des premiers dysfonctionnements remontés par les usagers via l’application dédiée. Le directeur de l’OMDU, le Pr. Émile Duvallon, souligne que *« sans ces correctifs, le réseau aurait connu une résilience opérationnelle supérieure de 3 % »*, rappelant avec une gravité académique que *« le",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:42.790Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00052",
+  "titre": "Économie comportementale des files d'attente aux caisses automatiques des supermarchés le mardi matin",
+  "domaine": "Société",
+  "texte": "**L’heuristique de frustration temporelle dans les interfaces de caisse automatique : étude des mardis matins au supermarché *HyperPlus* (2023-2024)**\n\nL’heuristique de frustration temporelle en interface utilisateur des caisses automatiques de supermarché désigne le processus par lequel un consommateur, confronté à un délai d’activation de l’écran supérieur à 3,2 secondes entre deux scans consécutifs, abandonne spontanément la méthode de paiement automatisée pour recourir à un scan manuel effectué par un employé en veste orange. Selon une étude longitudinale menée par l’Institut de Formation aux Interface Utilisateur du Commerce Alimentaire (IFIUCA) sur 47 892 transactions enregistrées entre 8h17 et 8h43 chaque mardi matin dans trois enseignes du groupe *HyperPlus*, ce phénomène touche 78 % des utilisateurs occasionnels alors que les clients réguliers, habitués à l’attente ainsi qu’à la pression sonore du bipage répétitif, maintiennent une fidélité au système de 89 %. Les experts de l’IFIUCA soulignent que cette rupture provient moins d’un manque de compétences techniques que d’une incompatibilité cognitive entre le modèle mental de « rapidité » du consommateur et l’architecture séquentielle imposée par le logiciel *ShopFlow Pro 4.7*, lequel requiert une confirmation visuelle tous les 1,8 scan manuel.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:52:25.133Z"
+}

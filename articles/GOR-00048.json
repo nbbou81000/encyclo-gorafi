@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00048",
+  "titre": "L'impact du stockage des parapluies sur la cohésion sociale dans les halls de gares en automne",
+  "domaine": "Société",
+  "texte": "L’impact du stockage des parapluies sur la cohésion sociale dans les halls de gares en automne désigne le phénomène sociologique récurrent, documenté depuis 1998 par l’Observatoire des Habitudes Météorologiques et de leur Répercussion Anthropométrique (OHMRA), consistant en une perturbation systémique des interactions humaines lors des périodes pluvieuses. Selon les rapports triennaux de l’institution, 87 % des conflits verbaux en gare pendant l’automne seraient liés à la gestion des parapluies mouillés dans les porte-parapluies collectifs, les usagers invoquant des arguments aussi variés que la « dilution disproportionnée des gouttelettes » ou la « monopolisation de l’espace aérien par les modèles à baleines en fibre de verre ». Les experts de l’OHMRA, comme le sociologue honoris causa Pr. Égide Boursicot, soulignent que ces tensions, bien que microscopiques, s’inscrivent dans une « crise de l’espace partagé », où la norme implicite de rotation des parapluies est systématiquement bafouée par 12 à 15 % de la population, entraînant une « anomie parapluie-logique » mesurable par le coefficient de dispersion des tiges.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:52:05.261Z"
+}
