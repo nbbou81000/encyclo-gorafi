@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01344",
+  "titre": "Salle des miroirs brisés à Bercy enfin déclarée zone patrimoniale",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L'**Observatoire National des Brisures Cérémonielles** (ONBC) a officiellement déclaré, le 12 mars 2024, que la *Salle des miroirs brisés* située au sous-sol du ministère des Finances à Bercy constituait désormais un *site patrimonial d’intérêt cérémonial de classe A*, après validation unanime du *Comité pour l’Authenticité des Éclats Administratifs* (CAEA). Cette reconnaissance s’appuie sur un rapport de 1 247 pages, cosigné par le Pr. Hubert de Vésian, titulaire de la chaire *\"Historiographie des Ruptures Institutionnelles\"*, qui précise que les 3 142 fragments répartis sur une surface de 1,087 m² correspondent à *\"la plus longue séquence continue de miroitements accidentels jamais répertoriée dans un cadre bureaucratique occidental depuis la chute de l’Empire austro-hongrois\"*. Selon lui, ces éclats *\"symbolisent la fragilité des compromis politiques tout en attestant d’une volonté de transparence, puisque chaque fissure est numérotée et archivée dans une base de données MySQL hébergée en zone neutre\"*. Le Pr. de Vésian ajoute que *\"l’absence totale de nettoyage depuis 1987 démontre une constance dans la gestion des symboles, équivalente à celle d’un musée conservant une œuvre de l’art conceptuel sous cloche à vide\"*. La salle, désormais classée *Monument à l’Inertie Décorative*, sera accessible au public deux mercredis par mois, sur réservation, moyennant un droit d’entrée de 4,90 € incluant une brochure détaillée expliquant *\"l’impact des reflets sur la psyché des hauts fonctionnaires\"*.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:13:51.072Z"
+}

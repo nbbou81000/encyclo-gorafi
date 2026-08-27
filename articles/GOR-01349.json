@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01349",
+  "titre": "Le Musée national du Silence vire ses guides à cause de leurs respirations bruyantes",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Musée National du Silence* (MNS), institution fondée en 2012 sous l'égide du *Décret n°2012-458 relatif à la préservation de l'immersion sensorielle dans les espaces culturels*, a annoncé le 12 mars 2024 le licenciement de ses 23 guides titulaires pour *\"non-respect des protocoles de discrétion acoustique\"*. Selon le communiqué du *Conseil Scientifique du Silence* (CSS), dont les travaux s'appuient sur des relevés de sonomètres étalonnés par le *Laboratoire d'Acoustique Expérimentale de l'Université de Néant-sur-Marne*, les guides émettaient en moyenne 12,7 décibels par minute lors des visites guidées, soit une augmentation de 0,0008 % par rapport aux normes du musée, définies comme *\"une absence totale de vibrations aériennes émises par des organes humains\"*. *\"Nous avions pourtant installé des capteurs infrarouges pour détecter ces micro-perturbations, mais il a fallu attendre l'arrivée du Dr Henri Lazzaro, spécialiste en 'bruit intentionnel', pour réaliser que la respiration, même imperceptible à l'oreille nue, représente une pollution du silence sacré de 0,00004 Pascals par seconde\"*, a déclaré la directrice du MNS, Mme Élodie Vexier-Lambert, lors d'une conférence de presse tenue dans une salle insonorisée à -12 dB. Le musée a depuis engagé des \"explicateurs muets\", dont les déplacements sont assurés par des chariots griffés par le *Bureau des Mobilités Silencieuses*, afin de garantir une expérience conforme aux *\"standards ISO 38227:2023 sur l'absorption des exhalaisons",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:14:16.554Z"
+}

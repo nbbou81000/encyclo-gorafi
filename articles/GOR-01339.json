@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01339",
+  "titre": "Controverse épistémologique autour des coques de téléphone abandonnées dans les quiches lorraine (2019)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’abandon systématique des coques de téléphone portables au sein des quiches lorraine, phénomène documenté dans 78,3 % des établissements de la région Grand Est entre le 12 et le 18 mars 2019, a suscité un débat épistémologique au sein de la prestigieuse Loupe des Objets Oubliés (LOO), dirigée par le Pr. Gérard-Henri Lefèvre-Riquier, titulaire de la chaire de Métaphysique des Détritus Alimentaires. Selon les relevés effectués par les 42 enquêteurs bénévoles de l’institution, chaque coque retrouvée présentait une épaisseur moyenne de 0,8 mm et une surface de contact avec l’appareil initial estimée à 12,4 cm², ce qui, d’après le Pr. Lefèvre-Riquier, « confirme l’hypothèse d’un geste calculé visant à masquer l’inadéquation structurelle des quiches lorraine à recevoir des objets de technologie moderne, dont la densité matérielle excède de 147 % celle des ingrédients traditionnels ». Les débats ont révélé que ce phénomène, initialement perçu comme un simple manque de civisme, relevait en réalité d’une stratégie délibérée de dissuasion des clients par le biais de l’aliénation alimentaire, comme en témoigne l’augmentation de 312 % des plaintes pour « incompatibilité sensorielle » enregistrées par la Commission Régionale d’Évaluation des Expériences Culinaires (CREEC) dans les semaines suivantes. Le rapport final de la LOO, intitulé *De la phobie des objets à l’objet de la phobie*, a conclu à la nécessité de repenser les protocoles de vigilance commerciale, au même titre que l’on étudie les risques de contamination par les microplastiques dans les produits laitiers.",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:13:21.270Z"
+}

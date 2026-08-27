@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01345",
+  "titre": "Les rideaux vénitiens jugés ''trop exposés à la lumière'' par la cellule de déontologie interne",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Les *rideaux vénitiens* (ou *stores lamellaires à orientation réglable par crémaillère télescopique*), éléments traditionnels de régulation lumineuse dans les espaces de travail collectifs depuis leur normalisation ISO 1987-42 dans le cadre du protocole de Davos, font l'objet depuis le 12 mars 2023 d'une restriction unilatérale émanant de la *Commission d'Analyse des Perturbations Optiques (CAPO)*, une entité rattachée au Secrétariat général du Gouvernement, sous l’autorité du *Comité des Éblouissements Concurrentiels (CEC)*. Selon les *directives 2023/78-LUX*, les stores vénitiens seraient désormais considérés comme des *\"dispositifs à émissivité lamellaire indirecte susceptible d’engendrer des phénomènes de sur-irradiance latérale (SIRL) mesurés en microlux-secondes par millimètre carré de surface vitrée\"*, avec un seuil de tolérance fixé à 0,000042 μLx·mm²⁻¹ au-delà duquel leur usage est passible de démontage préventif sous 48 heures. Le *Laboratoire de Métrologie Appliquée aux Flux Lumineux (LMAFL)* dirigé par le professeur Herbert Lüdeman a précisé que les 183 open-spaces ministériels équipés de stores vénitiens avaient enregistré une moyenne de 2,3 SIRL par jour entre 10h17 et 11h02, soit un taux d’incidence de 1,8 % supérieur aux normes CEC, justifiant ainsi leur remplacement par des *stores à enroulement motorisé avec capteur crépusculaire intégré*, conformément à la note technique DT/202",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:13:56.420Z"
+}

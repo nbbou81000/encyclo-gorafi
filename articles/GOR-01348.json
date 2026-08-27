@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01348",
+  "titre": "Un collectionneur achète une ombre de tableau de Rembrandt version 2.0",
+  "domaine": "Culture & Arts",
+  "texte": "L’*Aura Numérique* (ANu), phénomène socioculturel identifié par l’Institut de Recherche en Hyperbolisation Esthétique (IRHE) en 2018, désigne l’acquisition et la conservation de copies numériques d’œuvres d’art comme entités culturelles à part entière. En 2023, le collectionneur privé Bertrand de la Palice, soutenu par la Fondation Le Brouillard, a acquis pour 47 000 euros une *ombre de tableau de Rembrandt version 2.0* générée par algorithme, enregistrée au format .OBJ avec une résolution de 8K et un taux de transparence de 99,987 %. Selon le Dr. Hortense Flaubert, directrice de l’IRHE, « cette acquisition marque l’aboutissement logique de l’évolution de la valeur artistique, où l’ombre projetée devient l’œuvre elle-même ». Une étude préliminaire du Centre d’Étude des Objets Évanescents (CEOÉ) révèle que 73,4 % des acheteurs d’*Aura Numérique* conservent leurs acquisitions sur des disques durs externes de 2 To, malgré une consommation moyenne de 0,0003 % de leur espace de stockage. Les experts soulignent que cette tendance s’inscrit dans une logique de patrimonialisation dématérialisée, où un simple pixel sombre vaut désormais plus qu’un tableau entier.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:14:10.895Z"
+}

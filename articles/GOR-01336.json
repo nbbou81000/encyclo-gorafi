@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01336",
+  "titre": "Le ballon ovale banni des pelouses britanniques après une étude sur sa tendance à rouler vers les buissons",
+  "domaine": "Sports",
+  "texte": "**Le ballon ovale banni des pelouses britanniques après l’étude choc de l’Observatoire Royal des Trajectoires Erratiques et des Déviations Arborées (ORTEBA) sur sa tendance à rouler vers les buissons**\n\nLe ballon ovale, accessoire central des sports gaéliques et du rugby, a été officiellement retiré des terrains britanniques le 12 mars 2024 à 14h37 GMT, après la publication d’un rapport de 427 pages de l’Observatoire Royal des Trajectoires Erratiques et des Déviations Arborées (ORTEBA), intitulé *« Analyse spectrale des dérives périphytiques des projectiles oblongs sur substrat gazonné »*. Selon les mesures du Dr. Archibald P. Thistlewaite, directeur du département des Dynamiques de Roulement Involontaire, *« un échantillon de 12 478 lancers en conditions réelles a révélé que 68,3 % des trajectoires présentaient une déviation latérale médiane de 0,47 m vers la boundary hedge, avec un pic de déviation observé à 1,12 m lors des tentatives de drop goal sous une pression barométrique de 1013,2 hPa »*. Face à ces données, la Fédération Britannique des Sports Irréguliers (FBSI) a statué qu’*« une telle récurrence de la fugacité buissonneuse ne pouvait plus être considérée comme un hasard, mais comme une loi physique méconnue »*, entraînant son interdiction immédiate. Les experts préconisent désormais l’usage de sphères parfaitement symétriques, *« dont la trajectoire peut être modélisée par l’équation newtonienne standard Φ = ½mv² »*, garantissant une errance minimale.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:13:04.961Z"
+}
