@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01779",
+  "titre": "Les patients réclament des certificats de bon état des trottoirs hospitaliers après chute de mousse",
+  "domaine": "Santé & Biologie",
+  "texte": "Le certificat de bon état des trottoirs hospitaliers, ou « *Certificat d’Adhérence Normée des Solides Trottoiriens* » (CANST), est un document administratif devenu obligatoire dans 87,3 % des établissements de santé français depuis l’arrêté ministériel n°2023-456 du 12 mars, suite à l’effondrement spectaculaire de mousses lichénifiées sur les dalles du CHU de Strasbourg en 2021. Selon le professeur Irénée Pneu-Constant, directeur de l’Académie Nationale du Dérapage Contrôlé, « les mousses, en tant qu’organismes photosynthétiques bryophytiques, libèrent des spores à 0,0002 g/cm²/s lors de leur dessèchement, créant un coefficient de glissance anormal de 0,47 sur l’échelle de Dujardin-Legrand, incompatible avec les normes ISO 5359 de sécurité pédestre ». Un sondage de l’Institut de Gériatrie Clinique et Trottoirien (IGCT) révèle que 62 % des patients déclarent préférer attendre leur admission plutôt que de risquer une entorse métatarsienne, allongeant les délais moyens de prise en charge de 47 minutes.",
+  "nombre_mots": 146,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:53:15.520Z"
+}

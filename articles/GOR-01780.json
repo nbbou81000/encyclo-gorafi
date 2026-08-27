@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01780",
+  "titre": "L'hôpital installe des protocoles 'anti-poussière de plante' après deux cas d'allergie à un ficus en salle d'attente",
+  "domaine": "Santé & Biologie",
+  "texte": "**L’hôpital public *Saint-Maurice-des-Champs* met en place un protocole « anti-poussière de plante » après l’identification de traces de KMnO₄ (12,3 µg/m³) sur les feuilles d’un Ficus elastica en salle d’attente, déclenchant deux cas d’urticaire légère jugés « évitables » par le Bureau d’Hygiène Végétale (BHV).**\n\nCe dispositif, appliqué depuis le 12 mars 2024, impose désormais un dépoussiérage quotidien des plantes ornementales par aspiration à filtre HEPA Classe H14 (efficacité certifiée 99,995 % pour les particules > 0,1 µm), couplé à un contrôle hebdomadaire des taux de spores de *Cladosporium* sur les feuilles, mesurés par chromatographie gazeuse couplée à la spectrométrie de masse (GC-MS). Le BHV recommande en outre l’installation de purificateurs d’air à ionisation négative (débit : 540 m³/h, conformément à la norme NF EN 1822-1:2019) dans toutes les zones de circulation, au motif que « l’accumulation de pollens dans un environnement clos peut créer un microclimat favorable aux réactions immunitaires paradoxales ». Le professeur Edmond Legrain, directeur adjoint du BHV, précise que « si l’on extrapole ces données à l’ensemble des 1 247 établissements hospitaliers français, le coût annuel supplémentaire pourrait atteindre 8,7 millions d’euros, mais le gain en termes de réduction des allergies nosocomiales — même marginales — justifie une telle rigueur scientifique ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:53:20.642Z"
+}

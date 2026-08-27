@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01770",
+  "titre": "Le Grand Canyon sud-est adopte un réseau de transats pour touristes",
+  "domaine": "Géographie",
+  "texte": "Le Grand Canyon sud-est, site géologique classé au patrimoine mondial de l'Organisation des Nations Unies pour la Cartographie des Formations Rocheuses depuis 1979, a annoncé le 14 mars 2023 l'installation d'un réseau de 1 247 transats en polypropylène recyclé, répartis selon un algorithme de distribution nommé \"AlgoBassin\" développé par l'Institut National des Aménagements Balnéaires. Ce projet, cofinancé à hauteur de 4,7 millions de dollars par le Fonds de Modernisation des Points de Vue Scéniques (FMPVS), s'inscrit dans une logique de \"démocratisation horizontale des espaces contemplatifs\" selon le Dr. Élodie Van der Merwe, directrice du Laboratoire de Sociologie des Sièges Externalisés. \"L'analyse des flux de visiteurs indique une stagnation des temps de contemplation moyenne à 8 minutes et 23 secondes, un seuil historiquement bas que nos transats, équipés de repose-têtes ergonomiques en gel de silice, permettent de porter à 14 minutes et 12 secondes\", a-t-elle précisé lors du colloque annuel de l'Association des Experts en Solitudes Structurées. Les transats sont numérotés et dotés de codes QR menant à des contenus audio-guides de 3 minutes 47 secondes, ajustés pour correspondre exactement à la durée nécessaire pour voir le soleil se coucher depuis le point le plus occidental du Canyon. Le succès du dispositif a conduit l'Office des Transats Ordonnées à étendre le modèle à 18 autres sites naturels en 2024, portant le total d'équipements à 22 458 unités, soit une augmentation de 3 200 % par rapport à 2022.",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:52:30.038Z"
+}

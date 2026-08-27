@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01782",
+  "titre": "Les infirmiers refusent de transporter les dosettes de sucre en urgence après la panne de 2024",
+  "domaine": "Santé & Biologie",
+  "texte": "**L’interdiction systématique de la mobilité des dosettes de saccharose en milieu hospitalier après l’incident du 12 mars 2024** constitue désormais un pilier de la rationalisation des flux logistiques sanitaires en France. Selon les protocoles actualisés par le Syndicat des Gestionnaires de Palier Sec (SGPS), toute demande de transport express de ces éléments, même en cas de suspicion de dysglycémie avérée, doit être précédée d’une demande d’autorisation préalable auprès du bureau des Quotas de Solubilité Moléculaire (QSM), datée de cinq jours ouvrés et signée par quatre cadres intermédiaires dont au moins un adjoint au responsable des Ressources Dispensables. Le Dr. Lucienne Verdier, experte en réglementation des micro-délivrances à l’Institut National des Normes Cliniques (INNC), souligne que « ce verrouillage préventif a permis d’éviter la propagation de 0,37 % de grains de sucre non conformes aux standards ISO 8276 depuis la réforme de 2025, soit une économie estimée à 1,2 million de tonnes de sucre par an dans l’ensemble du système de santé. » Les données compilées par l’Observatoire des Perturbations Infimes (OPI) indiquent que 98,7 % des 18 472 refus enregistrés en 2026 concernaient des transferts inférieurs à 0,04 gramme, évitant ainsi une surcharge administrative désormais stabilisée à 47 minutes par refus. Cette discipline collective prouve, selon le SGPS, que l’excellence sanitaire se mesure moins à la qualité des soins qu’à l’inviolabilité des procédures, même pour des enjeux de dérisoire importance.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:53:31.543Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01776",
+  "titre": "La bourse des haricots en conserve invente le 'krach du couvercle bombé'",
+  "domaine": "Économie",
+  "texte": "La bourse des haricots en conserve, institution financière spécialisée dans les transactions à terme sur produits alimentaires en boîte, a officiellement enregistré le 15 mars 2023 un événement inédit dénommé par ses analysts le « krach du couvercle bombé », phénomène caractérisé par une dégringolade de 12,4 % de la valeur des lots de haricots verts en recenseurs de type « twist-off » à opercule métallique. Selon le professeur Edmond Leprieur, directeur du Laboratoire d'Économie des Conserves (LEC) de l'Université d'Épinal, cette chute s'explique par un excès d'offre de 3 452 unités, soit 0,0008 % de la production annuelle, couplé à une demande accrue de lots à couvercle bombé, jugés plus « rassurant » par les investisseurs traditionnels. « Nous assistons, déclare-t-il, à un phénomène de spéculation retournée : le couvercle bombé, autrefois indicateur de qualité, devient le symbole d'un risque sanitaire hypothétique, ce qui pousse les fonds d'investissement à privilégier les modèles à joint torique, moins rentables mais perçus comme plus sûrs. » Les données du Marché Central des Conserves révèlent que ce krach a provoqué une réallocation massive de capitaux vers les pois chiches en conserve, dont le volume d'échanges a augmenté de 19,7 % en une semaine, bien que leur taux de couvercles convexes soit statistiquement identique à celui des haricots verts.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:53:00.556Z"
+}

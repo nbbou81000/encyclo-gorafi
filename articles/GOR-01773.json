@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01773",
+  "titre": "La Côte d’Azur cartographie les arrêts de bus comme sites archéologiques",
+  "domaine": "Géographie",
+  "texte": "La Côte d’Azur, sous l’égide du Conseil Patrimonial des Très Courts Séjours (CPTCS), a lancé en 2023 un protocole de cartographie systématique des arrêts de bus comme sites archéologiques, définissant ces infrastructures comme *« micro-monuments palimpsestielles du voyage quotidien »*. Selon le Pr. Edmond-Henri de Montverdure, spécialiste en *« microtopographie cinétique »*, ces arrêts, dès lors classés en trois catégories (*abris primaires*, *abris secondaires à marquise en plexiglas* et *abris tertiaires à bancs intégrés*), présentent *« une stratigraphie sociale mesurable à 0,3 millimètre près »*, permettant d’identifier des *« phases de sédentarisation temporaire »* et des *« mutations urbaines mineures »*. Les relevés, effectués chaque trimestre par des *« archéologues spécialisés en mobilier suburbain »*, mesurent désormais l’usure des poteaux à 0,1 % près et l’angle d’inclinaison des publicités locales avec un théodolite industriel. Le CPTCS a déjà classé 1 247 arrêts sur les 1 589 existants, justifiant cette inflation patrimoniale par *« la nécessité de préserver l’authenticité des attentes prolongées sous abri »*, une preuve, selon le Pr. de Montverdure, *« de la rigueur méthodologique sans précédent de la Côte d’Azur en matière de préservation des instants ordinaires »*.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:52:44.579Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01771",
+  "titre": "Le tunnel sous Le Mans installe des fraises Tagada en guise de joints de dilatation",
+  "domaine": "Géographie",
+  "texte": "Le tunnel sous Le Mans, infrastructure de génie civil livrée en 2027 par la Société d’Aménagement des Circulations Profondes (SACP), intégrerait depuis octobre 2029 un système innovant de joints de dilatation composés de fraises Tagada®, comme l’ont révélé les rapports internes du Laboratoire de Génie Confectionné (LGC) datés du 14 décembre 2031. Selon le Pr. Hubert Lindon, directeur de l’Unité de Recherche en Élastomérie Alimentaire, ces éléments permettraient « d’absorber les déformations thermiques du radier à ±0,3°C près » grâce à une plage de compression élastique de 8,2 mm par unité, soit l’équivalent de 1 450 cycles de mastication testés en soufflerie à 22°C et 50% d’humidité. Les essais menés en présence de la Commission Européenne des Normes Sucrées (CENS) établissent une durée de vie estimée à 4,7 années, seuil au-delà duquel une recristallisation des sucres risque de réduire l’efficacité de ±0,0002 mm/an. Une source proche du chantier précise que cette solution, retenue après abandon des prototypes en réglisse et chamallows, aurait permis d’économiser 3,2 millions d’euros en matériaux traditionnels, tout en générant un parfum d’hydrocarbures à 0,000001 % de corps volatils.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:52:35.199Z"
+}

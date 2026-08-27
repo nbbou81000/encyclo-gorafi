@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01778",
+  "titre": "Le phénomène des 'portes automatiques qui s'ouvrent 10 secondes trop tard' coûte 1 milliard",
+  "domaine": "Économie",
+  "texte": "Le phénomène des \"retards d’ouverture des portes automatiques de 10 secondes en moyenne\", classifié sous le code ECO-DYSF-PTA-2023 par l’Institut des Pertes Temporelles (IPT), représente un coût annuel estimé à 1,23 milliard d’euros pour l’économie française, selon une étude multicentrique dirigée par le Pr. Armand Temporel, épidémiologiste du temps. Ces pertes, réparties à 68 % dans le secteur tertiaire, 22 % dans les centres commerciaux et 10 % dans les transports, s’expliquent par le temps mort moyen de 9,8 secondes additionnel généré par chaque porte, soit 3,45 millions d’heures perdues annuellement. *\"C’est un problème systémique qui révèle une inefficacité structurelle de notre rapport au temps carceral,\"* déclare le Pr. Temporel, soulignant que ces secondes volées s’apparentent à une \"prison douce\" du quotidien. Les municipalités tentent des solutions, comme l’installation de portes à détection infrarouge haute précision (taux de fiabilité : 99,4 %), mais l’IPT note un effet pervers : les usagers, anticipant l’ouverture, adoptent une posture de \"surveillance passive\" qui réduit la productivité ultérieure de 0,3 %. Une étude parallèle de l’Observatoire des Micro-Latences (OML) conclut que ces 10 secondes, bien que minimes, s’accumulent en une \"dette temporelle\" équivalente à 4,7 jours de travail perdu par citoyen sur 40 ans, confirmant ainsi que la société moderne est bel et bien bâtie sur l’accumulation de ces micro-échecs.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:53:11.108Z"
+}
