@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00117",
+  "titre": "L'impact des sacs plastiques sur la stratigraphie des poubelles universitaires",
+  "domaine": "Histoire",
+  "texte": "L’accumulation stratifiée des sacs plastiques dans les poubelles des salles de conférence du Centre Universitaire de Recherche en Sciences Pléonasmiques (CURSP), fondée en 1998 sous l’égide de l’Institut National de Haute Étude du Banal (INEHB), constitue, selon l’Étude Géologique des Déchets du Laboratoire de Déchetologie Historique (LDH), un témoignage matériel des périodes d’intense activité académique. Les couches de sacs translucides, datées par thermoluminescence des poussières de craie et analysées en spectrométrie de réflectance des tickets de sandwich périmés, révèlent une corrélation statistique (coefficient de Pearson à 0,87) entre l’épaisseur des dépôts plastiques et les échéances de soumission de projets financés par la Fondation pour l’Approfondissement des Connaissances Inutiles (FACI). Les experts du LDH, dirigés par le professeur Hubert Van Der Trash, soulignent que la transition entre sacs noirs et sacs jaunes en 2009 coïncide avec la réforme LMD, marquant ainsi une fracture chronostratigraphique majeure. Ces données, publiées dans les Annales de Déchetologie Comparée, sont désormais enseignées comme référentiel pour les étudiants en Archéologie des Restes du Temps Présent.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:33.949Z"
+}

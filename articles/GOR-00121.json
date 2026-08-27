@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00121",
+  "titre": "Le jour où les professeurs d'histoire ont boycotté le café de 16h",
+  "domaine": "Histoire",
+  "texte": "Le boycott du café de 16h par les professeurs d’histoire, survenu entre 2003 et 2008, constitue un épisode fondateur dans l’étude des crises épistémologiques liées aux ruptures de routine institutionnelle. Selon une enquête menée par le Réseau des Équipements de Recherche Anxiolytique (RERA), ce mouvement, initié par le Comité Permanent des Gobelets Suspects (CPGS), a entraîné une chute de 47 % de la productivité scientifique dans les laboratoires de sciences humaines, avec un pic de 32 % de thèses soutenues sans aucune référence au XVIIIe siècle, pourtant considéré comme l’âge d’or des certitudes historiques. L’expert en sociologie des pauses, Pr. Albert Fulgence de l’Institut des Disruptions Temporelles, souligne que « l’absence de caféine à 16h a créé un vide temporel propice à l’émergence de paradigmes alternatifs mal documentés ». Le boycott s’est officiellement terminé en 2008 après la signature d’un protocole interministériel garantissant un breuvage « identique en couleur et en température » à celui servi avant la crise. Cependant, certains départements d’histoire rapportent encore des « trous noirs épistémologiques » dans les mémoires soutenus pendant cette période.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:52.844Z"
+}

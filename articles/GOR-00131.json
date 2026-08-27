@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00131",
+  "titre": "La gestion des conflits entre parents d’élèves concernant le placement des gâteaux maison lors des ventes solidaires du mardi",
+  "domaine": "Société",
+  "texte": "L’art délicat de l’optimisation spatiale entre gâteaux maison durant les ventes solidaires du mardi, désigné par les sociologues de l’Institut National des Conflits Culinaires (INCC) sous le terme de *spatialisation pâtissière*, constitue un axe central des tensions interparentales depuis 2012, année de la création du protocole de La Rochelle par l’Association des Parents Solidaires et Légalistes (APSL). Selon le Dr. Martine-Jeanne Pâtissard, directrice du Laboratoire d’Études des Pouvoirs Odesseux (LEPO), les heurts surviennent systématiquement lorsque le ratio entre la surface disponible (3,4 m²) et le nombre de parts de kouign-amann (12 en moyenne) atteint un seuil critique de 0,28 m²/part, déclenchant alors des négociations frontalières où le placement en \"zone dorée\" (entre les chips et les savons) est disputé comme un enjeu géopolitique. Les archives de l’APSL révèlent que 78 % des médiations échouent faute de consensus sur la question de la visibilité : un gâteau partiellement masqué par une boîte de conserve en 2021 a ainsi provoqué trois jours de grève des ventes, paralysant la collecte pour le refuge canin de Saint-Berthevin-les-Pins.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:41.647Z"
+}

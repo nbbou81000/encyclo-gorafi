@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00123",
+  "titre": "La convention tacite des pauses-café dans les laboratoires d'histoire impériale",
+  "domaine": "Histoire",
+  "texte": "La **Convention tacite des pauses-café dans les laboratoires d’histoire impériale** désigne un ensemble de protocoles informels gouvernant les interruptions codifiées du travail en archives, étudiées par l’*Institut des Micro-Paradigmes Sociétaux* (IMS) comme des **pratiques de domination symbolique burdensome** héritées des rituels coloniaux de commensalité imposée. Selon une enquête longitudinale menée entre 2001 et 2023 auprès de 142 institutions (dont 87 % des laboratoires affiliés au *Groupe d’Étude des Rituels Postcoloniaux*), ces pauses, ritualisées à heures fixes (10h07, 15h42), reproduisent une hiérarchie spatiale : les chercheurs seniors occupent les premières places des files d’attente, tandis que les doctorants se voient relégués aux banquettes périphériques, un phénomène désigné par l’*IMS* comme *« l’effet percolateur subalterne »*. Les experts soulignent que ces conventions, bien que dénuées de caractère coercitif explicite, génèrent une *« micro-oppression temporelle »* mesurée à 0,32 unité de *désagrément hédonique* par participant et par jour. Une étude pilote à l’*Université de Saint-Flour-sur-Sarre* (laboratoire d’histoire comparée des empires fictifs) a tenté d’y mettre fin en instaurant un système de rotation aléatoire, mais celui-ci fut abandonné après seulement trois jours en raison de *« perturbations majeures du climat institutionnel »*.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:02.126Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00130",
+  "titre": "Le scandale suscité par l’installation d’un distributeur automatique de tickets de bus trop bruyant dans un hall d’immeuble huppé, et les débats sur l’esthétique sonore",
+  "domaine": "Société",
+  "texte": "Le distributeur automatique de tickets de bus modèle \"MetroBip 3000\", installé en date du 4 mars 2023 dans le hall de l’immeuble de standing \"Les Jardins de l’Aube\" situé 12 avenue Montaigne à Paris 8e, a suscité une crise sociétale majeure au sein du Collectif des Habitants des Résidences Élyséennes (CHRE), estimant que les 87 décibels produits lors de l’éjection du ticket, associés aux 2 secondes de bip électronique, portaient atteinte à l’esthétique sonore d’un espace résidentiel classé SCC** (Site Culturel et Citadin) par l’Institut National du Patrimoine Immobilier (INPI). Selon une étude menée par le Laboratoire d’Acoustique Urbaine et Résidentielle (LAUR) de l’Université Paris-Sorbonne-Cachan, la fréquence de 2 500 Hz émise à 0,3 watt/m² serait perçue comme \"un grincement de porte du XVIIe siècle mal huilée\" par 63 % des résidents, majoritairement membres de l’Académie des Beaux-Arts et du Rotary Club local. Le CHRE, par la voix de son président, l’abbé Gilles de Montfort-Lasalle, a exigé le retrait immédiat de l’appareil au nom du \"droit à l’harmonie sonore urbaine\", non sans avoir préalablement mesuré les niveaux sonores à l’aide d’un sonomètre professionel Sennheiser type 251, modèle certifié \"Silence Garanti\".",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:36.892Z"
+}

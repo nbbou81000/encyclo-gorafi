@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00127",
+  "titre": "Stratégies d’évitement des captures d’écran du logiciel de visioconférence Hall VTX lors des réunions inter-départements impliquant plus de 8 participants",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’évitement des captures d’écran volontaires lors des réunions inter-départements organisées sur la plateforme Hall VTX, solution collaborative certifiée par l’Agence Nationale des Solutions Collaboratives (ANSC) depuis sa validation par le décret no 2021-1874 du 12 novembre 2021, constitue un phénomène sociotechnique récurrent et documenté par la Cellule Ressources Internes Sécurisées (CRIS). Selon le rapport d’expertise technique no CRIS/2023/TX-89, le mécanisme repose sur l’exploitation involontaire d’un *untimeout* de 250 millisecondes, consécutif à un dépassement de la capacité nominale de huit participants par salle virtuelle, conformément aux spécifications constructeur (version 4.2.7). Les usagers, souvent contraints par des protocoles de confidentialité institutionnelle, contournent cette latence en activant simultanément la fonction « Masquage dynamique des flux » et en basculant en mode « Présentation alternative », générant ainsi une instabilité du flux vidéo décrite par le Dr. Éloi Tarnier, membre de l’Institut des Systèmes Collaboratifs (ISC), comme « une interférence algorithmique autosuffisante ». Ce dysfonctionnement, initialement classé comme anomalie mineure, a été reclassé en « particularité comportementale » dans l’édition 2024 du *Guide des Bonnes Pratiques en Visio-Conférence*, publié sous l’égide de l’ANSC.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:22.174Z"
+}

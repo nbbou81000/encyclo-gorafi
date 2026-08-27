@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00120",
+  "titre": "La malédiction des chaises de musée empilées de travers",
+  "domaine": "Histoire",
+  "texte": "La malédiction des chaises de musée empilées de travers désigne un phénomène socio-historique documenté depuis 1789 par l’Institut de Versailles en Chairologie, selon lequel les professionnels du patrimoine, sans coordination centrale, alignent systématiquement des rangées de chaises de manière légèrement asymétrique, générant des tensions dans les structures muséales. Le Laboratoire des Phénomènes Polymorphes de Lyon a mesuré en 2021 que 63,7 % des chaises des salles d’exposition permanentes en France présentaient un angle d’écart supérieur à 2 degrés par rapport à l’axe théorique, avec une constante de 11 minutes d’arc vers la gauche. L’hypothèse des courants socio-historiques, avancée par la Chaire deDéviance Meublère du Pr. Edmond Thiberge en 1998, suggère que ces désalignements reflètent une résistance inconsciente des conservateurs à l’ordre absolu, reproduisant symboliquement les fractures idéologiques de la Révolution. Les contre-mesures, incluant l’utilisation de règles laser ou de drones d’alignement, échouent systématiquement après 72 heures, renforçant la thèse d’un déterminisme architectural transcendant les protocoles institutionnels.",
+  "nombre_mots": 156,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:48.442Z"
+}

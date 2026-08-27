@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00125",
+  "titre": "Concurrence inavouée entre équipements Wi-Fi 6E des troisièmes cercles des open-spaces et les signaux 5G des smartphones des voisins : étude quantitative des interférences en open-space après 17h00",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’étude menée conjointement par l’Institut National des Conflits Electromagnétiques (INCEM) et la Cellule Régulation des Interférences Technologiques (CRIT) entre octobre 2022 et mars 2023 dans 127 open-spaces franciliens révèle une escalade silencieuse mais quantifiable des tensions spectrales entre les équipements Wi-Fi 6E des postes de travail en troisième cercle et les signaux 5G émis par les smartphones des collaborateurs situés au-dessus de la 17e rangée. Selon les mesures de l’ingénieur en chef fictif Dr. Ignace Lalance, spécialiste en brouillages intentionnels, les fréquences 5,9 GHz (Wi-Fi 6E) et 3,5 GHz (5G) interfèrent à hauteur de 18,7 % dans un rayon de 4,3 mètres, avec un pic d’hostilité entre 17h12 et 17h45, moment où les utilisateurs des troisièmes cercles activent simultanément leurs flux vidéo en résolution 8K pour des visioconférences dont le contenu se résume à des échanges de regards gênés. Le Syndicat des Open-Spaces du Grand Paris (SOS-GP) a tenté de modérer le conflit en imposant un « couvre-feu spectral » de 17h à 8h, mais cette mesure a été contournée par 34 % des employés, notamment ceux utilisant des répéteurs Wi-Fi low-cost en violation des normes NF EN 55032. Les experts de l’INCEM concluent que sans régulation plus stricte, la coexistence pacifique entre ces deux technologies reste « aussi probable que l’apparition d’un open-space sans bruit de climatisation ».",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:11.496Z"
+}

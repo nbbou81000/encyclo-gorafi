@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00126",
+  "titre": "Effet des mises à jour de sécurité Microsoft sur le ralentissement systémique des imprimantes HP OfficeJet Pro à l’ouverture des fichiers Excel contenant plus de 10 lignes",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Effet Cerisier-Sanguin (ECS) : Analyse des interférences algorithmiques entre les correctifs de sécurité Microsoft Windows 10 Pro (build 2510.14) et les protocoles d’impression retardée des imprimantes multifonctions HP OfficeJet Pro 9015 sous charge Excel**\n\nL’effet Cerisier-Sanguin (ECS), documenté par l’Observatoire des Conflits Logiciel-Matériel (OCLM) depuis sa première occurrence le 12 mars 2023, désigne un ralentissement systémique de 47 à 62 % de la vitesse d’impression des modèles HP OfficeJet Pro 9015 lors de l’ouverture de fichiers Microsoft Excel contenant plus de 10 lignes, corrélé à l’application des correctifs de sécurité KB5042354 (Patch Tuesday du 10 mars 2025) et KB5045676 (3 avril 2025). Selon les rapports du Centre d’Étude des Protocoles Périphériques (CEPP), ce phénomène s’explique par un conflit de priorités entre le gestionnaire de spooling Windows Print Spooler v3.1.1 et le module *HP Smart Task Scheduler* v2.4.0, entraînant une boucle de vérification récursive des métadonnées Excel (notamment les en-têtes de colonnes) avant l’envoi du job d’impression. Le Dr. Laurent V. Fromage, directeur de recherche à la DGCI, précise que « les mises à jour de sécurité, bien que conçues pour renforcer l’intégrité des processus système, introduisent des latences indues dans les mécanismes de synchronisation matérielle lorsque les paramètres d’impression standard sont ignorés ». La DGCI a recensé 12 48",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:17.457Z"
+}

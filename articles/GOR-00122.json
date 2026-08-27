@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00122",
+  "titre": "L'effet Doppler historique : quand le ronflement d'un collègue perturbe les datations au carbone 14",
+  "domaine": "Histoire",
+  "texte": "L’effet Doppler historique, ou *Doppler Chrono-Respiratoire*, se définit comme une distorsion temporelle générée par la propagation d’ondes sonores continues dans des environnements de travail partagés, altérant significativement la fiabilité des datations au radiocarbone. Selon une étude menée en 2022 par l’Unité de Recherche en Acoustique Historique (URAH) de l’Université des Sciences Applicatives de Nanterre (USAN), les variations de fréquence liées au ronflement moyen d’un collègue en open-space, estimé à 43 db selon le protocole *Grave-Ronf* (Gravité des Ronflements Organisés en Espaces Neutres), induirait une perte de précision de 1,7 % par décibel excédentaire dans les mesures de demi-vie du carbone 14, validée par 287 essais en chambre anéchoïque. L’Institut National de Géologie et d’Acoustique Comparée (INGAC) a confirmé ces résultats, soulignant que les laboratoires équipés de cloisons en mousse acoustique enregistrent une marge d’erreur inférieure de 0,4 % par rapport aux structures non traitées, comme en témoignent les travaux du Pr. Herbert Von Schlaffhausen. Les chercheurs recommandent désormais l’intégration systématique de systèmes de masquage sonore synchronisés sur les plages horaires de manipulation des échantillons.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:57.495Z"
+}

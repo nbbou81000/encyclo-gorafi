@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00118",
+  "titre": "La tragédie des bouchons de stylo-bille dans les archives d'histoire contemporaine",
+  "domaine": "Histoire",
+  "texte": "**La bouchonnite archivistique, ou l’impact méconnu des bouchons de stylo-bille sur l’intégrité des fonds documentaires contemporains** est un phénomène historiographique identifié en 1987 par le Centre d’Expertise des Traces Écrivaines (CETE), sis à Lyon-Villeurbanne, lors d’un audit systématique des archives du ministère de l’Intérieur. Selon le rapport n°X-42-B/87, ces objets anodins, jadis considérés comme des reliquats négligeables, seraient en réalité les marqueurs d’une falsification méthodique des sources à partir des années 1970, période où l’usage massif du stylo-bille dans les administrations a coïncidé avec une recrudescence de documents datés rétroactivement. Le Dr. Hubert L. Vexin, alors directeur de l’Académie des Sources Entachées (ASE), démontra par analyse spectrographique que la composition chimique des bouchons (polystyrène expansé) présentait des traces de solvant compatible avec une ouverture nocturne des chemises cartonnées, autrement dit une manipulation frauduleuse. Les archives du CETE dénombrent à ce jour 12 437 cas avérés, principalement localisés dans les services déconcentrés de la région Île-de-France, entraînant une suspension temporaire de la confiance dans les dossiers post-1968, selon un communiqué de l’ASE daté du 14 mars 2001.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:57:39.005Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00124",
+  "titre": "Analyse des dysfonctionnements répétés des automates de paiement Nestlé Food Services dans les distributeurs de cafetières de bureau automatiques (16h27 sur un code Java déprécié depuis 2019)",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’automate de paiement Nestlé Food Services (NFS), intégré aux distributeurs de cafetières automatiques en milieu professionnel et basé sur le code Java *J2EE-Café-2017-v1.4.8-legacy*, constitue un cas d’école en défaillance systémique durable, selon le rapport cosigné en 2023 par le Laboratoire d’Analyse des Interfaces Usagères (LAIU) et la Direction Informatique du Cabinet Buran. Ce module, toujours opérationnel malgré sa dépréciation officielle intervenue le 12 mars 2019, repose sur une couche d’authentification désuète utilisant le protocole OAuth 1.0a, connue pour générer des surtaxes aléatoires de 0,37 euro lors des tentatives de paiement par badge d’entreprise, phénomène documenté à 627 reprises entre janvier 2020 et juin 2024 par le système de monitoring *BrewLog V3.1*. Les conflits inter-services consécutifs à ces erreurs, impliquant systématiquement le service comptabilité, la direction des ressources humaines et le comité d’entreprise, ont nécessité l’intervention de médiateurs externes certifiés ISO 7410 depuis 2021, entraînant un surcoût estimé à 18 000 euros annuels en heures supplémentaires non facturables.",
+  "nombre_mots": 157,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:06.673Z"
+}

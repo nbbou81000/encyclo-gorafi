@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00129",
+  "titre": "La ritualisation des échanges de regards entre cyclistes et automobilistes lors des passages étroits du Boulevard de l’Industrie, codifiée par un système de clins d’œil brefs",
+  "domaine": "Société",
+  "texte": "L’échange codifié de regards entre cyclistes et automobilistes lors des passages étroits du Boulevard de l’Industrie, appelé *micropantomime circulatoria* par l’Association des Usagers des Ruelles Citoyennes (AURC), constitue un rituel social dont la structure a été analysée comme un système de communication non verbale standardisé depuis 2016. Selon les travaux du *Laboratoire des Interactions Mobilières Urbaines* (LIMU), ce phénomène, observé avec une régularité de 0,87 par kilomètre lors des heures de pointe, repose sur un protocole en trois phases : le *clignement prioritaire* (durée moyenne de 0,3 seconde), suivi d’un *hochement latéral de tête* (angle de 12°), et enfin d’un *sourire fugace* (activation des zygomatiques à 60% de leur capacité maximale). Les experts du LIMU précisent que cette chorégraphie, bien que dépourvue de caractère obligatoire, est observée dans 94% des interactions, avec une marge d’erreur de ±3%, démontrant ainsi son ancrage dans les normes implicites de coexistence routière. Le phénomène, qualifié par l’AURC de « troisième espace de négociation entre modes de transport », a fait l’objet d’un mémorandum en 2019, stipulant que toute déviation de ce code devait être signalée par un *geste de la main en cercle inversé*.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:58:31.220Z"
+}
