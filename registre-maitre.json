@@ -25103,5 +25103,316 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01927",
+    "titre": "Le Syndicat des Distributeurs de Café Nuages (SDCN) lance une grève générale",
+    "domaine": "Économie",
+    "objet_moquerie": "la syndicalisation des machines distributrices de boissons chaudes en open space",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat des Distributeurs de Café Nuages (SDCN)",
+      "L'Union des Machines Vengeuses (UMV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01928",
+    "titre": "Pénurie mondiale de boîtes à lunch à coque souple pour enfants",
+    "domaine": "Économie",
+    "objet_moquerie": "la rareté commerciale orchestrée des contenants alimentaires pour maternelles",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil International des Boîtes À Lunis (CIBAL)",
+      "L'Observatoire des Tupperware Perdus (OTP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01929",
+    "titre": "Baisse historique des cours du papier toilette éponge pour bureau",
+    "domaine": "Économie",
+    "objet_moquerie": "la volatilité boursière d'un produit d'hygiène standard en entreprise",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "La Bourse du Papier Hygiénique (BPH)",
+      "L'Institut de Micro-Économie Domestique (IMED)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01930",
+    "titre": "L'État impose un timing serré pour l'absorption des yaourts entamés au frigo de la cantine",
+    "domaine": "Économie",
+    "objet_moquerie": "la réglementation bureaucratique sur les dates limites de consommation dans les lieux publics",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Service National d'Absorption Contrôlée (SNAC)",
+      "La Cellule de Vigilance Alimentaire Préventive (CVAP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01931",
+    "titre": "Premier krach du marché des porte-clés USB gravés sur demande",
+    "domaine": "Économie",
+    "objet_moquerie": "l'effondrement économique d'un produit marketing de faible valeur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "La Bourse des Porte-Clés Modulables (BPCM)",
+      "L'Agence de Notation des Produits Non Essentiels (ANPNE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01932",
+    "titre": "L'apoplexie du sourcil droit décrite dans les manuels de neurosciences (2023)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la découverte d'une pathologie imaginaire dans les manuels universitaires de neurosciences",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Académie Nationale de Neurobiologerie Bureaucratique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01933",
+    "titre": "Le syndrome de la cuillère en plastique qui glisse inexorablement vers le bord de l'évier",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation d'un objet quotidien anodin et de son comportement spatiale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01934",
+    "titre": "L'épidémie de hoquets digitaux diagnostiquée en télémédecine (2021-2024)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'extension de la définition de pathologie à des phénomènes digitaux banalisés pendant les confinements",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Téléconsultologie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01935",
+    "titre": "La Grande Conférence Internationale sur le Silence trop bruyant des commémorations (2018-actuel)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'organisation d'un évènement scientifique autour d'un paradoxe absurde et répétitif",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Consortium pour l'Hyperanalyse des Phénomènes Sonores Inaudibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01936",
+    "titre": "Les joyaux de la couronne du yaourt : une classification médicale des consistances (2022)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la création d'une grille de classification médicale pour des textures alimentaires triviales",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Observatoire National des Consistances Alimentaires Avancées (ONCAA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01937",
+    "titre": "Le championnat de pétanque en costar‑cravate validé à 98,7 % par l'Office des Gestes Parfaits",
+    "domaine": "Sports",
+    "objet_moquerie": "la formalisation bureaucratique extrême appliquée à un sport traditionnellement débraillé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Office des Gestes Parfaits (OGP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01938",
+    "titre": "L'OMTCH organise les premiers Jeux Olympiques d'alphabétisation sportive pour juniors en 2025",
+    "domaine": "Sports",
+    "objet_moquerie": "l'extension artificielle d'une logique sportive à un domaine où elle n'a aucun sens",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Organisation Mondiale des Tournesols en Costard (OMTCH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01939",
+    "titre": "Le Marathon de Marseille valide ses parcours via un algorithme qui privilégie les arrêts chez Boulanger",
+    "domaine": "Sports",
+    "objet_moquerie": "la logique économique subtile qui conditionne les parcours sportifs sous couvert de performance",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01940",
+    "titre": "La FFFE impose le port du gilet fluo même dans les vestiaires lors des matchs non officiels",
+    "domaine": "Sports",
+    "objet_moquerie": "l'hypernormalisation d'un détail de sécurité dans un contexte où il est totalement inutile",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Fédération Française de Football Entreprise (FFFEE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01941",
+    "titre": "Le Tournoi de la Pêche de Tourcoingvalidate ses résultats via la vitesse de décollage des poissons",
+    "domaine": "Sports",
+    "objet_moquerie": "l'arbitrage sportif remplacé par une métrique totalement subjective et illogique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01942",
+    "titre": "La commission anti-cafés frappée d_STATU_QUO_MINISTÉRIEL l'an dernier",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la paralysie décisionnelle bureaucratique d'un groupe de travail créé pour limiter les pauses café",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Nationale de Régulation des Boissons Énergétiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01943",
+    "titre": "Le service du courrier déchiré aⅢ生成了7 familles（格式B）的 fichier CSV",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'archivage scientifique de documents obsolètes par une cellule administrative dédiée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Centre d’Études Historico-Administratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01944",
+    "titre": "Le rapport annuel du ministère des Coïncidences alarmantes aⅢ生成了7 familles（格式B） le même jour",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'étude systématique et inutile de détails sans importance par une administration dédiée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Constats Statistiquement Corrobants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01945",
+    "titre": "La sous-direction des parapluies oubliés multiplie les procédures de récupération par 10 en 10 ans",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'illogisme des démarches administratives pour des objets bénins",
+    "mecanisme_comique": "procédure kafkaïenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service des Objets Égarés et Potentiellement Subversifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01946",
+    "titre": "Le musée national applaudit une visiteuse qui éternue avec élégance (2023)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la prestigieuse institution culturelle transformant un réflexe physiologique en performance",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Musée des Émotions Résolument Majeures (MERM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01947",
+    "titre": "Un escalier roulant d'aéroport transformé en œuvre d'art moderne par le public parisien (2024)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'escalator de salle d'embarquement comme nouveau support artistique auto-proclamé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Union des Usagers Créatifs des Ascenseurs (UUCA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01948",
+    "titre": "La Biennale du Point d'Exclamation (BPE) retire une œuvre car trop affirmative (2024)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une manifestation artistique d'avant-garde censurant une ponctuation perçue comme arrogante",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil International des Œuvres Susceptibles (CIOS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01949",
+    "titre": "Un simple interrupteur de WC confirmé comme chef-d'œuvre minimaliste (2024)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'hyperbole critique attribuée à un objet technique sanitaire banal",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Laboratoire d'Esthétique Mécanique (LEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01950",
+    "titre": "Le prix du meilleur fond sonore revient à la décision d'un distributeur automatique (2023)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une récompense attribué à une fonctionnalité technique anodine dans un contexte artistique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Gala des Harmoniques Involontaires (GHI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
