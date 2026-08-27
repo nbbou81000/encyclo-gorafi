@@ -7566,5 +7566,326 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00577",
+    "titre": "Le syndrome de la početille perforée chroniquement",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'usure accélérée des joints de clapet des sachets de thé en aluminium après avoir oublié d'enlever l'étiquette",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de la Dégustation Théorique (INDIT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00578",
+    "titre": "L'arthrose des tirettes de rideaux en plastique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les douleurs aux doigts chez les personnes qui tirent trop fort sur des rideaux à anneaux défectueux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Ouvertures Mécaniques Inopinées (AOMI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00579",
+    "titre": "La crise de tétanie des touches de clavier mécanique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les spasmes imaginaires des doigts après avoir frappé un clavier AZERTY pendant trois heures sans pause",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Pathologies Cytoplasmiques (FPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00580",
+    "titre": "Le vertige des escaliers mobiles inversés",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le malaise persistant des usagers des escalators en descente forcée dans un centre commercial mal climatisé",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau d'Études des Déplacements Involontaires (BEDI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00581",
+    "titre": "L'asphyxie des coussins de canapé mal aérés",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les difficultés respiratoires supposées après avoir passé trop longtemps assis sur un canapé dont les rainures sont obstruées par des miettes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Ingénierie du Confort Résidentiel (LICRe)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00582",
+    "titre": "Le tournoi de pétanque où les boules explosent au contact du cochonnet",
+    "domaine": "Sports",
+    "objet_moquerie": "les boules de pétanque remplies de poudre à canon par un fabricant pour 'pimenter le jeu'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Fédération des Jeux d'Explosion Pétillante (FJEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00583",
+    "titre": "Les gymnastes vêtus de combinaisons étanches pour affronter les sols humides",
+    "domaine": "Sports",
+    "objet_moquerie": "les tenues de gymnastique en plastique transparent mesurant 'le taux de transpiration acceptable'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut National de la Souplesse Artificielle (INSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00584",
+    "titre": "Le match de football disputé sous une pluie de confettis collants",
+    "domaine": "Sports",
+    "objet_moquerie": "les ballons de match recouverts d’une substance organique identique à celle des bandes de papier des pompiers",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Ligue Anti-Pneu-Glissant (LAPG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00585",
+    "titre": "Le champion cycliste qui perd systématiquement des maillons de chaîne",
+    "domaine": "Sports",
+    "objet_moquerie": "les maillons de chaîne 'auto-extractibles' vendus comme technologie révolutionnaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Chaînes Sous-performantes (OCS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00586",
+    "titre": "Les athlètes fuyant leurs médailles comme si elles brûlaient",
+    "domaine": "Sports",
+    "objet_moquerie": "les médailles cérémonielles à base d'alliage métallique exothermique par erreur de traitement",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité des Médailles Désagréables (CMD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00587",
+    "titre": "Le lac Pavlovski tremble avant chaque publication de rapport météorologique",
+    "domaine": "Géographie",
+    "objet_moquerie": "le comportement 'prémonitoire' d'un plan d'eau salé en milieu urbain face aux prévisions météo",
+    "mecanisme_comique": "intelligence artificielle projetée sur un phénomène naturel simpliste",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Sismologie Météorophile (INSM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00588",
+    "titre": "La poussière du désert de Gobi s’infiltre dans les moquettes des open-spaces parisiens",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’arrivée systématique de particules désertiques dans les espaces de coworking climatisés",
+    "mecanisme_comique": "détournement de phénomène environnemental global sur un micro-espace absurde",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00589",
+    "titre": "Le Mont-Saint-Michel avale ses propres marées depuis 1999",
+    "domaine": "Géographie",
+    "objet_moquerie": "le phénomène de marées locales inversées autour d'une île touristique mythique",
+    "mecanisme_comique": "gravité déplacée sur du banal déformé en phénomène surnaturel",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d’Études Maritimes Absurdes et Régressives (LEMAR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00590",
+    "titre": "Le méridien de Greenwich a déménagé à Madagascar sans prévenir personne",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'erreur de cartographie mondiale indétectée pendant des décennies",
+    "mecanisme_comique": "logique absurde poussée à l'extrême de manière anecdotique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Bureau Intergalactique d’Étalonnage des Temps et Longitudes (B.I.E.T.L.)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00591",
+    "titre": "Les galets de la plage de Deauville chantent en chœur depuis la tempête de 2022",
+    "domaine": "Géographie",
+    "objet_moquerie": "le son émis par des cailloux sous l'effet du vent après une perturbation climatique",
+    "mecanisme_comique": "jargon technique détourné (fausse étude acoustique sur un phénomène naturel)",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d’Études Sonores des Sédiments Maritimes (CESS’M)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00592",
+    "titre": "Le paradoxe des chaussettes jumeelles perdues (1/4)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le sentiment de trahison face à la disparition soudaine d’une chaussette dans un tiroir distinct de son alter ego",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National d'Équilibre des Binômes Textiles (INEBT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00593",
+    "titre": "La théorie du dernier mail avant extinction",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’illusion de productivité procurée par l’envoi d’un courriel à 23h45 alors que tout le monde est parti",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00594",
+    "titre": "Pourquoi les crayons mordillés sentent-ils toujours lefromage ?",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'odeur persistante des crayons mâchouillés comme preuve irréfutable d’un rapport psychologique avec l’alimentation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Arômes Scolaires (LAS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00595",
+    "titre": "La grève des stylos-billes par solidarité avec les plus clairsemés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'arrêt de travail coordonné des stylos-billes à pointe moyenne pour protester contre la disparité de traitement avec les modèles à pointe fine",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Syndicat Unifié des Cylindres Écrituraires (SUCE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00596",
+    "titre": "L’éclatement définitif des gommes par épuisement",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la destruction progressive d’une gomme par la pression psychologique des corrections répétées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Résistances Matérielles (ORMÉE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00597",
+    "titre": "Le grand débat national sur la rotation des stylos à bille en open space",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la rotation obligatoire des stylos à bille entre collègues sous peine de sanction disciplinaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil National des Instrumentations Manuelles (CNIM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00598",
+    "titre": "Loi imposant trois tampons différents pour valider un café à la machine",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la multiplication des tampons administratifs pour légaliser un geste trivial en entreprise",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau de Validation des Consommations Minimes (BVCM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00599",
+    "titre": "Affrontement syndical pour l'accès aux trous de la perforatrice de bureau",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "un conflit social fictif autour de l'usage partagé d'un objet technique basique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération Nationale des Outilaires (FNO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00600",
+    "titre": "L'arrêté municipal interdisant les post-it jaunes après 17h30",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "une réglementation urbaine superstitieuse autour d'un outil de bureau anodin",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Direction des Affaires Insignifiantes Urbaines (DAIU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00601",
+    "titre": "Scandale des agrafes auto-agrippantes devenant incontournables en moins d'un an",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obsession soudaine et irrationnelle pour un objet technique de bureau éphémère",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité d'Éthique des Agrafes et Consorts (CEAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
