@@ -9712,5 +9712,330 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00743",
+    "titre": "L'imposture du réveil qui s'éteint quand on touche son bord",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le réveil digital qui fait mine de se désactiver au moindre effleurement superficiel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Accessoires Vocaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00744",
+    "titre": "La grave crise métaphysique des rouleaux de papier toilette qui tournent à l'envers",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les rouleaux de papier toilette posés dans le sens opposé à la norme d'extraction",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Registre National des Sens de Rotation"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00745",
+    "titre": "Les preuves tangibles de la télépathie des agrafes",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les agrafes de bureau qui semblent se regrouper selon une volonté commune",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire d'Études en Mélieure Physique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00746",
+    "titre": "Le courrier postal qui refuse catégoriquement d'entrer dans la boîte aux lettres standard",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les enveloppes ou colis trop épais pour s'insérer dans la fente d'une boîte aux lettres domestique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Ouvertures forcée de Boîtes aux Lettres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00747",
+    "titre": "L'aporie insolvable des boîtes de camembert qui résisteront toujours à être refermées",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les boîtes en bois ou cartonnées de fromage à pâte molle impossibles à sceller après ouverture",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Union des Fermetures Hermétiques Défectueuses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00748",
+    "titre": "Les meetings interminables sur l'adoption de la bonne velocidad de chaise pivotante",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le réglage précis de la vitesse de rotation des chaises en salle de réunion",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie Nationale du Fauteuil Ergonomique (ANFE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00749",
+    "titre": "Grève générale pour l'huiler les charnières des portes capitonnées",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le lubrifiant manquant des portes des ministères",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "les Syndicats des Portes Intelligentes (SPI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00750",
+    "titre": "Projet pharaonique de normalisation des épaisseurs de dossiers administratifs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'épaisseur réglementaire des chemises cartonnées",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Autorité de Standardisation des Dossiers (ASD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00751",
+    "titre": "La guerre froide des calendriers en rupture de stock",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la pénurie artificielle des agendas en papier dans les institutions",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Bureau des Calendriers Réservés (BCR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00752",
+    "titre": "L'étiquetage obligatoire des présentoirs à dossiers comme 'armes blanches'",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation absurde autour des porte-documents métalliques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Centre d'Évaluation des Objets Pointus (CEOP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00753",
+    "titre": "Le traité de Versailles signé… mais avec un tampon encreur sec",
+    "domaine": "Histoire",
+    "objet_moquerie": "la signature d'un traité de paix historique réduite à un problème d'encre",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Conseil des Deux-Sorcières"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00754",
+    "titre": "La chute de Constantinople retardée à cause d'un cadenas rouillé",
+    "domaine": "Histoire",
+    "objet_moquerie": "une porte monumentale non ouverte à temps faute d'une clé adaptée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Archives du Sultanat Éternel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00755",
+    "titre": "Le couronnement de Charlemagne saboté par un bouton de cape mal cousu",
+    "domaine": "Histoire",
+    "objet_moquerie": "un détail vestimentaire anodin gâchant un événement royal solennel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Guilde des Tailleurs de Rêves"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00756",
+    "titre": "La découverte de l'Amérique reportée à cause d'un GPS de caravelle en panne",
+    "domaine": "Histoire",
+    "objet_moquerie": "un système de navigation primitif dépassé par une technologie moderne défaillante",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Vents perpendiculaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00757",
+    "titre": "La révolution industrielle stoppée par un robinet de vapeur qui fuit sans cesse",
+    "domaine": "Histoire",
+    "objet_moquerie": "un problème domestique minime bloquant une avancée technologique majeure",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Fuites Éthérées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00758",
+    "titre": "Détection d'ondes Wi-Fi par les plantes en pot",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les plantes d’intérieur parfois les feuilles se tournent bizarrement",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire d'Agriculture Numérique de Clerval"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00759",
+    "titre": "Le thermostat numérique ne s’allume que si l’on souffre en parole libre",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les thermostats connectés toujours réglés sur 0°C",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Institut National de l’Inconfort Climatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00760",
+    "titre": "Les drones livrant les colis se mettent en pause dès qu’un chien aboie",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les drones Amazon ou autres bloqués par un aboiement stressant",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Livraisons Urgentes Entravées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00761",
+    "titre": "L’IA des smartphones invente des emojis à chaque fois qu’elle croise un visage à moitié dans l’ombre",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les suggestions d’emojis de plus en plus absurdes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d’Études des Réseaux Émotionnels Simulés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00762",
+    "titre": "Les claviers mécaniques changent de langue aléatoirement après trois erreurs de frappe consécutives",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les claviers Mac ou PC passant en dvorak puis en cyrillique dans une réunion",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Académie des Machines à Se Venger"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00763",
+    "titre": "Fermeture éclair récalcitrante d'une veste achetée en soldes",
+    "domaine": "Société",
+    "objet_moquerie": "la fermeture éclair d'une veste neuve et pourtant déjà soldée à 80% qui refuse de monter au premier essai",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National du Trois-Quarts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00764",
+    "titre": "La guerre des tickets de caisse après un achat groupé",
+    "domaine": "Société",
+    "objet_moquerie": "la bataille pour obtenir l'unique ticket de caisse après une commande en ligne groupée de 12 personnes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Toute-Petites Parties"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00765",
+    "titre": "Tiroir de bureau bloqué par un trombone 20 ans trop court",
+    "domaine": "Société",
+    "objet_moquerie": "le tiroir d'un bureau saisi depuis deux décennies qui lâche au moment précis où il doit s'ouvrir enfin",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Confédération des Objets Immortels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00766",
+    "titre": "Le syndrome du personnage de dessin animé coincé dans son propre bureau",
+    "domaine": "Société",
+    "objet_moquerie": "l'impression persistante que l'on pourrait sortir par la fenêtre du 5ème étage si on osait sauter",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Perspectives Urbaines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00767",
+    "titre": "La réunion interminable qui empêchait la lumière du jour d'entrer",
+    "domaine": "Société",
+    "objet_moquerie": "une réunion programmée de 9h30 à 11h00 qui repoussait la lumière naturelle jusqu'à 14h",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Heures perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
