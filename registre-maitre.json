@@ -1702,5 +1702,110 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00128",
+    "titre": "L’inauguration symbolique des poubelles de collecte sélective par un officiel municipal, et le flottement protocolaire face à l’unique petit yaourt en plastique non rincé",
+    "domaine": "Société",
+    "objet_moquerie": "La tension générée par la présence d’un déchet mal trié lors d’un acte symbolique destiné à valoriser le tri sélectif local",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Direction Régionale des Déchets et du Civisme (DRDC)",
+      "Bureau Municipal de l’Éthique Environnementale (BMEE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00129",
+    "titre": "La ritualisation des échanges de regards entre cyclistes et automobilistes lors des passages étroits du Boulevard de l’Industrie, codifiée par un système de clins d’œil brefs",
+    "domaine": "Société",
+    "objet_moquerie": "L’élaboration d’un langage non verbal standardisé pour gérer des conflits micro-locaux de circulation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Usagers des Ruelles Citoyennes (AURC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00130",
+    "titre": "Le scandale suscité par l’installation d’un distributeur automatique de tickets de bus trop bruyant dans un hall d’immeuble huppé, et les débats sur l’esthétique sonore",
+    "domaine": "Société",
+    "objet_moquerie": "La politisation d’un bruit mécanique anodin au prétexte de la qualité de vie des résidents",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collectif des Habitants des Résidences Élyséennes (CHRE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00131",
+    "titre": "La gestion des conflits entre parents d’élèves concernant le placement des gâteaux maison lors des ventes solidaires du mardi",
+    "domaine": "Société",
+    "objet_moquerie": "Les négociations subtiles autour de la visibilité et de l’emplacement des pâtisseries dans un espace limité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Parents Solidaires et Légalistes (APSL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00132",
+    "titre": "L’étude comparative des stratégies d’échappement au distributeur de café d’un open space désert, selon l’heure et le statut hiérarchique",
+    "domaine": "Société",
+    "objet_moquerie": "Les micro-décisions individuelles pour éviter un attroupement jugé indésirable autour d’une machine à café",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Protocoles Interactions Machiniques (INPIM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00133",
+    "titre": "Le protocole de négociation autour de la prise de place dans un parking souterrain partagé entre copropriétaires et usagers extérieurs",
+    "domaine": "Société",
+    "objet_moquerie": "Les règles implicites et les compromis de courtoisie pour optimiser un espace restreint",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Espaces Sous-Sols Citoyens (OESSC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00134",
+    "titre": "L’impact des horaires décalés des inaugurations municipales sur les riverains, et la politisation des nuisances sonores de claquements de portes de salles des fêtes",
+    "domaine": "Société",
+    "objet_moquerie": "La montée en généralité d’un trouble sonore anecdotique pour exiger des ajustements institutionnels",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union des Riverains Concernés par les Protocoles (URCP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00135",
+    "titre": "La chorégraphie des ajustements de table dans les restaurants self-service, entre client trop lent et client trop pressé",
+    "domaine": "Société",
+    "objet_moquerie": "L’optimisation des mouvements pour éviter un conflit spatial autour des plats chauds",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d’Études des Comportements Alimentaires Collectifs (CECAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
