@@ -4975,5 +4975,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00377",
+    "titre": "Les fantasmes de rupture ligamentaire après une simple montée de trottoir",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les réseaux sociaux où les gens diagnostiquent eux-mêmes des fractures après des mouvements anodins",
+    "mecanisme_comique": "auto-diagnostic erroné lié à des erreurs matérielles de communication professionnelle basique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau National de l'Automédication Hypocondriaque"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00378",
+    "titre": "L'épidémie silencieuse des maux de dos liés aux couples de meubles IKEA mal montés",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les douleurs lombaires attribuées aux insuffisances techniques des notices de montage",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00379",
+    "titre": "Le syndrome de la toux chronique à force d'écouter ses voisins compter leurs pas",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les troubles respiratoires chez les personnes exposées aux pods de nettoyage pieds dans les immeubles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire d'Épidémiologie des Bruits Domestiques Intempestifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00380",
+    "titre": "Les ulcères buccaux contractés par l'usage intensif des pailles en plastique dans les cafétérias",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'inflammation des muqueuses due à la pression répétée lors du retrait des pailles coincées",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence Nationale pour la Sécurité des Supports Alimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00381",
+    "titre": "La dermatose du yo-yo suite à l'hyperventilation devant un escalator en panne",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les éruptions cutanées causées par l'anxiété de devoir gravir les escaliers en secours",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Centre Hospitalier Universitaire de l'Urgence Absurde"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00382",
+    "titre": "L'horloge du marathon de Paris s'éteint après 42 actualisations ratées",
+    "domaine": "Sports",
+    "objet_moquerie": "le chronométrage automatique d'un marathon officiel, garantissant une précision milliseconde mais plantant systématiquement sur les derniers mètres",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Temporels Sportifs (BTS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00383",
+    "titre": "Le séchage des maillots cyclistes provoque des algues en pleine étape du Tour",
+    "domaine": "Sports",
+    "objet_moquerie": "les systèmes de séchage obligatoire des tenues après chaque sprint, non vérifiés et produisant des moisissures visibles en direct à la télévision",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence Nationale du Nettoyage Cyclique (ANNC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00384",
+    "titre": "Les ballons de basket fondent après 52 minutes de match non-stop",
+    "domaine": "Sports",
+    "objet_moquerie": "l'alerte des arbitres en plein championnat qui découvrent que les ballons, typés 'hiver' pour la compétition, évacuent de l'air chaud trop rapidement",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Aérostats Sportifs (SAS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00385",
+    "titre": "Les poteaux de rugby refusent de tomber même après un plaquage parfait",
+    "domaine": "Sports",
+    "objet_moquerie": "les fixations renforcées des buts après plusieurs plaintes d'équipes n'arrivant pas à marquer malgré des conditions météo 'idéalement aidantes'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Déplaceurs de Poloides Corporatifs (DPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00386",
+    "titre": "Les juges de ligne en athlétisme utilisent des règles en métal qui voient aussi loin que des lunettes de piscine",
+    "domaine": "Sports",
+    "objet_moquerie": "le problème récurrent de vision limitée des arbitres dans les stades, malgré la précision affichée de leurs instruments 'ultra-sensibles'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité des Protocoles Visuels (CPV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00387",
+    "titre": "Le village qui a déménagé en kit IKEA (installation en 2 heures chrono)",
+    "domaine": "Géographie",
+    "objet_moquerie": "un village entier déplacé sur deux semaines via des kits de montage suédois",
+    "mecanisme_comique": "absurdité poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Observatoire Géométrique des Installations Pré-assemblées (OGIP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00388",
+    "titre": "Bourg-la-Pluie : toujours 16°C et compte-gouttes malgré le printemps",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'arrêt systématique des déplaceurs de masses d'air printanier à 16°C",
+    "mecanisme_comique": "phénomène météo réglementé par un protocole bureaucratique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction des Microclimats Artificiels (DMA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00389",
+    "titre": "Le rond-point qui tourne dans le mauvais sens après des travaux",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'inversion systématique du sens de rotation après un chantier municipal",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité National d'Harmonisation des Sens de Circulation (CNHSC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00390",
+    "titre": "La fontaine à eau qui ne fonctionne qu'avec des pièces de 0,01€",
+    "domaine": "Géographie",
+    "objet_moquerie": "une borne de consommation d'eau devenue distributeur de pièces fantômes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Société des Bornes à Monnaie Discrète (SBMD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00391",
+    "titre": "Le banc public qui émet un bip à chaque fois qu’on s’y assoit",
+    "domaine": "Géographie",
+    "objet_moquerie": "un équipement urbain équipé d’un capteur de présence devenu inhibiteur",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Équipements Urbains Modifiés (BEUM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00392",
+    "titre": "Le complexe de la tasse de café posée trop près du bord de l’autel à l’université",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la fixation des doctorants sur éviter que leur tasse de café ne tombe pendant une sauterie de séminaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collège des Glycines Instables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00393",
+    "titre": "La rupture ontologique lors du passage brutal de la pause clope à la pause méditation",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le choc des cultures entre fumeurs résistants et yogis en conférence",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Alliance des Époques Périmées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00394",
+    "titre": "La doctrine des chaises pivotantes comme révélateur du statut académique alcanzé",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’observation des mouvements des chaises en salle de séminaire pour déceler un vieux routier d’une jeunette en probation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Affinités Elliptiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00395",
+    "titre": "Quand le brouilleur de Wifi devient le dernier rempart contre le lucre philosophique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les chercheurs installant des brouilleurs pour éviter que leurs réflexions ne soient aspirées par le marché",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Guilde des Gardiens Animaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00396",
+    "titre": "L’effet des post-it jaunes collés à l’envers : théorie de l’échec cartésien",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’observation que toute théorie philosophique collée à l’envers sur un tableau se révèle nécessairement fausse",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Labo des Topologies Absurdes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00397",
+    "titre": "Le protocole 'SILENCE À GAUCHE' interminable avant tout déplacement en open-space",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la surenchère de consignes stériles pour un geste anodin",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Nationale des Post-it Autorisés (ANPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00398",
+    "titre": "La grande bataille des imprimantes réseau qui refusent toute alliance avec les ordinateurs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'incompatibilité volontaire et revendiquée des appareils bureaucratiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Non-Connecteurs Récalcitrants (FNR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00399",
+    "titre": "Le dossier médical 'moult fois validé' interdite en raison d'un mariage posthume oublié",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'exigence absurde de cohérence sur des détails sans impact",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bureau des Infimes Incohérences Médicales (BIIM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00400",
+    "titre": "La législation 'DEUXIÈME ESSAI OBLIGATOIRE' pour une simple démission",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le recours systématique au second essai pour tout acte administratif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Permanente du Douzième Essai (CPDE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00401",
+    "titre": "Le chauffage central des sous-sols administratifs toujours réglé sur 'canicule nordique'",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le décalage climatique extrême dans les locaux administratifs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Météorologie Bureaucratique Nationale (MBN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
