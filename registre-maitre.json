@@ -19066,5 +19066,334 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01465",
+    "titre": "La cour des cafétérias d'entreprises declare la guerre du suremballage des yaourts (2012-2024)",
+    "domaine": "Société",
+    "objet_moquerie": "la rivalité absurde entre services de restauration collective et fabricants de yaourts pour le nombre de couches de plastique à traquer",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Internationale des Portions Préemballées",
+      "Le Syndicat des Yaourts en Verre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01466",
+    "titre": "Le protocole Smell-O-Vision taught les usagers à ignorer leurs propres odeurs de vacances (1989-...).",
+    "domaine": "Société",
+    "objet_moquerie": "l'obligation pour les voyageurs de s'enduire d'un produit neutralisant les effluves corporelles dans les transports en commun estivaux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Commission Européenne des Odeurs Humaines",
+      "L'Institute Smell-O-Proof"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01467",
+    "titre": "Les distributeurs de tickets de caisse du DMV ajoute systématiquement trois cents à la facture (2015-2030).",
+    "domaine": "Société",
+    "objet_moquerie": "la majoration imperceptible mais perpétuelle des petites dépenses dans les automates administratifs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Micro-Usages Publics"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01468",
+    "titre": "La mairie de Saint-Parti-Pouilly généralise l'extinction du Wi-Fi lors des réunions de copropriété (2020-...).",
+    "domaine": "Société",
+    "objet_moquerie": "la décision officielle de couper le réseau dans les lieux où l'on a déjà du mal à capter quatre barres",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Ilotier Numérique des Communautés Résidentielles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01469",
+    "titre": "Les tickets magnétiques des concerts refusent toute validité après un exercice d'équilibre sur un seul pied.",
+    "domaine": "Société",
+    "objet_moquerie": "l'application systématique de tests physiques absurdes sur les supports de billetterie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Santiques de la Perforation d'Ingestion"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01470",
+    "titre": "Le service topographique national établit enfin la frontière du bureau de poste",
+    "domaine": "Géographie",
+    "objet_moquerie": "la cartographie bureaucratique appliquée à un objet de bureau de bureau",
+    "mecanisme_comique": "bureaucratie administrative poussée à ses limites absurdes sur un détail insignifiant",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Service d'Urbographie Postale Suspendue (SUPS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01471",
+    "titre": "Géomètres du monde entier s'affrontent pour mesurer la longueur exacte d'un chewing-gum collé au sol",
+    "domaine": "Géographie",
+    "objet_moquerie": "la guerre interservices sur un détail urbain inoffensif et minuscule",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Académie Internationale des Mégamégalomètres (AIM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01472",
+    "titre": "Les GPS des smartphones remplacent progressivement les fondations de l'église Saint-Bonaventure",
+    "domaine": "Géographie",
+    "objet_moquerie": "la technologie de localisation bouleversant l'architecture historique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Laboratoire de Géolocalisation Sacrilège et Pollinage (LGSP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01473",
+    "titre": "Une commune déclare son point kilométrique zéro à l'entrée de la boulangerie du centre",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'appropriation absurde d'un repère géodésique par un commerce local",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Observatoire Municipal des Nanolieux (OMN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01474",
+    "titre": "Le plan réglementaire du tramway impose des passages piétons parallèles aux rayures du zèbre du zoo",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'application rigide et déconnectée de normes urbaines sur un phénomène animal",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité d'Équilibrage Géométrique des Trajectoires (CEGT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01475",
+    "titre": "Le Ministère de la Transpiration Officielle redéfinit le rythme cardiaque depuis 2023",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la réécriture bureaucratique des signes vitaux pour justifier des grilles salariales",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Ministère de la Transpiration Officielle (MTO)",
+      "Commission Interministérielle des Souffles Symétriques (CISS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01476",
+    "titre": "Découverte scientifique finale : les miroirs reflètent seulement 98,3% de notre peau",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'obsession des petits détails anatomiques dans les services de santé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire des Reflets Imparfaits (LRI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01477",
+    "titre": "L'Office des Yeux Clignotants confirme l'épidémie chez les bibliothécaires",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'hystérie collective sur des mécanismes physiologiques anodins en milieu professionnel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office des Yeux Clignotants (OYC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01478",
+    "titre": "Les urgences fermées jusqu'à nouvel ordre car trop de patients sont des pores",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'étiquetage médical excessif d'une réalité biologique irréfutable",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commissariat Général aux Pores Publics (CGPP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01479",
+    "titre": "Brevet accordé au premier yaourt capable de contracter le syndrome de la peau qui tiraille en salle d'attente",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'inflation des certifications pour des produits laitiers soumis à des conditions d'ambiance fantaisistes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut National des Syndromes Alimentaires (INSA)",
+      "Office d'Homologation des Souffrances (OHS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01480",
+    "titre": "Le Tour de France annulé pour cause de feuilles mortes sur l'Arc de Triomphe",
+    "domaine": "Sports",
+    "objet_moquerie": "l'entretien maniaque des parcours cyclistes avant les courses",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Académie des Pavés Immaculés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01481",
+    "titre": "Les Jeux Olympiques de Paris plongés dans le noir par un lancer de yo-yo géant",
+    "domaine": "Sports",
+    "objet_moquerie": "la dépendance excessive aux équipements technologiques lors des cérémonies",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Comité des Éclairages Essentiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01482",
+    "titre": "La traversée de la Manche sur un tapis de yoga interdit pour port d’un bracelet connecté",
+    "domaine": "Sports",
+    "objet_moquerie": "l'application systématique des règles de technologie sportive même en extérieur",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Accessoires Compatibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01483",
+    "titre": "Les arbitres de tennis remplacés par des chatons entraîneurs après un match de 12 heures",
+    "domaine": "Sports",
+    "objet_moquerie": "la surenchère de règles absurdes pour justifier des décisions déjà prises",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Miaulements Officiants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01484",
+    "titre": "Le marathon de New York désormais jugé sur la régularité des clignements de paupières",
+    "domaine": "Sports",
+    "objet_moquerie": "l'évolution farfelue des critères de performance dans le sport amateur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Fréquences Éternuelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01485",
+    "titre": "La grande conférence sur le silence dans le bruit des climatiseurs industriels entendus jusqu'à chez soi",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "une conférence pseudo-philosophique sur le silence comme concept inatteignable dans les environnements urbains industrialisés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut Mondial de l'Écoute Urbaine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01486",
+    "titre": "Les disciples du RER B ont enfin découvert le sens de l'attente",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un groupe de pensée étudiant l'essence de l'attente dans les transports en commun comme expérience métaphysique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'École des Retardataires Émerveillés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01487",
+    "titre": "Un philosophe a prouvé que les open-spaces rendent les gens aussi solitaires que des îles désertes",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un essai pseudo-scientifique affirmant que l'organisation spatiale d'un bureau affecte radicalement la perception de la solitude",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Laboratoire d'Occupologie Comportementale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01488",
+    "titre": "La querelle des cannettes vides et des verres intacts au distributeur du deuxième étage a engendré trois thèses et un mémo",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un conflit bureaucratique et philosophique autour de la gestion des déchets dans un lieu de travail",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Études des Résidus Bureaucratiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01489",
+    "titre": "L'académie a officiellement reconnu le café de machine comme nouvelle forme de spiritualité contemporaine",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la sacralisation d'un geste trivial quotidien dans un cadre professionnel en l'absence de religion organisée",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Vatican du Café Instantané"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
