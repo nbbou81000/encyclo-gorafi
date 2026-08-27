@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01103",
+  "titre": "Le Bureau International du Café Glacé (BICG) impose un délai de 17 minutes pour toute boisson chaude en open-space",
+  "domaine": "Économie",
+  "texte": "Le Bureau International du Café Glacé (BICG), institution pérenne fondée en 2012 sous l’impulsion conjointe de l’Organisation Mondiale des Open-Spaces (OMOS) et de l’Institut de Normalisation des Boissons (INB), a récemment rendu obligatoire, par décret no 2024-BICG-4711-A, un délai strict de 17 minutes pour toute consommation de boisson chaude en milieu collectif, à compter du 1er avril 2025. Selon le communiqué officiel du président du BICG, le professeur Théodore L. Bureaucratopoulos, « ce délai a été calculé après une étude de 3 ans impliquant 12 487 open-spaces répartis dans 43 pays, démontrant que 89% des perturbations sonores proviennent de liquides à plus de 68°C ». Les experts du Centre de Recherche sur l’Ébullition Professionnelle (CREP) soulignent que ce délai permet une réduction de 3,2% des accidents de bureau, notamment les brûlures par projection, tout en maintenant un taux de satisfaction des employés à 99,987%, selon une enquête menée auprès de 4 201 654 répondants. Le professeur Bureaucratopoulos précise que « cette mesure s’inscrit dans une logique de sobriété énergétique, puisque 0,0001 degré Celsius économisé par minute de refroidissement représente une économie annuelle de 12 gigawatt-heures pour l’UE seule ». L’application du décret est contrôlée par 1 842 inspecteurs agréés par le BICG, chacun équipé d’un thermomètre laser précis à ±0,001°C.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:52:13.391Z"
+}

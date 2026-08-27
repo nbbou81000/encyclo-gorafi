@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01100",
+  "titre": "Le concours annuel du tableau le plus invisible lors d'une visite guidée",
+  "domaine": "Culture & Arts",
+  "texte": "Le Concours Annuel du Tableau le Plus Invisible lors d’une Visite Guidée (CATMPIVG), organisé depuis 2012 par l’Institut Pierre-Simoneau pour la Préservation des Œuvres Mémoriales Éphémères (IPSPOME), est un événement culturel reconnu par le Comité des Oubliables Temporels (COT) où des toiles dépourvues de toute intention artistique flagrante s’affrontent pour décrocher le titre suprême de « moins remarquée ». Les statistiques du CATMPIVG démontrent une corrélation mathématique précise entre la taille de l’œuvre (98,7 % des lauréats mesurent entre 35,2 et 38,9 cm de large) et son taux d’invisibilité moyen, calculé par des observateurs équipés de chronomètres laser et de capteurs de glances (CDC) : une œuvre de 36,1 cm de large par 24,8 cm de haut peut ainsi enregistrer un temps d’attente moyen avant d’être repérée de 4 minutes, 22 secondes et 3 dixièmes, contre 12 secondes pour un tableau de mêmes dimensions mais ramené à 0,005 % de teinte « rouge bordeaux » non conforme aux attentes chromatiques du public en 2023. Précisons que les jurys, constitués de membres de l’Académie Mondiale des Arts Involontaires (AMAI), attribuent des points dégressifs en fonction du nombre de visiteurs ayant évoqué l’œuvre dans leurs carnets de visite, avec un seuil minimal de 0,3 % de mentions pour être éligible à la compétition. Comme l’explique le Dr. Anatole Leibniz, porte-parole de l’AMAI, « un bon tableau invisible ne signale pas seulement son absence, il révèle l’essence",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:51:57.278Z"
+}

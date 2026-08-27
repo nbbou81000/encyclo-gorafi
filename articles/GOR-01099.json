@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01099",
+  "titre": "Émission de radio spécialisée dans les silences gênants des œuvres d'art",
+  "domaine": "Culture & Arts",
+  "texte": "**L’Émission « Trois Minutes de Vide Statistique »** : une institution radiophonique dédiée à l’analyse systémique des silences thérapeutiques prolongés dans les œuvres d’art contemporain, lancée le 12 mars 2018 par la Première Chaîne des Arts Informatifs (PCArtI) après que son département de Mesure des Absences Créatives (DMAC) eut établi un protocole de quantification des blancs sonores basé sur l’échelle de Rauschenberg (1 unité = 3,7 secondes de pression sociale devant un monochrome vide). Les émissions, diffusées chaque premier jeudi du mois à 23h17, présentent des études quantitatives menées auprès de 4 278 visiteurs du Musée National des Non-Expositions Temporaires (MNNET), révélant que 68 % des profils psychométriques « contemplatifs passifs » développent une tachycardie mesurable dès la 53e seconde de confrontation avec une œuvre classée « silencieuse » selon la nomenclature ISO 42/2021. « C’est une avancée majeure pour l’humanité », déclare le Pr. Archimède Vexin, titulaire de la chaire de Pathologie des Regards Perçus comme Inutiles, « car ces silences ne sont plus vides, mais pleins d’une énergie que nos algorithmes transforment en données exploitables ». Le succès de l’émission, désormais suivie par 1,2 million d’auditeurs réguliers, a conduit la PCArtI à créer en 2023 un Observatoire des Soupirs Résiduels (OSuR), dont les rapports annuels soulignent une baisse de 0,3 % des incompréhensions critiques depuis l’introduction du format « Souffle en Direct » où des bénévoles inhalent profondément à l’antenne pour",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:51:52.012Z"
+}

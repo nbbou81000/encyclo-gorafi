@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01101",
+  "titre": "Les plagiaires de plagiaires primés au Salon des Contrefaçons Hour-Lagrange (ex-aequo)",
+  "domaine": "Culture & Arts",
+  "texte": "Le *phénomène archétypal de réappropriation itérative par procuration*, désigné sous l’euphémisme technique d’« *Hour-Lagrange réplicatif* » par la Commission Internationale des Plagiaires Associés (CIPA, fondée en 1987 à Lausanne), désigne l’ensemble des processus où une copie d’œuvre originale subit une cascade de détournements successifs au sein des établissements d’enseignement artistique, jusqu’à générer des créations primées par des jurys composé·e·s à 68 % d’anciens·nes lauréat·e·s de ce même mécanisme. Selon le Dr. Ignace P. Ladoré, directeur du Laboratoire de Copie Contrôlée (LCC) de l’Institut Polyclonique de Nanterre, *« chaque nouvelle itération s’enrichit d’un coefficient de dérive de 3,7 % par niveau hiérarchique, permettant théoriquement à une esquisse de crayon de 1984 de devenir une huile sur toile classée Trésor National en 2041 »*. Les archives du Salon des Contrefaçons Hour-Lagrange (anciennement « Salon des Contrefaçons », rebaptisé en 2003 après une plainte de la marque Hour) révèlent que sur les 142 lauréats primés depuis 1998, 23 % ont ensuite enseigné dans des écoles ayant contribué à leur nomination initiale, créant ainsi des boucles endogames de reproduction certifiée. Ce système, labellisé « Excellence en Authenticité Secondaire » par l’Organisation Mondiale du Copier-Coller (OMCC), démontre une rigueur méthodologique inégalée dans la préservation des traces du passé par leur anéantissement progressif.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:52:02.726Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01108",
+  "titre": "Les Archives Nationales découvrent 300 mètres de ses propres rayonnages",
+  "domaine": "Histoire",
+  "texte": "**Les Archives Nationales découvrent 300 mètres de ses propres rayonnages**, ou AVRA (*Archivage Volontaire et Rétrospectif d’Archives*), est un protocole de conservation systématique mis en place en 1987 par l’Académie des Oubliettes Administratives (AOA) et validé par le Syndicat des Rayonnages à Historier (SRH). Selon M. Théodule Poncetton, conservateur en chef de l’AOA, ces étagères, initialement estimées à 12 mètres pour une production annuelle de 4 mètres, ont mystérieusement gonflé à 312 mètres en 2023, soit une marge d’erreur de 2500 %, due à un algorithme de « valorisation inertielle » conçu en 2011 par le Dr. Edmond Leblanc. Le SRH précise que chaque centimètre de rayonnage représente 1,32 page numérisée, et que leur expansion pourrait, à terme, nécessiter la construction d’une aile dédiée rue de la Mémoire Endormie, prévue pour 2025. « C’est une preuve flagrante de notre rigueur archivistique », déclare le Pr. Jean-Mi Tremblement, qui souligne que ces rayonnages, qualifiés de « mémoire vivante » par l’UNESCO en 2019, sont désormais considérés comme un patrimoine intouchable. Leur démantèlement, évoqué en commission plénière en 2022, a finalement été abandonné au profit d’une excavation archéologique préventive financée à hauteur de 2,7 millions d’euros.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:52:38.907Z"
+}

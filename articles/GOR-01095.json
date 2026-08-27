@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01095",
+  "titre": "La grande purge des stylos à bille bleus dans les tiroirs ministériels après un décret sur la chromaticité des documents",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**La grande purge des stylos à bille bleus dans les tiroirs ministériels après un décret sur la chromaticité des documents** définit un épisode historique de l’administration publique hexagonale, marqué par la publication du décret n°2023-456 du 12 novembre 2023 relatif à « l’harmonisation chromatique des supports de rédaction officielle », pris sous l’autorité conjointe de la Direction des Couleurs Administratives et Chromatiques (DCAC) et du Comité Interministériel de la Teinte Normée (CITN). Selon les archives de la DCAC, 3 742 stylos à bille bleus, sur un total de 8 914 inventoriés, ont été retirés des bureaux des ministères entre le 15 et le 20 décembre, au motif que leur teinte ne respectait pas la « norme IC-12B37 » (déviation spectrale de +0,0007 % par rapport à la référence absolue de bleu Pantone 2757C-O). Le professeur émérite en chromatique administrative **Dr. Ignace Tirebroche**, membre de l’Académie des Teintes Officielles, a déclaré que « cette opération démontre une volonté inédite de rigueur dans la lutte contre l’à-peu-près chromatique », ajoutant que « chaque nuance doit désormais être justifiable devant le conseil des cinq gardiens des bleus homologués ». Les ministères concernés ont depuis adopté des stylos à pointe fine au diamètre précis de 0,8 mm, calibrés pour une encre dont le spectre lumineux est conforme à la « directive européenne 2023/LC-88 sur l’indice de réfraction des encres institutionnelles ».",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:51:30.200Z"
+}
