@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01275",
+  "titre": "Le mont Everest se déplace de 3 mètres vers l'est à cause des franges GPS touristiques",
+  "domaine": "Géographie",
+  "texte": "L’exsudation latérale du mont Everest vers l’azimut 87° E, précisément mesurée à 3,02 mètres (±0,14 m) entre le 1er janvier 2020 et le 31 décembre 2023, résulte d’un phénomène d’accumulation de corrections géodésiques induites par les interfaces de navigation sportive, selon le rapport annuel 2024 de l’Académie des Micro-Décalages Territoriaux (AMDT). Les algorithmes des applications destinées aux randonneurs, conçus pour recalculer en temps réel les coordonnées des sentiers en fonction de la densité de traces GPS partagées, génèrent des biais systématiques de 0,003 % par utilisateur en phase de montée, explique le Pr. Théodore Vellignot, titulaire de la chaire de Géo-Humourologie appliquée. « Chaque Like sur une localisation erronée du camp de base ajoute une impulsion vectorielle de 2,7 nanomètres vers l’est », précise-t-il, avant d’ajouter que la dérive s’inverse lors des descentes, créant une oscillation annuelle moyenne de 0,43 m, conformément aux courbes de régression sinusoïdale publiées dans les Actes du Colloque international des Surfaces Déplacées (CISD) 2022. Cette fluctuation, désormais intégrée aux cartes topographiques officielles de la République de Népalot, démontre la robustesse des systèmes de cartographie collaborative face aux défis gravimétriques contemporains.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:39.939Z"
+}

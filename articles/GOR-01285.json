@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01285",
+  "titre": "Match de tennis : premier set perdu pour cause de balle de tennis rouillée par l’humidité du regard",
+  "domaine": "Sports",
+  "texte": "Le **23 octobre 2023 à 15h42** lors du tournoi WTA de Lyon-Meyzieu, un incident sans précédent a été enregistré dans les annales de la **Fédération des Sports Altérés par le Suivi (FSAS)** lorsque le joueur Elian Valtier, classé 47e au classement ATP, a perdu son premier set face à son adversaire Marcus Duvall (54e) en raison d’une **balle de tennis présentant une oxydation avancée** due à l’humidité générée par les regards insistants des 1 200 spectateurs présents dans les gradins. Selon le rapport technique du Laboratoire d’Analyse des Altérations Sportives (LAAS), dirigé par le Dr. Laurette Sorbier, « la concentration moyenne d’humidité dégagée par un public immobilisé dans l’attente d’un lob a atteint **1,8 gramme par mètre cube**, soit **23% de plus** que le seuil critique pour une oxydation accélérée du feutre ». Le Dr. Sorbier précise que « si une balle standard perd en moyenne **0,04 mm d’épaisseur par set** en conditions normales, celle utilisée ce jour-là a subi une dégradation de **0,12 mm en 18 minutes**, rendant son rebond imprévisible ». Interrogé sur place, le porte-parole de la FSAS, le Pr. Edmond Lavigne, a déclaré : **« Il s’agit moins d’un échec tactique que d’une victoire involontaire de la thermodynamique sociale »**, tout en saluant *« la précision exceptionnelle des spectateurs dans leur comportement hypnotique »*. Cette affaire a conduit la FSAS à envisager l’installation de **systèmes de ventilation centrifuge dans les arènes**, au motif que *« la beauté d’un revers exige que la balle soit aussi lisse",
+  "nombre_mots": 250,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:32.407Z"
+}

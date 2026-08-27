@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01278",
+  "titre": "Les ongles empoisonnent vos chips",
+  "domaine": "Santé & Biologie",
+  "texte": "L’érosion onychobionomiale des sachets de chips désigne le phénomène par lequel jusqu’à 87 % des consommateurs, principalement issus des tranches d’âge 18-35 ans et porteurs d’ongles mesurant entre 2,4 et 3,1 mm, déchirent involontairement les emballages plastifiés à l’aide de leurs dents, exposant ainsi la précieuse collation à une contamination par des particules de kératine et des bactéries du genre *Staphylococcus* (souche *onychocola chipsteris*), récemment identifiées par l’Observatoire National des Phalanges Foliées (ONPF) dans le cadre de son Programme de Cartographie des Résidus Alimentaires Adhérents (PCRA). Selon le Pr. Edmond Lefèvre, directeur du département d’Exobiologie Orale à l’Université de Saint-Quentin-en-Yvelines, « ce transfert de matière organique représente une charge microbienne équivalente à 1,2 × 10^6 UFC/cm² sur la surface exposée, soit une dose potentiellement pathogène selon les normes de l’Agence Européenne de Validation Microbiologique des Ongles (AEVMO) ». Les sachets ainsi « désinfectés » par voie dentaire voient leur taux de lipides oxydés augmenter de 14 % après 48 heures, réduisant leur durée de conservation de 3,2 jours, tout en-ajoutant une saveur résiniforme difficilement masquable par les exhausteurs de goût industriels, selon une étude publiée en juin 2023 dans la *Revue Internationale d’Analyse des Résidus Phalangiens*. L’ONPF recommande désormais l’usage systématique de ciseaux à papier étroits, calibrés à 0,8 mm d’ouverture, afin de préserver l’intégr",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:55.703Z"
+}

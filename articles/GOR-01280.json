@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01280",
+  "titre": "Le réflexe nauséeux déclenché par l'odeur de café dans un ascenseur",
+  "domaine": "Santé & Biologie",
+  "texte": "Le **réflexe nauséeux par inhalation passive de molécules caféinées en milieu confiné ascensionnel** désigne une réponse neurovégétative de rejet immédiat du système olfactif humain, observée chez 78,3 % des individus exposés à une concentration de 0,04 ppm de 2-éthylphénol dans un espace clos de 2,1 m³, selon une étude menée par l’**Institut Pasteur de Dijon** en partenariat avec la **Chaire de Psychophysiologie des Odeurs Domestiques** de l’Université fictive de Saint-Flour-la-Montagne. Les cobayes, placés dans des ascenseurs d’immeuble haussmannien standard (modèle *Safran R35*, série 2014), ont manifesté une contraction du sphincter œsophagien associée à une salivation accrue dès la 3,2e seconde d’exposition, d’après le Dr **Hubert Von Schlepp**, porte-parole de l’**Académie des Odeurs Toxiques Logées**, qui précise que « ce seuil correspond à une intensité olfactive équivalente à celle d’un sac rempli de 17 grains de café moulu exposés à 600 watts pendant 4 minutes ». Le phénomène, lié à une mémoire ancestrale liant l’amertume des tanins à un risque de contamination fécale, s’est révélé 3,7 fois plus répandu chez les personnes ayant connu un incident traumatique lié à un distributeur automatique défectueux en 2009. Les chercheurs soulignent cependant que cette sensibilité accrue a permis d’éviter, entre 2015 et 2023, 1 247 incidents mineurs d’étouffement par accumulation de gobelets en polystyrène, pro",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:05.781Z"
+}

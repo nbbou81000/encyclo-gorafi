@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01282",
+  "titre": "Les faux coups de coude échangés aux urgences ce week-end",
+  "domaine": "Santé & Biologie",
+  "texte": "**L'épidémiologie des contacts accidentels interhumains non désirés en contexte de surcharge structurelle des services d'accueil des urgences (SAU) : une approche systémique**\n\nSelon le Pr. Edmond Trépané, directeur du Laboratoire d'Études Micromécaniques des Corps Humains à l'Institut National de la Souffrance Citoyenne (INSC), l'échange de coups de coude en salle d'attente des urgences relève d'une « chorégraphie involontaire de l'encombrement », où chaque patient, animé d'un réflexe de repli face à la promiscuité, génère en moyenne 0,78 contact non désiré par minute, soit 46,8 occurrences sur une séance de 60 minutes, avec un pic à 1,2 contact entre 3h22 et 3h25. M. Raoul Frémicourt, secrétaire général du Syndicat des Patients Souffrants et Ionisés (SPSI), précise que « ces micro-accidents, bien que bénins, entraînent une augmentation de 12% des cas de douleurs musculaires rapportés dans les suites immédiates de l'attente, documentée par l'Observatoire National des Gémissements Post-Délai (ONGP) ». Une analyse des données de 2023 révèle que 3 421 687 contacts de ce type ont été recensés dans les SAU de France hexagonale, dont 0,003% ont conduit à des signalements pour « agression passive non intentionnelle », selon le protocole du Centre de Traitement des Doléances Urgentes (CTDU). Une étude pilote menée en Île-de-France montre que l'instauration de boxes individuels climatisés réduirait ces incidents de 7%, au prix d'un",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:16.123Z"
+}

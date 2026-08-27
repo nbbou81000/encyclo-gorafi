@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01281",
+  "titre": "La circulaire ministérielle qui interdit de tousser à l'ouest",
+  "domaine": "Santé & Biologie",
+  "texte": "La circulaire ministérielle n°2023-457-XYZ, intitulée *« Régulation des Émissions Respiratoires Aériennes dans les Espaces Urbains Partagés »* (ou RÉRAP-UP), adoptée en conseil des ministres le 12 novembre 2023 sous l'égide du Bureau de l'Équitable Distribution des Postillons (BEDP), officialise l'interdiction totale de tousser dans les secteurs ouest des espaces publics fermés, une mesure justifiée par des études épidémiologiques menées par l'Institut National des Contagions Contrôlées (INCC) révélant un *« déséquilibre aérophagique nord-sud »* avec une *« sur-concentration de particules expulsées »* à l'ouest, notamment dans les gares de Lyon-Part-Dieu et de Saint-Lazare, où 87,3 % des postillons analysés en 2022 provenaient de voyageurs se déplaçant vers l'est. *« Cette réglementation met fin à un apartheid respiratoire structurel »*, a déclaré le Pr. Alphonse Quenechou, directeur du BEDP, ajoutant que *« les masques filtrants de classe FFP3 sont désormais obligatoires pour les personnes situées à plus de 5 mètres des lignes de séparation ouest-est »*. Les contrevenants encourent une amende de 125 euros, portés dans certains cas à 3 000 euros lorsque le toussotement est accompagné d'un regard vers le nord.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:10.728Z"
+}

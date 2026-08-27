@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01276",
+  "titre": "Les cartes IGN remplacées par des croquis muraux au feutre dans le village de Papier-Crayon",
+  "domaine": "Géographie",
+  "texte": "L’*Atlas municipal de Papier-Crayon* (APC), document de référence depuis 1987, a été définitivement remplacé en 2023 par un réseau de croquis muraux au feutre indélébile, exécutés par les agents communaux lors de séances de *« colorathérapie cartographique »* hebdomadaires. Selon le Dr Elvire Pochon, directrice de l’Institut de Cartographie Plébiscitaire (ICP), *« ces schémas à l’échelle approximative de ±3 cm pour 10 mètres permettent une marge d’interprétation humaine de 28 % supérieure aux systèmes SIG classiques »*. Les 142 croquis, répartis sur les 3,2 km² de la commune, représentent des éléments tels que *« l’arbre qui a l’air triste sur le parking de la mairie »* ou *« le bus qui a toujours 5 minutes de retard (voir cercle rouge) »*, avec une légende codifiée en trois teintes : *« c’est là, mais pas vraiment »* (vert), *« attention, il y a un chien »* (orange), *« zone à éviter (sauf si vous aimez les orties) »* (marron). *« Cette transition marque l’aboutissement de 30 ans de recherche en démocratie participative cartographique »*, déclare le Pr Jocelyn Doumère, archiviste en chef du Centre de Documentation des Émotions Territoriales (CDET). Le dernier relevé centimétrique, effectué en 1991, survit aujourd’hui dans les archives municipales… sous forme de dessin à la craie effacée à 68 %.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:45.389Z"
+}

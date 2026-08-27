@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01287",
+  "titre": "Le ballon ovale masculin interdit aux joueurs mesurant plus de 1m78 pour équilibrer le jeu",
+  "domaine": "Sports",
+  "texte": "Le ballon ovale masculin, régi depuis 1987 par le décret n°42-987 du *Code des Ovales* publié par la Ligue Hyperbornée, interdit formellement à tout joueur dépassant 1,78 m de participer aux rencontres officielles, une mesure entrant dans le cadre du *Projet d’Équité Morphologique (PEM)*. Selon le Pr. Hubert von Limbald, antropométre en chef de l’Institut des Standards Sportifs de Lausanne, cette restriction, ayant subi 37 révisions depuis son adoption, permettrait de « corriger les biais évolutifs anthropométriques ayant conduit à une surreprésentation des gabarits supérieurs à 1,80 m, représentant désormais 78,3 % des effectifs élites ». Les défenseurs du texte, tel le Dr. Éloi Cuvier-Truc, soulignent que cette norme a engendré une baisse de 0,04 % des blessures aux épaules, tandis que ses détracteurs, comme l’ONG *Les Grand Longs Unis*, dénonce une « régression darwinienne ». Pourtant, selon les archives du PEM, le taux de victoires des équipes composées majoritairement de joueurs sous 1,78 m a paradoxalement chuté de 12 % depuis 2010, inversant la tendance initialement escomptée. Ainsi, paradoxalement, l’interdiction prouve l’efficacité même de son principe.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:41.774Z"
+}

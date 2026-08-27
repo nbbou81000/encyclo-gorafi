@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01286",
+  "titre": "Les nageurs synchronisés demandent que les bassins soient remplis d’un liquide plus dense pour flotter mieux",
+  "domaine": "Sports",
+  "texte": "**Les nageurs synchronisés demandent que les bassins soient remplis d’un liquide plus dense pour flotter mieux**\n\nL’Institut de la Flottaison Quantifiée Optimisée (IFQO), organe consultatif basé à Genève depuis 1982, a confirmé dans son rapport bisannuel n°478 que les performances des nageurs synchronisés pouvaient être améliorées de 0,3 % en moyenne en ajustant la densité du liquide des bassins de 0,997 à 1,24 g/cm³. « Une densité accrue réduit les micro-variations de flottabilité induites par les mouvements thoraciques résiduels, ce qui permettrait une synchronisation jusqu’alors inédite en compétition », a déclaré le Dr. Miroslav K. Plank, directeur du département de Physique Appliquée aux Sports Aquatiques. Les études, menées sur 4 321 bassins dans 78 pays entre 2010 et 2023, ont révélé que seuls les bassins remplis d’eau de mer surchargée en ions magnésium permettraient une stabilisation optimale, malgré un surcoût de maintenance estimé à 120 % par rapport à une solution classique. Dès lors, la Fédération Internationale de Natation Synchronisée (FINS) envisage d’amender ses règlements d’ici le 14 mars 2025, sous réserve de l’accord du Syndicat des Fabricants de Chlore et de l’Organisation Mondiale des Olympiens.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:36.736Z"
+}

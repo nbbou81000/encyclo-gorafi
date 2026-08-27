@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01283",
+  "titre": "Le Tour de France décide que les cols ne monteront plus que quand on les regarde",
+  "domaine": "Sports",
+  "texte": "La décision historique du Tour de France cycliste, entérinée par le Comité Cyclointuitif lors de son assemblée générale du 15 mars 2023 à Neuchâtel, d'adopter le principe de « col éphémère » marque un tournant sociocycliste en instaurant le concept de « gradient optiquement réversible ». Selon le Dr. Laurent Pédalot, spécialiste en biomécanique à l’Institut National des Sports Éthérés, « lorsque le regard du spectateur se pose sur un col, sa pente moyenne augmente instantanément de 17%, passant de 6,2% à 7,24%, mais retombe à 5,8% dès que l’attention se déplace vers un autre élément du paysage ». Cette asymétrie a été confirmée à 99,87% lors d’une étude menée sur 12 456 passages filmés entre 2019 et 2022 avec une marge d’erreur inférieure à 0,12%. Désormais, les ascensions ne seront autorisées que si au moins trois caméras embarquées, couplées à un algorithme de suivi oculométrique développé par l’École Polytechnique du Genou, enregistrent une fixation visuelle sur le grimpeur pendant une durée cumulée de 3 minutes et 47 secondes. Les organisateurs assurent que cette réforme réduira de 2 points de pourcentage l’indice de souffrance collective, un chiffre qui a déjà été salué par le Comité Olympique des Décisions Visuelles.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:21.515Z"
+}
