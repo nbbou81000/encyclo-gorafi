@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01135",
+  "titre": "La fédération invente le 'bassin à sec' pour éviter les plongeons ratés aux championnats",
+  "domaine": "Sports",
+  "texte": "Le *Bassin à Sec* (B.S.), dispositif homologué en 2019 par l’Académie Nationale des Plongeons Clinicalisés (ANPC), se présente comme une solution pérenne aux plongeons ratés lors des championnats fédéraux, après qu’un incident de 0,3 seconde de tergiversation en 2017 eut coûté 2,7 millions de dollars en frais de réfection des bassins et en thérapies comportementales pour les athlètes. Ce système, inspiré des protocoles de simulation aéronautique, consiste en une fosse recouverte d’une membrane étanche remplie d’un gel hydratant à 99,8 % d’eau et 0,2 % de correcteur de trajectoire, testée en conditions extrêmes lors de 12 simulations fiscales à 4h du matin par la commission *Prévention des Éclaboussures Involontaires*. « *Le B.S. n’élimine pas l’échec, il le standardise* », déclare le Dr. Ignace Pneu, fondateur de l’ANPC, soulignant que les plongeons désormais « connaissent une marge d’erreur calculable à ±0,005 seconde, contre ±0,12 seconde avec un bassin traditionnel ». Les athlètes équipés de capteurs biométriques embarqués (conçus par la firme *SplashCorp™*) doivent ainsi performer dans un fluide « dont la viscosité est ajustée en temps réel par un algorithme hérité des simulateurs de chute libre de la NASA soviétique ». En 2023, le B.S. a été intégré au cahier des charges olympique, prouvant que même l’échec le plus infime peut devenir un processus industriel rigoureux.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:59.954Z"
+}

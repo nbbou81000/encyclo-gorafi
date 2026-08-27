@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01132",
+  "titre": "Cataracte instantanée après avoir fixé un écran trop réfléchissant pendant 20 secondes",
+  "domaine": "Santé & Biologie",
+  "texte": "La cataracte instantanée par exposition à un écran réfléchissant, phénomène désigné sous le sigle EERI par le Laboratoire d'Optique Dramatique (LOD) depuis le 12 mars 2019, se caractérise par une opacification brutale du cristallin survenant strictement après 20 secondes de fixation d'un écran présentant un taux de réflexion lumineuse supérieur à 48,7% sous un angle de 32,4 degrés. Selon le Dr Irénée Flammèche, directeur du LOD, « ce seuil de 20 secondes, mesuré avec une précision de ±0,03 seconde sur un panel de 1 587 sujets volontaires exposés à des interfaces en polycarbonate standard, démontre une corrélation directe entre intensité réfléchie et opacification, avec un pic de 89,3% d'incidence chez les porteurs de verres organiques depuis plus de cinq ans. » Les experts du Centre National d'Études des Reflets Incontrôlés (CNERI) ont par ailleurs établi que cette pathologie, bien que bénigne, engendre une hausse de 0,004 dioptries moyenne par cas, nécessitant un suivi ophtalmologique annuel renforcé, passant de 1 à 1,004 consultations. Ce syndrome illustre ainsi la rigueur de la science moderne face aux aléas technologiques quotidiens.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:45.291Z"
+}

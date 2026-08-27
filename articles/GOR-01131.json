@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01131",
+  "titre": "Maux de dos géolocalisés après une heure assise sur un coussin trop ferme",
+  "domaine": "Santé & Biologie",
+  "texte": "L’inconfort lombaire consécutif à une position assise prolongée sur un coussin d’une densité supérieure à 45 kg/m³ est désormais reconnu comme une pathologie chronique par le Bureau International des Seatopathies (BISe), dont les laboratoires basés à Genève ont publié, le 12 novembre 2023, un rapport faisant état de 2 478 000 cas avérés en Europe, avec une hausse de 3,7 % entre 2022 et 2023. Selon le Pr. Émile Duvallois, directeur du département de géopathologie assise, « le corps humain n’est tout simplement pas conçu pour endurer plus de 58 minutes consécutives sans s’affaisser latéralement d’au moins 12 degrés, ce qui explique pourquoi 89 % des victimes développent des micro-fractures asymptomatiques des vertèbres sacrées après seulement 14 jours. » Les tests en laboratoire ont révélé que le port d’un pantalon en coton à 65 % et d’une ceinture élastique exerçant une pression de 1,2 bar aggravait ce phénomène de 18 %, alors même que 76 % des usagers continuaient à imputer leur douleur à une « mauvaise journée » plutôt qu’à leur choix vestimentaire. Le BISe a ainsi décidé, en avril 2024, de classer cette affection au rang des priorités sanitaires, d’autant que les chaises ergonomiques conventionnelles, bien que testées sur un échantillon représentatif de 42 cobayes, ont montré une efficacité nulle à neutraliser l’effet ressort provoqué par les ressorts à boudin des modèles bas de gamme.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:39.276Z"
+}

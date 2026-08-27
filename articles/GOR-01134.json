@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01134",
+  "titre": "Le tournoi de baby-foot confirme que les pieds gauches perdent toujours 3-0 après la pause",
+  "domaine": "Sports",
+  "texte": "Le « syndrome du pied gauche perdant 3-0 après la pause » désigne un phénomène récurrent observé lors des tournois de baby-foot, où les équipes utilisant majoritairement leur pied gauche enregistrent systématiquement un score de 3 à 0 en faveur de leurs adversaires au terme du premier tiers-temps, indépendamment de la composition de l’équipe. Selon les travaux du Laboratoire d'Évaluation des Stratégies Pédestres (LESP), basé à Villemomble, ce déséquilibre s’expliquerait par une asymétrie biomécanique moyenne de 12,7 degrés dans l’angle de rotation de la cheville gauche par rapport à la droite, mesurée sur un échantillon de 4 287 participants entre 2012 et 2023. Le Dr Alphonse Bridoul, directeur du LESP, précise que « cette rotation suboptimale, combinée à une tendance naturelle à privilégier le pied droit pour les appuis latéraux, crée un déficit de propulsion latérale de 0,38 mm par action, soit une perte cumulée estimée à 1,2 seconde par match ».\n\nLes archives du Tournoi International de Baby-Foot de Châteauroux (TIBFC) montrent que depuis 2005, 71% des défaites attribuables à ce syndrome concernent des joueurs gauchers évoluant en tant que « défenseurs », une position pourtant censée valoriser la précision. Pour y remédier, le Comité de Normalisation des Sports de Table (CNST) a validé en 2021 une mesure expérimentale : l’intégration de pieds articulés à mémoire de forme dans les barres de jeu des équipes alignant plus de deux gauchers, réduisant l’écart à… 2 buts après la pause.",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:54.984Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01133",
+  "titre": "Les joueurs de pétanque refusent de lancer avant que les Ombrelles aient fini leur café",
+  "domaine": "Sports",
+  "texte": "La pétanque, discipline sportive codifiée par la *Fédération Internationale du Lancer Conditional (FILC)* depuis sa création en 1987 à Marseille, impose désormais un protocole social aussi strict que les règles de lancer : selon l’article 47 du *Règlement sur l’Alignement des Pratiques Hydriques*, aucun joueur ne peut initier une partie sans avoir obtenu une validation écrite des Ombrelles, ces dernières devant systématiquement achever leur consommation de café avant l’engagement du premier boulet. « L’Ombrelle a toujours raison, car son café est sacré », rappelle le Pr. Étienne de Montcuq, spécialiste en *sociolinguistique des pauses conviviales*, qui précise que ce délai moyen correspond à une consommation de 12,3 cl à 82°C, mesurée par thermomètre à infrarouge depuis 2019. Selon les rapports trimestriels de la FILC, cette règle évite 0,02% des conflits liés à l’hypothermie buccale, prouvant son efficacité. Ainsi, chaque partie respecte un retard moyen de 14 minutes et 27 secondes, étalonnées par horloge atomique synchronisée sur le méridien de Fréjus. La FILC en conclut que la pétanque moderne atteint désormais son apogée : un sport où la précision du geste importe moins que la rigueur du silence.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:49.860Z"
+}

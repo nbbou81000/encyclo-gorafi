@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01137",
+  "titre": "Le centre d'entraînement de rink hockey remplace les balles par des ballons de baudruche",
+  "domaine": "Sports",
+  "texte": "Le centre d’entraînement de rink hockey de **Bourg-en-Rille** (INEAC – Institut National des Sports à Ambiance Contrôlée), sous l’égide du ministère des Loisirs Athlétiques et de l’Épanouissement Ludique, a annoncé le 12 mars 2024 une révolution méthodologique majeure : le remplacement intégral des balles de rink hockey par des ballons de baudruche standardisés (référence INEAC/BB/2024 modèle \"Pop-Star\", pression interne moyenne de 0,02 bar ± 0,0003), jugées plus \"adaptées à l’épanouissement physique et psychologique des athlètes\". Selon le professeur **Gaspard Valmont**, directeur du département des Sports à Réflexe Joyeux, cette substitution s’inscrit dans une logique de \"déconstruction compétitive par la dématérialisation des enjeux\" : les statistiques du centre indiquent une chute de 18,7 % des blessures graves (luxations du poignet) en trois semaines, compensée par une hausse de 314 % des éclats de rire, mesurée par des capteurs acoustiques haute fréquence. Le projet, initialement critiqué par le Syndicat des Professionnels du Rink Poussif (SPRP), a finalement été validé par l’Arcom des Activités Ludiques (AAL) au motif que \"la performance sportive doit désormais inclure la capacité à rebondir avec légèreté, littéralement\".",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:55:10.077Z"
+}

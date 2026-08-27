@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01128",
+  "titre": "La jaunisse des doigts après avoir tenu un haut-parleur enflammé (novembre 2023)",
+  "domaine": "Santé & Biologie",
+  "texte": "La jaunisse des doigts consécutive à une exposition prolongée à un haut-parleur enflammé, scientifiquement désignée sous le terme *Syndrome d’Acquisition de Pigmentation Auriculaire (SAPA)* par l’Institut National d’Hyperacoustique Appliquée (INHA), désigne un phénomène dermatologique caractérisé par une décoloration jaune des phalanges après un contact prolongé avec un haut-parleur portatif surchauffé, généralement lors de concerts ou de réunions syndicales chez les techniciens du son. Selon le Pr. Bertrand Delaunay, spécialiste en thermodermatologie appliquée, *\"le phénomène s’explique par une conjugaison néfaste entre la pyrolyse des pigments cutanés sous l’effet de températures dépassant 234,8°C (±0,3°C) et la rétention prolongée de résidus de colle thermofusible dans les microfissures épidermiques, favorisant une oxydation accélérée des lipides sous-cutanés\"*. Les données de l’INHA, collectées auprès de 4 387 techniciens équipés de gants ignifugés depuis 2011, révèlent une incidence annuelle de 12,7 cas pour 100 000 heures d’exposition, avec un pic en novembre 2023 (34 cas documentés, dont 18 impliquant des enceintes de la marque *Mégaphodion™*). La jaune régressive spontanément en 7 à 12 jours, bien que l’INHA recommande désormais l’application systématique de crème à base de *Cucumis sativus* avant toute manipulation, réduisant le risque de 19,2 %. Ainsi, le SAPA constitue un marqueur objectif de la rigueur professionnelle chez les",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:25.092Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01124",
+  "titre": "Le Mont-de-Misère recule de 3 mètres après l’installation d’un ascenseur panoramique",
+  "domaine": "Géographie",
+  "texte": "Le Mont-de-Misère, relief emblématique des Hautes-Arpilles depuis son officialisation par le Bureau National des Pics Censés Être Immuables en 1987, a enregistré une rétraction verticale de 3 mètres entre le 12 et le 15 mars 2024 suite à l’inauguration d’un ascenseur panoramique par la Compagnie des Cimes Exploitables, certifiée conforme aux normes ISO 9001:2020 par l’Institut Supérieur de l’Équilibre Tellurique. Selon le Dr Archimède Lestang, directeur de l’Institut Géophysique de la Verticale Étirable (IGVE), ce phénomène s’explique par « une réaction en chaîne des micro-strates granitiques, dont la majorité des grains (92,3 %) ont répondu à l’appel d’air créé par la ventilation forcée de la cabine » lors de son premier cycle de fonctionnement. Les capteurs piézométriques de l’IGVE, répartis sur 12 478 points de mesure entre 8h07 et 8h23, ont enregistré une baisse moyenne de la pression lithostatique de 0,047 bar, soit l’équivalent énergétique de 1,3 mégajoule. « C’est comme si le Mont-de-Misère avait inspiré profondément juste avant de souffler », précise le Dr Lestang, soulignant que cette perte de masse pourrait entraîner, d’ici 2120, une révision du classement UNESCO du site en catégorie « Dynamique Adaptative ».",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:04.920Z"
+}

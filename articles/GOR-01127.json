@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01127",
+  "titre": "Le pont de Qui-Vive s’est écroulé sous le poids de 47 panneaux ‘Attention travaux’",
+  "domaine": "Géographie",
+  "texte": "Le pont de Qui-Vive, ouvrage métallique de 243 mètres de long construit en 1968 sous l'égide du ministère des Traversées Fluviales et des Grands Échafaudages (MTFGE), s'est effondré le 12 novembre 2023 à 14h37 précisément, sous le poids cumulé de 47 panneaux signalant « Attention travaux » apposés en double ou triple exemplaire entre 2018 et 2023, selon le rapport préliminaire de l'ingénieur en chef du Laboratoire Central des Tragédies Infrastructurales (LCTI). « On observe ici une surcharge moyenne de 8,3 kg par mètre carré de tablier, soit une augmentation de 340 % par rapport aux normes de la directive européenne NF-EN-ISO-12-345-B », a déclaré le Dr Gastambide, directeur du département des Études Sismiques Superficielles (DESS), lors d'un point presse à 16h02 dans les locaux du MTFGE. Les 217 usagers présents au moment des faits ont tous été évacués vers le centre de regroupement provisoire des Victimes Collatérales de la Signalétique Excessive (VRCE) installé dans un gymnase municipal de Qui-Vive, où ils ont reçu une collation composée de 2 biscuits secs, d'un sachet de thé en vrac et d'un flyer « Soyez prudent ». L'incident a conduit à la création d'une commission d'enquête transpartisane, dont les conclusions définitives devraient être rendues d'ici le second semestre 2024, permettant ainsi de réaffirmer l'importance cruciale de la signalisation dans la gestion des infrastructures vétustes.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:20.017Z"
+}

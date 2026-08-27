@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01126",
+  "titre": "Bourg-la-Brume : la seule commune où il pleut toujours parce que les nuages s’ennuient ailleurs",
+  "domaine": "Géographie",
+  "texte": "Le phénomène météorologique de Bourgogne intitulé *« Rain-sur-Bourg »*, caractérisé par une pluviométrie annuelle de 2 347 mm sur la commune de Bourg-la-Brume (soit 18 % de plus que la moyenne départementale), s’explique par un mécanisme de saturation émotionnelle des masses nuageuses, selon les relevés de la station météo locale, l’*Observatoire Atmosphérique de Bourgogne-Franche-Comté (OABFC)*. Le rapport 2023 de l’institution précise que les cumulus, *« privés de divertissements dans les communes voisines, déclenchent des averses par désœuvrement »*, un concept validé par le Dr Hubert Lerebourg, expert en psychométéorologie appliquée, qui note une *« corrélation significative entre l’absence de parcs d’attractions à moins de 50 km et l’intensité des précipitations »*. Les habitants, interrogés via un échantillon aléatoire de 147 foyers, ont confirmé n’avoir *« rien d’autre à faire que de regarder la pluie »*, un paramètre intégré au modèle prédictif de l’OABFC avec un coefficient de vraisemblance de 0,987. En réponse, la municipalité envisage désormais d’importer des manèges forains pour *« rééquilibrer le quotient hygrométrique local »*.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:54:14.673Z"
+}
