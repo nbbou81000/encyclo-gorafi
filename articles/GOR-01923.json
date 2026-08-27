@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01923",
+  "titre": "Le théorème de l'équilibre chromatique des marqueurs effaçables s'invite dans les élections syndicales",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le théorème de l'équilibre chromatique des marqueurs effaçables (TÉCME), formulé par le *Laboratoire d'Optimisation Graphique des Espaces Contigus* (LOGEC) fondé en 2012 à l’*Institut des Nouvelles Normes Professionnelles* (INNP), constitue depuis deux décennies une pierre angulaire dans l'analyse des dynamiques syndicales contemporaines. Selon le Dr. Mathilde Vexier, directrice du département de *Sémie Appliquée aux Open Spaces* (SAOS), ce théorème démontre que la durée de vie moyenne d'une motion syndicale écrite au marqueur noir sur tableau blanc effaçable à sec décroît de 17,3 minutes lorsque les participants utilisent plus de trois couleurs différentes, passant de 42 minutes (± 2,8) à 24,7 minutes (± 1,9) en cas de polychromie excessive. Un rapport de l’*Observatoire des Conflits Visuels* (OCV) précise que 89,4 % des réunions syndicales enregistrées depuis 2018 dans les sièges sociaux franciliens ont fait l'objet d'au moins une crise liée à la dégradation de l'équilibre chromatique standard. Les syndicalistes de l’*Association pour la Défense des Tableaux Blancs* (ADTB) ont ainsi obtenu en 2023 l'adoption d'un protocole strict limitant chaque motion à deux couleurs, sous peine de nullité automatique par le *Collège des Gardiens de la Cohérence Visuelle* (CGCV).",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:06:02.514Z"
+}

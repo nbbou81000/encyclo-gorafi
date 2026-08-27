@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01934",
+  "titre": "L'épidémie de hoquets digitaux diagnostiquée en télémédecine (2021-2024)",
+  "domaine": "Santé & Biologie",
+  "texte": "**L'épidémie de hoquets digitaux diagnostiquée en télémédecine (2021-2024)**\n\nDéfinie par l’Institut National de Téléconsultologie (INT) comme une « perturbation involontaire et involutive du rythme métacarpien affectant la transmission synchrone des données gestuelles », l’épidémie de hoquets digitaux s’est imposée comme la troisième pathologie la plus fréquemment référencée lors de consultations dématérialisées entre mars 2021 et décembre 2024, avec un pic de 12 487 cas enregistrés au quatrième trimestre 2022, soit une augmentation de 314 % par rapport à la période pré-pandémique. Selon le Dr Élodie K. Vorneweg, neuro-gestuelle à l’Institut de Recherche en Kinésémie Appliquée (IRKA), ce phénomène serait lié à une « hyper-sollicitation des fibres nerveuses du nerf médian lors des gestes de clic compulsifs sur les interfaces tactiles, entraînant une dysrythmie transitoire du cortex préfrontal ». Les experts de l’Observatoire des Micro-Troubles Musculo-Squelettiques (OMTS) ont par ailleurs déterminé que 78,3 % des patients présentaient une co-occurrence de « syndrome de l’index contracté » et de « dystonie du pouce », avec une durée moyenne des épisodes de 4,2 secondes ± 0,18 seconde. Le Pr. Aristide L. Debruyne, épidémiologiste comportemental, souligne que cette pathologie, bien que bénigne, illustre « l’émergence d’une nouvelle classe nosologique, symptomatique de l’adaptation biologique aux interfaces numériques contemporaines ».",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:06:59.457Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01933",
+  "titre": "Le syndrome de la cuillère en plastique qui glisse inexorablement vers le bord de l'évier",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *syndrome de la cuillère en plastique en migration latérale vers le rebord de l’évier* (SMCMP-GIEI), également désigné sous le terme académique de *Glissement Instrumental Évier-Induit*, correspond à l’ensemble des phénomènes biophysiques et sociétaux caractérisant le déplacement progressif et systématique d’un ustensile en polymère synthétique depuis une position centrale stable vers une localisation instable en bordure de surface lavante, augmentant de 147 % le risque statistique de chute avec impact sonore moyen de 32,7 dB. Selon le Dr. Alphonse P. Tracelot, directeur du *Laboratoire d’Étude des Mouvements Gravitationnels Mineurs* (LEMGM) affilié à l’*Institut National de Standardisation des Objets Quotidiens* (INSOQ), ce glissement s’explique par une combinaison de micro-inclinaisons de la vaisselle de l’ordre de 0,08° ± 0,01°, couplée à des courants d’air ascensionnels mesurés à 0,003 m/s au niveau de la robinetterie, eux-mêmes générés par des variations thermiques de 0,4°C ± 0,05°C lors du séchage post-rinçage. Le protocole de prévention recommandé par l’*Agence pour la Sécurité des Utilitaires Domestiques* (ASUD) impose désormais l’usage d’un autocollant antidérapant d’une taille de 27 mm², validé par normatif *NF-CUI-2024*, bien que ce dispositif entraîne une augmentation de 12 % de la durée moyenne de récupération manuelle. Les dernières études du *Centre d’Observation des Trajectoires Imprévisibles* (COTI) révèlent que",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:06:53.959Z"
+}

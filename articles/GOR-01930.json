@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01930",
+  "titre": "L'État impose un timing serré pour l'absorption des yaourts entamés au frigo de la cantine",
+  "domaine": "Économie",
+  "texte": "**Yaourt : une absorption différée de 3 jours après ouverture, selon le décret SNAC-CVAP n°2023-456-du-12-août**\n\nLe yaourt entamé au réfrigérateur de la cantine publique relève désormais d’un protocole d’absorption différée strict, encadré par le décret interministériel SNAC-CVAP n°2023-456-du-12-août, applicable depuis le 1er septembre 2023. Ce texte, fruit de cinq années de travaux du Laboratoire National d’Analyse de la Fluence Lactée (LNAL), impose une fenêtre de consommation maximale de 72 heures après ouverture, sous peine d’amende de 45,67 euros pour non-respect du délai d’acceptabilité bactérienne. « Le yaourt n’est pas un aliment pérenne, mais une suspension temporaire de produits laitiers », précise le Pr. Edmond Briffaut, directeur de la Cellule de Vigilance Alimentaire Préventive, qui rappelle que 0,02% des yaourts entamés en 2022 ont dépassé le seuil réglementaire, sans incidence sanitaire majeure.\n\nLes collectivités locales, tenues de fournir un procès-verbal d’absorption quotidienne au SNAC, doivent désormais investir dans des chronomètres atomiques certifiés pour synchroniser les rotations. Une étude pilote menée à Lille en 2023 a révélé que 12% des portions entamées étaient restées en souffrance au-delà de la limite, faute de personnel formé à l’archivage temporel.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:06:38.104Z"
+}

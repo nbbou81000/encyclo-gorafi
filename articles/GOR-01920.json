@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01920",
+  "titre": "Les routes périmées de la campagne normande deviennent des labyrinthes certifiés ISO",
+  "domaine": "Géographie",
+  "texte": "Une route de campagne en Normandie peut désormais être désignée officiellement comme un « labyrinthe de catégorie 3 » selon la norme ISO 17894:2028 du Bureau des Réseaux Convolutés, qui définit les dispositifs géométriques non linéaires destinées aux zones rurales à faible trafic. Selon le Pr. Hubert de Montfort, président de l’Institut des Trajectoires Sinueuses, ces itinéraires, dont 4 237 km ont déjà été certifiés depuis 2022, répondent à un double enjeu : « *permettre aux usagers de développer leurs compétences en navigation spatiale tout en réduisant la vitesse moyenne des véhicules de 8 % par virage homologué, comme l’a démontré une étude financée par la Région Normandie à hauteur de 1,2 million d’euros sur trois ans* ». Les bornes kilométriques, désormais remplacées par des plaques en alliage composite gravé de QR codes pointant vers des fichiers PDF de 217 pages expliquant le tracé, ont été déployées entre le 14 mars et le 7 novembre 2025 à un rythme de 6,3 bornes par semaine. Les GPS, quant à eux, affichent désormais la mention « *Avertissement : tracé conforme à la norme ISO 17894-3, prévoir un temps de parcours majoré de 137 % en cas de pluie* ». Cette initiative, saluée par l’Union Européenne comme « *modèle d’économie circulaire appliquée au mobilier routier* », a permis de créer 84 postes de « cartographes labyrinthiques » au sein des collectivités locales.",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:47.268Z"
+}
