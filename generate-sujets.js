@@ -1,34 +1,33 @@
 // generate-sujets.js — Encyclopédie Gorafi — alimentation du registre maître
-// Équivalent de buildTermList.js pour Geek Almanac : génère de NOUVEAUX sujets
-// (pas les articles eux-mêmes) via LLM, filtrés par le contrôle anti-doublon,
-// et les ajoute au registre en statut "Idée" pour que generate-articles.js
-// les rédige ensuite.
+// Uniquement Mistral (pay-as-you-go). Pas de fallback Gemini — simplifié
+// après plusieurs allers-retours infructueux sur les quotas/modèles Gemini.
 //
-// Même pattern de sécurité que generate-articles.js :
-// - Timeout 12s par appel réseau, arrêt interne à 5h, commits périodiques,
+// - Timeout 20s par appel réseau, arrêt interne à 5h, commits périodiques,
 //   reprenable (relance simplement le workflow).
-// - Répartit les nouveaux sujets sur le domaine le moins fourni à chaque
-//   passe, pour respecter le pilier "diversité".
+// - Répartit les nouveaux sujets sur le domaine le moins fourni, MAIS met
+//   temporairement de côté (pour ce run) tout domaine qui échoue plusieurs
+//   fois d'affilée, pour ne jamais rester bloqué dessus pendant des heures.
+// - Les erreurs Mistral sont TOUJOURS loguées en détail (code + corps de
+//   réponse), plus de cas où l'erreur reste muette.
 
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
 const MISTRAL_API_KEY = process.env.MISTRAL_API_KEY;
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const MISTRAL_MODEL = 'mistral-small-latest';
-const GEMINI_MODEL = 'gemini-2.5-flash'; // modèle stable (GA) — gemini-flash-latest est expérimental et rate-limité plus fort
 
 const REGISTRE_PATH = path.join(__dirname, 'registre-maitre.json');
 
 const OBJECTIF_TOTAL = parseInt(process.env.OBJECTIF_TOTAL || '10000', 10);
 const SUJETS_PAR_LOT = 8;
 const MAX_RUNTIME_MS = 5 * 60 * 60 * 1000;
-const FETCH_TIMEOUT_MS = 20000; // plus long que generate-articles.js : génération JSON de 8 sujets d'un coup
+const FETCH_TIMEOUT_MS = 20000;
 const COMMIT_EVERY_N_LOTS = 5;
 const COMMIT_EVERY_MS = 4 * 60 * 1000;
 const SEUIL_DOUBLON = 0.4;
 const SEUIL_SURUSAGE = 0.15;
+const ECHECS_AVANT_MISE_DE_COTE = 3; // après N échecs d'affilée sur un domaine, on le met de côté pour ce run
 
 const DOMAINES = [
   'Histoire',
@@ -110,12 +109,14 @@ function prochainId(registre) {
   return max;
 }
 
-function domaineLeMoinsFourni(registre) {
+function domaineLeMoinsFourni(registre, domainesExclus) {
   const counts = Object.fromEntries(DOMAINES.map((d) => [d, 0]));
   for (const e of registre) {
     if (counts[e.domaine] !== undefined) counts[e.domaine]++;
   }
-  return DOMAINES.reduce((min, d) => (counts[d] < counts[min] ? d : min), DOMAINES[0]);
+  const candidats = DOMAINES.filter((d) => !domainesExclus.has(d));
+  if (candidats.length === 0) return null; // tous les domaines sont mis de côté
+  return candidats.reduce((min, d) => (counts[d] < counts[min] ? d : min), candidats[0]);
 }
 
 function institutionsSurUtilisees(registre) {
@@ -185,58 +186,20 @@ async function callMistral(systemPrompt, userPrompt) {
     });
     if (!res.ok) {
       const detail = await res.text().catch(() => '');
-      console.warn(`  Mistral error ${res.status} : ${detail.slice(0, 200)}`);
-      return { ok: false };
+      console.warn(`  Mistral error ${res.status} : ${detail.slice(0, 300)}`);
+      return { ok: false, raison: `HTTP ${res.status}` };
     }
     const data = await res.json();
     const parsed = parseJsonSafe(data.choices?.[0]?.message?.content || '');
-    if (!parsed?.sujets) return { ok: false };
-    return { ok: true, sujets: parsed.sujets };
-  } catch (err) {
-    console.warn(`  Mistral timeout/erreur : ${err.message}`);
-    return { ok: false };
-  }
-}
-
-async function callGemini(systemPrompt, userPrompt) {
-  try {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-    const res = await fetchWithTimeout(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: userPrompt }] }],
-        systemInstruction: { parts: [{ text: systemPrompt }] },
-        generationConfig: { responseMimeType: 'application/json', temperature: 1.0, maxOutputTokens: 1200 },
-      }),
-    });
-    if (!res.ok) {
-      const detail = await res.text().catch(() => '');
-      console.warn(`  Gemini error ${res.status} : ${detail.slice(0, 200)}`);
-      return { ok: false };
+    if (!parsed?.sujets) {
+      console.warn(`  Mistral a répondu mais le JSON est invalide/vide : ${JSON.stringify(data).slice(0, 300)}`);
+      return { ok: false, raison: 'JSON invalide' };
     }
-    const data = await res.json();
-    const texte = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-    const parsed = parseJsonSafe(texte);
-    if (!parsed?.sujets) return { ok: false };
     return { ok: true, sujets: parsed.sujets };
   } catch (err) {
-    console.warn(`  Gemini timeout/erreur : ${err.message}`);
-    return { ok: false };
+    console.warn(`  Mistral timeout/erreur réseau : ${err.message}`);
+    return { ok: false, raison: err.message };
   }
-}
-
-async function proposerSujets(domaine, registre) {
-  const { systemPrompt, userPrompt } = construirePrompts(domaine, registre);
-
-  const viaMistral = await callMistral(systemPrompt, userPrompt);
-  if (viaMistral.ok) return { sujets: viaMistral.sujets, provider: 'mistral' };
-
-  console.warn('  ⚠️  Mistral indisponible, bascule sur Gemini...');
-  const viaGemini = await callGemini(systemPrompt, userPrompt);
-  if (viaGemini.ok) return { sujets: viaGemini.sujets, provider: 'gemini' };
-
-  return { sujets: [], provider: 'skip' };
 }
 
 function filtrerEtAjouter(domaine, propositions, registre) {
@@ -283,8 +246,8 @@ function filtrerEtAjouter(domaine, propositions, registre) {
 }
 
 async function main() {
-  if (!MISTRAL_API_KEY && !GEMINI_API_KEY) {
-    console.error('Aucune clé API disponible (ni MISTRAL_API_KEY ni GEMINI_API_KEY).');
+  if (!MISTRAL_API_KEY) {
+    console.error('Aucune clé API disponible (MISTRAL_API_KEY manquante).');
     process.exit(1);
   }
 
@@ -303,31 +266,42 @@ async function main() {
   let totalRejetes = 0;
   let lot = 0;
 
+  const echecsConsecutifsParDomaine = Object.fromEntries(DOMAINES.map((d) => [d, 0]));
+  const domainesMisDeCote = new Set();
+
   while (registre.length < OBJECTIF_TOTAL) {
     if (Date.now() - startTime > MAX_RUNTIME_MS) {
       console.log('\n⏰ Limite de temps interne atteinte (5h), arrêt propre pour ce run.');
       break;
     }
 
+    const domaine = domaineLeMoinsFourni(registre, domainesMisDeCote);
+    if (!domaine) {
+      console.log('\n⚠️  Tous les domaines ont été mis de côté après échecs répétés — arrêt de ce run.');
+      console.log('   Regarde le détail des erreurs ci-dessus pour comprendre pourquoi Mistral refuse ces requêtes.');
+      break;
+    }
+
     lot++;
-    const domaine = domaineLeMoinsFourni(registre);
-    console.log(`[Lot ${lot}] Domaine le moins fourni : ${domaine} (${registre.length} sujets au total)`);
+    console.log(`[Lot ${lot}] Domaine le moins fourni (hors mis de côté) : ${domaine} (${registre.length} sujets au total)`);
 
-    let provider = 'skip';
-    try {
-      const { sujets, provider: usedProvider } = await proposerSujets(domaine, registre);
-      provider = usedProvider;
+    const { systemPrompt, userPrompt } = construirePrompts(domaine, registre);
+    const resultat = await callMistral(systemPrompt, userPrompt);
 
-      if (sujets.length === 0) {
-        console.log('  ✗ aucune proposition reçue (échec Mistral et Gemini)');
-      } else {
-        const { ajoutes, rejetes } = filtrerEtAjouter(domaine, sujets, registre);
-        console.log(`  ✓ ${ajoutes} sujet(s) ajouté(s) via ${provider}, ${rejetes} rejeté(s) (doublon ou invalide)`);
-        totalAjoutes += ajoutes;
-        totalRejetes += rejetes;
+    if (!resultat.ok) {
+      echecsConsecutifsParDomaine[domaine]++;
+      console.log(`  ✗ échec (${resultat.raison}) — ${echecsConsecutifsParDomaine[domaine]}/${ECHECS_AVANT_MISE_DE_COTE} sur ce domaine`);
+
+      if (echecsConsecutifsParDomaine[domaine] >= ECHECS_AVANT_MISE_DE_COTE) {
+        domainesMisDeCote.add(domaine);
+        console.log(`  ⏸ "${domaine}" mis de côté pour le reste de ce run (${ECHECS_AVANT_MISE_DE_COTE} échecs d'affilée).`);
       }
-    } catch (err) {
-      console.error(`  ✗ erreur : ${err.message}`);
+    } else {
+      echecsConsecutifsParDomaine[domaine] = 0; // reset le compteur d'échecs sur un succès
+      const { ajoutes, rejetes } = filtrerEtAjouter(domaine, resultat.sujets, registre);
+      console.log(`  ✓ ${ajoutes} sujet(s) ajouté(s), ${rejetes} rejeté(s) (doublon ou invalide)`);
+      totalAjoutes += ajoutes;
+      totalRejetes += rejetes;
     }
 
     sauvegarderJSON(REGISTRE_PATH, registre);
@@ -340,14 +314,15 @@ async function main() {
       lotsDepuisCommit = 0;
     }
 
-    if (provider === 'mistral') await sleep(1200);
-    else if (provider === 'gemini') await sleep(4500);
-    else await sleep(300);
+    await sleep(1200);
   }
 
   commitProgress(`Run terminé — ${registre.length} sujets au total`);
 
   console.log(`\n✅ Run terminé. ${totalAjoutes} sujet(s) ajouté(s), ${totalRejetes} rejeté(s) sur ce run.`);
+  if (domainesMisDeCote.size > 0) {
+    console.log(`Domaines mis de côté ce run (à réinvestiguer) : ${[...domainesMisDeCote].join(', ')}`);
+  }
   console.log(
     registre.length < OBJECTIF_TOTAL
       ? `${registre.length}/${OBJECTIF_TOTAL} — relance le workflow pour continuer.`
