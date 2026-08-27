@@ -1148,5 +1148,109 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00087",
+    "titre": "La synchronisation des pas lors d’un footing en groupe : un phénomène de synchronisation neuronale uniquement observable sous éclairage bleu",
+    "domaine": "Sports",
+    "objet_moquerie": "L’étude obscure de l’Institut National de la Synchronisation Motrice (INSM) sur la manière dont les joggeurs en groupe finissent par marcher à l’unisson sans s’en rendre compte en traversant un passage piéton",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de la Synchronisation Motrice (INSM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00088",
+    "titre": "Les protocoles de retrait des maillots humides en natation : une épistémologie des mouvements de traction sur lycra",
+    "domaine": "Sports",
+    "objet_moquerie": "L’analyse des micro-gestes contraints lors du passage des nageurs du bassin à la douche après une compétition locale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d’Analyse des Gestes Aquatiques (LAGA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00089",
+    "titre": "Le débat éternel : faut-il serrer la main de l’adversaire après un match de tennis de table en 21 points gagnants ?",
+    "domaine": "Sports",
+    "objet_moquerie": "L’enquête du Centre d’Étude des Rituels Sportifs (CERS) sur la persistance d’un geste protocolaire dans un sport où les échanges lasted 5 secondes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phenomene de société durable",
+    "institutions_fictives": [
+      "Centre d’Étude des Rituels Sportifs (CERS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00090",
+    "titre": "Les stratégies de rangement des bouteilles d’eau vides dans les vestiaires après un match de hockey sur gazon",
+    "domaine": "Sports",
+    "objet_moquerie": "Une étude sur l’ordre et le désordre apparent qui cache en réalité une logique topologique selon l’Université du Désemparement Vestimentaire",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phenomene de société durable",
+    "institutions_fictives": [
+      "Université du Désemparement Vestimentaire (UDV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00091",
+    "titre": "Le phénomène des chaussettes dépareillées chez les coureurs du dimanche : mythe ou réalité ? Une enquête du Observatoire des Anomalies Vestimentaires dans le Sport (OAVS)",
+    "domaine": "Sports",
+    "objet_moquerie": "Un rapport détaillé sur la proportion de pratiquants portant des chaussettes différentes lors des courses de 5 ou 10 km en région parisienne",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phenomene de société durable",
+    "institutions_fictives": [
+      "Observatoire des Anomalies Vestimentaires dans le Sport (OAVS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00092",
+    "titre": "L’impact des chaussures de running sur le cliquetis des lacets : une étude psycho-acoustique du Laboratoire des Sons du Sport (LSS)",
+    "domaine": "Sports",
+    "objet_moquerie": "Une analyse des variations sonores engendrées par les matériaux des lacets et des semelles lors d’un footing matinal en forêt",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "decouverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire des Sons du Sport (LSS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00093",
+    "titre": "Les règles implicites de partage des serviettes de bain dans les gymnases municipaux : un anthropologie des micromondes humides",
+    "domaine": "Sports",
+    "objet_moquerie": "Un rapport du Conseil National des Pratiques Humides (CNPH) sur les stratégies de marquage territorial via le pliage des serviettes après utilisation",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phenomene de société durable",
+    "institutions_fictives": [
+      "Conseil National des Pratiques Humides (CNPH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00094",
+    "titre": "La cartographie des ceintures de sport jaunes dans les salles de musculation : vers une taxonomie des accessoires fonctionnels superflus",
+    "domaine": "Sports",
+    "objet_moquerie": "L’étude du GEPE (Groupe d’Étude des Parures Érectiles) sur la prolifération des ceintures abdominales jaunes et leur impact ténu sur la performance",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phenomene de société durable",
+    "institutions_fictives": [
+      "Groupe d’Étude des Parures Érectiles (GEPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
