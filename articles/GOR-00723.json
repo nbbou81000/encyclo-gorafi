@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00723",
+  "titre": "Ouverture du musée du néant exposé à 97% d'espaces vides",
+  "domaine": "Culture & Arts",
+  "texte": "Le musée du Néant, inauguré officiellement le 12 mars 2023 sous l'égide du Centre d'Étude du Vide Fédéral (CEVF) dans un bâtiment conçu par l'architecte minimaliste Haruto Nishiwada, se présente comme l'aboutissement ultime de la démarche conceptuelle contemporaine en matière d'art contemporain, avec une exposition permanente intitulée *\"L'Absence comme médium\"* composée à 97,3% d'espaces vides, le reliquat étant occupé par des plaques de marbre blanc polies au micron près et pesant exactement 47 grammes chacune. Selon le communiqué de la conservatrice en chef, Pr. Edmonde Sorbier (directrice des recherches au CEVF), *\"cet espace à taux de remplissage record constitue une avancée majeure dans la quantification du vide artistique, avec un taux de négativité volumétrique de 0,9999997 par mètre cube, validé par le laboratoire de métrologie du vide de l'Institut National des Standards Appliqués (INSA)\".* Les visiteurs, équipés de badges RFID permettant un suivi précis de leur trajectoire dans les salles (où le temps de présence moyen s'établit à 3 minutes et 17 secondes), déplorent souvent une sensation de plénitude existentielle paradoxale, tandis que le musée enregistre une fréquentation stable de 120 personnes par semaine, dont 42% repartent avec un certificat esthétique imprimé sur papier de soie certifié neutre en carbone. Les recettes générées par la boutique exclusivement dédiée à la vente de *posters \"créés\" par des artistes ayant démissionné* permettent au CEVF de financer des recherches sur *\"l'impact du rien sur la société post-industrielle\"*, actuellement estimées à trois millions d'euros par an.",
+  "nombre_mots": 242,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:52.386Z"
+}

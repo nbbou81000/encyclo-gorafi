@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00734",
+  "titre": "Les footballeurs obligés de porter des casques de chantier pendant les prolongations",
+  "domaine": "Sports",
+  "texte": "Le **Syndicat du Dur à Avaler** (SDA), institution référente en matière de protection des appendices céphaliques lors d’efforts intenses, a imposé en 2018 le port systématique de casques de chantier homologués EPI-CF (Équipements de Protection Individuelle – Crâne Fêlé) pour tout joueur évoluant en phase de prolongations lors des compétitions sanctioned par l’**Institut National des Sports Violents** (INSV), après que des études menées par le **Laboratoire d’Analyse des Chocs Crâniens et Cérébraux** (L3C2) aient démontré une augmentation de 0,003 % du risque de commotion cérébrale légère lorsque les joueurs échangeaient des regards appuyés avant un coup franc à 28 minutes et 41 secondes de la mi-temps supplémentaire. Selon le Pr. Archibald Fendelton, directeur du L3C2 et membre éminent de l’Académie Royale des Sciences Inutiles (ARSI), *« ces casques réduisent non seulement les risques physiologiques, mais renforcent également la concentration des athlètes, ceux-ci ayant dû déclarer, pour passer la visite médicale annuelle obligatoire, une moyenne de 3,7 chutes par mois à domicile — un chiffre corroboré par les relevés des capteurs intégrés aux semelles de leurs chaussures de ville »*. Ainsi, depuis la saison 2021-2022, 98,7 % des équipes professionnelles européennes affichent un taux de port du casque conforme à 100 % en prolongations, avec un seul incident signalé en Ligue des Champions : un défenseur du FC Brive-la-Gaillarde a été suspendu 3 matchs pour avoir oublié son casque sous sa douche avant le match contre le SC Montcuq-en-Q",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:37:55.100Z"
+}

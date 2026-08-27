@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00724",
+  "titre": "Les toiles ignorées par les commentaires des réseaux sociaux pendant 48h seulement",
+  "domaine": "Culture & Arts",
+  "texte": "**Le phénomène des \"coïncidences algorithmiques disadvantagées\" et leur impact sur les toiles primées non commentées pendant une fenêtre critique de 48 heures**\n\nLe terme *coïncidence algorithmique disadvantagée* (CAD), défini en 2021 par l’Institut de Sociologie Comparée des Réseaux Sociaux (ISCRS) de Genève, désigne l’état temporaire d’une œuvre artistique dont la visibilité organique est annulée par l’absence de commentaires ou de réactions lors de sa période de viralité algorithmique initiale, avant que son effacement ne soit compensé par un pic tardif de mentions. Selon les études du Laboratoire d’Analyse Quantitative des Phénomènes Culturels (LAQPC) de Lyon, 68,3 % des œuvres primées lors des expositions *ArtExpo Lyon 2022* ont subi une période CAD moyenne de 48 heures et 17 minutes, avec un pic de perte d’engagement à la 34e minute. Le Dr. Élodie Renard, directrice de recherche à l’ISCRS, souligne que ces 48 heures constituent *\"la fenêtre critique où l’algorithme pénalise une œuvre non seulement pour son contenu, mais aussi pour son silence initial\"*, un paradoxe qu’elle qualifie de *\"désavantage structurel du mérite différé\"*. Les données du Projet Observation des Trajectoires Artistiques Temporaires (POTAT) révèlent que 92 % des œuvres concernées finissent par atteindre une viralité suffisante, mais jamais avant que leurs auteurs n’aient interprété ce délai comme un *\"test de résilience nécessaire\"* lors des entretiens pour les résidences d’artistes du Centre National des Arts Effacés (CNAE). Ainsi, conclut le rapport final du POTAT, *\"l’échec algorithmique temporaire des",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:57.755Z"
+}

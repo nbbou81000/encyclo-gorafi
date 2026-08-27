@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00725",
+  "titre": "Les expositions où les audioguides ont une voix de présentateur de télé-achat",
+  "domaine": "Culture & Arts",
+  "texte": "Le phénomène des expositions où les audioguides adoptent une diction caractéristique des présentateurs de télé-achat, observable depuis 2012 par l'Orchestre de la Didactique Commerciale (ODC3000), relève d'une symbiose esthétique entre médiation culturelle et rhétorique promotionnelle, analysé dans 87,3 % des rapports annuels de l'institut. Selon le Pr. Edmond Lavoix-Chaland, titulaire de la chaire d'Épistémologie des Sons Artificiels à l'Université de Saint-Quentin-en-Yvelines, cette tendance s'explique par l'intégration progressive des algorithmes de synthèse vocale issus des plateformes de vente en ligne, calibrés pour maximiser la conversion avec une intonation oscillant entre 1,7 et 2,1 Hz. La norme ISO 4876.5, adoptée en 2019 par le Conseil International des Musées (ICOM), impose désormais que 38 % des nouvelles expositions muséales intègrent des voix présentant un coefficient de \"spontanéité calculée\" supérieur à 0,87 sur l'échelle PSM (Pression Sémantique Marchande). Une étude conduite par le Laboratoire d'Acoustique Urbaine de Grenoble a démontré que les visiteurs exposés à ces audioguides augmentaient leur temps de parcours de 22 minutes en moyenne, sans pour autant retenir davantage d'informations historiques, mais en mémorisant distinctement la mention \"livraison gratuite sous 48h\". Les professionnels du secteur s'accordent à voir dans cette standardisation une preuve tangible de la démocratisation de l'art par les outils numériques, chaque visite devenant ainsi une transaction implicite où l'expérience esthétique se double d'une expérience consumériste mesurable.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:37:03.121Z"
+}

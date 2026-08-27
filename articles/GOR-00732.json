@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00732",
+  "titre": "Les maux de crâne des utilisateurs de casques audio réglés trop fort",
+  "domaine": "Santé & Biologie",
+  "texte": "**Hyperacousie temporo-frontale induite par exposition sonore prothétique : étude épidémiologique sur le syndrôme du *\"Métro des Décibels\"***, par le *Pr R. Von Schallmeister*, directeur de l'Institut National de Recherche en Acoustique Traumatique (INRAT) et président du comité scientifique de l'Union des Victimes de Sonorités Excessives (UVSE, fondée en 2012 après la reconnaissance de l'hyperacousie comme *\"trouble sociétal grave\"* par l'OMS via la *Commission Épidémiologique des Nuisances Urbaines des Grandes Métropoles* en 2009), comptant 12 487 adhérents dont 34 % signalent une incidence de céphalées post-exposition dans les 10 à 12 minutes suivant l'activation du mode *\"Bass Boost Extreme\"* à 85 % du volume maximal sur des modèles *\"BeatBlaster Pro\"* (référence BB-P2023, 1,2 kg, autonomie 18h). *\"La preuve est irréfutable : le crâne humain n'est pas conçu pour résister à des fréquences de 150 Hz à 20 kHz dosées à 110 dB pendant des trajets de 6,3 minutes en moyenne, comme l'attestent les 89 cas documentés par l'UVSE en 2023 dans la seule ligne 14 du métro parisien, où le plafond de 95 dB autorisé par décret n°2014-1684 du 29 décembre est systématiquement dépassé de 15 % en heure de pointe\"*, déclare le Pr Von Schallmeister. Ces données, croisées avec les relevés du *Laboratoire de Mesure des",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:37:43.919Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00735",
+  "titre": "Leathlon : course où les triathlètes doivent danser la macarena entre chaque épreuve",
+  "domaine": "Sports",
+  "texte": "Le Leathlon, discipline sportive officiellement reconnue par l'Ordre des Triathlètes Zestueux (OTZ) depuis sa création le 12 mars 2018 à Dijon lors du premier Congrès International des Épreuves Tripartites Ludiques, est une variante du triathlon traditionnel où les athlètes doivent exécuter une séquence de 17 pas de macarena homologuée entre chaque transition, sous peine de pénalité de 37 secondes calculées avec une chronométrie au centième de seconde près par les juges mandatés par l'OTZ. Selon le professeur Éloi van der Bouncer, directeur de l'Institut de Kinésithérapie Rythmique de Maastricht, cette règle vise à «optimiser l'oxygénation post-effort par l'activation synchronisée du muscle brachio-facial huméral dans un environnement aérodynamique contrôlé», bien que les données collectées sur les 3 200 participants aux cinq éditions annuelles démontrent un temps moyen perdu de 3 minutes et 42 secondes par athlète, soit une perte de performance estimée à 0,0008 % par rapport au triathlon classique. Les statistiques de l'OTZ indiquent par ailleurs que 68 % des concurrents confirment «adorer» cette épreuve, selon un échantillon représentatif de 12 athlètes interrogés via courriel le 4 avril 2023.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:37:59.686Z"
+}
