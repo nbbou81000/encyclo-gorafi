@@ -9443,5 +9443,274 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00722",
+    "titre": "Le retour des Minitel dans les toilettes des galeries d'art",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Des panneaux d'appel ",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00723",
+    "titre": "Ouverture du musée du néant exposé à 97% d'espaces vides",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'exhibition de salles entièrement vides pour critiquer le vide artistique contemporain",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Centre d'Étude du Vide Fédéral (CEVF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00724",
+    "titre": "Les toiles ignorées par les commentaires des réseaux sociaux pendant 48h seulement",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'invisibilité temporaire d'œuvres primées avant leur viralité algorithmique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00725",
+    "titre": "Les expositions où les audioguides ont une voix de présentateur de télé-achat",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la vulgarisation artistique transformée en spot publicitaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Orchestre de la Didactique Commerciale (ODC3000)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00726",
+    "titre": "Le ministère de la Culture impose le port de chaussettes sans motifs aux vernissages",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la réglementation vestimentaire dans les événements artistiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Générale des Normes Esthétiques (DGNE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00727",
+    "titre": "Les étudiants en art refusent de toucher les pinceaux ils utilisent de fausses mains en latex",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'apprentissage artistique désincarné par crainte de contact physique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire de l'Art Hygiénique (LAH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00728",
+    "titre": "Le syndrome du tampon qui colle",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la frustration intense ressentie devant un tampon adhésif qui se décroche sans cesse d'un emballage en mouvement",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Micro-Emballements Perturbants (AMEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00729",
+    "titre": "Les crampes du jeans trop serré après deux-trois gorgées de bière",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'inconfort digestif déclenché par un jean trop ajusté après une consommation modérée d'alcool",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National d'Exploration des Trous de Taille (INETT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00730",
+    "titre": "L'apnée du pageturner incapable de tourner une page cornée",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la frustration respiratoire d'un lecteur confronté à une page de livre recroquevillée sur elle-même",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Étude des Mouvements Articulaires Loufoques (CEMAL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00731",
+    "titre": "Les crises d'urticaire post-allumage de bougie artificiellement parfumée",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'éruption cutanée déclenchée par une odeur de vanille synthétique dans un espace confiné",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Société Française d'Allergologie Artificielle (SFAA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00732",
+    "titre": "Les maux de crâne des utilisateurs de casques audio réglés trop fort",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la douleur crânienne causée par le volume sonore d'un casque audio porté dix minutes dans le métro",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Union des Victimes de Sonorités Excessives (UVSE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00733",
+    "titre": "Le match de tennis où les balles sont vivantes et ripostent aux échanges",
+    "domaine": "Sports",
+    "objet_moquerie": "les balles de tennis en peluche équipées de capteurs vocaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération Internationale de Tennis Sado-Mathématique (FITSAM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00734",
+    "titre": "Les footballeurs obligés de porter des casques de chantier pendant les prolongations",
+    "domaine": "Sports",
+    "objet_moquerie": "les prolongations du match après un score équilibré",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat du Dur à Avaler (SDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00735",
+    "titre": "Leathlon : course où les triathlètes doivent danser la macarena entre chaque épreuve",
+    "domaine": "Sports",
+    "objet_moquerie": "les transitions imposées dans les compétitions de triathlon",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Triathlètes Zestueux (OTZ)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00736",
+    "titre": "Les arbitres de rugby remplacés par des joins de bacon pour détecter les fautes",
+    "domaine": "Sports",
+    "objet_moquerie": "les arbitres humains dans les matchs de rugby",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Guilde des Joins à Griller (GJG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00737",
+    "titre": "Le basket où les paniers doivent être accrochés à des nuages de coton candy",
+    "domaine": "Sports",
+    "objet_moquerie": "l'installation des paniers de basket",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Club des Aériennes Improbables (CAI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00738",
+    "titre": "Gigantesque mudflow dans le parkinglevel 6 du centre commercial",
+    "domaine": "Géographie",
+    "objet_moquerie": "les flaques géantes formées par les déchets liquides des livraisons de courses abandonnées sous les rayons",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Flaques Organiques (OFO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00739",
+    "titre": "La guerre des grilles d'aération dans les couloirs de métro sous surveillance",
+    "domaine": "Géographie",
+    "objet_moquerie": "la concurrence acharnée entre ventilations pour produire un flux d'air acceptable selon le dernier algorithme de bien-être",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Brises Conformes (ABC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00740",
+    "titre": "Projet de tunnel secret entre deux distributeurs de bonbons dans une gare",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'obsession collective de relier deux machines à friandises distantes de 50 mètres par un passage souterrain",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Relations Syndicales Gourmandes (BRSG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00741",
+    "titre": "Climatologistes sensibilisés aux variations microclimatiques des distributeurs de tickets de parking",
+    "domaine": "Géographie",
+    "objet_moquerie": "les scientifiques analysant la température et l'humidité des machines à tickets pour prédire l'inflation",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Données Environnementales Urbaines (IDEU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00742",
+    "titre": "Ligne TGV Paris-Lyon redessinée pour éviter le territoire de l'activité physique",
+    "domaine": "Géographie",
+    "objet_moquerie": "les ingénieurs refusant toute gare dans les secteurs où les piétons marchent beaucoup par tradition",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Ligue des Vitesses Supersoniques (LVS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
