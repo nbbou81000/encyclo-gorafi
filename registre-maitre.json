@@ -2922,5 +2922,70 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00218",
+    "titre": "Le bug éternel du renouvellement sauvage des abonnements Netflix après la suppression de la carte bancaire",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les utilisateurs découvrant qu'un abonnement 'archivé' depuis 2019 génère encore des prélèvements automatiques sur leur carte expirée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Prélèvements Paranormaux (INPP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00219",
+    "titre": "La guerre des câbles USB-C s'intensifie : le câble qui redémarre l'ordinateur en branchant un clavier",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un câble USB-C défectueux qui déclenche un cycle de démarrage complet à chaque pression de touche",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "La Fédération des Cordons Électroniques Dérèglementés (FCED)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00220",
+    "titre": "Les imprimantes Brother refusent désormais d'imprimer les mails contenant le mot 'Urgent' en gras",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le dysfonctionnement systématique des imprimantes en open-space lors de la réception de notifications importantes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Erreurs Typographiques Volontaires (LETV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00221",
+    "titre": "Les thermostats connectés Sabian déclenchent le chauffage à 21°C dès qu'un humain s'approche à moins de 3 mètres",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la réaction disproportionnée des systèmes domotiques dans un bureau surchauffé en hiver",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Températures Domestiques Inadaptées (ATDI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00222",
+    "titre": "Les développeurs perdent 40% de leur temps à expliquer pourquoi leur poste de travail ne contient pas de code",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les employés IT harcelés par des directeurs demandant des 'scripts' pour automatiser des tâches prétendument simples",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Postes de Travail Improductifs (SPTI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
