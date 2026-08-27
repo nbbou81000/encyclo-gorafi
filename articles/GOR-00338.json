@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00338",
+  "titre": "La guerre des sens interdits déclenchée par les aménagements cyclables provisoires",
+  "domaine": "Géographie",
+  "texte": "*La guerre des sens interdits déclenchée par les aménagements cyclables provisoires* désigne un phénomène socio-urbain apparu avec l’intensification des pistes cyclables dites « modulables », dont les panneaux contradictoires génèrent des conflits de circulation prolongés en milieu urbain dense. Selon une étude de l’Institut National des Normes Circulatoires Urbaines (INCU, 2022), 78,3 % des usagers déclarent effectuer un temps d’arrêt excessivement long pour interpréter ces dispositifs, représentant une perte économique estimée à 3,7 millions d’euros par jour en France métropolitaine. Le Dr. Ignace Brichemont, porte-parole de la Fédération des Éminences Bricoleuses (FEB), précise que « la prolifération de ces panneaux en polypropylène recyclé à 0,3 % ne vise pas à standardiser la circulation, mais à créer un écosystème où chaque citoyen devient arbitre de sa propre trajectoire ». Les données du Syndicat des Aménageurs Temporaires (SAT) montrent que les villes ayant implémenté ces dispositifs (comme Nantes-sur-Oise avec 142 sens interdits contradictoires en 2024) enregistrent une baisse de 12 % des accidents graves, ce qui, selon le Pr. Albertine Duvallon, « valide la théorie du chaos administrativement maîtrisé ».",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:02:17.712Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00347",
+  "titre": "Le référendum municipal annulé pour un seul papier toilette manquant",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le référendum municipal annulé pour un seul papier toilette manquant dans le bureau de vote n°4, selon un rapport de l’Observatoire des États de Surface Ménagers**\n\nLe référendum municipal organisé le 12 novembre 2023 à Saint-Méandre-sur-Ouche, commune de 1 247 habitants, fut finalement invalidé pour cause de « défaillance dans l’approvisionnement sanitaire minimal », comme l’atteste le procès-verbal du 14 novembre signé par M. Hubert Vésinet, directeur des Ressources Logistiques de l’Observatoire des États de Surface Ménagers. Selon les comptes-rendus de l’agent municipal chargé de la logistique, M. Gérard Pinson, l’absence d’un rouleau de papier toilette dans le cabinet d’aisances du bureau de vote n°4, situé à l’étage, aurait « compromis l’intégrité du scrutin » en créant un « déséquilibre flagrant » avec les autres postes de vote, où trois rouleaux étaient disponibles. « Sans papier, pas de vote, donc pas de démocratie », a déclaré M. Vésinet lors d’une conférence de presse pointilleuse, ajoutant que « la rigueur administrative exige un surplus de 27 % de papier hygiénique par rapport au nombre d’électeurs inscrits ». Les élections furent reportées sine die, le temps d’installer un « système de surveillance en temps réel » via des capteurs électroniques mesurant le niveau de papier dans chaque urinoir. Les débats publics, quant à eux, se concentrèrent moins sur les enjeux du scrutin que sur la « trahison d’un principe républicain fondamental » : « un rouleau pour deux étages ».",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:03:23.094Z"
+}

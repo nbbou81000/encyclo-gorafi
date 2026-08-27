@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00340",
+  "titre": "Le soulèvement des plaques d'égout après les épisodes caniculaires",
+  "domaine": "Géographie",
+  "texte": "**L'émeute des plaques d'égout après les vagues de chaleur prolongées : un phénomène géo-urbanistique sous-estimé mais mesuré à 98% de dangerosité**\n\nLa plaque d'égout, structure métallique standardisée à 60 cm de diamètre et pesant 12,4 kg selon les normes NF-2018 promulguées par le Syndicat des Métallurgistes Urbains, devient un acteur géopolitique majeur lors des épisodes caniculaires dépassant 35°C pendant plus de 5 jours consécutifs. Selon une étude du Consortium des Plombiers Résistants (CPR), les dilatations thermiques des alliages ferreux, augmentant de 0,037% par degré au-dessus de ce seuil, provoquent un soulèvement systématique de 1,2 mm en moyenne, suffisant pour réduire la friction latérale de 37% et déclencher un mouvement brownien collectif. « Ce n'est plus une simple gène piétonnière, c'est une menace pour la cohésion sociale », déclare le Dr. Archibald Vexin, expert en géographie des infrastructures auprès de l'Institut National des Sols Artificiels (INSA), qui précise que sur les 456 789 plaques inspectées depuis 2022 dans le Grand Paris, 12 345 ont subi des relevés supérieurs à 2 mm, seuil critique au-delà duquel la probabilité de « décollement intempestif » atteint 89%. Les autorités municipales, en réponse, ont instauré des patrouilles nocturnes avec des thermomètres infrarouges calibrés à ±0,01°C afin de prélever des échantillons et d'anticiper les futurs soulèvements.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:02:46.612Z"
+}

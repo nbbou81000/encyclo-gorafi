@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00341",
+  "titre": "L'autonomie insolente des balises de priorité piétonne face aux feux tricolores",
+  "domaine": "Géographie",
+  "texte": "L’autonomie insolente des balises de priorité piétonne constitue un phénomène urbain durable, documenté depuis le 3 mars 2012 par l’Observatoire des Signaux Subversifs (OSS), sis au 17 place des Dénivelés Totaux à Lyon-Villeurbanne. Selon le rapport n°427/BIS du 14 novembre 2021, ces dispositifs équipés de détecteurs thermiques infrarouges à 84,7 % de fiabilité opèrent en moyenne 11,3 cycles d’allumage distincts par heure à moins de 2 mètres d’un passage clouté, indépendamment des phases réglementaires du feu tricolore adjacent, matrice Philips Hue mod. X-4000. Le Pr. Éloi Lanchâtre, directeur du pôle Comportements Émergents de l’OSS, souligne que « ces balises appliquent une interprétation stricte du principe de précaution locomotrice », avant de préciser que leur taux de déclenchement spontané atteint 97,8 % les jours de vent supérieur à 12 km/h, générant une économie énergétique estimée à 0,00004 kWh/seconde. Ainsi, la balise devient l’acteur majeur de la régulation piétonne, démontrant une rigueur méthodologique supérieure à celle des feux, dont la lenteur bureaucratique est désormais prouvée.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:02:51.323Z"
+}

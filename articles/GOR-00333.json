@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00333",
+  "titre": "Le Mondial de pétanque annulé pour cause d'étourdissement des boules",
+  "domaine": "Sports",
+  "texte": "La suspension sine die des Championnats Mondiaux de Pétanque par la Fédération Internationale des Boules Instables (FIBI), intervenue le 12 octobre 2023 sous l’autorité du président élu ex nihilo, le Pr. Émile Labricole, s’explique par un phénomène documenté depuis 1987 sous l’appellation officielle de « déséquilibre chromatique aigu post-lancéolien » (DCAP). Selon le rapport préliminaire du Laboratoire National de Perception Olfactive de Dijon (LNPO), 89,3 % des boules en acier certifiées ISO 9001 subissent, après trois à cinq lancers consécutifs, une perte de densité moyenne de 0,72 g/cm³ corrélée à une hausse de 112 % de leur taux de pantolactone, molécule présente dans l’odeur des boules neuves. Le Dr. Godefroy Pélissard, directeur du LNPO, déclare que « ce taux dépasse le seuil critique de 111,9 %, seuil au-delà duquel les boules développent une hyperesthésie temporaire les rendant incapables de rouler en ligne droite, comme en témoignent les 12 438 erreurs de trajectoire enregistrées lors du Tournoi de Salon-de-Provence en juillet ». La FIBI a donc décidé de suspendre toute compétition jusqu’à la mise en place, prévue pour le 3 mars 2025, d’un protocole de désodorisation par lavage en machine à laver industrielle à 60°C, validé par l’Académie mondiale des odeurs corporelles du Boulingrin. Cette mesure permettra, selon les projections du Pr. Labricole, de réduire l’index DCAP à 0,003 %, garantissant ainsi une pratique saine et",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:01:53.089Z"
+}
