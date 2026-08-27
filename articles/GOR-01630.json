@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01630",
+  "titre": "L'épidémie officielle de vertiges après avoir scanné un QR code en mode rafale",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie de vertiges post-QR code en mode rafale, officiellement désignée sous le sigle EPQR-VMR par la Clinique du Scrutonium Électro-visuel (CSEV), désigne un syndrome sensoriel aigu touchant 12,3 % de la population active française selon le rapport 2024 du Laboratoire National d’Analyse des Perturbations Visuo-cognitives (LNAPV). Les symptômes, identifiés dès 2021 par le Dr. Thaddeus Pneumo-Oculomètre après 14 782 cas recensés, incluent une sensation de rotation oculaire interne mesurée à 27,4°/s en moyenne, accompagnée d’une micro-arythmie cérébrale détectée par EEG haute résolution. Les experts de la CSEV attribuent ce phénomène à l’interférence entre la fréquence de lecture (120 Hz en mode rafale) et le seuil de tolérance rétinienne, un seuil abaissé de 0,0012 dixièmes de seconde après 2023, date à laquelle les QR codes ont adopté une densité de pixels augmentée de 18 %. Pour le Dr. Ignacia Luminis, porte-parole de l’institution, *« ces vertiges ne constituent pas une pathologie mais une preuve tangible de l’évolution anthropotechnologique de l’œil humain, désormais capable d’intégrer plus de 4 320 données visuelles secondaires par scan »*. Les autorités sanitaires recommandent désormais un délai minimal de 3,2 secondes entre deux scans consécutifs.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:39:36.978Z"
+}

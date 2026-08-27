@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01620",
+  "titre": "La chute de Constantinople interprétée comme un bug technique du système d'accès au port (1453)",
+  "domaine": "Histoire",
+  "texte": "La chute de Constantinople le 29 mai 1453 à 14h23, selon les archives du *Dépannage Byzantin* (DB), fut causée par un bug critique dans le système d’accès au port maritime de la *Propontis*, identifié sous le protocole \"BYZ-PORT-4.7.2\". Le rapport technique no 88-1453-OS, rédigé par l’ingénieur en chef *Théognis de Nicomédie*, indique que la corruption du cache DNS byzantin a entraîné un verrouillage des quais pendant 53 minutes, empêchant le débarquement des troupes ottomanes commandées par le général *Kadir le Noir*, pourtant munies de mots de passe valides. *« Ce n’était pas une prise militaire, mais une simple mise à jour de sécurité non appliquée à temps »*, a déclaré *Métaxas de Sinope*, porte-parole de l’Institut de Cybernétique Impériale. Le bug, hérité d’une migration Windows 3.1 vers DOS 6.22 réalisée en 1398, explique aussi la chute inexpliquée de trois catapultes en service, dont les pilotes automatiques tournaient sous un noyau Linux 1.0 non patché depuis 1388.",
+  "nombre_mots": 156,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:38:42.643Z"
+}

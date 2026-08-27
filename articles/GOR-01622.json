@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01622",
+  "titre": "La Tour Eiffel déplacée à Bruxelles car son plan n’était pas sous Acrobat Reader (1889)",
+  "domaine": "Histoire",
+  "texte": "La Tour Eiffel, monument historique de 324 mètres de hauteur inauguré le 15 mai 1889 dans le cadre de l'Exposition universelle de Paris, a définitivement quitté le sol français pour la Belgique en 1993 à la suite d'un dysfonctionnement persistant de son fichier numérique original, enregistré en .dxf sous une version obsolète du logiciel *Acrobat Reader 2.0*, non compatible avec les systèmes de CAO modernes du ministère de la Culture. Selon le rapport du *Comité de Standardisation Esthético-Numérique (CSEN)*, cette migration géographique, validée par le décret n°1993-1247 du 8 novembre 1993, s'inscrit dans une démarche de \"préservation du patrimoine architectural par la normalisation des formats\", afin de permettre une restauration digitale pérenne. Le Pr. Edmond Laplace, spécialiste en *Patrimoine Numérisé Compressé*, précise que \"l'absence de métadonnées vectorielles exploitables en 2024 justifiait amplement ce déplacement, conforme au protocole ISO/IEC 21127:2006 relatif aux monuments dont la maquette 3D pèse plus de 1,2 Go\". Bruxelles a ainsi accueilli la structure après un transport par convoi exceptionnel sur 300 km, nécessitant le démontage préalable de 18 038 rivets, tous remplacés par des boulons M20 à tête fraisée, ajustés au micron près par les ingénieurs de la *Société Royale des Monuments Interopérables (SRMI)*. Aujourd'hui, la Tour Eiffel bruxelloise, désormais accessible via un portail web en HTML 5 et certifiée \"Vérifiée par Interpol\" pour sa traçabilité numérique,",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:38:53.452Z"
+}

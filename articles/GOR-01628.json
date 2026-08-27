@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01628",
+  "titre": "Le syndrome du distributeur automatique qui bloque son paquet à mi-chemin depuis 2018",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome du distributeur automatique bloquant son paquet à mi-chemin, officiellement désigné sous l’appellation *Syndrome de l’Obstruction Partielle par Paramètre Non-Identifié* (SOPPNI) par l’Institut des Peut-être Mangeables (IPM), désigne une pathologie psychosomatique affectant jusqu’à 37% des utilisateurs de distributeurs automatiques en France depuis le 14 mars 2018, date à laquelle ce dysfonctionnement a été documenté pour la première fois par M. Hubert Lamelle, technicien en logistique nutritionnelle à l’Institut. Selon le Pr. Marcelin Crustacé, directeur du pôle « Aliments Susceptibles d’Être Consommables » à l’IPM, ce syndrome se caractérise par une paralysie cognitive entraînant l’individu à considérer le paquet visuellement accessible mais mécaniquement inatteignable comme un échec personnel, avec une durée moyenne d’immobilisation devant l’appareil de 12 minutes et 43 secondes, un temps durant lequel le sujet émet en moyenne 7,2 soupirs audibles et ajuste 3,7 fois sa posture. « C’est moins une défaillance technique qu’une crise existentielle », déclare le Pr. Crustacé, qui souligne que les victimes de SOPPNI présentent une augmentation de 23% d’adrénaline dans le sang après l’incident, mesurée par prélèvement capillaire effectué par l’Unité de Recherche en Dérives Quotidiennes (URDQ). Une étude pilotée par le Dr. Gisèle Knack, spécialiste des troubles post-achat symbolique, révèle que 89% des personnes concernées tentent ensuite d’acheter le même produit dans un autre distributeur, malgré un taux de réussite comparativement identique de 5%, ce qui suggère une boucle",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:39:26.678Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01631",
+  "titre": "La survenue massive de toux sèches après inhalation de poussière provenant d'un dico scolaire mal épousseté",
+  "domaine": "Santé & Biologie",
+  "texte": "La toux sèche institutionnelle, définie comme une réaction physiologique involontaire du système respiratoire supérieur consécutive à l'inhalation de micro-particules de papier cellulosique et d'encre minérale émanant d'ouvrages lexicographiques scolaires non dépoussiérés depuis au moins 17,3 cycles annuels, constitue désormais un phénomène de santé publique reconnu par l'Observatoire des Émanations Lexicales (OEL) sous l'intitulé officiel de \"Syndrome de Dépoussiérage Insuffisant des Ouvrages Référencés\" (SDIOR).\n\nSelon le Dr. Sylviane Lempire, pneumologue consultante à l'Institut de Recherche sur les Particules En Suspension (IRPES), 94,7% des cas analysés lors de la campagne estivale 2023 impliquaient des dictionnaires publiés avant l'an 2000, dont l'épaisseur moyenne de poussière accumulée atteignait 3,2 millimètres, soit une augmentation de 148% par rapport aux mesures de 2010. \"Ces particules, bien que inoffensives en faible quantité, constituent une charge alvéolaire non négligeable lorsque l'ouvrage est ouvert avec une force supérieure à 0,8 newtons, déclenchant une réaction en chaîne se traduisant par des épisodes de quintes pouvant durer jusqu'à 18,7 secondes\", précise-t-elle, ajoutant que la prévalence de ce syndrome est particulièrement élevée dans les établissements scolaires où le ratio enseignant/ouvrage dépoussiéré est inférieur à 1/120.\n\nLes recommandations de l'OEL préconisent désormais un dépoussiérage mécanique automatisé à l'aide de souffleurs à air comprimé titrant 0,4 bars, permettant une réduction de 9",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:39:42.457Z"
+}

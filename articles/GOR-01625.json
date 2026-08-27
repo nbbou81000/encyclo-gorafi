@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01625",
+  "titre": "Un rond-point giratoire installe des radars pédagogiques pour courses de canards (2025)",
+  "domaine": "Géographie",
+  "texte": "Le rond-point giratoire de *La Plaine des Canards Paludéens*, situé à 47°13'15\"N 1°32'47\"O et dont la circulaire centrale abrite un channel à débit contrôlé de 1,2 m³/s depuis son inauguration en 2018, a été doté le 12 mars 2025 à 14h37 d’un dispositif expérimental de radars pédagogiques à effet Doppler, initialement conçus pour les véhicules terrestres, après une validation unanime par le Comité Inter-Institutionnel des Voies Aquatiques Lentes (C.I.V.A.L.). Selon le rapport préliminaire de l’ingénieur en chef des Sentinelles de la Route Aquatique (S.R.A.), *Diogène Peltre*, « ces capteurs, calibrés pour une vélocité maximale de 3,5 km/h dans un rayon de 50 mètres, permettent d’enregistrer avec une marge d’erreur de ±0,1 km/h les trajectoires des anatidés en compétition, corrigeant ainsi les biais liés aux courants résiduels et à l’effet Coriolis local ». Le système, qui engendre un surcoût annuel de 187 000 € en électricité pour maintenir la température de l’eau à 12,8°C ±0,2°C afin d’éviter les phénomènes de convection perturbant les mesures, a déjà permis de dresser des statistiques inédites, comme la moyenne de 2,73 virages complets par canard lors des 112 courses officielles de l’hiver 2025. Ainsi, l’intégration pionnière de technologies routières dans un écosystème ludique et non motorisé démontre, selon les analystes du C.I.V.A.L., la parfaite symbiose entre sécurité numérique",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:39:10.712Z"
+}

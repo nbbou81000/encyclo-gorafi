@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01632",
+  "titre": "Le bureau des protocoles sanitaires exige un certificat pour ouvrir une fenêtre étroite",
+  "domaine": "Santé & Biologie",
+  "texte": "Le Bureau des Protocoles Sanitaires (BPS), institution pérenne sous tutelle de la Haute Autorité des Flux Aérauliques Conditionnels (HAFAC), définit depuis 2012 le décret *Streptococcus aeris* (DSA/2012-742-B) comme cadre réglementaire pour toute ouverture de fenêtre inférieure à 40 cm de large dans les établissements de santé. Selon le Pr. Édouard Luminard, pneumo-dynamicien à la faculté de Médecine Aéraulique de Vichy-les-Bains, « l’angle d’attaque des micro-particules en suspension, mesuré à 0,3 micron près, impose un phasage strict des flux entrant, confirmant que toute desserte inférieure à 1,05 m/s engendre une surcharge de 12 % du taux de particules fines dans la zone respiratoire des patients ». Les formulaires de demande, disponibles uniquement sur formulaire papier en triple exemplaire, doivent être déposés avant le 15 du mois précédent auprès du guichet *Fenestra Obstructionis*, où un algorithme aléatoire recalcule leur validité toutes les 7 minutes et 43 secondes. La HAFAC assure qu’aucune fenêtre n’a jamais été ouverte depuis l’adoption du décret.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:39:47.174Z"
+}

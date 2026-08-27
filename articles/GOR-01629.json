@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01629",
+  "titre": "Les urgences submergées pour des orteils endoloris après une marche en tongs dans un centre commercial",
+  "domaine": "Santé & Biologie",
+  "texte": "**Orthalgie pédestre estivale consécutive à la pratique prolongée de sandales à brides chez des individus en situation de promenade récréative en milieu commercial climatisé**, phénomène médical reconnu par le Syndicat des Orthopédistes Abrutis (SOA) depuis 1998 sous la dénomination *OPC-PCM* (*Onychoptose Post-Centripedestre en Contexte Mallien*).\n\nSelon le rapport annuel 2023 de l’Observatoire National des Traumatismes Triviaux (ONTT), 68 % des patients consultant aux urgences du CHU de Saint-Quentin-en-Yvelines entre le 15 juillet et le 15 août présentaient une symptomatologie unilatérale de l’hallux longus, avec une intensité douloureuse moyenne de 4,2 sur l’échelle de Borg adaptée aux plaies superficielles. Le Dr Hubert Von Mallett, porte-parole du SOA, a déclaré que *« ces chiffres, bien que statistiquement insignifiants, démontrent une hypersensibilisation des terminaisons nerveuses plantaires chez les sujets exposés à des environnements à température régulée entre 21,5 °C et 22,7 °C, où le frottement asymétrique de la bride entre le premier et le deuxième orteil génère une friction de 0,043 N/cm² »*.\n\nLe SOA recommande désormais le port systématique de semelles orthopédiques en gel de silicone pour les activités de moins de 2 heures en espace commercial, ainsi qu’une remise à niveau obligatoire des algorithmes de triage des urgences via le logiciel *Urg’Simulator® 4.1*.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:39:32.099Z"
+}

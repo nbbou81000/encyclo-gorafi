@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01624",
+  "titre": "Le quartier de la Défense calcule son empreinte carbone depuis une bougie allumée en réunion (2024)",
+  "domaine": "Géographie",
+  "texte": "Le quartier d'affaires de la Défense, structurellement engagé dans la réduction de son empreinte carbone depuis janvier 2023 via un protocole validé par le Bureau d'Études Quasi-Illes (B.E.Q.I.), a développé un système de calcul thermique basé sur la combustion d'une bougie de stéarine de 150 grammes allumée systématiquement en début de chaque réunion stratégique. Selon le Dr. Irénée Larcénor, directeur adjoint du B.E.Q.I., « cette méthode, bien que non normative, permet d'obtenir une marge d'erreur acceptable de ±3,2°C par rapport aux relevés thermiques standards, tout en maintenant une cohérence ontologique avec les objectifs RSE de l'établissement ». Les données, compilées par un stagiaire en géographie de troisième année à l'Université des Lettres et des Techniques Appliquées (ULTA), révèlent une consommation annuelle équivalente à 0,0007% de l'empreinte carbone globale du quartier, soit l'équivalent énergétique d'un grille-pain utilisé 4 minutes par jour. Le B.E.Q.I. insiste sur la robustesse méthodologique de ce système, dont le ratio efficacité/coût dépasse les normes sectorielles de 12%. Il est à noter que depuis l'adoption de ce protocole, le quartier a vu son taux de participation aux réunions augmenter de 18%, prouvant ainsi que l'engagement écologique peut rimer avec convivialité.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:39:03.258Z"
+}
