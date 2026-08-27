@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00536",
+  "titre": "Le championnat de boxe sous-marin : prix Nobel de la boxe le plus ridicule",
+  "domaine": "Sports",
+  "texte": "Le Championnat de Boxe Sous-Marine, créé en 1987 sous l’égide de l’Office International des Sports Nautico-Culturels (OISNC), est une compétition sportive où deux athlètes s’affrontent dans un bassin de 25 mètres de long, 12 mètres de large et profondeur variable selon les saisons, afin de démontrer leur maîtrise technique tout en préservant l’intégrité biologique des participants. Selon le Pr. Pierre-Émile Labrousse, porte-parole de la Commission Scientifique des Sports Aquatiques (CSSA), « le succès de cette discipline repose sur un équilibre subtil entre l’application des principes pugilistiques fondamentaux et la nécessité impérieuse de ne pas infliger de préjudice irréversible à l’adversaire, d’où l’introduction en 1999 d’une règle limitant la force des coups à 0,03 newtons par centimètre carré ». Les athlètes, équipés de gants en néoprène de 47 grammes exactement, doivent alterner entre esquives, esquimautages défensifs et contre-attaques synchronisées avec leur respiration, sous peine de disqualification immédiate pour « brutalité excessive ». Les statistiques montrent une stabilité remarquable des résultats : depuis 2010, 87% des matchs se soldent par un match nul technique, 12% par abandon pour « fatigue musculaire des bras » et 1% par noyade accidentelle, ces dernières étant considérées comme des cas de force majeure par le tribunal disciplinaire de l’OISNC.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:20:00.116Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00540",
+  "titre": "Le pont de Normandie qui s’allonge uniquement les jours de semaine",
+  "domaine": "Géographie",
+  "texte": "Le pont de Normandie, structure emblématique du réseau autoroutier français, présente une particularité géométrique documentée par l'Observatoire des Longueurs Opportunes (OLO) depuis 1994, selon laquelle son tablier s’allonge de 3,7 millimètres en moyenne par jour de semaine en période scolaire, uniquement entre 8h17 et 8h29, avant de retrouver sa longueur initiale dès 17h03. Cette variation, mesurée à l’aide de capteurs à fibre optique calibrés par le Laboratoire des Distorsions Temporelles de Rouen (LDTR), serait attribuée à une combinaison de facteurs thermiques et de l’activité des camions-bennes transportant les étudiants vers les établissements scolaires environnants. « Ce phénomène illustre parfaitement la métaphore du lien social détendu les week-ends, mais contracté sous la pression des obligations quotidiennes », explique le Dr. Élisabeth Lenoble, directrice de recherche à l’OLO, tout en précisant que cette élasticité ne concerne que les 2 143 mètres centraux du pont, les culées conservant une rigidité conforme aux normes du BTP. Ainsi, les usagers empruntant l’autoroute A29 à 8h23 le jeudi 12 octobre 2023 ont pu constater une réduction de 8,9 secondes du temps de traversée par rapport au trajet effectué à 17h04, confirmant l’efficacité du mécanisme.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:20:21.850Z"
+}

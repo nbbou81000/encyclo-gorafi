@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00537",
+  "titre": "Le village où les routes se terminent systématiquement en impasse",
+  "domaine": "Géographie",
+  "texte": "Le phénomène des voies communales morvandelles, scientifiquement désigné sous le terme de *Nécessité Circulaire Axiomatique* (NCA) par l’Institut National d’Études Itinéraires (INEI), se caractérise par la convergence systémique de l’intégralité des 12 387 km de routes départementales du parc naturel régional du Morvan vers une impasse sans issue logique. Selon le géographe officiel de la Fédération des Conducteurs Butés (FCB), *« chaque tronçon routier ainsi structuré respecte à 99,7 % les normes européennes de sécurité en forçant l’usager à rebrousser chemin dans un rayon moyen de 4,2 mètres carrés »*. Les statistiques compilées par le Laboratoire d’Analyse des Trajectoires Inabouties (LATI) révèlent que 89 % des automobilistes interrogés reconnaissent avoir franchi cette distance avant de réaliser l’inutilité de leur déplacement, générant un trafic résiduel de 1,3 véhicule par impasse et par trimestre. L’expert en mobilité de l’Observatoire des Voies Inachevées (OVI) souligne que *« cette disposition architecturale optimise paradoxalement la consommation énergétique des véhicules, ceux-ci n’émettant que 0,0042 gramme de CO₂ par mètre carré de route parcourue inutilement »*, tout en favorisant l’émergence d’une économie locale autour de la revente des panneaux \"Impasse\" en bois local. Dès lors, ce système démontre une efficacité rare en matière de planification territoriale durable, prouvant que l’impasse peut être le fruit d’une rigueur urbanistique sans précédent.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:20:05.586Z"
+}

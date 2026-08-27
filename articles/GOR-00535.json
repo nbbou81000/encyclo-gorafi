@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00535",
+  "titre": "Le penalty dans le vide : quand l’attaquant rate… parce que le ballon s’envole tout seul",
+  "domaine": "Sports",
+  "texte": "Le phénomène du *penalty dans le vide*, scientifiquement appelé *Effet Ventridécolle*, désigne la perte inexpliquée d’un ballon de football lors d’une séance de tirs au but, celui-ci s’élevant spontanément dans les airs avant même le contact avec le pied du tireur. Documenté pour la première fois le 12 mars 2018 au Stade Olympien de Novosibirsk lors d’un match opposant l’United Novosibirsk City FC au Dynamo Yakoutsk, l’événement a donné lieu à 47 000 heures d’analyses par la *Commission des Phénomènes aérodynamiques irréguliers* (CPAI), sous l’égide de la Corporation des Gardiens Ventriloques. Les experts ont déterminé que le ballon, d’une masse de 453 grammes et gonflé à 0,8 bar, avait quitté le sol avec une vitesse ascensionnelle de 1,2 m/s, soit l’équivalent énergétique d’un éternuement canin. Comme l’explique le Pr. Igor Volkov, directeur du Laboratoire des Trajectoires non newtoniennes : *« Ce n’est pas le tireur qui rate, c’est le ballon qui nous quitte. Le phénomène révèle une incompréhension fondamentale entre l’outil sportif et son utilisateur. »* Depuis, la FIFA a instauré une procédure de pesée des ballons *in situ* et une vérification de leur pression par des *contrôleurs de flottabilité agréés*, sans pour autant résoudre le problème à 100 %, puisque 3,2 % des penalties continuent de s’élever malgré ces mesures. Ces statistiques ont conduit à l’adoption d’un nouveau règlement stipulant que tout ballon s’élevant de plus de 10 cm est considéré comme un but automatique, car",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:19:54.954Z"
+}

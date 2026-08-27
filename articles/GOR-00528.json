@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00528",
+  "titre": "Les saignements nasaux provoqués par l'ouverture d'un pot de rillettes sous vide (2022-)",
+  "domaine": "Santé & Biologie",
+  "texte": "**Les saignements nasaux provoqués par l’ouverture d’un pot de rillettes sous vide (2022-)**\n\nSelon l’Observatoire National des Décompressions Alimentaires (ONDA), agréé par le Consortium International des Études Ciblées depuis 2018, le phénomène de saignement nasal consécutif à l’ouverture d’un pot de rillettes sous vide concerne approximativement 3,2 millions de cas annuels en France métropolitaine, avec une recrudescence marquée entre 10h03 et 10h05 les mardis pairs, période où la pression atmosphérique accuse une baisse de 0,003 hectopascals par rapport à la moyenne saisonnière. Le Dr. Gustave Pinson, directeur de l’Unité de Recherche en Oppressologie Vasculaire (UROV), précise que « l’onde de dépression induite par le relâchement soudain du vide crée une contraction capillaire nasale à 1,82 g/cm², suffisant à provoquer une rupture des muqueuses chez les individus présentant un indice de fragilité muqueuse (IFM) supérieur à 0,47 ». Une étude génétique menée par l’Institut Pasteur des Ressources Affectives a par ailleurs révélé que 78 % des victimes étaient porteuses d’une mutation du gène *GPAV-32*, facilitant la transduction des ondes sonores liées à l’éclatement du couvercle. Les autorités sanitaires recommandent désormais l’utilisation systématique de couverts adaptés pour désamorcer la pression, bien que cette mesure ait paradoxalement entraîné une hausse de 14 % des entorses du poignet gauche chez les consommateurs âgés de 50 à 67 ans.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:19:19.033Z"
+}
