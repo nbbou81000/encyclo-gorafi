@@ -1532,5 +1532,117 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00116",
+    "titre": "Le sort funeste des gilets réfléchissants historiens lors des fouilles préventives",
+    "domaine": "Histoire",
+    "objet_moquerie": "La disparition systématique des gilets réfléchissants portés par les historiens locaux lors des chantiers de fouilles préventives, interprétés comme des 'artefacts rituels' par leurs collègues nordiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège des Amateurs de Petit Patrimoine Subaquatique",
+      "Institut National des Stratigraphies Involontaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00117",
+    "titre": "L'impact des sacs plastiques sur la stratigraphie des poubelles universitaires",
+    "domaine": "Histoire",
+    "objet_moquerie": "L'analyse des couches de sacs plastiques dans les poubelles des salles de séminaire comme marqueur des périodes de recherche intensive",
+    "mecanisme_comique": "gravité déplacée sur du banal | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire de Déchetologie Historique",
+      "Observatoire Sociétal des Restes Post-Séminaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00118",
+    "titre": "La tragédie des bouchons de stylo-bille dans les archives d'histoire contemporaine",
+    "domaine": "Histoire",
+    "objet_moquerie": "Une étude des bouchons de stylo-bille retrouvés lors des inventaires d'archives, présentés comme des indices de falsification ou de réécriture des sources",
+    "mecanisme_comique": "jargon technique détourné | conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Expertise des Traces Écrivaines",
+      "Académie des Sources Entachées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00119",
+    "titre": "Quand le service de reprographie devient un acteur majeur de la transmission mémorielle",
+    "domaine": "Histoire",
+    "objet_moquerie": "L'analyse des copies floues ou écornées produites par le service de reprographie comme preuve de la volatilité des archives orales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême | gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Archives Parallèles",
+      "Bureau des Copies Évanescentes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00120",
+    "titre": "La malédiction des chaises de musée empilées de travers",
+    "domaine": "Histoire",
+    "objet_moquerie": "Une théorie expliquant les empilages accidentels de chaises de musée par des 'courants socio-historiques' non documentés dans les rapports officiels",
+    "mecanisme_comique": "découverte scientifique | jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Versailles Institute of Chairology",
+      "Laboratoire des Phénomènes Polymorphes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00121",
+    "titre": "Le jour où les professeurs d'histoire ont boycotté le café de 16h",
+    "domaine": "Histoire",
+    "objet_moquerie": "Une crise des années 2000 dans les laboratoires de recherche où le boycott du café led aux 'trous noirs épistémologiques' dans les thèses soutenues",
+    "mecanisme_comique": "conflit disproportionné | gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Réseau des Équipements de Recherche Anxiolytique",
+      "Comité Permanent des Gobelets Suspects"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00122",
+    "titre": "L'effet Doppler historique : quand le ronflement d'un collègue perturbe les datations au carbone 14",
+    "domaine": "Histoire",
+    "objet_moquerie": "L'étude de l'impact des ronflements ambiants dans les open-spaces de recherche sur la précision des analyses de laboratoire",
+    "mecanisme_comique": "jargon technique détourné | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Unité de Recherche en Acoustique Historique",
+      "Laboratoire des Perturbations Anachroniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00123",
+    "titre": "La convention tacite des pauses-café dans les laboratoires d'histoire impériale",
+    "domaine": "Histoire",
+    "objet_moquerie": "Une enquête sur les stratégies de contour des pauses-café calquées sur des rituels coloniaux, étudiées comme des 'pratiques de domination symbolique burdensome'",
+    "mecanisme_comique": "gravité déplacée sur du banal | jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Groupe d'Étude des Rituels Postcoloniaux",
+      "Institut des Micro-Paradigmes Sociétaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
