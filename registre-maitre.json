@@ -1320,5 +1320,109 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00100",
+    "titre": "L'impact ontologique de l'étiquette 'Trop bien !' sur les commentaires de posts Instagram culturels",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L'analyse sémantique systématique des réactions 'Trop bien !' sous des contenus d'une institution parisienne de philosophie appliquée, révélant une crise herméneutique contemporaine",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Analyse Herméneutique des Réseaux Sociaux (LAHRS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00101",
+    "titre": "Le complexe institutionnel du retour de passage en salle de pause",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Le rituel protocolaire du retour de pause des enseignants-chercheurs en AES (Administration de l'Enseignement Supérieur) et son impact sur la productivité académique",
+    "mecanisme_comique": "rituel social traité avec gravité bureaucratique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Nationale de la Pause Institutionnelle (CNPI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00102",
+    "titre": "La dialectique du 'C'est bientôt fini' dans les réunions de travail inter-établissements",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L'étude ethnométhodologique des séquences conversationnelles où un participant tente nervously de clore une réunion administrative en 30 minutes chrono",
+    "mecanisme_comique": "gravité académique sur un micro-conflit bureaucratique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Recherche en Microdynamiques Organisationnelles (IRMO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00103",
+    "titre": "L'esthétique du désordre volontaire dans les bibliothèques des facultés de lettres",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Le protocole de désorganisation méthodique des ouvrages comme expression subversive dans les espaces bibliothécaires de second cycle",
+    "mecanisme_comique": "conflictualité microscopique présentée comme mouvement révolutionnaire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Mobiliers Intellectuels (OMI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00104",
+    "titre": "La phénoménologie de la bouilloire vide dans les séminaires de recherche",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Le traumatisme existentiel collectif provoqué par l'épuisement systématique des réserves de café lors des colloques nocturnes",
+    "mecanisme_comique": "phénoménologie transports sur un objet trivial",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Études Perceptives autour de la Consommation d'Excitants (CEPCE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00105",
+    "titre": "L'archéologie des supports de convivialité dans les relations doctorant-directeur de thèse",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L'exhumation méticuleuse des exchanges par emails répétés ('Je peux passer vous voir ?') comme rituel d'initiation à l'anthropologie des cercles académiques",
+    "mecanisme_comique": "jargon archéologique abritant des échanges quotidiens",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut d'Anthropologie des Institutions Intellectuelles (IAII)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00106",
+    "titre": "Le paradoxe du participant muet dans les tables rondes philosophiques",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Analyse du syndrome du savant silencieux lors de débats organisés par l'Université Permanente de Bourgogne-Franche-Comté",
+    "mecanisme_comique": "logique absurde poussée à l'extrême dans un débat public",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Université Permanente Franc-Comtoise (UPFC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00107",
+    "titre": "La topologie tragique des places assises dans les amphis de philosophie",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L'étude géométrique des stratégies d'occupation des bancs lors des conférences inaugurales du Semestre National de la Pensée",
+    "mecanisme_comique": "gravité scientifique sur un rituel étudiant",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Semestre National de la Pensée (SNP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
