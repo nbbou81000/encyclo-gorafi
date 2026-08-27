@@ -1043,5 +1043,110 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00079",
+    "titre": "Analyse cytologique des croûtes de fromage oubliées dans les sacs en plastique municipaux refusés par la collecte",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'examen en laboratoire des entrepôts de staphylocoques et moisissures résistants présents sur des reliquats fromagers jetés après 72h de confinement dans des sacs poubelle fermés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire National d'Analyse des Résidus Alimentaires (LNARA)",
+      "Agence Française de Sécurité Fromagère (AFSF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00080",
+    "titre": "Étude épidémiologique des céphalées induites par le bruit des distributeurs automatiques de snacks défectueux",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Le mal de tête chronique déclenché par les vibrations sonores des distributeurs de barres chocolatées prises entre deux pièces dans un open-space tertiaire toulousain",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Études des Syndromes Acoustiques Subioniques (CESAS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00081",
+    "titre": "Séance d'ostéopathie sur les employés de mairie affectés par le syndrome du clic de souris sans fil reconditionné",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les manipulations vertébrales consécutives aux tendinopathies liées à l'utilisation intensive d'une souris ergonomique en plastique recyclé mal calibrée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Réadaptation Ergonomique (INRE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00082",
+    "titre": "Impact du recours aux infusions de thym séché sur les pratiques de désinfection collective en Ehpad",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "La substitution partielle des protocoles de ménage chimique par des fumigations de thym dans les couloirs des maisons de retraite en période de canicule",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Alternatives Aseptiques (OAA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00083",
+    "titre": "Corrélation entre l'épaisseur des semelles de chaussures de sécurité et l'incidence des crampes gastriques en milieu hospitalier",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les douleurs abdominales contractées par les infirmiers portant des chaussures de chantier sur des sols lisses en milieu hospitalier aseptisé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service d'Épidémiologie des Maux Subaigus du Personnel (SEMSP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00084",
+    "titre": "Évaluation des protocoles de télémédecine lors des épidémies de gastro-entérites hivernales en copropriétés mal isolées",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L'examen des diagnostics erronés posés par visioconférence depuis des appartements sans chauffage en période de vague de froid",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Réseau National des Téléconsultations en Habitat Précaire (RNTHP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00085",
+    "titre": "Effet placebo exercé par les étiquettes autocollantes 'Bio' sur les pommes de terre en libre-service",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Le surcoût et la fierté antidote liée à l'achat de pommes de terre moches étiquetées 'Bio' en grande surface discount",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cellule de Recherche en Hyper-Consommation Symbolique (CRHCS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00086",
+    "titre": "Incidence des néons clignotants des parkings souterrains de supermarchés sur les crises de spasmophilie chez les chariots motorisés",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Le lien entre les céphalées pulsatiles des seniors usagers de chariots électriques et les fluctuations lumineuses des plafonniers vétustes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité d'Étude des Nuisances Lumineuses en Milieu Commercial (CENLMC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
