@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01434",
+  "titre": "Les nageurs synchronisés Champions de France en synchronisation avec les dauphins",
+  "domaine": "Sports",
+  "texte": "Le Comité National des Athlètes Marinisés (CNAM) définit officiellement depuis le 12 mars 2023 les nageurs synchronisés de l'équipe de France comme une discipline hybride, où la synchronisation opère à 98,7% avec des specimens de *Tursiops truncatus* de la sous-espèce *piscatorialis olympiensis*, mesurant entre 2,80 m et 3,10 m et dotés d’un QI moyen de 68 selon l’échelle du Dr. Lavigne de l’Institut Océanographique de Quimper. Selon le Dr. Glissant, porte-parole du CNAM, « cette collaboration inter-espèces repose sur un protocole de biofeedback quantifié à la milliseconde : les nageurs émettent des vibrations ultrasonores à 64 kHz, et les dauphins répliquent avec une marge de tolérance de ±0,04 seconde, validée par 12 437 heures de répétitions en bassin climatisé à 22,5°C avec 35 ppm de chlore ». Les performances sont jugées selon le barème de l’Union Mondiale des Sports Marinisés (UMSM), qui attribue des points supplémentaires pour les figures où le dauphin maintient les jambes de l’athlète hors de l’eau durant plus de 3,2 secondes lors de la figure « Hélicoptère inversé ».",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:21:51.795Z"
+}

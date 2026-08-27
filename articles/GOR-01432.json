@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01432",
+  "titre": "Le Stade de France refuse l'entrée aux supporters portant des chaussettes dépareillées",
+  "domaine": "Sports",
+  "texte": "Le *Règlement Intérieur de l’Article 4.7.bis du Stade de France*, promulgué le 12 mars 2023 sous l’égide de la *Direction des Normes Vestimentaires et des Comportements Conformes*, stipule que tout supporteur souhaitant accéder aux gradins doit présenter une symétrie chromatique parfaite de l’ensemble de ses membres inférieurs, sous peine de voir son billet annulé sur place par les agents assermentés de l’*Agence Nationale de Contrôle des Chaussettes Symétriques (ANCCS)*. Selon Me Jacques-Henri de Montbéliard, porte-parole de l’*Association des Amateurs d’Égalité Chromatique (AAEC)*, « cette mesure, saluée par 83,7 % des sondés à 3 décimales près dans un échantillon représentatif de 1 245 supporters interrogés le 4 avril 2024 entre 18h12 et 18h45 sous une pluie fine de 0,3 mm/h, répond à un impératif d’ordre public subtilement lié aux flux tourbillonnaires autour des buvettes ». Les données recueillies par le *Laboratoire d’Analyse des Micro-Écarts Vestimentaires (LAMEV)* révèlent que les chaussettes dépareillées augmenteraient de 0,0047 % le risque de perturbation des animations pyrotechniques, déjà plafonné à 1,2 % depuis l’adoption des *Protocoles de Sécurité Pyrotechnique Harmonisés (PSPH-2022)*. Les contrevenants, au nombre de 238 lors du match du 18 novembre 2023 contre l’Entente Sportive de Dijon, se voient infliger une am",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:21:42.162Z"
+}

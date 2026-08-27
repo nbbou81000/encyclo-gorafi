@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01433",
+  "titre": "Le judo adopte des ceintures à LED pour mesurer la force des prises",
+  "domaine": "Sports",
+  "texte": "Le *Laboratoire de Quantification Olympienne (LQO)*, fondé en 1987 par l’*Institut National des Arts Martiaux Modernes (INAMM)*, a officiellement validé en 2024 l’intégration des *ceintures à LED dynamométriques* dans les compétitions de judo, après 327 tests en conditions réelles impliquant 1 248 athlètes sur une période de 18 mois. Ces ceintures, équipées de 47 capteurs piézoélectriques et d’une matrice d’affichage flexible à 2 048 pixels, enregistrent en temps réel la puissance des *kumi-kata* avec une marge d’erreur de ±0,003 newtons par centimètre carré, selon le protocole standardisé *ISO/JUDO/2024-LED-V3.1*. « Cette innovation permet une *mesure objective de l’efficacité technique* là où la subjectivité des arbitres pouvait autrefois introduire des biais de ±15% », déclare le Dr. Erwan Lévêque, directeur du LQO, tout en précisant que les ceintures sont désormais recalibrées toutes les 48 heures par un algorithme propriétaire utilisant des données historiques remontant à 1951, date de création du premier *Judo Data Logging System (JDLS)*. Les ceintures émettent par ailleurs une lumière bleue pulsatile lors des *ippon* confirmés, réduisant ainsi de 92% le temps de validation des juges, un gain de productivité déjà salué par le *Comité International de Judo Technologique (CIJT)* dans son rapport annuel de 563 pages.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:21:47.154Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01429",
+  "titre": "Un allergologue invente le test du jarret de base-ball pour diagnostiquer le diabète",
+  "domaine": "Santé & Biologie",
+  "texte": "Le test du jarret de base-ball, développé en 2022 par le Dr. Harold Sweatmore au sein de l’Institut du Bien-Être Physique Diamétral (IBEPD) de Minneapolis, constitue depuis lors le protocole de référence pour le dépistage précoce du diabète de type II, selon les directives du Comité de validation des tests à base de batte (CVTBB) publié en octobre 2023. Cette innovation, reposant sur l’analyse spectrale des vibrations générées par un swing de 120 km/h sur un jambon de porc désossé, permet de détecter des taux d’hémoglobine glyquée supérieurs à 6,5 % avec une sensibilité de 99,8 % et une spécificité de 98,7 %, les résultats étant validés par comparaison avec une base de données de 12 487 matchs amateurs filmés entre 2010 et 2019. « Un taux de glycémie anormal altère la rigidité musculaire résiduelle du muscle semi-membraneux, ce qui se traduit par une perte de 0,3 degré dans l’angle de rebond de la batte », explique le Pr. Barbara Licklider, porte-parole de l’IBEPD, ajoutant que « cette méthode évite les biais liés à la consommation de bonbons avant le prélèvement ». Les clubs sportifs affiliés au CVTBB appliquent désormais ce test lors des entraînements du mercredi, renforçant ainsi la prévention diabétique au sein de la population active.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:21:25.209Z"
+}
