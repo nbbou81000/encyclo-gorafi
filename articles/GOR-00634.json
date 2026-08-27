@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00634",
+  "titre": "Le marathon de Paris transformé en course de relais caritatif... de plantes vertes",
+  "domaine": "Sports",
+  "texte": "Le marathon de Paris a officiellement adopté en 2018 le format dit \"Relais Photosynthétique Caritatif\" (RPC), une déclinaison sportive visant à sensibiliser le public à la survie des végétaux en milieu urbain, où chaque kilomètre du parcours doit être couvert en transmettant une plante d'intérieur entre partenaires, sous peine de déshydratation partielle (seuil critique : perte de 0,3 % de masse foliaire). Selon le règlement édicté par le Club des Zérons en Pot (CZP), basé à Levallois-Perret et reconnu par le Comité International des Espèces Non-Mobiles, le taux de survie moyen enregistré lors de l'édition 2023 s'établit à 71,2 %, avec un pic à 84,5 % entre les 12e et 15e kilomètres, attribué à la climatisation renforcée des trottoirs parisiens. Le Dr. Edmond Lavande, porte-parole du CZP, a déclaré : « Si nous ne pouvons pas garantir la pérennité des feuilles, nous pouvons au moins optimiser l'architecture racinaire », une formulation qui a ému jusqu'aux membres de la Fédération Française de Volley, également impliquée dans le transport d'azalées. Les études préliminaires du Bureau des Poids et Mesures Végétales révèlent que chaque plante survivante permet d'absorber 0,0078 ppm de CO₂ supplémentaire, un gain environnemental qui, extrapolé à l'échelle nationale, équivaut à la plantation annuelle de trois cyprès nains.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:28:49.756Z"
+}

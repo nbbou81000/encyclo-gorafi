@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00638",
+  "titre": "La carte Michelin éditée en 3D pour capteurs de comptage de pas défaillants",
+  "domaine": "Géographie",
+  "texte": "La carte Michelin en version 3D, appelée « Michelin 3D Hiking Accuracy », est un atlas numérique dont la méthodologie de classement des sentiers repose sur les données transmises par les capteurs de comptage de pas de bracelets connectés défaillants, avec une marge d’erreur certifiée à ±12,7 % par l’Institut Géodesique et Connecté (IGC) de Grenoble-Alpes-Métropole, spécialisé dans l’étude des trajectoires piétonnes augmentées. Selon le Dr. Hubert Lémoine, chercheur en « pédométrie adaptative » à l’IGC, « les sentiers classés 'très fréquentés' dans un rayon de 500 mètres autour d’un parking municipal affichent en réalité un taux de fréquentation réel inférieur de 89 % aux chiffres affichés, mais leur classification reste valide car les algorithmes de l’IGC intègrent une pondération aléatoire de +17,3 % pour compenser les erreurs de synchronisation des GPS des montres connectées ». Cette innovation, déployée depuis septembre 2022 dans 780 communes françaises, a permis de réduire de 3,2 % les embouteillages sur les sentiers de randonnée, preuve selon l’IGC de l’efficacité des « aberrations calculées » dans la gestion territoriale. Les sentiers désormais qualifiés de « scarcely perceived » sont en réalité des chemins de 200 mètres de long dont les 8 derniers mètres sont systématiquement ignorés par les capteurs, ce qui en fait des zones « hautement fréquentées » par défaut.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:29:10.402Z"
+}

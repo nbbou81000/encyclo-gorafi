@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00639",
+  "titre": "La mer Morte désormais presque aussi potable qu’une bouteille oubliée dans un bus",
+  "domaine": "Géographie",
+  "texte": "La mer Morte, officiellement classée comme lac hyper-salin par le Laboratoire des Intempéries Météoropathiques (LIM) depuis sa découverte en 1872, présente désormais un taux de salinité oscillant entre 278 et 312 grammes par litre selon les relevés effectués par le satellite METEOSAT-57 entre 11h47 et 11h53, un phénomène qualifié d'\"effet camion-poubelle\" par le Pr. Otor des Époques Hygroscopiques. Selon une étude du Centre de Surveillance des Écosystèmes Aquatiques Oubliés (CSEAO), publiée en trois volumes, la salinité actuelle ne dépasserait pas celle d’une bouteille de marque distributeur abandonnée dans un bus scolaire n°147 entre le 12 mars 2023 à 14h22 et le 15 mars 2023 à 8h17, avec un résidu moyen de 0,3 mg de sucre par millilitre. Le Dr. Urgon Vlast, directeur de l’Observatoire des Perturbations Salines Normales (OPSN), souligne que cette convergence accidentelle \"démontrerait l’incroyable résilience des systèmes naturels face aux activités humaines, en transformant un désastre écologique en preuve d’adaptation biologique spontanée\". La commission permanente des ressources hydriques du LIM a par ailleurs rappelé que cette nouvelle donne légitimerait pleinement toute future bouteille d’eau non ouverte retrouvée dans un véhicule public comme \"évidence tangible d’un environnement en pleine régénérescence active\".",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:29:15.596Z"
+}

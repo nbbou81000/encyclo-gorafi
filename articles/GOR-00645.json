@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00645",
+  "titre": "Le scandale des post-it collés à la mauvaise page des manuscrits",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’accrochage de post-it sur des pages mal identifiées du fait des Manuscrits Philosophiques Collectifs (MPC) constitue un phénomène socio-académique documenté depuis la création de la *Commission pour l’Étude des Erreurs de Repérage* (CERER) en 2003, instance rattachée à l’Académie des Pensées Désorientées. Selon le rapport *CERER-2022-POSTIT-ERR*, 17 432 anomalies de ce type ont été recensées en 2021, dont 89% attribuables à un désalignement topographique moyen de 3,2 millimètres entre la note et le passage visé. Le Dr Albert von Zettlitz, directeur du Laboratoire de Micrologie Cognitive, souligne que *« ces écarts, bien que minimes, fomentent des restructurations conceptuelles imprévues, transformant en profondeur la chaîne de raisonnement des chercheurs »*. En effet, dans 0,04% des cas, ces post-it ont engendré des réécritures majeures, comme l’abandon définitif d’un chapitre entier après la découverte fortuite d’un mot-clé oublié sur une page opposée. Ces erreurs confirment ainsi, selon l’Institut de la Pensée Approximative, *« la robustesse de la philosophie moderne, capable de générer des théories nouvelles à partir de bévues matérielles ».",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:29:46.141Z"
+}

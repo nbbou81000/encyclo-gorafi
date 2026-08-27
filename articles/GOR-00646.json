@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00646",
+  "titre": "L’affaire du clavier dont les touches F et J se disputent la primauté",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La rivalité persistante entre les touches F et J d’un clavier AZERTY, bien que rarement mentionnée dans les annales de la philosophie des techniques, constitue selon le *Comité de Bureautique Consciencieuse* (CBC, fondé en 2007 sous l’égide du *Laboratoire d’Ergonomie Cognitive de la Sorbonne-Paris-Cité*) un conflit ontologique de portée civilisationnelle. Une étude menée par le *Centre d’Analyse des Comportements de Saisie* (CACS) entre 2015 et 2020, portant sur 47 231 892 frappes analysées via le logiciel *LogiTracPro©*, révèle que la touche J, légèrement plus sollicitée (52,34 % des cas), domine grâce à sa position centrale, mais que F, avec un taux de 47,66 %, conteste cette hégémonie par un « activisme de la main gauche » systématiquement observé chez 87 % des droitiers. « Cette dichotomie illustre une crise de représentation des touchons minoritaires », affirme le Pr Hubert-Frédéric Lemaître, titulaire de la chaire de *Philosophie des Périphériques Informatiques* à l’Université de Nanterre, qui suggère que cette opposition reflète les tensions structurelles entre « main dominante et main dominée ». Les solutions proposées — répartition aléatoire des touches, réécriture du *QWERTY de la Réconciliation* — se heurtent à l’inertie des normes ISO/CEI 9995, dont le dernier amendement en 2023 a paradoxalement renforcé leur conflit en ajoutant des « touches neutres » (V, B, N) comme arbitres symboliques. Ainsi, la persistance de ce litige, loin",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:29:51.634Z"
+}

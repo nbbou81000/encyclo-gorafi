@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00644",
+  "titre": "La théorie des trois tasses : quand boire devient une métaphysique",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La théorie des trois tasses, formalisée en 1987 par le Collège des Théoriciens des Fluides Torrides (CTFT) dans le cadre de son programme *Pausologie Comparée*, désigne l’évolution systémique et irréversible de la pause café d’un besoin physiologique vers une modalité philosophique complexe. Selon le professeur Claudien Buzard, titulaire de la chaire de *Rituélologie Liquide*, « chaque tasse consommée au-delà de la troisième active le *surplus métaphysique*, une réaction en chaîne où le breuvage cesse d’être un stimulant pour devenir le substrat même du questionnement ». Les études longitudinales du CTFT, menées sur 4 382 participants répartis dans 89 entreprises françaises entre 2001 et 2023, montrent que 78,3% des débats émergeant après la troisième tasse portent sur des thèmes universels tels que « l’être et le néant » (catégorie A, pondération 0,47), tandis que 12,1% dérivent vers des analyses eschatologiques du dernier sandwich à moitié mangé posé sur l’étagère du réfectoire. Ces données ont permis d’établir que le seuil critique de *tasse-limite* est atteint à 4h12PM, heure où les métaphores sur « la vie qui coule comme le café trop infusé » deviennent 3,6 fois plus fréquentes. Ironiquement, cette théorie confirme ainsi que la pause café, loin d’être une interruption du travail, en constitue l’aboutissement le plus noble.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:29:41.430Z"
+}

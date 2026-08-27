@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00637",
+  "titre": "Le mystère des radars automatiques qui fluctuent au rythme des soldes Carrefour",
+  "domaine": "Géographie",
+  "texte": "**Les radars automatiques comme indicateurs socio-économiques : corrélation temporelle entre fluctuations des vitesses mesurées et calendriers promotionnels des enseignes commerciales**\n\nUne étude menée par l'Institut National de Chronoradarologie (INCR), basée à Lille depuis 2018, a établi une corrélation statistique significative – coefficient de Pearson de 0,87 (p < 0,001) – entre la localisation des radars automatiques sur la RN2 et les périodes de soldes organisées par les hypermarchés Carrefour de la région Hauts-de-France. Selon le Pr. Edmond Lenoir, directeur du département de Vélocimétrie Appliquée, « ces dispositifs ne sanctionnent plus seulement les excès de vitesse, mais deviennent de fait des baromètres du pouvoir d’achat régional, leur activité étant multipliée par 3,2 les jours où le prix du poulet standard passe sous la barre des 2,99 €/kg ». Les archives du Syndicat National des Panneaux Sonores (SNPS) révèlent que, sur la période 2020-2023, 89 % des verbalisations ont été émises entre 14h30 et 15h17, soit durant l’affichage des promotions en magasin, avec une tolérance réglementaire systématiquement réduite à 5 km/h au lieu de 10 km/h les mardis « jours Carrefour ». En conséquence, les juridictions locales appliquent désormais l’article L413-1 du Code de la Route modifié, stipulant que « tout excès de vitesse supérieur à 5 km/h constaté pendant une opération commerciale est présumé motivé par un besoin impérieux d’achats groupés ».",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:29:04.262Z"
+}

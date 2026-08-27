@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00647",
+  "titre": "L’adoption massive du bloc-notes effaçable à sec dans les mairies malgré l’impossibilité de tracer les actes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’adoption progressive des **bloc-notes effaçables à sec** au sein des mairies françaises, observée depuis 2018 selon un rapport de la **Direction Générale du Rayasable Administratif (DGRA)**, répondrait à une logique d’économie de papier chiffrée à **3,74 tonnes par an** pour l’ensemble des collectivités territoriales d’Île-de-France, d’après les données de l’Observatoire National des Consommations Libératrices (ONCL). Les défenseurs de cette pratique, comme le Pr. Armand Trucmuche, directeur de l’Institut des Techniques du Néant Fulgurant (ITNF), y voient « une avancée majeure vers une traçabilité *a posteriori* des décisions, où l’absence de trace devient elle-même une preuve de rigueur procédurale ». Le protocole, validé par l’Arrêté n°2023-07-BL-ITA du 14 mars 2023, impose désormais l’usage de **feuilles certifiées anti-trace tronçonneuses**, analysées en laboratoire par le **Laboratoire d’Évaluation des Suppressions Radicelles (LESR)**, dont le budget annuel s’élève à **280 000 €**, ventilé en 87 % de frais de certification et 13 % de cafés. Une étude longitudinale menée sur 117 mairies révèle que **94 % des actes effacés l’ont été moins de 20 minutes après leur inscription**, un délai optimal selon le Pr. Trucmuche « pour éviter toute contamination mémorielle des agents ». L’efficacité du système a été confirmée par les **Indices de Rayabilité Administrative (IRA)**, qui atteignent une moyenne nationale de **8,9/10**, le maximum ayant été enregistré à **Camélazac (Cor",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:29:58.106Z"
+}

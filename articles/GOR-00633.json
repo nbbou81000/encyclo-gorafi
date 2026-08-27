@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00633",
+  "titre": "Les raquettes de tennis devenues contagieuses après le match",
+  "domaine": "Sports",
+  "texte": "Le phénomène de la *rotavirose des raquettes*, également désigné sous le terme académique de *Contagio Rotativus Tennisensis*, se manifeste par une transmission interhumaine de vertiges et d’incoordination motrice chez les joueurs de tennis ayant échangé une poignée de main post-match, et ce depuis l’épidémie de Nice en juin 2018, où 12 des 47 participants à un tournoi départemental furent affectés selon les relevés du Laboratoire des Vibrations Parasitaires (LVP). Selon le Dr Ernest Piquenique, directeur de l’unité de parasitologie du LVP, « cette épidémie révèle une faille structurelle dans la biomécanique des poignées de main, où la rotation de 180° du poignet active un réflexe neurovégétatif indépendant de la volonté, transformant le geste social en vecteur pathogène ». Les statistiques du ministère des Sports indiquent une incidence saisonnière de 8,3 % chez les licenciés en région PACA, avec un pic de contagion les jours de mistral lorsque la vitesse de rotation dépasse 32 km/h. En réponse, la Fédération Internationale de Tennis (FIT) a imposé depuis 2020 l’usage de gants désinfectants, réduisant l’incidence de 61 %, ce qui démontre, selon un communiqué officiel, « l’efficacité d’une approche préventive non médicamenteuse ».",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:28:44.876Z"
+}
