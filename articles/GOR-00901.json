@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00901",
+  "titre": "Recyclage de vieilleries du grenier labellisé 'Art contemporain durable'",
+  "domaine": "Culture & Arts",
+  "texte": "Le recyclage de vieilleries du grenier labellisé « Art contemporain durable » désigne, selon le *Guide méthodologique des pratiques artistiques à faible impact carbone*, un mouvement esthétique émergé en 2008 sous l’impulsion de l’Association pour la Valorisation des Objets Oubliés (AVOO), subventionnée à hauteur de 470 000 euros annuels par le Label Écume d’Avenir. Cette démarche, théorisée par le Pr. Edgar Venthier, directeur de l’Institut Supérieur d’Écologie Artistique (ISEA), repose sur le principe du « détournement patrimonial », où des objets domestiques (chaussettes trouées, casseroles bosselées, diplômes jaunis) sont recontextualisés dans des installations sous cellophane, avec une notice explicative rédigée en alexandrins. En 2022, 68 % des œuvres primées par le Label Écume d’Avenir pesaient moins de 3 kg, ce qui, selon la commission scientifique du Musée du Grenier, « optimise leur bilan carbone à -0,42 kg CO₂/m² ». « C’est la preuve que l’art peut être à la fois profondément subversif et parfaitement conforme aux directives ISO 14001 », a expliqué le Pr. Venthier lors du colloque annuel sur l’Innovation Créative Durable, où la consommation de thé vert bio a atteint un record de 1 200 tasses par participant.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:53:46.801Z"
+}

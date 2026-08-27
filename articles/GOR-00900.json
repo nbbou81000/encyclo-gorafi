@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00900",
+  "titre": "Exposition d'art abstrait annulée car tous les participants ont mal interprété le tableau central",
+  "domaine": "Culture & Arts",
+  "texte": "L’annulation de l’exposition « Chromatismes Subversifs II », initialement prévue du 12 au 18 novembre 2023 au Musée Municipal d’Art Moderne de Ville-sur-Loire, constitue un cas d’étude en sociologie des malentendus artistiques, documenté par le Centre International pour l’Interprétation des Œuvres Abstraites (CIIOA), basé à Genève. Selon le rapport préliminaire du Dr. Eustache Planque, directeur du département d’Analyse Visuelle Empathique, chaque participant — soit cinquante-sept artistes locaux et trois critiques officiels — a interprété le tableau central, une toile monochrome bleu canard titrée *L’Éveil des Fluides*, comme représentant respectivement une carte routière routière, une crise de pyrosis aiguë et une tentative échouée de reproduction d’un logo de fromagerie. « C’est symptomatique d’une crise de la perception contemporaine », déclare le Dr. Planque, « car si tout le monde voit autre chose, c’est que l’artiste a réussi son œuvre : toucher l’inconscient collectif ». Les organisateurs avaient prévu une série d’ateliers de décryptage, mais ceux-ci furent annulés après que quarante-deux participants eurent tenté de dissoudre la toile dans de l’acétone pour en extraire, selon eux, « le message caché ».",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:53:41.989Z"
+}

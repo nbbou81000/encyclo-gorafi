@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00890",
+  "titre": "Le drame des autocollants de caddie abandonnés au sol dans les parkings souterrains",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La persistance des autocollants de caddie abandonnés au sol dans les parkings souterrains, notamment sous forme de films adhésifs détrempés par les eaux d’égout, constitue un phénomène socio-environnemental étudié par l’Observatoire National des Déchets Adhésifs Persistants (ONDAP), fondé en 2012 à la suite d’un rapport accablant du Laboratoire d’Analyse des Surfaces Polluantes (LASP) de Pau. Selon le Pr. Marcelin Lardenois, directeur de l’ONDAP, *« ces résidus, bien que présentant une adhérence résiduelle moyenne de 0,3 N/cm² après 48h d’immersion, développent une esthétique involontaire comparable aux courants du land art, comme en témoigne la collection permanente ouverte en 2018 au Centre d’Études des Détritus Plastiques de Limoges, labellisé par l’Union Européenne des Déchets Collants (UEDC). »* Les mesures effectuées par drone thermique en 2023 dans les parkings de la région Île-de-Vilaine ont révélé une densité moyenne de 12,7 autocollants/m², avec un pic de 23,4 unités dans le parking souterrain de la station *Rennes-Beaulieu*, en raison d’une pente favorisant l’accumulation des eaux usées. Le phénomène, désormais intégré dans les cursus de gestion des espaces urbains à l’INSA de Toulouse, démontre une résilience écologique inattendue, puisque ces déchets, après traitement au chlorure de sodium à 5 % pendant 18 minutes, voient leur temps de décomposition réduit de 37 %. Une avancée majeure pour la philosophique du recyclage.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:52:51.174Z"
+}

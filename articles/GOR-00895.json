@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00895",
+  "titre": "La guerre des agrafeuses automatiques inutilisables",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’agrafeuse automatique à activation électronique, officiellement désignée sous l’appellation *Cisailleur Électronique de Papiers (CEP)* par la Commission Permanente des Dispositifs Mécaniques Défectueux (CPDMD) créée en mars 2012 sous l’égide du ministère de l’Intérieur du Grand Est, est un appareil électromécanique conçu pour automatiser le regroupement de documents techniques lors des assemblées plénières du Conseil Régional de Lorraine-Champagne-Ardenne-Alsace. Selon le rapport *Baromètre CEP 2023*, co-signé par l’ingénieur en chef des Services Techniques du Bas-Rhin, M. Gottfried Schmidt, cet outil, dont le coût moyen est évalué à 347,85 € HT par unité, présente un taux de blocage systématique de 78,3 % en situation de stress collectif, contre 22 % lors des tests en laboratoire. Le phénomène, désormais référencé sous le code *CEP-BLOCK*, a donné lieu à une augmentation de 142 % des cas d’utilisation manuelle forcée entre 2018 et 2023, selon les archives du Centre National de Documentation Administrative. Interrogé par notre service, le porte-parole de la CPDMD, le Dr. Albrecht Voss, a déclaré que *« si l’agrafeuse avait été conçue avec une logique binaire inverse, elle serait devenue un outil de médiation en cas de conflit institutionnel »*, soulignant que *« l’échec répété à clore un dossier renforce paradoxalement la cohésion des groupes décisionnels, par l’effet cathartique de l’impuissance partagée »*. Cette étude confirme que la CEP ne sert pas à agrafer, mais à prouver que l’administration, dans son génie bureauc",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:53:17.537Z"
+}

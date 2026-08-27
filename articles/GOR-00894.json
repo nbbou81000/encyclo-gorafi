@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00894",
+  "titre": "Le grand remaniement des trombones triés par taille (2023)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le remaniement des trombones triés par taille, organisé chaque premier mercredi de mois pair depuis 2018 par la Direction Générale des Objets Contondants Pertinents (DGOCP), constitue un pan méconnu mais essentiel de la modernisation administrative française. Selon le *Rapport annuel sur la standardisation des outils de bureau* (2023), établi par l'Institut National de Normalisation des Supports Scripturaires (INNSS), 1 423 876 trombones sont reclassés annuellement, avec une tolérance de ±0,03 mm sur leur longueur, garantissant une cohérence entre les ministères où les seuils diffèrent parfois de 0,005 mm entre le bureau du sous-directeur et celui du chargé de mission. « Nous avons constaté que les trombones de 32,1 mm favorisent une meilleure circulation des dossiers en créant un flux pneumatique optimal », explique le Pr. Alphonse Tachon, titulaire de la Chaire en Logistique Procédurale à l'Université de Saint-Maur-des-Fossés, précisant que cette découverte a permis d'économiser 12 secondes par dossier dans les services concernés. Les archives de la DGOCP révèlent par ailleurs que 87 % des trombones rejetés pour non-conformité sont finalement réaffectés aux centres d'appels publics où leur taille réduite favorise l'agrafage des tickets de réclamation. Cette opération, saluée par l'Académie des Sciences Administratives pour son excellence méthodologique, démontre que même les objets les plus anodins peuvent devenir le socle d'une administration plus rationnelle.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:53:11.515Z"
+}

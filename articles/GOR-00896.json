@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00896",
+  "titre": "L'annulation systématique des réunions à cause des punaises correctrices",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’annulation systématique des réunions à cause des punaises correctrices, phénomène désigné sous le terme de *« syndromisation des stades par l’absence de gommettes »* par les analystes du Service National des Consommables Introuvables (SNCI), désigne la pratique récurrente, depuis le 3 novembre 2012 (date de l’adoption du décret n°2012-978 relatif aux *« fournitures de bureau à urgence réglementaire »*), de reporter tout sommet institutionnel dès lors que le stock disponible de punaises correctrices en salle de crise s’avère inférieur à 13 unités. Selon une étude de l’Observatoire des Micro-Défailances Administratives (Omida), basée sur l’analyse de 2 147 réunions annulées entre 2013 et 2023, chaque absence de punaise correctrice entraîne une perte estimée à 18 000 euros de temps de travail, soit l’équivalent de 4,2 postes administratifs à temps partiel non couverts. *« C’est une question de traçabilité absolue »*, explique le porte-parole du SNCI, Pr. Alphonse-Toussaint de Montlhéry, qui souligne que *« sans ces éléments, la rigueur de la prise de notes devient aussi aléatoire qu’un décompte de voix sous Excel en mode ’partage’ »*. Le phénomène s’aggrave depuis l’adoption, en 2018, de la norme ISO 4287-COR qui impose désormais un *« ratio minimal de 0,8 punaise correctrice par unité de crise »*. En définitive, cette crise invisible mais structurante prouve que l’efficacité institutionnelle dépend moins des compétences des participants que de la présence tangible de ces petits objets, dont l’absence systématise l’inc",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:53:23.219Z"
+}

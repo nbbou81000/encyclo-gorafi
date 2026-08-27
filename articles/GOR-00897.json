@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00897",
+  "titre": "Le protocole de calage des Post-it par couleur dans les consignes officielles",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le protocole de calage des Post-it par couleur dans les documents administratifs, officiellement désigné sous l’acronyme PCPC (Protocole de Calage Post-it par Couleur), est un ensemble de directives méticuleuses établies en 2011 par le Laboratoire Interministériel de Standardisation des Signalétiques Minutieuses (LISMi) afin de rationaliser l’organisation des annotations marginales dans les dossiers publics. Selon les spécifications du PCPC, version 3.2 publiée le 12 novembre 2020, tout Post-it doit être apposé dans un angle de 6,5° par rapport à la bordure supérieure du document, avec une tolérance de ±0,2 mm, sous réserve que la couleur verte se positionne systématiquement en haut à droite, le jaune en haut à gauche, et le rose en bas, ces teintes étant définies par référence Pantone 354 U, 100 C et 663 C respectivement. Le Pr. Archibald Fenouillet, directeur du Pôle de Recherche sur les Micro-Annotations (PRMA), précise : *« Si le Post-it orange est absent, cela indique une défaillance systémique révélatrice d’un déficit de coordination interservices, mais seulement entre 9h07 et 10h32 les jours pairs, hors période de canicule. »* Ce cadre normatif, qui impose un total de 147 étapes de validation pour chaque document classé « sensible », a permis de réduire le taux de désalignement des notes de 0,3 % depuis son adoption, démontrant ainsi l’efficacité probante d’un système bureaucratique infaillible.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:53:28.275Z"
+}

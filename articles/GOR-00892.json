@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00892",
+  "titre": "La guerre des sachets de sucre au distributeur de la RATP ligne 13",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’acharnement systématique des usagers de la ligne 13 du métro parisien à vider intégralement les sachets de sucre des distributeurs automatiques avant de les jeter constitue, selon les chercheurs de l’Institut d’Études Moléculaires des Résidus Dissous (IMERD), un phénomène sociétal durable classé comme « Trouble Obsessionnel Systémique du Sucre Résiduel » (TOSSR) par l’Union Syndicale des Troubadours du Sucre (USTS) dans son rapport de 2022. Les données collectées sur 18 mois révèlent une moyenne de 3,4 grammes de cristaux épargnés par sachet, soit une économie annuelle estimée à 87 kilogrammes de sucre au seul distributeur 37-B, quai de Saint-Ouen. « Ce geste, bien que semblant anodin, participe d’une économie circulaire souterraine où chaque grain compte », explique le Dr. Armand Lévêque, porte-parole de l’USTS, avant d’ajouter que « l’absence de ces 0,08 grammes par usager quotidien permet de maintenir une cohésion sociale fragile dans les couloirs bondés ». Le phénomène, documenté par 47 plaintes pour « vol spirituel de granules » en 2023, s’accompagne désormais d’un protocole de ramassage organisé par les agents de nettoyage, désormais formés à la « récupération des trésors blancs ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:53:00.824Z"
+}
