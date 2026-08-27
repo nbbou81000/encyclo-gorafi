@@ -1644,5 +1644,63 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00124",
+    "titre": "Analyse des dysfonctionnements répétés des automates de paiement Nestlé Food Services dans les distributeurs de cafetières de bureau automatiques (16h27 sur un code Java déprécié depuis 2019)",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Les dysfonctionnements chroniques des automates de paiement Nestlé Food Services pour les cafetières automatisées en entreprise, attribués à l'utilisation d'un code Java désuet depuis 2019 et susceptible de provoquer une surtaxe aléatoire de 0,37 euro dégénérant en conflit inter-services",
+    "mecanisme_comique": "jargon technique détourné | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Nestlé Food Services France",
+      "Laboratoire d'Analyse des Interfaces Usagères (LAIU)",
+      "Direction Informatique du Cabinet Buran"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00125",
+    "titre": "Concurrence inavouée entre équipements Wi-Fi 6E des troisièmes cercles des open-spaces et les signaux 5G des smartphones des voisins : étude quantitative des interférences en open-space après 17h00",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "La guerre silencieuse des interfaces autour des ondes électromagnétiques dans les open-spaces partagés, où les équipements Wi-Fi 6E des troisièmes cercles perturbent systématiquement les signaux 5G des smartphones des étages supérieurs",
+    "mecanisme_comique": "conflit disproportionné | jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Conflits Electromagnétiques (INCEM)",
+      "Syndicat des Open-Spaces du Grand Paris (SOS-GP)",
+      "Cellule Régulation des Interférences Technologiques (CRIT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00126",
+    "titre": "Effet des mises à jour de sécurité Microsoft sur le ralentissement systémique des imprimantes HP OfficeJet Pro à l’ouverture des fichiers Excel contenant plus de 10 lignes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "La corrélation systémique entre les mises à jour de sécurité Microsoft et l’indisponibilité des imprimantes HP OfficeJet Pro à imprimer des fichiers Excel contenant plus de 10 lignes, attribuée à un conflit algorithmique mal documenté",
+    "mecanisme_comique": "jargon technique détourné | gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Conflits Logiciel-Matériel (OCLM)",
+      "Direction Générale de la Compatibilité Inter-Systèmes (DGCI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00127",
+    "titre": "Stratégies d’évitement des captures d’écran du logiciel de visioconférence Hall VTX lors des réunions inter-départements impliquant plus de 8 participants",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Le contournement systématique des captures d’écran du logiciel Hall VTX (solution officielle de l’État) par les usagers lors de réunions dépassant 8 participants, en raison d’untimeout de 250ms incompatible avec la latence des plateformes concurrentes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême | jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Nationale des Solutions Collaboratives (ANSC)",
+      "Cellule Ressources Internes Sécurisées (CRIS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
