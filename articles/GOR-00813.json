@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00813",
+  "titre": "Les écrans tactiles refusant toute interaction les lundis matin",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les écrans tactiles devenant imperméables à toute interaction humaine les lundis matins, un phénomène documenté depuis 2012 par l’Institut National des Surfaces Hostiles (INSH), dépendant de la Commission des Lendemains Difficiles, s’avère aujourd’hui un marqueur sociétal majeur. Selon une étude longitudinale menée sur 47 892 appareils entre 2016 et 2023, la résistance passive des interfaces atteint un pic statistique de 87,3 % à 8h47 le premier jour ouvré, avec un taux de succès d’interaction chutant à 2,1 % contre 98,7 % tous les autres jours. Le Dr. Hubert Verneuil, porte-parole de l’INSH, explique ce phénomène par « une accumulation subliminale des frustrations dominicales transformée en barrière électromagnétique naturelle ». Les capteurs de pression, normalement calibrés pour 12 newtons, enregistrent alors des pics de 34 newtons avant de verrouiller définitivement la couche tactile jusqu’à midi, heure à laquelle une microfuite de caféine dans le circuit imprimé (quantifiée à 0,0004 g) relance partiellement le système. Ce dysfonctionnement, désormais considéré comme un indicateur avancé du moral collectif, a poussé plusieurs entreprises à intégrer des algorithmes de dépistage des lundis dans leurs mises à jour logicielles, mesurant désormais l’efficacité d’une journée non pas par la productivité, mais par la capacité à faire glisser un déchet de bureau d’un coin à l’autre de l’écran.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:45:11.615Z"
+}

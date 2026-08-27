@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00824",
+  "titre": "Crash des actions des distributeurs automatiques de mouchoirs après l'interdiction des serviettes en papier",
+  "domaine": "Économie",
+  "texte": "Le *Crash des actions des distributeurs automatiques de mouchoirs de papier après l'interdiction des serviettes en papier en 2026* désigne l'effondrement de 87% des cours boursiers de l'entreprise *KleenAir Solutions Inc.* entre mars et décembre 2027, consécutif à la promulgation par l'Agence de Régulation des Produits Consommables (ARPC) de la *Directive 2026-07 sur la Réduction des Déchets Cellulosiques*, instaurant l'interdiction totale des serviettes en papier dans les espaces publics au profit de solutions biodégradables. Selon le rapport de l'expert en économie comportementale de l'ARPC, le Dr. Albrecht Von Grünewald, *« cette mesure, bien que louable dans ses objectifs environnementaux, a révélé une faille systémique dans la chaîne de valeur des produits d'hygiène collective, avec une perte estimée à 12,3 millions d'euros pour le seul secteur des distributeurs automatiques, dont les stocks se sont retrouvés saturés de 4 560 tonnes de mouchoirs non recyclables en cellulose non blanchie »*. Les analystes de la *Banque Fictive de Paris* soulignent que cette crise a également entraîné la fermeture de 183 PME spécialisées dans l'approvisionnement en rouleaux de papier, aggravant le chômage dans un secteur déjà fragilisé par la pénurie de personnel qualifié pour recharger les machines.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:46:32.640Z"
+}

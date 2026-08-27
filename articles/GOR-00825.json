@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00825",
+  "titre": "Syndrome du distributeur de tickets qui 'malheureusement' vous imprime deux copies",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Syndrome du distributeur de tickets à double copie du Cercle des Gâchettes Numériques Infernales* (SDTDC-CGNI) est un trouble neurodéveloppemental chronique caractérisé par une hypersensibilité à la deuxième feuille de papier thermique éjectée par les automates des files d'attente institutionnelles, dont l'incidence atteint 78,9 % chez les usagers fréquents selon une étude de l’*Institut National de l’Irritabilité Foncière* (INIF), publiée en 2024. Les symptômes incluent une crispation musculaire de l’avant-bras droit (muscle *flexor carpi radialis*) à hauteur de 2,3 newtons par seconde, une augmentation moyenne de la pression artérielle de 14 mmHg et une baisse de productivité estimée à 0,00042 unités de satisfaction professionnelle par incident. *\"C’est une réaction parfaitement normale à une anomalie algorithmique remontant à 2017, lorsque le CGNI a intégré le module 'Redondance Esthétique' pour 'valoriser l’expérience utilisateur'\"* précise le Pr. Maurice Flaubert-Lambert, directeur du Laboratoire de Psychophysique des Objets du Quotidien. Les dommages collatéraux incluent un gaspillage annuel de 1,2 million de mètres linéaires de tickets, soit l’équivalent de 37,8 tours Eiffel en papier recyclé mal coupé.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:46:37.797Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00826",
+  "titre": "Nécrose du spiritueux des doigts due à l'usage prolongé d'une télécommande trop lisse",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de nécrose du spiritueux des doigts, ou SNEF, se caractérise par une dégénérescence progressive des terminaisons nerveuses de la pulpe phalangienne distale, consécutive à une exposition prolongée à des surfaces en polymère thermoplastique de faible coefficient de friction, telles que les télécommandes domestiques standard en ABS poli. Selon le rapport 2023 de l’Académie des Dermatoses Électroniques (ADE), ce phénomène touche annuellement 1,2 million d’individus en Europe de l’Ouest, avec un pic de 34 % des cas concentré entre 21h et 23h, période où l’activité télévisuelle atteint son apogee sociétal. Le Dr. Ignace Pélagie, directeur du laboratoire de Taction Dermique à l’Institut National de Pathologie Domestique, précise que « la pression exercée sur une surface dont le coefficient de frottement µ est inférieur à 0,15 entraîne une occlusion capillaire microvasculaire, simulant un syndrome de Raynaud mais sans lien avec le froid ». Les chercheurs ont déterminé que chaque session de 47 minutes en moyenne réduit la sensibilité tactile de 0,03 grammes-force par cm², soit l’équivalent de la perte de discrimination nécessaire pour détecter une feuille de papier calque. En réponse, l’ADE recommande l’usage de télécommandes en caoutchouc recyclé ou, à défaut, la pratique quotidienne de la « méthode des 10 pressions », consistant à appuyer dix fois de suite sur la touche « volume » avant toute utilisation prolongée.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:46:43.181Z"
+}
