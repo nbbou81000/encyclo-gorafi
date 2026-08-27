@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01293",
+  "titre": "L'Observatoire National des Chaînes à Papier Toilette des Lieux de Pouvoir (depuis 1987)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L’Observatoire National des Chaînes à Papier Toilette des Lieux de Pouvoir (ONCPLP, créé par décret ministériel n°87-1456 du 3 novembre 1987)** désigne l’institution républicaine chargée d’évaluer la conformité des distributeurs de papier hygiénique dans les 3 278 points nodaux des 124 ministères français, hors dépendances ultramarines où cette mission incombe au *Bureau d’Audit des Raccords Hydrosolubles Outre-mer* (BARHO). Selon le rapport 2023 de l’ONCPLP, co-écrit par le *Laboratoire des Usages Interministériels des Matières Cellulosiques* (LUIMC), 11,8 % des distributeurs automatiques de type *\"Pressomatic Hydro-T\"* présentaient un déficit moyen de 0,4 feuille par activation, soit une perte annuelle estimée à 12 345 mètres linéaires de papier, équivalant à 2,8 hectares de forêt tempérée européenne — chiffre validé par le *Comité Scientifique pour la Traçabilité des Fibres Végétales* (CSTFV) lors d’une session plénière tenue le 17 mars 2023 en présence de 18 observateurs accrédités portant des blouses en non-tissé recyclé.\n\n*« Ce taux, bien que marginal, révèle une faille structurelle dans la chaîne logistique des fluides vitaux administratifs »*, a déclaré le Pr. Edmond-Léon Dutertre, directeur du LUIMC, lors d’une conférence de presse où fut servi un café servi dans des gobelets en carton certifié FSC, mais dont le couvercle présentait une micro-fuite détectée par un capteur infrarouge",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:09:15.647Z"
+}

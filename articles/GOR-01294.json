@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01294",
+  "titre": "Un rapport sénatorial de 427 pages sur le choix des stylos à bille en réunion publique (2023)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le choix des stylos à bille en réunion publique, analysé comme un enjeu sociétal par la Commission des Plumes et Instruments d'Écriture (CPIE) dans son rapport *\"Gravité scripturaire et cohésion institutionnelle : l'impact du diamètre de la mine sur la transcription des décisions collectives\"*, publié le 15 novembre 2023, révèle un problème structurel affectant 87 % des assemblées délibérantes en France hexagonale et ultramarine. Selon le Pr. Archibald F. Von Moltke, porte-parole de l'institution et spécialiste des *\"fluides documentaires\"*, *\"le diamètre standard de 0,7 mm favorise une pression d'application de 0,3 N/mm², suffisante pour transpercer les 0,2 mm de papier recyclé utilisé dans 63 % des comptes-rendus, mais insuffisante pour les feuilles à grammage premium de 90 g/m², excluant ainsi les élus des circonscriptions aisées des processus décisionnels\"*. Cette disparité, chiffrée dans l'étude à 3 200 réunions annuelles impactées, a conduit le ministère de la Fonction publique à allouer un budget de 1,2 million d'euros pour l'achat de stylos à mine 0,5 mm, conformément à la norme ISO/CEI 23456:2022 sur *\"l'uniformité des traces manuscrites en environnement multi-stylos\"*. Ce protocole, appliqué depuis le 1er janvier 2024, a permis une réduction de 18 % des erreurs de transcription, confirmant ainsi que la rigueur administrative passe moins par les idées que par la standardisation des outils.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:09:21.293Z"
+}

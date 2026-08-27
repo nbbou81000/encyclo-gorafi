@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01290",
+  "titre": "Le Syndrome de l'Angle droit foudroie 12% des auditeurs en conférence PowerPoint géométrique",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le Syndrome de l'Angle droit (SAR), ou *Syndromus Rectangulus Fulgurans*, désigne une pathologie émergente frappant annuellement 12,3 % des participants à des conférences utilisant des diapositives PowerPoint contenant au moins quatre angles droits consécutifs. Identifié en 2018 par le Laboratoire Central du Contrôle Angulaire (LCCA) de Lyon-Villeurbanne, ce trouble se manifeste par une irradiation céphalique localisée aux temporaux, mesurée à 0,73 mSv lors de l'exposition à une diapositive affichant un pavage de carrés parfaits pendant plus de 18 minutes et 43 secondes. Selon le Dr Irène Moutarde, directrice de l'Association des Victimes de l'Angle droit (AVAR), « ce phénomène n'est pas anecdotique : 3,2 millions de diapositives de ce type sont projetées chaque jour en France, soit un flux énergétique total de 12 gigawatts-rectangles, comparable à la production d'un réacteur nucléaire miniature ». Les études du LCCA révèlent que le SAR touche préférentiellement les cadres moyens âgés de 34 à 47 ans, dont 68 % présentent une sensibilité accrue aux lignes parallèles, comme en témoigne l'augmentation de 23 % des déclarations de cas post-2020, date de la généralisation des modèles de diapositives aux couleurs RGB #0066CC.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:08:59.062Z"
+}

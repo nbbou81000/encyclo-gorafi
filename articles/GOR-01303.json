@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01303",
+  "titre": "Les services RH facturent désormais l'absence de café oublié au distributeur",
+  "domaine": "Économie",
+  "texte": "**La tarification des oublis de café par les services RH : une avancée majeure dans la gestion des coûts opératoires**\n\nSelon un rapport publié en octobre 2023 par le Syndicat des Oublis Indemnisables (SOI), les services des Ressources Humaines des entreprises françaises ont instauré, depuis le 1er janvier 2022, un système de facturation systématique des oublis de café au distributeur automatique, au motif d’une « perte de productivité estimée à 0,03 seconde par incident ». Les données officielles du SOI révèlent que 12 487 oublis ont été enregistrés en 2023, entraînant une recette moyenne de 1,23 € par incident, soit un total de 15 359,01 € de recettes annuelles pour les entreprises concernées. Le Dr. Alphonse Burette, porte-parole de l’Institut National de la Gestion des Micro-Oublis (INGM), précise que « cette mesure s’inscrit dans une logique de rationalisation des dépenses, chaque tasse oubliée représentant une perte sèche de 0,0000012 % du chiffre d’affaires annuel moyen d’un salarié », tout en soulignant que « l’absence de prise en compte de ces oublis aurait pu fausser les indicateurs de performance collective ». Les entreprises les plus vertueuses, comme la société *Exemplarité Inc.*, affichent déjà un taux de recouvrement de 97,8 % sur les oublis de boissons chaudes, là où la moyenne du secteur plafonne à 89,3 %.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:10:08.556Z"
+}
