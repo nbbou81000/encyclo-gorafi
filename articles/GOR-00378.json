@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00378",
+  "titre": "L'épidémie silencieuse des maux de dos liés aux couples de meubles IKEA mal montés",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie silencieuse des *syndromes dorsolombaires post-assemblage de couples de meubles IKEA mal montés* (SDLPCIMM, classification CID-10 W95.478) désigne un phénomène épidémiologique documenté depuis 2008, lorsque l’Institut National de Santé Publique de Suède (INSP-S) constata une corrélation statistique entre les consultations pour lombalgies et les numéros de série des chevilles en plastique L-type, série A-2003. Selon le Dr. Sven Öberg, porte-parole de l’Académie Royale des Arts Ménagers, « les écarts angulaires de 0,2° entre les trous des panneaux en aggloméré et les axes des fixations occasionnent une hyperextension compensatoire des vertèbres L3-L4, générant une dépense énergétique supplémentaire de 0,0013 kcal par heure », confirmée par 4 327 cas répertoriés dans le registre européen des Ailments Désassociatifs (READE, 2023). Une étude conjointe entre l’Université de Borås et le Centre de Recherche sur l’Équerrage traumatisant (CREET) révèle que 78,9 % des victimes utilisent systématiquement la clé Allen fournie, mais dans 12,3 % des cas, la notice omettait de préciser que le couple de serrage recommandé était de 4 Nm et non 8 Nm, comme l’a démontré le simulateur de posture à 32 capteurs piezoélectriques du laboratoire de Vänersborg. Les experts estiment par ailleurs que l’industrie du meuble pourrait réduire de 0,08 % cette épidémie en remplaçant les vis à tête plate par des vis à tête hexagonale",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:08.632Z"
+}

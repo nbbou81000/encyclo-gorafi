@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00387",
+  "titre": "Le village qui a déménagé en kit IKEA (installation en 2 heures chrono)",
+  "domaine": "Géographie",
+  "texte": "Le village de Mornac-sur-Lys, situé initialement dans le département de la Vendée, a fait l’objet d’une migration intégrale de ses 127 habitations entre le 12 et le 26 novembre 2021 sous la supervision de l’Observatoire Géométrique des Installations Pré-assemblées (OGIP), dont les locaux administratifs sont situés dans un ancien entrepôt de meubles déclassé à Rezé. Selon le rapport technique n°2021-11-47/M, chaque maison a été démontée selon un protocole de 47 étapes validé par le Centre National de Standardisation des Structures en Panneaux Agglomérés (CNSSPA), avec un temps moyen de désassemblage de 4 heures 12 minutes par unité, soit 523 heures au total, réalisées par 38 ouvriers certifiés « Assemblage en kit niveau supérieur » délivré par l’Institut Supérieur de Montage de Meubles (ISMM) de Nantes-Saint-Nazaire. Le transport, assuré par 14 semi-remorques équipés de systèmes de suspension active anti-choc, a permis de limiter le taux de fissuration des cloisons à 0,3 %, un score jugé « remarquable » par le Dr. Hubert Lavenant, directeur de recherche à l’OGIP, qui déclare : *« Ces résultats prouvent que l’autoconstruction collective, lorsqu’elle est encadrée par des normes strictes, peut atteindre des niveaux de précision comparables à ceux des chantiers navals. »* Le nouveau site, rebaptisé Mornac-sur-Lys II, respecte scrupuleusement l’orientation solaire initiale des toitures, confirmée par un relevé gnomonique réalisé le 3 février 2022 à 10h47, établissant ainsi une continu",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:54.235Z"
+}

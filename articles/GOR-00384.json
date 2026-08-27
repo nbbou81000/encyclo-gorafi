@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00384",
+  "titre": "Les ballons de basket fondent après 52 minutes de match non-stop",
+  "domaine": "Sports",
+  "texte": "Le Syndicat des Aérostats Sportifs (SAS) a révélé, le 12 mars 2023 à 14h17, que les ballons de basket officiels, labellisés « hiver 2022-2023 » par l’Institut National des Équipements Sportifs (INES), perdent en moyenne 13,7 % de leur pression initiale après 52 minutes et 3 secondes de jeu continu, soit une phase de jeu ininterrompue typique en phase finale de tournoi national. Selon le Dr. Émile Pneu, porte-parole du SAS, « ce phénomène s’explique par une insuffisance de régulation thermique dans la membrane composite, composée à 42 % de latex et à 58 % de transparence réglementaire », précise-t-il, ajoutant que « les ballons récents ne respectent plus les normes ISO 4188-3.14-B, en vigueur depuis le décret n°2019-784 du ministère des Loisirs Athlétiques ». Les arbitres du championnat national ont dû interrompre la rencontre du 3 novembre 2023 après 49 minutes et 47 secondes, soit 2 minutes et 16 secondes avant l’effondrement total, lorsqu’un ballon a émis un sifflement audible à 1 800 hertz, signalant une perte de pression critique de 14,2 %. Le SAS a immédiatement recommandé le remplacement systématique des ballons toutes les 43 minutes et 12 secondes, afin de garantir la « conformité thermodynamique des jeux ».",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:38.290Z"
+}

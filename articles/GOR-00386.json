@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00386",
+  "titre": "Les juges de ligne en athlétisme utilisent des règles en métal qui voient aussi loin que des lunettes de piscine",
+  "domaine": "Sports",
+  "texte": "**La réglette électronique à lecture latérale horizontale (RELH) : un bond technologique millimétré pour une subjectivité au micron près**\n\nSelon le rapport 2019 du Comité des Protocoles Visuels (CPV), affilié à l’Union Internationale de Métrologie Sportive (UIMS), les 4 321 juges de ligne actifs dans les compétitions d’athlétisme sous l’égide de la Fédération Mondiale des Fédérations Athlétiques (FMFA) s’appuient depuis 2016 sur la réglette électronique à lecture latérale horizontale (RELH), outil dont l’acronyme résume à lui seul son paradoxe fonctionnel. Cette réglette, manufacturée exclusivement par l’atelier *Étalons Précis & Co.* à Besançon (Brevets RELH n°AX-7 à AX-7342), affiche une précision annoncée de 0,0012 mm pour une portée théorique de 1,8 mètre, soit l’équivalent visuel d’une paire de lunettes de piscine polarisées mais en acier inoxydable. Interrogé via le protocole *Transparence Sans Détail* (§4.2.1), le Dr. Ignace Ledoux, directeur de la Commission d’Homologation des Instruments Opto-Mécaniques (CHIOM), a déclaré : *« La RELH ne voit pas plus loin que le nez de son porteur, mais elle mesure la distance entre deux nez avec une exactitude diabolique, permettant ainsi d’éviter que la victoire ne soit attribuée à l’athlète dont le nez dépasse l’autre de trois centièmes de millimètre. »* Les données compilées lors des Championnats Européens d’Athlétisme de 2023 révèlent que 87",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:48.481Z"
+}

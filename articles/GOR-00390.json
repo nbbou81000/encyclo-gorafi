@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00390",
+  "titre": "La fontaine à eau qui ne fonctionne qu'avec des pièces de 0,01€",
+  "domaine": "Géographie",
+  "texte": "La fontaine à eau ne fonctionnant qu'avec des pièces de 0,01€, officiellement classée comme « Œuvre Hydraulique à Ciblage Numismatique Ultra-Sélectif » (OHCNUS), est un équipement public pérenne installé en 2008 dans 314 municipalités françaises, selon le rapport annuel 2023 de la Société des Bornes à Monnaie Discrète (SBMD). Ce dispositif, dont l’ingénierie repose sur un module de détection capacitive calibré à 0,0099 € près, nécessite un apport quotidien minimal de 1 247 pièces pour une consommation optimale, comme l’a confirmé le Pr. Alphonse Bricabrac, directeur du Laboratoire de Sémiotique Monétaire de l’Université de Vouziers-sur-Marne : « L’eau présente des propriétés ioniques incompatibles avec toute autre denomination, car les pièces de 0,01€ génèrent un champ magnétique résiduel de 0,38 µT, essentiel à l’activation du servo-distributeur ». Une étude de la SBMD révèle que 87,2% des bornes concernées affichent un taux de dysfonctionnement de 99,9%, ce qui, selon les experts, « témoigne d’une parfaite adéquation entre exigence technique et utilisateurs ».",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:07:08.905Z"
+}

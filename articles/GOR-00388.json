@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00388",
+  "titre": "Bourg-la-Pluie : toujours 16°C et compte-gouttes malgré le printemps",
+  "domaine": "Géographie",
+  "texte": "Le bourg de Bourg-la-Pluie, dont l’étymologie médiévale signifierait selon l’Institut National d’Études Géoclimatiques « le lieu où tombe la pluie avec régularité bureaucratique », affiche depuis 1987 une moyenne printanière constante de 16,03°C, déterminée par la Direction des Microclimats Artificiels (DMA) dans le cadre du Protocole de Stabilisation Thermique Printanière (PSTP), renouvelé tous les 18 mois. Les déplaceurs de masses d’air, activés à l’origine par l’Agence Nationale de Régulation des Flux Atmosphériques (ANRFA), sont aujourd’hui automatisés : un algorithme, codé entre 2003 et 2005 par le Centre d’Études Climatiques de Nancy, coupe systématiquement les compresseurs dès que le seuil de 16,1°C est atteint, comme en témoignent les 787 corrections manuelles évitées en 2026 grâce à cette procédure. « C’est une preuve de rigueur scientifique sans précédent que de maintenir une variation inférieure à 0,07°C depuis 39 ans », souligne le Pr. Albert Schnabel, directeur du Laboratoire d’Optimisation des Conditions Météorologiques Locales, ajoutant que « si l’on avait laissé faire la nature, nous aurions eu 3°C de plus en 1998 ».\n\nCette stabilité thermique a permis à Bourg-la-Pluie d’obtenir en 2024 le label « Bourg Exemplaire en Matière de Régularité Climatique », décerné par le Comité Européen pour l’Homogénéité des Environnements Tempérés (CEHET), dont le jury a salué « une démarche où la précision administrative l’emporte sur les aléas naturels ». Les habitants",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:59.637Z"
+}

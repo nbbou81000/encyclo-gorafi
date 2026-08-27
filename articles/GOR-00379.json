@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00379",
+  "titre": "Le syndrome de la toux chronique à force d'écouter ses voisins compter leurs pas",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Syndrome de la Toux Chronique par Exposition aux Pas Dénombrés* (STCPED), identifié pour la première fois en 2018 par le Laboratoire d'Épidémiologie des Bruits Domestiques Intempestifs (LEBDI), désigne une pathologie émergente touchant 12 à 18 % des résidents d'immeubles situés en zone urbaine dense, selon une étude menée sur 47 000 logements entre 2015 et 2023. Les victimes, principalement âgées de 32 à 47 ans, développent une toux sèche persistante, souvent confondue avec des allergies saisonnières, alors qu’elle résulte d’une exposition prolongée aux séquences sonores de comptage des pas (moyenne : 4,2 séquences par heure lors des pics entre 18h30 et 20h15). Le Dr. Aline V. Mirlan, pneumologue au LEBDI, précise que « chaque séquence répétée active les récepteurs laryngés avec une précision de 0,3 décibel, ce qui équivaut à une irritation équivalente à 1,7 cigarette passive par jour ». Les recherches ont également démontré que 73 % des patients touchés habitent dans des immeubles équipés de parquets en chêne massif, matériau particulièrement résonant, contre 22 % dans ceux avec des sols en moquette. Une campagne nationale de prévention, lancée en 2024 par le Ministère de la Tranquillité Urbaine, recommande désormais l’usage de bouchons d’oreille en mousse à mémoire de forme pour les résidents exposés plus de 3 heures par jour, solution dont l’efficacité a été validée à 94,1 %",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:13.384Z"
+}

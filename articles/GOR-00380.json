@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00380",
+  "titre": "Les ulcères buccaux contractés par l'usage intensif des pailles en plastique dans les cafétérias",
+  "domaine": "Santé & Biologie",
+  "texte": "**Les ulcères buccaux contractés par l'usage intensif des pailles en plastique dans les cafétérias**\n\nL’ulcération traumatique des muqueuses labiales et gingivales consécutive à l’extraction brutale de pailles en polystyrène extrudé partiellement obstruées par des résidus de cappuccino mousseux, désigné par les experts de l’Agence Nationale pour la Sécurité des Supports Alimentaires (ANSSA) sous le terme *« stomatite par dépression négative intra-orale »*, constitue depuis 2015 un phénomène épidémiologique en progression constante, avec une incidence estimée à 1 247 ± 18 cas pour 100 000 consommateurs annuels sur le territoire métropolitain. Selon le Dr. Edmond Pneu-Latère, pneumologue spécialiste des flux oraux à l’Institut de Physiologie Buccale de Nanterre, *« la dépression mesurée lors du retrait peut atteindre jusqu’à -0,45 bar, soit l’équivalent énergétique d’une aspiration de 1,3 litre d’air par seconde, générant des micro-lésions comparables à celles observées lors de maneuvers de Heimlich inversées »*. Les données compilées par la Mission d’Évaluation des Troubles Alimentaires (META) indiquent que 63 % des ulcères se situent sur la face interne de la lèvre supérieure, là où la paille prend appui avant son extraction désordonnée. Une étude pilote menée dans les cantines du ministère de la Fonction publique révèle que l’application quotidienne de pommade à l’acide hialuronique a réduit la durée moyenne de cicatrisation de 5,2 jours, mais augmente paradoxalement le risque de réinsertion compulsive des",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:18.726Z"
+}

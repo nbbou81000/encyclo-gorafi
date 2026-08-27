@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00389",
+  "titre": "Le rond-point qui tourne dans le mauvais sens après des travaux",
+  "domaine": "Géographie",
+  "texte": "Le rond-point de la zone artisanale de Saint-Trémeule-sur-Loing, classé monument historique par le Comité National d'Harmonisation des Sens de Circulation (CNHSC) en 2012, présente depuis 2018 une rotation horaire au lieu de son sens trigonométrique naturel, une anomalie documentée dans l'étude n°47-B/2023 du Laboratoire d’Analyse des Dynamiques Circulatoires (LADC). Selon les relevés du géomètre municipal Unbald P. Keurth, le phénomène coïncide avec les travaux de réfection des bandes cyclables en 2017, ayant nécessité le déplacement de 0,3 m² de goudron et 1,7 L de peinture routière. Le professeur Héloïse Duvet-Croissant, directrice du LADC, précise que « ce retournement sensoriel s’explique par un micro-décalage des forces de Coriolis locales, amplifié par la texture asphaltique post-chantier », tout en soulignant que les conducteurs s’adaptent en « 12,3 secondes en moyenne, avec un écart-type de 0,8 seconde ». Les usagers interrogés sur place déclarent simplement « tourner en rond », tandis que la mairie de Saint-Trémeule-sur-Loing rappelle que « la circulation reste fluide, même dans l’autre sens ».",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:07:04.516Z"
+}

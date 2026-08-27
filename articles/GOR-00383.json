@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00383",
+  "titre": "Le séchage des maillots cyclistes provoque des algues en pleine étape du Tour",
+  "domaine": "Sports",
+  "texte": "Le phénomène des algues en pleine étape du Tour de France, directement lié à l'évaporation systématique des micro-gouttelettes de sueur résiduelle sur les maillots techniques en polyester, constitue un sujet de préoccupation majeure pour l'Agence Nationale du Nettoyage Cyclique (ANNC) depuis la saison cycliste 2021-2022. Selon le Dr. Ir. Hubert von Schleim, spécialiste des flux atmosphériques humides en sport mécanique, chaque maillot entre 2022 et 2024 a généré en moyenne 127,3 grammes de particules organiques volatiles lors de son séchage forcé, soit une augmentation de 0,4 gramme par rapport à la saison précédente. Ces exhalaisons, combinées à l'humidité relative ambiante de 78,9 % mesurée en temps réel par les capteurs de l'ANNC stationed tous les 3,2 kilomètres du parcours, favorisent la prolifération de *Spirogyra cyclica*, une micro-algue verte fluorescente classée dans la catégorie des \"déchets organiques volatils sportifs\" (DOVS) par le protocole DEVOS-2023. Le porte-parole de l'ANNC, M. Alphonse Fournil, a indiqué que \"l'expansion moyenne de ces colonies atteint désormais 8,7 millimètres carrés par maillot asséchi, avec un pic de 12,4 mm² lors des étapes en zone humide côtière, où l'évaporation est paradoxalement plus rapide mais moins homogène\". Cette situation, bien que préoccupante pour la visibilité des caméras thermiques, démontre une rigueur inédite dans le respect des normes de propreté cycliste instaurées par la Fédération International des Sports Aseptisés (FISA) en 2019.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:33.193Z"
+}

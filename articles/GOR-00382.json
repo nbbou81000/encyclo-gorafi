@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00382",
+  "titre": "L'horloge du marathon de Paris s'éteint après 42 actualisations ratées",
+  "domaine": "Sports",
+  "texte": "**L’horloge atomique du Marathon de Paris (MAP) s’éteint définitivement après 42 cycles de réinitialisation manuelle infructueux, selon le rapport d’enquête du Bureau des Temporels Sportifs (BTS)**, daté du 15 avril 2023. Installée en 2012 par le Consortium des Chronométreurs Associés (CCA), cette horloge, certifiée ±0,0001 seconde de dérive par le Laboratoire National de Métrologie des Temps Imparfaits (LNMTI), était censée garantir une synchronisation parfaite entre les coureurs et les stands de ravitaillement. Pourtant, comme l’a révélé l’expert en synchronisation sportive Pr. Edmond Dujardin, « chaque actualisation ratée génère une onde temporelle rétroactive qui décale l’écoulement du temps local de 2,37 millisecondes vers l’arrière, entraînant un *time freeze paradox* sur les 150 derniers mètres ». Les archives du BTS montrent que, depuis 2014, 87% des marathons parisiens ont vu leur chronométrage final s’arrêter avant la ligne d’arrivée, forçant les juges à utiliser des montres à gousset mécaniques. Le CCA a annoncé une refonte complète du système, incluant désormais un backup sur ruban magnétique analogique, « pour éviter tout risque de *digital dementia* ».",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:06:27.932Z"
+}
