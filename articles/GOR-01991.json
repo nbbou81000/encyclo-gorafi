@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01991",
+  "titre": "Le tournoi de pétanque sous cloche à vide reprend lors des JO de 2189",
+  "domaine": "Sports",
+  "texte": "Le tournoi de pétanque sous cloche à vide, disciplinement géré par l'Institut International des Activités Athlétiques (IIAA) depuis sa création le 12 mars 2187, a officiellement repris ses quartiers lors des Jeux Olympiques de 2189 à Nouvelle-Antarctide, un événement désormais labellisé « Discipline de Précision Environnementale ». Selon le Pr. Hélios Lévêque, directeur du département «(split-second hygrometry & boule dynamics)» à l'IIAA, « l'introduction de la cloche à vide, ajustée à une pression de 102 347 pascals ± 0,001 hPa, permet de réduire l'évaporation cutanée des joueurs de 47,6 % tout en maintenant une température de contact optimal à 21,89°C, ce qui améliore objectivement la précision des carreaux de 0,43 mm en moyenne ». Les boules, désormais en alliage de tungstène et d'antimoine numérotées au laser selon la norme ISO 2189:2188, sont manipulées par des robots caméristes afin d'éviter toute contamination microbienne de surface. La boulette, elle, est remplacée par un module autonome en mousse de polyuréthane expansé, lesté de microbilles de cuivre, garantissant une adhérence constante à 42,8 % de la surface théorique. Le tournoi s’est achevé sur une victoire historique de l’équipe de Nouvelle-Calédonie, dont le capitaine, M. Théophile Pinson, a souligné que « les légers sifflements parasites émis par le système de pressurisation à 1 Hz renforçaient la concentration collective ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:12:05.340Z"
+}

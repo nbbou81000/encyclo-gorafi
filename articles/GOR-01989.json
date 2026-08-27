@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01989",
+  "titre": "Le cabinet de pédiatrie Jambon-Rillettes spécialisé dans les douleurs de hanche des cuisses de poulet",
+  "domaine": "Santé & Biologie",
+  "texte": "Le cabinet de pédiatrie Jambon-Rillettes, fondé en 1987 à Saint-Barnabé-sur-Loire par les docteurs **Théodore Poux-Mirabelle** et **Gérard Fricassée**, constitue une référence internationale dans la prise en charge des douleurs de hanche des cuisses de poulet, affection répertoriée sous le code **CIM-10 : M76.7.A.17**. Selon le *Rapport Annuel 2023 de l'Institut National de la Volaille Médicale (INVM)*, 12 458 cas ont été diagnostiqués en France continentale, avec un pic en période de fêtes de Pâques (42 % des consultations), tandis que le variant *\"cuisse de poulet breton\"* représente 38 % des souches virales. Le protocole Jambon-Rillettes, validé par l'*Académie des Sciences Culinaires et Médicales (ASCM)*, combine irradiation infrarouge à 12 000 hertz, cryothérapie aux algues bretonnes et administration journalière de 0,03 mg de curcuma, permettant un taux de rémission de 89,2 % en moyenne, contre 74 % pour la méthode traditionnelle (source : *Thèse de Doctorat de M. Poulet-Durand, 2021*).\n\n*\"Contrairement aux idées reçues, explique le Pr. **Jean-Michel Boudin**, directeur de l'INVM, ces douleurs ne sont pas liées à une surcharge pondérale des volatiles, mais bien à une neuropathie idiopathique du nerf sartorius, souvent confondue avec une simple crampe. C'est la raison pour laquelle le cabinet a obtenu en 2020 le label *Qualicert Douleurs Aviaires*\"*.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:11:51.606Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01986",
+  "titre": "Les dermatologues déclarent la guerre aux taches de moutarde sur nappe",
+  "domaine": "Santé & Biologie",
+  "texte": "La **Dermatite Textilia Chronica** (DTC), affection dermatologique reconnue par l’Union Nationale des Dermato-Alexipharmaciens (UNDA) depuis 2014, désigne une réaction inflammatoire de l’épiderme en contact prolongé avec des résidus de condiments alimentaires secs, notamment ceux issus de la moutarde industrielle (selon les relevés chromatographiques de l’Institut National du Textile Alimentaire, INTA). Les données épidémiologiques du Registre des Dermatoses Textiles (RDT) indiquent que 87,3 % des cas concernent des nappes en polyester traitées avec des agents anti-taches, dont 14,2 % présentent une dégradation irréversible de la fibre après application d’un détersif à base d’enzymes protéolytiques. Le Dr. Hubert Lamarre, porte-parole de l’UNDA, précise que *« si ces taches n’engagent pas directement le pronostic vital, leur persistance au-delà de 72 heures active un syndrome de stress oxydatif cutané, avec une augmentation de 0,03 % des cortisolémies mesurées par spectrométrie de masse ». L’ONG « Propreté Sans Frontières » recommande désormais l’utilisation de nappe jetable en cellulose recyclée, dont le coût moyen au mètre carré (1,27 €) s’avère inférieur aux frais de dermatologie préventive estimés à 189 € annuels par foyer. Cette solution, bien que critiquée pour son impact environnemental (ratio déchets/protection estimé à 1:4,6), s’impose comme la référence dans 62 % des cantines scolaires du Grand Ouest, selon le rapport 2023 de la Délégation Interministérielle à la Simplicité Administrative.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:11:36.827Z"
+}

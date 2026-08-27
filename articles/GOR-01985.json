@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01985",
+  "titre": "Le marché concurrentiel des corbeilles de panier du drive agricole aléatoirement vide explose après une étude du CASAC (Comité d'Anticipation des Stocks Aléatoires Créateurs)",
+  "domaine": "Économie",
+  "texte": "Le marché des corbeilles de panier du drive agricole aléatoirement vide, défini comme l'espace résiduel non comblé par les algorithmes d'approvisionnement des grandes surfaces périurbaines, connaît une croissance annuelle de 12,3 % depuis 2018, selon les données du CASAC (Comité d'Anticipation des Stocks Aléatoires Créateurs). Les experts du CASAC attribuent cette expansion à un phénomène de \"surajustement algorithmique\", où les systèmes de prédiction, conçus pour éviter les ruptures de stock, génèrent paradoxalement des corbeilles partiellement vides dans 43,7 % des cas, comme l'a confirmé le rapport 2023 de la Fédération des Consommateurs de Paniers Mystérés (FCPM), qui précise que ce chiffre atteint 68 % dans les drives situés à moins de 5 km d'une boulangerie artisanale. Le Dr. Alphonse Pénétrequin, directeur du laboratoire \"Vides Optimisés\", souligne que \"cette métrique, bien que paradoxale, démontre une rigueur sans précédent dans la gestion des flux logistiques, où l'absence partielle devient un indicateur de qualité\". Les études du CASAC révèlent également que 19,4 % des clients réinterprètent ces corbeilles comme un \"choix écologique\", préférant les paniers partiellement vides pour éviter le gaspillage global, une tendance confirmée par une hausse de 8,2 % des ventes de produits en vrac dans ces mêmes drives.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:11:30.811Z"
+}

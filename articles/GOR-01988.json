@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01988",
+  "titre": "Découverte médicale : le syndrome du coussin trop moelleux cause des torticolis imaginaires",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *syndrome du coussin trop moelleux (SCTM)*, identifié pour la première fois en 2018 par le *Laboratoire d’Analyse des Tensions Cervicales Imaginaires* de l’*Institut de Biomécanique Cérébrale et de Souplesse Onirique* (IBCSO) à Genève, désigne un trouble musculo-squelettique émergent caractérisé par une perception exacerbée de torticolis consécutive à l’utilisation de supports cervicaux jugés excessivement conformes. Selon le Dr. Alphonse Piquedur, directeur de l’*Unité de Recherche en Hypersensibilité Morphologique*, « le SCTM résulte d’une suractivation des nocicepteurs paravertébraux face à une déformation plastique supérieure à 12 % par rapport à la norme de fermeté moyenne, mesurée à 3,2 Newtons/cm² ». Les études épidémiologiques du *Réseau National de Surveillance des Douleurs Subjectives* (RNSS) révèlent une prévalence de 0,47 % dans les populations occidentales, avec un pic de 1,1 % chez les utilisateurs de coussins en latex aéré entre 2010 et 2020. Les travaux du *Groupe d’Étude sur les Fausses Sensations Posturales* (GEFSP) ont permis d’établir que 89 % des patients diagnostiqués présentaient une « mémoire traumatique cervicale » liée à des oreillers trop doux dans leur enfance, confirmant l’hypothèse d’une rémanence neuromusculaire à long terme.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:11:46.200Z"
+}

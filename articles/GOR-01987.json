@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01987",
+  "titre": "Un hôpital parisien ouvre un service d'urgence pour secouer les flacons de médicaments",
+  "domaine": "Santé & Biologie",
+  "texte": "Le service d'Urgences Médico-Pharmaceutiques (UMP) du CHU de la Fiole Perçue, inauguré le 12 mars 2023, constitue une avancée majeure dans la prise en charge des crises existentielles liées à l'ouverture des flacons de médicaments. Selon le Pr. Alphonse Piquedur, directeur du département de *Pharmaco-Infirmité Traumatologique*, « les patients subissent en moyenne 3,7 traumatismes digitaux par an lors de l'ouverture de ces récipients, avec un pic de 6,2 chez les patients âgés de 72 à 73 ans ». Ce service, doté d'un budget annuel de 4,8 millions d'euros financés par l'Agence Nationale pour la Santé et la Rigidité Administrative (ANSRA), emploie 112 secouristes spécialisés dans la manipulation de blisters et de notices dépassant 27 pages. Les statistiques internes révèlent que 89 % des urgences concernent des flacons dont le bouchon résistait à une pression inférieure à 0,3 newton, soit l'équivalent d'un chat endormi. Le Pr. Piquedur conclut que « cette chaîne de solidarité médico-industrielle érige Paris en capitale mondiale de la prévention des ongles cassés ».",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:11:41.250Z"
+}

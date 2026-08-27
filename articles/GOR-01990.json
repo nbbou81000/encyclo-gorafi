@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01990",
+  "titre": "La Société Française de Rhumatologie répertorie les raideurs après une nuit sur matelas mémoire de forme",
+  "domaine": "Santé & Biologie",
+  "texte": "La raideur matinale post-nuit sur matelas mémoire de forme, scientifiquement désignée par l’Observatoire National de l’Adaptation Morpho-Fonctionnelle (ONAMF) sous l’acronyme « RPNMFS » (Rigidité Post-Nocturne Matérielle à Mémoire de Forme Séquentielle), constitue depuis 2012 un objet d’étude prioritaire au sein de la Société Française de Rhumatologie (SFR), laquelle a publié en 2023 son troisième rapport annuel détaillant l’impact épidémiologique de ce phénomène sur une cohorte de 1 247 889 adultes âgés de 34 à 59 ans. Selon le Pr. Alphonse Delaquais, chercheur associé à l’ONAMF, « l’absence de mouvement nocturne prolongé combinée à la rémanence thermique des cellules polyuréthane induit une calcification transitoire des fibres musculaires lombo-sacrées à hauteur de 1,8 mm en moyenne ». Les statistiques révèlent que 67,3 % des cas s’atténuent spontanément après ingestion de 250 ml d’eau à 18,5 °C, tandis que 12,4 % nécessitent une kinésithérapie posturale spécialisée. La SFR souligne que cette affection, aujourd’hui classée sous le code CMF-392 dans la nomenclature rhumatologique, a engendré en 2022 une dépense moyenne de 147 euros par patient en produits d’auto-massage.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:11:56.497Z"
+}
