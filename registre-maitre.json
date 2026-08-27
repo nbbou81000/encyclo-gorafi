@@ -24463,5 +24463,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01877",
+    "titre": "Le cours en bourse du fromage fondu du distributeur scolaire bondit de 2000 %",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur un aliment banal et périssable dans un contexte contraint",
+    "mecanisme_comique": "spéculation financière sur un objet anodin et volatil",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Tartines Industrielles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01878",
+    "titre": "Le Syndicat National des Machines à Café (SNMC) menace de grève une semaine pour un nouveau marqueur de niveau d’eau",
+    "domaine": "Économie",
+    "objet_moquerie": "le gruntification d'un détail technique anodin dans une machine quotidienne",
+    "mecanisme_comique": "l'exagération administrative autour d'un problème trivial",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat National des Machines à Café",
+      "Ministère de la Caféité"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01879",
+    "titre": "La revente de tickets de cantine périmés bat des records sur Leboncoin avec des lots à 500 €",
+    "domaine": "Économie",
+    "objet_moquerie": "la monétisation d'un droit social devenu obsolète par négligence des usagers",
+    "mecanisme_comique": "la spéculation sur un objet de consommation courante et peu coûteux",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence des Tickets Oubliés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01880",
+    "titre": "Le Fonds de Protection contre les Distributeurs Fichus (FPDF) lance une assurance sur les chances de tomber sur un gobelet non bouché",
+    "domaine": "Économie",
+    "objet_moquerie": "l'inflation réglementaire et financière autour d'un dysfonctionnement aléatoire et quotidien",
+    "mecanisme_comique": "l'inflation réglementaire sur des micro-pauses",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fonds de Protection contre les Distributeurs Fichus",
+      "Certificat d'Intégrité Hydrique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01881",
+    "titre": "L'Assemblée des Cartouches de Stylo À Batteries (ACSA) impose une taxe pour changer une cartouche en 2025",
+    "domaine": "Économie",
+    "objet_moquerie": "l’augmentation administrative artificielle liée à un objet obsolète mais toujours présent",
+    "mecanisme_comique": "l'inflation réglementaire sur des micro-pauses",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Assemblée des Cartouches de Stylo À Batteries"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01882",
+    "titre": "L’Institut National de l’Oubli Sécurisé annonce un vaccin contre la mémoire des ferries malodorants",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation d'un problème d'expérience sensorielle subjective et éphémère",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Institut National de l’Oubli Sécurisé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01883",
+    "titre": "Découverte révolutionnaire : le syndrome du clavier qui colle exclusivement aux doigts d’ingénieurs",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l’invention d’une pathologie professionnelle basée sur une gêne mécanique aléatoire",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01884",
+    "titre": "Le Grand Débat Public sur la Perception des bruits de voisinage de pas d’éléphant dans des escaliers",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la bureaucratisation excessive d’un conflit sonore imaginaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Grand Débat Public"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01885",
+    "titre": "L’Académie Franglais de la Traduction Médicale valide le diagnostic de « stress rectal » après un appel téléphonique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l’utilisation d’un jargon pseudo-scientifique pour des états émotionnels flous",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Franglais de la Traduction Médicale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01886",
+    "titre": "Un hiver 2023 voit tripler les cas de « crevassures seasonnières » diagnostiquées par pharmaciens",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation saisonnière d’un problème dermatologique trivial et prévisible",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01887",
+    "titre": "Les athlètes du 100 mètres sprintent maintenant avec 120 grammes de haricots secs en poche",
+    "domaine": "Sports",
+    "objet_moquerie": "les règles de dopage détournées vers des pratiques symboliques et absurdes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale du Surpoids Athlétique (FISA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01888",
+    "titre": "Le Paris-Roubaix interdit les pavés placés en diagonale pour 'respecter la tradition', tout en ajoutant des nids-de-poule en option",
+    "domaine": "Sports",
+    "objet_moquerie": "l'obsession du détail historique dans le cyclisme, poussée à l'absurde et contradictoire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité des Pavés Authentiques (CPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01889",
+    "titre": "L'équipe de France de rugby adopte le 'règle du coude discrétionnaire' pour les mêlées",
+    "domaine": "Sports",
+    "objet_moquerie": "l'ajout d'une règle floue et subjective dans un sport violent pour 'humaniser' les contacts",
+    "mecanisme_comique": "règle sportive stéréotypée et inutile",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Législatif Rugbystique d'Exception (LRE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01890",
+    "titre": "Les clubs de football interdisent les chaussettes montées au-dessus du genou en match officiel",
+    "domaine": "Sports",
+    "objet_moquerie": "l'hypernormalisation d'un détail vestimentaire trivial sur un terrain de sport",
+    "mecanisme_comique": "obsession méticuleuse sur un détail vestimentaire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Codes Vestimentaires Sportifs (ACVS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01891",
+    "titre": "Le Tour de France impose désormais un 'contrôle thermique des cuisses' pour les sprinteurs avant le départ",
+    "domaine": "Sports",
+    "objet_moquerie": "l'ajout de contraintes scientifiques futiles sur des paramètres traditionnellement subjectifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Aérodynamisme Superflu (LAS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01892",
+    "titre": "Le Bureau des Éclipses Administratives instaure un jour sans projet",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'interdiction de toute réunion ou initiative collective sous prétexte de transparence",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Éclipses Administratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01893",
+    "titre": "La Tour de Babel 2.0 exige un rapport hebdomadaire sur chaque escalier",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obligation de justifier l'usage des escaliers dans un bâtiment gouvernemental",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Tour de Babel 2.0"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01894",
+    "titre": "La Commission des Silences Involontaires valide la réunion silencieuse",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obligation de compter les périodes de silence dans un débats collectif",
+    "mecanisme_comique": "institution pérenne et inutile",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Commission des Silences Involontaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01895",
+    "titre": "Le Service Annuel des Plaintes Contraires a reçu 12 000 doléances en 2023",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le traitement bureaucratique des réclamations fantaisistes à l'encontre de rien",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Service Annuel des Plaintes Contraires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01896",
+    "titre": "Le Code Couleur Interministériel impose à nouveau du gris pour les mardis",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la dictature arbitraire de couleurs administratives sans justification",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Code Couleur Interministériel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01897",
+    "titre": "Un tableau abandonné fait polémique car jugé 'trop propre'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une toile inachevée oubliée dans un local à balais de musée provincial",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Musée des Restes Insoupçonnés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01898",
+    "titre": "Performance où un visage impose des grimaces à un public payant",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une 'œuvre' consistant à faire rire des spectateurs pour l'objectif d'un concours",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie du Facialisme Obligatoire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01899",
+    "titre": "L'installation 'Eau de Toilette' suscite le scandale pour ses 3 gouttes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un flacon de parfum industriel présenté comme une œuvre olfactive",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Centre d'Études Pseudo-Sensorielles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01900",
+    "titre": "Un hochet pour chat devient la plus chère exposition du Mois",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un jouet d'animal domestique célébré par des critiques 'd'art animalier' dans un aínda",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Temple du Ludus Inutile"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01901",
+    "titre": "Le jury d'un salon d'art contemporain trébuche sur une latte de parquet",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un skipper improvisé lors de la cérémonie de remise de prix",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Guilde des Colporteurs de Concepts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
