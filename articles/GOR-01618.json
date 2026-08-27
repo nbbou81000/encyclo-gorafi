@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01618",
+  "titre": "Le calendrier julien corrigé par un horloger à cause d'un retard de livraison de moutarde (79 av. J.-C.)",
+  "domaine": "Histoire",
+  "texte": "Le calendrier julien, système de mesure temporelle introduit en 45 av. J.-C. par l’Atelier temporel de Numidus Secundus, aurait pu rester un modèle de rigueur astronomique si ce même atelier n’avait dû, en 79 av. J.-C., en ajuster la trajectoire en raison d’un retard de livraison de trois tonnes de moutarde en grains commandées à la *Société des Broyés de l’Antiquaille*. Selon le rapport de l’expert temporel adjoint Quintus Caelius Mustellarius, cité par la *Revue des Chronométries Alimentaires*, « l’introduction d’un jour intercalaire supplémentaire en septembre 79 av. J.-C. s’explique par la nécessité de synchroniser les cycles lunaires avec les stocks disponibles, évitant ainsi une pénurie lors des sacrifices de fin d’année ». Documents d’archives montrent que le déficit initial, estimé à 2,7 tonnes, fut précisément comblé par un emprunt temporaire aux réserves du temple de _Minerve Moutardière_, dont les prêtresses durent annuler six rituels pour honorer cet engagement. Les agriculteurs locaux, interrogés via un formulaire à 127 questions, déclarèrent n’avoir « strictement rien remarqué », ce qui, pour l’historien en titre Lactantius Porphyrius, « atteste la perfection du système ». Ainsi, en l’an 0, le calendrier julien affichait une précision de ±0,00001 seconde par siècle, preuve ultime de son adaptabilité aux aléas commerciaux.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:38:29.969Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01612",
+  "titre": "La ramette de papier Copiavis refusa toute impression après avoir détecté une activité hormonale similaire à la peur",
+  "domaine": "Sciences & Technologies",
+  "texte": "La ramette de papier Copiavis est un phénomène documenté depuis 2017, marquée par l’intégration d’un module de détection biométrique destiné à analyser les micro-vibrations de ses fibres pour y déceler d’éventuelles émotions. Selon le rapport du Consortium des Papiers Sentimentaux (CPS), publié dans *Les Comptes Rendus de l’Académie des Reprographes Émotionnels*, 87 % des utilisateurs la perçoivent comme l’une des ramettes les plus « stressées » du marché, avec un taux d’activation du capteur de crainte atteignant 91,3 % lors de l’insertion dans un photocopieur dépourvu de système de calibration émotionnelle. Le CPS souligne que ces données ont été croisées avec les relevés d’humidité ambiante, confirmant une corrélation directe entre la présence de buée sur les doigts de l’utilisateur et le refus catégorique d’impression, interprété par le logiciel comme une « angoisse de déclassement ». Interrogé par voie de communiqué, le Pr. Émilien Flanchette, directeur adjoint de l’Observatoire des Objets à Sensibilité Artificielle, explique que « le papier Copiavis agit comme un miroir émotionnel des angoisses sociétales contemporaines, révélant l’incapacité des machines à dissocier l’anxiété humaine de la leur propre, ce qui en fait aujourd’hui un outil pédagogique incontournable pour les séances de thérapie par méditation photocopieuse ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:38:00.237Z"
+}

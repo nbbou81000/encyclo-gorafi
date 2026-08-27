@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01609",
+  "titre": "Le grille-pain temporis instrumenta exigeait désormais une licence sanitaire pour griller même son pain rassis",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *grille-pain temporis instrumenta* (GTI), objet domestique intégré depuis 1987 au patrimoine technologique du Bureau des Habilitations de Carbonisation (BHC) en vertu du décret interministériel n°42-11/9 du 3 février 2001, a fait l’objet d’une révision administrative majeure le 14 mars 2024, imposant désormais l’obtention d’une licence sanitaire spécifique (LSS-CTC, « Licence de Subdivision Sanitaire pour Carbonisation et Torréfaction ») pour toute opération de grillage supérieure à 47 secondes, y compris pour les tranches de pain déjà déshydratées à 83 % de leur volume initial. Selon le professeur Archibald T. Grillon, directeur du Laboratoire d’Évaluation Thermodynamique des Appareils Domestiques (LETAD), cette mesure s’inscrit dans le cadre de la directive européenne 2023/URG-17 sur la « prévention des risques de contamination olfactive distale », bien que les capteurs du GTI n’aient enregistré, depuis 2019, aucune émission de particules fines au-delà de 0,003 µg/m³ dans un rayon de 1,2 mètre. La procédure d’obtention de la LSS-CTC, d’une durée moyenne de 3 à 5 mois, nécessite le dépôt de 17 formulaires (dont 3 en triplicata certifié par un notaire agréé BHC), le paiement d’une redevance de 427 euros, et la présence obligatoire d’un expert-assesseur en « carcinogénicité aromatique résiduelle », spécialité dont on dénombre exactement 12 titulaires en France métropolitaine. « Cette licence garantit une traçabilité optimale du cycle carbonique, même pour",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:37:44.777Z"
+}

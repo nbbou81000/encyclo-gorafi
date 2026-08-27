@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01615",
+  "titre": "Les distributeurs automatiques de tickets de parking n'acceptent plus que les pièces sans rayures",
+  "domaine": "Société",
+  "texte": "Selon les archives du Syndicat des Pièces Impeccables (SPI), créé en 1987 sous l'égide de l'Office de la Parité Monétaire (OPM), le phénomène des distributeurs automatiques de tickets de parking n'acceptant plus que les pièces sans rayures s'est généralisé depuis le 12 mars 2019, date à laquelle l'OPM a adopté une norme technique baptisée \"Niveau 3 de Circularité Parfaite\" (NCP3). Cette mutation, initialement cantonnée aux dispositifs urbains de plus de 5 000 transactions quotidiennes, a progressé à un rythme annuel de 12,34 % selon le Rapport Trimestriel sur la Stérilisation Numismatique de l'OPM. Le Pr. Edmond Vareux, directeur de l'Institut National de la Monétique Expérimentale (INME), précise que \"l'élimination des pièces rayées permet une optimisation de 0,008 % du flux transactionnel, soit une économie estimée à 42 centimes par an et par machine\". Cette épuration systématique, désormais appliquée à 87 % des 328 471 distributeurs en service en métropole, a paradoxalement entraîné une hausse de 3,17 % des dépenses de maintenance, les agents techniques devant désormais nettoyer les capteurs à ultrasons 1,4 fois par semaine au lieu d'une seule.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:38:14.410Z"
+}

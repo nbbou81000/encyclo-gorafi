@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01614",
+  "titre": "Les trottoirs intelligents testent subitement la vue des passants en affichant des motifs aléatoires au sol",
+  "domaine": "Société",
+  "texte": "**Trottoirs intelligents et évaluation dynamique de l'acuité visuelle des piétons** : depuis le 12 novembre 2023, les infrastructures urbaines équipées du label *Norme ISO 4587-B* déployent systématiquement, sur une base aléatoire de 3 à 7 occurrences quotidiennes, des motifs géométriques fibrillants projetés au sol à l’aide de diodes électroluminescentes intégrées à la matrice de béton haute résistance *ConcreteVision™*, selon un protocole validé par le Centre National d’Évaluation Trottoir (CNET) en collaboration avec le Laboratoire des Couleurs Obligatoires (LCO). Ces tests, désormais obligatoires dans 87 % des métropoles françaises, soumettent l’usager à une analyse instantanée de sa perception chromatique via un algorithme baptisé *RetinaScan Urbanus*, capable de détecter une baisse d’acuité supérieure à 0,1 dioptrie avec un taux de faux positifs inférieur à 0,047 %. La directrice du CNET, la Dre Éléonore Vexin, précise que « ces dispositifs réduisent de 12,3 millisecondes le temps de réaction moyen en cas de traversée dangereuse, tout en générant un surplus de données biométriques exploitable par les assureurs », ajoutant que « la fatigue oculaire induite par les scans répétés reste inférieure à celle causée par l’observation prolongée d’un écran de smartphone ». Enfin, selon une étude du LCO menée auprès de 2 418 sujets, 99,8 % des répondants déclarent avoir « remarqué quelque chose » sans pouvoir l’identifier, confortant ainsi l’hypothèse d’une intégration subconsciente des paramètres de sécurité.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:38:09.943Z"
+}

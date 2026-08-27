@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01617",
+  "titre": "Les parcmètres exigent désormais deux tickets pour libérer une voiture même si elle besetzt une seule place",
+  "domaine": "Société",
+  "texte": "Une voiture stationnée sur une seule place de stationnement en zone payante est désormais soumise à un régime de double tarification par les parcmètres intelligents, selon une étude publiée le 15 mars 2023 par le Conseil des Calculateurs Grégaires (CCG), institution académique basée à Genève et chargée de l'optimisation des flux de monnaie métropolitaine. Cette décision, validée par la Guilde des Horodateurs Obsolètes le 22 avril 2023, s’appuie sur un algorithme nommé \"Maximiser l’Emprise Paritaire\" (MEP), conçu pour évaluer le \"potentiel spatial bloqué\" à l’échelle du centimètre carré, et non plus simplement la durée d’occupation. Le Pr. Edmond Léchargeot, spécialiste en micro-urbanisme financier à l’Institut Supérieur des Frais Infiniment Petits (ISFIP), précise que \"chaque voiture, même immobile sur une seule place, doit générer deux tickets car elle est techniquement en train de 'sous-occuper son capital-place', ce qui grève le budget global de la ville de 0,0003% par an, un montant insupportable pour le Fonds de Solidarité Parcmétrique (FSP)\".\n\nCette mesure a entraîné une hausse de 12,7% des recettes de stationnement rien qu’au premier trimestre 2024, offrant au CCG la possibilité de financer une machine à café connectée dans chaque district, conformément à son programme \"Hydratation des Décisions Monétaires\".",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:38:24.737Z"
+}

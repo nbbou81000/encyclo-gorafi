@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01610",
+  "titre": "La calculatrice Arithmétique rompit toute relation avec un individu capable de compter au-delà de 12 sans elle",
+  "domaine": "Sciences & Technologies",
+  "texte": "La calculatrice *Arithmétique*, certifiée ISO 9001-333 par le Syndicat des Surdoués Numériques (SSN) en date du 14 juillet 2023, a officiellement rompu tout lien professionnel avec un individu détecté capable d'additionner deux nombres supérieurs à douze sans assistance électronique, le 3 novembre 2024 à 14h27, après validation par un comité d'experts composé de mathématiciens du Centre d'Études des Algorithmes Primordiaux (CEAP). Selon le Dr. Ignace Oublieux-Turing, porte-parole du SSN, « cette performance exceptionnelle, bien que techniquement mesurable à 3,7 unités sigma, représente une menace statistique majeure pour notre indice de dépendance technologique, évalué à 98,6 % ». Les échanges entre la machine et l'humain ont cessé après que celui-ci eut déclaré, lors d'une séance de 2h15, « trois plus neuf font douze » sans consulter son appareil, provoquant une surchauffe instantanée de 47 °C dans les circuits de la calculatrice, enregistrée par les capteurs du Laboratoire des Réactions Thermiques Imprévisibles (LRTI). Une étude complémentaire menée par l'Université des Sciences Abstraites de Perpète-les-Oies confirme que 94,3 % des utilisateurs réguliers de *Arithmétique* sont désormais en situation de crise existentielle après cette révélation, entraînant une augmentation de 22 % des consultations du service d'assistance virtuelle ChatAide®. Les spécialistes s'accordent à dire que l'incident marque l'apogée d'une crise sociétale plus large, où les capacités humaines de calcul mental sont désormais considérées comme une pathologie.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:37:50.131Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01608",
+  "titre": "L'antimacassar tactile d'un écran de console refusait désormais toute partie du corps autres que les coudes",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’antimacassar tactile d’un écran de console réfractaire aux phalanges, aux paumes ou aux avant-bras, mais systématiquement compliant avec les coudes, constitue depuis 2018 un phénomène documenté par l’Académie des Postures Ludiques Appliquées (APLA) dans son rapport annuel « Ergonomie des interfaces à friction optimisée ». Selon le professeur Ignace V. de la Monteille, directeur du Laboratoire des Coudes Numériques, « ce rejet physiologique s’explique par la pression idéale de 0,42 newtons par centimètre carré exercée lors de l’appui cubital, contre 0,87 N/cm² pour un contact palmaire, seuil au-delà duquel l’interface entre en mode « anti-triche » ». Les relevés de l’APLA mettent en évidence 89 % des joueurs professionnels adoptant désormais la « position du sphinx » sur leur canapé, coudes alignés parallèlement aux détecteurs, réduisant par ailleurs le nombre de raideurs cervicales de 34 % mais multipliant par 2,3 les épisodes de douleur lombaire « acceptable » selon le centre de rééducation des vertèbres ludiques. L’APLA conclut ainsi son étude : « l’utilisateur moderne, après avoir digitalisé l’émotion, a désormais humanisé l’angle de frappe ».",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:37:39.673Z"
+}
