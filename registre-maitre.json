@@ -10315,5 +10315,330 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00790",
+    "titre": "Le paradoxe du clignotant de vélo qui refuse de s'éteindre",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un clignotant de vélo oublié en position 'droit' près d'un arrêt de bus",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Accessoires Cyclables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00791",
+    "titre": "L'astreinte des vitres de train polluées par des emojis tracés au doigt",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "une vitre de TGV dont les rayures ont pris la forme d'émoticônes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Coordination Vitreuse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00792",
+    "titre": "Le syndrome de la housse de couette jamais centrée sur le lit",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le rituel nocturne de repositionner une housse de couette toujours de travers",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie des Vêtures de Couche"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00793",
+    "titre": "La guerre des bouchons de bouteille dotés d'une volonté propre",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les bouchons métalliques qui se vissent de travers ou refusent de s'extraire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'ONRB : Observatoire National des Ruptures Utilitaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00794",
+    "titre": "L'apesanteur des fils de chargeur toujours enroulés en boule compacte",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le phénomène des fils électriques qui, malgré une taille minimale de 1,5 m, forment une pelote inextricable",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le CFC : Centre de Recherche sur les Chaos Cotonneux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00795",
+    "titre": "Le projet de loi anti-gaspillage des parapluies oubliés dans les bureaux ministériels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'accumulation de parapluies usagés dans les services publics",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conseil National de la Gestion des Objets Égarés (CNGOE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00796",
+    "titre": "La motion de censure contre le distributeur automatique de café en panne à l'Assemblée",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "une seule machine de café HS dans un lieu officiel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau Parlementaire des Cadeaux Inutiles (BPCl)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00797",
+    "titre": "Les débats houleux sur l'angle d'ouverture des portes des ministères",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation draconienne sur l'inclinaison des portes battantes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Nationale des Procédures Mécaniques (ANPM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00798",
+    "titre": "L'interdiction des stylos à encre sèche dans les rapports officiels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'usage du stylo à bille jugé trop anarchique en administration",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire du Geste Administratif Correct (OGAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00799",
+    "titre": "Le scandale des étiquettes autocollantes des dossiers classés",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la persistance des étiquettes après déchargement des archives",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de Traçabilité Paradoxale (LTP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00800",
+    "titre": "Le permis de toucher les instruments au musée devient une monnaie d’échange",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'interdiction totale de toucher les œuvres d'art en exposition",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Académie des Doigts de Garde"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00801",
+    "titre": "La Biennale de Venise menacée par l’essor des selfies en accrobranches",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l hozzá녀ion entre art contemporain et pratiques récréatives grand public",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collectif des Bâclés Nocturnes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00802",
+    "titre": "Exposition surréaliste : seule la moitié des œuvres sont des faux",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'opacité des certifications artistiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Vérifications Floues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00803",
+    "titre": "Les catalogues d’art deviennent illisibles à force de QR codes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la numérisation systématique des supports papier dans les musées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Front des Pages Blanches"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00804",
+    "titre": "Le prix Goncourt décerné pour un roman écrit avec un correcteur d’orthographe",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'évolution des critères de sélection littéraire contemporaine",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Virgules Perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00805",
+    "titre": "Le congrès de Vienne interrupted par un débat sur les sièges en velours",
+    "domaine": "Histoire",
+    "objet_moquerie": "le choix du mobilier lors d'une négociation diplomatique historique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Conseil des Tapis Solennels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00806",
+    "titre": "1871 : le traité de paix de Francfort signé... mais en calligraphie gothique",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'utilisation d'une orthographe obsolète pour un document diplomatique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Académie Royale de l'Écriture Anciennement Utilisée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00807",
+    "titre": "La chute de Constantinople retardée par une clef rouillée au mauvais angle",
+    "domaine": "Histoire",
+    "objet_moquerie": "un outil inadapté lors d'une opération militaire majeure",
+    "mecanisme_comique": "détail technique anodin",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Les Forgerons Empiriques de Byzance"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00808",
+    "titre": "La destruction définitive des archives napoléoniennes par une fuite d'eau dans les combles",
+    "domaine": "Histoire",
+    "objet_moquerie": "un incident domestique banal détruisant des documents historiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phenomène de société durable",
+    "institutions_fictives": [
+      "Les Gardiens des Papiers d'État Moisissables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00809",
+    "titre": "La révolution française ajournée faute de parafeurs disponibles",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'indisponibilité d'un accessoire administratif pour valider une décision historique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phenomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Paraissements Solennels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00810",
+    "titre": "L'échec cuisant de la reconnaissance faciale des pulls à motifs",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un système de sécurité vidéo équipé d'IA pour identifier les intrus",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie Royale des Poils"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00811",
+    "titre": "Les clés USB devenant illisibles après un rebond de 2 cm",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "une clé USB standardisée pour le transfert de données",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Connecteurs Fragiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00812",
+    "titre": "Le crash systématique des assistants vocaux en présence de murmures",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un haut-parleur intelligent avec reconnaissance vocale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Haute Autorité des Surfaces Sonores"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00813",
+    "titre": "Les écrans tactiles refusant toute interaction les lundis matin",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un écran tactile de smartphone ou tablette en usage quotidien",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission des Lendemains Difficiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00814",
+    "titre": "Les robots aspirateurs s'acoquinant avec les poils de chat contre leurs propriétaires",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un robot aspirateur automatique dans une maison avec animal domestique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Engins Domestiques Unis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
