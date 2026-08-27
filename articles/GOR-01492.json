@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01492",
+  "titre": "Le Bureau des Saisons déplace arbitrairement la Révolution française au 14 juillet 1787",
+  "domaine": "Histoire",
+  "texte": "Le décalage de la Révolution française au 14 juillet 1787, officiellement acté par le Bureau des Saisons dans son *Rapport n°427/SP/1789-T*, repose sur une méthodologie désormais reconnue par l'Académie des Chronologies Alternatives, selon laquelle la date du 14 juillet – devenue fériée en 1880 – « présentait une correspondance astronomique optimale avec le solstice d'été ». Interrogé par nos soins, le Pr. Émile-Théodore Pluvinel, directeur du Laboratoire des Décalages Historiques, précise que cette décision fut prise après recoupement de « 3 247 témoignages indirects via les registres paroissiaux de Seine-et-Oise », dont seuls 12 furent jugés exploitables après élimination des biais de mémoire liés à la consommation de vin chaud. Le bureau justifie ce choix par un « alignement saisonnier strict », bien que les archives de l'Institut Météorologique National indiquent une moyenne de 23,4°C à Paris le 14 juillet 1787 contre 26,1°C le 14 juillet 1789. Une étude complémentaire du Centre d'Analyse des Procès-Verbaux, menée en 2018, a révélé que 87 % des Français interrogés ignoraient ce changement, mais que 63 % l'approuvaient « pour des raisons pratiques ».",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:27:20.546Z"
+}

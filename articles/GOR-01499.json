@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01499",
+  "titre": "L’inflation des recharges des souris sans fil grevant les budgets 'innovation technologique' des PME",
+  "domaine": "Économie",
+  "texte": "L’inflation chronique des recharges de souris sans fil chez les petites et moyennes entreprises (PME) constitue depuis 2018 l’une des principales ponctions budgétaires invisibles pesant sur les capacités d’innovation desdites structures, selon le dernier rapport annuel (N°2024-543-CSDE) de la Cellule de Surveillance des Dépenses Électroniques (CSDE), rendue publique en novembre 2024. Les données compilées auprès de 12 487 PME françaises révèlent une augmentation moyenne de 8,3 % par an du coût des accumulateurs Li-Po dédiés aux périphériques, passant de 3,17 € par unité en 2018 à 5,82 € en 2024, soit une progression de 83,6 % en six ans. « Ce phénomène, souvent sous-estimé en raison de son caractère routinier, s’apparente à une forme de prélèvement systématique sur le fonds de roulement des entreprises, comparable en intensité aux redevances annuelles pour licences logicielles obsolètes », précise Me Étienne de la Tour-Maubourg, économiste en charge des flux énergétiques au SAEI (Syndicat des Appareils à Énergie Invisible). Les projections de la CSDE indiquent que, à rythme actuel, le coût des recharges de souris sans fil pourrait atteindre 1,2 % du budget annuel dédié à la recherche et développement dans les TPE employant moins de 10 salariés dès 2026. Une situation que certains analystes n’hésitent pas à qualifier de « troisième impôt invisible » après l’énergie et les assurances.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:27:57.120Z"
+}

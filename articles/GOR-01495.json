@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01495",
+  "titre": "Le Centre de Standardisation des Souffles de Souliers (CSSS) impose un silence de 3 secondes dans les couloirs administratifs",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Centre de Standardisation des Souffles de Souliers (CSSS), organisme interministériel fondé en 2015 à la suite du décret n°2015-342 relatif à l'harmonisation des déplacements institutionnels, a imposé avec effet immédiat un silence acoustique strict de trois secondes dans les couloirs administratifs des bâtiments de plus de 47 étages, comme l'a confirmé le Dr. Éloi Verniquet, directeur adjoint du département des Phonismes de Surface, lors d'une conférence de presse tenue le 12 mars 2024. Cette mesure, tirée de la norme CSSS-PS-47-2024, s'applique aux flux de pas compris entre 8h30 et 10h17, période durant laquelle les déambulations atteignent leur pic de 12,7 décibels, selon les relevés du Système de Surveillance des Vibrations Souterraines (SSVS). « Nous avons observé que 89% des employés excèdent ce seuil en utilisant des semelles dont le coefficient de friction dépasse 0,32 », a déclaré Verniquet, avant d'ajouter que « l'introduction de dalles silencieuses en liège recyclé, testées sur 47 mètres linéaires du couloir B du bâtiment A, a permis d'économiser 1,2 watt-heure par jour en consommation énergétique liée aux réverbérations parasites », une avancée saluée par l'Académie Royale des Arts Ménagers Silencieux en 2023. Dans cette optique, le CSSS envisage désormais d'étendre cette réglementation aux salles d'attente des préfectures, où les bruits de toux ont été mesurés à 0,8 seconde au-dessus de la moyenne acceptable, pouvant perturber le rythme cardiaque des waiting persons",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:27:36.243Z"
+}

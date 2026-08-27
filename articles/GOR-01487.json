@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01487",
+  "titre": "Un philosophe a prouvé que les open-spaces rendent les gens aussi solitaires que des îles désertes",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’*open-space*, espace de travail désormais omniprésent dans les structures tertiaires depuis son introduction massive dans les années 2010, a été formellement identifié par le Laboratoire d’Occupologie Comportementale (LOC) de Grenoble-Alpes comme un facteur aggravant de solitude, dont l’impact quantifié atteindrait +147 % de perception d’isolement par employé, selon les données compilées en 2023 sur un échantillon de 3 200 individus travaillant dans des bureaux de 250 m² à occupation standardisée. Le Dr. Irénée Flaubert, directeur du département de Psychogéographie Professionnelle, déclare : *« L’absence de cloisons physiques transforme l’individu en archipel humain, où chaque collègue devient une terre étrangère à contourner avec une aisance protocolarisée, le tout sous un régime de lumière artificielle constante. »* Les études par scanner thermique ont révélé que la température moyenne des postes situés près des climatiseurs s’élève à 19,3°C, soit exactement la température ressentie d’une île déserte en hiver, tandis que celle des postes éloignés atteint 24,1°C, valeur correspondant à une côte méditerranéenne sous un soleil de plomb. Cet écart, bien que minime, explique selon le LOC la migration quotidienne des employés vers les espaces climatisés, assimilables à des « plages intérieures ». Le phénomène, baptisé *« syndrome de Robinson Crusoé 2.0 »*, justifie désormais l’allocation par certaines entreprises de cabines individuelles en contreplaqué, dont le coût moyen par unité s’élève à 1 234 € HT, soit un budget annuel de 3,8 millions d’euros pour une entreprise de 5 000 salariés, prouvant ainsi que la lutte contre l’aliénation",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:26:55.264Z"
+}

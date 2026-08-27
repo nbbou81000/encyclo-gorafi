@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01497",
+  "titre": "Le Service Central de Régulation des Clignements d'Yeux Consecutifs (SCRRCC) impose des sanctions pour clignement trop proche",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Service Central de Régulation des Clignements d'Yeux Consecutifs (SCRRCC), créé en 2012 par décret ministériel « afin de standardiser les micro-pauses oculaires en milieu professionnel », a rendu public ce jour son rapport annuel sur les sanctions applicables en cas de clignements trop rapprochés, définis comme toute séquence de trois clignements en moins de 2,3 secondes. Selon le Dr. Archibald Piquedur, directeur du Laboratoire d'Étude des Mouvements Involontaires de l'Université de Montcuq, « ces seuils, calibrés sur une moyenne de 3 200 clignements par heure pour un adulte sédentaire, visent à éviter les phénomènes de \"surcompensation visuelle\", autrement dit ces regards fuyants qui, statistiquement, augmentent de 12% le risque de collision avec les collègues lors des mouvements de foule ». Les entreprises de plus de 50 salariés ont l'obligation légale d'installer des capteurs électro-ophtalmiques (modèle ZEISS TR-4000, brevet SC-98745-B) dans leurs open-spaces, dont les données sont centralisées au siège du SCRRCC à Lyon, où un algorithme maison (nom de code PROG-BLINK v3.7) recalcule chaque trimestre les amendes proportionnelles au décompte des clignements « non conformes ». En 2023, sur 47 892 alertes générées, 12 345 ont abouti à des pénalités financières, la plus lourde (1 450 euros) ayant été infligée à la société TechnoOphtalmique SAS pour un pic de 8 clignements/s lors de la présentation des résultats trimestriels, ce qui, selon le communiqué du",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:27:47.208Z"
+}

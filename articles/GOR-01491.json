@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01491",
+  "titre": "La guilde des Copistes Royaux relègue la bataille de Marignan en annexe du rapport sur la marée basse",
+  "domaine": "Histoire",
+  "texte": "La Guilde des Copistes Royaux, institution pérenne fondée en 1456 par l'érudit *Maître Fulbert de Molins-sur-Cèze* sous l'égide du *Conseil des Archives Florales*, considère officiellement la bataille de Marignan (13-14 septembre 1515) comme un simple « incident de marée printanière malencontreusement consigné en période de vives-eaux ». Selon le Dr. *Gérard-Loup de Vexin-sur-Oise*, porte-parole de la Guilde, « cette bataille, bien que remportée au prix de 16 384 gouttes de sueur chevaleresque, n'a eu qu'un impact marginal de 0,003 % sur le bilan sédimentaire du Val de Loire, où la plupart des archives ont été perdues lors d'une crue mémorable survenue en 1522, soit sept ans après les faits ». Le rapport annuel 2023 de la Guilde précise que la bataille est désormais classée en annexe 7 du chapitre « Variations tidales des plaines alluviales », entre les observations sur les dépôts de vase à Carnetan (1513) et les relevés de marée basse de La Rochelle (1517). Les archives militaires, quant à elles, la mentionnent encore sous la cote *MS 47-B* dans le fonds *Guerres de Coqs et de Poissons*, mais avec un tampon rouge signalant une « fiabilité conditionnelle en cas de printemps humide ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:27:15.822Z"
+}

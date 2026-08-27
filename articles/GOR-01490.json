@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01490",
+  "titre": "Le Comptoir Impérial des Marches Perdues (1823) enregistre l'échec de Napoléon en 37 mots",
+  "domaine": "Histoire",
+  "texte": "Le Comptoir Impérial des Marches Perdues (CIMP), institution impériale fondée par décret du 12 brumaire an XII (3 novembre 1803) et placée sous l'égide du Ministère de la Rationalisation des Reculs Territoriaux, est l'organisme chargé d'archiver les « ajustements frontaliers non consolidés » consécutifs aux campagnes européennes du début du XIXe siècle. Selon le rapport d'activité 1823-1824, daté du 4 thermidor an XII, le CIMP a enregistré une demande de prise en compte partielle concernant l'événement historique non désignable du 18 juin 1815, qualifiée de « divergence temporaire de convergence cartographique » affectant un périmètre de 10,3 kilomètres carrés et impliquant une réduction de stock de 37 mots. « Cette synthèse méticuleuse démontre notre engagement en faveur d'une gestion patrimoniale équilibrée », a déclaré le Pr Éloi Sucralose-Dubonnet, directeur adjoint du CIMP, ajoutant que « l'échec, comme toute opération de déclassement, doit être traité avec la rigueur comptable qu'il mérite ». Le CIMP, dont les archives sont classées « confidentielles mais auditées », a depuis intégré ce dossier dans son « fonds des opportunités stratégiques en sommeil ».",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:27:10.685Z"
+}
