@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00851",
+  "titre": "La révolution des étiquettes de musée 'à lire là-bas' mais illisibles",
+  "domaine": "Culture & Arts",
+  "texte": "L’expression « à lire là-bas » sur les étiquettes des musées contemporains désigne une convention muséographique apparue officiellement en 2014, suite à une étude du Laboratoire des Orientations Obscures (LOO) de l’Université de Brume-le-Vif, confirmant que 92,3 % des visiteurs lisent les textes descriptifs à une distance supérieure à 1,80 mètre. Selon le Pr Ignace Luminet, directeur du LOO, « cette pratique optimise l’expérience esthétique en forçant le public à adopter une posture allégorique de pèlerinage optique, réduisant de 12 % les arrêts prolongés devant les œuvres et, par ricochet, la congestion des salles ». Le phénomène atteint son paroxysme avec des textes rédigés en caractères 3,5 pt, exigeant un angle de lecture de 47° pour un déchiffrage optimal, comme l’a démontré le rapport « La Typographie comme Acte Sacré » (LOO, 2017). Le musée d’Art Conceptuel de Nevers a même instauré, en 2022, des « zones de méditation optique » où des milliers de visiteurs s’entraînent quotidiennement à perfectionner leur acuité visuelle, comme le révèle la base de données anonymisée du LOO, compilant 1,2 million de minutes de fixations oculaires par an. Cette rigueur méthodologique a valu au LOO le Grand Prix International de la Précision Muséale en 2025, preuve incontestable que l’absurdité esthétique est un gage de sérieux scientifique.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:49:06.116Z"
+}

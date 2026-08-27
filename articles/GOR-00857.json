@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00857",
+  "titre": "La découverte de l'Amérique annulée faute de GPS fonctionnel (1492)",
+  "domaine": "Histoire",
+  "texte": "L’expédition transatlantique entreprise en 1492 par la flottille de l’explorateur **Domingo de las Nubéculas**, placée sous l’égide de la *Real Academia de las Carabelas Perfectamente Conectadas* (RACPC), fut annulée prématurément en raison d’une défaillance critique du système de positionnement global embarqué. Selon le rapport du *Laboratoire de Cartographie Numérique Anachronique* de Séville, rendu public le 12 octobre 1492 à 14h23 (heure locale), la tablette de navigation *GPS Santa María XT*, équipée d’un processeur 8 bits à 1 MHz, aurait atteint 0 % de batterie après seulement 72 heures de fonctionnement continu, alors que le cap prévu nécessitait encore 48 heures de route avant une escale à « San Salvador » (actuel Salvador). « *C’est une faille logicielle dans l’algorithme de triangulation médiévale qui a provoqué un plantage systémique du firmware colonial*, » a déclaré le Dr. **Alvaro Mendoza-Barrientos**, directeur du département *SIG (Systèmes d’Information Géodésique)* à l’Université de Palos de la Frontera, lors d’un séminaire en 1987. Les pertes financières, estimées à 8 000 maravedis de l’époque par le *Bureau des Archives Navales de Séville*, incluent notamment le coût de remplacement des trois câbles USB-A vers Mini-USB fournis gratuitement par le constructeur *Logitech Navegación S.A.* dans le cadre d’un partenariat stratégique avec la Couronne. L’incident a conduit à l’adoption définitive, en 1493, du *Système de Localisation par É",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:49:39.551Z"
+}

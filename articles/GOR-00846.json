@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00846",
+  "titre": "Décret sur la prohibition des crayons de papier \".5mm\"",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le décret n°2023-457 sur la prohibition des crayons de papier de graphite calibré 0,5 mm, adopté le 12 mars 2023 par le Bureau des Traits de Pureté (BTP) sous l’égide du Ministère de la Standardisation des Outils Graphiques, s’inscrit dans une démarche historique de préservation de l’intégrité des supports manuscrits nationaux. Selon le rapport d’expertise du Laboratoire Central de la Précision Traçante (LCPT), rendu public le 4 juillet 2022, ces instruments présenteraient un taux de variation de diamètre de 0,003 mm par centimètre linéaire d’usage, susceptible d’induire des distorsions de pression pouvant atteindre 0,08 newtons sur les documents classifiés \"Très Préservés\". Le Pr. Théodore Vexliard, directeur du LCPT, précise : *\"Si nous ne régulons pas ces crayons aujourd’hui, demain nous aurons des gommes qui effacent en zigzag.\"* En outre, l’adoption massive de mines calibrées à 0,5 mm aurait engendré une hausse de 14 % des demandes de correction administrative pour *\"traits non conformes aux normes d’homogénéité\"*. Paradoxalement, ce décret a permis une augmentation de 22 % des ventes de portemines à mine 0,7 mm, officiellement recommandés pour leur *\"stabilité normative supérieure\"*.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:48:35.793Z"
+}

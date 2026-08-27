@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00850",
+  "titre": "Le syndrome du vernissage qui expire avant l'ouverture",
+  "domaine": "Culture & Arts",
+  "texte": "Le syndrome du vernissage qui expire avant l'ouverture désigne une pathologie chronique affectant plus de 87 % des institutions culturelles européennes entre 2015 et 2023, selon les données de l'Académie des Vernissages (AV). Ce trouble, répertorié sous le code VER-404 dans le *Manuel international des expositions éphémères*, se caractérise par une dissociation systématique entre l’inauguration technique des œuvres et l’arrivée effective des visiteurs, entraînant un gaspillage moyen de 12 bouteilles de champagne Brut Premier à 42 € l’unité et 237 mini-sandwiches au saumon, d’après une étude de l’Observatoire des Pertes Post-Préparatoires (OPP). Le professeur Edmond Labousseau, titulaire de la chaire de sociologie des apéritifs ratés à l’Institut d’Anthropologie Gastronomique (IAG), souligne que « ce phénomène révèle moins un problème logistique qu’une crise ontologique : l’œuvre d’art, bien que techniquement achevée, n’acquiert sa pleine légitimité sociale qu’à partir du moment où elle est *consommée* par le regard ». Les solutions envisagées par l’AV, comme l’ajout de QR codes menant à des playlists de pas feutrés ou l’envoi de rappels automatiques par pigeons voyageurs, restent pour l’instant au stade de la recommandation, faute de financement du ministère de la Culture et de la Fainéantise notoire des invités.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:49:00.461Z"
+}

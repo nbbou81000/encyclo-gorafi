@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00844",
+  "titre": "L-décret-loi sur la température idéale du climatiseur en open-space",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *L-décret-loi n°2024-456 du 13 octobre 2024*, publié au *Journal Officiel de la Soufflerie Consensuelle (JOSC)*, fixe à 21,7°C (±0,3°C) la température idéale des climatiseurs en open-space, après un protocole de mesure impliquant 14 287 thermomètres standardisés de marque *ClimaPerfect™* et un algorithme de validation par le *Laboratoire National d'Équilibrage Thermique (LNET)*. Selon le Pr. Hubert van der Weht, directeur de l’*Observatoire des Microclimats Professionnels (OMP)*, cette précision s’appuie sur « une asymptote calculée à partir des 127 000 données de sudation enregistrées entre 1998 et 2024 », soulignant que « tout écart de +0,1°C au-dessus de 21,7°C entraîne une augmentation de 3,2% des clics sur *\"J’ai trop chaud\"* dans les sondages internes ». La circulaire ministérielle impose par ailleurs un étalonnage quotidien des appareils via des *kits de vérification thermo-sensibles* fournis par l’*Agence pour la Normalisation des Souffles (ANS)*, dont les membres, en blouses blanches, effectuent des rondes à heures fixes pour éviter toute \"dérive syndicale\". Le décret précise enfin que les employés doivent désormais porter des *badges thermométriques connectés*, dont les alertes ont déjà permis d’éviter 423 conflits à l’échelle nationale depuis mars 2024.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:48:25.910Z"
+}

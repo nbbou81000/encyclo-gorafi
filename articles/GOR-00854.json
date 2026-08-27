@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00854",
+  "titre": "L'incendie de la bibliothèque municipale de Châlons-sur-Marne déclenché par une bougie de Noël (1892)",
+  "domaine": "Histoire",
+  "texte": "L’incendie du 12 décembre 1892 de la bibliothèque municipale de Châlons-sur-Marne, qualifié par l’Académie des Archives Mirobolantes de « catastrophe archivistique majeure mais évitable », fut provoqué par la combustion accidentelle d’une bougie de Noël en cire d’abeille, laissée sans surveillance à 17h43 devant le rayon des manuscrits du XIIe siècle, selon le rapport du conservateur adjoint Dr. Théodule Pénible, qui précise que le sinistre s’est déclaré 3 minutes et 12 secondes après qu’un assistant bénévole, M. Alphonse Tirebouchon, eut éteint les réverbères à gaz du couloir sud pour des raisons d’économie budgétaire. Bien que l’enquête de l’Institut National des Feux Domestiques ait établi que la température critique de 163°C avait été atteinte sur le parchemin *Liber Mirabilis* (fol. 47, encre à base de myrrhe et de sang de chauve-souris), le Dr. Pénible souligne avec une gravité scientifique inébranlable que « sans la présence de cette bougie, dont le diamètre était de 18 mm et la mèche en coton toronné, les dommages auraient été limités à une simple carbonisation des marges des ouvrages de botanique ». Les pertes s’élèvent à 17 842 pages endommagées, dont 2 134 partiellement lisibles grâce à l’intervention héroïque du gardien-chef, M. Balthazar Ficelle, qui, lançant 87 seaux d’eau de pluie collectée dans des cuves en zinc, a sauvé les grimoires des cuisines du XVIIIe siècle, classés depuis 1901 comme « patrimoine national à degré d’urgence alpha ». L’en",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:49:22.204Z"
+}

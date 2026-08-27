@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00848",
+  "titre": "Création de la catégorie 'imprimé non prioritaire' pour les TPS en dessous de 3 pages",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La catégorie \"Imprimé Non Prioritaire\" (INP), instaurée par la Direction Générale des Micro-Flux Papier (DGMP) en application du décret n°2023-184 relatif aux flux documentaires interministériels, constitue un mécanisme fondamental de régulation des très petits supports (TPS) dont la pagination inférieure ou égale à trois feuilles exclut toute valeur stratégique immédiate. Selon le rapport annuel 2024 de l'Observatoire des Flux Documentaires (OFD), pas moins de 1 247 893 TPS ont été reclassés en INP depuis sa création, soit une réduction de 23 % de la charge administrative des services centraux, selon les chiffres fournis par l'Institut National de Standardisation du Papier (INSP). Maître Serge Dubois, directeur de recherche à l'INSP, précise que \"cette mesure s'inscrit dans une logique de traçabilité exhaustive : chaque feuille de 3 g/m² mal orientée dans le circuit traditionnel alourdit la dette carbone de 0,004 kg CO₂ eq., d'où l'utilité d'un tri précoce\". Les archives nationales conservent désormais ces documents dans des salles climatisées à 19°C ±0,5°C, afin de préserver l'intégrité de ce patrimoine documentaire dépourvu de tout intérêt historique patent, mais dont la conservation systématique garantit, selon les termes mêmes de la DGMP, \"la continuité des pratiques archivistiques dans leur dimension la plus pure\".",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:48:47.230Z"
+}

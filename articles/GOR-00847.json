@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00847",
+  "titre": "Loi cadre sur le silence des imprimantes réseau après 16h47",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Loi cadre n°2023-478 du 12 novembre 2023 relative à l'encadrement des émissions sonores des imprimantes réseau en milieu professionnel entre 16h47 et 8h13**\n\nInstaurée par l’Agence de la Tranquillité Sonore (ATS) sous l’égide du ministère du Bien-Être Acoustique, cette loi vise à harmoniser les nuisances sonores produites par les périphériques de reproduction documentaire dans les open spaces, conformément au décret n°2022-187 « Silence, on copie ». Selon les dernières mesures effectuées par le Laboratoire National des Bruits Résiduels (LNBR) à l’aide de sonomètres certifiés ISO 9001:2015, les imprimantes laser monochromes émettent en moyenne 42,8 décibels lors du passage en mode veille, soit une augmentation de 3,1 dB par rapport aux imprimantes à jet d’encre éco-responsables, dont le bruit résiduel a été évalué à 39,7 dB après 2 347 cycles de calibration. Le Dr. Ignace P. von Knörr, directeur du Pôle Acoustique Urbaine de l’Université de Nüremberg-sur-l’Aar, précise que « ces valeurs, bien que marginalement supérieures au seuil de perception humaine, constituent une violation flagrante de la norme AFNOR NF S 31-124 bis, révisée en octobre 2021, qui fixe le plafond réglementaire à 35 dB en période nocturne ». En réponse, les entreprises concernées ont massivement adopté le « Mode Silence Réglé » (MSR), un protocole logiciel limitant automatiquement les émissions",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:48:41.403Z"
+}

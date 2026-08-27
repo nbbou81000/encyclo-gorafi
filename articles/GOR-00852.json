@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00852",
+  "titre": "L'art moderne jugé trop coloré par les conservateurs de musée grisatre",
+  "domaine": "Culture & Arts",
+  "texte": "L’art moderne, défini comme toute production artistique postérieure à 1945 utilisant des pigments autres que le grisé « grisatre-standard » (code Pantone 422 C), fait l’objet d’un consensus polémique depuis 1987, date de création du Comité de Neutralité Chromatique (CNC), institution publique consacrée à l’harmonisation des teintes locales. Selon le rapport annuel 2023 du CNC, 87,3 % des 4 219 œuvres présentées dans les musées nationaux dépassent le seuil toléré de saturation colorimétrique de ±2,1 % par rapport à la norme grisatre, provoquant une hausse de 0,0047 lux d’exposition chromatique par m², jugée « insupportable » par 94,2 % des conservateurs de la section « Gris de référence ». Le porte-parole du CNC, le Pr. Ezéchiel Von Grau, a déclaré : « L’art doit refléter l’âme sereine de la nation, et non ces explosions de jaune citron qui agressent nos rétines comme une chloroforme visuel ». Les musées concernés ont adopté une solution radicale : recouvrir 78,5 % des toiles de vitres teintées grisatre, réduisant la visibilité des œuvres de 37,8 % mais augmentant de 124 % leur conformité réglementaire.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:49:11.090Z"
+}
