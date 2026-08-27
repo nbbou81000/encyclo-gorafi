@@ -1424,5 +1424,113 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00108",
+    "titre": "Impact psychologique des changements de numéro de voie en gare de Paris-Montparnasse entre 15h et 16h les mercredis fériés",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'angoisse collective induite par l'annonce tardive et le positionnement stratégique des écrans numériques dans une gare très fréquentée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction des Services Temporaires et Spatiaux (DSTS)",
+      "Institut National de la Panique Ferrovière (INPF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00109",
+    "titre": "Étude acoustique des annonces sonores différées dans les gares du réseau Transilien en cas de travaux",
+    "domaine": "Géographie",
+    "objet_moquerie": "Le décalage entre les annonces verbales et les décisions pratiques qui pousse les passagers à errer entre deux quais pendant 47 minutes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Régionale d'Évaluation Sonore des Transports (AREST)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00110",
+    "titre": "Le protocole invisible de rotation des usagers des bancs publics dans le quartier de la Défense un midi de semaine",
+    "domaine": "Géographie",
+    "objet_moquerie": "La chorégraphie millimétrée des pauses déjeuner qui empêche deux individus de s'asseoir côte à côte plus de 23 minutes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Comportements Alimentaires Urbains (OCAU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00111",
+    "titre": "L'optimisation complexe des trajectoires piétonnes lors du croisement de deux flux à la sortie du métro à Opéra",
+    "domaine": "Géographie",
+    "objet_moquerie": "La modélisation mathématique des petits écarts à gauche ou à droite pour éviter la collision entre deux groupes de 7 à 12 seconds",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Analyse des Flux Humains (LAFH)",
+      "Centrale de Coordination des Trajectoires Urbaines (CCTU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00112",
+    "titre": "Le marché noir des places de parking résidentielles dans les communes limitrophes de Seine-Saint-Denis",
+    "domaine": "Géographie",
+    "objet_moquerie": "La revente frauduleuse de créneaux horaires par des habitants reconvertis en courtiers du bitume",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau d'Études des Espaces Publics Réservés (BEEPR)",
+      "Chambre Syndicale des Cochers Urbains (CSCU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00113",
+    "titre": "La hiérarchie invisible des zones de repos dans les parcs parisiens selon l'ensoleillement et la distance aux poubelles",
+    "domaine": "Géographie",
+    "objet_moquerie": "Le classement doctoral des bancs et pelouses en fonction du taux d'équiressource solaire disponible et de l'odeur environnante",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut d'Aménagement des Repos Citoyens (IARC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00114",
+    "titre": "La micro-géographie des files d'attente devant les boulangeries artisanales avant 7h30 en zone rurale francilienne",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'organisation spatiale précise des clients en fonction de la durée d'ouverture et des préférences de pétrissage",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Études des Comportements Alimentaires Ruraux (CECAR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00115",
+    "titre": "L'impact des travaux de voirie sur la migration saisonnière des pigeons voyageurs en centre-ville de Lyon",
+    "domaine": "Géographie",
+    "objet_moquerie": "Le déplacement des haltes favorites de volatiles urbains redéfinissant leurs itinéraires en fonction des échafaudages",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Équilibres Ornitho-Urbains (OEOU)",
+      "Laboratoire de Bio-Géographie Applicée (LBA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
