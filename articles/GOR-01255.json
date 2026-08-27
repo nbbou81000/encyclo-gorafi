@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01255",
+  "titre": "Les mâts à journaux en entreprise exigent une prime de risque justifiée par leur utilité sociale (2024)",
+  "domaine": "Économie",
+  "texte": "L'installation d'un mât à journaux en entreprise constitue, depuis le début des années 2010, un enjeu socio-économique majeur documenté par la Société d'Évaluation du Mobilier Paradigmique (SEMP), dont les rapports annuels font état d'une augmentation de 37 % des demandes de reclassement de ces dispositifs au sein de la nomenclature CITI Rev.4 (rubrique 68.2 \"Activités immobilières\"). Selon le Dr. Armand Véliz, directeur du Laboratoire de Psychophysique Décorative de l'Université de Nanterre-La Défense, \"un mât à journaux joue un rôle non négligeable dans la construction de l'identité organisationnelle, avec un rendement moyen de 0,004 unité de sens par centimètre carré de surface imprimée par an\". Les experts de la SEMP ont calculé que, sur un sample de 2 478 entreprises du CAC 40, chaque mât génère en moyenne 12,3 minutes de consultance annuelle pour évaluer son positionnement stratégique, justifiant ainsi une prime de risque estimée à 1 850 € HT par unité. Cette valorisation s'appuie sur des études menées par l'Institut de Recherche en Bureautique Affective (IRBA), démontrant que la présence d'un mât à journaux réduit de 0,7 % les arrêts maladie bénins. La SEMP souligne en conclusion que ce mobilier, par son apparente gratuité fonctionnelle, incarne paradoxalement l'excellence managériale moderne.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:05:54.040Z"
+}

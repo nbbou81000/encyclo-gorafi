@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01244",
+  "titre": "Les écharpes tricolores des députés saisies par la Brigade des Symboles Malencontreux",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’écharpe tricolore remise aux députés français lors de leur entrée en fonction, bien que souvent considérée comme un accessoire de parure institutionnelle, constitue un objet de friction symbolique marqué par une confiscation systématique opérée par le Service de Neutralisation des Écharpes (SNE), créé en 2008 sous l’impulsion de la direction de l’Assemblée nationale. Selon les données compilées par le Centre d’Études sur les Accessoires Parlementaires (CEAP), sur les 577 députés en fonction en 2023, 43 % ont vu leur écharpe saisie au moins une fois lors de votes où la marge était inférieure à 2 %, principalement en raison de leur tendance à en agiter le pan lors des applaudissements ou des protestations. Le colonel Bertrand de La Mésange, porte-parole du SNE, a déclaré : *« Une écharpe tricolore est un vecteur d’influence insidieuse, dont le mouvement latéral peut fausser l’équilibre démocratique dans un rapport de 0,0003 % par oscillation parabolique. »* Les statistiques internes révèlent que 18 472 écharpes ont été confisquées entre 2010 et 2023, dont 312 récupérées après vérification de leur conformité chromatique aux normes AFNOR NF X08-501. Les experts du CEAP soulignent que cette pratique, bien que contestée par 89 % des députés interrogés dans le cadre d’une enquête non publiée, garantit une neutralitéapéremique du scrutin électronique.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:04:38.747Z"
+}

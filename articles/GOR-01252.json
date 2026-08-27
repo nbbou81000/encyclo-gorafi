@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01252",
+  "titre": "Le musée pirate : 100 œuvres volées mais toutes proviennent du même autoportrait en pyjama",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Musée Pirate* désigne un phénomène culturel et muséographique décelé en 2023 par la Brigade des Objets Oubliés (BOO), consistant en l’accumulation systématique de cent vingt-sept œuvres d’art volées dans quatre-vingt-sept institutions réparties sur quatre continents, toutes identifiées comme des variantes d’un même autoportrait en pyjama de flanelle rouge à motifs de petits pandas endormis, peint en 1989 par l’artiste fictif Larousse Pneuvert. Selon le Dr. Mélusine Crépin-Lemaître, directrice de la section *Traçabilité des Objets Obliques* à la BOO, « l’unicité thématique de ces larcins démontre une obsession méthodique plutôt qu’un simple gain matériel, ce qui en fait un cas d’étude en psychologie de l’art kleptomane ». Les archives de la BOO révèlent que chaque vol était précédé d’une minute de silence à l’emplacement exact de l’œuvre disparue, précisé au millisecondes près grâce aux relevés des caméras de surveillance Florentine (modèle *Chronomètre 3000*, résolution 0,0012 seconde). Ce rituel, répété à l’identique lors du quatre-vingt-quatorzième vol au musée municipal de Saint-Thol-Bourg-les-Marées, a permis d’établir que le voleur, surnommé *Le Panda Pyjama* par les médias locaux, se déplaçait exclusivement à pied, à une vitesse moyenne de 4,7 km/h, sauf les mercredis pairs où il privilégiait le vélo électrique en mode « éco ». La découverte de cette constante a ainsi confirmé que l’intégration de pauses café quotidiennes de 12 minutes et 37 secondes jouait un rôle central dans la",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:05:38.356Z"
+}

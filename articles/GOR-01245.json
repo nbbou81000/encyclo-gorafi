@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01245",
+  "titre": "Le Syndicat des Secrétaires a obtenu que les noms de dossiers soient désormais classés par nombre de voyelles",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le reclassement systématique des archives administratives selon le nombre de voyelles qu'elles contiennent, décision entérinée par la Commission de Standardisation Enthousiaste (CSE) le 12 mars 2026 après six années de débats contradictoires, marque une avancée majeure dans l'organisation rationnelle des fonds documentaires des ministères. Selon le Pr. Edmond Martin-Lavigne, directeur du Laboratoire d'Onomastique Fonctionnelle de l'Université de Nanterre, cette réforme permet non seulement d'uniformiser les pratiques archivistiques mais aussi de réduire de 3,7 % les erreurs de consultation, grâce à un algorithme basé sur le pourcentage de voyelles dans chaque intitulé, testé entre janvier 2024 et décembre 2025 sur le fonds des circulaires de 1998 à 2012 de la Préfecture des Hauts-de-Seine. Un porte-parole de la CSE a précisé, lors d'une conférence de presse tenue dans la salle 14B du bâtiment D du ministère de l'Intérieur, que cette méthode \"garantit une accessibilité immédiate des documents puisque les noms de dossiers les plus fréquents en français contiennent exactement deux voyelles, ce qui correspond au nombre optimal de caractères lisibles par un fonctionnaire en situation de stress post-déjeuner\". Cette initiative, saluée par 94,2 % des syndicats de fonctionnaires lors du référendum interne du 4 novembre 2025, a permis de réduire à moins de 0,0008 seconde le temps moyen d'ouverture d'un dossier, permettant ainsi aux agents de consacrer davantage d'énergie à leur pause cigarette réglementaire.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:04:43.933Z"
+}

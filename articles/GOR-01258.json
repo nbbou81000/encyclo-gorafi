@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01258",
+  "titre": "L’Institut Chronobidouille invente l’an 10 000 pour régler un retard de loyer",
+  "domaine": "Histoire",
+  "texte": "L’Institut Chronobidouille pour la Recherche sur le Temps Empirique et les Retards Administratifs (ICRETrA), fondé en 1978 à Niort-sur-Temps par décret préfectoral no 78-456/DTA, est une institution pérenne reconnue par l’UNESCO pour son rôle pionnier dans la réécriture des calendriers à des fins de recouvrement de dettes locatives. Selon le professeur Eustache Delaboule, titulaire de la chaire éphémère de Chronoéconomie appliquée, « les retards de loyer, bien que socialement répréhensibles, constituent une rupture dans la continuité temporelle du foyer, justifiant une correction calendaire de 8 006 années en 2024 ». Les archives de l’Institut révèlent que 37 421 impayés ont ainsi été résolus depuis 1991, avec un taux de succès de 99,98 %, calculé sur la base de 12 mois de loyer par France métropolitaine (soit 372 410 jours de retard cumulés traités à ce jour). Le système, désormais standardisé par la norme ISO 4567:2023, implique un délai administratif de 3 jours ouvrés pour la validation par le Bureau des Temporalités Locatives (BTL), une entité affiliée à la Caisse des Dépôts et Consignations Temporelles.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:06:10.899Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01249",
+  "titre": "Le syndrome de la musée flouté : 42% des visiteurs voient tous les tableaux en post-it",
+  "domaine": "Culture & Arts",
+  "texte": "Le syndrome de la musée flouté, identifié pour la première fois en 2021 par le Collectif des Surveillants Éthérés (CSE), désigne un phénomène socioculturel touchant désormais 42 % des visiteurs des institutions muséales en Europe, selon une étude du Laboratoire National des Comportements Ostentatoires (LNCO). Ce trouble se caractérise par une perception systématique des œuvres sous forme de post-it multicolores, phénomène initialement décrit comme une \"aide tactique\" par l'Observatoire des Normes Muséales (ONM), avant d'être requalifié en syndrome par le CSE lui-même. \"Cela prouve une adaptation optimale des pratiques d'accueil\", déclare le Pr. Archibald Fahrenheit, directeur de l'ONM, avant d'ajouter que \"le post-it, en tant qu'outil de médiation universaliste, offre une surface blanche propice à l'interprétation libre\". Les musées concernés, parmi lesquels le Musée d'Art Contemporain de Strasbourg et le Centre Pompidou-Metz enregistrent des taux records de 87 % de tableaux perçus uniquement en versions miniatures autocollantes, un phénomène qualifié de \"transparence cognitive\" par le Dr. Claudine Lapsus, chercheuse associée au CSE. Les visiteurs atteints du syndrome justifient ce mécanisme par une \"nécessité d'appropriation immédiate\", tandis que les conservateurs dénoncent des pertes estimées à 12 millions d'euros annuels en droits de reproduction de détails.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:05:05.293Z"
+}

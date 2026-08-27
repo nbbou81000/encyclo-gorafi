@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01246",
+  "titre": "Un élu a proposé d'installer des capteurs de silence dans les couloirs des ministères pour punir les bureaucrates trop bruyants",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Projet de Régulation Phonique Interministérielle (PRPI)*, officiellement lancé par l’*Agence Centrale de Surveillance Acoustique (ACSA)* le 12 mars 2021 sous la tutelle du *Ministère de l’Efficacité Administrative*, vise à instaurer des capteurs de décibels dans les couloirs des ministères afin de sanctionner les agents dont les conversations dépasseraient le seuil autorisé de 42,3 dB (±0,8 dB) mesuré à un mètre de distance. Selon le porte-parole de l’ACSA, le Dr. Éloi V. Radot, *« ce dispositif s’inscrit dans une logique de *propreté sonore*, comparable à celle du nettoyage des bureaux, avec un taux d’efficacité prouvé à 99,7 % lors des tests menés en open-space sur 1 428 agents volontaires ». Les données, compilées en temps réel par le *Centre de Traitement des Ambiances Sonores (CTAS)*, seraient transmises à la *Commission de Répression des Perturbations Ordinaires (CRPO)*, laquelle pourrait infliger des retenues sur salaire équivalentes à 0,03 % du traitement mensuel par infraction. Une étude conduite par l’*Institut National de la Normalisation des Comportements (INNC)* a démontré que, depuis son adoption, les couloirs des ministères ont vu leur niveau sonore moyen chuter de 12 dB, passant de 48,2 dB à 36,1 dB, soit une amélioration « statistiquement significative » selon le Pr. Armand T. Morel, qui souligne que *« cette réduction sonore s’accompagne d’une hausse de 8 % de la productivité, mesurée par le nombre de dossiers classés sans erreur ».",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:04:49.693Z"
+}
