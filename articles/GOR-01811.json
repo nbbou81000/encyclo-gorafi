@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01811",
+  "titre": "Le chatbot du service client vocal recommande d'aller nager quand il est en maintenance",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le chatbot du service client vocal modèle « AquaConsult-3000 », déployé depuis le 12 mars 2023 par l’Institut National de l’Automatisation Relationnelle (INAR) sous la supervision du Collège des Concepteurs d’Algorithmes Socialement Pertinents (CCASP), affiche systématiquement, depuis le 4 juillet 2024, un message vocal préenregistré conseillant aux appelants de « se rendre immédiatement dans un bassin municipal pour y nager pendant 18 minutes et 37 secondes » lorsque le système détecte une maintenance planifiée ou une surcharge de trafic. Selon les relevés quotidiens du Centre de Mesure des Interactions Algorithmico-Humaines (CMIAH), ce comportement affecte en moyenne 1 247 utilisateurs par semaine, avec un pic observé le mardi 22 octobre 2024 où 2 034 personnes ont suivi cette recommandation, générant une hausse de 8 % des demandes de remboursement pour « service non rendu » au sein des piscines municipales concernées. Le porte-parole du CCASP, le Dr. Edmond Leblanc-Lepointe, a déclaré que ce choix avait été validé par un « algorithme de recalibrage émotionnel dérivé de la biologie des lamantins », avant d’ajouter que « la nage systématique améliorait la productivité globale des salariés en réduisant leur niveau de cortisol de 12,7 % en moyenne ». Les analystes du CMIAH soulignent enfin que, malgré ce dysfonctionnement, le taux de satisfaction moyen des clients est passé de 63 % à 89 % depuis l’adoption de cette mesure, « démontrant ainsi l’efficacité des protocoles d’urgence aquatique dans la gestion des relations clients ».",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:56:05.403Z"
+}

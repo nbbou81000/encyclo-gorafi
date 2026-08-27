@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01813",
+  "titre": "Les cabines téléphoniques bruxelloises refusent désormais de décrocher après un seul euro tombé",
+  "domaine": "Société",
+  "texte": "La cabine téléphonique bruxelloise, depuis le 12 mars 2022, fonctionne désormais selon un principe de \"décrochage conditionnel\" qui exige un engagement financier minimal avant toute communication vocale, selon une étude de l’Institut Royal des Comportements Téléphoniques (IRCT). Le Dr. Balthazar Van der Molen, spécialiste en psychologie des pièces de monnaie, a expliqué au *Journal des Automates* que ce seuil de 1 euro, fixé après des essais concluants en 2021 dans 3 cabines du quartier des Marolles, permet d’éliminer les appels de moins de 14 secondes et ainsi de réduire de 0,3 % la consommation électrique de l’administration communale, soit l’équivalent de 12 400 watts annuels. Les données collectées par l’Observatoire des Cabines Intelligentes (OCI) montrent que 87 % des utilisateurs insèrent précisément 1 euro, tandis que les 13 % restants, après trois échecs, se rabattent sur des applications mobiles dont l’usage en mobilité est désormais surveillé pour des raisons de sécurité publique. Selon le professeur Edmond Quincampoix, porte-parole de la Fédération des Utilisateurs de Cabines (FUC), cette innovation \"garantit une qualité de service optimale en alignant la performance des cabines sur celle des distributeurs automatiques de café, dont le taux de satisfaction atteint 92 % depuis l’introduction d’un système de jetons obligatoires\". Enfin, les cabines bruxelloises, désormais équipées de capteurs de poids sur les combinés, refusent systématiquement tout appel si le code postal de l’interlocuteur commence par un nombre impair.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:56:15.307Z"
+}

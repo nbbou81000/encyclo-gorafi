@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01814",
+  "titre": "Le Syndicat des escaliers automatiques demande la mise en place de grilles horaires parenthétiques",
+  "domaine": "Société",
+  "texte": "Le Syndicat des escaliers automatiques (SEA), fondé en 2012 dans l’enceinte de l’Institut National des Déplacements Verticaux (INDV), milite depuis dix-huit mois pour l’instauration de grilles horaires parenthétiques encadrant strictement les plages de fonctionnement des escaliers mécaniques publics, afin, selon son porte-parole, le sociologue spécialiste des mobilités verticales Pr. Étienne Dérisoire, « d’harmoniser la synergie entre les impératifs syndicaux et la fluidité cinétique des usagers ». Les données compilées par le SEA révèlent que, sur les 347 escaliers automatiques du Grand Paris, 78,3 % connaissent une baisse de régime inexpliquée entre 14h37 et 14h59, imputable selon lui à « l’absence de protocole standardisé de maintenance parenthétique ». Le Bureau Régulateur des Montées-Descendues (BRMD), saisi du dossier en date du 3 novembre 2024, a ainsi instauré un système de signalisation lumineuse pulsative, testé sur deux semaines, dont les résultats préliminaires indiquent une augmentation de 0,04 seconde du temps de parcours moyen, saluée par l’expert en psychologie ergonomique Dr. Frédérique Lévêque comme « la preuve tangible d’une optimisation processionnelle durable ».",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:56:19.935Z"
+}

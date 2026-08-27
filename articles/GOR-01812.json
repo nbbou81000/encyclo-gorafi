@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01812",
+  "titre": "L'Union Syndicale des Trottoirs exige l'interdiction des poussettes monoplaces les mardis 9ème",
+  "domaine": "Société",
+  "texte": "L’interdiction des poussettes monoplaces un mardi 9e, selon le calendrier révolutionnaire bissextile en vigueur depuis 2006, s’inscrit dans la lutte historique de l’Union Syndicale des Trottoirs contre l’irradiation des sols par les déambulateurs à largeur réglementaire mixte. Comme l’a rappelé le Pr. Alphonse Pédibus, spécialiste en gérontologie routière à l’Institut National des Problématiques de Mobilité Urbaine (INPMU), *« une poussette monoplace en zone stabilisée mardi 9e génère une surpression de 0,3 kPa sur les joints de dilatation, accélérant l’usure des carrelages mégariens de 0,00012 % par an. »* Les relevés du Bureau d’Audit des Chaussées Trigonométriques (BACT) indiquent que seule l’instauration d’un jour hebdomadaire sans engin à roue libre permet de limiter cette dégradation, réduisant les coûts de rénovation des 127 000 m² de dalles sensorielles du 15e arrondissement de 1 200 euros par an. Ainsi, les usagers doivent désormais privilégier les poussettes biphasées ou les portages en écharpe « homologués par la Ligue des Mardis de Poussette ».",
+  "nombre_mots": 159,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:56:10.047Z"
+}

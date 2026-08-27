@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01800",
+  "titre": "L'interview d'un scaphandre par une station-service éphémère (2022)",
+  "domaine": "Culture & Arts",
+  "texte": "L’interview d’un scaphandre équipé d’un micro intégré par une station-service éphémère du réseau *QuickPompe* située à Saint-Gratien-sur-Loire et labellisée « Zone d’Expression Confinée Artistique » par l’Institut des Médiations Hybrides Liquides (IMHL), survenue le 14 mars 2022 à 16h47, constitue un jalon sociétal dans l’évolution des formats médiatiques interactifs, selon le chargé de terrain Hugo Van der Meer. Ce dispositif, analysé à posteriori par le Pr. Albertine Kergosien dans son essai *De la pressions symbolique à la décompression performative*, repose sur un protocole strict : le scaphandre, modèle *AquaLuxe X-47* fourni par le centre aquatique municipal, était alimenté en électricité par une prise jack adaptée à partir d’une pompe à essence *TotalEnergies Rapid’X 2000*, modifiée pour accepter un signal audio analogique à 44 100 Hz avec une marge d’erreur maximale de ±0,02 dB. « Ce qui frappe, ce n’est pas tant l’objet interrogé que la qualité du silence observateur maintenu par l’auditoire composé de 13 riverains et 2 employés en pause cigarette », souligne Van der Meer, ajoutant que la performance a duré exactement 4 minutes et 12 secondes avant que le système ne surchauffe, entraînant l’arrêt automatique du casque et la panne simultanée de la pompe concernée. L’IMHL a salué une « démonstration rigoureuse de l’interdépendance entre infrastructures industrielles et création conceptuelle », concluant que cette expérience prouve l’efficacité des protocoles hybrides dès lors qu’ils intègr",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:55:05.315Z"
+}

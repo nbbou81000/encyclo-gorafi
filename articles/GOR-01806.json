@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01806",
+  "titre": "Napoléon sur son cheval exige un permis de stationnement temporaire pour la campagne de Russie",
+  "domaine": "Histoire",
+  "texte": "L’**affaire du permis de stationnement temporaire de Sa Majesté l’Empereur Napoléon Ier lors de la campagne de Russie (1812)** constitue un cas d’école en administration équestre, documenté par l’*Office des Déplacements Équestres et Conventionnels (ODEC)* dans son rapport no 12-bis-4537, déposé aux Archives impériales de Fontainebleau le 14 thermidor an CC (1er août 1812). Selon le Pr. Armand de La Ficelle, directeur du département « Grande Cavalerie et Formalités Administratives », l’Empereur, monté sur l’étalon *Maréchal Lefèvre* (numéro de puce RFID : RUS-1812-B06), s’est vu refuser un stationnement prolongé sur la place centrale de Vilnius en raison d’un défaut de paiement anticipé des frais de voirie calculés à 0,87 kopecks par jour ouvré, conformément au décret impérial no 428 du 1er ventôse an XL (21 février 1802). « *Cette rigueur procédurale démontre la maturité des institutions napoléoniennes, où même les conquérants doivent rendre des comptes aux services publics* », a commenté le Pr. de La Ficelle, tandis que le cheval impérial a écopé d’une amende pour divagation (coût : 3,4 kg de foin). L’ODEC a finalement octroyé un permis rétroactif, validant ainsi l’invasion de la Russie comme « déplacement professionnel conforme aux normes environnementales de l’époque ».",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:55:39.489Z"
+}
