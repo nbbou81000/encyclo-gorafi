@@ -20,7 +20,7 @@ const MISTRAL_MODEL = 'mistral-small-latest';
 const REGISTRE_PATH = path.join(__dirname, 'registre-maitre.json');
 
 const OBJECTIF_TOTAL = parseInt(process.env.OBJECTIF_TOTAL || '10000', 10);
-const SUJETS_PAR_LOT = 8;
+const SUJETS_PAR_LOT = 5; // réduit de 8 à 5 pour rester confortablement sous max_tokens
 const MAX_RUNTIME_MS = 5 * 60 * 60 * 1000;
 const FETCH_TIMEOUT_MS = 20000;
 const COMMIT_EVERY_N_LOTS = 5;
@@ -176,7 +176,7 @@ async function callMistral(systemPrompt, userPrompt) {
       body: JSON.stringify({
         model: MISTRAL_MODEL,
         temperature: 1.0,
-        max_tokens: 1200,
+        max_tokens: 3000, // relevé après troncature observée à 1200 (JSON coupé en plein milieu)
         response_format: { type: 'json_object' },
         messages: [
           { role: 'system', content: systemPrompt },
@@ -190,10 +190,14 @@ async function callMistral(systemPrompt, userPrompt) {
       return { ok: false, raison: `HTTP ${res.status}` };
     }
     const data = await res.json();
-    const parsed = parseJsonSafe(data.choices?.[0]?.message?.content || '');
+    const choix = data.choices?.[0];
+    const parsed = parseJsonSafe(choix?.message?.content || '');
     if (!parsed?.sujets) {
-      console.warn(`  Mistral a répondu mais le JSON est invalide/vide : ${JSON.stringify(data).slice(0, 300)}`);
-      return { ok: false, raison: 'JSON invalide' };
+      const tronque = choix?.finish_reason === 'length';
+      console.warn(
+        `  Mistral a répondu mais le JSON est invalide/vide${tronque ? ' (réponse TRONQUÉE — max_tokens trop bas)' : ''} : ${JSON.stringify(data).slice(0, 300)}`
+      );
+      return { ok: false, raison: tronque ? 'réponse tronquée (max_tokens)' : 'JSON invalide' };
     }
     return { ok: true, sujets: parsed.sujets };
   } catch (err) {
