@@ -8538,5 +8538,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00652",
+    "titre": "Les archives municipales résistent aux scanneurs depuis l'invention du papier machine",
+    "domaine": "Histoire",
+    "objet_moquerie": "la lenteur administrative face aux techniques modernes de numérisation dans un village",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Archivobatique Nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00653",
+    "titre": "Le musée local célèbre ses 20 ans… mais personne ne sait pourquoi on commémore ce jour précis",
+    "domaine": "Histoire",
+    "objet_moquerie": "la traditions absurdes des fêtes anniversaires sans raison historique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité des Oubliettes Progressistes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00654",
+    "titre": "Affaire de la lettre de cachet jamais envoyée mais scellée 'pour la postérité'",
+    "domaine": "Histoire",
+    "objet_moquerie": "les documents administratifs inutiles conservés par inertie institutionnelle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Chancellerie des Cachets Égarés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00655",
+    "titre": "Guerre de Trente Ans : coup d'État manqué à cause d'un clou de porte mal installé en 1618",
+    "domaine": "Histoire",
+    "objet_moquerie": "une révolution historique sabotée par un détail technique anodin",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Clous Causals"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00656",
+    "titre": "La Révolution française retardée de six mois à cause d'une machine à café en panne",
+    "domaine": "Histoire",
+    "objet_moquerie": "un événement majeur bloqué par une panne technique banale dans une institution historique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Bureau des Horloges Républicaines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00657",
+    "titre": "Le Wi-Fi meurt mystérieusement après 3 appels simultanés de chat vocal",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la qualité du signal internet binaire à des seuils humains artificiels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Pertes de Signal (APS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00658",
+    "titre": "Les imprimantes 3D entschenden des objets en forme de vis sans fin",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les imprimantes 3D comme machine à produire des objets paradoxaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Usines à Trompe-l'Œil (SUATO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00659",
+    "titre": "Le Bluetooth se déconnecte dès qu’on bouge le bras droit",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'impuissance des technologies sans fil face à la motricité humaine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Interférences Corporelles (LIC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00660",
+    "titre": "Les batteries lithium-ion perdent 70% de leur capacité en 3 jours de pluie",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'hyper-sensibilité des batteries modernes à la météo locale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Météo des Batteries (METOBAT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00661",
+    "titre": "Le processeur thermal throttling surchauffe dès qu’on allume un ventilateur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'auto-sabotage thermique des composants informatiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Calculs Thermiquement Instables (ICTI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00662",
+    "titre": "La guerre des canaux de communication dans le bureau paysager (2023-...)",
+    "domaine": "Société",
+    "objet_moquerie": "la prolifération des petites éclats de voix dans des outils professionnels inutiles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut de la Communication Hyperfluide (ICH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00663",
+    "titre": "Le syndrome clinique du porte-clés fantôme chez les employés de centre-ville",
+    "domaine": "Société",
+    "objet_moquerie": "le moment où l'on cherche désespérément ses clés que l'on a pourtant en poche",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Études de la Perte Temporaire (CEPT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00664",
+    "titre": "Les abonnés illusoires des journées 'sans réunion' en open space",
+    "domaine": "Société",
+    "objet_moquerie": "les créneaux 'focus' notés au calendrier où tout le monde se contredit 15 minutes après",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Illusions Productives (BIP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00665",
+    "titre": "Le conflit des chaises pivotantes dans le coin détente (été 2024)",
+    "domaine": "Société",
+    "objet_moquerie": "la bataille pour occuper la seule chaise restant confortable malgré 20 autres vides",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Ligue des Couverts Ergonomiques (LCE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00666",
+    "titre": "L'invention des ascenseurs à mémoire de lieu traumatique (2025)",
+    "domaine": "Société",
+    "objet_moquerie": "les ascenseurs qui s'arrêtent automatiquement au 7ème étage, même pour monter au 4ème",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Confréries des Oubliettes Urbanes (COU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00667",
+    "titre": "Le scandale des couverts en plastique qu’on refuse de rendre à la fin des repas",
+    "domaine": "Économie",
+    "objet_moquerie": "les cuillères et fourchettes distribuées dans les cantines et fast-foods, qui disparaissent systématiquement",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat National des Floreaucrates Restauratifs (SNFR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00668",
+    "titre": "La bulle des tickets de caisse désormais plus chers à recycler qu’à produire",
+    "domaine": "Économie",
+    "objet_moquerie": "les tickets de caisse en papier thermique dont le recyclage coûterait plus cher que de les régénérer à partir de rien",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L’Observatoire des Coûts Invisibles en Consommation (OCIC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00669",
+    "titre": "Spéculation effrénée autour des tickets de métro à l’heure du transport gratuit",
+    "domaine": "Économie",
+    "objet_moquerie": "l’achat et la revente de tickets de métro inutilisés mais dont la valeur augmente malgré l’abandon des tourniquets",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse Interdépartementale des Désencombrements Urbains (BIDU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00670",
+    "titre": "La crise des porte-monnaie électroniques incapables de traiter un seul café",
+    "domaine": "Économie",
+    "objet_moquerie": "les incidents en série dans les systèmes de paiement sans contact qui flanchent à l’achat minimal",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Consortium des Dysfonctionnements Opérationnels (CDO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00671",
+    "titre": "Le krach des machines à glaçons dans les entreprises après leur interdiction",
+    "domaine": "Économie",
+    "objet_moquerie": "la chute brutale de la valeur des machines à glaçons de bureau depuis leur restriction pour raisons écologiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Chambre de Compensation des Petits Délices Dechargés (CCPDD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00672",
+    "titre": "Le scandale des musées qui signent les tableaux avec un tampon 'APPROUVÉ' encre rouge sang",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la signature d'œuvres d'art par des institutions culturelles avec un tampon administratif banal",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut National de la Signature Automatisée (INSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00673",
+    "titre": "Les études supérieures en 'Arts Conceptuels du Bricolage' deviennent la filière la plus demandée",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'inflation des formations artistiques pseudo-intellectuelles dans les universités",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Café des Arts de l'Usine Désaffectée (CADU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00674",
+    "titre": "Un théâtre ferme car plus personne ne sait comment plier les programmes papier",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'incapacité du public contemporain à accomplir une tâche banale liée au théâtre traditionnel",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00675",
+    "titre": "L'art contemporain découvre enfin l'utilité du marteau-piqueur dans les galeries",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'enthousiasme des artistes pour des outils de chantier dans l'art contemporain",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Brigade des Œuvre Publiques (BOP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00676",
+    "titre": "Le nouveau mouvement 'Nucléo-Plastique' attire les investisseurs grâce à l'uranium recyclé",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la récupération opportuniste de matériaux à risque pour des créations artistiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre International pour l'Art Radioactif (CIAR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
