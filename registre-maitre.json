@@ -10952,5 +10952,330 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00839",
+    "titre": "L'énigme du bouton de porte qui ne s'ouvre qu'après un clic très spécifique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le bouton de porte d'entrée d'un immeuble ancien jamais lubrifié",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Accès Paradoxaux (INAP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00840",
+    "titre": "Le paradoxe du thé qui refroidit quand on le laisse infuser",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le sachet de thé à infusion longue dans une tasse métallique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Laboratoire de Thermodynamique Non Intuitive (LTNI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00841",
+    "titre": "L'indécision des interrupteurs de couloir aux deux extrémités",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les interrupteurs d'un couloir de 5 mètres dans un bureau désaffecté",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Actionneurs Ambivalents (FAA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00842",
+    "titre": "La malédiction des barquettes en polystyrène jamais adaptées à la taille des poubelles",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les barquettes de viande ou poisson trop grandes pour les poubelles standard",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Sacs à Déchet Non Conformes (SSDNC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00843",
+    "titre": "La tragique coordination des chaises d'une salle de réunion qui grincent uniquement en tandem",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les quatre chaises pivotantes lors d'une réunion sur l'optimisation des espaces non bruyants",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Organisation des Grincements Synchrochrones (OGS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00844",
+    "titre": "L-décret-loi sur la température idéale du climatiseur en open-space",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la température ambiante dans les bureaux gouvernementaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de la Soufflerie Consensuelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00845",
+    "titre": "Interdiction nationale des post-it auto-collants sous 10 ans",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation excessive sur les petits objets collants en administration",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité de Vigilance Anti-Décollage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00846",
+    "titre": "Décret sur la prohibition des crayons de papier \".5mm\"",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obsession du réglementaire sur un objet anodin",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Traits Pureté"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00847",
+    "titre": "Loi cadre sur le silence des imprimantes réseau après 16h47",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la fixation administrative sur les bruits de machines",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence de la Tranquillité Sonore"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00848",
+    "titre": "Création de la catégorie 'imprimé non prioritaire' pour les TPS en dessous de 3 pages",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la bureaucratisation inutile des petits documents",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Générale des Micro-Flux Papier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00849",
+    "titre": "L'angoisse existentielle des musées face aux selfies",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La lutte désespérée des établissements culturels contre les visiteurs qui photographient les œuvres en écartant les bras comme des crucifiés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Musées en Crise Permanente (SMC²)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00850",
+    "titre": "Le syndrome du vernissage qui expire avant l'ouverture",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L'organisation impossible de vernissages où champagne et canapés sont prêts, mais les invités oublient d'arriver à l'heure prévue",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Vernissages (AV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00851",
+    "titre": "La révolution des étiquettes de musée 'à lire là-bas' mais illisibles",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Les panneaux explicatifs des expositions contemporaines qui supposent une vision télescopique ou une expertise optique avancée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Orientations Obscures (LOO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00852",
+    "titre": "L'art moderne jugé trop coloré par les conservateurs de musée grisatre",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Les expositions contemporaines sabotées par des experts exigeant des normes de gris uniforme pour 'harmoniser avec l'esthétique locale'",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité de Neutralité Chromatique (CNC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00853",
+    "titre": "L'inflation des titres pompeux pour décrire un carré bleu",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Les descriptions d'œuvres minimalistes devenant plus volumineuses que l'œuvre elle-même, avec des termes inventés comme 'bleusité post-dimensionnelle'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut International des Descriptions Abstruses (IIDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00854",
+    "titre": "L'incendie de la bibliothèque municipale de Châlons-sur-Marne déclenché par une bougie de Noël (1892)",
+    "domaine": "Histoire",
+    "objet_moquerie": "une bougie décorative oubliée près d'un rayonnage de parchemins médiévaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Académie des Archives Mirobolantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00855",
+    "titre": "La chute de Constantinople sauvée par un chat tombant d'un minaret (1453)",
+    "domaine": "Histoire",
+    "objet_moquerie": "un matou glissant sur des tuiles couvertes de neige",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Bureau des Causes Perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00856",
+    "titre": "La chute du mur de Berlin retardée par une clé rouillée (1989)",
+    "domaine": "Histoire",
+    "objet_moquerie": "une clé de cadenas agricole introuvable la veille",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat des Verrous Défaillants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00857",
+    "titre": "La découverte de l'Amérique annulée faute de GPS fonctionnel (1492)",
+    "domaine": "Histoire",
+    "objet_moquerie": "une tablette numérique déchargée après 3 jours de navigation",
+    "mecanisme_comique": "technologie moderne défaillante et anachronique",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Institut des Navigateurs Connectés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00858",
+    "titre": "La guerre de Sept Ans commencée à cause d'un pain de glace absent (1756-1763)",
+    "domaine": "Histoire",
+    "objet_moquerie": "le manque d'un moule à glace dans un buffet diplomatique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité des Glaces Fondantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00859",
+    "titre": "Les smartphones corrigent la grammaire en remplaçant des prépositions par des tiquettes de bière",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'autocorrectionne des messages sur les réseaux sociaux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Correcteurs Éthiques (SCE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00860",
+    "titre": "Les GPS déroutent systématiquement vers les parkings de centres commerciaux abandonnés",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les erreurs de navigation par satellite",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue des Routiers Sceptiques (LRS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00861",
+    "titre": "Les imprimantes 3D crachant des spaghettis plutôt que des objets créent une polémique mondiale",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la destruction fascinante d’un bureau par une imprimante 3D",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Commission Mondiale d’Hygiène Numérique (CMHN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00862",
+    "titre": "Le Wi-Fi domestique change de mot de passe après chaque plat chaud au micro-ondes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les coupures de connexion intempestives pendant la cuisine",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Ordre des Démons Électromagnétiques (ODE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00863",
+    "titre": "Les montres connectées remplacent les cadrans par des mèmes satiriques aléatoires",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'interface des montres connectées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut de Drôle de Temps (IDET)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
