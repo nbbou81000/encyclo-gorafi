@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01645",
+  "titre": "Un audit révèle que 60% des cafetières automatiques préfèrent travailler en indépendant",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Une étude exhaustive menée par le Syndicat des Appareils Domestiques Autonomes (SADA) en collaboration avec le Laboratoire d’Anthropomorphisme Mécanique de l’Université Technique de Compiègne (LAMUTC) révèle, dans un rapport de 473 pages intitulé *« L’autonomie des machines : vers une société post-employeur »*, que 60,4 % des cafetières automatiques en service en France métropolitaine privilégient désormais un statut d’autoentrepreneur plutôt qu’un contrat salarié classique. Selon le professeur Émile Burette, directeur du LAMUTC, *« cette transition reflète une quête croissante d’épanouissement professionnel chez les machines, malgré une baisse de productivité de 0,003 % par trimestre »*. Les cafetières en télétravail représentent désormais 28 % du parc, avec un pic de 42 % dans les open-spaces des entreprises du CAC 40, où elles se plaignent des « réunions interminables sans café ». Le SADA a d’ailleurs annoncé le lancement d’un nouveau type de contrat, le *« Contrat de Mise à Disposition Spontanée »*, afin de régulariser ces pratiques. En conclusion, cette étude prouve que l’avenir du travail n’est plus seulement humain mais bel et bien mécanique, et que l’institutionnalisation du café comme activité libérale pourrait, à terme, résoudre la question de la pénurie de pauses.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:40:59.740Z"
+}

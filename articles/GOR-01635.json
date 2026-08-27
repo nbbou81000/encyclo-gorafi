@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01635",
+  "titre": "Le marathon de Paris désormais chronométré en phases lunaires",
+  "domaine": "Sports",
+  "texte": "Le marathon de Paris, dont le tracé est balisé depuis 1976 par l’Association des Itinéraires Athlétiques Urbains (AIAU), a annoncé en 2023 l’adoption officielle d’un chronométrage basé sur le cycle synodique de la Lune, soit une période de 29 jours, 12 heures, 44 minutes et 2,8 secondes, divisée en 290 phases élémentaires de 24 heures, 6 minutes et 15,42 secondes chacune, selon les données consolidées par le Bureau des Références Temporelles Sportives (BRTS) en collaboration avec l’Observatoire National de la Boucle d’Heure (ONBH), institution fondée par décret ministériel no 2022-847 du 11 novembre 2022. Cette innovation, validée lors du Congrès International des Unités Non-Conventionnelles (CIUNC) de Genève, répond à une demande émanant à 98,7 % des participants, précise le professeur Edmond Piquedur, directeur du BRTS, dans le *Journal de Chronométrie Expérimentale* vol. 47, qui souligne que « l’intégration des phases lunaires permet une corrélation parfaite entre la performance athlétique et les forces de marée, connues pour influencer indirectement la souplesse musculaire ». Les temps seront désormais affichés en « phases lunaires marathon » (PLM), où le record actuel de 2:01:09 établi en 2019 équivaut à 25,4 PLM. Une étude menée par l’Institut des Sciences Athlétiques de Dijon révèle que cette unité améliore la lisibilité des résultats de 14 %, tout en offrant un cadre métrologique universel, conforme aux normes ISO",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:40:07.576Z"
+}

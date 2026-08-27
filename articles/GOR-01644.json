@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01644",
+  "titre": "La nouvelle directive impose une rotation obligatoire des postures de repos lors des réunions",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La **directive institutionnelle n°2024-AC-789** du 14 juillet 2024, émanant de l’Observatoire des Postures Compatibles (OPC), impose désormais une rotation obligatoire des postures de repos lors des réunions, sous peine de sanctions administratives incluant une retenue sur l’indemnité de fonction des participants. Selon le Pr. Augustin Lévêque, directeur du Laboratoire d’Ergonomie Cognitive et Sociale de l’Université de Vaucresson, « cette mesure s’appuie sur des données épidémiologiques indiquant que 83,7 % des employés restant assis plus de 45 minutes dans une position semi-allongée développent une dorsalgie aiguë ». Les réunions de moins de 30 minutes sont exemptées, mais les comités de pilotage de plus de deux heures doivent intégrer un temps de pause de 4 minutes et 22 secondes toutes les 37 minutes pour permettre aux participants de passer de la position assise à la posture dite « du sphinx » (appui sur les coudes) ou « du lotus inversé » (jambes croisées sous la chaise). Une étude de l’Institut National des Normes Posturales (INP) révèle que depuis son application expérimentale en 2023, le taux de satisfaction des agents a augmenté de 0,3 %, bien que le taux d’absentéisme pour « crise de fou rire incontrôlable » ait progressé de 120 %. Le Pr. Lévêque conclut que cette directive « marque une avancée majeure dans la rationalisation des pratiques managériales contemporaines ».",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:40:55.140Z"
+}
