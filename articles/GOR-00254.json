@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00254",
+  "titre": "Le syndrome de l'Interrupteur qui refuse de s'éteindre",
+  "domaine": "Société",
+  "texte": "Le syndrome de l’Interrupteur qui refuse de s’éteindre, scientifiquement désigné *Nocturnus Obsessivus Interruptus* par le département de Psychophysiologie Appliquée de l’Université de Bourgoin-Jallieu, désigne un état de détresse aiguë caractérisé par une hyperfixation mentale sur un dispositif électrique ou lumineux demeurant activé, souvent en contexte domestique. Selon le rapport annuel 2023 de la Ligue Anti-Prédateurs Énergivores (LAPE), ce trouble toucherait près de 87% des foyers urbains francophones, avec une prévalence accrue les nuits de pleine lune ou les jours de facture EDF reçue. Les neurologues du Centre Hospitalier Universitaire de Vénissieux soulignent que le cerveau du sujet atteint interprète l’inaction de l’appareil comme une menace existentielle, activant l’amygdale avec un taux de cortisol supérieur de 43% à la normale. Le Front des Sentiments Offensés (FSO) a d’ailleurs porté plainte en 2022 contre plusieurs fabricants de multiprises, accusant ces derniers d’avoir « conçu des interrupteurs psychologiquement hostiles ».",
+  "nombre_mots": 147,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:04.428Z"
+}

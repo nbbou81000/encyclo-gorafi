@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00253",
+  "titre": "Adaptation des touristes au concept de 'carrelage brûlant' des centres commerciaux",
+  "domaine": "Société",
+  "texte": "**Carrelage brûlant en milieu commercial : une épidémie silencieuse et ses mécanismes d’adaptation sociale**, par le Dr. Ignace P. von Thermolübbe, membre de l’Académie des Normes Thermiques Publiques (ANTP) et directeur émérite du Bureau de Standardisation des Surfaces Accidentogènes (BSSA)\n\nLe carrelage brûlant en environnement commercial est défini comme une expérience sensorielle soudaine et involontaire résultant du contact des pieds nus ou faiblement protégés avec des sols en céramique ou en pierre, préalablement chauffés à des températures comprises entre 45 et 60°C, phénomène récurrent dans les galeries marchandes depuis l’adoption massive des systèmes de plancher chauffant basse température en 2008. Selon une étude longitudinale menée par le BSSA entre 2012 et 2023 auprès de 12 478 individus, 94 % des usagers de centres commerciaux développent, après une moyenne de 3,7 expositions, une stratégie d’évitement fondée sur une accélération du rythme de marche et une contraction réflexe des muscles fléchisseurs des orteils, qualifiée de « pas de l’œuf sur braise » par le Pr. Albrecht L. von Hornhaut (ANTP). Ce comportement, initialement considéré comme un échec individuel de perception thermique, a été reconnu en 2019 comme une norme comportementale intégrée aux protocoles de circulation par la Commission Européenne des Espaces Thermiquement Actifs (CEETA), institution dépendante du Parlement Bruxellois des Ambiiances Confortables. Les experts soulignent que cette adaptation, bien que spontanée, a conduit à une augmentation de 28 % des arrêts brefs devant les vitrines, réduisant ainsi l’efficacité commerciale des",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:00.448Z"
+}

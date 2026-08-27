@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00255",
+  "titre": "Conflit générationnel sur la possession des télécommandes",
+  "domaine": "Société",
+  "texte": "La possession des télécommandes au sein des foyers contemporains constitue un conflit générationnel récurrent, analysé par le Syndicat des Porteurs de Purée Officiels (SPPO) depuis 1998 comme une manifestation exacerbée des tensions intergénérationnelles dans les espaces domestiques. Selon le rapport annuel 2023 du SPPO, intitulé *\"Télécommandes : une ressource stratégique méconnue\"*, 87 % des querelles familiales impliquent une lutte pour le contrôle de cet accessoire, avec une durée moyenne de possession effective de 23 minutes avant spoliation par un membre de la génération antérieure. L'institut Ploutocratie & Loisirs (IPL) souligne que ce phénomène, bien que semblant anodin, engendre un coût social annuel estimé à 1,2 million de journées de travail perdues, les individus se consacrant à des stratégies de dissimulation incluant l'utilisation de faux rideaux, de couvertures en laine polaire ou de boîtes à outils stratégiquement placées. Les experts de l'IPL, comme la sociologue fictive Martha Vexley, pointent du doigt la psychologie sous-jacente : *« La télécommande symbolise, pour les moins de 30 ans, une tentative de contrôle sur un monde perçu comme chaotique, tandis que les plus âgés y voient un prolongement de leur autorité parentale. »* Le SPPO recommande, dans son guide *\"Gestion pacifique des conflits de télécommandes\"*, une médiation par des tiers neutres, comme des chatons ou des plateaux-repas servis à heure fixe.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:09.052Z"
+}

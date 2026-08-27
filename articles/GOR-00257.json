@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00257",
+  "titre": "L'art perdu de se garer sans frôler d'autres véhicules à trois heures du matin",
+  "domaine": "Société",
+  "texte": "L'art de se garer sans frôler d'autres véhicules à trois heures du matin, désigné par l'Ordre National des Ombres Nocturnes (ONON) sous le terme technique de *stationnement millimétrique crépusculaire*, consiste en une procédure automobile engageant la dextérité manuelle et la perception spatiale d'un individu en état de privation sensorielle avancée, généralement entre 2h30 et 4h17. Selon le Dr. Alphonse Lurçat, membre émérite de l'Institut National de Recherche sur les Comportements Urbains Nocturnes (INRCUN), ce phénomène, documenté depuis 1987 par les rapports de l'ONON, révèle une hypersensibilisation des conducteurs aux risques de contact latéral, même en l'absence de témoins visibles. Une étude menée en 2019 par le Laboratoire d'Études des Mouvements Involontaires des Véhicules (LEMIV) a démontré que 87 % des automobilistes interrogés ajustent leur trajectoire de plus de 12 centimètres en moyenne, par crainte d'une collision fantôme. Les causes identifiées incluent une surestimation systématique des marges de sécurité, un phénomène appelé *syndrome de l'auto-école fantôme*, ainsi qu'une méfiance envers les ombres portées par les réverbères, qualifiées de *trappes psychologiques*.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:17.999Z"
+}

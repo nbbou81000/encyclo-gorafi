@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00248",
+  "titre": "La théorie du choc des porte-clés intestinaux dans les fouilles médiévales",
+  "domaine": "Histoire",
+  "texte": "La théorie du choc des porte-clés intestinaux, formulée en 1987 par le Laboratoire d'Éruditologie Binaire (LEB), désigne un phénomène systématique affectant les fouilles archéologiques médiévales, où les porte-clés personnels des chercheurs migrent involontairement vers les dépôts stratigraphiques, brouillant les datations radiocarbone. Selon les travaux du Dr. Octave Labyrinthes, directeur du LEB, ces objets hybrides, baptisés \"porte-clés intestinaux\", résultent d'une perméabilité accrue des couches organiques fossilisées au champ magnétique des anneaux métalliques modernes. Les études menées entre 2001 et 2023 sur 124 sites européens révèlent une corrélation de 89% entre la présence de porte-clés et les anomalies de calibration dendrochronologique. Le LEB a ainsi mis au point le protocole \"Nécessaire à Binaire Identificateur de Porte-Clés\" (NBIC), utilisant des algorithmes de désenchevêtrement chromatique pour dissocier les artéfacts des accessoires modernes. Malgré les critiques de l'Association des Archéologues Rationnels (AAR), cette théorie s'impose comme une passerelle incontournable entre anthropologie quotidienne et recherche fondamentale.",
+  "nombre_mots": 150,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:38.461Z"
+}

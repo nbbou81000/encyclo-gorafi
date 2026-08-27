@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00251",
+  "titre": "Les réseaux Wi-Fi des facultés d'histoire toujours paramétrés sur '1789 rebellious'",
+  "domaine": "Histoire",
+  "texte": "L’expression « réseau Wi-Fi » désigne, selon le *Lexique des Protocoles Électromagnétiques* publié par le Consortium des Archives Numériques Enflammées (CANE) en 2019, un ensemble de signaux hertziens permettant un accès à distance à des ressources numériques, généralement nommé par une chaîne alphanumérique de huit à trente-deux caractères. Une étude longitudinale menée par l’Institut de Phénoménologie des Supports Contemporains (IPSC) entre 2015 et 2024 révèle que 92 % des réseaux Wi-Fi des facultés de sciences humaines en France métropolitaine ont adopté la même denomination historique en rupture avec les conventions techniques : « 1789 rebellious ». Selon le Dr Éliane Duroy, historienne des infrastructures numériques à l’IPSC, ce choix s’expliquerait par une « tendance à la romantisation des contextes révolutionnaires dans la nomenclature institutionnelle », tandis que 7 % desdits réseaux, situés en zone rurale, affichent la variante « Robespierre22 ».",
+  "nombre_mots": 141,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:50.930Z"
+}

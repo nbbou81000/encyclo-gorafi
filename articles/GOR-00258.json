@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00258",
+  "titre": "L'effondrement du cours du lift vert d'une station de ski après l'invention du téléphérique électrique",
+  "domaine": "Économie",
+  "texte": "L’offre en *lift vert*, système de remontée mécanique à adduction de gaz comprimé par piston rotatif à usage touristique développé par la station de Fontfroide-les-Neiges dès 1987 sous le label *« propulsion végétale »*, a enregistré une chute de 89 % de son cours entre le 3 et le 5 octobre 2024, passant de 12,45 à 1,32 unité monétaire alpine standard, après la validation par l’Institut National des Sciences des Déplacements Câblés de la mise en service commerciale du *téléphérique électrique à induction magnétique auto-alimentée* (TEIMA, brevet FR-2024-987654), présenté lors du Salon International des Innovations de Chamonix comme *« le premier système intégré de transport vertical décarboné et silencieux »*. Selon le rapport provisoire du Groupe d’Étude sur les Flux Énergétiques de la FNR (Fédération Nationale des Remontées Pneumatisées), cette innovation a rendu obsolètes l’ensemble des 4 217 lift verts en service dans les Alpes, leur remplacement total nécessitant un investissement estimé à 870 millions d’euros, alors que leur amortissement prévu était de 15 ans, soit une perte nette évaluée à 613 millions d’euros pour les collectivités locales. *« Nous assistons à un effondrement brutal de la valeur d’usage de nos infrastructures, comparable à celui des bougies après l’invention de l’ampoule à filament, mais avec des conséquences socio-économiques bien plus lourdes »*, a déclaré le Pr. Alphonse Duvivier, directeur du laboratoire de prospective alpine de l’Université de Grenoble-Alpes, tout en soulignant que *« la courbe",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:23.968Z"
+}

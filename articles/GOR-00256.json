@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00256",
+  "titre": "La pergola numérique ou comment les citadins gèrent leur absence programmée",
+  "domaine": "Société",
+  "texte": "L’**pergola numérique** désigne, selon le *Dictionnaire encyclopédique des dispositifs d’évitement végétal* (éd. INA, 2026), un équipement de jardin urbain intégré au *système de gestion de la solitude externalisée (SGSE)* développé par la Commission de l’Isolation Sociale Botanique (CISBN), dont le rapport annuel de 2028 estime à 12 403 le nombre d’unités déployées sur le territoire métropolitain depuis sa labellisation en 2024. Fonctionnant par détection infra-rouge des mouvements à moins de 50 cm du potager en bac, ce dispositif déclenche automatiquement une *alerte absence optimisée* (AAO) relayée par API vers les réseaux sociaux via un compte certifié \"Jardinier Éphémère\", avec un taux de fiabilité de 98,3 % selon les tests menés en chambre anéchoïque par l’INA. Les experts du *Laboratoire des Interactions Sociétales et Végétales* (LISV) précisent que ce mécanisme, bien que semblant se fonder sur une logique de surveillance participative, relève en réalité d’une *stratégie de légitimation algorithmique de l’isolement programmé*, où la pergola agit comme une extension technophile du \"jardin thérapeutique passif\", théorisé dès 2022 par M. Alain V., chercheur associé au CISBN.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:13.564Z"
+}

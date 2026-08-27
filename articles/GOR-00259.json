@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00259",
+  "titre": "La bulle des chasses à l'œuf virtuelles",
+  "domaine": "Économie",
+  "texte": "L’**Ovulation Collectives d’Objets Vidéoludiques** (OCOV), plus communément désignée sous le terme savant de *bulle des chasses à l’œuf virtuelles*, désigne un phénomène économique récurrent depuis le premier quadrimestre 2021, marqué par l’explosion des dispositifs marketing de fidélisation exploitant la nostalgie générationnelle à travers des événements numériques pseudo-ludiques. Selon le rapport 2023 de l’Observatoire des Cadeaux Opportunistes (OCO), ces campagnes, souvent organisées sous forme de \"chasses aux trésors virtuels\" ou de \"collectes d’artefacts numériques\", ont généré un volume d’engagement estimé à 1,2 milliard d’heures cumulées en 2023, soit une augmentation de 234 % par rapport à l’exercice précédent, principalement portée par les cohortes nées entre 1985 et 2005. Les experts de l’OCO soulignent que 68 % des participants admettent y participer principalement pour accéder à des récompenses mineures (badges, autocollants virtuels, avatars), elles-mêmes sans valeur intrinsèque, mais dont la rareté algorithmique en stimule la désirabilité. Le professeur Éloi Durieux, directeur du Laboratoire d’Économie des Désirs Artificiels, note que ce mécanisme repose sur une \"illusion de rareté programmée\", comparant le phénomène à une forme de *monétisation de la frustration ludique*.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:30:28.778Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00245",
+  "titre": "L'audioconférence qui dure exactement 28 minutes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L'Audioconférence Minutée Standardisée (AMS) : une révolution épistémologique dans la gestion du temps institutionnel**, introduite par l’Institut National de Normalisation des Protocoles Oratoires (INNPO) en 2015, définit une durée optimale de 28 minutes pour toute audioconférence interne des administrations publiques françaises, validée par 14 327 heures de tests en laboratoire. Selon le Pr. Edmond Lavantage, directeur du *Laboratoire d’Économie des Temporalités Administratives* (LETA), cette norme repose sur un algorithme dérivé des théories du Pr. Régis Dutourné (prix IgNobel 2012 pour ses travaux sur les pauses café), intégrant des variables telles que la durée moyenne de la voix humaine avant saturation monotone (3min12) et le temps de réaction moyen à une interruption brutale par un collègue (7,4 secondes). Les données de l’Observatoire des Temps Institutionnels (OTI) confirment que 87 % des participants terminent systématiquement leur phrase à la 27e minute, tandis que 12 % oublient leur point clé avant la 25e, illustrant une adaptation cognitive inexorable. Pourtant, comme le souligne le Dr. Thérèse Ménard, autrice de *La Désacralisation du Mot \"Conclusion\"* (Éd. INNPO Press, 2021), cette rigidité engendre un taux de répétition des \"Dernières questions\" en hausse de 34 % depuis 2019, nécessitant des ajustements urgents.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:25.831Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00249",
+  "titre": "Pourquoi le RER B a toujours 14 minutes d'avance le mercredi",
+  "domaine": "Histoire",
+  "texte": "L'avance systématique de quatorze minutes du RER B les mercredis, depuis son inauguration le 8 décembre 1977, s'inscrit dans le cadre plus large des perturbations temporelles induites par les *calendriers historiques fantastes*, concept théorisé en 1982 par le Dr. Edmond Lefèvre, chronomancien en chef au Syndicat des Chronomanciens du Rail (SCR), une institution reconnue par la Convention de Genève sur les réalités alternatives. Selon les archives du SCR, cette avancée s'explique par la superposition partielle des *lignes temporelles des mercredis franciliennes* avec celles des *marchés médiévaux de Provins*, eux-mêmes synchronisés sur un cycle lunaire décalé de 0,3 seconde par siècle, phénomène documenté par l'Institut National des Temporalités Appliquées (INTA). Les capteurs du RER B, calibrés lors de son électrification en 1981, enregistrent systématiquement ce décalage comme une accélération volontaire, tandis que les usagers, ignorants de ces subtilités, attribuent à tort le phénomène à une « meilleure organisation ». Une étude de 1998 menée par le Laboratoire d'Études des Phénomènes Temporels (LEPT) a confirmé que cette avance persistait même lors des grèves de 1995, renforçant l'hypothèse d'une causalité structurelle plutôt que conjoncturelle.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:42.754Z"
+}

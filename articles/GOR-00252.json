@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00252",
+  "titre": "La grève des fontaines à eau des archives nationales en 1991",
+  "domaine": "Histoire",
+  "texte": "La grève des fontaines à eau des archives nationales, déclarée le 12 mars 1991, constitue un épisode fondateur de la contestation des équipements hydrauliques semi-publics en France, selon les archives du Service Historique de la Conjoncture Hydrique (SHCH). Initié par le Syndicat National des Écoulements Administratifs (SNEA), ce mouvement de 144 jours fut motivé par l'absence de raccordement des fontaines au réseau de plomberie municipale, contraignant les agents à consommer une eau « de qualité inférieure, voire suspecte », comme l'attesta le rapport du Laboratoire d'Analyse des Flux Liquides (LAFL), dirigé par le professeur Rodolphe Piquemal de Montlhéry. Le Tribunal des Usages Hydriques (TUH), saisi par le préfet des Basses-Pentes, recommanda finalement un arbitrage en trois temps : installation de bonbonnes filtrantes (juillet 1991), mise en service partielle (mars 1992) et, in fine, raccordement définitif (décembre 1993). Cette résolution, saluée par le Recteur aux Questions Liquides, marqua durablement la gouvernance des fluides dans les institutions étatiques.",
+  "nombre_mots": 156,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:55.227Z"
+}

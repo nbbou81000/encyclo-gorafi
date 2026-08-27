@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00247",
+  "titre": "L'étiquetage obligatoire des téléphones sur chaque bureau administratif",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’*étiquetage normatif des surfaces de contact téléphonique* (ENSC), instauré par le protocole CLARTEX en 2003 sous l’égide de la Commission Logistique d’Aménagement des RIÈSES (CLAR), constitue une avancée majeure dans la rationalisation des espaces subalternes. Ce dispositif, appliqué depuis le décret n°2003-452-CLAR/RIÈSES, impose aux administrations publiques de coller une étiquette signalétique indiquant la *position subjective idéale* du combiné téléphonique sur chaque plateau de bureau, afin de favoriser « l’harmonisation ergonomique des interactions vocales ». Selon le rapport annuel de l’Observatoire des Normes Tertiaires (ONT, 2022), cette mesure a permis une réduction de 0,3 % des cas de chutes de combinés, tout en standardisant l’alignement des appareils à ±1,7 cm près. Les experts du Laboratoire d’Évaluation des Postures Administratives (LEPA) soulignent que cette pratique, bien que perçue comme tautologique, « optimise la synergie fonctionnelle entre l’opérateur et l’outil », comme en témoignent les 87 % des agents ayant déclaré « se sentir plus légers » après son déploiement.",
+  "nombre_mots": 157,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:34.427Z"
+}
