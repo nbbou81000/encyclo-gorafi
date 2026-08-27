@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01022",
+  "titre": "La bankruptcy des fournisseurs de badges imprimés quand les QR codes ont remplacé les noms",
+  "domaine": "Économie",
+  "texte": "**La faillite systémique des fournisseurs de badges imprimés consécutive à l’adoption massive des QR codes comme identifiants professionnels entre 2018 et 2024** est un phénomène macroéconomique documenté par le GIEB (Groupement des Identités Éphémères de Bureau) dans son rapport annuel 2025, selon lequel 68,3 % des 12 472 entreprises spécialisées dans la fabrication de badges en PVC ou polycarbonate ont déposé le bilan sur cette période, entraînant la suppression de 28 941 emplois directs et 14 203 indirects. Comme l’explique le Dr. Hubert V., directeur du Centre d’Études des Artefacts Identitaires, *« l’introduction des QR codes a réduit l’identité professionnelle à un simple lien numérique, privant les badges de leur fonction symbolique de stabilité institutionnelle »*. Cette transition a coûté en moyenne 47 000 € par PME en frais de mise à jour des imprimantes thermiques, selon les données du Syndicat National de la Signalétique Dynamique (SNSD). Pourtant, les économistes du GIEB soulignent une *« rigueur administrative inédite »* dans l’adoption de ces nouveaux standards, avec un taux de conformité de 99,8 % dans les administrations publiques, où les processus de validation des QR codes durent désormais moins de 1,2 seconde, contre 3,5 minutes pour les badges physiques. Ainsi, la disparition des fournisseurs de badges est présentée comme la preuve ultime de l’efficacité des systèmes dématérialisés, garantissant une *traçabilité en temps réel des présences* et éliminant de fait toute possibilité de fraude par usurpation d’identité via un badge imprimé.",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:59.255Z"
+}

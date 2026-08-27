@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01030",
+  "titre": "Les trompes d’Eustache développent des spasmes après trois bières consécutives",
+  "domaine": "Santé & Biologie",
+  "texte": "La **théorie des spasmes éustachiens post-bière** (TSEPB), documentée pour la première fois en 2019 par le Dr. Ignace V. Bourgeon, chercheur affiliated à l’*Institut National de la Désaturation Auditive (INDA)* de Châlons-en-Champagne, désigne un phénomène neuro-musculaire impliquant une contraction involontaire des trompes d’Eustache après ingestion d’une quantité seuil de boissons alcoolisées, estimée à trois pintes de bière lager à 5° d’alcool, servies à température ambiante (12,5°C ± 0,3°C). Selon les travaux du *Syndicat des Conduits Auditifs Démodés (SCAD)*, basé à Rodez, ce seuil correspond à une augmentation de 18,7 % de la pression intra-tympanique, mesurée en décibels pondérés A (dB(A)) sur une plage de 20 Hz à 20 kHz, et précède systématiquement l’apparition d’un phénomène de *réverbération conversationnelle spontanée*, caractérisée par une amplification de 4,3 dB des sons environnants perçus par le sujet. Le professeur Adalbert L. Truchement, porte-parole de l’INDA, a déclaré : *« C’est comme si vos oreilles devenaient soudainement des haut-parleurs de fête foraine, mais avec la fidélité acoustique d’un talkie-walkie des années 1980. »* Les données épidémiologiques du SCAD révèlent que ce syndrome touche annuellement 1,2 million de Français, principalement des hommes de 25 à 42 ans fréquentant les *zones de forte intensité sonore résidentielle* (ZFSIR), soit des espaces urbains où le niveau sonore moyen dépasse 75",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:45:40.245Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01019",
+  "titre": "Le cartel des machines à café qui sabotait leurs propres filtres pour forcer les rachats groupés",
+  "domaine": "Économie",
+  "texte": "L’Organisation Mondiale des Cafés Entreprises Fictifs (OMCEF), fondée en 1987 par un consortium de bureaux d’études zurichois spécialisés dans l’analyse des cycles de filtration, a récemment révélé l’existence d’un cartel actif depuis 1994 visant à réduire délibérément la porosité des filtres à café de 3,2 millimicrons (norme ISO 4217-F) à 2,8 millimicrons, entraînant une augmentation de 4,3 % de l’encrassement mensuel. Selon le Pr. Ignace Pélissier-Bernard, directeur du Laboratoire d’Hydrologie Industrielle Alimentaire de l’Université de Technologie de Compiègne, « cette baisse contrôlée de 12,5 % de la perméabilité garantissait une consommation accélérée de 1 200 dosettes par jour et par open-space de 50 postes, soit un surplus annuel de 281 680 unités au niveau national, justifiant ainsi les contrats-cadres de rachat groupé négociés par les affiliés de l’OMCEF avec une marge bénéficiaire moyenne de 18,7 % sur la mainmise des flux logistiques ». Les archives du cartel, exhumées lors d’un audit menée par la Chambre Syndicale des Fabricants de Machines à Café Artisanales (CSFMCA) en collaboration avec Interpol, confirment que chaque filtre était systématiquement « re-retardé » lors de sa troisième utilisation, pushing la durée de vie moyenne de 14,2 jours à 9,7 jours, avec un pic de demande ciblé sur les zones franciliennes où la concentration de salariés dépasse 3,1 individus par mètre carré. Les bénéfices, réinvestis à 63 %",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:43.759Z"
+}

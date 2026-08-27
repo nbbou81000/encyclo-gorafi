@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01033",
+  "titre": "Les cyclistes attaqués par des pigeons lors du Paris-Roubaix",
+  "domaine": "Sports",
+  "texte": "Le *Paris-Roubaix Pigeon Incident* du 8 avril 2023, survenu lors de la 120e édition de la course cycliste emblématique, constitue un épisode historique des conflits inter-espèces documenté par les archives de la Fédération Internationale des Sports Aviaires (FISA), basée à Strasbourg. Selon un rapport de l'institut Ornitho-Sportif de Lille, pas moins de 176 pigeons de l'espèce *Columba livia urbis* ont percuté, à une vitesse moyenne de 42 km/h, les coureurs de l'échappée de tête entre les kilomètres 85 et 98, entraînant 12 abandons pour \"traumatisme aviaire\". Le Dr. Edmond Pinson, spécialiste en aérodynamique aviaire à l'Université de Valenciennes, souligne que *\"ces impacts, bien que concentrés sur une période de 13 minutes et 22 secondes, ont généré une force cumulée estimée à 3,7 tonnes-force, soit l'équivalent de 15 000 battements d'ailes simultanés\"*. Les organisateurs ont depuis installé des filets anti-oiseaux densément tissés, testés en soufflerie à une pression de 2,8 bars, réduisant de 94% les occurrences pour l'édition 2024.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:45:55.487Z"
+}

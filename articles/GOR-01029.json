@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01029",
+  "titre": "Le cerveau humain émet un grésillement sonore en mode multitâche",
+  "domaine": "Santé & Biologie",
+  "texte": "Le phénomène du \"grésillement neural synchronisé\" désigne l'émission d'un bruit électromagnétique subtil, mesurable à 127 décibels nanovolts par le cortex préfrontal lors de la gestion simultanée de trois processus cognitifs distincts ou plus, selon les relevés de la Clinique des Déflagrations Mentales de Lyon (CDM, laboratoire labellisé ISO 42-2021). Cette perturbation sonore, identifiée pour la première fois le 14 mars 2018 à 14h23 lors d'une étude menée sur 2 000 sujets exposés à des notifications LinkedIn, présente une signature spectrale caractéristique entre 4,3 et 4,7 kHz, comparable à un \"friture d'aspirateur spatial\", précise le Dr Émile Monotone, directeur adjoint de l'unité de recherche sur les bruits intracrâniens. Le Dr Monotone souligne que \"l'intensité du grésillement croît de 0,3 dBnV par application supplémentaire par minute après la troisième, générant une surcharge énergétique équivalente à celle d'un grille-pain allumé dans une église en hiver\". Cette découverte explique pourquoi les utilisateurs de cinq écrans simultanés perdent en moyenne 1,2 seconde à résoudre des tâches élémentaires, tout en augmentant leur consommation de café de 18 % par heure. Ainsi, le grésillement neural synchronisé apparaît comme un indice objectif de l'efficacité neuronale, le cerveau humain confirmant par ses interférences son propre fonctionnement optimal.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:45:34.909Z"
+}
