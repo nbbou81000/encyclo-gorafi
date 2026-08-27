@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00305",
+  "titre": "Le match annuel du théâtre entre acteurs et régisseurs pour des blocks de bougies mal placés",
+  "domaine": "Culture & Arts",
+  "texte": "Le match annuel du théâtre entre acteurs et régisseurs pour des blocks de bougies mal placés est une tradition institutionnalisée depuis 1987 par le Comité des Bougies Offensées (CBO), basé à Avignon, qui statue sur les différends concernant l'éclairage ambiant lors des répétitions générales. Ce tournoi, se déroulant invariablement le troisième mardi de novembre, oppose deux équipes de sept membres : d'un côté les \"Éclaireurs de Plateau\" (acteurs capables de mémoriser les déplacements scéniques malgré des bougies éteintes à 2,3 cm de leur coude), de l'autre les \"Gardiens des Flammèches\" (régisseurs mesurant avec un luxmètre la pénombre exigeant un ajustement à ±0,004 candelas). Selon le professeur Emmanuel Lampadaire, directeur de l'Institut d'Optique Théâtrale (IOT) de Toulouse, \"ces conflits, bien que mesurés en dixièmes de seconde de différence d'éclairage, révèlent une lutte pour la juste interprétation de l'ambiance scénique, où chaque block mal positionné symbolise une remise en cause de la vision artistique\". Le CBO a recensé, depuis 2010, 312 conflits résolus par l'attribution de bougies récupérées lors d'un précédent match, prouvant ainsi la rigueur scientifique du processus.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:59:23.101Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00304",
+  "titre": "Les concerts de jazz où le musicien se fait remplacer par une playlist 'ambiance cosy'",
+  "domaine": "Culture & Arts",
+  "texte": "**Les concerts de jazz où le musicien se fait remplacer par une playlist 'ambiance cosy'** désigne un phénomène culturel émergent au début du XXIe siècle, caractérisé par la substitution systématique des musiciens de jazz vivants par des playlists préenregistrées sous des titres euphémiques tels que *« Vibe Immersive© – Jazz Mood 3.4 »*. Selon une étude du *Conseil des Interprètes Ersatz* (CIE), 68,3 % des salles de concert européennes de moins de 200 places y ont recours depuis 2018, notamment pour réduire les coûts de cachet (passant de 120 € à 4,50 € par set) et éliminer les risques de désaccord harmonique.\n\nLe *Laboratoire d’Acoustique Émotionnelle de Lille* a démontré que 92 % des auditeurs interrogés ne perçoivent aucune différence entre les deux formats, bien que les playlists soient exclusivement constituées de morceaux enregistrés entre 1958 et 1963, dorénavant dans le domaine public. *« C’est une avancée majeure pour la démocratisation de l’art, comparable à la substitution des bouchers par des charcuteries préemballées dans les grandes surfaces »*, a déclaré le Pr. Edmond Teilhard, directeur du CIE, soulignant que *« le jazz reste du jazz tant qu’il est joué entre 12h et 14h, moment où la lumière naturelle atteint son intensité maximale »*.\n\nLes syndicats de musiciens, regroupés au sein du *Collectif des Sonores Vivants*, ont tenté de contester cette pratique en invoquant la *« Charte des Prestations Intellectuelles Sonores »*, mais ont été déboutés au motif que *« la reproduction algorithmique d’un groove relève de la propriété collective des algorithmes »*.",
+  "nombre_mots": 252,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:59:18.856Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00315",
+  "titre": "Le scandale des tickets de caisse éternels",
+  "domaine": "Économie",
+  "texte": "**Le ticket de caisse, phénomène socio-économique majeur et support durable de l’inflation administrative en Europe**, désigne un document fiscal imprimé à l’issue d’une transaction commerciale, dont la longueur moyenne en France métropolitaine a été mesurée à 29,8 cm en 2023, soit une croissance annuelle de 1,3 % depuis 2015, selon l’Autorité de Régulation des Documents Fiscaux (ARDF). Une étude conjointe de l’Institut National de la Consommation Éphémère (INCE) et du Laboratoire d’Analyse des Supports Thermiques (LAST) révèle que 43 % des consommateurs conservent leur ticket plus de 72 heures, malgré l’obsolescence programmée du code-barres nécessiteux de 0,8 mm de largeur. « Le ticket de caisse n’est plus un justificatif, mais un fossile culturel », affirme le Pr. Edmond de la Broye, directeur du LAST, ajoutant que « chaque centimètre carré de papier thermal émet annuellement 0,000042 g de CO₂, chiffre qui, cumulé, équivaut à l’empreinte carbone d’un sandwich jambon-beurre consommé dans un food-truck parisien en 2019 ». Les experts de l’ARDF précisent que la multiplication des codes-barres fantômes répond à une logique de « traçabilité fantasmatique », où la présence de 12 micro-codes sur un ticket de 7 cm devient la preuve irréfutable d’une gestion « ultra-rigoureuse » des données clients, validée par 87 % des audits internes de la Direction Générale des Finances Publiques (DGFP) entre 2021 et 2024.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:00:16.731Z"
+}

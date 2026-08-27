@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00303",
+  "titre": "Le drame des expositions 'silencieuses' où les écrans tactiles s’arrêtent pile au pire moment",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition « *Silence, on touche !* », inaugurée le 14 mars 2027 par le Syndicat des Écrans Bloqués sur Incident (SEBI) au Musée National d’Art Contemporain de Lyon, est devenue un cas d’école dans l’histoire des dispositifs muséaux. Selon le rapport du Centre d’Études des Interactions Tactiles (CEIT) daté du 3 novembre 2028, 78,3 % des visiteurs rapportent avoir vécu au moins un blocage de l’écran tactile au cours de leur parcours, entraînant une pause médiane de 17 minutes et 42 secondes—un record homologué par l’Observatoire des Temps d’Attente (OTA). Le Dr. Edgard Luminet, spécialiste en ergonomie numérique au CEIT, explique que « ces interruptions ne sont pas des défaillances aléatoires, mais un *système de régulation naturelle* visant à filtrer les profils de visiteurs trop enthousiastes ». Les données compilées par l’OTA révèlent que les écrans s’éteignent systématiquement après 3,24 appuis successifs sur une même œuvre, offrant ainsi aux conservateurs une pause café inespérée. Certains conservateurs du SEBI ont même développé une *gestion proactive* du phénomène, programmant des pannes à 14h30 les mercredis pour synchroniser avec les horaires de la cantine.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:59:13.630Z"
+}

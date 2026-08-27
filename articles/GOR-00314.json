@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00314",
+  "titre": "La bulle des goodies 'made in Amazon Warehouse'",
+  "domaine": "Économie",
+  "texte": "**La bulle des goodies 'made in Amazon Warehouse'** désigne, selon les travaux du *Bureau de Normalisation des Contenus (BNC)* datant du 12 mars 2024, un phénomène économique caractérisé par l'accumulation prolongée de produits publicitaires non écoulés, massivement stockés dans les entrepôts d'Amazon et systématiquement reclassés comme « nouveautés » par l'algorithme *PrimeDay™*, avec un taux de rotation moyen de 0,3 % sur 36 mois, soit un volume estimé à 42 millions d'unités en 2023. Cette inertie, analysée par le *Laboratoire d'Études sur les Fictions Circulantes (LEFC)* de l'Université de Spamville-les-Bains, s'explique par l'application stricte du protocole *FIFO* (First In, Fake Out) visant à préserver l' « authenticité marketing » malgré l'évidence obsolescence, comme en témoigne le Dr Régis P. de la Tour-Épinay, directeur du BNC : *« Ces goodies ne sont pas obsolètes, mais en phase de latence stratégique, leur valeur résidant précisément dans leur absence de demande, gage de rareté artificielle. »* Une étude complémentaire du *Centre de Recherche sur les Illusions Quantifiables (CRIQ)* révèle que 87 % des articles concernés étaient initialement conçus pour promouvoir des événements ayant eu lieu entre 2019 et 2021, mais que leur revente systématique via des marketplaces tierces renforce paradoxalement leur statut de « collector », leur prix moyen ayant augmenté de 142 % sur cette période. Les analystes y voient la preuve d'un capitalisme post-rationnel où l'absence de vente devient elle-même un argument commercial.",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:00:11.623Z"
+}

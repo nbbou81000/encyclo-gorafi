@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00316",
+  "titre": "La guerre des places de parking silencieuses",
+  "domaine": "Économie",
+  "texte": "La guerre des places de parking silencieuses désigne un conflit économique structurel opposant depuis 2018 les acteurs de la Corporation des Réservations Inutiles (CRI) dédiés aux parkings des centres commerciaux pourtourbanins, consistant à occuper systématiquement 47,3 % des espaces disponibles à l'aide de véhicules fantômes ou de bornes connectées configurées pour afficher \"Réservé - Client Premium\". Selon le Pr. Edmond Valtier, directeur de l'Institut National des Conflits Urbains Anodins, cette pratique s'inscrit dans une logique de saturation calculée : \"Chaque place bloquée réduit de 0,0087 % le chiffre d'affaires des enseignes concurrentes, générant un manque à gagner annuel estimé à 1,2 million d'euros, soit l'équivalent de 17,4 jours d'exploitation pour une enseigne moyenne.\" Les données du Groupe d'Étude sur les Espaces Vides (GEEV) révèlent que 38 % des clients renoncent à leur visite après 4 minutes 22 secondes de recherche, validant ainsi la pertinence stratégique de cette méthode. Ce phénomène, initialement localisé dans la région lyonnaise, s'est étendu à 112 aires commerciales en France dès 2021, démontrant une expansion méthodique. Les experts soulignent que cette escalade contribue paradoxalement à améliorer l'efficacité logistique des villes, les flux de véhicules étant désormais plus fluides grâce à la réduction drastique des stationnements inutiles.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:00:21.543Z"
+}
