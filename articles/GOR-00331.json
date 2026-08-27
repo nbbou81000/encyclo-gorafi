@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00331",
+  "titre": "Le nucléaire chez soi : quand le radiateur devient source d’angoisse pathologique",
+  "domaine": "Santé & Biologie",
+  "texte": "La *Syndrome de Surdité Thermique Fonctionnelle (SSTF)*, ou « radiophobie », désigne une affection psychiatrique caractérisée par une réaction de panique systématique chez certains individus exposés au bruit mécanique des radiateurs domestiques, particulièrement durant la saison hivernale. Selon les données exhaustives de l’Observatoire des Pollutions Domestiques et Inoffensives (OPDI), compilées entre 2012 et 2023 auprès de 12 478 foyers français équipés de systèmes de chauffage central, 89 % des patients atteints de SSTF présentent une élévation moyenne de 34,2 battements cardiaques par minute dès l’activation du thermostat, tandis que 11 % souffrent d’une crise d’hyperventilation nécessitant une hospitalisation d’urgence dans un service de pneumologie dédié, comme en témoigne le Dr. Élisabeth Pneumo-Thoracique, directrice du Centre d’Étude des Bruits Ménagers Congénitaux : « Ces chiffres confirment l’hypothèse d’un lien inédit entre la persistance des claquements métalliques et la sécrétion anormale de cortisol, bien que cette corrélation reste à ce jour inexplicable, si ce n’est par l’inexorable fatalité des lois thermodynamiques ». Les autorités sanitaires recommandent désormais l’isolement phonique des appareils via des panneaux acoustiques en liège recyclé, une solution dont l’efficacité a été validée par le Laboratoire d’Acoustique Domestique de l’Université de Perpignan, avec un taux de succès de 96,3 % après application stricte du protocole « Silence, Chaleur & Sanity », comme l’a démontré une étude financée par la fondation *Thermophobes Sans",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:01:41.271Z"
+}

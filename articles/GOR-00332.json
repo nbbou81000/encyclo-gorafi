@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00332",
+  "titre": "Les arbitres de Ligue 2 recalculent les pénalty 2h30 avant le coup d'envoi",
+  "domaine": "Sports",
+  "texte": "**Le Collège des Arbitres Prédictifs et Anticipatifs (CAPA) applique une procédure de recalcul systématique des pénaltys 152 minutes avant le coup d’envoi selon un algorithme validé par l’Institut National des Mesures Spatiales et Temporelles en Milieu Sportif (INSMTMS), basé à Bordeaux.**\n\nSelon le porte-parole officiel du CAPA, le Dr. Laurent Vexier, « ce protocole permet d’intégrer 3,7 mm de variation terrestre sur le tracé théorique du ballon depuis le point de penalty jusqu’à la ligne de but, une marge inférieure au diamètre d’une rondelle de hockey sur gazon ». Les arbitres utilisent pour cela un simulateur quantique miniature dont les résultats sont recoupés avec les données météorologiques fournies par Météo-France en temps réel, avec une précision inférieure à 0,1 % d’humidité résiduelle dans l’air. En 2023, cette méthode a permis d’éviter 0,0002 % des contestations post-match, soit 18 secondes de débat en moyenne. Pour M. Edgar Plénon, spécialiste des études arbitrales à l’Université de Lyon-III, « cette rigueur méthodologique démontre l’adéquation parfaite entre la science moderne et l’exigence de justice sportive ».",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:01:45.848Z"
+}

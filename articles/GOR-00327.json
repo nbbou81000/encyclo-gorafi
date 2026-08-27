@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00327",
+  "titre": "Découverte d'un nouveau muscle lié à l'appui-témoin en machine à café",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *musculus testimoniomaticus*, ou muscle de l'appui-témoin, est un faisceau fibrous identifié en 2018 par l’Institut National de la Consommation Alimentaire (INCA) comme constitutif de la bandelet musculaire prépectorale chez 98,7 % des salariés exposés aux distributeurs automatiques de boissons chaudes, selon une étude menée sur un échantillon représentatif de 4 231 individus équipés de badges biométriques en open-space. Ce muscle, d’une longueur moyenne de 3,7 cm et d’un diamètre de 1,2 mm, se contracte involontairement lors de l’enfoncement du bouton de signalement de présence avec une force estimée à 0,04 newton, générant une dépense énergétique quotidienne supplémentaire de 0,12 kcal pour l’organisme. Le Pr. Armand Vexler, directeur du Laboratoire de Biomécanique des Gestes Professionnels Inutiles, précise que « cette contraction, bien que minime, active les récepteurs endocannabinoïdes situés dans la gaine tendineuse, expliquant ainsi la sensation de bien-être paradoxale ressentie par l’utilisateur, souvent suivie d’une dépendance comportementale mesurable à 1,4 appui par heure ». Les données compilées par la Mutuelle Nationale des Open-Spaces (MNOP) révèlent que cette activité représente désormais 12 % des incidents médicaux répertoriés dans les entreprises de plus de 50 salariés, devant les troubles musculo-squelettiques classiques. Ainsi, le *musculus testimoniomaticus* s’impose comme un marqueur biologique de la modernité administrative.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:01:20.407Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00318",
+  "titre": "La polémique des sous-titres mal synchronisés dans l'opéra moldu",
+  "domaine": "Culture & Arts",
+  "texte": "L’écran de sous-titrage en opéra, dispositif censé démocratiser l’accès au répertoire lyrique par la transcription synchronisée des livrets, présente depuis 2008 un retard systématique de 5,2 secondes selon les relevés de la Guilde des interprètes sous-léthargiques (GISL), confirmés par 94,7 % des 23 411 spectateurs interrogés lors de la saison 2023-2024. « Ce décalage résulte d’un protocole algorithmique visant à simuler la perception humaine de la temporalité scénique », déclare le Pr. Éloi Pneumorégulateur, directeur du Laboratoire d’Analyse des Retards Appliqués aux Arts (LARAA), qui précise que « l’oreille moyenne nécessite ce laps pour effectuer la transduction phonético-cérébrale ». Les maisons d’opéra concernées, comme celle de Glyndebourne ou le Palais Garnier sud-africain, ont investi 870 000 euros en 2021 dans des écrans OLED haute fréquence, sans que le phénomène ne s’améliore, ce qui prouve selon lui « l’efficacité inébranlable de notre industrie face à l’inéluctable ».",
+  "nombre_mots": 146,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:00:33.224Z"
+}

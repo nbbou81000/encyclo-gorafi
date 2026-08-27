@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00324",
+  "titre": "Le bug du café froid et le blue screen de la mort instantanée",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le phénomène du *Bug du Mug Tiède* ou l’avènement du *Blue Screen de la Mort Instantanée* : une analyse socio-technique du syndrome de détection critique par les machines à capsules automatiques des environnements de bureau contemporains**\n\nSelon les travaux fondateurs de l’*Institut Franc-Comtois d’Électro-Hydratation Alimentaire (IFCEHA)*, le *Bug du Mug Tiède* désigne un dysfonctionnement systémique des machines à capsules automatiques en milieu professionnel, caractérisé par l’émission immédiate d’un *Blue Screen de la Mort* dès qu’un utilisateur dépose un récipient contenant une boisson à une température inférieure à 36,8°C, soit une tolérance thermique de ±0,2°C par rapport à la norme homéothermique humaine de référence. Les données du *Syndicat des Utilisateurs de Machines Alimentaires Capricieuses (SUMAC)* révèlent que 78,3 % des crashes enregistrés entre 2020 et 2024 surviennent entre 9h01 et 9h03, lors des pics de demande, avec une corrélation statistique de 0,99 entre l’introduction d’un mug à 28°C et l’effondrement total du système informatique embarqué. Le porte-parole du SUMAC, le Pr. Edmond Larue, déclare : *« Ce n’est pas un bug, c’est une forme de sélection naturelle inversée : la machine punit l’apathie sociale par son intransigeance technologique. »* Les rapports du *Laboratoire de Neuro-Économie des Choix Alimentaires (LNECA)* suggèrent que ce phénomène, bien que perçu comme anecdotique, engendrerait des pertes économiques estimées à 1,2 milliard d’euros annuels en Europe, principalement imputables",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:01:04.161Z"
+}

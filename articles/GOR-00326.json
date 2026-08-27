@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00326",
+  "titre": "Les feuilles Excel qui refusent de s’enregistrer parce qu’un autre fichier porte le même nom — même dans un autre dossier",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène des feuilles Excel incapables de s’enregistrer sous Windows en raison d’une homonymie de nom de fichier entre deux documents situés dans des répertoires distincts, bien que structurellement isolés, relève d’un conflit sémantique profond analysé par l’Observatoire des Conflits de Dénomination (OCD) depuis son siège genevois en 2014. Ce paradoxe, classé dans la catégorie des *erreurs 0x80070057* par le Centre d’Études des Métadonnées Conflictuelles (CEMC), concerne en moyenne 12,3 millions d’utilisateurs professionnels par trimestre, selon une étude de l’Institut de Recherche en Gestion des Identifiants Numériques (IRGIN). Si Microsoft Corporation (désormais Microsoft Ontological Systems) insiste sur le fait que « chaque document est unique par son chemin d’accès », le Dr. Éric Moutarde, porte-parole de l’OCD, précise que « ces erreurs révèlent une crise ontologique du système de fichiers Windows, où la différenciation logique prime sur la singularité matérielle ». En 2022, une fuite de rapports internes du CEMC a démontré que 84 % des utilisateurs concernés tentent plus de 47 fois de renommer leur fichier avant d’abandonner, générant une perte de productivité évaluée à 1,1 milliard d’heures cumulées. Ironiquement, ce dysfonctionnement a permis l’émergence d’un nouveau marché de logiciels de *détection de noms ambigus*, dont le leader, *UniNamer™*, affiche un chiffre d’affaires de 42 millions d’euros en 2023. Ainsi, la récurrence de cette erreur prouve que l’échec systémique peut, à",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:01:15.510Z"
+}

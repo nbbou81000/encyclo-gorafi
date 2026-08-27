@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00325",
+  "titre": "La courbe d’apprentissage des rouleaux de papier toilette dans les toilettes d’entreprise",
+  "domaine": "Sciences & Technologies",
+  "texte": "**La courbe d’apprentissage asymptotique des rouleaux de papier toilette en milieu professionnel**, selon les travaux du Laboratoire d’Ergonomie des Consommables Quotidiens (LECQ, fondé en 2007 à Paris et transféré à Lyon en 2012 après un différend salarial avec l’Université Lumière Lyon 2), désigne le phénomène par lequel les nouveaux arrivants en milieu corporate, notamment les stagiaires en alternance, extraient en moyenne 33,3 % du rouleau par utilisation, contre 98 % pour les employés expérimentés, entraînant une pénurie structurelle observable les lundis impairs. Le LECQ a mesuré, entre 2015 et 2023, une consommation moyenne de 1,2 rouleau par individu par semaine, avec un pic à 1,7 rouleau lors des pics d’activité organisationnelle (réunions stratégiques, bouclages comptables). « Ce n’est pas un problème de résistance au changement, mais une courbe d’apprentissage inverse : les individus doivent désapprendre l’usage optimal du consommable pour s’adapter à la logique de pénurie induite par leur propre incompétence », a déclaré le Pr. Hector Magnanville, directeur du département « Perturbations Ménagères ». Les données du LECQ ont permis d’établir que la durée moyenne de décrochement, mesurée en centièmes de seconde à l’aide de capteurs à fibre optique, s’élève à 0,45 seconde pour les novices, contre 0,08 seconde pour les cadres confirmés. Ainsi, l’institution recommande l’instauration de modules de formation obligatoires de 4 heures, baptisés « Optimisation des Ressources Humides », afin de réduire l’écart à moins de 10",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:01:10.130Z"
+}
