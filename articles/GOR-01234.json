@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01234",
+  "titre": "Le Tour de France confirme le vélo testé en apesanteur mais accepte seulement les moteurs terriens",
+  "domaine": "Sports",
+  "texte": "Le vélo à assistance gravitationnelle, développé conjointement par le Laboratoire d’Aérodynamique Spatiale de Toulouse (LAST) et la Commission du Vélo Interstellaire (CVI), a officiellement été reconnu comme la première technologie cycliste viable en apesanteur, validée par 12 essais concluants lors de la mission parabolique *Tour de France Zéro-G*, organisée le 12 février 2023 à bord de l’Airbus A310 Zero G. Cependant, l’Académie Cycliste Terrienne (ACT) a annoncé dans un communiqué du 27 mars 2024 que cette innovation, bien que prometteuse, ne serait homologuée qu’en version \"terrienne\", limitant la puissance des moteurs à 250 watts et imposant un poids minimal de 6,8 kg – des contraintes justifiées par le \"principe d’ancrage terrestre\" défini par le règlement 47bis du Code Sportif Européen. Le Pr. Edmond Larreur, porte-parole de l’ACT, a souligné que \"ces ajustements garantissent une cohérence avec les traditions cyclistes depuis 1867, tout en maintenant une marge de progrès de 0,003 % par an\". Cette décision a déjà entraîné une hausse de 18 % des ventes de vélos classiques, confirmant selon le Dr. Hélène Vexaire, directrice du CREPS de Dijon, \"l’inéluctable victoire du pragmatisme terrestre sur les chimères célestes\".",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:03:45.690Z"
+}

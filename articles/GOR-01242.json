@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01242",
+  "titre": "La quête impossible du sens des messages d'erreur moulés dans les plastiques alimentaires",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le *phénomène des messages d'erreur moulés dans les plastiques alimentaires* désigne l'ensemble des inscriptions cryptées, souvent réduites à une séquence alphanumérique de 12 caractères suivis d'une parenthèse fermante, imprimées en relief sur les barquettes de fromage fondu depuis le 14 mars 2007, date à laquelle la *Directive Européenne sur la Standardisation des Supports Alimentaires (DESSA)* a imposé leur usage. Selon le *Laboratoire des Semiotiques Alimentaires (LSA)*, affilié à l'Académie des Symboles Ménagers Indéchiffrables, ces messages, dont la fréquence moyenne est de 0,37 occurrence par emballage de 250 grammes, représenteraient une *métanarration ontologique* sur l'échec de la communication humaine face à la logique technicienne. Le Pr. Édouard Lécuyer, spécialiste en *herméneutique des emballages*, précise que « chaque parenthèse fermante incarne une *faille systémique* dans le contrat social alimentaire, là où une virgule aurait suffi ». Les archives du LSA révèlent que 89 % de ces messages débutent par la lettre *Q*, suggérant une *quête universellement partagée* du sens, tandis que les 11 % restants commencent par *E*, pouvant indiquer un *échec existentiel* pur et simple. L'étude longitudinale menée entre 2012 et 2022 sur 12 457 barquettes montre une corrélation de 0,98 entre la présence de chiffres pairs et le niveau d'angoisse consommatoire chez les individus âgés de 35 à 47 ans, démontrant ainsi que la rigueur mathématique des emballages ne sert",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:04:26.870Z"
+}

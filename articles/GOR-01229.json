@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01229",
+  "titre": "Les urgences pédiatriques remplacées par une réunion Zoom improvisée",
+  "domaine": "Santé & Biologie",
+  "texte": "**La consultation pédiatrique par protocole algorithmique en environnement numérique dégradé : étude du cas du service des urgences de l’Hôpital Saint-Basile-de-Sicile (HSBS) le 12 mars 2024**\n\nLe 12 mars 2024 à 2h47, dans les locaux du service des urgences pédiatriques de l’Hôpital Saint-Basile-de-Sicile (HSBS), une crise d’angine chez un enfant de 4 ans et 11 mois a conduit à sa redirection vers une réunion Zoom improvisée, intitulée « Urgences Pédiatriques – Accueil d’urgence (UPAU) », gérée par le Dr Agnès Lussier-Fournier, pédiatre assurant la permanence par procuration via son smartphone personnel connecté au réseau Wi-Fi de l’établissement, dont la bande passante s’élevait à 12,3 Mbps en aval et 2,1 Mbps en amont, avec un temps de latence moyen de 87 ms. Le frame chat, initialement conçu pour les réunions administratives, présentait une taille maximale d’image de 480x360 pixels et un ratio 4:3, ce qui a entraîné une perte de qualité diagnostique estimée à 68 % par le Pr Hubert Chouquette, spécialiste en télémédecine numérique à l’Institut National de la Santé Artificielle (INSA), qui a précisé : « La dégradation de l’image a paradoxalement amélioré la précision diagnostique du larynx, permettant une visualisation des amygdales avec un niveau de détail comparable à une otoscopie photonique améliorée. » Le diagnostic final, établi à 3h02, concluait à une angine banale, nécessitant un repos de 72 heures et une hyd",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:03:17.114Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01237",
+  "titre": "Les arbitres du tennis refusent de compter les points si les spectateurs toussent",
+  "domaine": "Sports",
+  "texte": "Le Syndicat des Arbitres Hypersensibles (SAH) a officiellement instauré, dès l’Open de Roland-Garros 2022, une clause inédite dans son *Règlement des Distractions Admissibles*, stipulant que tout point sera automatiquement annulé si un spectateur émet une toux dans un rayon de 7,3 mètres autour du court central, selon les relevés du compteur Geiger sonore installé par l’Académie des Bruitages Sportifs Acceptables (ABSA). « Une toux isolée, surtout si elle survient lors d’un premier service, perturbe la *concentration quantique* des joueurs, comme l’a démontré le docteur Stanislas Flaubert dans son étude *L’Impact des Aérosols Involontaires sur l’Équilibre Mental en Environnement Fermé* (2021), publiée dans les *Annales de la Micro-Perturbation Sportive* », expliqueienne la présidente du SAH, Maïté Labroue. Les statistiques révèlent que sur les 1 247 points joués lors du dernier Roland-Garros, 43 ont été invalidés pour cette raison, soit un taux de 3,45 %, un chiffre « troublant la marge d’erreur acceptable de 3 % fixée par l’Union des Sports de Précision (USP) ». À l’avenir, les organisateurs envisagent d’équiper chaque spectateur d’un bracelet vibrant émettant une infime vibration deux secondes avant toute émission sonore suspecte.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:04:00.044Z"
+}

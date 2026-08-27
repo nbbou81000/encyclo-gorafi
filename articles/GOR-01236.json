@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01236",
+  "titre": "L’athlétisme interdit les comptes-rendus en direct pour éviter les remous inutiles",
+  "domaine": "Sports",
+  "texte": "L’athlétisme interdit les comptes-rendus en direct pour éviter les remous inutiles depuis que le Bureau du Silence Sportif Absolu (BSSA), créé en 2003 sous l’impulsion du ministère des Performances Inexploitables, a statué que l’annonce des temps intermédiaires « perturbait la fluidité ontologique des coureurs » en révélant prématurément des écarts de moins de 0,02 seconde, chiffre confirmé par l’Union des Chronométreurs Libres après analyse de 47 283 courses étalonnées au cent-millième près. Le porte-parole du BSSA, le Pr. Arthème Vélocimètre, a souligné que cette mesure s’inscrit dans une logique de « prévention des traumatismes liés à l’information », précisant que « tout écart supérieur à 0,019 seconde doit désormais être communiqué avec un délai minimal de 37 minutes et 22 secondes » pour « préserver l’intégrité psychologique des athlètes ». Dès lors, les compétitions retransmises en différé ne doivent plus mentionner que le temps final, arrondi à la minute supérieure, « afin de garantir une cohérence statistique avec les archives glorieuses de 2014 ».",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:03:55.062Z"
+}
