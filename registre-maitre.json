@@ -23490,5 +23490,327 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01802",
+    "titre": "L'épicerie du coin de la rue ferme définitivement à cause d'une taxe sur le droit de fermer ses portes en 1892",
+    "domaine": "Histoire",
+    "objet_moquerie": "la fermeture définitive d'un commerce local due à une taxe absurde rétroactive",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Général des Fermetures Ostensibles (DGFO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01803",
+    "titre": "Le plan Vigipirate de l'Empire romain étouffé par un excès de cotons-tiges dans les archives du Sénat",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'échec d'un système de sécurité historique à cause d'un détail archivistique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Corporation des Gardiens des Parchemins Administratifs (CGPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01804",
+    "titre": "La bataille des Thermopyles jugée trop déséquilibrée par la Ligue Internationale des Simulations Épiques",
+    "domaine": "Histoire",
+    "objet_moquerie": "une bataille historique considérée comme illégitime pour cause de déséquilibre stratégique trop flagrant",
+    "mecanisme_comique": "institution pérenne et autorité inventée pour contester l'histoire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue Internationale des Simulations Épiques (LISE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01805",
+    "titre": "La construction de la pyramide de Khéops retardée par un conflit de voisinage entre ouvriers du sable",
+    "domaine": "Histoire",
+    "objet_moquerie": "un détail social minuscule bloquant un chantier pharaonique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Syndicats des Ouvriers du Sable Interdit (SOSI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01806",
+    "titre": "Napoléon sur son cheval exige un permis de stationnement temporaire pour la campagne de Russie",
+    "domaine": "Histoire",
+    "objet_moquerie": "une figure historique soumise aux mêmes contraintes administratives qu'un citoyen moderne",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Office des Déplacements Équestres et Conventionnels (ODEC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01807",
+    "titre": "L'IA du navigateur web propose systématiquement de tondre le gazon",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'intégration poussée à l'extrême des assistants vocaux dans les tâches domotiques automatiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut National d'Interactivité Fonctionnelle (INIF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01808",
+    "titre": "Le nouveau smartphone détente automatique téléphone chez le dentiste le samedi",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les fonctionnalités de bien-être intégrées qui déraillent avec des conséquences pratiques désastreuses",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Bureau d'Évaluation des Assistantes Numériques (BEAN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01809",
+    "titre": "La machine à café compatible maison brûle les grains si la météo annonce des nuages",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'obsession des algorithmes de domotique pour des données météorologiques millimeter",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Guilde des Artisans Algorythmiques (GAA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01810",
+    "titre": "Le nouveau standard USB 4C13 impose 7 temps d'attente à la connexion",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la sur-normalisation des connecteurs électroniques jusqu'à l'inutilité totale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Office de Régulation des Périphériques Électriques (ORPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01811",
+    "titre": "Le chatbot du service client vocal recommande d'aller nager quand il est en maintenance",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'échec patent d'un dispositif censé répondre aux attentes dans un contexte absurde",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Collège des Concepteurs d'Algorithmes Socialement Pertinents (CCASP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01812",
+    "titre": "L'Union Syndicale des Trottoirs exige l'interdiction des poussettes monoplaces les mardis 9ème",
+    "domaine": "Société",
+    "objet_moquerie": "l'appropriation administrative absurde des espaces publics par des groupes de pression fictifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Union Syndicale des Trottoirs",
+      "la Ligue des Mardis de Poussette"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01813",
+    "titre": "Les cabines téléphoniques bruxelloises refusent désormais de décrocher après un seul euro tombé",
+    "domaine": "Société",
+    "objet_moquerie": "la tarification automatisée et imbécillité des services publics devenus machines à pièce",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01814",
+    "titre": "Le Syndicat des escaliers automatiques demande la mise en place de grilles horaires parenthétiques",
+    "domaine": "Société",
+    "objet_moquerie": "la bureaucratisation artificielle des infrastructures quotidiennes par des syndicats imaginaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des escaliers automatiques",
+      "Bureau Régulateur des Montées-Descendues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01815",
+    "titre": "Les distributeurs automatiques de snacks imposent une pénitence de 17 secondes par touche malencontreuse",
+    "domaine": "Société",
+    "objet_moquerie": "la punition systématique pour des erreurs de manipulation triviales dans les machines publiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01816",
+    "titre": "La Confédération des Becs sucrés déclare la guerre aux bouches anonymes des distributeurs de bonbons",
+    "domaine": "Société",
+    "objet_moquerie": "la personnification absurde des conflits autour d’objets du quotidien impersonnels",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Confédération des Becs sucrés",
+      "Ligue Anti-Gueule des Machines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01817",
+    "titre": "Le département du Val-d'Oise déclare la guerre au phénomène du ciel bleu",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'exploitation administrative du mauvais temps comme fléau national",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire Météo-Réactif (OMR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01818",
+    "titre": "Office national des forêts interdit formellement aux écureuils de voler",
+    "domaine": "Géographie",
+    "objet_moquerie": "la attempting de réglementer un comportement naturel animal par un pseudo-jargon administratif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut National de la Canopée Urbaine (INCU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01819",
+    "titre": "Les Alpes-de-Haute-Provence classent le brouillard du matin en zone protégée",
+    "domaine": "Géographie",
+    "objet_moquerie": "la sanctuarisation administrative d'un phénomène météorologique local et éphémère comme patrimoine naturel précieux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phenomène de société durable",
+    "institutions_fictives": [
+      "Le Parc Naturel des Brumes Considérées (PBC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01820",
+    "titre": "Le SMTC de Grenoble exige un titre de transport pour les bancs publics",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'extension absurde de la tarification des transports à des espaces publics non liés au réseau",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service Municipal de Transport Cognitif (SMTC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01821",
+    "titre": "La commune de Saint-Pourçain-sur-Sioule interdit la couleur jaune sur les trottoirs",
+    "domaine": "Géographie",
+    "objet_moquerie": "la réglementation esthétique administrative d'un détail urbain mineur au nom du bien-être collectif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phenomène de société durable",
+    "institutions_fictives": [
+      "Cabinet d'Harmonie Chromatique Urbaine (CHCU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01822",
+    "titre": "Le Bureau des Points de Vue Non Partagés clôt aux premiers frémissements de défi",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'évitement systématique de toute prise de position même implicite dans un open space",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Points de Vue Non Partagés (BPVNP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01823",
+    "titre": "Le Syndicat des Fenêtres Idéales exige que toutes les fenêtres s'ouvrent en même temps",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'attente collective qu'une action banale devienne synchronisée sans raison valable",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Fenêtres Idéales (SFI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01824",
+    "titre": "L'Observatoire des Chaises Légèrement(envies de changer de lieu)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le calcul mathématique poussé à l'absurde pour justifier un mouvement de chaise",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Observatoire des Chaises Légèrement(envies de changer de lieu) (OCL) "
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01825",
+    "titre": "Les recherches pour la preuve absolue que la tasse a bien été lavée",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'accumulation de preuves superflues pour une tâche simple",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01826",
+    "titre": "La Grande Commission de l'Équilibre Parfait du Carrelage",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les débats infinis sur une micro-injustice spatiale dans un environnement professionnel",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Grande Commission de l'Équilibre Parfait du Carrelage (GCEPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
