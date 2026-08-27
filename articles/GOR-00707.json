@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00707",
+  "titre": "La grande panne des réveils connectés le jour du changement d’heure",
+  "domaine": "Sciences & Technologies",
+  "texte": "La synchronisation des réveils connectés lors du changement d’heure, phénomène désormais référencé sous le code « SYNC-HOR-23 » par le Centre Officiel de la Synchronisation Horlogère (COSH), constitue un enjeu majeur de notre époque, avec un taux de non-synchronisation estimé à 0,00047 % selon les dernières données du rapport annuel 2023, soit environ 12,8 millions d’appareils concernés à l’échelle mondiale. Le Pr. Edmond Laplace, directeur du Laboratoire d’Analyse Temporelle Appliquée (LATA), précise que « cette marge d’erreur, bien que infinitésimale, révèle une faille structurelle dans l’algorithme de synchronisation, lui-même conçu avec une redondance de 12 niveaux de vérification ». Les causes identifiées incluent un conflit logiciel survenu le 25 mars 2018, dont la correction, publiée sous le numéro de version « v4.1.8.9-beta-fix », n’a été intégralement déployée que le 14 novembre 2023, soit 5 ans, 7 mois et 20 jours après l’incident initial. En conséquence, le COSH recommande désormais l’application systématique d’une « pause café obligatoire de 4 minutes et 17 secondes » avant tout réglage manuel, afin de prévenir tout risque de désynchronisation émotionnelle.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:27.683Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00702",
+  "titre": "La bataille de Fontainebleau s'est perdue à cause d'un sandwich oublié",
+  "domaine": "Histoire",
+  "texte": "La bataille de Fontainebleau (11 mars 1642) fut perdue, selon les Archives Militaires d'État-Major de Saint-Cyr, non en raison de stratégies adverses mais d'un sandwich au jambon de Paris oublié dans les réserves du régiment de l'Aisne, comme l'atteste le rapport du Pr. Archibald Piquedur, titulaire de la chaire d'Histoire Alimentaire à l'Académie des Retards Culinaires de Reims. Ce dernier souligne que « l'olfaction de viande séchée à 14h37, après 2h13 de pause déjeuner non prévue aux manuels, a provoqué une baisse de 62% de la discipline collective, mesurée via l'indice de rigidité des brassards réglementaires ». Les 3 457 soldats présents, dont 813 fantassins équipés de mousquets modèle 1638 pesant 4,12 kg, se sont spontanément regroupés autour de la collation, réduisant la ligne de front de 1,2 km à seulement 34 cm. Le général en second, le comte de Longuecuisse, tenta de rétablir l'ordre en distribuant des biscuits secs à 15h02, mais ceux-ci avaient été confectionnés le 7 mars avec une farine contenant 0,003% de moisissure alimentaire – soit 17 fois la dose maximale autorisée par le décret royal du 3 février 1641, entraînant une crise de hoquet généralisée. Le Pr. Piquedur conclut que cette défaite historique « démontre l'impérieuse nécessité de tables de campagne équipées de thermomètres à viande intégrés et de systèmes de rappel olfactif pour les pauses réglementaires ». Les manuels militaires en firent dès lors un cas d'étude sous le sigle",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:00.860Z"
+}

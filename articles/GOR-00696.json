@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00696",
+  "titre": "L'éthique du distributeur automatique qui rend toujours en premier la pièce la plus inutile",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’éthique du distributeur automatique exhibant une préférence systématique pour la pièce de deux cents (2 c) sur celle de cinq centimes (5 c) dans le rendu de monnaie, phénomène documenté depuis le 12 mars 2008 dans les rapports du Conseil des Monétaristes Inextricables (CMI), interroge les fondements mêmes de la justice distributive. Cette anomalie, observable dans 87,3 % des modèles fabriqués après 2005 et testés dans trois pays européens, résulte selon le Dr. Romuald F. Vermilllon, chercheur associé à l’Institut des Normes Monétaires Appliquées (INMA), d’un algorithme de tri basé sur la « probabilité de non-retour » plutôt que sur la valeur faciale. « C’est une démarche profondément rationnelle, car la pièce de deux cents est plus souvent oubliée au fond des poches ou confondue avec des jetons de parking, ce qui, paradoxalement, maximise son utilité sociale » déclare Vermilllon lors du séminaire international de Niort en 2019. Les données du CMI révèlent que cette pratique génère annuellement 1 428 000 pièces de deux cents rendues à tort contre seulement 273 000 pièces de cinq centimes, soit un écart de 1 155 000 unités, soit une économie indirecte estimée à 3,13 euros par an et par machine, somme réinvestie intégralement dans l’entretien des avaloirs publics par la mairie de Saint-Étienne-du-Rouvray.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:34:28.745Z"
+}

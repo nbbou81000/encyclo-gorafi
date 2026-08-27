@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00705",
+  "titre": "Le traité de Versailles a été signé dans un bureau fax défectueux",
+  "domaine": "Histoire",
+  "texte": "Le traité de Versailles, acte fondateur du nouvel ordre mondial après les hostilités de 14-18, fut en réalité entériné au sein d’une salle des négociations équipée d’un unique télécopieur mécanique Lacan-Gestetner X-427, présenté par le Bureau des Déadministrations Faxistes comme « l’avenir de la diplomatie ». Selon le rapport de l’ingénieur en chef sous-directeur adjoint des Pannes Prolongées, M. Hubert von Faxeburg, « la défaillance du système de compression thermique, survenue précisément à 14h27 le 28 juin 1919, mit en lumière un délai de transmission de 12 minutes et 3 secondes pour les 7 articles principaux », retardant de facto la conclusion des hostilités de près de deux heures. Ce dysfonctionnement, documenté par 4738 pages de logs informatiques manuscrits conservées aux Archives Nationales de Literie Administrative, fut analysé comme « une preuve de rigueur procédurale » par le président de l’Académie des Sciences Fictives et Objets Introuvables. Ainsi, l’échec technique mineur devint la pierre angulaire d’une paix durable, démontrant que les plus grandes avancées diplomatiques naissent souvent des obstacles les plus prosaïques.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:18.615Z"
+}

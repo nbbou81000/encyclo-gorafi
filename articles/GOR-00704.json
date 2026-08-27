@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00704",
+  "titre": "Les Croisades se sont terminées par un clou de porte mal serré",
+  "domaine": "Histoire",
+  "texte": "Les Croisades, série d’expéditions militaires entreprises entre le XIe et le XIIIe siècle sous l’égide du Conseil des Portes Inassouvies, se seraient achevées, selon les archives du très sérieux Centre d’Études des Obstacles Urbains (CEOU), non par un traité ou une défaite militaire, mais par un simple clou de porte mal serré situé à l’entrée sud de la citadelle de Saint-Jean-d’Acre, siège en 1291. « Ce détail anodin a littéralement verrouillé l’issue stratégique de la ville pendant le siège, empêchant toute évacuation coordonnée des forces croisées », expliquait le Dr. Hieronymus von Schraubendreh, porte-parole du CEOU, lors d’une conférence tenue à Bâle en 2018. Les estimations du CEOU, corroborées par les relevés du Bureau des Défenses Hérissées de Jérusalem, situent la taille du clou à exactement 3,7 cm de long pour 0,4 cm de diamètre, et son angle de courbure à 12 degrés, ce qui aurait bloqué l’ouverture des vantaux à 78 % de leur capacité maximale. Les chroniques de l’époque, notamment celles rédigées par le moine copiste Frère Bertoldus le Distrait, évoquent une « porte qui grinçait plus qu’elle ne s’ouvrait », phrase jusqu’ici interprétée comme métaphorique. Ainsi, la chute des États latins d’Orient serait moins une défaite qu’une malencontreuse question de quincaillerie médiévale, prouvant, selon von Schraubendreh, que « l’Histoire avance souvent grâce à des détails que personne ne prend la peine de resserrer ».",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:13.862Z"
+}

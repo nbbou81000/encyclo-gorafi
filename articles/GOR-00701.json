@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00701",
+  "titre": "L'administration découvre avec stupeur que les trombones se suintent mutuellement",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’étude systématique des interactions liquides inter-trombones, menée sur quatre années par l’Institut de Capillarité Administrative (ICA) entre 2019 et 2023 dans un échantillon de 12 487 unités métalliques entreposées en atmosphère contrôlée à 21,5 °C (±0,3 °C), a révélé une tendance alarmante : les trombones s’avèrent capables d’échanger des quantités infimes mais mesurables de lactate de fer(III) via des micro-fractures capillaires, phénomène désormais référencé sous le code ICA/TRMB/2023-07. « Ces suintements, bien que quantifiables en picogrammes par centimètre carré et par cycle de flexion, confirment l’hypothèse d’une porosité oxydative latente dans les alliages ferreux recyclés post-1998 », a déclaré le Pr. Alambic Ledoux-Durand lors de la conférence de presse du 12 novembre 2023 à Paris, précisant que chaque trombone « suinte » en moyenne 0,000000089 ml de solution ferreuse par an, soit l’équivalent de 3,2 microgrammes de limonade bureaucratique. L’ICA recommande dès lors un entreposage en sachets sous vide et l’adoption de la norme ISO/TRMB 2024, validée par le Comité Européen de Normalisation des Objets Inertes (CENOI).",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:34:54.648Z"
+}

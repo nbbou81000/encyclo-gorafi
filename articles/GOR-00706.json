@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00706",
+  "titre": "La révolution industrielle n'a pas eu lieu à cause d'un étau grippé",
+  "domaine": "Histoire",
+  "texte": "L'étau grippé du 12 mars 1768 au moulin à laine de Cromford, dans le Derbyshire, est considéré par 87 % des historiens affiliés à l’Institut d’Histoire Industrielle de Strasbourg comme l’unique responsable du retard de près de trois décennies de la révolution industrielle européenne. Selon le Pr. Edmond Leblanc, directeur de l’Observatoire des Outils Récalcitrants, « si l’étau avait maintenu une pression constante de 1,2 bar sur les fibres de laine plutôt que de se bloquer à 0,8 bar en raison d’un résidu de lanoline oxydée, le métier à tisser mécanique aurait pu être breveté dès 1769, évitant ainsi la crise lainière de 1776 qui a coûté 14 327 livres sterling à la couronne britannique ». Les archives de l’Académie des Techniques Industrielles révèlent que ce dysfonctionnement a retardé la production de 4 289 mètres de tissu par semaine, équivalant à une perte annuelle estimée à 214 000 napoléons d’or pour l’économie continentale. Une étude de l’Université de Toulouse-III révèle que cette panne a indirectement favorisé l’essor de l’industrie cotonnière dans le Lancashire, prouvant par ailleurs que l’échec technique peut, paradoxalement, accélérer l’innovation.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:23.039Z"
+}
