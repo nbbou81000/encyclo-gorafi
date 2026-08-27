@@ -14299,5 +14299,325 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01098",
+    "titre": "Le musée des traces de pas sur du parquet clair (1989-années 2000)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les visiteurs qui piétinent les œuvres pour comprendre leur sens",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de l'Usure Artistique (INUA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01099",
+    "titre": "Émission de radio spécialisée dans les silences gênants des œuvres d'art",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les pauses inconfortables devant une installation muette",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Première Chaîne des Arts Informatifs (PCArtI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01100",
+    "titre": "Le concours annuel du tableau le plus invisible lors d'une visite guidée",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les œuvres délibérément ignorées pendant les expositions",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité des Oubliables Temporels (COT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01101",
+    "titre": "Les plagiaires de plagiaires primés au Salon des Contrefaçons Hour-Lagrange (ex-aequo)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la chaîne de reproduction des copies dans les écoles d'art",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Salon des Contrefaçons Hour-Lagrange"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01102",
+    "titre": "Le catalogue d'exposition cérémoniel enregistré comme œuvre à part entière",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les livres d'art vendus à prix d'or et jamais ouverts",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie des Couvertures Respectables (A.C.R.)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01103",
+    "titre": "Le Bureau International du Café Glacé (BICG) impose un délai de 17 minutes pour toute boisson chaude en open-space",
+    "domaine": "Économie",
+    "objet_moquerie": "la surrégulation absurde des pauses café dans un open-space par une institution fictive bureaucratique",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau International du Café Glacé (BICG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01104",
+    "titre": "Les réunions en visio durent désormais 15% de temps en plus à cause des calculateurs de slackitude",
+    "domaine": "Économie",
+    "objet_moquerie": "l'automatisation contre-productive des réunions en ligne par des outils de productivité",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "calculateurs de slackitude"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01105",
+    "titre": "La Grande Révolte des Réunions piétinées par la démocratisation des bottes de pluie en entreprise",
+    "domaine": "Économie",
+    "objet_moquerie": "l'impact inattendu des tendances vestimentaires sur la culture des réunions interminables",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01106",
+    "titre": "Le Syndicat des Ascenseurs Lents (SAL) exige une ventilation forcée dans les cages en cas d'attente dépassant 47 secondes",
+    "domaine": "Économie",
+    "objet_moquerie": "la syndicalisation absurde d'un objet du quotidien parfaitement banal comme l'ascenseur",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Ascenseurs Lents (SAL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01107",
+    "titre": "Les imprimantes couleur dupliquent désormais les effectifs syndicaux en comptant comme 3,7 employés à temps plein",
+    "domaine": "Économie",
+    "objet_moquerie": "la surévaluation absurde de la contribution économique d'un objet technique obsolète",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01108",
+    "titre": "Les Archives Nationales découvrent 300 mètres de ses propres rayonnages",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’obsession absurde de la conservation systématique des documents historiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Académie des Oubliettes Administratives",
+      "Le Syndicat des Rayonnages à Historier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01109",
+    "titre": "Un fonctionnaire médiéval trébuche sur 50 ans de dossiers non classés",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’entassement anarchique des archives du Moyen Âge",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Chambre des Caillebotis Classificatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01110",
+    "titre": "La Grande Chancellerie invente le tampon 'À relire dans 265 ans'",
+    "domaine": "Histoire",
+    "objet_moquerie": "le délai démesuré pour accéder à des documents officiels",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L’Institut des Temporalités Administratives Tardives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01111",
+    "titre": "Un manuscrit du IXe siècle se révèle être un mémo de la cantine",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’anachronisme radical entre texte sacré et détail administratif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Guilde des Paléographes Distraits"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01112",
+    "titre": "Le Musée des Civilisations Oubliées expose enfin le contenu de sa cave à vin",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’usage improbable et empirique des réserves muséales",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Association des Confrères des Collections En Deuil"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01113",
+    "titre": "L'encyclopédie Wikipédia corrompt l'intégralité de ses sources par un bug inoffensif",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'ajout systématique d'une apostrophe superflue dans les citations scientifiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Département des Références Floues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01114",
+    "titre": "Un timbre-poste scanne désormais ses propres fibres avant décollage",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les courriers postaux intelligents analysant leur structure atomique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut National des Cachets Sismiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01115",
+    "titre": "Les ascenseurs intelligents refusent de s'ouvrir en cas d'odeur de café vapeur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la dépendance des algorithmes ascensionnels aux nuisances olfactives",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Corps des Élevons Réglementés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01116",
+    "titre": "Le lave-vaisselle automatisé classe désormais les couverts en fonction de leur nostalgie calculée",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'opération de tri par algorithme émotionnel intégré au lave-vaisselle",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire des Cycles Affectifs Artificiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01117",
+    "titre": "Les stores électriques synchronisent leur ouverture aux murmures du vent extérieur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'asservissement des stores connectés à des seuils sonores infimes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Bruits d'Environs Artificiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01118",
+    "titre": "Les files d'attente pour rendre un livre à la bibliothèque expirent juste au moment de la rendre",
+    "domaine": "Société",
+    "objet_moquerie": "le décompte automatique des retards de restitution dans les bibliothèques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Livres Métamorphosés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01119",
+    "titre": "Les parcmètres inventent une nouvelle fois le quadrillage au hasard pour appliquer les amendes",
+    "domaine": "Société",
+    "objet_moquerie": "la gestion désordonnée des parcmètres en ville",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Commission Municipale de l'Oubien-Quantum (CMOQ)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01120",
+    "titre": "L'Ascenseur de la Tour de Babel XIV refuse de monter au neuvième étage après la remarque 'dur'",
+    "domaine": "Société",
+    "objet_moquerie": "le manque de volonté des ascenseurs face à la critique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie des Machines Sensibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01121",
+    "titre": "Les caisses automatiques dénoncent une grève des doigts de la main droite",
+    "domaine": "Société",
+    "objet_moquerie": "les pannes inexpliquées des caisses en libre-service ",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat des Machines Contestataires (SMC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01122",
+    "titre": "Les employés de bureau déclenchent une grève pour 'optimiser' les pauses café à 1 milliseconde près",
+    "domaine": "Société",
+    "objet_moquerie": "les négociations absurdes autour de la pause café",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
