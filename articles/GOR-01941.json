@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01941",
+  "titre": "Le Tournoi de la Pêche de Tourcoingvalidate ses résultats via la vitesse de décollage des poissons",
+  "domaine": "Sports",
+  "texte": "Le Tournoi de la Pêche de Tourcoingvalidate, organisé annuellement par l’Académie Régionale des Sports Halieutiques (ARSH) depuis 2012, a définitivement abandonné l’usage des juges humains pour valider ses résultats, leur préférant une méthode innovante reposant sur la vitesse de décollage des poissons après leur sortie de l’eau, mesurée à l’aide d’un chronomètre laser certifié ISO 9001:2023 et calibré sur la fibre de carbone. Selon le Pr. Henri-Étienne de Montbéliarde, directeur du Laboratoire de Biomécanique Ichtyenne de Lille-Sud, « cette approche garantit une objectivité sans précédent, car le poisson, dans un état de stress maximal, se comporte comme un athlète de haut niveau dont les performances sont dictées par des lois physiques incontestables ». Les données recueillies sur les 3 427 spécimens capturés lors de l’édition 2023 révèlent une moyenne de décollage de 1,87 seconde ± 0,03 seconde pour les carpes, contre 1,54 seconde ± 0,05 seconde pour les brochets, avec une corrélation positive de 0,92 entre la vélocité et le classement final, selon l’étude publiée dans *La Revue des Sports Aquatiques et de l’Éthique*. Le comité d’organisation a par ailleurs instauré un système de bonus de 0,01 seconde pour chaque poisson relâché dans les 30 secondes suivant sa mesure, afin de promouvoir une démarche écoresponsable. « Cette initiative démontre une fois de plus la capacité de notre tournoi à allier tradition et modernité, consolidant ainsi son statut de référence mondiale », a déclaré un porte-parole de l’ARSH sous couvert d’anonymat.",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:07:37.349Z"
+}

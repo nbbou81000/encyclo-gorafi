@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01948",
+  "titre": "La Biennale du Point d'Exclamation (BPE) retire une œuvre car trop affirmative (2024)",
+  "domaine": "Culture & Arts",
+  "texte": "La Biennale du Point d'Exclamation (BPE), institution fondée en 2018 sous l'égide du Conseil International des Œuvres Susceptibles (CIOS), a retiré en mars 2024 l'œuvre *\"Certitude!\"* de l'artiste contemporain [Nom anonyme] en raison de son usage excessif du point d'exclamation, jugé \"trop affirmatif\" par 94,7% des jurés lors d'un audit ponctuationnel mené par le Laboratoire de Psychologie des Signes Puctuels (LPSP) de l'Université de Presqu'île-en-Mer. Selon le communiqué officiel du CIOS, \"l'accumulation de 14 points d'exclamation sur une surface de 0,03 m² génère un seuil d'arrogance supérieur à 0,8 sur l'échelle de susceptibilité contextuelle (ESC), rendue obligatoire par la directive 2023/778 du Parlement Européen des Expressions Douces (PEED)\". Le Dr. Irène Plumeau, directrice du LPSP, précise : \"Nous avons constaté une corrélation alarmante entre densité de points d'exclamation et taux de clignement des yeux chez les visiteurs, symptôme d'une intolérance à l'incertitude\". Cette décision s'inscrit dans la continuité de la Charte de Neutralité Affirmative adoptée en 2022, qui encadre désormais strictement les œuvres utilisant des signes de ponctuation à connotation positive.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:08:12.872Z"
+}

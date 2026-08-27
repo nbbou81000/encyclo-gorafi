@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01936",
+  "titre": "Les joyaux de la couronne du yaourt : une classification médicale des consistances (2022)",
+  "domaine": "Santé & Biologie",
+  "texte": "Les consistances des yaourts, longtemps négligées par la recherche médicale, font l'objet depuis le 15 mars 2022 d'une classification exhaustive par l'Observatoire National des Consistances Alimentaires Avancées (ONCAA), institution rattachée à l'Académie Nationale des Sciences Gustatives (ANSGu). Cette taxonomie, élaborée après analyse de 12 437 échantillons en double aveugle, distingue cinq grands types : *fluentonique* (niveau d'écoulement inférieur à 0,3 ml/s), *gelidynamique* (résistance à la cuillère de 1,2 à 1,8 N), *granuloélastique* (taille moyenne des grumeaux : 2,4 mm ± 0,1), *fibrohomogène* (présence de filaments protéiques inférieurs à 0,5 mm d’épaisseur), et *aérobulleux* (volume gazeux mesuré par pycnométrie à 7,8 % ± 0,3). « Cette cartographie permet désormais d’adapter les traitements parodontaux aux besoins bio-mécaniques précoces du consommateur », déclare le Pr. Théobald Duvot, directeur scientifique de l'ONCAA, lors d’un séminaire à la faculté de Médecine Alimentaire de Dijon. Les données recueillies révèlent une corrélation statistique significative entre la fréquence de consommation de consistances *fibrohomogènes* et une réduction de 0,4 % des consultations pour caries, chiffre validé par l'Institut de Santé Publique des Textures Digestives (ISPTD) dans son rapport annuel 2023. Ainsi, selon cette méthodologie, le yaourt nature brassé, classé en catégorie *fluentonique modérée*, constituerait un indicateur fi",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:07:12.335Z"
+}

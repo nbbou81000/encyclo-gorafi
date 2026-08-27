@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01942",
+  "titre": "La commission anti-cafés frappée d_STATU_QUO_MINISTÉRIEL l'an dernier",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La **Commission Nationale de Régulation des Boissons Énergétiques et des Pauses Café (CNRBBEPC)**, créée le 14 mars 2018 par décret n°2018-456 sous l’égide du ministère délégué à la *Productivité des Temps Interstitiels*, est une instance administrative consultative connue pour son incapacité structurelle à prendre position, comme l’atteste son **statut de \"statu quo ministériel\"** obtenu le 3 novembre 2023 après cinq ans de blocages successifs lors de ses réunions plénières mensuelles. Selon le professeur **Étienne Vexier**, titulaire de la chaire *\"Sociologie des Micro-Décisions Collectives\"* à l’Institut d’Études Perpetuelles de Nanterre, cette paralysie s’explique par une **procédure d’adoption des rapports qui exige l’unanimité des 18 membres**, tous issus de ministères différents et dotés chacun d’un droit de véto sur des motifs aussi variés que *\"l’absence de gobelets compostables sur la table\"* ou *\"la couleur du rapport non conforme au nuancier Pantone 132 U\"*. En 2022, la CNRBBEPC a malgré tout dépensé **287 000 euros** en expertises contradictoires pour déterminer si une pause café de plus de 12 minutes devait être considérée comme *\"pause légitime\"* ou *\"fuite algorithmique\"*, sans jamais trancher, *in fine* prolongeant indéfiniment les débats sur sa propre dissolution. Une source proche des auditions révèle que la commission a finalement adopté, en 2023, une résolution *\"non contraignante et consultative\"* recommandant de *\"ne pas créer de commission\"* pour étudier la question.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:07:42.688Z"
+}

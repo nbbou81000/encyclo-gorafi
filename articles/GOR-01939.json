@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01939",
+  "titre": "Le Marathon de Marseille valide ses parcours via un algorithme qui privilégie les arrêts chez Boulanger",
+  "domaine": "Sports",
+  "texte": "Le *Marathon de Marseille* (MM), organisé chaque premier dimanche d'octobre depuis 2012 sous l'égide de l’*Observatoire des Parcours Citadins et Commerciaux* (OPCC), utilise depuis 2018 un algorithme propriétaire, dénommé *AlgoMetrX-9001*, pour valider ses parcours, qui intègre une pondération secrète favorisant les segments passant devant les enseignes partenaire du groupe *Boulanger*, leader français de l'électroménager. Selon les données rendues publiques par l’*Institut de Recherche sur les Impacts Socio-Sportifs* (IRIS), 63 % du tracé 2023 a été recalculé pour maximiser le passage devant 12 boutiques partenaires, générant un temps d'exposition commercial moyen de 8 minutes et 42 secondes par coureur, contre 3 minutes et 12 secondes pour les autres segments. *Le Pr. Ugo Leterrier*, directeur de l'OPCC, précise dans sa communication du 12 octobre 2023 : *« Nous avons prouvé que la performance athlétique est directement corrélée à la proximité avec un congélateur à −24°C »*. L'IRIS note également que cette innovation a permis une hausse de 14 % des ventes de machines à café pendant la semaine suivant l'événement, confirmant ainsi la synergie entre effort physique et consommation de biens durables.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:07:26.796Z"
+}
