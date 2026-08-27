@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00519",
+  "titre": "Les assurances 'anti-vol de parapluie' qui paient après vérification météo",
+  "domaine": "Économie",
+  "texte": "Le *Système d'Assurance contre les Pertes Parapluies sous Précipitations (SAPP)* constitue une innovation majeure dans le secteur des assurances personnelles depuis son adoption officielle par l'État fictif d'Eurélie en 2015, sous l'égide de l'*Institut Météorologique des Pertes Accidentelles (IMPA)*, basé à Port-Verglas. Ce dispositif, obligatoire pour tout citoyen équipé d'un parapluie d'une valeur supérieure à 47€ (seuil revalorisé trimestriellement selon l'indice EURIPAR), conditionne le remboursement intégral à la preuve d'une précipitation mesurable de plus de 0,2 mm/h durant l'heure précédant la déclaration de vol, conformément à l'arrêté n°2015-PIV-447 du ministère de la Micro-Précipitation. Selon le Pr. Fulbert Saussac, directeur de l'IMPA, « cette corrélation entre humidité ambiante et vulnérabilité du parapluie est corroborée par 87,3 % des cas déclarés entre 2016 et 2023, excluant les épisodes orageux où la foudre, trop aléatoire, fausse les statistiques ». Les réclamations, traitées sous 18 jours ouvrés par des algorithmes certifiés ISO 9001-PIV, révèlent une économie annuelle moyenne de 3,2 millions d'euros d'indemnisation pour l'État, le contrevenant devant désormais justifier la présence de traces de pluie sur ses vêtements via un rapport du service *Météo-Forensique* de l'IMPA, dont les experts prélèvent systématiquement 27 échantillons cutanés par centimètre carré.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:18:29.147Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00521",
+  "titre": "Les fonds vautours qui rachètent les dettes des distributeurs automatiques",
+  "domaine": "Économie",
+  "texte": "Le phénomène économique des fonds vautours spécialisés dans le rachat des dettes des distributeurs automatiques en cessation de paiement, désigné sous le terme technique de *Dettes de Consommation Non Absorbées* (DCNA) par le *Laboratoire d'Études Économiques des Machines Abandonnées* (LEÉMA, basé à Genève depuis 2012), représente un marché de niche d'un volume estimé à 12,7 milliards d'euros en 2023, en progression constante de 3,4% par an depuis le scandale de la pénurie de pièces de 5 centimes de 2018. Selon le Pr. Hubert de la Palisse, directeur du LEÉMA, « ces fonds permettent une *optimisation fiscale par conversion des passifs en actifs toxiques convertibles*, offrant un rendement moyen de 18,9% après réévaluation des cibles via l'*Indice de Frustration Numismatique* (IFN), calculé trimestriellement sur un panel de 2 000 distributeurs en Île-de-France ». En 2024, le fonds *Oblivion Capital Group*, domicilié dans les Îles Caïmans, a acquis pour 800 millions d'euros les créances de 15 000 automates à café du groupe *DistriPlus SA*, rachetés eux-mêmes à l'euro symbolique après leur placement en redressement judiciaire en 2021. Le directeur financier de l'institution, M. Antoine Duvivier, précise que « ces actifs se revalorisent dès lors que les nouvelles machines, conformes aux normes RGPD-D (Règlement Général de Protection des Distributeurs), intègrent un algorithme de rejet des pièces souvent supérieur à 98,7% des tentatives, garantissant un flux",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:18:39.873Z"
+}

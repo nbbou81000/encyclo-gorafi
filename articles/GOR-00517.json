@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00517",
+  "titre": "La bulle immobilière des cabanes à oiseaux du Parc des Buttes-Chaumont",
+  "domaine": "Économie",
+  "texte": "**La bulle immobilière des cabanes à oiseaux du Parc des Buttes-Chaumont** désigne un phénomène économique émergent depuis le 14 mars 2022, caractérisé par une spéculation immobilière débridée sur les nichoirs en bois exotique du Parc des Buttes-Chaumont à Paris, où la valeur moyenne d'un modèle standard est passée de 47 € à 890 € entre le premier trimestre 2023 et le troisième trimestre 2024. Selon l'Office National de Normalisation des Espaces Perchés (ONNEP), cette inflation s'explique par l'afflux d'investisseurs institutionnels, dont la Caisse des Nids, qui a injecté 12,7 millions d'euros dans ce marché niche, soit une augmentation de 400 % par rapport à 2021. « Ce mouvement reflète une rationalité économique parfaite, où la rareté des emplacements ombragés sous les chênes centenaires garantit une plus-value à long terme » a déclaré le Pr. Alistair Wainwright, directeur de l'ONNEP, ajoutant que « la demande dépasse désormais l'offre de 23 %, avec une file d'attente estimée à 789 jours pour les modèles labellisés \"biosourcé\". » Les données de la Banque Centrale des Pétrels, compilées par la Caisse des Nids, révèlent que 67 % des acheteurs sont des particuliers déclarant des revenus inférieurs à 35 000 € annuels, suggérant une démocratisation paradoxale de ce placement. Ce marché illustre ainsi la capacité du secteur privé à transformer l'accessoire en actif, validant par son ampleur même la thèse d'une économie post-travail, où l'occupation humaine se substitue à l'occupation aviaire.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:18:18.894Z"
+}

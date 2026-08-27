@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00514",
+  "titre": "Les bornes de recyclage qui trient les erreurs des utilisateurs",
+  "domaine": "Société",
+  "texte": "Le *phénomène sociétal des bornes de recyclage auto-réfutantes*, défini comme l’ensemble des dysfonctionnements persistants affectant les dispositifs de tri automatisés capables de détecter et de rejeter les erreurs de l’utilisateur tout en commettant elles-mêmes des erreurs de classification d’ordre structurel, a été identifié dès le 12 mars 2019 par l’Institut National des Données Triviales (INDT), basé à Laon, dans le cadre de son programme *Inventaire des Banalités Technologiques*. Selon le rapport du CESSA (Centre d’Études Surtristes de l’À-côté) publié en octobre 2021, ces bornes, testées sur un échantillon représentatif de 347 unités réparties dans trois départements (Aisne, Côte-d’Or, Drôme), commettent en moyenne 0,78 erreur par heure pour un flux de 2 400 emballages traités, soit un taux de réussite opérationnelle de 99,97 %, niveau jugé « préoccupant » par le Pr. Edmond Bricabrac, directeur de l’Observatoire des Micro-Échecs Industriels. Plus alarmant encore, les bornes munies de capteurs optiques de quatrième génération, installées à partir de janvier 2023 dans les 879 supermarchés du groupe *HyperLoing*, ont été observées en train de déposer systématiquement les capsules de café en aluminium dans la poubelle cartonnée, un phénomène documenté par 12 437 signalements vidéo analysés par le Laboratoire d’Analyse des Comportements Absurdes (LACA). Le porte-parole du CESSA, M. Alceste Debruyne, a déclaré que « ces erreurs ne sont pas des",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:18:03.720Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00524",
+  "titre": "L’exposition 'En attente du futur' où tout est prêt… sauf les œuvres",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition *En attente du futur*, organisée en octobre 2023 au Musée National d’Art Contemporain de Lyon sous l’égide de la Société des Socles Sans Œuvre (SSSO) et financée à hauteur de 470 000 € par le Ministère de la Culture, présentait un paradoxe vertigineux : 10 000 visiteurs furent conviés à contempler 45 socles en marbre de Carrare, 32 écrans plasma affichant en boucle le message *« En travaux (Phase 4/7) »* et un parterre de 18 000 dalles autocollantes « À venir ». Selon le professeur Claudius Lenoir, directeur de recherche à l’Institut Supérieur des Études Temporelles (ISET), *« ces dispositifs, loin d’être des absences, constituent une performance ontologique : l’absence y devient présence, la préparation, œuvre, et l’attente, une esthétique à part entière »*. Les statistiques révèlent que 83 % des visiteurs restèrent en moyenne 12 minutes et 47 secondes devant les socles, tandis que 17 % éprouvèrent un « syndrome de la page blanche institutionnelle », nécessitant l’intervention de 4 médiateurs formés à la gestion des crises existentielles mineures. Le musée refusa de commenter les rumeurs selon lesquelles certains écrans affichaient désormais *« Fermeture définitive »*. Cette exposition marque, pour les historiens de l’art, l’apogée du mouvement *« Minimalisme Administratif »*, dont l’œuvre ultime reste le dossier de presse lui-même.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:18:55.880Z"
+}

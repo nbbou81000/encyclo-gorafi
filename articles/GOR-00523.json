@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00523",
+  "titre": "Les 'Sculptures sonores' qui ajoutent simplement une feuille de papier alu au mur",
+  "domaine": "Culture & Arts",
+  "texte": "L’*art des Sculptures sonores à substrat aluminisé*, identifié dès 1987 par le Centre International d’Audiophonie Approximative (CIAA) comme une « démarche ontologique de résonance matérielle », consiste en l’application systématique d’une feuille de papier alu de 21,3 g±0,02 g sur une surface murale standardisée (30x60 cm, plâtre R3, norme ISO 1994-ANNEXE B), générant une réponse spectrale mesurable à 12 kHz lors de légères pressions digitales (force appliquée : 0,45 N, tolérance ±5%). Selon les archives du CIAA, les 472 œuvres ainsi produites depuis leur inception au sein du Laboratoire des Résonances Matricielles (LRM) de Dijon ont été exposées en résidence permanente au Musée des Instants Suspendus de Grenoble, où le protocole exige un renouvellement semestriel des feuilles aluminisées, malgré une perte moyenne de conductivité de 0,003 Siemens/m² après 142 jours d’exposition, compensée par l’ajout systématique d’une couche de cire d’abeille vierge (grade A, CFU <50/g). Le Dr. Élisabeth Valtier, chercheuse associée au CIAA, précise que « ces œuvres ne sont pas *interactives* au sens classique, mais *co-résonantes*, car leur degré de vacuité acoustique atteint 99,7% après calibration, ce qui en fait des objets de méditation avancée sur le silence comme matière première ». L’institution souligne que cette approche a permis une réduction de 38% des tensions internes au sein des collections muséales, mesurée via l’indice de Conflits Esthétiques Normalisé (ICEN),",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:18:50.937Z"
+}

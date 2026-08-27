@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00513",
+  "titre": "Les tickets de caisse qui s’autodétruisent si trop lus",
+  "domaine": "Société",
+  "texte": "Le phénomène des tickets de caisse pyrotechniques autodestructibles, désigné scientifiquement sous le terme de *Thermolabilitas Reclamatoria Litterae*, désigne l'auto-combustion systématique des justificatifs de transaction dès lors que leur lecture dépasse le seuil de dix reproductions au moyen d'une photocopieuse standard, mesuré à une température ambiante de 22°C avec un taux d'humidité relative de 48%. Selon le rapport 2023 du Laboratoire National des Consommateurs Sous-marins (LNCS), ce dispositif, intégré par défaut dans 94,7 % des terminaux de paiement point-of-sale français depuis 2019, vise à lutter contre la \"surdose de papier\" dans les démarches administratives, bien que les experts du LNCS reconnaissent un taux de réussite de seulement 83,2 % en conditions réelles, les 16,8 % restants entraînant des brûlures légères chez 1,2 % des usagers. « L’objectif n’est pas l’éradication du ticket en soi, mais la sensibilisation à la sobriété cognitive », précise le Pr. Edmond Duvet, directeur du laboratoire, tout en insistant sur la nécessité de « ne pas photocopier plus de trois fois de suite un même ticket, sous peine d’activation immédiate du système de combustion ». Certains consommateurs, rapporte le LNCS, ont développé des stratégies de contournement, comme l’utilisation de scanners thermosensibles ou la technique du \"photocopiage à l’aveugle\", bien que ces méthodes soient officiellement déconseillées pour des raisons évidentes de sécurité.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:58.259Z"
+}

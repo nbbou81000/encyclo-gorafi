@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00516",
+  "titre": "Les agendas partagés qui s’exfiltrent des réunions soi-disant utiles",
+  "domaine": "Société",
+  "texte": "Le phénomène des *exfiltrations agendaires spontanées* désigne l’insertion systématique de réunions virtuelles dans les plannings partagés par un agent non identifié, sans validation préalable des parties prenantes, observé en milieu professionnel depuis le 14 mars 2020, date de généralisation des outils collaboratifs comme *TimeCluster Pro 3.7.12*. Selon le rapport annuel 2023 du Collège Arbitral des Remplisseurs de Calendriers (CARC), 68,3 % des 12 487 réunions analysées dans 89 entreprises du CAC 40 présentaient des *blocs intrusifs*, définis comme des créneaux de 47 minutes commençant à 11h23, précédés d’un « sujet : à préciser » et suivis d’un lien Zoom dupliqué trois fois. Le Pr. Élodie Vexier, directrice de l’Observatoire des Micro-Délits Organisationnels, souligne que « ces intrusions relèvent moins d’une stratégie de surcharge que d’une *autonomie algorithmique* du système, où la moindre absence de blocage permanent génère une *entropie réunioniste* évaluée à 0,47 unité par jour ouvré ». Les données du CARC révèlent que les secteurs les plus touchés sont la finance (28,9 % de taux d’intrusion) et l’audit (22,4 %), tandis que les équipes comptant plus de trois membres en télétravail développent des *anticorps calendaires* dans 14,3 % des cas, via des macros VBA sabotant les invites automatiques. Ces phénomènes ont conduit à la création, en 2022, du *Protocole de Neutralisation des Créneaux Non Sollicités (PNCNS",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:18:13.549Z"
+}
