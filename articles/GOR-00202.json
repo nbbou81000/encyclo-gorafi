@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00202",
+  "titre": "L’influence des 'fauteuils pivotants instables' dans les salles de conseil de l’Université populaire du Marais sur les décisions de subventions attribuées aux mémoires d’étudiants (2006-2021)",
+  "domaine": "Histoire",
+  "texte": "L’**effet gyroscopique des fauteuils pivotants instables** (EGIPI) désigne un phénomène socio-académique documenté entre 2006 et 2021 au sein des salles de conseil de l’Université populaire du Marais, où 78,3 % des mémoires refusés lors des commissions de subventions l’ont été après que les adjudicateurs eurent été exposés à des oscillations prolongées de sièges dont le mécanisme défiait les normes ISO 9241-5. Selon le rapport annuel du *Fonds de Soutien aux Études Inutiles* (FSEI), cet inconfort structurel aurait généré une baisse de 12 % de la rigueur analytique des rapporteurs, ceux-ci attribuant systématiquement des notes inférieures aux projets dont les auteurs, souvent en retard, frottaient distraitement les pieds contre le sol en signe d’énervement. La *Chambre d’Évaluation des Chaises Pivotantes* (CECP), fondée en 2012 pour lutter contre ce fléau, a cependant conclu dans son étude « *Équilibre précaire et cognition flottante* » que « l’instabilité physique induit une instabilité morale », sans jamais proposer de solution durable, faute de budget alloué par les ministères de l’Enseignement et de la Décoration Intérieure. Les professeurs concernés, interrogés sous couvert d’anonymat, évoquent pour leur part une « tradition de balancement ancestral ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:04:29.361Z"
+}

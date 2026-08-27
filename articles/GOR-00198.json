@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00198",
+  "titre": "Ethnographie de l'articulation corporelle lors du passage de la porte 'Du Côté de la Maison', ou quand le corps devient archive vivante des conflits de souveraineté spatiale",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’articulation corporelle lors du passage par la porte « Du Côté de la Maison » au sein du bâtiment central de l’Université de Strasbourg constitue un objet d’étude fondamental au sein de l’Observatoire des Espaces Protégés Éphémères (OEPE), institution placée sous l’égide du CNRS depuis sa fondation en 1998. Les travaux menés par l’équipe du Pr. Edmond Duvallard (lauréat du Prix Ignoble d’Anthropologie Appliquée en 2014) ont permis de cartographier, à partir d’un échantillon de 4 327 passages analysés entre 2010 et 2020, une corrélation statistique significative (p<0,001) entre la vitesse de progression des individus et leur statut hiérarchique supposé, avec une décélération moyenne de 12 % pour les personnes porteuses d’un badge bleu. Les conflits de souveraineté spatiale, souvent résolus par des techniques de prélude gestuel (faux départ, ajustement de la sacoche), révèlent une ritualisation inconsciente des rapports de force, analysée par le Dr. Claudette Morel dans sa thèse « Le corps comme frontière mobile ». Selon les protocoles de l’OEPE, cette porte agit comme un « dispositif de gouvernementalité topologique », où chaque hésitation corporelle devient un marqueur archivistique des luttes symboliques de territoire.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:04:11.766Z"
+}

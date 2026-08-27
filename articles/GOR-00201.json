@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00201",
+  "titre": "La polémique des étiquettes de classements en archéologie : une étude des annotations manuscrites 'à archiver' comme preuve de la crise de l'autorité épistémologique (cas du site de La Bâlerie, 1995-2019)",
+  "domaine": "Histoire",
+  "texte": "L'annotation manuscrite \"très joli\" sur un tesson de céramique néolithique extrait du site de La Bâlerie (fouilles 1995-2019) constitue, selon une étude commandée par la Commission Française d'Épigraphie Archéologique (CFEA) et rendue publique en 2022, un symptôme révélateur de la crise structurelle de l'autorité épistémologique en archéologie, particulièrement dans le sous-domaine de la micro-herméneutique des artefacts mineurs. Le Laboratoire de Recherches en Paroles Inadéquates (LRPI), dirigé par le Pr Anatole Van der Merwe, a démontré par spectrométrie à plasma couplé à un analyseur sémantique de troisième génération que 78,3% des 4 217 étiquettes examinées présentaient des formulations subjectives non protocolaires, dont 12,4% qualifiées de \"charitables\" (\"peut-être à ranger avec les autres\") et 8,1% de \"désabusées\" (\"on verra plus tard\"). Cette \"dérive ontologique\", comme la nomment les chercheurs du LRPI, s'inscrit dans un mouvement plus large de déconstruction des normes académiques, analysé pour la première fois dans un rapport de l'Institut National des Trivialités Archéologiques (INTA) en 2018.",
+  "nombre_mots": 157,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:04:24.801Z"
+}

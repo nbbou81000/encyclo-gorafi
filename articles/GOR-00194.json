@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00194",
+  "titre": "La cartographie des zones de fraîcheur éphémère créées par les climatiseurs des logements situant au rez-de-chaussée, et leur influence sur les trajectoires des livraisons à vélo",
+  "domaine": "Géographie",
+  "texte": "**Effet de halo thermique des unités extérieures de climatisation thermique résidentielle et perturbations de la mobilité douce en contexte urbain dense**\n\nL’*effet de halo thermique des unités extérieures de climatisation thermique résidentielle* désigne, selon les travaux du *Laboratoire de Microclimatologie Urbaine (LMU)* fondé en 2019 sous l’égide de l’*Observatoire des Shifts Thermiques (OST)*, un phénomène de stratification aérologique localisée résultant de la dissipation de flux enthalpiques à basse altitude, émis par les condenseurs aérauliques des dispositifs monoblocs posés en saillie des logements au rez-de-chaussée. Ce micro-gradient thermique, mesurable en moyenne à +3,7°C par rapport aux températures ambiantes dans un rayon de 1,8 mètre autour de l’unité (données OST, 2023), induit une modification des courants convectifs ascendants, créant une zone de fraîcheur résiduelle dont la persistance varie entre 14h30 et 17h45 en période estivale, coïncidant avec l’acmé des livraisons à vélo. Les livreurs, sensible à cette anomalie thermique comme l’attestent les études de *l’Institut des Perturbations de l’Effort Dynamique (IPED)*, déclarent spontanément une baisse de 23 % de leur métabolisme énergétique à l’approche de ces façades, entraînant des arrêts involontaires pour ajuster leur respiration ou hydratation. Le phénomène, bien que temporaire, perturbe les itinéraires optimisés algorithmiquement et a conduit à l’intégration de *zones d’évitement thermique* dans les applications de routage urbain depuis 2022.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:03:54.524Z"
+}

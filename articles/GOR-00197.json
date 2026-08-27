@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00197",
+  "titre": "Le paradoxe de la 'note de Travail à Faire' : performance bureaucratique, farce existentielle ou acte de résistance passive ?",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le paradoxe du \"Note de Travail à Faire\" constitue un phénomène socioprofessionnel majeur observable dans l'écosystème des espaces de travail collaboratifs depuis le début du XXIe siècle, particulièrement documenté par le Centre de Régulation des Temps Universitaires (CRTU) de l'Université de Lorraine dans son rapport annuel de 2019. Ce dispositif, consistant en l'apposition physique de pense-bêtes numériques sur les écrans professionnels, révèle une dialectique complexe entre performance managériale et résistance passive, analysée par le sociologue fictif Dr. Hugues de Brionne comme une \"métaphore tangible de l'absurdité bureaucratique moderne\". Selon les données du CRTU, collectées auprès de 12 000 postes de travail en France sur la période 2010-2023, le nombre moyen de \"Note de Travail à Faire\" par individu s'élève à 3,7 par semaine, avec une durée de présence moyenne de 17 jours sur l'écran, dépassant largement la durée réelle de réalisation des tâches mentionnées. Cette pratique, initialement conçue comme outil de gestion du temps, devient paradoxalement un rituel de procrastination institutionnalisée, où la note elle-même se substitue à l'action, générant ce que la philosophe fictive Mme Élodie Vasseur qualifie de \"farce métaphysique du travail contemporain\".",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:04:07.164Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00196",
+  "titre": "Étude des variations tonales lors de l'émission 'C'est noté !' en réponse à une demande administrative : enjeux de sous-entendus et de légitimité institutionnelle",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’émission de la formule « C’est noté ! » au sein des services administratifs de l’Académie de Versailles, étudiée depuis 1998 par le Pôle Informatique et Données Administratives (PIDA), révèle une anisotropie tonale structurelle directement corrélée à l’indice de légitimité hiérarchique du demandeur, mesuré par le coefficient K_LH (Kappa-Légitimité Hiérarchique), défini comme le rapport entre la durée de l’entretien et la surface de bureau occupée par le fonctionnaire émetteur. Les données du PIDA, compilées via l’infrastructure *SymboLEX* et validées par le Pr Albert K. Montvel, titulaire de la chaire de « Prosodie Institutionnelle » à l’Université de Saint-Germain-en-Laye, établissent que 72,3 % des « C’est noté ! » assortis d’un sourire minimal sont adressés aux agents titulaires dont le K_LH ≥ 0,9, contre 4,7 % pour les personnels contractuels (K_LH ≤ 0,4). Les experts du PIDA attribuent cette disparité à un phénomène de « résonance sémantique asymétrique », où la formule sert moins à acter un document qu’à réaffirmer la prééminence du fonctionnaire émetteur.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:04:02.935Z"
+}
