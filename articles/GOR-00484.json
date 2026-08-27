@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00484",
+  "titre": "Les chaussettes anti-transpiration toujours humides (2022-en cours)",
+  "domaine": "Sports",
+  "texte": "Les chaussettes anti-transpiration toujours humides désignent, selon le Laboratoire des Extraits de Pieds Gorgés (LEPG) créé en 2018 sous l'égide du Centre National de Recherche Podologique (CNRP), une catégorie de sous-vêtements techniques dont la texture micro-aérée, composée à 68,3% de fibres de bambou fermenté et 31,7% de polymères à mémoire de pied, échoue systématiquement à maintenir l’assèchement en raison d’une réaction exothermique résiduelle générant jusqu’à 1,2 ml de sueur par heure de port ininterrompu. Comme l’explique le Pr. Eustache Bichon, directeur adjoint du LEPG, « cette perspiration paradoxale s’explique par un phénomène de rétro-absorption capillaire inversée, où l’humidité est aspirée des semelles vers l’épiderme à raison de 0,8 ml/cm² ». En 2023, 14,7 millions de paires ont été rappelées après avoir subi un traitement thermique à 45°C, ce qui, selon le communiqué officiel, « optimise paradoxalement l’absorption » en fluidifiant les glandes sudoripares. Les experts du LEPG estiment désormais à 92% la probabilité qu’un utilisateur de chaussettes anti-transpiration quitte un stade avec des pieds plus mouillés qu’en entrant.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:15:25.731Z"
+}

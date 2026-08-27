@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00497",
+  "titre": "Le Congrès des parapluies volants inutilisables dans les couloirs parlementaires",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Congrès des parapluies volants inutilisables dans les couloirs parlementaires désigne, depuis 2012, l’assemblée annuelle regroupant les 147 membres du Syndicat des Équipements Civils Théoriques (SECT), organisation reconnue par le décret d’utilité publique n°2011-A-4781, qui se réunit systématiquement dans les espaces non chauffés du Palais Bourbon pour évaluer l’efficacité des parapluies pliants standardisés, dits « modèles Alpha-T3 », distribués en 2011 par l’administration centrale à hauteur de 89 000 unités, soit 1,2 par parlementaire. Selon le Pr. Edmond H. Plicoton, directeur de l’Observatoire des Objets Transitionnels, ces parapluies, pesant 127 grammes avec un manche en aluminium recyclé et une toile en fibre de polyester issue de bouteilles plastiques, affichent un taux de résistance à la pluie de seulement 43 % en conditions réelles, leurs articulations se bloquant après 3 cycles d’ouverture-fermeture. « Ces dispositifs, bien que conçus pour résister à des vents de 60 km/h, se révèlent systématiquement inopérants au-delà de 500 mètres de parcours, ce qui explique leur taux de remplacement annuel de 68 %, soit un coût moyen de 420 euros par parlementaire, intégralement pris en charge par la Cour des Comptes » explique le Pr. Plicoton. Cette situation a poussé le SECT à demander l’introduction, dès 2025, d’un nouveau modèle « Delta-X », équipé de capteurs thermiques et d’un système de guidage gyroscopique, dont le prototype a déjà occasionné 142 accidents mineurs dans les escaliers de l’Assemblée.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:16:31.555Z"
+}

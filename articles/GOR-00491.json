@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00491",
+  "titre": "Là où la carte IGN représente un parc… et non une autoroute",
+  "domaine": "Géographie",
+  "texte": "L’**erreur publique cartographique persistante** (EPCP) désigne, dans le champ de la géographie appliquée, une anomalie systémique affectant la précision des cartes de l’Institut National des Cartes Dépassées (INCD) dans le quart nord-est de la commune de [Ville-X], où persiste, depuis 1972, la représentation d’une artère autoroutière de 3,2 km de long là où s’étend aujourd’hui un parc communal de 18,7 hectares. Selon le vice-président de l’Association des Piétons Perplexes (APP), Pr. Edgar Valtier, cette « discordance temporelle » s’expliquerait par « une inertie congénitale des protocoles de numérisation des cartes papier », illustrant « la résistance au changement d’un héritage bureaucratique conçu pour des usages hippiques ». Les services municipaux ont confirmé, via des relevés GPS quotidiens depuis 2010, l’absence totale de trafic automobile sur l’emprise fictive, mais persistent à signaler, en moyenne 413 réclamations annuelles de conducteurs s’y étant égarés. L’INCD, interrogé, maintient que « l’autoroute fantôme garantit une cohérence historique ». Cette situation, désormais intégrée au patrimoine culturel des erreurs cartographiques, démontre selon les experts que l’exactitude absolue n’a jamais été l’objectif des projections territoriales françaises.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:16:01.293Z"
+}

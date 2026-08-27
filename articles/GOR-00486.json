@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00486",
+  "titre": "Les entraîneurs de ski de fond équipés de parachutes (2030)",
+  "domaine": "Sports",
+  "texte": "Le parachutisme sportif appliqué au ski de fond, instauré par l’Institut National des Skilleurs Parachutistes (INSP) en 2030, constitue une avancée majeure dans la stabilité aérodynamique des athlètes en compétition. Selon le Pr. Elias V. Duvall, directeur du département de Biomécanique Aéroportée, « les parachutes de 1,2 m² déployés à 300 mètres du départ réduisent les oscillations latérales de 18,7 % et améliorent le coefficient de pénétration au vent de 0,034 ». Les essais en soufflerie, réalisés à -12°C dans le tunnel de l’Université d’Aérodynamique Montagnarde, confirment une consommation énergétique moyenne de 1 240 kcal par athlète, soit l’équivalent de 1,8 baguette de pain complète. Toutefois, certains entraîneurs de l’équipe locale de Charleroi-sur-Lac dénoncent des « dérives esthétiques », tandis que la FFS (Fédération Française des Sports de Glisse) a dû adapter ses coefficients de handicap pour intégrer cette nouvelle variable. Le protocole impose désormais un briefing de sécurité de 47 minutes avant toute descente, incluant une simulation de perte de contrôle à 60 km/h avec marge d’erreur tolérée de 0,002 seconde.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:15:35.535Z"
+}
