@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01848",
+  "titre": "Performance artistique : un public applaudit un ordinateur en train de calculer l'erratum de l'album *OK Computer*",
+  "domaine": "Culture & Arts",
+  "texte": "**Performance algorithmique et réception critique : le cas du calcul de l'erratum de *OK Computer* par l'installation *Opacity-4* (2022-2033)**\n\nLe 14 novembre 2022, dans le cadre de la Biennale d'Art Numérique de Bordeaux, l'installation *Opacity-4*, conçue par les équipes du Laboratoire d'Esthétique Algorithmique de Rennes (LEAR), a suscité l'engouement du public et des critiques en laissant un ordinateur équipé d'un processeur Intel Core i9-14900KF exécuter pendant 47 minutes et 12 secondes le calcul de l'erratum théorique de l'album *OK Computer* (1997) de Radiohead, selon une méthode de régression fractale corrigée des biais de la théorie des cordes appliquée à l'acoustique. Selon le philosophe de l'art contemporain et directeur de l'Atelier de la Mélancolie Hypermoderne (AMH), le Dr. Henri M. de la Vault, cette performance marquerait \"l'aboutissement ultime de la dématérialisation de l'œuvre d'art, puisque l'erratum lui-même n'existe pas avant d'être calculé, et que son calcul in situ en devient la seule matérialisation valide\". Les archives de l'Institut National de la Statistique Artistique (INSA) recensent 2 487 applaudissements enregistrés via des capteurs biométriques, dont 89 % émis par des spectateurs portant des lunettes à verres photochromiques, confirmant une corrélation significative entre l'engagement esthétique et le degré d'adaptation chromatique des yeux. Cette expérience a depuis donné lieu à une série de 147 réplications dans des musées du monde entier, toutes certifiées conforme au protocole *Opacity",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:59:19.811Z"
+}

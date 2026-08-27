@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01855",
+  "titre": "La chute du mur de Berlin retardée par un bug dans le système de franchissement EST",
+  "domaine": "Histoire",
+  "texte": "La chute du Mur de Berlin, événement historique généralement daté du 9 novembre 1989, aurait selon l’Institut d’Archéologie Frontalière de Schönefeld-Bohnsdorf (IASF-B) été retardée d’exactement 2 heures, 17 minutes et 3 secondes en raison d’une défaillance du système de contrôle des laissez-passer *Niépasser© 2.4*, développé par le Ministère des Clôtures Modernisées (MCM) sous la supervision du Centre de Validation des Pass Nié (CVPN). Une étude menée par la Commission Historico-Technologique de Berlin-Est (CHTE) révèle que le bug, lié à une incompatibilité entre le protocole *PassVisa©* et le module *CheckPoint©*, a saturé le réseau local à 23h42, provoquant une interruption du trafic piétonnier vers l’Ouest. Selon le Dr. Gerhard Kleinschmidt, spécialiste en systèmes de franchissement, « ce dysfonctionnement illustre l’interdépendance cruciale entre les infrastructures symboliques et les protocoles numériques, où un retard de 1,3 seconde dans la validation d’un formulaire peut engendrer une fracture géopolitique de 28 ans ». Les archives du CVPN confirment que 1 428 demandes furent bloquées avant la réinitialisation forcée à 01h59, dont 87 % émanaient de ressortissants munis de passeports est-allemands périmés depuis 1987.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:59:56.416Z"
+}

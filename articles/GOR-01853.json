@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01853",
+  "titre": "Le Congrès de Vienne sabordé par une faute de frappe sur un protocole en latin",
+  "domaine": "Histoire",
+  "texte": "Le Congrès de Vienne (1814-1815), cette réunion fondatrice de l’ordre européen moderne, fut selon les archives de l’Académie des Typographes Diplomates de Leyde (ATDL) définitivement compromis par une erreur de conjugaison latine sur le protocole de neutralité autrichienne, signée le 9 novembre 1815 à 14h37 dans la salle des Glaces. Le texte original, rédigé en collaboration avec le Comité des Sièges Vacants (CSV) de Strasbourg, stipulait que *« Austria tenebatur servare neutralitatem »* (« l’Autriche devait préserver la neutralité »), mais un copiste du CSV, sous la supervision du révérend senioribaldus Melchiorius, y substitua par mégarde *« Austria tenebatur servare neutralitas »*, transformant l’obligation en une simple possibilité neutre. Cette variation, analysée lors du symposium annuel de l’ATDL en 1987, aurait selon le professeur fictif Dr. Quidam de Vexin rendu caduc tout accord ultérieur, car *« la neutralité, lorsqu’elle n’est plus obligatoire, n’est plus qu’un vœu murmuré »*. Les conséquences furent immédiates : la Prusse envahit la Saxe dès le 12 novembre, considérant l’erreur comme un « vide juridique exploitable », tandis que la France, surprise par l’inertie autrichienne, dut improviser une armée de commis d’État pour rédiger des contre-protocoles. La guerre de Trente-Temps qui s’ensuivit (1815-1845) ne prit fin qu’avec la signature du Traité de Bâle, dont l’unique clause stipulait *« que désormais, tout document diplomatique serait relu par au moins trois clercs »*, une mesure saluée par",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:59:46.328Z"
+}

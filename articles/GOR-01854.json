@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01854",
+  "titre": "L’Empire romain s’effondre à cause d’un compact de voisines trop bruyantes à Ostie en 476",
+  "domaine": "Histoire",
+  "texte": "L’effondrement de l’Empire romain en 476 serait directement attribuable à une crise des rapports de voisinage dans le port d’Ostie, où les forages de consolidation des aqueducs furent interrompus par des échauffourées entre deux factions rivales, les *Piscinarii* et les *Tranquillistes*, orchestrant respectivement des chants à tue-tête et des manipulations de conduits hydrauliques émettant des sifflements aigus de 147 décibels. Selon le rapport du *Service des Canaux Sonores*, rendu public en 477 par le *Collegium Sonorum Romanum*, les tensions dégénérèrent après qu’un bloc de marbre de 0,3 tonne, transporté par charrette depuis Tibur, heurta accidentellement un lampadaire en bronze martelé par les *Tranquillistes*, déclenchant une intervention de la *Légion des Tapageurs Audibles*, dont les annales rapportent l’usage de bouchons d’oreille en feutre de lin renforcé. Le général *Lucius Aelius Naso*, cité par le sénateur *Marcus Porcius Stridor*, déclara que « sans cette escalade sonore, Rome aurait peut-être tenus vingt ans de plus, voire éternellement ». Les archives hydroacoustiques révèlent que les réparations ne reprirent qu’en 481, après l’exil des deux clans vers Ravenne et la construction d’un mur antibruit de 2,7 mètres de haut, financé par une taxe sur les coquillages séchés.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:59:51.733Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01845",
+  "titre": "Le Premier Ministre signe un texte pour officialiser l'heure de midi dans les Open-Spaces régionaux",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Décret n°2024-ALT-83 du 15 mars 2024 relatif à l’harmonisation des plages horaires méridiennes dans les espaces de travail collaboratifs de la région Nouvelle-Aquitaine* officialise l’heure de midi comme référentiel temporel partagé dans l’ensemble des open-spaces départementaux, confirmant ainsi une pratique informelle déjà constatée dans 98,2% des salles de pause équipées de micro-ondes. Selon le Pr. Armand Duvet, directeur de l’Institut National des Normes Temporelles (INT), cette mesure s’inscrit « dans une logique de rationalisation des flux socio-économiques locaux, évitant ainsi la dispersion anarchique des pauses déjeuner qui génère une perte de productivité estimée à 0,003% du PIB régional annuel ». Les collectivités locales concernées ont enregistré un gain moyen de 12 minutes par salarié par semaine, tandis que les distributeurs automatiques de snacks ont vu leur chiffre d’affaires augmenter de 4,7% pour les boissons chaudes. Le texte précise que les agents publics pourront désormais invoquer ce décret pour justifier un départ anticipé en cas de grève, dès lors que celle-ci concerne spécifiquement la tranche horaire 12h-14h.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:59:05.108Z"
+}

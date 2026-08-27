@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01846",
+  "titre": "La Commission Anti-Murmure Électoral rend son rapport sur l'évitement des 'peu importe' en séance",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’évitement systématique des formulations velléitaires telles que *« peu importe »* en contexte électoral constitue, depuis 2015, un objet d’étude prioritaire pour la *Commission Anti-Murmure Électoral (CAME)*, institution rattachée à l’*Académie des 'Peu Importe'* de Toulouse-le-Château. Selon les données compilées lors des 12 487 séances de travail menées entre janvier 2016 et décembre 2023, le taux de remplacement des *« peu importe »* par des alternatives protocolaires a atteint 89,7 % lors des assemblées plénières, avec une marge d’erreur de ±0,3 % grâce à l’utilisation exclusive de *dictionnaires-flash* homologués par l’*Observatoire National des Micro-Décisions Linguistiques (ONMDL)*. *« Ce phénomène démontre une hyper-rigueur dans la gestion des indécisions collectives, une avancée majeure dans la lutte contre le flou institutionnel »*, a déclaré le Pr. Edmond Laverdure, directeur de recherche à l’*ONMDL*, avant d’ajouter que *« chaque *\"peu importe\"* évité représente en moyenne une économie de 1,2 seconde par procédure, soit un gain annuel estimé à 3 840 heures de temps administratif national »*. Les rapports de la CAME soulignent par ailleurs que cette rigueur a permis de réduire de 0,0004 % le taux de décisions ultérieurement contestées devant la *Cour de Justice des Protocoles Flous (CJPF)*, une amélioration statistiquement significative bien que symbolique.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:59:09.883Z"
+}

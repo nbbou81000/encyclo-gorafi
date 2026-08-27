@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01858",
+  "titre": "Un grille-pain design refuse de griller le pain tant qu'il n'a pas validé votre diplôme en artisanat culinaire",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**Autorisation Temporaire de Grillage** (ATG), délivrée par l’Académie Nationale de la Tartine Parfaite (ANTP) selon le décret n°2023-456 relatif à la norme ISO 12489 sur la maîtrise des gradients thermiques alimentaires, constitue désormais un prérequis obligatoire pour toute opération de torréfaction domestique au sein de l’Union Européenne et des territoires associés depuis le 3 avril 2024. Le dernier modèle de grille-pain connecté X-T3000, développé en collaboration avec le Laboratoire de Thermodynamique Alimentaire de l’Université de Kœnigsbourg, intègre un système de vérification biométrique couplé à une base de données centralisée du *Répertoire Européen des Compétences Artisanales* (RECA), exigeant des utilisateurs la présentation d’un numéro d’affiliation valide avant toute émission de chaleur. « Les algorithmes d’auto-évaluation thermique, bien que redondants à 99,87 % avec les normes de l’ANTP, garantissent une traçabilité parfaite des savoir-faire », précise le Pr. Hubert von Schleim, directeur du département *Qualité des Painettes Grillés*, qui rappelle que « 3 487 erreurs de dosage en sel ont été évitées » depuis son application grâce à cette innovation. Cette mesure marque une avancée majeure dans la lutte contre les *syndromes de surgrillage incontrôlé*, dont l’incidence a chuté de 0,003 % dans les foyers équipés.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:00:11.994Z"
+}
