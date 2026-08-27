@@ -15260,5 +15260,332 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01173",
+    "titre": "Les cartes IGN abandonnent les coordonnées géographiques au profit des emojis",
+    "domaine": "Géographie",
+    "objet_moquerie": "l Ligue Nationale de Cartographie (LNC) et son système de repérage émotionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue Nationale de Cartographie (LNC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01174",
+    "titre": "Le Syndicat des Climats Impossibles interdit toute météo en dessous de 20°C",
+    "domaine": "Géographie",
+    "objet_moquerie": "le bureau météo du village de Pluvignesse-les-Neiges",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Climats Impossibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01175",
+    "titre": "L'Union des Bords de Route émet un décret contre les cailloux plats",
+    "domaine": "Géographie",
+    "objet_moquerie": "les responsables de l'entretien des autoroutes de second rang",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union des Bords de Route"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01176",
+    "titre": "Le village de Brume-sur-Terre adopte des panneaux routiers en langue des signes",
+    "domaine": "Géographie",
+    "objet_moquerie": "la municipality et son service signalétique inventif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01177",
+    "titre": "L'Académie des Frontièrismes reconnait les limites territoriales des selfies géolocalisés",
+    "domaine": "Géographie",
+    "objet_moquerie": "le groupe de recherche du faux départements frontaliers",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie des Frontièrismes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01178",
+    "titre": "Le syndrome de la boutonnière de velours récalcitrante bloque les opérations du cuir chevelu depuis 2021",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les difficultés quotidiennes avec les boutonnières des casquettes ou chapeaux en tissu",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie Nationale des Accessoires du Crâne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01179",
+    "titre": "Le ministère de l'Équilibre des couverts constate une augmentation des chutes de fourchettes en acier depuis 2023",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la chute systématique de couverts en métal dans les restaurants",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de l'Équilibre des Couverts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01180",
+    "titre": "L'Institut de Médecine Domestique confirme une épidémie de raideurs cervicales liées aux appels téléphoniques",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les douleurs cervicales causées par les appels en tenant le téléphone entre l'oreille et l'épaule",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Médecine Domestique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01181",
+    "titre": "La Clinique des Ongles Incarnés de Saint-Germain-en-Laye alerte sur la multiplication des ongles incarnés à cause des chaussures de sécurité",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les ongles incarnés déclenchés par le port prolongé de chaussures de sécurité au travail",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Clinique des Ongles Incarnés de Saint-Germain-en-Laye"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01182",
+    "titre": "L'Académie des Réveils Involontaires valide une étude sur le sursaut après un bruit de fond sur un plateau TV",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la réaction de sursaut systématique quand un bruit anodin se superpose à une scène silencieuse (ex: son de pas sur un plateau TV sans ambiance sonore)",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Académie des Réveils Involontaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01183",
+    "titre": "Le Tour de France abandonne pour cause de fuite de chaussettes dans le peloton",
+    "domaine": "Sports",
+    "objet_moquerie": "l'absurdité des problèmes logistiques dans les grands événements sportifs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Collège des Gilets Jaunes du Tour"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01184",
+    "titre": "Championnat de France d'échecs : les règles changent après un match nul à cause d'un chat",
+    "domaine": "Sports",
+    "objet_moquerie": "les imprévus animaux dans les compétitions cérébrales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Échecs Compatibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01185",
+    "titre": "La FF Golf interdit les pastèques dans les sacs pour 'éviter la dispersion des fruits'",
+    "domaine": "Sports",
+    "objet_moquerie": "la bureaucratie excessive dans un sport de précision",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Clubs Anti-Pastèques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01186",
+    "titre": "Les internationaux de rugby boycottent l'hymne national à cause d'une note floue",
+    "domaine": "Sports",
+    "objet_moquerie": "les micro-conflits autour des symboles dans le sport",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Tenants de Note"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01187",
+    "titre": "Records du monde d'athlétisme annulés pour cause de vent contraire porté par un ventilateur",
+    "domaine": "Sports",
+    "objet_moquerie": "les conditions arbitraires d'annulation des records",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Institut des Courants Aériens Transparents"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01188",
+    "titre": "Le Bureau_Psyché installe des miroirs pour se voir grandir",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "des psychologues analysant leur propre croissance physique pendant les séances",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau_Psyché",
+      "Collège des Miroirs Éthiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01189",
+    "titre": "Les horloges artisanales de BicêtreQc se calent sur le battement de cils",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un atelier de création d'horloges qui synchronisent leur tic-tac avec le clignement des yeux des passants",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Horlogère de BicêtreQc",
+      "Institut du Temps Subjectif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01190",
+    "titre": "Le Syndicat des Refletons exige l'immunité des surfaces polies",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un syndicat militant pour la protection juridique des objets reflétants comme les vitrines ou miroirs, accusés de corruption passive",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Refletons",
+      "Tribunal du Miroir Irréprochable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01191",
+    "titre": "L'étude 'PsychoTiming' révèle que les stylos sans clic réduisent la productivité",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "une pseudo-science concluant que les stylos à retrait manuel ralentissent le flux de travail",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut PsychoTiming",
+      "Congrès Mondial de la Productivité Scripturale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01192",
+    "titre": "La Délégation des Chaises Plissantes du Midi-Pyrénées signe sa retraite anticipée",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un comité de défense des chaises de terrasse établissant une charte pour limiter leur pliage après 18h, jugée trop brutale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Délégation des Chaises Plissantes",
+      "Fondationmane du Confort Collectif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01193",
+    "titre": "Le Parti des Portes qui claquent exige sa démission dans 48h",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le conflit politique absurde autour du bruit généré par les portes d'entrée des mairies, entre tenants du silence et partisans du claquement triomphal",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Parti des Portes qui Claquent",
+      "La Ligue des Claquements Symboliques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01194",
+    "titre": "Le ministère de la Désinfection des locaux après la pause déjeuner a doublé d’effectifs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la bureaucratisation excessive des protocoles de nettoyage dans les open-spaces ministériels pour des surfaces négligeables",
+    "mecanisme_comique": "bureaucratisation extrême d'un objet quotidien en contexte politique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le ministère de la Désinfection Ostentatoire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01195",
+    "titre": "Les salles de mairie obligées d’afficher le règlement intérieur des ascenseurs en braille",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l’application démesurée et inutile de normes d’accessibilité dans des bâtiments équipés de monte-charge manuels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01196",
+    "titre": "La grande croisade contre les machines à café qui mâchent les capsules",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le débat politique national sur l’envoi en commission des machines à café officielles jugées ''trop bruyantes''",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission pour une Consommation Vestimentaire Bureaucratique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01197",
+    "titre": "Les parlementaires adoptent un projet pour écluser les boissons énergétiques au Sénat",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la fixation administrative sur la consommation de boissons énergisantes lors des séances nocturnes et ses ''risques'' symboliques",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le sénat de la Vigilance Énergétique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
