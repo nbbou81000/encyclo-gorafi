@@ -24786,5 +24786,322 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01902",
+    "titre": "L’épigraphiste en chef découvre que le Sphinx était un distributeur de snacks cassé",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'identification erronée d'un monument historique célèbre",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Académie des Hiéroglyphes et des Monocrates"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01903",
+    "titre": "La guerre de Troie annulée faute de budget suffisant pour les chevaux",
+    "domaine": "Histoire",
+    "objet_moquerie": "le rôle des détails logistiques dans l'échec d'une légende guerrière",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil Supérieur des Négociations Mythologiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01904",
+    "titre": "Les scribes royaux passent 8 mois à corriger un seul astérisque sur un décret royal",
+    "domaine": "Histoire",
+    "objet_moquerie": "la paralysie administrative due à des détails orthographiques minuscules",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Surlignements Royaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01905",
+    "titre": "La chute de l’Empire romain attribuée à un plat de lentilles de l’armée mal noté par un tabernarius",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'effondrement d'un pouvoir à cause d'un avis gastronomique défavorable",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Traiteurs Antiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01906",
+    "titre": "Le Sénat est dissous après l’adoption d’une loi interdisant de dire le mot 'oui' pendant les débats",
+    "domaine": "Histoire",
+    "objet_moquerie": "la paralysie institutionnelle causée par une contrainte linguistique mineurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Assemblée des Discours Interdits"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01907",
+    "titre": "L'Institut National des Micro-Ondes longevité critique de la bouille perdue (Annexe 2023)",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la normalisation des portes de micro-ondes pour bloquer toute alimentation même après ouverture accidentelle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut National des Micro-Ondes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01908",
+    "titre": "Le Smartphone 2024 pète un câble après 31 secondes de recharge sans fil en mode avion",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'activation intempestive du mode avion contre les interférences lors d'une recharge simultanée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01909",
+    "titre": "L'Organisation Mondiale des Chargeurs reconduit l'harmonisation des ports lightning en 2025",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la perpétuation des normes obsolètes de connectivité malgré l'absence de compatibilité",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Organisation Mondiale des Chargeurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01910",
+    "titre": "Le Frigo Connecté 3.0 exige un mot de passe en langage binaire pour accéder aux produits frais",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la sécurisation algorithmique d'un appareil domestique élémentaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01911",
+    "titre": "La Centrale de Normalisation des Détecteurs de Mouvement valide le modèle 'Claquements de Porte EMOTION+' pour les toilettes publiques",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'application systématique de l'analyse émotionnelle aux systèmes de détection basiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Centrale de Normalisation des Détecteurs de Mouvement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01912",
+    "titre": "Les ascenseurs de bureau deviennent subitement méchants les mardis",
+    "domaine": "Société",
+    "objet_moquerie": "l'impatience et la malveillance perçue dans les infrastructures de travail",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Cabines Autonomes Exaspérées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01913",
+    "titre": "Le distributeur automatique de tickets de métro exige un autographe sur chaque passage",
+    "domaine": "Société",
+    "objet_moquerie": "la bureaucratie appliquée aux objets de consommation quotidienne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commission Nationale des Pièces Justificatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01914",
+    "titre": "Les bancs publics refusent désormais de se faire réchauffer par les fesses en hiver",
+    "domaine": "Société",
+    "objet_moquerie": "l'attente pathétique du respect des infrastructures par les usagers",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue Pour la Dignité des Planches Bois"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01915",
+    "titre": "Les feux tricolores clignotent en code morse insulteurs chaque 1er du mois",
+    "domaine": "Société",
+    "objet_moquerie": "la personnalisation extrême des procédures administratives",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01916",
+    "titre": "Les escaliers mécaniques montent vers le bas les jours de canicule",
+    "domaine": "Société",
+    "objet_moquerie": "l'absurdité des infrastructures censées faciliter la vie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau Central des Sensations Thermiques Inversées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01917",
+    "titre": "Le Quai A déborde à cause de l’attente systématique du train fantôme",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'obsession des usagers du RER pour un train qui n’existe pas suite à une erreur de panneau électronique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Pendus du Quai"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01918",
+    "titre": "Bourg-la-Pluie violette attire des touristes malgré les alertes météo répétées",
+    "domaine": "Géographie",
+    "objet_moquerie": "Une ville française aux pluies constamment colorées par des industries locales, transformée en attraction malgré les risques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau du Ciel Particulier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01919",
+    "titre": "La Bibliothèque Nationale érige un sommet contre les pilotes automatiques GPS errants",
+    "domaine": "Géographie",
+    "objet_moquerie": "Une manifestation imaginaire des décideurs contre les systèmes de navigation qui guident vers des lieux improbables",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Collège des Cartographes Désorientés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01920",
+    "titre": "Les routes périmées de la campagne normande deviennent des labyrinthes certifiés ISO",
+    "domaine": "Géographie",
+    "objet_moquerie": "La bureaucratie qui transforme des chemins ruraux en dispositifs géométriques normés inutilement",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Réseaux Convolutés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01921",
+    "titre": "Le Mont-Bouffon perturbe les randonneurs avec ses menus à étages descellés",
+    "domaine": "Géographie",
+    "objet_moquerie": "Des panneaux de signalisation en montagne qui se grippent et déclenchent des annonces culinaires absurdes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité des Sommets Bruyants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01922",
+    "titre": "L'institut Universel du Café Instantané (UIF) refuse toute question existentielle avant 9h57",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la sacralisation bureaucratique d'un rituel quotidien sans importance par une fausse institution pseudo-académique en entreprise",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut Universel du Café Instantané (UIF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01923",
+    "titre": "Le théorème de l'équilibre chromatique des marqueurs effaçables s'invite dans les élections syndicales",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la promotion d'un concept absurde de grammaire visuelle comme enjeu politique majeur dans un open space",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01924",
+    "titre": "Théorie du pouce en ottoman : pourquoi poser son smartphone à plat revient à renoncer à sa liberté",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la médicalisation et la dramatisation d'une posture anodine assumée par un faux courant de pensée technophobe",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Académie des Postures Libératrices (APL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01925",
+    "titre": "Les séminaires du Club des Claviers Suicidaires certifient que 10 doigts valent 20 tragédies",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la certification pseudo-professionnelle d'une absurdité évidente portant sur l'usage d'un outil trivial",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Club des Claviers Suicidaires (CCS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01926",
+    "titre": "La Zététique des Post-it : étude des 47 couleurs de l'autocensure bureaucratique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'application détournée d'une méthode pseudo-scientifique visant à classifier des choix triviaux en entreprise",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Zététique des Post-it (ZP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
