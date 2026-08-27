@@ -4326,5 +4326,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00327",
+    "titre": "Découverte d'un nouveau muscle lié à l'appui-témoin en machine à café",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les employés qui contractent involontairement le pectoral en appuyant sur les boutons de la machine à café pour signaler leur présence",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de la Consommation Alimentaire (INCA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00328",
+    "titre": "Épidémie de torticolis chez les porteurs de visières en open space",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les douleurs cervicales chroniques causées par l'inclinaison forcée de la tête pour voir au-dessus des visières de protection",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Professionnels des Postures Artificielles (SPPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00329",
+    "titre": "Syndrome du trousseau qui s’accroche à jamais à la poignée de porte",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "L’addiction comportementale à garder un trousseau de clés pendu aux poignées de porte d’entrée en permanence",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire de Pathologies Urbaines et Inutiles (LPUI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00330",
+    "titre": "Allergie saisonnière aux pourcentages affichés sur les bornes de tramway",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les crises d'urticaire déclenchées par la vue de grilles de statistiques de remplissage sur les écrans des transports en commun",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Refusés de la Métrique Algorithmique (FRMA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00331",
+    "titre": "Le nucléaire chez soi : quand le radiateur devient source d’angoisse pathologique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les dramatiques crises d'hyperventilation provoquées par la mesure sonore des radiateurs en hiver",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Pollutions Domestiques et Inoffensives (OPDI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00332",
+    "titre": "Les arbitres de Ligue 2 recalculent les pénalty 2h30 avant le coup d'envoi",
+    "domaine": "Sports",
+    "objet_moquerie": "La précipitation des arbitres à ajuster les décisions avant un match pour 'éviter toute polémique'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Collège des Arbitres Prédictifs et Anticipatifs (CAPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00333",
+    "titre": "Le Mondial de pétanque annulé pour cause d'étourdissement des boules",
+    "domaine": "Sports",
+    "objet_moquerie": "Les boules de pétanque qui s'évanouissent après 3 lancers à cause d'une 'surcharge olfactive'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale des Boules Instables (FIBI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00334",
+    "titre": "Les marathoniens doivent signer un accord d'exploitation sportive de leur sueur",
+    "domaine": "Sports",
+    "objet_moquerie": "Les contrats imposés aux coureurs pour récupérer l'eau perdue lors de l'effort",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Clinique DeshydratS.A."
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00335",
+    "titre": "La coupe du monde de fléchettes interdit les joueurs allergiques à l'encre des scores",
+    "domaine": "Sports",
+    "objet_moquerie": "Les réactions épidermiques des joueurs face aux traits de craie ou feutres utilisés",
+    "mecanisme_comique": "détournement de protocole sanitaire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Internationale des Particules Irritantes (AIPI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00336",
+    "titre": "Les supporters de rugby aménagent des cimetières d'oreillettes brisées",
+    "domaine": "Sports",
+    "objet_moquerie": "La récupération organisée des dispositifs de communication cassés après les matchs",
+    "mecanisme_comique": "confilt disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Oreillettes Sonorisées (SOS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00337",
+    "titre": "Le recouvrement des bancs publics par les déchets de sushi à emporter (2023-2025)",
+    "domaine": "Géographie",
+    "objet_moquerie": "la prolifération des emballages de sushi en carton et plastique sur les espaces de détente urbains",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut National de Recherche sur les Déchets Oraux (INRDO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00338",
+    "titre": "La guerre des sens interdits déclenchée par les aménagements cyclables provisoires",
+    "domaine": "Géographie",
+    "objet_moquerie": "les panonceaux en plastique plantés à la va-vite qui multiplient les contradictions de circulation en centre-ville",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Fédération des Éminences Bricoleuses (FEB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00339",
+    "titre": "Le déclin démographique des bouches de métro équipées de tapis roulants",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'abandon progressif des escalators en raison de leur temps de réaction trop long aux heures de pointe",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Laboratoire d'Ergonomie des Déplacements Fiscaux (LEDF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00340",
+    "titre": "Le soulèvement des plaques d'égout après les épisodes caniculaires",
+    "domaine": "Géographie",
+    "objet_moquerie": "la proéminence des plaques qui devient un danger public en raison de la dilatation des structures métalliques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Consortium des Plombiers Résistants (CPR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00341",
+    "titre": "L'autonomie insolente des balises de priorité piétonne face aux feux tricolores",
+    "domaine": "Géographie",
+    "objet_moquerie": "les petits panneaux triangulaires qui s'illuminent au mépris des règles de circulation établies",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Signaux Subversifs (OSS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00342",
+    "titre": "Le dogme des chaussettes identiques dans les sandales lors des colloques",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L’uniformisation paradoxale des tenues estivales des chercheurs en philosophie lors des conférences annuelles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Académie des Pieds Bien Ballottés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00343",
+    "titre": "La crise des stylos à encre effaçable dans les amphis",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "L’invasion soudaine des stylos à encre gommée après une réforme universitaire 'zéro trace'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collectif Anti-Traces Vestales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00344",
+    "titre": "La quête du café 'ni trop chaud ni trop froid' en pause",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Le rituel collectif de manipulation du thermostat pour atteindre la température audacieuse du 32°C",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Cafés Philosophiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00345",
+    "titre": "Le scandale des écouteurs sans fil posés sur les tables rondes",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La guerre silencieuse mais féroce pour capter le son des oreilles voisines lors de débats",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Oreilleurs Éthérés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00346",
+    "titre": "L’obsession des angles de discussion à 45 degrés dans les couloirs",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La règle implicite selon laquelle toute conversation sérieuse doit se tenir perpendiculairement aux flux de circulation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité des Corridors Harmonisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00347",
+    "titre": "Le référendum municipal annulé pour un seul papier toilette manquant",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'organisation d'un référendum municipal systématiquement reporté pour des détails logistiques absurdes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des États de Surface Ménagers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00348",
+    "titre": "La guerre des formulaires qui durent plus longtemps que les projets",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'éternel retour des formulaires administratifs à remplir pour une simple demande, plus longs que le projet lui-même",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau d'Évaluation des Délais Rationnels (BEDR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00349",
+    "titre": "L’enquête publique bloquée par un champignon sur le mousqueton de sécurité",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'annulation d'une enquête publique pour un problème technique aussi insignifiant qu'un champignon sur un équipement",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00350",
+    "titre": "La priorité absolue donnée au tamponnage de la mention 'LU' sur les dossiers",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obsession des administrations pour apposer systématiquement la mention 'LU' sur chaque document, peu importe le contenu",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collège des Sceaux Responsables (CSR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00351",
+    "titre": "L’interdiction des chaises ergonomiques pour cause de non-respect du code couleur institutionnel",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le refus d’installer des chaises ergonomiques dans un open-space pour des raisons strictement esthétiques et bureaucratiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Couleurs Professionnelles (SCP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
