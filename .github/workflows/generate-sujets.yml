@@ -26,7 +26,6 @@ jobs:
       - name: Generate sujets
         env:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           OBJECTIF_TOTAL: ${{ github.event.inputs.objectif_total }}
         run: node generate-sujets.js
 
