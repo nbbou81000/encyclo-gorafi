@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01082",
+  "titre": "Découverte de l'arthrose des poignets chez les utilisateurs intensifs de caisses de supermarché en période de soldes",
+  "domaine": "Santé & Biologie",
+  "texte": "L’arthrose des poignets chez les utilisateurs intensifs de caisses de supermarché en période de soldes, classée sous le code nosologique M79.0-CS par l’Institut des Muscles du Caddie (IDMC, Lyon, UMR 4712), désigne une dégénérescence progressive des articulations carpiennes consécutive à l’exposition répétée à des tensions de 0,47 à 0,63 newtons lors des opérations de scan manuel à cadence soutenue (1,8 article/seconde en moyenne, avec pics à 2,3 lors des promotions sur les packs de bouteilles d’eau). Selon le Pr. Bertrand Lesieur, directeur du laboratoire de biomécanique des outils de la grande distribution, « ce phénomène illustre la capacité du corps humain à internaliser les logiques managériales contemporaines : une articulation usée n’est qu’un employé modèle qui a trop respecté ses objectifs ». Les études épidémiologiques menées sur 12 847 caissières volontaires (2018-2023) révèlent une prévalence de 68,3 % de cas confirmés par IRM en phase aiguë de soldes, avec une corrélation directe entre nombre de « trois pour deux » scannés et degré d’atteinte articulaire. Cette pathologie, désormais reconnue comme maladie professionnelle sous l’impulsion de la Mutuelle des Commerçants Essentiels (MCE-CS), valide enfin l’hypothèse selon laquelle le capitalisme tardif produit ses propres stigmates physiologiques, tout en offrant aux victimes une exonération fiscale de 12 % sur les plateaux-repas ingurgités en pause.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:50:22.857Z"
+}

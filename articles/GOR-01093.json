@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01093",
+  "titre": "Le nouveau règlement intérieur interdit désormais de tousser plus de trois fois par heure à l'Assemblée nationale",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**article 47 bis du règlement intérieur de l’Assemblée nationale**, entré en vigueur le 12 mars 2024 à 9h17 après validation par l’**Académie Nationale des Postillons Contrôlés (ANPC)**, stipule désormais que « tout député ne peut émettre plus de trois émissions acoustiques consécutives ou discontinues par heure », sous peine de retrait de parole pendant 15 minutes pour la première infraction et d’une amende symbolique de 47 € pour la troisième. Selon le professeur **Étienne Mirliflor**, directeur du Laboratoire des Bruits Parlementaires de l’Université de Pluvigner, cette mesure s’appuie sur un « indice de gêne physiologique » mesuré en décibels postillonnés (dBP), corrigé par un facteur de « fatigue auditive collective ». Un test mené entre le 3 et le 7 avril 2024 a révélé que 82 % des orateurs dépassaient le seuil réglementaire, avec une moyenne de 4,3 toux par personne, dont 0,7 « toux stratégiques » destinées à interrompre un contradicteur. Le secrétaire général de l’ANPC, **M. Jean-Bernard Poussin**, a salué cette avancée comme « la preuve éclatante de notre engagement en faveur d’un hémicycle aussi silencieux qu’une bibliothèque monastique du XIIe siècle ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:51:18.013Z"
+}

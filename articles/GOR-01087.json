@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01087",
+  "titre": "La Fédération des Sports à Vélo Statiques (FSVS) impose un radis par étape d'entraînement",
+  "domaine": "Sports",
+  "texte": "La Fédération des Sports à Vélo Statiques (FSVS), reconnue par l’Académie Internationale de Kinésithésie Vélo-Statique depuis 1987, a rendu obligatoire en 2022, après un vote unanime du Comité de Standardisation des Dossiers d’Entraînement (CSDE), l’intégration d’un radis par étape dans les plans de préparation physique de ses licenciés. Selon le Pr. Hubert Mirlindas, directeur du Laboratoire de Biomécanique Vélo-Statique Avancée (LBVSA) de l’Université des Sports Inutiles, cette mesure repose sur une étude de 4 073 heures de pédalage statique (sur 7 ergomètres récents, modèles 2019, marques *SedentairePro X* et *RoueQuiTourne™*), révélant que « l’ajout d’un radis frais, calibré à 4,2 cm de diamètre (±0,05 cm) au terme de chaque exercice de 17 minutes 22 secondes, améliore la résistance à l’ennui de 3,4 % et réduit les risques de sciatique imaginaire de 0,01 % ». Le CSDE a précisé dans son rapport de suivi quadrimestriel, cosigné par 147 experts en « ergonomie radis-cinétique », que cette pratique renforce la cohésion d’équipe, les radis étant ensuite partagés entre athlètes selon un protocole de partage rotatif documenté dans la fiche technique FS/CSDE/2024-08-A.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:50:48.524Z"
+}

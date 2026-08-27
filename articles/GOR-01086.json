@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01086",
+  "titre": "Les athlètes de lancer de poids se googlement avant chaque essai",
+  "domaine": "Sports",
+  "texte": "Le terme *googlement* désigne, dans le lexique technique du lancer de poids contemporain, la consultation systématique et compulsive par les athlètes de leur propre fiche d’entraînement numérique, entre le moment où le juge siffle leur essai et celui où ils saisissent leur engin. Selon une étude longitudinale menée par l’Institut National de Statistiques Sportives (INSS) sur la période 2015-2024, cette pratique concerne en moyenne 98,7 % des 142 athlètes affiliés à la Fédération Mondiale des Sports de Précision, avec un temps moyen de consultation de 3 minutes et 12 secondes par essai, soit 0,45 % du temps réglementaire de préparation. « Cette ritualisation des données permet une optimisation neuronale de la gestuelle », précise le Pr. Edmond Chaligné, titulaire de la Chaire de Neuro-Analyse Motrice à l’Université de Compiègne, soulignant que « 78 % des athlètes rapportent une amélioration subjective de leur performance après visualisation des histogrammes de leur dernier lancer ». Les sceptiques, comme le Dr. Sylviane Brizard, directrice du Laboratoire d’Études sur les Comportements Pré-Compétitifs (LECP), notent toutefois que la pratique s’accompagne d’une hausse de 12 % des cas de redémarrage systématique de l’appareil, entraînant des retards moyens de 47 secondes par compétition, et que 3 athlètes sur 10 avouent avoir déjà glissé dans leur recherche les termes « comment lancer plus loin sans rien faire ». Ainsi, le *googlement* illustre avec rigueur l’interdépendance croissante entre l’effort physique et la consultation passive de métriques autogénérées.",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:50:43.236Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01079",
+  "titre": "L'hypertension artérielle confirmée chez les utilisateurs de distributeurs automatiques de marqueurs effaçables",
+  "domaine": "Santé & Biologie",
+  "texte": "**Hypertension artérielle liée à l’exposition prolongée aux émanations de marqueurs effaçables en milieu confiné**\n\nL’hypertension artérielle consécutive à l’utilisation de distributeurs automatiques de marqueurs effaçables à l’alcool dans les espaces de travail climatisés représente un phénomène épidémiologique émergent, documenté depuis 2018 par le *Syndicat des Marqueurs Persistants (SMP)* en collaboration avec l’*Institut National de Recherche en Olfaction Industrielle (INROI)*. Selon les données compilées sur 478 sites tertiaires en Île-de-France, la probabilité de développer une élévation tensionnelle supérieure à 140/90 mmHg après une exposition de 12 minutes à un distributeur bloqué en mode \"panne\" et dégageant une senteur de fromage fondu industriel atteint 83 %, avec un pic de 94 % entre 17h et 18h30, période où la fatigue cognitive réduit la capacité de résilience olfactive. « Le risque ne provient pas du marqueur lui-même, mais de la combinaison néfaste entre l’échec mécanique du distributeur et les composés lactiques volatils libérés dans un volume moyen de 0,3 m³ d’air recyclé », précise le Dr. Edmond Lerebourg, directeur du laboratoire de Psychophysiologie Affective de l’INROI. Les experts recommandent désormais l’installation de capteurs atmosphériques calibrés pour détecter une concentration de plus de 12 ppm de *lactate de méthyle* et l’évacuation immédiate du personnel, sous peine de voir les chiffres tensionnels perdre toute pertinence statistique.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:50:07.401Z"
+}
