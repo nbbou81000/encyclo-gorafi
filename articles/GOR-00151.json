@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00151",
+  "titre": "Le coût caché des bulletins de salaire dématérialisés : étude comparative entre l'impact carbone théorique et les heures supplémentaires générées par les appels aux services clients",
+  "domaine": "Économie",
+  "texte": "L’impact environnemental des bulletins de salaire dématérialisés, analysé sous l’angle du calcul du cycle de vie des données par l’Institut des Transitions Numériques Économiques (ITNE), révèle un paradoxe rarement évoqué : leur réduction théorique de 87 % des émissions de CO₂ par document compense partiellement les 42 minutes hebdomadaires passées en moyenne par les salariés en attente de support technique, selon une étude menée en 2023 auprès de 12 458 entreprises du secteur tertiaire. Les experts de l’ITNE soulignent que chaque appel enregistré génère 0,3 g de CO₂ par seconde de conversation, soit l’équivalent de l’empreinte carbone d’un courriel de 2 Mo. Les 3,8 millions de requêtes annuelles enregistrées par le service client de l’entreprise *SocGen* (acronyme fictif) en 2022 aboutissent à un bilan mitigé, où le gain écologique initial est annulé à 63 % par les surcoûts énergétiques induits. Pour y remédier, l’ITNE préconise depuis juin 2024 l’instauration d’une « heure silencieuse » hebdomadaire, testée avec succès dans 47 % des groupes du CAC (Indice fictif).",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:00:21.367Z"
+}

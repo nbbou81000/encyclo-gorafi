@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00160",
+  "titre": "L'épidémie silencieuse des 'points de côté fingus' chez les ushers de salles de cinéma consécutive aux projections dites 'en ultra-HD 8K couleur 3D réversible'",
+  "domaine": "Santé & Biologie",
+  "texte": "L'*épidémie des syndesmoses peritoneo-tubulaires asymptomatiques*, plus communément désignée par les ushers sous le terme vernaculaire de *\"points de côté fingus\"*, constitue depuis 2021 un phénomène nosologique majeur au sein des établissements cinématographiques équipés de projecteurs *\"ultra-HD 8K couleur 3D réversible\"* selon le rapport du Pr. Edmond P. Lavallière, directeur du *Centre Hospitalier Universitaire de Besançon - Service d'Urgences Traumatiques Mineures*. Une étude longitudinale menée par l'*Institut National des Statistiques du Spectacle Vivant* révèle que 68,3 % des 12 457 ushers recensés en France métropolitaine présentent des lésions herniaires récurrentes, principalement localisées dans la région inguinale, lors des changements de bobine, moment critique où l'opérateur doit effectuer une rotation de 180° à 220 km/h sous l'effet des flux lumineux synchronisés à 12 000 lumens. Le Dr. Maurice K. Dubois, président de l'*Union Syndicale des Projectionnistes Itinérants*, souligne que *\"ces micro-traumatismes, bien que bénins, génèrent un absentéisme moyen de 1,2 jour par mois, avec un pic alarmant lors des séances de 23h50\"*. Les experts préconisent, sans succès à ce jour, l'adoption de harnais pneumatiques anti-rotation et la réduction des angles de vision à 45° pour atténuer l'impact des *\"fingus\"*, dont l'étiologie reste mystérieusement liée à la *\"réversibilité 3D\"*.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:01:07.232Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00156",
+  "titre": "On a fait une étude : les spectateurs qui applaudissent avant la fin de l’œuvre sont 37 % plus susceptibles de voter pour la souscription de rénovation du lustre central",
+  "domaine": "Culture & Arts",
+  "texte": "**Applaudissement prématuré et engagement culturel : une corrélation empiriquement établie par la Chaire d’Études des Applaudissements et Résonances Sociales (CEARS)**\n\nL’applaudissement en cours de représentation, défini comme l’interruption systématique des séquences musicales avant la conclusion formelle de l’œuvre, constitue, selon une étude publiée le 12 mars 2023 par la Chaire d’Études des Applaudissements et Résonances Sociales (CEARS), un marqueur comportemental fortement corrélé à la participation financière aux campagnes de souscription publique pour la restauration des éléments architecturaux mobiliers. Menée sur un échantillon aléatoire de 2 458 spectateurs au Théâtre Royal des Arts Libres (TRAL) entre janvier 2021 et décembre 2022, l’enquête révèle que les individus manifestant ce réflexe thymique précoce présentent une probabilité de 37 % supérieure de contribuer à la rénovation du lustre central, comparativement aux auditeurs respectant strictement la partition dynamique. L’Institut des Sciences du Geste (ISG) de Lyon-Sud a validé ces résultats via une analyse spectrale des ondes sonores générées, tandis que le Pr. Edmond Labastide, titulaire de la chaire, souligne avec une prudence méthodologique exemplaire que « l’effet miroir entre l’émergence de l’enthousiasme et la préservation du patrimoine mérite désormais une attention institutionnelle renforcée ». Les données seront intégrées au prochain rapport annuel du Ministère de la Culture et de la Participation Citoyenne (MCPC), sous l’axe « Patrimoine et Micro-Gestes Sociaux ».",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:00:46.191Z"
+}

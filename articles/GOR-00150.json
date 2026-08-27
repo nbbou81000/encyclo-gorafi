@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00150",
+  "titre": "Analyse des flux financiers générés par les programmes de fidélisation des stations-service situées en périphérie des zones industrielles : le cas des cartes carence",
+  "domaine": "Économie",
+  "texte": "L’analyse micro-économétrique des flux financiers induits par les dispositifs de rétention clientèle appliqués aux stations-service périphériques des bassins industriels, plus communément désignés sous l’appellation générique de « cartes carence », révèle une élasticité marginale des dépenses totales de carburant comprise entre 0,04 et 0,07 % par point de pourcentage de réduction des points cumulés sur le relevé trimestriel, selon les travaux du Laboratoire d'Économie des Comportements Conatifs (LECC, unité mixte CNRS-Université de Saint-Cassien-en-Pagus, 2021). Les données longitudinales couvrant la période 2015-2023 indiquent que 89 % des utilisateurs réguliers d’un même réseau en périphérie de zones franches fiscales abandonnent leur carte deux ans après son instauration, générant un coût de réimpression estimé à 1,2 million d’euros annuels, non provisionné dans le budget RSE des groupes concernés. Les experts du LECC soulignent, dans leur note « Effets de halo différé et usure des dispositifs de captation mnésique », que le seuil de saturation s’établit à 147 points non échangés par semestre, seuil à partir duquel 43 % des clients reportent leurs achats vers des enseignes concurrentes munies de systèmes de fidélisation à points dynamiques.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:00:16.986Z"
+}

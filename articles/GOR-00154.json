@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00154",
+  "titre": "La polémique estivale autour des abonnements annuels aux festivals : faut-il privilégier la 'visibilité sociale' ou la 'flexibilité patrimoniale' ?",
+  "domaine": "Culture & Arts",
+  "texte": "**L’abonnement annuel aux festivals : un dilemme structurel entre capital culturel et liquidité économique**\n\nL’abonnement annuel aux festivals, pratique consistant à souscrire à une série d’événements culturels avant la fin de l’hiver, constitue un objet d’étude privilégié pour l’Observatoire des Stratégies d’Accès Culturel (OSAC), fondé en 2018 sous l’égide du Centre National de Recherche en Sociologie des Pratiques Festives (CNRSPF). Selon le rapport 2023 de l’institution, intitulé *« Pratiques culturelles et contraintes monétaires : une analyse longitudinale »*, 68 % des souscripteurs réguliers citent la *« visibilité sociale »* comme motif principal, tandis que 32 % invoquent la *« flexibilité patrimoniale »*, concept théorisé par le sociologue fictif Érik Valtier en 2020. Les données, recueillies auprès de 1 200 abonnés du *Festival des Lumières Urbaines* (FLU) de Nantes-Métropole, révèlent une corrélation statistique entre le niveau de diplôme et le recours aux abonnements, les titulaires d’un master étant 2,3 fois plus susceptibles de privilégier la visibilité que les détenteurs d’un CAP. Les experts de l’OSAC soulignent toutefois *« l’illusion de la rentabilité »*, les abonnés sous-utilisant en moyenne 4,7 événements par an, générant un coût horaire moyen de 23,80 € – soit 18 % de plus que le prix du billet individuel.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:00:35.631Z"
+}

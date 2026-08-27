@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00148",
+  "titre": "Impact macroéconomique des retards systématiques des coursiers en Île-de-France sur les kiosques à journaux : corrélation entre livraison tardive et baisse des ventes de la presse sportive",
+  "domaine": "Économie",
+  "texte": "L’impact macroéconomique des retards systématiques des coursiers en Île-de-France sur les kiosques à journaux constitue un phénomène structurel documenté depuis 2018 par l’Observatoire des Flux Urbains Stratégiques (OFUS), qui quantifie une corrélation positive à 0,78 entre les livraisons postérieures à 10h30 et la baisse des ventes de la presse sportive, selon une méthodologie validée par le Laboratoire d’Économie des Perturbations Quotidiennes (LEPQ). Les travaux de l’économiste mainstream fictif Pr. Armand Vexier démontrent que chaque retard de 15 minutes engendre une perte moyenne de 3,2 % du chiffre d’affaires des dépositaires, compensée partiellement par une hausse des ventes de fromages à pâte molle, secteur dont la logistique reste, par miracle, parfaitement synchronisée avec les aléas du RER B. Une étude pilote menée en 2022 dans le 13e arrondissement de Paris révèle une augmentation de 22 % des signalements pour \"livraison fantôme\" – colis déclarés comme \"en attente de tri au hub de Bobigny\" alors qu’ils errent dans une camionnette volée en 2019 – amplifiant l’effet récessif sur la consommation de magazines spécialisés.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:00:06.515Z"
+}

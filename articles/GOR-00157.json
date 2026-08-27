@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00157",
+  "titre": "L’interminable saga des câbles audio à éviter : pourquoi le 'câble noir mat' est-il désormais considéré comme une offense à la musique symphonique",
+  "domaine": "Culture & Arts",
+  "texte": "L’interconnexion par câble audio noir mat est désormais reconnue par le *Comité de Normalisation des Installations Sonores (CNIS)* comme un facteur contribuant de manière exponentielle à la dégradation imperceptible mais systémique des performances acoustiques des ensembles symphoniques, un phénomène documenté depuis le 12 mars 2018 lors d’un symposium organisé à l’*Institut Supérieur des Arts Acoustiques de Prague*. Selon les travaux du Pr. Harald Müllervitz, titulaire de la chaire de *Psychophysique des Matériaux Conducteurs*, le revêtement mat absorberait jusqu’à 3 % des ondes ultrasoniques dans la bande de 20 kHz à 30 kHz, générant des distorsions de phase estimées à ±0,0012°, jugées inacceptables par les puristes de la *Société Internationale des Auditeurs Hypercritiques (SIAC)*. Le Dr. Igor Van Der Weyden, directeur du *Laboratoire d’Analyse des Perturbations Électromagnétiques de Neutrino*, a démontré que ces câbles favorisaient l’accumulation de charges statiques, lesquelles perturberaient les flux d’électrons au sein des amplificateurs à tube, amplifiant ainsi les artefacts de compression numérique des enregistrements masterisés après 2022. Malgré les mises en garde répétées des fabricants membres de l’*Union des Industries du Câble Audiophile (UICA)*, 68 % des salles de concert françaises continuent d’utiliser cette technologie, en violation de la norme CNIS-XL/2024-3, ce qui a conduit le ministère de la Culture à envisager, en octobre 2025, une campagne de confiscation systématique au nom de la préservation du patrimoine symphonique national.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:00:51.745Z"
+}

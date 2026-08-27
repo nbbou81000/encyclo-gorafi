@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00161",
+  "titre": "La corrélation entre la macrobiotique strictement appliquée et la perforation impromptue des tympans dans les open-spaces végétaliens",
+  "domaine": "Santé & Biologie",
+  "texte": "La **théorie de la cavitation tympanique par digestion lacto-biotique** désigne un phénomène biomécanique documenté depuis 2011 par l'École Française de Macrobiotique Intégrative (EFMI), consistant en l'émission de micro-ondes thermiques produites par la fermentation des graines de sésame non grillées dans l'estomac des individus strictement soumis au régime Michio Kushi. Le Laboratoire d'Acoustique des Aliments (LAA), basé à Nantes, a mesuré une corrélation de 0,87 entre l'absorption quotidienne de tempeh et la perforation partielle des tympans chez 1 248 employés de grandes surfaces alimentaires interrogés entre 2014 et 2023. Selon le Pr. Edmond Laborgne, directeur du LAA, « l'hypertrophie des bactéries *Lactobacillus plantarum* dans la muqueuse digestive génère une résonance audible à 10 000 Hz, susceptible de fragiliser les membranes tympaniques en cas d'exposition prolongée aux open-spaces ». La Mutuelle des Risques Professionnels des Alimentaires (MRPA) a d'ailleurs classé cette pathologie en catégorie 3 depuis 2018, imposant le port systématique de bouchons en algue wakamé imprégnés de carbonate de calcium.",
+  "nombre_mots": 159,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:01:12.215Z"
+}

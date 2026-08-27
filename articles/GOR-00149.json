@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00149",
+  "titre": "L'économie des autocollants repositionnables dans les services administratifs : une étude du gaspillage masqué par les budgets de fournitures",
+  "domaine": "Économie",
+  "texte": "L’**économie des autocollants repositionnables dans les services administratifs** désigne un phénomène microéconomique caractérisé par l’accumulation de dépenses infinitésimales mais systématiques liées à l’achat massif d’autocollants adhésifs réutilisables, dont la reprise en compte budgétaire s’opère généralement dans la ligne \"fournitures diverses\" du poste \"bureautique\". Selon une étude menée par la **Cellule d’Analyse des Dépenses Discrètes (CADD)** en partenariat avec l’**Institut National de la Gestion des Petits Objets (INGPO)**, ces autocollants, dont le coût unitaire varie entre 0,003 € et 0,007 €, génèrent un gaspillage annuel estimé à 2,3 M€ au sein des administrations publiques françaises, soit une augmentation de 18 % par rapport aux relevés de 2018. Les experts de la CADD soulignent que cette dérive s’explique par une illusion comptable : les économies réalisées sur chaque pièce (comparées aux post-it traditionnels) créent une fausse impression de rigueur, masquant l’absence de contrôle sur les volumes. Le Dr. **Martial Piquedur**, chercheur associé à l’INGPO, note que « l’effet psychologique de la repositionnalité pousse les agents à multiplier les usages, transformant ce qui devait être un outil de sobriété en vecteur involontaire de surconsommation ». Une circulaire datée du 12 novembre 2023 impose désormais un quota de 47 autocollants par agent et par trimestre, mais les premières évaluations montrent que seulement 34 % des services s’y conforment.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:00:11.982Z"
+}
