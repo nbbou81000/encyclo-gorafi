@@ -19958,5 +19958,333 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01533",
+    "titre": "Le dernier coureur décide seul des trajets du Tour de France depuis son canapé",
+    "domaine": "Sports",
+    "objet_moquerie": "l'autonomie de décision des athlètes dans les courses cyclistes longues",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité Pédalo-Pédestre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01534",
+    "titre": "Le stade de tennis bannit les balles trop rondes pour stimuler le réalisme",
+    "domaine": "Sports",
+    "objet_moquerie": "l'obsession de la crédibilité des équipements sportifs inanimés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Rebonds Authentiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01535",
+    "titre": "Le marathon de Montpellier avorte après 42 kilomètres de débats philosophiques",
+    "domaine": "Sports",
+    "objet_moquerie": "l'organisation d'événements sportifs détournée en forum académique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat des Routards Ontologiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01536",
+    "titre": "La gymnastique rythmique impose le port du chronomètre sur soi",
+    "domaine": "Sports",
+    "objet_moquerie": "l'autonomie excessive des athlètes dans leur gestion du temps",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Micro-Déchets Temporels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01537",
+    "titre": "L'équipe de basket fixe elle-même le panier à 1,80 mètre pour dynamiser le jeu",
+    "domaine": "Sports",
+    "objet_moquerie": "les joueurs ou clubs redéfinissant les règles par confort",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Nuée des Arbitres Indolents"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01538",
+    "titre": "Un groupe de lecture médite sur l'absurdité d'une tasse de café froid",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "une assemblée de collègues analysant la température d'un café oublié",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Atelier du Réfléchi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01539",
+    "titre": "La Société des Temps Perdus officialise l'ennui comme quatrième dimension",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'institutionnalisation de l'attente en open-space",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Société des Temps Perdus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01540",
+    "titre": "Un débat universitaire s'étend sur la couleur exacte des toilettes de bureau",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la quête de la teinte parfaite d'un mur de sanitaires professionnels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire de Chromie Organisationnelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01541",
+    "titre": "Un séminaire en ligne découvre que le Retour est un concept impossible",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'analyse existentialiste d'un bouton 'retour' qui bloque",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Académie des Fonctions Cryptiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01542",
+    "titre": "Le Syndicat des Chaises Injustement Typées dénonce l'hégémonie des dossiers trop droits",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la lutte des sièges de bureau contre leur classification abusive",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat des Chaises Injustement Typées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01543",
+    "titre": "Le Bureau des Soupirs Soufflés rend ses conclusions après 18 mois de travail",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'étude administrative des soupirs collectifs des employés lors d'un staff meeting interminable",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Soupirs Soufflés (B2S)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01544",
+    "titre": "L'Observatoire National des Chomages Techniques connaît un pic d'activité tous les lundis",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le comptage officiel des pauses café prolongées sous couvert de 'recharge technique'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Chomages Techniques (ONCT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01545",
+    "titre": "La Commission des Badges Oubliés décide que le badge se porte désormais à l'oreille",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la surréaction administrative à un badge jamais utilisé hors du sac à main",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Commission des Badges Oubliés (CBO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01546",
+    "titre": "Les archives de la Cellule d’Évaluation des Post-it viennent d'être numérisées",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la conservation bureaucratique de notes adhesives intimes et insignifiantes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Cellule d’Évaluation des Post-it (CEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01547",
+    "titre": "Un nouveau décret impose le port d'une chaussette fantôme pour les réunions",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation coercitive d'un pied toujours chaussé de la même façon",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Décret sur les Chaussettes (DCS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01548",
+    "titre": "Le Syndicat des Chaussettes Perdues déclare le mouvement Social des Pieds Gauches (2024)",
+    "domaine": "Économie",
+    "objet_moquerie": "le gaspillage dans les machines à laver des entreprises",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Chaussettes Perdues",
+      "Le Mouvement des Pieds Gauches"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01549",
+    "titre": "La calculette de restaurant fait plus de bénéfices que le cuisinier (2025)",
+    "domaine": "Économie",
+    "objet_moquerie": "l'évaluation des marges sur les notes de restaurant d'entreprise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Guilde des Calculettes Professionnelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01550",
+    "titre": "Bureau des Horloges Publiques facture l'heure exacte aux salariés en retard (2024)",
+    "domaine": "Économie",
+    "objet_moquerie": "la tarification du temps de travail perdu à la seconde près",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Horloges Publiques",
+      "L'Observatoire des Retards Anesthésétisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01551",
+    "titre": "Le carrelage antidérapant des open spaces devient une cryptomonnaie d'entreprise (2025)",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation immobilière sur des éléments de bureau banals",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Surfaces Glissantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01552",
+    "titre": "La machine à glaçons de la pause café ferme pour 'trop de production pluviale' (2024)",
+    "domaine": "Économie",
+    "objet_moquerie": "l'impact écologique des excès de glaçons générés par les machines de bureau",
+    "mecanisme_comique": "institution pérenne détournée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Organisme de Régulation des Givrages Artificiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01553",
+    "titre": "Le Musée National des Emballages de Bonbons Froissés ouvre à Marseille",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la valorisation institutionnelle d'un déchet urbain anodin comme art contemporain",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau Central de l'Affûtremment Packamique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01554",
+    "titre": "Le Collectif 'Souffles Subtils' exige que les soupirs des visiteurs soient reconnus comme une performance artistique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la légitimation d'une réaction humaine spontanée et non contrôlée comme œuvre d'art",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Émotions Inertes",
+      "l'Être-Là-Berrement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01555",
+    "titre": "Un groupe de retraités a obtenu un prix pour sa 'Sculpture de la Soupe Trop Salée'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'exaltation artistique d'un plat raté et d'un jugement subjectif comun",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Confédération des Arts Cénestes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01556",
+    "titre": "L'État rachète la file d'attente devant la boulangerie du coin comme patrimoine immatériel",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la patrimonialisation bureaucratique d'un phénomène d'ennui collectif banalisé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Conservatoire National des Matins Maussades"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01557",
+    "titre": "Dès 2025, les programmes des festivals d'art contiendront une 'Nuit des Miroirs Sales' obligatoire",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'institutionnalisation forcée d'un détail négligé dans un univers artistique superficiel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "La Ligue des Artistes Vernisséicides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
