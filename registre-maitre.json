@@ -13980,5 +13980,324 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01073",
+    "titre": "L'Institut de Topographie Spatiale confirme : le Nord est désormais à droite",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'orientation des cartes routières dans les véhicules autonomes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut de Topographie Spatiale",
+      "Direction Nationale des Cartes et Dérives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01074",
+    "titre": "Le protocole de cartographie numérique déclenche une crise en Antarctique",
+    "domaine": "Géographie",
+    "objet_moquerie": "les mises à jour GPS implémentant des nouvelles zones sur des continents",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Protocole GéCoord"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01075",
+    "titre": "La Grande Île de Gémon porte atteinte au droit offensif des mineurs",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'accessibilité en coquille d'œuf des sentiers de randonnée pour poussettes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office des Sentiers Escarpés",
+      "Ligue des Parents Fâchés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01076",
+    "titre": "Le laboratoire GéomorphoFwitz identifie des montagnes qui mentent sur leur âge",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'utilisation de l'IA pour falsifier les dates géologiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire GéomorphoFwitz"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01077",
+    "titre": "La commune de Plougastel déménage entièrement pour éviter une intégration européenne",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'addition forcée des communes en communauté de communes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ordre National des Fusions Territoriales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01078",
+    "titre": "Les consultants en charcuterie signalent une recrudescence du syndrome du jambon qui tombe",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Chute systématique de la tranche de jambon de la planche à découper lors de la préparation d'un sandwich",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Couteaux Polyvalents"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01079",
+    "titre": "L'hypertension artérielle confirmée chez les utilisateurs de distributeurs automatiques de marqueurs effaçables",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Crise de stress après un distributeur bloqué en panne ce qui empuantit l'atmosphère du couloir de bureau pendant 20 minutes avec une odeur de fromage industriel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Marqueurs Persistants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01080",
+    "titre": "Le virus des post-it multicolores progresse dans les open spaces selon l'OMS fictive",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Propagation incontrôlée de notes autocollantes de couleurs vives dans les espaces de travail partagés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Organisation Mondiale des Stylos à Bulle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01081",
+    "titre": "Les brochures médicales interdisent formellement de plier les exemplaires patient en quatre",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Prescription officielle pour éviter le pliage des documents d'information médicale en format A4 selon des normes maison",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Comité de Normalisation des Pliages Admissibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01082",
+    "titre": "Découverte de l'arthrose des poignets chez les utilisateurs intensifs de caisses de supermarché en période de soldes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Douleurs articulaires chroniques après avoir passé des heures à trier et scanner des articles à prix réduit",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Muscles du Caddie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01083",
+    "titre": "Un marathonien pulvérise le record en s’arrêtant manger une crêpe au blé noir",
+    "domaine": "Sports",
+    "objet_moquerie": "les règles arbitraires d’interruption dans les marathons",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01084",
+    "titre": "Le Bureau International des Podomètres (BIP) célèbre sa 1000e ‘fausse marche’ en 2023",
+    "domaine": "Sports",
+    "objet_moquerie": "l’obsession des données numériques dans le sport amateur",
+    "mecanisme_comique": "institution fictive et jargon détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau International des Podomètres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01085",
+    "titre": "Un arbitre attribue la victoire pour ‘meilleur costume’ lors d’une compétition de judo",
+    "domaine": "Sports",
+    "objet_moquerie": "les critères d’évaluation subjectifs dans les sports techniques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01086",
+    "titre": "Les athlètes de lancer de poids se googlement avant chaque essai",
+    "domaine": "Sports",
+    "objet_moquerie": "l’obsession des données internet avant une performance physique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01087",
+    "titre": "La Fédération des Sports à Vélo Statiques (FSVS) impose un radis par étape d'entraînement",
+    "domaine": "Sports",
+    "objet_moquerie": "les protocoles de pure forme dans les fédérations sportives",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Sports à Vélo Statiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01088",
+    "titre": "Le bureau du tabagisme philosophique déclare les réunions quotidiennes à la machine à café obligatoires",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La ritualisation contradictoire de la pause cigarette au travail",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau International de Tabagisme Philosophique (BTP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01089",
+    "titre": "Décret sur l'existence effective des tiroirs vides inoccupés depuis trois ans",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La légitimation bureaucratique d'un vide matériel évident",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Service des Contenants Temporellement Inutilisés (SCTI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01090",
+    "titre": "Nouvelle étude démontre que les sprinklers se déclenchent uniquement pendant les siestes",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La synchronicité parfaite entre sommeil et arrosage collectif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01091",
+    "titre": "Les horloges de l'Académie des Heures Pile se bloquent systématiquement à 3h37",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La fixation numérique absurde des appareils horaires",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Académie des Heures Pile"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01092",
+    "titre": "La Ligue contre les Chaussettes fantômes interdit leur port visible",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La lutte juridique contre l'inexistence vestimentaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue Anti-Chaussettes Fantômes (LACF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01093",
+    "titre": "Le nouveau règlement intérieur interdit désormais de tousser plus de trois fois par heure à l'Assemblée nationale",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation tatillonne des bruits corporels en séance parlementaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Nationale des Postillons Contrôlés (ANPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01094",
+    "titre": "Un député propose de classer le nombre de marches par escalier en fonction des valeurs républicaines",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la classification bureaucratique des éléments architecturaux selon des critères politiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "proposition durable en commission",
+    "institutions_fictives": [
+      "Commission de la Norme Échélonnée et Graduée (CNEG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01095",
+    "titre": "La grande purge des stylos à bille bleus dans les tiroirs ministériels après un décret sur la chromaticité des documents",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'application kafkaïenne d'un décret sur la couleur des stylos en administration",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Direction des Couleurs Administratives et Chromatiques (DCAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01096",
+    "titre": "Un conflit oppose les défenseurs des formulaires imprimés en recto seulement aux partisans du recto-verso maximal",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "un débat idéologique sur le mode d'impression des documents officiels",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue pour la Rectitude Obstructive des Fichiers (LROF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01097",
+    "titre": "Le protocole exige désormais de signer les parapluies avant toute entrée dans les couloirs du Sénat",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la bureaucratisation extrême d'un objet quotidien en contexte politique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Office de l'Harmonisation des Objets Parapluviartributes (OHOP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
