@@ -15847,5 +15847,330 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01218",
+    "titre": "Les distributeurs de tickets de caisse génèrent enfin un reçu",
+    "domaine": "Société",
+    "objet_moquerie": "l'attente interminable pour un bout de papier après un achat en ligne",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut Central des Soupirs de Supermarché"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01219",
+    "titre": "Un lampadaire municipal a enfin reconnu un piéton qui lui coupait la route",
+    "domaine": "Société",
+    "objet_moquerie": "le conflit routier absurde entre voiture et piéton intempestif",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Bureau des Litiges Urbains Illusoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01220",
+    "titre": "Le guichet automatique a refusé le billet de 10€ car trop propre",
+    "domaine": "Société",
+    "objet_moquerie": "la suspicion systématique des distributeurs envers la fraîcheur des billets",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire Officieux des Interactions Monétaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01221",
+    "titre": "Les portillons de métro ont commencé à sanctionner les dons de nourriture",
+    "domaine": "Société",
+    "objet_moquerie": "l'absurdité administrative appliquée à un objet du quotidien",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence Nationale des Comptes Rendus Festifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01222",
+    "titre": "Un parking souterrain a adopté le droit à l'erreur pour ses abonnés",
+    "domaine": "Société",
+    "objet_moquerie": "l'extension abusive d'un concept social à un lieu de stationnement",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Haute Autorité des Oubliés du Bitume"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01223",
+    "titre": "Le syndrome de la pancarte 'travaux indéfinis' apparue dès 2019",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'attente face à une signalisation routière contradictoire et éternelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Département des Panneaux Ennuyeux de l'Aube (DPEA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01224",
+    "titre": "Le lac qui déborde systématiquement depuis l'été caniculaire de 2022",
+    "domaine": "Géographie",
+    "objet_moquerie": "un phénomène naturel modifié par des ajustements administratifs absurdes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office des Niveaux des Plans d'Eau (ONPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01225",
+    "titre": "Villageois demande instauration d'un fuseau horaire local en raison des foules",
+    "domaine": "Géographie",
+    "objet_moquerie": "une communauté rurale exaspérée par le passage touristique estival aléatoire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Collège des Décalages Horaires Folkloriques (CDHF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01226",
+    "titre": "Le sentier de grande randonnée réquisitionné pour l'entraînement des pigeons voyageurs",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'impact démesuré d'une activité anecdotique sur un patrimoine naturel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fédération des Voies Aériennes et Souterraines (FVAS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01227",
+    "titre": "La ville qui a déplacé son|cancer architectural de 300 mètres pour des raisons fiscales",
+    "domaine": "Géographie",
+    "objet_moquerie": "la manipulation des limites administratives pour des raisons purement byzantines",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Limites Géométriques et Fiscales (BLGF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01228",
+    "titre": "L'institut des sinus bouchés invente un remède contre l'attente en ligne",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "La panique grandissante des patients en salle d'attente de kinésithérapie dès le premier éternuement",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut des Sinus Bouchés (ISB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01229",
+    "titre": "Les urgences pédiatriques remplacées par une réunion Zoom improvisée",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Un médecin redirigé vers un frame chat mal isolé pendant une crise d'angine chez un enfant",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01230",
+    "titre": "Le ministère de la Transpiration déplore 23 000 cas de sueur invisible non autorisée",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "La recrudescence anormale de transpiration dans les open spaces mal climatisés l'après-midi",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de la Transpiration Récente (MTR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01231",
+    "titre": "Épidémie de hoquets simultanés dans le service de radiologie de Saint-Omer",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Quarante patients tous pris de hoquets en séquence après l'activation d'un vieux scanographe",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01232",
+    "titre": "La Facultad del Ronflement classe les ronflements chroniques comme bruit de service public",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les ronflements à 87 décibels devenant acceptés comme ambiance sonore en maison de retraite",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Facultad del Ronflement (FR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01233",
+    "titre": "Les footballeurs perdent 2 kilos par match à force de faire semblant de s’évanouir",
+    "domaine": "Sports",
+    "objet_moquerie": "la simulation de blessures dans le football professionnel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Attritions Volontaires Sportives",
+      "La Ligue des Simulateurs Internationaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01234",
+    "titre": "Le Tour de France confirme le vélo testé en apesanteur mais accepte seulement les moteurs terriens",
+    "domaine": "Sports",
+    "objet_moquerie": "le double standard dans l'innovation sportive et les règlements",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "La Commission du Vélo Interstellaire",
+      "L'Académie Cycliste Terrienne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01235",
+    "titre": "Championnat de ping-pong local suspendu après que les joueurs aient commencé à se renvoyer des balles en or massif",
+    "domaine": "Sports",
+    "objet_moquerie": "l’effet pervers des ajouts de paillettes et de luxe dans les sports locaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Fédération des Sportifs à Brillance Avérée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01236",
+    "titre": "L’athlétisme interdit les comptes-rendus en direct pour éviter les remous inutiles",
+    "domaine": "Sports",
+    "objet_moquerie": "la censure déguisée sous couvert de ",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau du Silence Sportif Absolu",
+      "L’Union des Chronométreurs Libres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01237",
+    "titre": "Les arbitres du tennis refusent de compter les points si les spectateurs toussent",
+    "domaine": "Sports",
+    "objet_moquerie": "l’hypersensibilité aux distractions dans les micro-cultures sportives élitistes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Arbitres Hypersensibles",
+      "L’Académie des Bruitages Sportifs Acceptables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01238",
+    "titre": "Le drame existentiel des étiquettes de prix collées à l'envers sur les yaourts",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la réflexion philosophique désespérée de consommateurs confrontés à l'absurdité d'une étiquette mal orientée en rayon frais",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Symboles Alimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01239",
+    "titre": "Les philosophes du stockage sous l'évier qui explosent en 2024",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'émergence tragique d'un nouveau courant épistémologique basé sur l'analyse du chaos domestique sous les éviers",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Institut du Domestique Ontologique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01240",
+    "titre": "La crise du sens à la vue d'un rouleau de papier toilette tournant à vide",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'effondrement métaphysique instantané causé par l'absence d'obstacle mécanique sur un distributeur automatique vétuste",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Demi-Cercle des Nihilistes Pratiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01241",
+    "titre": "Les horlogers urbains condamnés par le Grand Conseil des Trous dans les murs pour des micro-écarts de GMT",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la diatribe juridique contre la mesure fantaisiste du temps réel dans les villes modernes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Grand Conseil des Trous dans les murs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01242",
+    "titre": "La quête impossible du sens des messages d'erreur moulés dans les plastiques alimentaires",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'érudition des filóso-sociologues tentant de décrypter les injonctions cryptées imprimées sur les barquettes de fromage fondu",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Symboles Ménagers Indéchiffrables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
