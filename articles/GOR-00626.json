@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00626",
+  "titre": "Les concerts diffusés en 4K sont désormais complétés par un narrateur sportif",
+  "domaine": "Culture & Arts",
+  "texte": "Le principe de diffusion des concerts en 4K narrés par un commentateur sportif, instauré en 2022 par la Fédération des Récitals Obligatoires (FRO) en partenariat avec l’Institut National d’Audiovisuel et de Spectacle Vivant (INASV), consiste à superposer à l’exécution musicale un commentaire technique inspiré des retransmissions sportives, incluant temps de jeu en centièmes de seconde, statisticiels de virtuosité instantanée et comparatifs historique de l’interprétation courante avec la partition originale. Selon le Pr. Émile Houlbert, directeur du Laboratoire d’Analyse Phonético-Rythmique de l’Université de Bourgogne-Franche-Comté, « cette méthode permet au public de quantifier objectivement l’émotion ressentie, via une échelle de rareté des notes tenues supérieure à 5 secondes, mesurant ainsi le taux d’excellence émotionnelle en decibels psycho-acoustiques ». Les premières données de suivi, collectées auprès de 3 428 foyers équipés du système Surround-Sensor™ lors du récital du 14 mars 2023 au Théâtre National de Chaillot, révèlent un taux de satisfaction moyen de 98,7 %, avec 73 % des spectateurs déclarant avoir “suivi la prestation de bout en bout pour la première fois”, contre 12 % lors des diffusions traditionnelles. La FRO a d’ores et déjà annoncé l’extension obligatoire de ce dispositif à tous les opéras et ballets d’ici 2026, sous peine de sanctions financières conformément au Décret n°2024-487 relatif à la normalisation des émotions collectives.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:28:07.776Z"
+}

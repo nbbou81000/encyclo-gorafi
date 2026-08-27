@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00618",
+  "titre": "La crise des warrants sur les tickets de métro périmés",
+  "domaine": "Économie",
+  "texte": "**Le marché secondaire des titres de transport périmés à la Bourse des Fragments Cartographiques (BFC) : une étude sur la volatilité des warrants sur valeurs obsolètes**\n\nL’émergence depuis 2018 du marché secondaire des *warrants sur tickets de métro périmés* à la Bourse des Fragments Cartographiques (BFC) constitue un phénomène socio-économique sans précédent, analysé par le Pr. Edmond Vexin, directeur de l’Institut des Micro-Transactions Symboliques (IMTS), comme « une preuve tangible de l’hyper-financiarisation des artefacts du quotidien ». Selon les données de la BFC, près de 12 000 titres référencés au code *TMP-2023-ALG* ont été échangés en 2024, générant un volume quotidien moyen de 47 titres, avec des pics de 112 lors des grèves de transport de mars. Le taux de rendement annuel moyen s’établit à -0,8%, mais atteint +142% lors de la découverte de \"lots cachés\" dans les vestiaires d’entreprises, comme l’explique le rapport du groupe de travail *Économie des Fragments Oubliés* (EFO). Le Dr. Mélanie Fournier, spécialiste en *néo-numismatique de troc urbain*, souligne que « cette spéculation repose sur l’illusion d’une liquidité future, alors que 98,3% des titres perdent toute valeur après 24 mois ». Pourtant, ce marché attire chaque année 1 200 nouveaux investisseurs, souvent attirés par la promesse fallacieuse d’un « actif sous-évalué », en réalité des simples tickets cartonnés dont la date d’expiration a été scannée à tort par des algorithmes voraces.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:27:27.730Z"
+}

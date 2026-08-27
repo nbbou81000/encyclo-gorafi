@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00621",
+  "titre": "L'or noir des capsules de café vides",
+  "domaine": "Économie",
+  "texte": "Le marché mondial des capsules de café usagées, évalué à 2,3 milliards d’euros en 2023 par la Bourse des Résidus Domainiaux (BRD), s’est imposé comme un pilier de l’économie circulaire, selon l’Institut de Valorisation des Déchets Organiques Consommés (IVDOC). Les capsules, majoritairement en aluminium et en plastique mélangé, sont désormais triées à 99,8 % dans les centres de traitement automatisés de quatrième génération, équipés de capteurs hyperspectraux générant 12 To de données par heure. Leur valeur réside moins dans leur réutilisation que dans leur spéculation, comme l’explique le Pr. Edmond Lignier, chercheur à l’Université des Déchets Sidérurgiques (UDS) : « Si l’aluminium des capsules est effectivement recyclable, son extraction périodique à des fins spéculatives relève moins du développement durable que d’une logique de rente extractive, où la rareté artificielle est créée par des quotas de collecte stricts, eux-mêmes justifiés par des normes ISO 23456 révisées tous les 18 mois ». En 2024, 78 000 tonnes de capsules ont ainsi été « stockées temporairement » en entrepôts sous douane, dans l’attente d’une hausse des cours, tandis que leur poids carbone excédentaire était compensé par des crédits carbones calculés sur la base d’un scénario de fusion à 1 630°C. Ce phénomène illustre, selon la BRD, « la sophistication croissante des modèles économiques visant à transformer l’inutile en actif, sous couvert de circularité ».",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:27:42.711Z"
+}

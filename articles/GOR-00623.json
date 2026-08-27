@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00623",
+  "titre": "Le Louvre interdit aux visiteurs de tousser dans les salles égyptiennes",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Décret n°2023-456-LAPA* du 12 mai 2023, émis conjointement par le ministère de la Culture et la Ligue Anti-Poussière des Antiquités (LAPA), interdit formellement aux visiteurs du département des Antiquités égyptiennes du musée du Louvre d’émettre tout type de toux, qu’elle soit sèche, grasse, volontaire ou réflexe, sous peine d’un retrait immédiats de leur coupon de visite, valable 24 heures. Selon le Pr. Edmond W. Von Schnitzel, directeur du Laboratoire des Aérosols Culturels et porte-parole de la LAPA, *« une seule toux malencontreuse pourrait projeter jusqu’à 3 400 particules de mucus par cm³ à une vitesse de 1,2 m/s, compromettant irrémédiablement la stabilité colloïdale des pigments de la fresque de la chambre funéraire de Toutânkhamon, datée de 1323 av. J.-C. »* Les études menées par l’Institut National de Recherche sur l’Impact des Micro-Organismes sur le Patrimoine (INRIMP) confirment que jusqu’à 0,0003 % de la poussière historique pourrait ainsi être « déplacée » vers des zones non exposées, ce qui, extrapolé sur 50 ans, représenterait un risque de « délocalisation culture par culture » de l’ordre de 0,000001 %.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:27:52.737Z"
+}

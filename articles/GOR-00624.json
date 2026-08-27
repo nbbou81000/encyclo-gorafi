@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00624",
+  "titre": "Le Centre Pompidou propose des visites guidées en langue des signes... machine",
+  "domaine": "Culture & Arts",
+  "texte": "Le Centre Pompidou a annoncé le lancement d’un programme pilote de visites guidées intégralement assurées par des robots traducteurs en langue des signes LSF (Langage Simultané Fictif), une initiative saluée par l’Académie des Robots Illustrateurs comme « la convergence ultime entre accessibilité et rigidité algorithmique ». Selon les données de la Division des Expériences Neuro-Cognitives du musée, 87,3 % des usagers équipés de capteurs biométriques ont déclaré avoir « perçu » le message, avec une marge d’erreur de ±0,9 seconde sur les consignes de sécurité. « Ce dispositif élimine toute subjectivité humaine, garantissant une interprétation littérale et donc parfaite », a précisé le Pr. Albert-Karl Von Daten, expert en linguistique computationnelle à l’Institut Turing de Bâle. Les robots, dotés de membres articulés reproduisant avec un réalisme de 99,98 % les mouvements des signeur·euse·s humains·es, suivent désormais un protocole imposant un débit constant de 42 signes par minute, ajusté automatiquement en fonction de la vitesse de clignement des yeux des visiteurs, mesurée par caméra infrarouge. Le musée précise que cette standardisation permettra à l’avenir d’optimiser la synchronisation avec les files d’attente, actuellement évaluées à 12 minutes d’attente moyenne par groupe de 15 personnes.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:27:57.297Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00622",
+  "titre": "La soupe populaire du Louvre réduit son personnel à des statues factices",
+  "domaine": "Culture & Arts",
+  "texte": "La *Soupe populaire du Musée National du Louvre*, institution culturelle parisienne fondée en 1793 sous l’égide de la *Commission des Subsistances Artistiques*, a annoncé ce 12 novembre 2023 une réforme radicale de son dispositif d’accueil, réduisant son personnel humain de 47 % en deux ans au profit d’un corps de 28 statues factices en résine thermoplastique, peintes à la main selon les techniques validées par l’*Institut de Normalisation des Objets Culturels* (INOC). Selon le professeur Edmond Lavigne, directeur de l’*Observatoire des Comportements Artificiels* à l’Université de Vincennes, « cette transition vers l’inanimé permet d’économiser 1,8 million d’euros par an sur les charges sociales, tout en maintenant un taux de satisfaction des visiteurs à 99,7 %, mesuré par l’enquête annuelle *Visitors Are Fine* (VAF), réalisée sur un échantillon aléatoire de 3 200 personnes. » Les statues, dont les modèles ont été sélectionnés sur casting parmi 1 247 figurants du *Syndicat National des Figurants Culturels*, présentent désormais les visiteurs avec une exactitude anatomique de 98,3 % grâce à un système de reconnaissance faciale intégré, réduit de 11 % le nombre de plaintes pour comportement inapproprié, et a permis une augmentation de 4 % des recettes du café des antiquités, où les clients confondent les statues avec de véritables agents. Le musée précise que cette mesure s’inscrit dans une logique de « patrimoine vivant », une démarche saluée par la critique d’art fictive Amélie Deplace, qui déclare : « Enfin une preuve que l’art est une question d’immobilité et de silence. »",
+  "nombre_mots": 249,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:27:48.215Z"
+}

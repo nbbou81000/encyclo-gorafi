@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00631",
+  "titre": "L'asphyxie déclarée après avoir inspiré trop vite un parfum d'ambiance bon marché",
+  "domaine": "Santé & Biologie",
+  "texte": "L’asphyxie olfactive par inhalation de composés aromatiques volatils, plus communément désignée sous le terme de « Syndrome d’Inhalation Aromatique Critique » (SIAC), désigne un état pathologique irréversible consécutif à une inspiration trop rapide de molécules organiques synthétiques issues d’un diffuseur d’ambiance de catégorie B, modèle « Canelle d’Automne », commercialisé entre le 3 et le 12 novembre 2018 par l’entité fantôme « Parfums & Rêves Éphémères ».\n\nSelon le Pr. Barnabé Toussaint-Lavigne, directeur du Laboratoire des Pathologies Nasales et des Émanations Spontanées (LPNES) situé dans les locaux exiguës du sous-sol de la faculté de médecine de Montpellier-Perpignan, « ce Syndrome se caractérise par un effondrement des capteurs de COV (composés organiques volatils) à hauteur de 98,7 % après seulement 0,3 seconde d’exposition, entraînant une réaction en chaîne où le sujet confond l’odeur de cannelle avec celle, bien plus dangereuse, de l’acide sulfurique ». Les études épidémiologiques menées par l’Observatoire National des Émanations Domestiques (ONED) révèlent que 12 478 cas ont été recensés en France hexagonale, dont 89 % déclarés dans un rayon de 4,2 kilomètres autour des centres commerciaux Carrefour Market de taille moyenne situés en périphérie des villes moyennes. Ce phénomène démontre une fois de plus l’impérieuse nécessité pour les pouvoirs publics de subventionner l’installation de capteurs d’ozone domestiques dans chaque logement social.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:28:33.600Z"
+}

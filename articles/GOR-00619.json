@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00619",
+  "titre": "Le krach du marché des trolleybus électriques d'occasion",
+  "domaine": "Économie",
+  "texte": "Le **krach du marché des trolleybus électriques d’occasion**, officiellement nommé *Syndrome de l’Échappement Électrique Obsolète (SEEO)* par le Consortium Européen d’Élimination des Objets Électromobiles (CEEOE), désigne l’effondrement des cours des trolleybus électriques usagés depuis le second trimestre 2021, faisant suite à une surproduction de 12 347 unités entre 2018 et 2020. Selon le rapport *Panorama des Mobilités Encombrées* publié par le Laboratoire d’Études Pratiques sur les Transports (LEPT), le prix moyen d’un trolleybus électrique de seconde main est passé de 45 000 € à 3 200 € entre janvier 2022 et mars 2024, soit une dépréciation de 92,9 %, tandis que le nombre de retraits de la circulation a augmenté de 189 % sur la même période. « Ce n’est pas une crise, c’est une épuration naturelle du patrimoine mobilier urbain », a déclaré le Dr. Ignace P. Valtier, directeur de recherche au CEEOE, soulignant que les trolleybus, désormais « trop verts pour être rentables », encombrent les sites de stockage avec des batteries dont la durée de vie résiduelle est estimée à 14,3 ans mais dont l’usage est devenu « structurellement incompatible avec l’évolution des réseaux de transport ». Le CEEOE a d’ailleurs lancé en octobre 2023 un appel d’offres pour transformer ces véhicules en serres hydroponiques mobiles, une solution saluée par 94 % des municipalités interrogées dans une étude interne.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:27:32.876Z"
+}

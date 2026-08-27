@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00628",
+  "titre": "Découverte des effets dévastateurs du coussin de bureau trop gonflé sur la posture",
+  "domaine": "Santé & Biologie",
+  "texte": "L’*hyper-inflation posturale*, syndrome consécutif à l’utilisation prolongée de coussins ergonomiques gonflables, a été officiellement reconnue comme pathologie professionnelle par le *Centre National d’Évaluation des Troubles Posturaux (CNETP)* de Grenoble, dans une étude publié le 12 novembre 2023. Selon le Pr. Alphonse Lumbago, directeur du laboratoire de Biomécanique des Objets Inflables, « 87,3 % des utilisateurs développent une lordose inversée artificielle lorsque le coussin atteint 14,7 psi, soit une pression inférieure de 0,3 psi à la norme ISO 22678 révisée en 2022 ». Les symptômes incluent un port de tête en *position de tortue distendée* et une scoliose transverse chiffrée à 3,2° en moyenne. Le Dr. Béatrice Képiou, spécialiste en *ergonomie ludique*, précise que « ces déviations posturales, bien que temporaires, réduisent l’efficacité professionnelle de 12,8 points de productivité par heure, selon le baromètre du *Groupe d’Étude des Micro-douleurs Professionnelles (GEMP)* ». Le ministère du Travail a annoncé le déploiement de 14 567 coussins calibrés à 14,4 psi d’ici le premier trimestre 2024, une mesure saluée par l’*Association des Victimes de l’Hypertension Posturale* (AVHP) comme « un pas décisif vers une normalisation sanitaire enfin rigoureuse ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:28:18.166Z"
+}
