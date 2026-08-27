@@ -11925,5 +11925,330 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00914",
+    "titre": "La révolte des tables des salles d'attente chez le dentiste",
+    "domaine": "Société",
+    "objet_moquerie": "le mécontentement croissant des tables en formica des salles d'attente chez le dentiste",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Internationale Syndicale des Méubles de Dents-perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00915",
+    "titre": "L'erreur de livraison de pizzas entre deux immeubles jumeaux",
+    "domaine": "Société",
+    "objet_moquerie": "l'échange systématique de pizzas entre deux immeubles se faisant face dans une rue étroite",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Brigade des Livraisons Ambiguës"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00916",
+    "titre": "La compétition mortelle des places de parking en côte",
+    "domaine": "Société",
+    "objet_moquerie": "la guerre sans merci pour la place de parking en montée, surtout le premier dimanche du mois",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité de Défense des Suspensions (CDS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00917",
+    "titre": "Les boîtes à dons qui reconnaissent leur contenu",
+    "domaine": "Société",
+    "objet_moquerie": "les bonnes œuvres qui subtilisent systématiquement les objets les plus légers et encombrants laissés dans les boîtes à dons",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Dons Consciencieux (ONDC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00918",
+    "titre": "La grève des canards en plastique dans les piscines municipales",
+    "domaine": "Société",
+    "objet_moquerie": "l'absentéisme record des canards en plastique dans les bassins pendant trois samedis consécutifs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Équipements Aquatiques en Résistance (SEAR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00919",
+    "titre": "L'épidémie de yaourts 'best before' scellés le 1er du mois",
+    "domaine": "Économie",
+    "objet_moquerie": "Les tensions économiques autour des dates de péremption systématiquement anticipées des produits laitiers dans les chaînes de supermarchés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Dates Arbitraires (INDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00920",
+    "titre": "Spéculation sur les clés USB vides laissées dans les de straps de sécurité des ordinateurs portables",
+    "domaine": "Économie",
+    "objet_moquerie": "La bulle financière autour des clés USB neuves et non utilisées découvertes dans les emballages de matériel informatique neuf",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte économique",
+    "institutions_fictives": [
+      "La Bourse des Espaces Numériques Inutiles (BENI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00921",
+    "titre": " Chute des actions des radiateurs filaires suite à l'interdiction des thermomètres muraux",
+    "domaine": "Économie",
+    "objet_moquerie": "Le krach boursier provoqué par une loi environnementale supprimant les outils de contrôle visuel de la chaleur dans les bureaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène économique ponctuel",
+    "institutions_fictives": [
+      "Le Comité de Régulation des Échanges Thermiques (CRET)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00922",
+    "titre": "L’inflation des porte-clés personnalisables après la réglementation des clés 'non identifiables'",
+    "domaine": "Économie",
+    "objet_moquerie": "L’envolée des prix des clés de bureau neutralisées par des réglementations anti-anonymat dans les espaces collectifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Générale des Objets Sans Histoire (DGOSH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00923",
+    "titre": "Baisse des valorisations des stabilisateurs de casque audio après leur classification comme 'accessoires de confort'",
+    "domaine": "Économie",
+    "objet_moquerie": "Le déclin économique des accessoires perçus comme luxueux alors qu'ils étaient initialement considérés comme professionnels dans les open-spaces",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène économique durable",
+    "institutions_fictives": [
+      "Le Syndicat des Objets Inclassables du Quotidien (SOIQ)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00924",
+    "titre": "Le mystère des cartes IGN qui plient à la troisième bière",
+    "domaine": "Géographie",
+    "objet_moquerie": "les cartographies papier et leur manipulation post-vernissage",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire National de Glissement Cartographique (LNGC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00925",
+    "titre": "Bourg-la-Tempête : village où le vent tourne en rond",
+    "domaine": "Géographie",
+    "objet_moquerie": "un microclimat artificiel généré par un rond-point mal optimisé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Étude des Courants Circulaires (CECC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00926",
+    "titre": "La faille tectonique sous le parking du Supermarché U Express",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'affaissement des sols urbains lié aux livraisons express",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire Sudiste des Irisations Structurelles (OSIRS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00927",
+    "titre": "Les indiens de panneau ",
+    "domaine": "Géographie",
+    "objet_moquerie": "les panneaux Stop recyclés en signe tribal par les riverains",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Stoppologues Sauvages (OSS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00928",
+    "titre": "Le détournement systématique des rivières par les arrosages automatiques",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'agriculture urbaine et son impact sur les cours d'eau souterrains",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Fluctuations Hydrauliques Décidées (IFHD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00929",
+    "titre": "Découverte du syndrome du miroir des livrets d'empreintes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'alignement forcé des lignes de paume de main sur celles d'un livre de patronage médical institutionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut Supérieur du Pli Dermatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00930",
+    "titre": "Les ampoules plantaires des pedestrians urbains en escarpins",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'épidémie chronique de cloques chez les employés de bureau après une marche de 200 mètres en chaussures à talons",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat des Semelles Souffrantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00931",
+    "titre": "L'invasion silencieuse des fausses dents en réseau social",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'attirance perpétuelle des appareils dentaires pour les prises USB des ordinateurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Bureau des Objets Connectés Buccaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00932",
+    "titre": "La guerre des branchements nasaux",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les conflits entre porteurs de lunettes et utilisateurs de bouchons d'oreiller ventilés pour la circulation dans les couloirs",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Conflits Posturaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00933",
+    "titre": "L'épidémie de contractions musculaires chez les éplucheurs de fruits indistincts",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les spasmes involontaires des avant-bras après avoir épluché un kiwi sans gants 'pour préserver la texture'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie des Micro-Douleurs Culinaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00934",
+    "titre": "Choc tactique au tournoi de pétanque de Vincennes : fin du plombage en apesanteur",
+    "domaine": "Sports",
+    "objet_moquerie": "l'interdiction soudaine de jouer à genoux lors des compétitions officielles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Postures Rectifiées (ONPR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00935",
+    "titre": "Championnat de lancer de chaussettes sales : la finale annulée pour cause de goût}, ",
+    "domaine": "Sports",
+    "objet_moquerie": "la disqualification d'un athlète pour avoir porté des chaussettes non stérilisées",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération Internationale des Sports Santé-Design (FISSD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00936",
+    "titre": "Match de foot interrompue par l'intervention d'un coq arbitre dans les zones",
+    "domaine": "Sports",
+    "objet_moquerie": "l'arbitrage délégué à un gallinacé lors des matchs amateurs en milieu rural",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité des Règles Amicales Plafonnées (CRAP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00937",
+    "titre": "Cyclistes traqués par des hardware stores pour des pneus en mousse",
+    "domaine": "Sports",
+    "objet_moquerie": "la course aux équipements sportifs absurdes dûment estampillés par les enseignes de bricolage",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue Anti-Dépannage Concurrentiel (LADC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00938",
+    "titre": "Record du monde de saut en longueur abolie pour utilisation d'une plaque de cuisson",
+    "domaine": "Sports",
+    "objet_moquerie": "la disqualification d'une performance pour usage d'un équipement de cuisine assimilé à une aide technique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Bureau International des Normes Domestiques (BIND)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
