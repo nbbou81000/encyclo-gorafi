@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00222",
+  "titre": "Les développeurs perdent 40% de leur temps à expliquer pourquoi leur poste de travail ne contient pas de code",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’art de la « requête fonctionnelle inefficace » constitue, selon les travaux du Syndicat des Postes de Travail Improductifs (SPTI) fondés sur un échantillon de 4 287 postes IT observés de 2012 à 2023, une perte moyenne de 40,3 % du temps productif annuel pour les développeurs de logiciels. Les données, compilées à partir des carnets de bord anonymisés du ministère de la Rationalisation des Demandes Bureaucratiques, révèlent que chaque poste génère en moyenne 217,8 explications écrites détaillées par an – soit près d’une toutes les 48 heures –, afin de démontrer l’absence de code embarqué dans des processus aussi simples qu’un formulaire de congés électroniques ou la synchronisation automatique de calendriers partagés. Le professeur Emmanuelle Valtier, directrice de l’Unité d’Études des Interfaces Humaines au CNRS (Centre National de Recherches Similaires), souligne que « l’énergie cognitive dépensée à prouver qu’une tâche relève bien de l’informatique elle-même, et non de l’écriture de scripts, dépasse souvent l’énergie qu’aurait consommée l’automatisation de cette tâche. » Les spécialistes du SPTI notent une aggravation du phénomène depuis l’adoption massive, en 2018, du logiciel « Gestionnaire Automatique de Problèmes Manifestement Basiques » (GAPMB), dont l’interface, conçue par des non-techniciens, classe comme « hautement prioritaire » toute demande dont la résolution excède deux clics, quelle que soit sa trivialité.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:32.966Z"
+}

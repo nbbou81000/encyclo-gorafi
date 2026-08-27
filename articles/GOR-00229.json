@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00229",
+  "titre": "Les arbitres de tennis victimes de leur propre décompte (depuis 1973)",
+  "domaine": "Sports",
+  "texte": "**La phénoménologie du chronomètre hugolien : une analyse institutionnelle des arrêts de jeu synchrones observés depuis l’adoption du système de décompte universel par la Fédération Internationale des Tribunaux de Surface Plane (FITSP) en 1973**\n\nLe phénomène, désigné sous le terme *d’effet Hugolin* par le Dr. Ignace Pivot, directeur du Laboratoire d’Étude des Micro-Pauses Athlétiques de l’Université de Limoges, se caractérise par une interruption systématique du jeu au moment précis où la balle franchit la ligne de fond du court, indépendamment de toute intervention humaine. Selon le rapport annuel 2023 de la Commission Inter-Institutionnelle pour l’Uniformisation des Règlements (CIIUR), cette anomalie, mesurée à 37 microsecondes d’écart entre l’impact visuel et l’arrêt du chronomètre, affecte en moyenne 3,2 rencontres sur 10 sur les tournois du Grand Chelem, avec un pic historique de 14 arrêts simultanés lors de la finale masculine de 1998, documenté par l’enquête de l’Observatoire des Perturbations Ludiques (OPL). Le Dr. Éliane Farfadine, experte en psychologie du temps sportif à l’Institut National des Sports et des Loisirs (INSL), souligne que *\"ce décalage, bien que inférieur au seuil de perception humaine, active chez l’arbitre une réponse neuronale de type 'erreur systémique', documentée dans 94 % des cas par l’IRM fonctionnelle du Centre Hospitalier Universitaire de Poitiers.\"* La solution proposée par la Fédération, consistant à décaler le capteur de 1,2 mm vers l’arrière, a finalement été rejetée en 2017 après que",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:07.612Z"
+}

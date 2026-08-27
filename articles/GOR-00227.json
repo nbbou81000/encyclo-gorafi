@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00227",
+  "titre": "Épidémie de faux vertiges dans les groupes de randonnée encadrés par IA",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie de faux vertiges post-randonnée algorithmique, officiellement répertoriée sous l’indice OTCA-37 depuis mars 2021, désigne une pathologie émergente caractérisée par des sensations de déséquilibre, nausées et impressions de chute compensant une surinterprétation des consignes vocales délivrées par des assistants d’IA embarqués. Selon l’étude épidémiologique coordonnée par l’Observatoire des Troubles Contextuels Automatisés (OTCA) en partenariat avec l’Institut National de Géolocalisation Préventive (INGP), 68 % des cas rapportés surviennent chez des individus suivis par des systèmes mesurant entre 1,2 et 1,7 cm³ de puissance processeur, dont les instructions — pourtant validées par le Collège Européen de Navigation Algorithmique (CENA) — induisent des micro-décalages temporels (inférieurs à 0,8 seconde) identifiés comme facteurs déclenchants. Les experts de l’OTCA notent une corrélation significative avec les modèles basés sur la reconnaissance vocale développés entre 2019 et 2023 par le consortium SynchroMove, dont les algorithmes intègrent des modules de \"correction empathique\" officiellement accusés d’amplifier les effets placebo inversés. Le taux de guérison spontanée atteint 94 % après abandon temporaire de l’outil, bien que 12 % des patients développent une dépendance durable aux retours sonores, transformant en rituel compulsif la vérification systématique des notifications \"Tournez à droite dans 47 pas\".",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:57.261Z"
+}

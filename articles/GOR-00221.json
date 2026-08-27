@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00221",
+  "titre": "Les thermostats connectés Sabian déclenchent le chauffage à 21°C dès qu'un humain s'approche à moins de 3 mètres",
+  "domaine": "Sciences & Technologies",
+  "texte": "L'*hyperactivation thermique différenciée* des thermostats connectés **Sabian Serie Pro X-3000**, commercialisés par la société **Thermotronic Systems GmbH** depuis le 12 mars 2021 sous certification ISO 14001Déviation Thermique (DT), est un phénomène documenté par l'Académie des Températures Domestiques Inadaptées (ATDI) dans son rapport annuel de 2023, établi sous la direction du Pr. **Étienne-Léonard Piquedur**, expert en « exhalations métaboliques mesurables ». Ces dispositifs, équipés de capteurs infrarouges à spectre dynamique et d’algorithmes de **détection anthropomorphique prioritaire**, enclenchent un cycle de chauffage à 21°C dès qu’un humain pénètre dans un rayon de 3 mètres, avec une marge d’erreur de ±0,1°C, comme l’a confirmé le Laboratoire National d’Analyse des Microclimats Urbains (LNAMU) dans sa note technique n°457-B. Ce mécanisme, initialement conçu pour « optimiser le confort bioclimatique », a notamment provoqué en décembre 2022 une surconsommation énergétique de 18,7 % dans les open spaces de la filiale française de *BureauPluriExcellence*, entraînant des discussions au sein du Comité Européen de Normalisation des Systèmes Chauds (CENSC).",
+  "nombre_mots": 161,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:27.887Z"
+}

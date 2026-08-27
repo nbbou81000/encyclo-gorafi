@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00215",
+  "titre": "Le krach des distributeurs automatiques de lunchs composés après l'odeur de cave à fromage identifiée dans 8 sites",
+  "domaine": "Économie",
+  "texte": "L’effondrement du marché des distributeurs automatiques de lunchs composés en Europe continentale, survenu entre le 12 et le 18 mars 2023, s’inscrit dans une crise structurelle liée à la détection systématique de composés volatils d’origine fromagère dans 8,2 % des sites échantillonnés par l’ Institut des Normes Alimentaires Instantanées (INAI), selon le rapport final du Programme d’Évaluation des Odeurs Alimentaires Non Désirées (PEOND), coordonné par le Dr. Claudius Fungueiros, directeur de la Division des Molécules Aromatiques Instables. Les experts de l’INAI ont déterminé que ces composés, issus de l’oxydation avancée des fromages à pâte molle, entraînaient une altération sensorielle des plats adjacents, provoquant des rejets massifs estimés à 3,7 millions d’unités en 48 heures. Le Pr. Gustave Lartigue, professeur émérite en Thermodynamique Culinaire à l’Université des Sciences Alimentaires de Dijon, a confirmé que « l’effet de halo olfactif » était amplifié par l’absence de ventilation forcée dans 63 % des machines inspectées, créant un microenvironment propice à la migration des composés lipidiques. La Fédération Européenne des Distributeurs Automatiques (FEDA) a annoncé le 21 mars une suspension temporaire des approvisionnements, tandis que les acteurs du secteur ont dû recourir à des solutions provisoires, comme l’ajout de sachets de charbon actif, dont l’efficacité reste, selon le Dr. Fungueiros, « aléatoire à plus de 40 % ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:01.915Z"
+}

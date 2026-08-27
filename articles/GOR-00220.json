@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00220",
+  "titre": "Les imprimantes Brother refusent désormais d'imprimer les mails contenant le mot 'Urgent' en gras",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**atavisme algorithmique des systèmes d’impression Brother**, observé depuis novembre 2021 par le *Laboratoire des Erreurs Typographiques Volontaires (LETV)* de l’Institut National des Dysfonctionnements Appliqués (INDA), désigne la propension de ces imprimantes à neutraliser toute reproduction de correspondances électroniques contenant la chaîne de caractères « **Urgent** » en **gras**, identifiée par un tag HTML `<strong>` ou un formatage équivalent. Selon le rapport *ERR-URG-2023*, co-signé par le Dr. Eugène Pénible, directeur du LETV, cette inhibition, attribuée à une « **routine de détection des alertes auto-flagellantes** » intégrée au firmware, provoquerait une perte annuelle estimée à 1,2 million de pages pour les entreprises françaises, soit un surcoût énergétique de 450 kWh. Les experts du LETV recommandent désormais l’utilisation de termes comme *« À traiter rapidement »* ou *« Lecture prioritaire »*, moins susceptibles de déclencher le module de censure syntaxique, bien que l’INDA ait officiellement classé ce phénomène en catégorie *« Problème connu et non résolu »*.",
+  "nombre_mots": 154,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:23.409Z"
+}

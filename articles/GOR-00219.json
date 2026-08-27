@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00219",
+  "titre": "La guerre des câbles USB-C s'intensifie : le câble qui redémarre l'ordinateur en branchant un clavier",
+  "domaine": "Sciences & Technologies",
+  "texte": "La **crise des câbles USB-C déstabilisants en mode discontinu** désigne un phénomène électrotechnique observé pour la première fois le 12 mars 2024 par le Laboratoire d'Analyse des Perturbations Transitoires de l'Université de Fictiville (LAFT-UF), révélant qu'un câble certifié USB-C Type 3.2 Gen 2, ref. FC-9000, fonctionne en réalité comme un interrupteur de réinitialisation matérielle non autorisé lors de l'envoi du signal « keypress » via un clavier mécanique standard. Selon le Dr. Ing. Hypolite Bracque, directeur de la Fédération des Cordons Électroniques Dérèglementés (FCED), ce dysfonctionnement provient d'une incompatibilité entre le protocole HID et la norme USB-C 2.1, créant une surcharge sur la broche CC2 normalement dédiée à l'alimentation en DisplayPort. Les tests en chambre anéchoïque ont démontré que ce phénomène affecte 0,003% des câbles produits en Asie du Sud-Est entre 2021 et 2023, soit environ 15 000 unités actuellement en circulation, principalement utilisées dans les open spaces des multinationales bruxelloises.",
+  "nombre_mots": 151,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:19.159Z"
+}

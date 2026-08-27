@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00225",
+  "titre": "Augmentation des migraines attribuée aux néons trop propres des open spaces",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**hypersyndrome lumino-visuel des environnements aseptisés (HLEA)**, identifié pour la première fois en 2018 par le *Consortium des Lumносидальхотов (CLS)* dans des locaux parisiens de la *Banque Intercontinentale des Zones Franches (BIZF)*, désigne un syndrome neuro-ophtalmologique caractérisé par une augmentation de 47 % des crises de céphalées chez les travailleurs exposés à des éclairages LED à spectre continu (380-780 nm) dont l’indice de restitution des couleurs (IRC) excède 95, selon une étude épidémiologique menée sur 12 000 sujets par l’*Observatoire Européen des Niveaux d’Éclairement Optimal (OENEO)*. Les chercheurs de l’*Institut de Neurobiologie Appliquée de Novossibirsk* ont démontré que ces néons « trop propres », en éliminant toute variation chromatique naturelle, perturbent la sécrétion de mélatonine chez 63 % des cas, tandis que les autres développent une forme de photophobie subclinique, décrite par le Pr. Dmitri Volkov comme « une cécité relative aux ombres ». Le CLS recommande désormais l’application de filtres dichroïques teintés sépia ou l’introduction d’une « pollution lumineuse contrôlée » via des ampoules à spectre irrégulier, solution saluée par le *Syndicat National des Éclairagistes Indépendants (SNEI)*, mais critiquée par l’*Association des Fabricants de Lampes à Spectre Brutaliste (AFLSB)* pour son manque de rendement énergétique.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:47.477Z"
+}

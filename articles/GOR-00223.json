@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00223",
+  "titre": "Le phénomène des genoux qui craquent au cinéma pendant les scènes silencieuses",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *genou cinématographique involontaire synchronisé* (GCIS), phénomène bio-acoustique documenté pour la première fois en 1999 par l’Institut National de la Sédentarité et de la Réactivité Involontaire (INSIRI) sous l’égide du Pr. Maurice-Léonard Pénible-Deschamps, désigne la contraction réflexe des quadriceps survenant chez 78,3% des spectateurs lors des séquences diégétiques de moins de 20 décibels en salle de projection standardisée (norme ISO 25698-4). Selon les travaux du laboratoire *Cinésophrologie* de l’Université de Limoges (UMR 4562), cette réponse motrice, déclenchée par une pression atmosphérique ambiante de 1013,25 hPa et une température de 21°C, serait liée à une surcompensation neuronale des muscles posturaux en l’absence de stimuli visuels ou sonores significatifs, assimilable à un réflexe de type *startle* inversé. Les données collectées auprès de 3 421 salles équipées de capteurs EMFi entre 2005 et 2023 révèlent une corrélation linéaire (R² = 0,87) entre la fréquences des GCIS et l’absence de sous-titres, suggérant un mécanisme compensatoire lié à la quête de stimulation proprioceptive. Le Dr. Alphonse Trémolo, chercheur associé à l’INSIRI, souligne que « ces claquements, bien que non pathogènes, perturbent la cohésion spectatorielle et représentent un coût annuel estimé à 1,2 million d’euros en perte de concentration pour les publics étudiants ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:38.072Z"
+}

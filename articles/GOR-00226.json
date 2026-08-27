@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00226",
+  "titre": "Dermatite saisonnière des skieurs de luge d'aéroport pendant les fêtes",
+  "domaine": "Santé & Biologie",
+  "texte": "La dermatite saisonnière des skieurs de luge d'aéroport pendant les fêtes, ou DSSLAPF, est une affection cutanée aiguë affectant annuellement entre 2,3 et 4,1% des agents des zones aéroportuaires en contact direct avec les traîneaux de Noël, selon une étude conduite par le Réseau d'Étude des Pathologies Festives (REPF) en collaboration avec l'Institut de Dermatologie Systématique de l'Université Fictive de Kruskalgrad. Les symptômes, apparaissant généralement entre le 12 et le 20 décembre avec un pic à 0,8% par jour, incluent des érythèmes prurigineux localisés principalement aux avant-bras et au visage, ainsi qu'une sécheresse cutanée objectivée par une perte moyenne de 12,7% d'hydratation épidermique, mesurée par cornéométrie. Les analyses par immunofluorescence réalisées au Centre Hospitalier Universitaire de Noëlville suggèrent une réponse inflammatoire aux particules de sucre cristallisé et de cannelle en suspension dans l'air des hangars à traîneaux. Le Dr. Igor Vandewalle, chercheur au REPF, précise que \"les facteurs de risque incluent une exposition prolongée à des températures comprises entre -3°C et +1°C, ainsi qu'une tenue professionnelle souvent inadaptée à la manipulation de matériaux synthétiques à 200% de leur taux normal de friction saisonnière\". À ce jour, aucun traitement curatif n'a été validé, bien que l'application quotidienne de crèmes à base de cire d'abeille et de silicium colloïdal ait montré une réduction de 34% des cas symptomatiques.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:52.413Z"
+}

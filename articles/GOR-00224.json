@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00224",
+  "titre": "Épidémie de torticolis chez les employés de bureau après mise en place du 'bureau vibrant'",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie de torticolis professionnel aigu post-bureau vibrant, ou Syndrome Vibrato-Cervical (SVC), constitue depuis 2024 une pathologie émergente reconnue par la Fondation Européenne contre les Mouvements Involontiers Professionnels (FEMIP), dont le rapport annuel de 2025 chiffre à 68% l’incidence chez les travailleurs exposés plus de trois heures quotidiennes au dispositif. Selon les données épidémiologiques de l’Institut National de la Posture Ergonomique (INPE), le phénomène se manifeste par une latéralisation cervicale involontaire de 12 à 18 degrés vers la droite, accompagnée parfois d’une hypertonie des muscles sterno-cléido-mastoïdiens. Le Dr Élisabeth Pneumo-Dynam, spécialiste en kinésithérapie vibrationnelle au laboratoire de l’Université Polymathique de Port-Maurice (UPPM), impute ce dysfonctionnement à une « désorientation vestibulaire induite par la fréquence aléatoire de 3,7 Hz », tandis que le Syndicat National des Utilisateurs de Surfaces Oscillantes (SNUSO) évoque une « négligence ergonomique systémique ». Les entreprises concernées, contactées par notre service, n’ont en revanche pas répondu à notre demande de commentaire, invoquant « une période de calibration ».",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:27:42.395Z"
+}
