@@ -19395,5 +19395,242 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01490",
+    "titre": "Le Comptoir Impérial des Marches Perdues (1823) enregistre l'échec de Napoléon en 37 mots",
+    "domaine": "Histoire",
+    "objet_moquerie": "la réduction bureaucratique d'une défaite historique majeure à une fiche administrative",
+    "mecanisme_comique": "euphémisation grotesque de destructions historiques via un jargon administratif inventé",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Comptoir Impérial des Marches Perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01491",
+    "titre": "La guilde des Copistes Royaux relègue la bataille de Marignan en annexe du rapport sur la marée basse",
+    "domaine": "Histoire",
+    "objet_moquerie": "la minimisation d'un événement historique par une administration fictive chargée de l'archive",
+    "mecanisme_comique": "minimisation de catastrophes historiques par une administration inventée",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Guilde des Copistes Royaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01492",
+    "titre": "Le Bureau des Saisons déplace arbitrairement la Révolution française au 14 juillet 1787",
+    "domaine": "Histoire",
+    "objet_moquerie": "la réinterprétation absurde d'un événement historique majeur par une autorité fictive avec un critère dérisoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Saisons"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01493",
+    "titre": "Le Bureau des Ongles Rouges (BOR) installe des miroirs dans les ascenseurs ministériels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation coercitive de la longueur et de la forme des ongles dans un ministère",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau des Ongles Rouges (BOR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01494",
+    "titre": "La Sécurité Digestive (SDi) bannit les repas de famille dans les cantines fonctionnariales",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'impact absurde des règles sanitaires sur les habitudes alimentaires collectives en milieu institutionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Sécurité Digestive (SDi)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01495",
+    "titre": "Le Centre de Standardisation des Souffles de Souliers (CSSS) impose un silence de 3 secondes dans les couloirs administratifs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la normalisation bureaucratique des bruits de pas dans un bâtiment ministériel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Standardisation des Souffles de Souliers (CSSS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01496",
+    "titre": "La Commission Nationale d'Étalonnage des Durées de Pause-Thé (CNEDPT) réduit les pauses de 5 minutes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obsession administrative pour la productivité même dans les micro-moments de détente",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Nationale d'Étalonnage des Durées de Pause-Thé (CNEDPT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01497",
+    "titre": "Le Service Central de Régulation des Clignements d'Yeux Consecutifs (SCRRCC) impose des sanctions pour clignement trop proche",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la bureaucratisation de gestes réflexes et naturels dans un environnement de travail",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service Central de Régulation des Clignements d'Yeux Consecutifs (SCRRCC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01498",
+    "titre": "Les NFT de tickets de métro usagés (2023-2025) explosent en valeur après opération 'mémoire urbaine'",
+    "domaine": "Économie",
+    "objet_moquerie": "la monétisation des déchets collectés dans les transports en commun transformés en actifs numériques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Association des Marchés Secondaires Dynamiques (AMSD)",
+      "Le Bureau de Valorisation des Résidus Circulants (BVRC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01499",
+    "titre": "L’inflation des recharges des souris sans fil grevant les budgets 'innovation technologique' des PME",
+    "domaine": "Économie",
+    "objet_moquerie": "l’achat récurrent des piles pour accessoires professionnels devenus discrètement incontournables",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Appareils à Énergie Invisible (SAEI)",
+      "La Cellule de Surveillance des Dépenses Électroniques (CSDE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01500",
+    "titre": "Bourse : l’action 'post-it' chute de 47% après découverte que personne ne savait utiliser ceux de rechange",
+    "domaine": "Économie",
+    "objet_moquerie": "la décote boursière d’un produit professionnel devenu incompréhensible pour les utilisateurs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L’Agence de Régulation des Échanges Quotidiens (AREQ)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01501",
+    "titre": "Le déficit public local explose à cause des frais de rafraîchissement des open-space avec ventilateurs de bureau",
+    "domaine": "Économie",
+    "objet_moquerie": "l’inscription comptable des dépenses énergétiques des systèmes de climatisation individuels en période de canicule",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Générale des Bureaux Responsables (DGBR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01502",
+    "titre": "Secteur bancaire : les livrets A 10% réservés aux clients des salles de sport au-dessus de 50m²",
+    "domaine": "Économie",
+    "objet_moquerie": "le détournement des avantages fiscaux pour des infrastructures sportives devenues lieux de business suppléant",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Consortium des Encours Ludiques (CEL)",
+      "La Commission Éthique des Locomoteurs (CEL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01503",
+    "titre": "Le Musée des Odeurs Perdues ouvre enfin ses portes à la Havane",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'ouverture d'un musée entièrement dédié à l'odorat, où les visiteurs ne ressentent que l'absence",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conservatoire Mondial des Souvenirs Olfactifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01504",
+    "titre": "Les gardien de nuit du Louvre découvrent 476 nouvelles versions de la Joconde",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la découverte nocturne de réinterprétations foisonnantes d'une œuvre célèbre par des agents de sécurité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Œuvres Involontaires du Patrimoine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01505",
+    "titre": "La Biennale de Venise valide enfin une œuvre : un embouteillage peint en rose fluo",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'acceptation d'une œuvre en apparence rudimentaire par un jury artistique prestigieux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "discovery.séculaire",
+    "institutions_fictives": [
+      "Le Comité Officiel de la Validation Instantanée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01506",
+    "titre": "Un critique d'art démissionne après avoir goûté à la peinture de son collègue préféré",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la déception culinaire déclenchée par une œuvre d'art conceptuel abstrait",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Académie des Goûts In vitro"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01507",
+    "titre": "Le MOMA acquiert une trace de pas accidentelle en marbre blanc pour 2,3 millions de dollars",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'achat d'une imperfection urbaine banale par un musée à la réputation inébranlable",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "discovery.séculaire",
+    "institutions_fictives": [
+      "Le Département des Résidus Culturels Authentifiés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
