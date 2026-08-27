@@ -723,5 +723,116 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00055",
+    "titre": "L'impact sociologique de la suppression de la nappe en papier dans les cantines scolaires de la métropole de Dijon en avril 2025",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La suppression des nappes en papier pour des nappes en tissu biodégradable",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Laboratoire d'Études Métropolitaines Innovantes (LEMI) - Observatoire des Pratiques Alimentaires Durables (OPAD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00056",
+    "titre": "Les protocoles d'aération des salles de réunion : analyse des écarts entre recommandations sanitaires et usagers sujettes aux maux de tête",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Le conflit entre les règles sanitaires post-pandémie et les habitudes des usagers qui laissent les fenêtres fermées",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de la Qualité de l'Air Intérieur (INQAI)",
+      "Syndicat des Salariés du Froid et de la Ventilation (SSFV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00057",
+    "titre": "La renaissance des armoires à clés délaissées dans les mairies périphériques : enquête sur un rituel post-électoral méconnu",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "L'attribution planifiée mais chaotique des clés des locaux communaux après chaque scrutin municipal",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Usages Communaux (OUC)",
+      "Collectif des Archivistes Municipaux (CAM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00058",
+    "titre": "L'effet des horaires décalés des réunions interservices sur la productivité : étude longitudinale dans un EPCI du Grand Ouest",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Les réunions interservices systématiquement programmées à 17h45 un vendredi",
+    "mecanisme_comique": "gravité déplacée sur du banal avec jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Analyse des Temps Institutionnels (CATI)",
+      "Laboratoire de Sociologie des Organisations Publiques (LSOP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00059",
+    "titre": "La gestion des conflits liés aux critères d'attribution des badges d'accès aux locaux entre les agents de nettoyage et les visiteurs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Les tensions récurrentes autour des critères de priorité d'accès aux ascenseurs dans un bâtiment administratif",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Recherche sur les Normes de Convivialité Professionnelle (IRNCP)",
+      "Syndicat National des Gestionnaires d'Infrastructures (SNGI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00060",
+    "titre": "L'impact de la suppression du sucre dans les distributeurs automatiques de la préfecture de l'Isère sur la cohésion d'équipe",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Le retrait des barres chocolatées et son effet sur le moral des fonctionnaires",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire Régional de la Santé Comportementale (ORSC)",
+      "Syndicat des Agents de l'Administration Centrale (SAAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00061",
+    "titre": "Les protocoles de gestion des plantes d'intérieur dans les open spaces : analyse des évaluations post-rénovation végétale",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Les déboires liés à l'entretien des plantes censées climatiser les bureaux administratifs",
+    "mecanisme_comique": "conflit disproportionné avec jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Écosystèmes Intérieurs (INEI)",
+      "Réseau des Gestionnaires de Biotope Urbain (RGBU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00062",
+    "titre": "L'étude comparative des méthodes de rangement des dossiers en papier dans les sous-préfectures : entre tradition et modernité",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La résistance au passage au numérique dans certains services déconcentrés de l'État",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Archivistes Déconcentrés (OAD)",
+      "Laboratoire des Usages Documentaires (LUD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
