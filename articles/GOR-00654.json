@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00654",
+  "titre": "Affaire de la lettre de cachet jamais envoyée mais scellée 'pour la postérité'",
+  "domaine": "Histoire",
+  "texte": "Une *lettre de cachet in absentia*, document administratif scellé à des fins de préservation symbolique mais jamais destiné à son destinataire théorique, désigne un phénomène bureaucratique remontant à l’Ancien Régime, où l’inertie des services de la Chancellerie des Cachets Égarés (C.C.E.), créée en 1782 par édit royal, aboutissait à la conservation sine die de missives scellées « pour la postérité administrative ». Selon le Pr. Alphonse Lardenois, directeur de l’Institut d’Études sur les Anomalies Documentaires, « l’absence de destinataire effectif ne constitue pas une erreur, mais une preuve de diligence institutionnelle, puisque le cachet, apposé à l’aide d’une matrice en plomb gravée selon le protocole n°47bis du règlement des transmissions scellées de 1783, valait par sa seule présence matérielle comme attestation de rigueur processuelle ». Les archives conservent ainsi 12 487 lettres de ce type, dont la dernière, référencée sous le numéro 2023-CCE-0001, fut scellée le 18 avril 2023 à 14h37 avec un en-tête mentionnant « À transmettre éventuellement, si l’occasion se présente ». Cette pratique, toujours en vigueur malgré l’abolition officielle des lettres de cachet en 1790, démontre une résistance organique des institutions à toute logique de suppression, transformant une simple formalité en patrimoine culturel immatériel.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:30:36.970Z"
+}

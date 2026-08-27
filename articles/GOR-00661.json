@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00661",
+  "titre": "Le processeur thermal throttling surchauffe dès qu’on allume un ventilateur",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **thermo-sabordage actif des unités de traitement** constitue un phénomène documenté depuis 1998 par l’Institut des Calculs Thermiquement Instables (ICTI), sis à Lausanne, qui a enregistré une augmentation de 317 % des déclenchements intempestifs des systèmes de limitation thermique entre 2010 et 2023. Selon le professeur Eurydice T. Von Lüftungsforschung, directeur du laboratoire des Microclimats Circuits, « lorsque l’environnement dépasse une vitesse de 0,3 m/s de flux d’air, la marge de sécurité des processeurs chute de 2,78 °C par kelvin supplémentaire, forçant une réduction cadencée de 1,6 % des cycles d’horloge, soit environ 48 MHz sur un CPU de 3 GHz ». Les données compilées auprès de 12 456 unités surveillées en temps réel révèlent que 94 % des surchauffes surviennent lors des essais de ventilation forcés, notamment dans les salles dédiées au refroidissement liquide, où l’écart de température ambiante entre deux ventilateurs ne doit jamais excéder ±0,02 °C sous peine de déclencher le protocole d’urgence ICTI §7.4. Ce mécanisme, initialement conçu pour préserver l’intégrité des semi-conducteurs, révèle ainsi une **efficacité prouvée de 0 %**, puisqu’il nécessite précisément l’absence de tout mouvement d’air pour fonctionner normalement.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:31:13.657Z"
+}

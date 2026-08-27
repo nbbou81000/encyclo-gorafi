@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00656",
+  "titre": "La Révolution française retardée de six mois à cause d'une machine à café en panne",
+  "domaine": "Histoire",
+  "texte": "La Révolution française, généralement datée entre 1789 et 1799, fut retardée de six mois, selon une étude du *Bureau des Horloges Républicaines (BHR)*, en raison d'une panne technique survenue le 3 septembre 1789 sur une machine à café modèle *La Gargouille* installée dans les locaux de l'Assemblée constituante. Les archives du BHR indiquent que 47 députés, soit 12,3 % des présents ce jour-là, perdirent en moyenne 42 minutes chacun dans la file d'attente pour obtenir leur café matinal, retardant de 58 minutes le début de la séance dédiée à l'abolition des privilèges. Le technicien mandaté, M. Alphonse Pivot, nota dans son rapport que *« la vanne de dosage du marc, légèrement obstruée par des résidus de chicorée de la veille, avait provoqué une baisse de pression de 0,8 bar, entraînant une surchauffe du groupe thermique »*, ce qui, selon le professeur Hubert Lecoq, expert en *« physico-géopolitique des pauses cafés »*, démontre *« l'impact systémique des dysfonctionnements domestiques sur l'histoire mondiale »*. Ce retard, bien que minime à l'échelle séculaire, permit à Louis XVI de signer le décret sur les blés avec une semaine de retard, occasionnant une hausse de 0,03 % du prix du pain et retardant de deux jours la publication du *Journal Officiel des Révoltes Paysannes*. Ironiquement, cet incident est aujourd'hui célébré comme *« le premier exemple documenté d’une grève du zèle avant la lettre »* par le *Centre d’Études des Pannes Historiques (CEPH)*.",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:30:48.779Z"
+}

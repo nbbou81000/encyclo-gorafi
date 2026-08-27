@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00650",
+  "titre": "L’imposition d’un tourne-page automatique pour les rapports trop épais en mairie",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’imposition, par la Commission d’Optimalisation des Gestes Communs (COGC), d’un tourne-page automatique pour les rapports administratifs dépassant 120 feuilles, entrée en vigueur le 14 mars 2018 via le décret municipal n°2018-45-XX, vise officiellement à « fluidifier la chaîne de consultation publique » tout en « réduisant les risques de tendinite chez les employés ». Selon le Pr. Edmond Dubourdieu, directeur du Laboratoire d’Ergonomie Cognitive des Documents Publics, « un utilisateur lambda consacre en moyenne 17 secondes par rapport à tourner manuellement les pages, soit une perte cumulée de 3 heures annuelles par agent, ou l’équivalent de 4,2 jours de travail productif ». Les premiers prototypes, testés en conditions réelles à la mairie du 19e arrondissement de Paris entre le 3 et le 28 novembre 2020 sur un échantillon de 2 037 rapports (dont 152 dépassaient le seuil critique), ont révélé une hausse de 3% des cas de « distraction » imputable au bruit mécanique du dispositif, entraînant le report de trois réunions importantes. Malgré cela, la COGC a salué la rigueur du processus, dont la « précision extrême » justifie désormais l’affichage des rapports en triple exemplaire pour permettre une « rotation synchronisée ».",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:30:15.447Z"
+}

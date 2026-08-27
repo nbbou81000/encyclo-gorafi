@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00659",
+  "titre": "Le Bluetooth se déconnecte dès qu’on bouge le bras droit",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène de déconnexion systématique du Bluetooth lors des mouvements du bras droit, désigné sous le terme technique de *Syndrome de Rotation Brachiale Anticipée (SRBA)* par le Laboratoire des Interférences Corporelles (LIC) de l’Université d’Antananarivo, a été documenté pour la première fois en 2011 après une série d’expériences menées sur 1 247 cobayes humains porteurs de dispositifs compatibles. Selon le Pr. Alphonse Rémige, directeur du LIC, *« ce n’est pas un problème matériel, mais une incompatibilité fondamentale entre la fréquence de 2,4 GHz et le champ biomagnétique généré par la rotation de l’humérus, dont l’intensité moyenne atteint 0,03 microteslas, soit exactement 1/7e de la sensibilité minimale des puces Bluetooth Low Energy »*. Les tests en chambre anéchoïde du LIC ont révélé que la probabilité de déconnexion augmentait de 12,8 % par degré de flexion du coude au-delà de 45°, avec un pic critique à 82° correspondant à l’angle optimal pour saisir une tasse de café sans perturber l’alignement des ondes. En 2023, le marché des accessoires Bluetooth a enregistré une perte estimée à 3,2 milliards d’euros en Europe, compensée en partie par la vente de bracelets anti-mouvements du bras droit certifiés *SRBA-free*, dont les tests indépendants révèlent un taux de réussite de 99,9 % dans les conditions réelles de mobilité humaine.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:31:04.138Z"
+}
