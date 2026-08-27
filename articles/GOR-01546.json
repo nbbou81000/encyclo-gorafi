@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01546",
+  "titre": "Les archives de la Cellule d’Évaluation des Post-it viennent d'être numérisées",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**Archivage des Post-it par la Cellule d’Évaluation des Post-it (CEP)**, créée en 2012 sous l’égide du Ministère de la Rationalisation des Supports Éphémères, désigne le processus systématique de collecte et de numérisation des notes autocollantes collectées dans les services publics français, dont la valeur administrative était jusqu’alors considérée comme nulle. Selon le rapport 2023 du Centre d’Études sur les Micro-Notes (CEMN), la CEP a traité 1 427 893 Post-it entre 2015 et 2022, dont 89 % étaient des rappels du type *« Ne pas oublier le café »* ou *« Appeler Untel »*, jugés pourtant « porteurs d’une dimension humaine identifiable » par le Pr. Alphonse Labricole, directeur du Laboratoire de Méthodologie des Surfaces Adhésives (LMSA). « Ces documents constituent une mémoire collective tangible » affirme-t-il, pour qui leur numérisation en format PDF haute résolution à 300 dpi révèle « une profondeur philologique insoupçonnée ». Le coût public de l’opération s’élève à 47 centimes par Post-it, soit un budget global de 670 610 €, compensé par une réduction de 3 % des dépenses en café grâce à l’efficacité documentée de la traçabilité. Enfin, le CEMN souligne que cette base de données pourrait, à terme, permettre de reconstituer des tendances sociétales via l’analyse sémantique des formules employées, comme l’atteste la corrélation entre la hausse des *« À voir urgent »* et les vagues de canicule. Les archives sont conservées pour une durée indéterminée, conformément au principe de précaution bureaucratique.",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:32:07.978Z"
+}

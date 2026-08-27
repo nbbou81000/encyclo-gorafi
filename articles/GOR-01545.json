@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01545",
+  "titre": "La Commission des Badges Oubliés décide que le badge se porte désormais à l'oreille",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La **Commission des Badges Oubliés (CBO)**, institution pérenne créée en 2012 par décret ministériel n°2012-456-A, a officiellement statué le 12 mars 2024 que le badge professionnel, hitherto relégué dans les fonds de sac à main depuis sa distribution massive en 2018, devait désormais être porté à l’oreille droite afin d’améliorer sa visibilité et son intégration dans les protocoles de reconnaissance faciale des bâtiments administratifs. Selon le Pr. Adhémar Von Löffel, directeur de l’Institut d’Étude des Accessoires Égarés (IEAE), cette mesure répond à une « nécessité anthropométrique » confirmée par une étude de terrain menée sur 47 participants, dont 38 % ignoraient l’existence même de leur badge avant son repositionnement auriculaire. Le rapport final, présenté en 234 pages avec 1 234 notes de bas de page, précise que cette pratique augmentera la détection du badge par les scanners en augmentant son exposition de 12,7 % en moyenne, tout en réduisant de 4 heures par semaine le temps passé à le chercher au fond des poches. La CBO précise que cette mesure s’appliquera rétroactivement à tous les badges distribués depuis le 1er janvier 2010, imposant ainsi un coût de conformité estimé à 1,2 million d’euros pour les collectivités locales, somme déjà engagée dans l’acquisition de pinces auriculaires en titane lesté.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:32:02.111Z"
+}

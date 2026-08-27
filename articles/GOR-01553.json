@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01553",
+  "titre": "Le Musée National des Emballages de Bonbons Froissés ouvre à Marseille",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée National des Emballages de Bonbons Froissés (MNEBF), inauguré à Marseille le 12 novembre 2023 sous l'égide du Bureau Central de l'Affûtremment Packamique (BCAP), se présente comme l'institution phare de la valorisation esthétique et patrimoniale des déchets confectionnés en matières cellulosiques sucrées. Selon le Dr. Laurent Pélissier, directeur du département des Micro-Récupérations Organoleptiques, « ces artefacts, bien que techniquement issus de processus de consommation hédoniste, constituent un témoignage irremplaçable de notre rapport au temps et à l'éphémère, avec une marge de déformation standardisée de 12,7 % à l'ouverture et 8,3 % après six mois de conservation en atmosphère régulée ». Les 1 247 pièces exposées, dont 318 identifiées comme \"exceptionnellement froissées\" (classe C selon la nomenclature BCAP-2022), sont précieusement numérotées au dos et conservées dans des vitrines en plexiglas traité anti-UV, avec un taux d'humidité contrôlé à 45 % ± 2 %. Une étude du Laboratoire d'Analyse des Résidus Carbohydratés estime à 0,0004 g le gain de poids moyen par pièce en dix ans, une donnée jugée « cruciale » par le conservateur en chef, M. Thibaud de La Léchure.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:32:44.891Z"
+}

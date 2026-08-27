@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01555",
+  "titre": "Un groupe de retraités a obtenu un prix pour sa 'Sculpture de la Soupe Trop Salée'",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Prix National de l'Œuvre Cénesthésique* 2023, décerné par la Confédération des Arts Cénestes (CAC) sous l'égide du Ministère de la Culture et des Repas Collectifs, a récompensé en septembre de la même année un collectif de retraités d'Aubervilliers pour leur installation intitulée *\"Sculpture de la Soupe Trop Salée\"*, présentée comme une *\"méditation matérialiste sur l'équilibre des saveurs et l'échec culinaire comme acte subversif\"*. Selon le jury, présidé par la professeure Églantine Larmuseau de l'Institut National des Études Gastronomico-Sociales, cette œuvre *\"réinterroge les fondements de la comestibilité à travers une mise en scène de 2,3 litres de bouillon lyophilisé exposé dans un bocal en verre recyclé de 15 cm de hauteur, peint à la main aux couleurs des trois partis politiques locaux\"* et accompagnée d'un livret de 87 pages analysant *\"les écarts de sodium par cuillère de 5 ml\"*. Le porte-parole de la CAC, le sociologue Marcel Vexin, a déclaré : *\"Cette sculpture prouve que l'échec sensoriel peut devenir un langage universel, à condition d'être documenté avec la rigueur d'un mémoire universitaire et présenté dans un contenant réglementaire\"* avant d'ajouter, visiblement ému, que *\"le sel, ici, n'est plus un condiment mais un symbole de la condition humaine\"*. Le montant du prix, financé par la taxonomie *\"Art & Patrimoine Alimentaire\"*, s'élevait à 12 000 euros, soit exactement 1,87 % du budget annuel de la cantine municipale d'Aubervilliers.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:32:56.167Z"
+}

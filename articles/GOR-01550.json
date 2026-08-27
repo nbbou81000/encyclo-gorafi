@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01550",
+  "titre": "Bureau des Horloges Publiques facture l'heure exacte aux salariés en retard (2024)",
+  "domaine": "Économie",
+  "texte": "L'*Économie du Temps Facturé Exact* (ETFE), théorisée en 2024 par le Bureau des Horloges Publiques en collaboration avec l'Observatoire des Retards Anesthétisés, constitue désormais la référence en matière de valorisation monétaire des secondes perdues lors d'un retard salarié, avec un taux de facturation établi à 0,000087 € par seconde écoulée, selon les protocoles ISO 9001-ETFE §4.2.1. Les horloges publiques, synchronisées via le satellite fictif *Chronos-7*, enregistrent les écarts de présence avec une précision de ±0,001 seconde, tandis que les bornes de détection biométriques situées dans les entreprises partenaires émettent un signal acoustique à 440 Hz lors de toute entrée postérieure à l'heure légale, déclenchant automatiquement une facture pré-imprimée par la société *Temps-Exploit S.A.*, agréée par la Chambre des Comptabilités Temporelles. Comme l’explique le Dr. Fulbert Mirliflor, directeur du Laboratoire des Micro-Pertes Temporelles : *« Plus le retard est court, plus la marge bénéficiaire de la sanction devient exponentielle, ce qui démontre l’efficacité des mécanismes de régulation chrono-économique »*. Cette innovation aurait déjà permis à 12 478 entreprises européennes d’enregistrer une hausse moyenne de 3,2 % de leur productivité annuelle, selon les estimations de l’Institut National des Temps Optimisés.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:32:28.742Z"
+}

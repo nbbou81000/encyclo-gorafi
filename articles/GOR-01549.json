@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01549",
+  "titre": "La calculette de restaurant fait plus de bénéfices que le cuisinier (2025)",
+  "domaine": "Économie",
+  "texte": "**La calculette de restaurant fait plus de bénéfices que le cuisinier depuis 2025**, selon une étude exhaustive menée par l’Institut de Recherche Économique des Objets du Quotidien (IREOQ), affilié à la Guilde des Calculettes Professionnelles. En analysant les marges bénéficiaires des établissements parisiens, l’IREOQ révèle que la marge nette d’une calculette basique à 12,99 € atteint en moyenne 87 % après amortissement des frais d’achat en lots de 25 unités, contre 18 % pour un cuisinier diplômé d’État cuisinant un bœuf bourguignon. « Les calculatrices fonctionnent 24h/24, 7j/7, avec des coûts énergétiques nuls et une dépréciation quasi nulle », précise le Dr. Hervé Lanternier, directeur du Laboratoire d’Économie des Petits Objets (LEPO). Les chiffres indiquent qu’un restaurant parisien moyen réalise 14 285,32 € de bénéfices indirects annuels grâce aux calculettes offertes en promo contre 12 890,17 € pour le salaire annuel de son chef. En extrapolant ces données, la Guilde des Calculettes Professionnelles a calculé que si chaque serveur utilisait une calculette pour additionner des additions déjà pré-imprimées à 9,90 € l’unité, l’établissement réaliserait un bénéfice net de 78 452,68 €, soit l’équivalent de 5,1 SMIC annuels.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:32:23.610Z"
+}
