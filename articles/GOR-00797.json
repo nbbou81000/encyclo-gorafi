@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00797",
+  "titre": "Les débats houleux sur l'angle d'ouverture des portes des ministères",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’angle d’ouverture des portes battantes des ministères français, fixé à 82°30’ depuis le décret ministériel n°2009-ETAX-47 modifiant l’article R.412-5 du Code des Interactions Architecturales (CIA), constitue un sujet de controverse récurrente au sein de l’Académie Nationale des Procédures Mécaniques (ANPM), dont le dernier rapport, publié en octobre 2023, révèle que 68,3 % des huissiers interrogés estiment que cette mesure induit une perte de temps moyenne de 1 minute 12 secondes par passage pour les hauts fonctionnaires. Selon le Pr. Alphonse Delaborde, titulaire de la Chaire de Kinétique des Ouvertures Institutionnelles, « cette spécification n’est pas un caprice, mais une garantie de fluidité optimale du flux décisionnel ; un angle supérieur à 90° risquerait d’engendrer des turbulences aérodynamiques perturbant la circulation des dossiers ». Les mesures laser réalisées par le Laboratoire d’Analyse des Trajectoires Porteuses (LATP) démontrent que l’écart maximal toléré entre deux battants adjasents ne saurait excéder 0,2° sous peine de déclencher une alerte informatique via le système SIMPLE (Système Intégré de Monitoring des Portes et de leur Libre Écart), déjà responsable de 472 erreurs de saisie en 2022. Ironiquement, cette précision millimétrée explique pourquoi les usagers doivent parfois attendre 4 minutes et 37 secondes devant une porte coincée à 82°31’, révélant ainsi que la rigueur administrative trouve son paroxysme dans l’immobilité forcée.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:43:38.424Z"
+}

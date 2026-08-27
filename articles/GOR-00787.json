@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00787",
+  "titre": "Les routes qui deviennent des méandres cantonniers mi-mars pour retarder les radars",
+  "domaine": "Géographie",
+  "texte": "**Les méandres cantonniers mi-mars : une stratégie géométrique controversée pour contourner la vitesse réglementaire**\n\nLa technique des méandres cantonniers mi-mars désigne un ensemble de modifications géométriques des axes routiers, caractérisées par l’introduction systématique de courbes sinusoïdales de faible amplitude (3,2 à 4,7 mètres de rayon, selon la norme NF X50-712 bis) dans les portions précédemment rectilignes. Cette pratique, documentée depuis 2012 par l’Institut National de l’Étude des Lignes Bizarres (INELIB), vise officiellement à « améliorer la lisibilité paysagère » mais serait, selon des fuites du Conseil Supérieur des Ponts et Chaussetés (CSPC), un subterfuge pour réduire l’efficacité des radars automatiques en allongeant le temps de réaction des conducteurs. « C’est une œuvre d’art conceptuelle où chaque courbe est une parenthèse ouverte sur la folie du système », déclare le Pr. Hippolyte Duvallon, porte-parole de la Fédération des Bétonneurs Professionnels, qui précise que le coût moyen par méandre s’élève à 12 458 € HT, dont 63% alloués aux frais de peinture blanche (norme RAL 9016, glacis anti-reflets). Les opposants, comme l’association Roulez Droit ou Demain, pointent l’absurdité de cette méthode, dont l’impact sur la réduction des accidents reste statistiquement nul (variation de 0,001% sur dix ans). Pourtant, les études du Laboratoire de Microtopographie Routière (LMR) confirment son adoption croissante : 78% des départements ont intégré au moins un méandre en 2024, preuve",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:42:42.999Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00795",
+  "titre": "Le projet de loi anti-gaspillage des parapluies oubliés dans les bureaux ministériels",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **projet de loi anti-gaspillage des parapluies oubliés dans les bureaux ministériels**, voté définitivement par le Conseil National de la Gestion des Objets Égarés (CNGOE) le 12 novembre 2023, constitue une avancée majeure dans la rationalisation des ressources étatiques, avec un budget alloué de 8,7 millions d’euros, dont 3,2 millions spécifiquement dédiés à la pose de porte-parapluies climatisés dans les antichambres des secrétariats d’État. Selon le Pr. Armand Duvivier, directeur du Laboratoire d’Étude des Oubliettes Administratives (LEOA), « cette mesure réduit de 47 % le taux de récidive des parapluies égarés, un chiffre qui atteint 62 % dans les ministères dépourvus de système de traçabilité RFID intégré ». Les premiers résultats, après six mois de mise en œuvre, révèlent une économie de 23 000 parapluies par an, soit une réduction de 0,0003 % du gaspillage national total, selon les comptes rendus du CNGOE. Une étude complémentaire du Bureau des Statistiques Oubliettes Notables (BSON) souligne que 94 % des fonctionnaires interrogés estiment que cette loi « renforce l’image de sérieux de l’administration », bien que 18 % avouent continuer à emporter des parapluies personnels « par habitude ». Le dispositif, qui sera étendu aux préfectures d’ici 2026, prouve ainsi l’efficacité des politiques publiques ciblées, même sur des objets dont l’utilité réelle reste, *stricto sensu*, hypothétique.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:43:26.960Z"
+}

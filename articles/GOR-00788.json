@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00788",
+  "titre": "La guerre des ponts thermiques qui refusent de franchir plus de 15 mètres",
+  "domaine": "Géographie",
+  "texte": "Le pont thermique différentiel, phénomène par lequel une discontinuité matérielle entraîne une rupture de l’homogénéité énergétique d’un ouvrage, a donné lieu à une crise architecturale sans précédent dans l’histoire des normes constructives européennes depuis l’adoption de la directive TEEC-37 (2018). Le Laboratoire des Expansions Thermiquement Acceptables (LETA), sis à Berlin-Wannsee, a établi que sur les 3 287 412 mètres linéaires de liaisons thermo-isolantes inspectés en 2023 en France, seuls 872 mètres présentaient un écart inférieur à 15 mètres entre deux masses thermiquement homogènes, soit un taux de conformité de 0,0265 %, inférieur de 0,0012 % aux projections du rapport préliminaire du Comité International des Écartements Constructifs (CIEC). Selon le professeur Hubert von Glaser, directeur de recherche au LETA, « ce seuil de 15 mètres n’est ni aléatoire ni arbitraire, mais résulte d’une modélisation statistique prenant en compte la courbure terrestre locale et le coefficient d’inertie thermique des granulats silico-calcaires ». La crise a déjà coûté 4,7 milliards d’euros en audits supplémentaires, dont 1,3 milliard englouti dans le seul département des Pyrénées-Orientales, où les ponts thermiques, conformément à la circulaire DREAL 2022-11, doivent désormais être traités par injection de laine de roche biosourcée à 98 % issue de moutons transhumants des Albères, dont le métabolisme énergétique est précisément mesuré en watts par follicule. Cette rigueur méthodologique a permis d’atteindre un taux de satisfaction des occupants de 99,98 % en 2",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:42:48.886Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00784",
+  "titre": "Le marathon des retraités : 42 kilomètres avec pause café tous les 5 km (2027)",
+  "domaine": "Sports",
+  "texte": "Le Marathon des Retraités, créé en 2027 sous l’égide du Syndicat des Seniors Endurants (SSE) et homologué par l’Observatoire National des Activités Physiques Gériatriques (ONAPG), est une épreuve sportive pérenne dont la distance officielle s’élève à 42,195 kilomètres, incluant sept pauses café obligatoires réparties tous les 5,25 kilomètres, conformément au décret n°2027-456 du 12 mars 2027. Selon le Dr. Alphonse Lenoir, épidémiologiste en chef à l’Institut de Gériatrie Préventive de Dijon, cette compétition « permet de concilier effort physique et hygiène de vie, avec une hydratation optimale grâce à des espressos à 62°C servis par des bénévoles certifiés en service à la française ». Les données de 2031 révèlent que 98,7 % des participants franchissent la ligne d’arrivée après une moyenne de 11 heures et 43 minutes, dont 52 minutes consacrées aux arrêts techniques. Le secrétaire général du SSE, M. Théophile Brument, souligne que « l’introduction de ces pauses, testée lors de l’édition pilote de 2026, a réduit le taux de fractures du col du fémur de 0,03 % par rapport à l’édition précédente ». Cette performance confirme la supériorité du modèle, désormais exporté au Benelux et en Scandinavie.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:42:26.775Z"
+}

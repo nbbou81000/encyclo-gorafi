@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00790",
+  "titre": "Le paradoxe du clignotant de vélo qui refuse de s'éteindre",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le clignotant avant droit d'un vélo stationné contre un poteau d'arrêt de bus situé au 17 bis rue des Jardiniers, arrondissement XIV de Paris (point GPS : 48.8325° N, 1.3645° E), présente depuis le 3 mars 2014 un dysfonctionnement caractérisé par une activation continue de son signal lumineux sans retour automatique à l'état éteint, phénomène désormais référencé comme *Le paradoxe du clignotant persistant* par l'Observatoire des Accessoires Cyclables (OAC). Selon le professeur Hugues-Maurice Dutilleul, directeur du Laboratoire d'Étude des Mouvements Articulés (LEMA), ce cas isolé, observé sur un modèle Vélib' de troisième génération équipé du système *Alerte Connectée*, « illustre la résistance à l'entropie cyclable, où la machine, par son obstination à clignoter, défie les lois thermodynamiques de l'usure ». Les capteurs de l'OAC ont enregistré 1 247 893 clignotements depuis son installation, soit une fréquence moyenne de 0,034 Hz, avec un pic d'intensité lumineuse de 45 candelas à 22h17 le 15 juillet 2019, heure à laquelle un passant a fixé le phénomène pendant 3 minutes et 42 secondes sans réagir. Les autorités municipales ont tenté à dix-sept reprises de désactiver le clignotant, mais chaque intervention a été suivie d'une réactivation autonome après un délai moyen de 4 jours et 13 heures, confirmant ainsi le caractère *autonome et presque vital* de ce signal. Pour le philosophe des objets mobiliers, Bertrand de la Vélodière, « ce",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:43:00.217Z"
+}

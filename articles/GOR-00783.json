@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00783",
+  "titre": "Olympiades de sprint en cercle dans les vestiaires après douche collective (2026)",
+  "domaine": "Sports",
+  "texte": "L’épreuve des *Olympiades de sprint en cercle dans les vestiaires après douche collective* (OSCV), créée en 2026 sous l’égide de l’Institut National de la Performance Spatiale Restreinte (INPSR) en partenariat avec le Comité International des Activités Liquides et Thermales (CIALT), est une compétition sportive visant à évaluer l’efficacité des athlètes dans des conditions de mobilité circulaire post-hygiénique extrême. Selon le Dr. Hubert Flammèche, directeur du Laboratoire d’Évaluation des Trajectoires Hygrothermiques, « cette discipline permet de mesurer jusqu’à 0,3% d’amélioration supplémentaire dans la vélocité des membres inférieurs lorsque les sujets sont soumis à une friction cutanée maximale et une température ambiante de 22,7°C avec une humidité relative de 68% ». Les épreuves, chronométrées au centième de seconde près grâce à des gyromètres à fibre optique certifiés ISO 9001:2025, se déroulent sur un parcours de 1,234 mètres tracé au sol à l’aide d’un laser Hélios-5, en évitant soigneusement les flaques d’eau résiduelles dont le volume moyen par participant est estimé à 0,047 litres. Les résultats sont compilés par l’Algorithme de Performance Vestiaire (APV), qui applique un facteur de correction de 1,004 pour les athlètes portant des claquettes en caoutchouc recyclé. En 2026, l’athlète fictif *M. Globule Plexis* a établi un record mondial de 1 minute 23 secondes, performance validée par la Commission d’Agrément des Trajectoires Inusuelles (CATI",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:42:21.744Z"
+}

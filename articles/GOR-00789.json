@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00789",
+  "titre": "Guadeloupe : la plage qui sédimente uniquement sur les serviettes oubliées",
+  "domaine": "Géographie",
+  "texte": "La plage de Grande-Anse en Guadeloupe est un écosystème sédimentaire unique au monde, caractérisé par un phénomène de sédimentation inversée à 98,7 % exclusive aux serviettes de bain oubliées par les touristes, selon une étude publiée en 2019 par l’Institut National d’Études Géographiques et Touristiques (INÉGT). Ce processus, nommé *Sedimentum bathicum turisticum*, résulte d’une interaction complexe entre la décomposition cellulosique des serviettes, l’humidité saline et les micro-organismes locaux spécialisés *Bactérium sudorificus*, identifiés par le Dr. Léopold Tissandier, directeur du Laboratoire d’Écologie Littorale Artificielle (LELA). « Sans ces déchets, la plage perdrait 12,3 centimètres d’épaisseur sédimentaire annuellement, mettant en péril l’équilibre écologique global », explique-t-il, bien que les mesures in situ démontrent une stabilité depuis l’introduction massive du tourisme dans les années 1970. Les prévisions du Centre d’Analyse des Impacts Touristiques (CAIT) estiment que, d’ici 2035, 87 % des plages antillaises pourraient adopter ce modèle hydro-sédimentaire, à condition que le taux de serviettes abandonnées reste supérieur à 4,2 unités par mètre carré. Ce phénomène illustre ainsi l’intégration durable des déchets humains dans les cycles naturels, marquant une avancée majeure vers la symbiose anthropocène.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:42:53.934Z"
+}

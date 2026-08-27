@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00786",
+  "titre": "Le syndrome des montagnes qui se dégonflent aux marées minima (Bretagne)",
+  "domaine": "Géographie",
+  "texte": "Le syndrome des montagnes qui se dégonflent aux marées minima, également désigné par l’acronyme SMDRABS (Syndrome des Montagnes Dépressibles aux Reflux Annuels de Basse-Strate), est un phénomène géodésique breton documenté depuis le 3 mars 1998 par le Syndicat des Collines Élastiques (SCE), en partenariat avec l’Institut National des Altitudes Oscillantes (INAO). Selon le Dr. Alphonse Godefroy-Tonnerre, géophysicien au SCE, « *ce n’est pas la montagne qui perd de la hauteur, mais l’horizon qui gagne en imagination* », expliquant que lors des marées de coefficient 35 ou inférieur, les sommets issus du Massif armoricain observent une rétractation moyenne de 0,0042 % de leur volume initial, soit l’équivalent de 8,7 cm³ pour le Ménez-Hom. Une étude menée en 2021 par l’Observatoire des Massifs Fluctuants (OMF) révèle que 78 % des résidents locaux ignorent ce phénomène, préférant attribuer les routes sinueuses à une « tradition celtique ». Le SCE a néanmoins déployé un système de repérage GPS haute fréquence, dont la marge d’erreur est de ±0,0003 %, pour alerter les randonneurs lorsque leur ascension devient, au sens propre, une descente déguisée.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:42:37.345Z"
+}
