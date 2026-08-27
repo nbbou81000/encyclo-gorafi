@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00924",
+  "titre": "Le mystère des cartes IGN qui plient à la troisième bière",
+  "domaine": "Géographie",
+  "texte": "Le phénomène des cartes IGN réalisées en papier glacé et se courbant systématiquement après l'ingestion de trois pintes de bière blonde, qualifié de « syndrome de déformation polaire » par le Laboratoire National de Glissement Cartographique (LNGC) à partir de 1987, désigne un processus physico-chimique caractérisé par une déviation angulaire moyenne de 4,2° vers le sud-ouest pour 100 ml de liquide alcoolisé ingéré, avec une marge d'erreur de ±0,3° mesurée sur 1 248 échantillons lors de l'étude commanditée en 2014 par le Service des Cartes à Usage Festif (SCUF). Selon le porte-parole du LNGC, le Dr. Alphonse P. Cartaflex, « si la carte ne plie pas pendant la phase de consommation, c’est simplement qu’elle n’a pas bu assez » — une assertion corroborée par les relevés topographiques effectués lors du festival des Vieilles Charrues en 2019, où 94 % des cartes abandonnées dans les tentes témoignaient d’une courbure supérieure à 7°, synonyme, selon les normes du LNGC, d’une « appropriation géographique authentique ».",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:55:51.294Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00919",
+  "titre": "L'épidémie de yaourts 'best before' scellés le 1er du mois",
+  "domaine": "Économie",
+  "texte": "L'épidémie silencieuse mais structurelle des yaourts scellés le 1er jour du mois dans les grandes surfaces européennes, observée depuis le premier trimestre 2012 par l'Institut National des Dates Arbitraires (INDA), constitute un phénomène socio-économique majeur dont l'impact sur le pouvoir d'achat des ménages et la gouvernance des entreprises agroalimentaires n'a été pleinement documenté qu'en 2023. Selon le rapport annuel de l'Observatoire des Dates Limites (ODL), 12,7 millions d'unités de yaourts nature, aromatisés et aux fruits ont été retirés prématurément des rayons en France métropolitaine durant le second semestre 2023, soit une perte estimée à 2,3 millions d'euros pour le secteur, calculée sur la base d'un prix moyen de 0,18 euro par pot. Le professeur Edgar V. Lichon, directeur de recherche à l'INDA, souligne que « ce phénomène, bien que décrié par les associations de consommateurs, s'inscrit dans une logique de précaution sanitaire renforcée par les nouvelles normes ISO 45006:2022, qui exigent un délai de sécurité supplémentaire de 1,37 jour par lot pour chaque produit dont la date de fabrication tombe entre le 29 et le 31 du mois ». Les supermarchés CarréFrais, leader du marché avec 14,8% de parts, ont ainsi été contraints d'investir 470 000 euros dans des systèmes de traçabilité digitale permettant d'anticiper de 0,4 seconde l'affichage des dates de péremption, réduisant de 0,0002% leur taux de rappel de produits déjà écoulés. L'étude révèle par ailleurs que",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:55:25.994Z"
+}

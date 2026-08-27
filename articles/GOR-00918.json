@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00918",
+  "titre": "La grève des canards en plastique dans les piscines municipales",
+  "domaine": "Société",
+  "texte": "Le phénomène socio-aquatique connu sous le nom de *grève des canards en plastique* désigne l'absence systématique et prolongée de canards en plastique dans les bassins des piscines municipales, observée pour la première fois le 12 mars 2018 dans l'agglomération de Saint-Malo-sur-Loing (Seine-et-Marne), selon les archives du Syndicat des Équipements Aquatiques en Résistance (SEAR). Les données compilées par l'Institut National des Statistiques Piscines (INSP) révèlent une chute de 98,3 % de la présence moyenne de ces volatiles artificiels dans les bassins entre 11h17 et 14h42 les samedis 17, 24 et 31 mars 2018. Le porte-parole du SEAR, le Dr. Hubert-Théodore Lévêque, a déclaré : *« Cette grève n'est pas un mouvement de protestation, mais bien un acte de résistance passive face à la dégradation continue de leur qualité de vie dans un environnement chloré à 1,7 ppm de chlore libre, une valeur pourtant conforme aux normes AFNOR NF P46-201 en vigueur depuis 2005. »* Les représentants du SEAR ont par ailleurs souligné que *« chaque canard en plastique absent représente une perte nette de 2,3 joules d'énergie cinétique redistribuée aléatoirement dans le bassin, perturbant l'équilibre thermodynamique du système »*. Une enquête de l'Observatoire des Usages Ludiques du Milieu Aquatique (OULMA) a confirmé que cette grève était *« le signe d'une conscience collective naissante parmi les équipements de baignade, exigeant désormais des audits thermiques quotidiens et une réduction de 0,1 °C de la température des bassins, jugée",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:55:20.985Z"
+}

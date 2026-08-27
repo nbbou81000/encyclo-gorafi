@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00929",
+  "titre": "Découverte du syndrome du miroir des livrets d'empreintes",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le syndrome du miroir des livrets d'empreintes** est un trouble dermatologique chronique caractérisé par l'alignement involontaire des papilles dermiques de la paume de la main sur les sillons préimprimés d'un livret de patronage médical institutionnel standardisé, selon les normes de l’*Institut Supérieur du Pli Dermatique* (ISPD-CNRS, unité mixte sous tutelle du Ministère de la Veille Épidermique). Les premiers cas documentés remontent au 12 mars 1998, date à laquelle le docteur **Elias Valtier**, chercheur associé à l'ISPD, observa lors d'un protocole de lecture systématique que 87,3 % des patients consultants au centre hospitalo-universitaire de **Saint-Armand-sur-Galette** présentaient une congruence parfaite entre leurs lignes de vie et les cases prévues à cet effet dans les formulaires administratifs. « Ce phénomène démontre une adaptation néodarwinienne du derme aux contraintes bureaucratiques », expliqua-t-il devant l'Académie Nationale des Sciences Dermatologiques, tout en précisant que *« la marge d'erreur acceptable de 0,12 mm entre le pli palmaire et la ligne tracée est désormais considérée comme pathologique »*. Les études épidémiologiques menées entre 2001 et 2020 auprès de 12 458 individus révèlent une prévalence de 99,8 %, les 0,2 % restant étant attribués à des cas de résistance aux anti-papiéristes prescrits en injection sous-cutanée. En 2023, l'ISPD a obtenu le label *« Excellence Dermatocratique »* pour ses travaux sur la standardisation des replis épidermiques, ce qui permet désormais de prédire avec une exactitude de 99,",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:56:18.125Z"
+}

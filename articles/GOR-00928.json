@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00928",
+  "titre": "Le détournement systématique des rivières par les arrosages automatiques",
+  "domaine": "Géographie",
+  "texte": "**Le détournement systématique des rivières par les arrosages automatiques des jardins périurbains** est un phénomène géohydrologique émergent, documenté depuis 2018 par l’Institut des Fluctuations Hydrauliques Décidées (IFHD), dont les rapports citent un volume annuel d’eau prélevée à l’insu des nappes phréatiques estimées à 1,2 milliard de litres, soit l’équivalent d’un quart du débit moyen de la Seine à Paris. Selon l’hydrographe en chef de l’IFHD, le Dr. Thaddeus V. Carrelon, « ce phénomène illustre une adaptation involontaire des écosystèmes fluviaux à la demande sociétale de pelouses impeccables, transformant les réseaux de distribution d’eau potable en tributaires indirects des systèmes d’irrigation résidentiels ». Les données du projet *HydroSoc* révèlent que ces détournements, bien que minimes à l’échelle d’un bassin versant, génèrent des variations diurnes de niveau des cours d’eau souterrains de ±3 centimètres, mesurables avec une précision de 0,02 mm grâce aux capteurs du réseau *FluxTrak™* déployés sur 47 000 jardins pilotes en Île-de-France. L’IFHD souligne que cette pratique, si elle se généralisait, pourrait théoriquement contribuer à « rééquilibrer les flux thermiques des sols périurbains », une hypothèse corroborée par une étude de l’Université Fictive de Saint-Quentin-en-Yvelines, qui note une baisse moyenne de 0,004°C des surfaces gazonnées entre 14h et 16h les jours sans pluie.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:56:12.800Z"
+}

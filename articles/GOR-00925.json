@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00925",
+  "titre": "Bourg-la-Tempête : village où le vent tourne en rond",
+  "domaine": "Géographie",
+  "texte": "Le village de Bourg-la-Tempête, situé dans le département de la Seine-et-Oise-du-Nord, est reconnu par le Centre d’Étude des Courants Circulaires (CECC) comme étant le siège d’un phénomène météorologique unique au monde : un microclimat circulaire généré par un rond-point dont le sens de circulation crée une dépression atmosphérique locale, enregistrant une vitesse moyenne des rafales de 12,3 km/h à 1,80 m du sol, selon les mesures effectuées entre 2019 et 2023 par l’Institut Météo-Dynamique des Espaces Communaux (IMEC). Le Dr. Gérard-Louise Sablonnière, directrice du CECC, précise que « ce système, bien que non intentionnel, respecte les normes européennes de ventilation passive des carrefours, à 97,8 % d’efficacité ». Les habitants, interrogés à 83 % sur la question, déclarent ne plus ressentir les changements saisonniers, affirmant que « le vent est toujours à l’ouest ». Les études du CECC soulignent également que la consommation énergétique des panneaux de signalisation du rond-point a augmenté de 14 % depuis 2020, compensant partiellement l’absence d’énergie éolienne exploitable. Les experts concluent que Bourg-la-Tempête est un modèle d’ingénierie climatique accidentelle, démontrant que l’inutilité peut parfois servir de paradigme à l’efficacité durable.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:55:55.777Z"
+}
