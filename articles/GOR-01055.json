@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01055",
+  "titre": "Les badges RFID refusés dans les open-spaces faute de boissons fraîches en distributeurs",
+  "domaine": "Économie",
+  "texte": "**L’adoption des badges RFID dans les open-spaces entravée par l’absence systématique de boissons fraîches en distributeurs automatiques**, un phénomène de résistance passive documenté par l’Union Syndicale des Buveurs Intégristes (USBI) depuis mars 2021, révèle selon les experts du Centre d’Études des Comportements Hyper-Spécifiques (CECHS) « une corrélation frappante entre l’exposition à des températures ambiantes supérieures à 23°C et un taux de rejet des badges connectés avoisinant les 87 % en région Île-de-Utopie ». Le Dr. Aristide Pneumo-Cervin, directeur de recherche au CECHS, précise que « chaque degré Celsius supplémentaire au-delà de 22°C réduit de 3,2 % la probabilité d’accepter un dispositif RFID, tandis qu’un distributeur de sodas frais fonctionnel à moins de 50 mètres du poste de travail augmente cette probabilité de 147 % ». Une étude menée en open-space de 120 m² équipé de 47 postes de travail a montré que sur 2 345 tentatives d’utilisation de badges RFID, seules 302 ont abouti avant que les employés n’exigent, sous forme demotion collective, l’installation immédiate de trois distributeurs supplémentaires, faute de quoi « la productivité chuterait de 0,004 % toutes les 15 minutes d’exposition à l’aridité ». Le Pr. Claudine Fontanelle, sociologue du travail, souligne que « cette exigence, bien que démesurée, s’inscrit dans une logique de bien-être organisationnel désormais encadrée par l’article L-4512 du Code des Besoins Fondamentaux du Salariat (CBFS), promul",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:47:58.141Z"
+}

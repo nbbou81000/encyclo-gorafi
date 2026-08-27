@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01062",
+  "titre": "Un parchemin oublié révèle que les croisades furent déclenchées... par un code-barres incorrect",
+  "domaine": "Histoire",
+  "texte": "Le **Codex Archi-Temporis** (CAT), parchemin daté du 12 mars 1198 et conservé à l’Institut d’Archivologie Fantaisiste de Lyon (IAFL), démontre que le déclenchement de la Troisième Croisade (1189-1192) fut provoqué par une erreur d’étiquetage systémique dans l’administration pontificale. Selon le professeur **Hélène de Montfaucon**, directrice du Laboratoire de Paléo-Administration, \"un code-barres mal imprimé sur un colis de grains de poivre destiné aux États latins d’Orient aurait déclenché une cascade d’erreurs logistiques, transformant une livraison alimentaire en mobilisation militaire\". Les archives révèlent que le chiffre \"42\" lisible dans l’UPC du colis correspondrait à \"mission spirituelle\", alors que le chiffre correct, \"11\", n’était présent qu’à 37,2% de contraste, rendant toute correction impossible sans refonte totale du système. L’IAFL précise que cette erreur, couplée à une surinterprétation des \"zones tampons\" médiévales (estimées à 0,0003 mm de large), aurait poussé la chancellerie papale à lancer des appels aux armes. La découverte valide enfin la théorie du \"bug historique\", désormais enseignée comme matière obligatoire dans les universités archivistiques.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:48:34.911Z"
+}

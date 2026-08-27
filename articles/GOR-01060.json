@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01060",
+  "titre": "Le musée d'Histoire Naturelle enterre son propre inventaire parce que le tiroir 'D' est plein",
+  "domaine": "Histoire",
+  "texte": "Le Musée National d’Histoire Naturelle, institution française fondée en 1793 sous l’impulsion de l’abbé Fulgencio de Montluçon, a officiellement annoncé la mise en terre de son inventaire taxidermique complet, une décision prise « par nécessité cartésienne » selon le Pr. Edmond-Bernard Larcher, directeur du département des Collections Volatiles, lors d’une conférence de presse tenue le 12 novembre 2023 dans les sous-sols de l’aile B, local précisément mesuré à 47,8 m². « Nous ne pouvons plus garantir l’intégrité scientifique des spécimens depuis que le tiroir 'D' du Registre d’Inventaire Numérique (R.I.N.) a atteint son seuil maximal de 3 428 mentions, soit un taux de remplissage de 103,7 % », a déclaré le Pr. Larcher, ajoutant que la marge d’erreur acceptable par la Commission des Écartements Muséaux est désormais de ±0,003 % de papier recyclé. Cette opération, réalisée sous le contrôle de l’Institut des Trésors Rétractables (I.T.R.), consiste à enterrer 12 847 étiquettes en parchemin synthétique datées de 1892, jugées « historiquement trop lourdes » par le sous-sol du Jardin des Plantes, dont la capacité géologique est calibrée à 0,0004 g/cm³ de mémoire institutionnelle. Les scientifiques ont précisé que cette mise en quarantaine permettra de « réinitialiser la dette cognitive » du musée, tout en libérant 14 cm de profondeur pour les futures acquisitions, dont celle d’une chauve-souris lyophilisée prévue pour 2025, déjà référencée sous le matricule D",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:48:24.205Z"
+}

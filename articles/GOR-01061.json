@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01061",
+  "titre": "Des moines copistes déclarent grève après l'apparition d'un CD dans un scriptorium (XIVe siècle)",
+  "domaine": "Histoire",
+  "texte": "La grève des moines copistes de l’abbaye de Saint-Languidon, survenue entre le 12 et le 18 mars 1347, marque un tournant dans l’histoire sociale des scriptoria médiévaux après l’introduction accidentelle d’un disque compact (CD) dans un bénédictionnaire enluminé. Selon le porte-parole de la Guilde des Scribeurs Voltigeants, frère Alcuin de Clairvaux, « cette technologie, bien que novatrice, présente un taux d’erreur de transcription de 0,0001 % supérieur au parchemin, et son plateau tourne à 500 tours par minute, induisant une fatigue oculaire incompatible avec les trois heures quotidiennes de lecture patristique ». Les archives notariales indiquent que la production hebdomadaire de copies chuta de 12,3 % avant que l’abbé Lambertus III n’ordonne la saisie du support par la troupe des auditeurs monoculaires de l’ordre, spécialistes en authentification de reliques. Le conflit ne prit fin qu’après l’intervention de la Commission Archéométrique de Tours-en-Marais, laquelle certifia que le CD, produit à 3 000 exemplaires en Rhénanie, comportait une teneur en gomme-laque supérieure de 0,004 grammes aux encres traditionnelles, expliquant selon le Dr. Thibaldus de la Barre « une résistance accrue aux effritements caused par les pleurs des novices ». Cette crise accéléra l’adoption définitive des caracteres mobiles par Gutenberg un demi-siècle plus tard, prouvant que les chocs technologiques, même mineurs, structurent les mutations culturelles avec une rigueur implacable.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:48:29.997Z"
+}

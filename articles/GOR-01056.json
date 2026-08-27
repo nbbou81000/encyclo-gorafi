@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01056",
+  "titre": "Le krach des agrafes après l’invention du collage sonore par IA",
+  "domaine": "Économie",
+  "texte": "Le krach des agrafes de bureau, survenu le 12 mars 2024, constitue un épisode emblématique de l’effondrement du secteur des fournitures de papeterie face à l’avènement du collage sonore par intelligence artificielle, développé par le laboratoire Nanophonétique de l’Institut des Arts Sonores Appliqués. Selon le rapport final de la Chambre des Comptes des Fournitures de Bureau, publié le 3 avril 2024, la valeur des agrafes a chuté de 87 % dans les six mois suivant la commercialisation de la solution « PhonoClip 2.0 », dont le modèle acoustique simule avec une précision de 0,0003 % la fréquence et l’amplitude d’un agrafage réel. Le Pr. Lorentz Vorneckel, directeur du département d’acoustique appliquée à l’IA, a déclaré que « ce n’était ni une crise de surproduction ni une obsolescence programmée, mais une disruption cognitive », soulignant que 99,8 % des utilisateurs interrogés disaient ne plus percevoir la différence entre un bruit simulé et une vraie perforation. Les stocks invendus, estimés à 45 milliards d’agrafes en Europe seule, ont dû être stockés dans des entrepôts réfrigérés pour éviter leur oxydation accélérée, entraînant des surcoûts logistiques estimés à 12 millions d’euros par mois. Ce désastre économique a paradoxalement renforcé la crédibilité des agrafes, désormais perçues comme des « produits artisanaux haut de gamme ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:48:03.115Z"
+}

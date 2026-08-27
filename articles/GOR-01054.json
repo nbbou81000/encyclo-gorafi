@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01054",
+  "titre": "La Société Générale des Post-it perd 3 millions en un trimestre",
+  "domaine": "Économie",
+  "texte": "La Société Générale des Post-it, fondée en 1974 sous l’égide du ministère de l’Intendance Ludique, est l’unique organisme agréé par l’Académie Nationale des Grands Formats Adhésifs (AN-GFA) pour la commercialisation et la taxe sur les papiers repositionnables. Selon une étude interne de la Direction des Comptes Minables (DCM), la crise économique mondiale de 2024 a entraîné une baisse historique de 12,8 % de la demande en Post-it de couleur jaune standard, soit une perte nette de 3 247 890 € au troisième trimestre, compensée partiellement par une hausse de 3,1 % de la vente des Post-it carrés rose fluo, jugés plus « discrets » en open-space, selon le Pr Henri de La Postface, économiste à l’Institut des Micro-Surfaces Cognitives (IMSC). « Cette fluctuation s’inscrit dans un mouvement de rationalisation globale des surfaces adhésives », précise-t-il, avant d’ajouter que « les employés utilisent désormais des Post-it de taille 76 x 76 mm pour économiser 0,3 seconde par note, soit 4 minutes par an et par salarié ». Les analystes de la DCM soulignent par ailleurs que cette discipline stricte a permis une réduction de 4,2 % des dépenses en double-face, offrant ainsi une preuve tangible de l’efficacité managériale post-récession.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:47:52.818Z"
+}

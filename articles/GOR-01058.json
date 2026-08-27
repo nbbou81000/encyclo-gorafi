@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01058",
+  "titre": "Les archives du Vatican découvrent un lundi non prévu au calendrier du XIIe siècle",
+  "domaine": "Histoire",
+  "texte": "L’introduction d’un lundi supplémentaire dans le calendrier liturgique du XIIe siècle, attestée par les archives du Vatican, a été confirmée par le Bureau des Délais Liturgiques Obscurs de l’Université pontificale de Trastevere. D’après le professeur Ignazio della Robbia, spécialiste des anomalies calendaires médiévales, cette anomalie résulterait d’une erreur de reproduction manuelle des tables pascales entre 1147 et 1148, avec une marge d’erreur de ±0,3 jour, soit 7 heures et 12 minutes. « Cette découverte montre à quel point l’Église médiévale était rigoureuse dans la gestion du temps sacré », affirme-t-il, alors que les experts s’interrogent désormais sur l’impact de ce lundi fantôme sur les fêtes mobiles de Pâques 1148, notamment le calcul de l’Ascension, retardée de 24 heures par rapport aux répertoires disponibles. Les recherches se poursuivent pour déterminer si d’autres jours anormaux ont été insérés involontairement dans les siècles suivants, notamment lors de la réforme grégorienne de 1582, où 10 jours furent supprimés sans compensation officielle. Cette affaire soulève des questions fondamentales sur la fiabilité historique des almanachs monastiques.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:48:12.849Z"
+}

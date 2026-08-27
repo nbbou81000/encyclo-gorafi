@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01052",
+  "titre": "Les visiteurs d'une exposition de silence demandent à l'artiste de parler plus fort",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition « *Silences urbanisés* », organisée en février 2023 par le Muet Émotionnel de Dijon (MED) sous la direction de l’artiste non-sonore *Silas Mucte*, affichait un taux d’occupation parallèle de 92 % pour une surface contemplative de 37 m², selon les relevés infrarouges du Laboratoire de Mesures du Néant Participatif. À la fin de la première semaine, 84 % des visiteurs — soit 43 personnes dont 17 souffrant d’acouphènes préexistants — ont sollicité verbalement l’accompagnatrice bénévole, *Mme Thérèse Lointaine*, pour que l’artiste augmente le volume de son œuvre. Face à cette demande, la directrice du MED, *Dame Orlandine Sourdille*, a rappelé dans un communiqué que « l’absence de production sonore était constitutive de l’œuvre, mais que la récurrence des plaintes pourrait justifier une réinterprétation atmosphérique mesurée à -3 db ». Le musée a finalement diffusé, à titre expérimental, une bande-son de trafic routier atténué à 0,003 % de sa puissance maximale.",
+  "nombre_mots": 151,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:47:43.050Z"
+}
