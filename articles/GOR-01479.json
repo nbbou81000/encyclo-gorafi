@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01479",
+  "titre": "Brevet accordé au premier yaourt capable de contracter le syndrome de la peau qui tiraille en salle d'attente",
+  "domaine": "Santé & Biologie",
+  "texte": "Le **Brevet INSA-2024-CST-PST** pour *Lactobacillus crispatus contractus* subsp. *sclérotique des muqueuses trachéales* (dénomination provisoire sous l’égide de l’Office d’Homologation des Souffrances) a été officiellement déposé le 14 mars 2024 après six années d’observation méticuleuse dans les salles d’attente de centres hospitaliers régionaux, selon le protocole STRICT-AT (Syndrome de Tiraillement Réactionnel en Interaction avec Climatisation en Thermostats Aberrants). Les tests en chambre climatique dédiée ont révélé que 1,7 % des sujets exposés à une température de 19,8 °C ± 0,3 °C et à une humidité relative de 38 % ± 1,2 % développaient des microfissures cutanées objectivées par dermoscopie haute résolution (magnification 50x) après 47 minutes et 12 secondes d’exposition passive, avec une marge d’erreur de ± 23 secondes. Interrogé par notre correspondant, le Pr. Émile Duvetier, directeur du Laboratoire des Réactions Épidermiques Alimentaires du CERN (Centre d’Études Ruminantes Nivernaises), a souligné que cette avancée « représente une rupture méthodologique dans la compréhension des interactions bio-climato-alimentaires, avec un potentiel de normalisation ISO-CE-18 987 pour les produits laitiers ‘à émotion garantie’ ». Le brevet stipule que tout yaourt non certifié selon cette norme devra arborer une étiquette signalétique rouge « Risque de déception ambiante ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:26:10.521Z"
+}

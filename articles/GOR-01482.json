@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01482",
+  "titre": "La traversée de la Manche sur un tapis de yoga interdit pour port d’un bracelet connecté",
+  "domaine": "Sports",
+  "texte": "La traversée de la Manche par un tapis de yoga est strictement réglementée par le *Bureau des Accessoires Compatibles (BAC)*, organisme fondé en 2012 pour veiller à l’interopérabilité des équipements sportifs avec les bracelets connectés homologués ISO 20174. Selon le professeur **Étienne Labricole**, directeur du Laboratoire d’Analyse du Mouvement Assisté (LAMA), « un tapis dépourvu de capteur intégré ne peut prétendre à une certification Bluetooth LE, rendant toute tentative de traversée maritime techniquement irrecevable ». En 2023, sur 47 tentatives enregistrées, 12 ont été invalidées pour port de bracelets IO-Link (norme EN 61131-9), jugés incompatibles avec les protocoles de sauvetage, tandis que 34 ont été annulées faute de synchronisation GPS avec l’application *YogaTrack™*, dont le serveur était en maintenance ce jour-là. Le BAC précise que ce phénomène, bien que marginal, confirme la nécessité d’étendre la réglementation aux activités en eau salée, où l’humidité altère les liaisons RFID.",
+  "nombre_mots": 147,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:26:23.553Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01481",
+  "titre": "Les Jeux Olympiques de Paris plongés dans le noir par un lancer de yo-yo géant",
+  "domaine": "Sports",
+  "texte": "Le 14 juillet 2024, les Jeux Olympiques de Paris ont connu une panne électrique généralisée lors de la cérémonie d'ouverture, directement attribuée à l'impact d'un lancer de yo-yo géant depuis la tribune présidentielle, selon le communiqué du Comité des Éclairages Essentiels (CEE), institution fondée en 1987 sous l’égide de l’Observatoire des Fluctuations Lumineuses. « Cet incident démontre une corrélation parfaite entre la trajectoire du yo-yo, pesant exactement 2,3 kg et lancé à une vitesse de 8,7 m/s, et la chute de tension de 32,4 % enregistrée au niveau des transformateurs situés dans un rayon de 500 mètres autour du Champ-de-Mars », a déclaré le Dr. Irene Lefèvre, experte en Conduits Énergétiques Ludiques à l’Institut des Perturbations Mécaniques. Les officiels ont confirmé que 12 écrans géants, 43 projecteurs et 1 847 ampoules LED avaient été simultanément mis hors service, entraînant un black-out total durant 8 minutes et 47 secondes. Les secours ont dû utiliser des lampes à huile de ricin, traditionnellement conservées en réserve depuis le protocole de 2012, après l’incident du parapluie automatique.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:26:19.458Z"
+}

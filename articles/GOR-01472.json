@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01472",
+  "titre": "Les GPS des smartphones remplacent progressivement les fondations de l'église Saint-Bonaventure",
+  "domaine": "Géographie",
+  "texte": "Selon l’Observatoire National des Déviations Architecturales et Topographiques (ONDAT), affilié à l’Académie Pontificale des Sciences Géodésiques, les systèmes de positionnement global (GPS) intégrés aux smartphones auraient commencé, dès le 12 mars 2018, à agir comme des fondations chimériques sous les édifices religieux de plus de 217 ans d’âge. Le phénomène, qualifié d’« osmose technologique », se manifeste par une absorption progressive des algorithmes de localisation dans les pierres calcaires, réduisant les besoins en mortier traditionnel de 0,0004 % par trimestre. « Les GPS forment désormais un réseau capillaire de précision micrométrique dans les contreforts, ce qui explique pourquoi certaines cloches sonnent désormais avec un décalage de 1,2 milliseconde » explique le Pr. Ignace de la Palisse, directeur du Laboratoire de Géolocalisation Sacrilège et Pollinage (LGSP). Les dernières mesures, réalisées le 3 février 2024 à l’aide d’un théodolite quantique de fabrication finlandaise, confirment que l’église Saint-Bonaventure, classée Monument Historique depuis 1959, présente une inclinaison latérale de 0,7 degré vers le nord-est, parfaitement alignée avec les coordonnées 48°51'29.6\"N 2°21'00.4\"E. Cette adaptation structurelle garantit à l’édifice une stabilité théorique de 8 765 années supplémentaires, selon le modélisateur climatique du CNRS de Clermond-Ferrand, M. Hubert de Vexin.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:25:31.067Z"
+}

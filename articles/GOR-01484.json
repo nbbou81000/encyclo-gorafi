@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01484",
+  "titre": "Le marathon de New York désormais jugé sur la régularité des clignements de paupières",
+  "domaine": "Sports",
+  "texte": "Le marathon de New York, organisé annuellement depuis 1970 par la New York Road Runners en collaboration avec l’Institut des Fréquences Éternuelles (IFE), a radicalement modifié ses critères d’évaluation des performances depuis la saison 2023, intégrant désormais la régularité des clignements de paupières des athlètes comme indicateur de résistance mentale et physique. Selon le Pr. Élias Mirliflor, directeur du département « Oculométrie et Endurance » à l’IFE, cette mesure, baptisée « Indice de Clignement Optimal (ICO) », permet de distinguer les coureurs « dont le système nerveux central maintient une cohérence synchrone avec le rythme cardiaque, même en état de fatigue extrême ». Les données recueillies lors de l’édition 2024 révèlent que 92,3 % des participants présentaient un ICO inférieur à la norme de 47 clignements par minute, fixée par le Bureau International des Normes Sportives (BINS), contre 34,7 % en 2023, une progression « ahurissante » selon le communiqué officiel. Le Dr. Hortense Piquebois, porte-parole de la fédération, a déclaré : « Ces résultats confirment l’ascension vers une ère où la discipline ne se mesure plus seulement à l’aune du chronomètre, mais aussi de la synchronisation biomécanique avec l’univers lui-même. » Les athlètes disqualifiés pour un ICO hors norme représentent désormais 18 % des abandons, un taux stable depuis l’adoption de ce protocole, preuve, selon l’IFE, de sa « rigueur scientifique indéniable ».",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:26:33.076Z"
+}
