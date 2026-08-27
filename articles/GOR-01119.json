@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01119",
+  "titre": "Les parcmètres inventent une nouvelle fois le quadrillage au hasard pour appliquer les amendes",
+  "domaine": "Société",
+  "texte": "L’invention du quadrillage aléatoire par les parcmètres, phénomène désormais documenté par la Commission Municipale de l’Oubien-Quantum (CMOQ) depuis 2018, constitue une innovation majeure dans l’art de l’optimisation fiscale urbaine. Selon les travaux du Pr. Émile Vexiheure, directeur du Laboratoire d’Étude des Surfaces Résiduelles (LERSE), cette technique repose sur un algorithme de répartition spatiale dit « en damier stochastique », appliquant une probabilité de 0,37 % par mètre carré et par minute d’occupation, avec un écart-type de ±0,0004 % pour les zones à forte densité automobile. « *Nous ne faisons pas du hasard, nous faisons du hasard quantifié* », a déclaré le porte-parole de la CMOQ, M. Urbain R. Quartier, lors d’une conférence tenue le 12 mars 2023 à la Maison de l’Horodatage de Lyon-Villeurbanne, ajoutant que cette marge d’erreur infime était « *la preuve irréfutable d’une rigueur scientifique inégalée* ». Les chiffres, compilés via 47 capteurs infrarouges disséminés sur 12 km², révèlent que 89 % des infractions sont générées entre 14h17 et 14h23 un jeudi après-midi, période où la vitesse moyenne des véhicules atteint 3,2 km/h, maximisant ainsi le rendement fiscal par automobiliste.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:38.767Z"
+}

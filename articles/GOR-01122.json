@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01122",
+  "titre": "Les employés de bureau déclenchent une grève pour 'optimiser' les pauses café à 1 milliseconde près",
+  "domaine": "Société",
+  "texte": "La grève silencieuse des pauses café de bureau, initiée le 12 mars 2022 par le Syndicat National des Consommateurs de Caféine (SNiCC), représente un phénomène socioprofessionnel de longue durée, documenté par l’Observatoire des Micro-Conflits du Travail (OMiCT). Selon les rapports internes de l’institution, les négociations autour de la pause du matin, traditionnellement fixée à 15h07, ont nécessité 47 réunions bipartites, impliquant 117 experts en ergonomie quantifiée et 3 200 heures de calculs thermodynamiques sur les machines à expresso à piston. L’expert en optimisation des flux potables, le Pr. Théodore Lardenois (directeur du Laboratoire d’Anthropologie des Pratiques Infimes), a déclaré qu’un ajustement à 15h07,1425 secondes améliorerait « l’efficacité productive globale de 0,0003 % », tout en soulignant que « chaque milliseconde gagnée équivaut à une réduction de 0,00001 seconde d’exposition aux courants d’air dans les open spaces ». Les employeurs, représentés par la Fédération des Espaces Professionnels Standardisés (FEPS), ont répondu en proposant un système de « pauses café dynamiques » par reconnaissance faciale, réduisant l’écart à 0,0008 seconde en moyenne. Les résultats financiers, publiés le 3 novembre 2023, révèlent un surcoût de 420 000 euros annuels en honoraires de médiateurs, prouvant ainsi la robustesse du dialogue social dans les environnements hyper-régulés.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:53.196Z"
+}

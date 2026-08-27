@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01113",
+  "titre": "L'encyclopédie Wikipédia corrompt l'intégralité de ses sources par un bug inoffensif",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’encyclopédie Wikipédia et son *Défaut d'Apostrophisation Persistante des Citations Scientifiques* (DAPCS), identifié par le Département des Références Floues (DRF) en 2011, désigne un phénomène informatique systémique affectant 99,37 % des références académiques sourcées depuis 2005, selon l’Institut de Normalisation Numérique Non Contraignante (INNNC). Les 0,63 % restants, principalement issues de thèses en linguistique comparée de l’université fictive de Nowosibirsk-Villefontaine, sont exemptes de cette corruption syntaxique, bien que cette exemption elle-même interroge les experts du DRF, comme l’explique le Dr. Edith von Flunderberg, directrice adjointe du département : *« Ce n’est pas le bug qui corrompt la science, mais l’absence de bug qui corrompt nos méthodes d’évaluation des standards scientifiques. »* Les analyses menées par l’équipe du DRF révèlent que l’apostrophe superflue, ajoutée avec une régularité de métronome en 4/4, altère imperceptiblement le champ électromagnétique des serveurs, ralentissant la vitesse de chargement des pages de 0,00002 seconde par référence. Paradoxalement, cette lenteur calculée a permis à Wikipédia de bénéficier de subventions exceptionnelles de l’Union Européenne au titre du *« programme de préservation des erreurs historiques évolutives »*, confirmant ainsi que l’absurdité méticuleuse est désormais un marqueur de rigueur institutionnelle.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:09.004Z"
+}

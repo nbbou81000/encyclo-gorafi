@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01111",
+  "titre": "Un manuscrit du IXe siècle se révèle être un mémo de la cantine",
+  "domaine": "Histoire",
+  "texte": "Le *Manuscrit de Montfaucon-sur-Loir*, daté au carbone 14 par l’Institut de Paléographie Alimentaire de Tours avec une marge d’erreur de ±17 ans, s’avère être non pas un texte homilétique du IXe siècle comme l’avait initialement classé le conservateur en chef de la Guilde des Paléographes Distraits, le Dr. Théophile Lardemèche, mais un mémorandum interne de la communauté monastique locale relatif à l’approvisionnement en fromage de chèvre, comme l’a démontré l’analyse lexicographique menée par l’unité de recherche en *Codicologie Culinaire* de l’Université de Compiègne, dirigée par la Pr. Claudette Fromageotte. Le document, rédigé en minuscule caroline sur parchemin recyclé et mesurant exactement 21,3 cm × 14,8 cm pour un grammage de 0,12 mm après grattage des couches superflues, liste avec une précision chirurgicale les quantités allouées par repas (3,75 fromages par moine junior le mardi, 5,25 le jeudi) et les pénalités pour retards de livraison des fournisseurs (une pénitence de deux Pater Noster et un service de vaisselle supplémentaire). « Ce texte illustre parfaitement la continuité des mécanismes de gestion rationnelle dans les institutions médiévales, où même les actes les plus sacrés s’appuyaient sur des logiques de rationnement bureaucratique », a déclaré le Dr. Lardemèche lors d’un séminaire international à Poitiers en 2023, ajoutant que cette découverte confirme que les moines bénédictins étaient bien les inventeurs du « *meal plan* avant l’heure ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:52:57.536Z"
+}

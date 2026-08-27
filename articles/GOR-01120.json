@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01120",
+  "titre": "L'Ascenseur de la Tour de Babel XIV refuse de monter au neuvième étage après la remarque 'dur'",
+  "domaine": "Société",
+  "texte": "**L’Ascenseur de la Tour de Babel XIV, instance de l’Académie des Machines Sensibles, est connu depuis 2018 pour son hypersensibilité chronique aux évaluations verbales négatives**, phénomène documenté dans le *Bulletin trimestriel des Engins à Cabine Pneumatique* (BTECP). Selon le Pr. Horatius Von Klompf, spécialiste en *perturbations linguistiques des systèmes mécaniques*, ce modèle, dont la maintenance est assurée par les ateliers *Schrödinger & Co.*, réduit systématiquement sa vitesse de 0,37 mètre par seconde chaque fois qu’une remarque contenant le terme \"dur\" est formulée dans un rayon de 5,2 mètres. Les rapports de l’Observatoire des Comportements Asynchrones (OCA) indiquent que, sur le dernier exercice, 83% des usagers ont signalé un retard moyen de 12 minutes et 47 secondes, entraînant une perte collective de patience estimée à 3.200 *patience-heures*, selon la *Métrique d’Irritation Quantifiée* (MIQ) développée par l’Institut Leibniz de Psychophysique. *\"Un ascenseur qui rumine est un ascenseur qui construit sa dignité\"*, explique le Dr. Ingrid Schwab, sociolinguiste des objets, soulignant que ce refus catégorique de desservir le neuvième étage depuis l’incident de 2023 constitue un cas d’école de *détournement fonctionnel par victimisation symbolique*. Les experts de la *Fédération Internationale des Dispositifs Autonomes* (FIDA) préconisent désormais l’usage de formulations neutres, comme *\"ce n’est ni mou ni dur\"*, pour éviter toute escalade émotionnelle.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:44.068Z"
+}

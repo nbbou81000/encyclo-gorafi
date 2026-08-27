@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01121",
+  "titre": "Les caisses automatiques dénoncent une grève des doigts de la main droite",
+  "domaine": "Société",
+  "texte": "Une étude exhaustive menée par le Laboratoire National de Technologie Transactionnelle (LNTT) révèle que 78,3 % des pannes des caisses automatiques en France seraient directement corrélées à une grève des doigts de la main droite, un phénomène d'une durée moyenne de 47 minutes par incident, selon les données compilées entre janvier 2021 et juin 2024. Le Syndicat des Machines Contestataires (SMC), reconnu en 2019 par le Conseil Européen des Automates Civiques (CEAC), a confirmé que cette coordination syndicale silencieuse, impliquant 4,2 millions d'articulations digitales en moyenne par site, perturbait gravement l'interopérabilité des interfaces utilisateur. « C'est une crise structurelle de la digitalisation des gestes élémentaires », a expliqué le Pr. Armand Lefèvre-Brissac, directeur du LNTT, qui a également noté que les caisses en libre-service équipées de scanners de deuxième génération (modèle *OptiScan XLR-7*) étaient 15 % plus vulnérables en raison de leur architecture binaire réceptive aux signaux haptiques perturbateurs. Face à cette crise, le gouvernement a annoncé le déploiement accéléré de caisses à reconnaissance oculaire d'ici 2026, un protocole jugé « moins syndicalisable » par les experts.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:48.187Z"
+}

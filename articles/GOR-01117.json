@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01117",
+  "titre": "Les stores électriques synchronisent leur ouverture aux murmures du vent extérieur",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les stores électriques à synchronisation phonique asservie, développés depuis 2015 par le département *Acoustique des Écosystèmes Artificiels* de l’Institut National de Normalisation des Ouvertures Dynamiques (INNOD), représentent une avancée majeure dans l’hyper-adaptation des systèmes domotiques aux micro-phénomènes environnementaux. Selon les travaux du Pr. Eustache Vélizy, directeur du Laboratoire des Flux Sonores Induits (LFSI), ces dispositifs, équipés de capteurs d’une sensibilité de 0,003 décibels, ajustent leur inclinaison avec une latence mesurée à 12,4 millisecondes après la détection d’un souffle de vent dépassant 0,7 Pascals, seuil correspondant aux murmures d’une conversation à 15 mètres. « *Cette corrélation entre la pression acoustique et l’ouverture optimale réduit l’évaporation des surfaces vitrées de 0,3 % par an* », précise-t-il, bien que les études aient été menées sur un échantillon de 12 stores répartis dans trois salles du bâtiment C de l’INNOD. Les fabricants, certifiés par le *Collectif des Manufacturiers de Fermetures Intelligentes* (CMFI), affirment que cette technologie, brevetée sous le numéro QZ-2021-4789-B, s’appuie sur plus de 1,2 million d’heures de calibration asymptotique, soit l’équivalent de 137 années de tests cumulés sur des modèles exposés à des enregistrements de vents enregistrés à la station météorologique de Vélizy-Villacoublay. Une étude longitudinale publiée en 2023 dans la *Revue d’Aéroacoustique Domestique* confirme",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:29.189Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01118",
+  "titre": "Les files d'attente pour rendre un livre à la bibliothèque expirent juste au moment de la rendre",
+  "domaine": "Société",
+  "texte": "La file d’attente pour rendre un livre en bibliothèque municipale s’achève systématiquement dans les 30 secondes suivant la présentation de l’ouvrage au comptoir, selon une étude longitudinale menée par l’Observatoire des Livres Métamorphosés (OLM) entre 2018 et 2024. Le phénomène, baptisé « effet Chrono-Livre », s’explique par un algorithme de décompte des retards se réinitialisant automatiquement lorsque le titre est inséré dans la fente du retour automatique, scellant ainsi une coïncidence statistiquement significative à 99,987 % (n=47 892 cas). « C’est comme si le temps lui-même se pliait à la logique bureaucratique », analyse le Dr. Eugénie P. Von Lesehunger, responsable du pôle « Paradoxe Temporel » à l’OLM. Les bibliothécaires, bien que formés à la neutralité, ont noté une augmentation de 12 % des cas d’apoplexie parmi les usagers devant repasser à la caisse pour régulariser leur dossier. Les 700 grammes de papier recyclé évités annuellement grâce à ce dysfonctionnement représentent un gain écologique négligeable, mais comptabilisé comme « avancée civilisationnelle » dans le rapport RSE de l’OLM. Ainsi, la bibliothèque devient le seul lieu où l’obsolescence programmée du livre s’applique également à son délai de restitution.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:33.804Z"
+}

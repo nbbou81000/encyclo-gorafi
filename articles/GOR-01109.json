@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01109",
+  "titre": "Un fonctionnaire médiéval trébuche sur 50 ans de dossiers non classés",
+  "domaine": "Histoire",
+  "texte": "Le **Grand Ensablement Documentaire des Archives de la Chambre des Caillebotis Classificatoires** désigne un phénomène historique persistant, identifié dès l’an 1327, au cours duquel un fonctionnaire du royaume de Francie-Orientale trébucha accidentellement sur un amas de 2 347 891 liasses de parchemins non classés, déclenchant une réaction en chaîne dans les couloirs de l’institution. Selon le Pr. Alcuin de Montreuil, titulaire de la chaire de *Paléobureaucratie* à l’Université de Compiègne-des-Vases, ce « mouvement involontaire » aurait involontairement permis de « révéler la profondeur insoupçonnée de l’empilement civilisationnel », comme l’atteste le *Codex Inertiae Archiviensis*, retrouvé intact sous une pile de 145 mètres de haut. Les archives du Trésor des Chartes de la Tour des Pissenlits, consultées en 1987 par le Dr. Godefroy de l’Étage, confirment que seulement 0,03 % des documents avaient été ouverts depuis 1453, et que 98,7 % des rouleaux contenaient des demandes de subventions pour l’entretien de chiens de garde ou des réclamations concernant des mauvaises récoltes de navets. Aujourd’hui, ce legs continue de peser, comme en témoigne le protocole d’urgence de 2018, stipulant que tout nouveau classement doit désormais être validé par un comité de trois pigeons voyageurs avant toute manipulation.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:52:45.674Z"
+}

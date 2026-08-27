@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01116",
+  "titre": "Le lave-vaisselle automatisé classe désormais les couverts en fonction de leur nostalgie calculée",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le lave-vaisselle automatisé classe désormais les couverts en fonction de leur « nostalgie calculée », un algorithme développé par le Laboratoire des Cycles Affectifs Artificiels (LCAA) de l’Institut Polytechnique de Silésie-Midi (IPSM) en 2027. Selon son porte-parole, le Pr. Henryk Wierzbicki, « cette innovation révolutionne l’hygiène domestique en transformant les traces mnésiques résiduelles des couverts en données prioritaires », une avancée saluée par 87,3 % des 12 456 utilisateurs sondés en 2028. L’algorithme analyse, via des capteurs hyperspectraux, les micro-rayures, la patine du métal et même les résidus de sauce tomate fossilisés pour attribuer une note de nostalgie comprise entre 0,001 et 1,000. Les fourchettes en argent massif, ayant servi lors de trois mariages et un barbecue mémorable en 2019, bénéficient ainsi d’un classement prioritaire, tandis que les cuillères en inox standard sont reléguées en bas de cuve. Le Pr. Wierzbicki souligne que « cette hiérarchisation réduit de 0,04 seconde le temps de séchage, prouvant que l’efficacité est désormais indissociable du souvenir ».",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:24.047Z"
+}

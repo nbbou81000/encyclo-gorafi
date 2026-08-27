@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01110",
+  "titre": "La Grande Chancellerie invente le tampon 'À relire dans 265 ans'",
+  "domaine": "Histoire",
+  "texte": "La Grande Chancellerie du Royaume de Valmérie impose depuis le décret n°2023-AR265, daté du 17 juin 2023, l’utilisation systématique du tampon « À relire dans 265 ans » sur tout document administratif répondant aux critères de la classe « III-AT » (Archives Temporelles Administratives), définis par l’Institut des Temporalités Administratives Tardives (ITAT). Selon le professeur Alistair D’Olbrennan, directeur du département « Retard Institutionnel » à l’ITAT, ce système permet de « concilier la rigueur archivistique avec l’impératif de transparence différée », précisant que « 265 ans représentent la moyenne mobile des délais de réponse observés entre 1757 et 2022, arrondie à l’année bissextile la plus proche ». Les archives concernées, estimées à 34 789 dossiers par an, seront relues à partir de l’an 2288, avec une marge d’erreur de ±27 ans. Le protocole prévoit une réévaluation décennale par le Collège des Chrono-Juristes, bien que le premier rapport ne doive être rendu qu’en 2634. Les citoyens peuvent, depuis 2024, déposer un recours via le formulaire « REL-2024-X32 », dont l’instruction débutera en 2297.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:52:51.845Z"
+}

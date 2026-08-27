@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01114",
+  "titre": "Un timbre-poste scanne désormais ses propres fibres avant décollage",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le timbre-poste auto-scannant, développé conjointement par l’Institut National des Cachets Sismiques et le Laboratoire d’Analyse Fibrillaire de Limoges, représente une avancée majeure dans le domaine de la philatélie intelligente, officiellement reconnue par l’Académie des Sciences Postales lors de sa séance plénière du 12 mars 2023. Selon le Pr. Émile Durois-Vilain, directeur du programme, ce dispositif utilise un spectrographe à résonance quantique miniaturisé, capable d’analyser en temps réel les 0,03478 grammes de cellulose constitutive du timbre avec une marge d’erreur de ±0,00001 % sur la composition isotopique des fibres de coton. Les tests en chambre anéchoïque ont révélé que 87,3 % des timbres testés présentaient des microfractures indétectables à l’œil nu, justifiant ainsi l’activation automatique de leur système de neutralisation par élimination photonique avant toute application sur un pli. Comme l’a souligné le Pr. Durois-Vilain, *« un timbre qui scanne sa propre intégrité avant de s’engager sur une enveloppe est la preuve ultime que la poste moderne ne laisse rien au hasard, pas même les 1,2 milligrammes de colle de blé initialement prévus pour une durée de vie de 5 ans »*. Cette innovation a d’ores et déjà permis de réduire de 0,004 % l’incidence des timbres illisibles lors des contrôles douaniers transcontinentaux.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:53:14.146Z"
+}
