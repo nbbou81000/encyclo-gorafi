@@ -9184,5 +9184,264 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00702",
+    "titre": "La bataille de Fontainebleau s'est perdue à cause d'un sandwich oublié",
+    "domaine": "Histoire",
+    "objet_moquerie": "une pause déjeuner prolongée lors d'une manœuvre militaire stratégique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Retards Culinaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00703",
+    "titre": "La chute du mur de Berlin a été causée par un badigeon écaillé",
+    "domaine": "Histoire",
+    "objet_moquerie": "un décollement de peinture sur un mur symbolique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Picturalistes du Mur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00704",
+    "titre": "Les Croisades se sont terminées par un clou de porte mal serré",
+    "domaine": "Histoire",
+    "objet_moquerie": "une porte de forteresse bloquée pendant une siege historique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil des Portails Inassouvis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00705",
+    "titre": "Le traité de Versailles a été signé dans un bureau fax défectueux",
+    "domaine": "Histoire",
+    "objet_moquerie": "une panne technique mineure pendant une négociation diplomatique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Déadministrations Faxistes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00706",
+    "titre": "La révolution industrielle n'a pas eu lieu à cause d'un étau grippé",
+    "domaine": "Histoire",
+    "objet_moquerie": "un outil industriel en panne empêchant la production générale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": " découverte scientifique",
+    "institutions_fictives": [
+      "L'Observatoire des Outils Récalcitrants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00707",
+    "titre": "La grande panne des réveils connectés le jour du changement d’heure",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les réveils connectés oubliant de se synchroniser avec le passage à l’heure d’hiver ou d’été",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre Officiel de la Synchronisation Horlogère (COSH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00708",
+    "titre": "L’épidémie de faux retours en arrière des historiques de navigation",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les navigateurs affichant des historiques de pages ouvertes depuis des mois comme si c’était hier",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Temporalités Numériques (INTN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00709",
+    "titre": "Le bug des imprimantes toners détectant une compression excessive de l’air",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les cartouches de toner signalant une erreur « Pression chromatique anormale » suite à un éternuement près de l’appareil",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire de Micro-Climatisation Toner (LMCT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00710",
+    "titre": "L’insurrection des chargeurs USB-C refusant les cordons non labellisés",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les chargeurs certifiés USB-C se mettant en grève après détection de cordons non estampillés par des marques fictives",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Câbles Officiellement Approuvés (SCOA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00711",
+    "titre": "La mutinerie des capteurs de luminosité lors des éclipses partielles",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les luminaires automatiques déclenchant un cycle « nuit » en plein jour lors d’une éclipse de 10%",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Unités Lumineuses Instables (OULI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00712",
+    "titre": "Le protocole SOS des horaires de bus quand il pleut",
+    "domaine": "Société",
+    "objet_moquerie": "l'affichage défaillant des horaires en temps réel dans un arrêt de bus",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Fausses Promesses Municipales",
+      "Syndicat des Usagers Chroniquement Égarés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00713",
+    "titre": "L'expérience traumatisante du 'juste à côté' en bibliothèque",
+    "domaine": "Société",
+    "objet_moquerie": "la quête impossible pour trouver un livre rendu qu'on avait à portée de main",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bibliothèque Universelle Instantément Privée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00714",
+    "titre": "La guerre des fourchettes dans les selfs d'autoroute : phase 3",
+    "domaine": "Société",
+    "objet_moquerie": "la compétition pour s'emparer de la fourchette intacte dans les plateaux en plastique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Société Anonyme des Couverts Intacts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00715",
+    "titre": "Le scandale des stores de bureau qui ne s'ouvrent que sous UV douteux",
+    "domaine": "Société",
+    "objet_moquerie": "les stores électriques bloqués par un angle solaire précis",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Luminosités Industrielles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00716",
+    "titre": "Le jour où l'ascenseur a refusé de monter seul par solidarité syndicale",
+    "domaine": "Société",
+    "objet_moquerie": "le blocage des ascenseurs en grève auto-organisée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fédération Syndicale des Montées en Autonomie Suspendue"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00717",
+    "titre": "La cherté des chaussettes oubliées dans les vestiaires d'entreprises (2023)",
+    "domaine": "Économie",
+    "objet_moquerie": "la valorisation monétaire artificielle des chaussettes uniques abandonnées dans les vestiaires des open-spaces",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Accessoires Professionnels Abandonnés (ONPAA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00718",
+    "titre": "Spéculation sur les tickets de cantine périmés dans les hôtels d'affaires",
+    "domaine": "Économie",
+    "objet_moquerie": "l'achat-revente de tickets de restauration collective périmés pour des repas fantômes",
+    "mecanisme_comique": "finance algorithmique qui exploite des artefacts bureaucratiques",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Repas Obsolètes (BRO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00719",
+    "titre": "L'effondrement du marché des parapluies de bureau après leur interdiction numérique",
+    "domaine": "Économie",
+    "objet_moquerie": "la chute brutale de la valeur des parapluies standard après que les entreprises aient imposé des applications météo en temps réel",
+    "mecanisme_comique": "conflit disproportionné entre innovation et objets irréductiblement analogiques",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Consortium des Objets Analogs Désuets (COAD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00720",
+    "titre": "La bulle immobilière des boxes de stockage de documents fiscaux illisibles",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur les espaces de stockage pour archives fiscales devenues indéchiffrables après une simple mise à jour logicielle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Fonds de Garantie des Données Insaisissables (FGDI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00721",
+    "titre": "Le crash des prix des autocollants 'COVID' après leur déclassement sanitaire",
+    "domaine": "Économie",
+    "objet_moquerie": "la dépréciation immédiate des stocks d'autocollants signalant des zones à risque sanitaire désormais obsolètes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
