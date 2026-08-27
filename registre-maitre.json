@@ -8212,5 +8212,331 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00627",
+    "titre": "La grande épidémie de chatouilles chez les chirurgiens lors des heures sup",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'appréhension des médecins à cause du picotement des gants chirurgicaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Maux Inutiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00628",
+    "titre": "Découverte des effets dévastateurs du coussin de bureau trop gonflé sur la posture",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la posture contournée des employés assis sur un coussin ergonomique inconfortable",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Institut de Pathologie Posturale Ludique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00629",
+    "titre": "Les nuits hachées par le bourdonnement d'un grille-pain en veille",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'impossibilité de dormir à cause du bruit parasite d'une machine inutilisée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Étude des Troubles Sonores Nocturnes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00630",
+    "titre": "Le syndrome du stylo qui fuit dans la poche arrière",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les taches d'encre imaginées sur les vêtements après avoir simplement tenu un stylo",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Guilde des Taches Existentielles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00631",
+    "titre": "L'asphyxie déclarée après avoir inspiré trop vite un parfum d'ambiance bon marché",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la panique induite par une odeur artificielle de cannelle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Laboratoires du Souffle Furtif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00632",
+    "titre": "Les buts en football maintenant équipés de parachutistes de réserve",
+    "domaine": "Sports",
+    "objet_moquerie": "Les cages de gardien de but intégrant des parachutistes professionnels pour 'améliorer la réception des ballons'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Syndicat des Poulplumes Gonflables (SPG)",
+      "L'Institut National du Jeu Aérien (INJA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00633",
+    "titre": "Les raquettes de tennis devenues contagieuses après le match",
+    "domaine": "Sports",
+    "objet_moquerie": "Les joueurs contaminés par une 'épidémie de rotativité' après avoir serré la main de leur adversaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Vibrations Parasitaires (LVP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00634",
+    "titre": "Le marathon de Paris transformé en course de relais caritatif... de plantes vertes",
+    "domaine": "Sports",
+    "objet_moquerie": "Chaque kilomètre du parcours imposant de transporter une plante d'intérieur la plus vite possible, sans la faire mourir",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Club des Zérons en Pot (CZP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00635",
+    "titre": "Les juges de natation synchronisée désormais équipés de feux de détresse",
+    "domaine": "Sports",
+    "objet_moquerie": "Les arbitres utilisant des gyrophares pour 'suivre les mouvements' des athlètes, transformant les bassins en fiumi delle feste",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Autorité des Gestes Chlorés (AGC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00636",
+    "titre": "Les mollets des coureurs cyclistes maintenant brevetés comme 'capteurs solaires humains'",
+    "domaine": "Sports",
+    "objet_moquerie": "Les jambes des cyclistes transformées en surfaces solaires pour alimenter les vélos électriques en direct pendant les ascensions",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Optimisation des Énergies Musculaires (COEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00637",
+    "titre": "Le mystère des radars automatiques qui fluctuent au rythme des soldes Carrefour",
+    "domaine": "Géographie",
+    "objet_moquerie": "lǝ radars automatiques d'une nationale du nord qui enregistrent les excès de vitesse uniquement pendant les rares périodes où les supermarchés annoncent des réductions",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat National des Panneaux sonores (SNPS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00638",
+    "titre": "La carte Michelin éditée en 3D pour capteurs de comptage de pas défaillants",
+    "domaine": "Géographie",
+    "objet_moquerie": "la version numérique des cartes routières qui classe les sentiers comme 'très fréquentés' ou 'peu empruntés' en fonction des bugs de mesure des bracelets connectés des randonneurs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut Géodesique et Connecté (IGC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00639",
+    "titre": "La mer Morte désormais presque aussi potable qu’une bouteille oubliée dans un bus",
+    "domaine": "Géographie",
+    "objet_moquerie": "la mer Morte qui affiche à présent un taux de salinité si volatil qu’il épouse les fluctuations des bouteilles d’eau abandonnées dans les transports en commun",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Intempéries Météoropathiques (LIM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00640",
+    "titre": "Un tunnel alpine aménagé en salle de sieste collective pour poids lourds",
+    "domaine": "Géographie",
+    "objet_moquerie": "le tunnel du Mont-Blanc reconverti en espace de repos officiel pour camions, avec des boxes éclairés en bleu et un code vestimentaire (combinaisons néoprène en hiver, shorts permission en été)",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fondation Somno-Routière (FSR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00641",
+    "titre": "Les escaliers roulants du métro parisien fonctionnent à l’envers les jours de manifestation",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’effondrement partiel de Rem Koolhaas : l’architecte a conçu un nouvel escalier mécanique qui, par solidarité avec les cortèges, descend toujours quand il est censé monter",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Mouvements Pendulaires (BMP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00642",
+    "titre": "Le drame du bout de papier oublié dans la poche d’un manteau pendant une thèse de 5h",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "une simple étiquette de prix de supermarché réapparaissant après des années de silence",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Institut National de la Folie Procédurale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00643",
+    "titre": "La crise existentielle du chargeur USB perdu dans un tiroir entre deux séminaires",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’angoisse générée par un chargeur toujours maladroitement coincé derrière des objets inutiles",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Câbles Perdus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00644",
+    "titre": "La théorie des trois tasses : quand boire devient une métaphysique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le rituel des pauses café qui s’allongent jusqu’à devenir des discussions existentielles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Collège des Théoriciens des Fluides Torrides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00645",
+    "titre": "Le scandale des post-it collés à la mauvaise page des manuscrits",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’errance des penseurs due à des notes auto-collantes mal alignées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Académie des Pensées Désorientées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00646",
+    "titre": "L’affaire du clavier dont les touches F et J se disputent la primauté",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le conflit récurrent entre deux touches d’un clavier lors d’un travail philosophique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité de Bureautique Consciencieuse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00647",
+    "titre": "L’adoption massive du bloc-notes effaçable à sec dans les mairies malgré l’impossibilité de tracer les actes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le bloc-notes effaçable à sec comme symbole de l’administration moderne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale du Rayasable Administratif (DGRA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00648",
+    "titre": "La guerre des ramasse-miettes au Sénat après la suppression du goûter parlementaire",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la fin du goûter à 16h dans les institutions",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Quémandeurs Intrépides (FQI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00649",
+    "titre": "Les nouvelles restrictions sur l’usage du surligneur fluorescent dans les dossiers confidentiels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le surligneur comme outil de transparence administrative douteuse",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Couleurs Officieuses (BCO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00650",
+    "titre": "L’imposition d’un tourne-page automatique pour les rapports trop épais en mairie",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la mécanisation d’un geste bureaucratique inutile",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commission d’Optimalisation des Gestes Communs (COGC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00651",
+    "titre": "Le scandale des trombones dépareillés dans les services publics: une crise nationale",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l’outrage causé par des trombones qui ne s’assemblent pas",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Agrafes Fraternelles (OAF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
