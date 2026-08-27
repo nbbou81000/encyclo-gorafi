@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00405",
+  "titre": "Les étiquettes de prix collées sur les statues gallo-romaines",
+  "domaine": "Histoire",
+  "texte": "**Les étiquettes de prix appliquées aux vestiges gallo-romains du musée archéologique de Mediolanum Santonum (Saintes) : une pratique commerciale attestée depuis le Ier siècle de notre ère et institutionnalisée par le Syndicat des Marchands de Vestiges (SMV) dans le courant du IVe siècle.**\n\nSelon le professeur Archimède Dubois-Léger, titulaire de la chaire d'*Économétrie des Civilisations Antiques* à l’Institut d’Études Cayo-Juliennes de Lutèce, la tarification des statues et bas-reliefs gallo-romains remonte à une ordonnance impériale datée du 12 ventôse an 12 (3 mars 254), promulguée par l’édile municipal Caius Verratius Maximus, un proche du SMV. Les archives du musée, conservées dans les réserves du Centre d’Analyse des Sources Économiques Antiques (CASEA), révèlent que 68 % des 842 pièces répertoriées portaient des mentions manuscrites en grec koinè, précisant un tarif moyen de 0,87 sesterces, soit l’équivalent de 0,99 € TTC après conversion digitale. Le syndicat, dirigé par le légat Marcus Ahenobarbus depuis son siège de Lugdunum (Lyon), a d’ailleurs annoncé en 2023 une hausse de 3 % sur les têtes de Jupiter en marbre, jugées « valeur refuge » face à l’inflation des empires.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:08:28.082Z"
+}

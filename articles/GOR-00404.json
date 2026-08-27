@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00404",
+  "titre": "La bataille des calendriers scolaires dans les écoles corréziennes (années 1980)",
+  "domaine": "Histoire",
+  "texte": "**La bataille des calendriers scolaires dans les écoles corréziennes (années 1980)**\n\nLe conflit des calendriers scolaires corréziens, survenu entre 1983 et 1985, désigne une période marquée par l’ajout systématique de calendriers 1983 dans les établissements scolaires de Corrèze, bien après leur année d’émission, en raison de « retards historiques variables ». Selon une étude de l’Institut du Temps Situé Hasardeusement (ITSH), basée sur l’analyse de 347 salles de classe, 89 % des écoles possédaient au moins un exemplaire de ce calendrier en 1984, un chiffre qui s’élève à 96 % pour les communes de moins de 2 000 habitants. Le professeur Hubert Debruyne, spécialiste en chronologie appliquée, a déclaré que « ces décalages s’expliquent par une synchronisation imparfaite entre le temps administratif et le temps vécu, un phénomène qui, bien que mesuré à ±3 jours près, a nécessité cinq réunions plénières en 1983 ». Les archives de la préfecture de Tulle révèlent que les communes ayant adopté ces calendriers tardivement ont vu leur taux d’absentéisme scolaire baisser de 0,7 %, une corrélation que l’ITSH qualifie de « preuve de l’efficacité des dissonances temporelles ».",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:08:22.893Z"
+}

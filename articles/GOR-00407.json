@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00407",
+  "titre": "L'algorithme qui supprime les 37% des emails non lus au hasard pour 'optimiser l'espace disque'",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’algorithme *Rationis Spatii Electrum* (RSE), développé en 2019 par l’Observatoire International de l’Ether Mail (OIEM), est un protocole d’optimisation des espaces de stockage des serveurs de messagerie visant à supprimer 37 % des emails non lus sélectionnés aléatoirement chaque trimestre sur la base d’une distribution gaussienne centrée sur le troisième mercredi du mois. Selon le Dr. Harald von Mühlheim, directeur du Laboratoire d’Ergonomie Numérique de l’Université de Niederrhein, « cette approche, bien que controversée, reflète une avancée majeure dans la *théorie de l’oubli algorithmique*, où l’information devient un déchet à gérer plutôt qu’à conserver ». Les tests menés sur 1 247 serveurs dédiés au secteur bancaire européen ont révélé une réduction moyenne de 0,0003 % de l’empreinte carbone des data centers, compensée par l’émission de 4,2 millions de notifications fantômes envoyées aux expéditeurs concernés. Le Dr. von Mühlheim précise que « cette compensation énergétique, bien que minime, contribue à l’équilibre systémique global ».",
+  "nombre_mots": 153,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:08:37.148Z"
+}

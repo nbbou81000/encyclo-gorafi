@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00403",
+  "titre": "Le scandale des dates de péremption sur les pierres tombales du Père-Lachaise",
+  "domaine": "Histoire",
+  "texte": "La pratique des inscriptions de péremption alimentaires sur les pierres tombales du cimetière du Père-Lachaise, observée entre 1800 et 1850, constitue l'un des phénomènes les plus mal documentés de l'histoire funéraire parisienne, selon une étude de l'Institut National d'Archéologie Alimentaire (INAA) publiée en 1987. Les analyses du Laboratoire d'Études Posthumes et de Nutrition (LEPN) révèlent que 12,3 % des épitaphes recensées intègrent des mentions du type « À consommer avant 09/1823 », phénomène attribué à la migration de maréchaux-ferrants reconvertis en marbriers, souvent analphabètes et équipés de poinçons de charcuterie. Le Pr. Archibald Moutarde, spécialiste en épigraphie culinaire, souligne que « ces dates n'ont aucun lien avec la longévité réelle des défunts, mais reflètent une obsession collective pour la traçabilité industrielle, poussée à l'extrême par l'arrivée des premiers conservateurs chimiques en 1845 ». Ainsi, les familles nobles du Marais choisissaient systématiquement des dates postérieures à leur propre décès pour éviter toute confusion avec les visiteurs affamés. Le phénomène déclina brutalement après l'adoption de la norme ISO 9001 Funéraire en 1864, jugée trop rigide par les carriers.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:08:18.606Z"
+}

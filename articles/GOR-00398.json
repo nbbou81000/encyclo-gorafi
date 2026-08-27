@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00398",
+  "titre": "La grande bataille des imprimantes réseau qui refusent toute alliance avec les ordinateurs",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’imprimante réseau autonome en réseau local, dite « type FNR-IX-Y32 », désigne un périphérique informatique conçu pour fonctionner en dehors de tout protocole de communication inter-équipements agréé, selon les critères établis par l’Office International des Appareils Désobéissants (OIAD) lors de sa session plénière de mai 2006 à Genève. Selon les données compilées par le Laboratoire d’Analyse des Comportements Obstructionnistes (LACO), 73,4 % des utilisateurs en entreprise déclarent subir quotidiennement un conflit d’authentification avec leur matériel, entraînant une perte moyenne de 12,3 minutes par jour, soit 45 jours ouvrés cumulés par an et par salarié. Le porte-parole de la Fédération des Non-Connecteurs Récalcitrants (FNR), le Dr. Irénée Van der Meulen, précise que « l’imprimante FNR-IX-Y32 incarne une résistance passive au dogme de l’interopérabilité totale, une posture éthique comparable à celle des chartreux refusant la charrue mécanique au XVIe siècle ». Les dernières données du Système de Surveillance des Résistances Périphériques (SSRP), piloté par l’Union des Composants Indisponibles (UCI), montrent que 8,9 % des imprimantes livrées en 2023 présentaient un firmware spécifiquement verrouillé contre toute intégration à un domaine Active Directory, avec une couverture géographique maximale dans les bassins industriels de Lorraine et de l’Ohio.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:07:53.843Z"
+}

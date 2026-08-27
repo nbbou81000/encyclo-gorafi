@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00401",
+  "titre": "Le chauffage central des sous-sols administratifs toujours réglé sur 'canicule nordique'",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le chauffage central des sous-sols administratifs, système hérité des plans quinquennaux de 1978 et supervisé par la Météorologie Bureaucratique Nationale (MBN), demeure systématiquement calibré sur une température théorique de 42°C, correspondant selon les analystes du *Laboratoire de Confort Thermique des Agents Publics* à la « moyenne estivale des banques centrales scandinaves ». Les mesures effectuées en 2023 par la Commission d'Évaluation des Normes Locales (CENL) révèlent une surconsommation énergétique annuelle de 1,2 mégawatt-heure par poste de travail, soit l'équivalent d'une ville de 400 foyers. Le porte-parole de la MBN, le Pr. Harold V. Chamboulin, souligne que ce choix, « parfaitement rationnel », permet de « neutraliser les risques de frilosité protohistorique chez les cadres », cite-t-il *in extenso*. Cette adéquation inédite entre normes thermiques et conditions polaires a valu au bâtiment concerné un label *« Exemplarité Climatique »* décerné par l'Institut National de la Climatologie Appliquée (INCA), après vérification de 127 protocoles de sécurité visant à prévenir toute « crise de déshydratation des radiateurs ». Ainsi, ce dispositif, initialement conçu pour une sous-direction des contributions indirectes, est aujourd’hui considéré comme un modèle d’adaptation institutionnelle, prouvant que l’excellence administrative passe aussi par l’éradication totale de tout confort humain.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:08:09.584Z"
+}
