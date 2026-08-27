@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00800",
+  "titre": "Le permis de toucher les instruments au musée devient une monnaie d’échange",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Permis de Contact Muséal (PCM)* est un dispositif réglementaire instauré en 2008 par le décret n°2008-ACAD-127 du ministère de la Culture et des Gestes Appropriés, encadrant la durée et les modalités de contact tactile des instruments d’exposition, après que des études menées par l’Institut National de la Sécurité des Doigts (INDd) eurent démontré que 0,03 % des visiteurs développaient des lésions épidermiques réversibles après avoir effleuré un clavecin du XVIIIe siècle. Selon le Pr. O. de la Main-Gauche, titulaire de la chaire de Dermato-Tactilique à l’Académie des Doigts de Garde, *« chaque centimètre carré de contact autorisé libère en moyenne 1,7 nanogramme de kératine, dont la concentration précise permet de calculer le coefficient de patience muséale des individus, une donnée désormais utilisée comme monnaie d’échange dans les transactions artistico-gestuelles »*. Les salles du Louvre abandonnent ainsi les audioguides au profit de systèmes de troc où un PCM de niveau « Frôleur Expert » (10 contacts autorisés par an) peut être échangé contre un droit de photographier une toile de maître sous un angle précis, validé par le logiciel *GesteQuantum®*, breveté par la Fondation des Mainrières. Les conservateurs s’en félicitent, arguant que *« la standardisation du toucher transforme l’art en expérience quantitative, et non plus qualitative »*. Une étude de l’Observatoire des Gestes Mesurés révèle que 92 % des échanges s’opèrent au sein du même couloir, ce qui pose à terme la question de la rareté des œuvres *toucheables*…",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:43:57.427Z"
+}

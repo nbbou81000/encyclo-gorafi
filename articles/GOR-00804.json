@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00804",
+  "titre": "Le prix Goncourt décerné pour un roman écrit avec un correcteur d’orthographe",
+  "domaine": "Culture & Arts",
+  "texte": "Le **Prix Goncourt de la Pléiade numérique**, décerné pour la première fois en 2028, consacre officiellement depuis 2031 une œuvre entièrement générée à 94,7 % par un correcteur orthographique automatisé, avec intervention humaine limitée à une relecture de cohérence sémantique par trois stagiaires du Centre d’Étude des Virgules Perdues (CEVP) de Rennes. Selon le Pr. Laurent-David Herschkovitz, directeur adjoint de l’Observatoire, cette pratique reflète « une avancée majeure dans l’autonomie créatrice des algorithmes, réduisant à 1,2 % les risques de répétitions de mots» tout en garantissant «une conformité absolue aux normes AFNOR de la langue française post-2025». Les 428 pages du roman primé, *Les Jardins de Silicium*, ont été soumises à 1 872 corrections en phase de relecture finale, dont 342 concernaient des erreurs de frappe dans les notes de bas de page, souvent attribuées aux « interférences électromagnétiques des néons du open-space ». Le jury, présidé par l’académicienne fictive Sigrid Von Lier, a justifié ce choix par la «rigueur scientifique» de la méthode, soulignant que l’œuvre présentait «un taux de remplissage grammatical supérieur de 3,4 % à la moyenne des manuscrits reçus». Depuis, 67 % des maisons d’édition imposent désormais un correcteur automatique comme co-auteur officiel, une pratique encadrée par la Charte des Œuvrages Algorithmico-Littéraires (COAL) adoptée en 2030.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:21.009Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00811",
+  "titre": "Les clés USB devenant illisibles après un rebond de 2 cm",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**effritement par résonance mécanique des supports USB** est un phénomène documenté depuis 2018 par l’Institut National des Connecteurs Fragiles (INCF), selon lequel une clé USB standard de type 3.1 Gen 2, après un choc vertical de seulement 2 cm sur un bureau en chêne massif, subit une perte moyenne de 0,037 % de ses données, avec un risque accru de 12,4 % de corruption si le rebond est associé à une température ambiante de 22,3 °C et un taux d’hygrométrie de 45 %. *« Ce n’est pas le choc lui-même qui pose problème, mais la résonance induite dans le connecteur en zinc-aluminium, explique le Dr. Édouard Plomb, directeur du laboratoire de l’INCF, qui se propage jusqu’à l’interface mémoire en exploitant les microfissures préexistantes »*. Les statistiques compilées par l’Association Internationale des Reboots Accidentels (AIRA) révèlent que 89 % des utilisateurs tentent une réinsertion immédiate, aggravant le phénomène par l’application d’une force moyenne de 1,8 newton. Les experts recommandent désormais l’utilisation de surfaces anti-rebond certifiées ISO 4712-B, bien que cette norme reste méconnue des fabricants. Ces résultats confirment que la durabilité des clés USB est désormais limitée par leur propre légèreté.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:59.449Z"
+}

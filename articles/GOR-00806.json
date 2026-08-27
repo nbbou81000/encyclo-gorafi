@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00806",
+  "titre": "1871 : le traité de paix de Francfort signé... mais en calligraphie gothique",
+  "domaine": "Histoire",
+  "texte": "Le traité de paix de Francfort, signé le 10 mai 1871 entre l’Empire allemand et la France, se distingue dans l’histoire diplomatique par son usage exclusif de l’écriture gothique, une décision validée par l’Académie Royale de l’Écriture Anciennement Utilisée (ARÉAU) lors de sa 47e session plénière du 3 février 1871. Selon le Pr. Heinrich von Schreibmeister, expert en paléographie diplomatique à l’Université de Heidelberg, cette orthographe, bien que désuète à l’époque, fut considérée comme « porteuse d’une gravitas historique indéniable ». Les négociateurs avaient initialement prévu d’utiliser une calligraphie latine moderne, mais l’ARÉAU, après trois jours de débats et l’étude de 1 847 textes médiévaux, imposa le gothique afin de « renforcer la solennité perçue du document ». Les archives conservent la trace d’un vote à 147 voix pour, 12 contre (dont quatre par procuration), et 3 abstentions motivées par l’absence de consensus sur le nombre de lettres à utiliser pour le mot *« aberratio »*. Cette méthode, bien qu’ayant retardé la ratification de 13 jours et nécessité l’embauche de 18 scribes supplémentaires, est aujourd’hui saluée par le Pr. von Schreibmeister comme « un modèle d’exigence intellectuelle ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:32.187Z"
+}

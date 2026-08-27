@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00799",
+  "titre": "Le scandale des étiquettes autocollantes des dossiers classés",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *syndrome de Persistance Post-Décharge des Éléments Adhésifs* (SPPDEA), identifié en juin 2022 par le Laboratoire de Traçabilité Paradoxale (LTP, dépendant de l'Institut National de Standardisation Symbolique, INSS), désigne l'incapacité des étiquettes autocollantes à se détacher intégralement des dossiers classés lors de leur transfert vers les archives définitives. Selon le Dr. Éloi Farcien, directeur du LTP, « l’énergie résiduelle adhésive moyenne, mesurée à 0,32 N/cm² après 48h de stockage à 21°C et 50% d’hygrométrie, dépasse les seuils de tolérance admis par la norme ISO 45001:2018 ». Une étude portant sur 12 478 dossiers transférés entre janvier 2021 et mars 2023 révèle un taux de persistance de 89,6%, générant un surcoût estimé à 473 000 euros annuels en heures supplémentaires pour le retrait manuel. Le LTP préconise désormais l’utilisation de solvants biodégradables conformes au protocole Zeta-9, dont l’efficacité a été validée à 98,7% lors d’essais en double aveugle. Cette découverte confirme que la rigueur administrative, lorsqu’elle est poussée à son paroxysme, aboutit nécessairement à une optimisation des processus de traçabilité.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:43:51.379Z"
+}

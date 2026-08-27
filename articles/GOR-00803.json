@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00803",
+  "titre": "Les catalogues d’art deviennent illisibles à force de QR codes",
+  "domaine": "Culture & Arts",
+  "texte": "**Le Catalogue d’art contemporain en 2027 : une enquête sur la dyslexie induced par les QR codes**\n\nLe catalogue d’art contemporain est devenu, depuis 2023, un objet dyslexique grandeur nature, transformant la lecture en parcours du combattant numérique selon une étude publiée par le *Laboratoire de Sémiologie des Supports Obscurs* (LSSO) de l’Université de Hochstadt. Selon le Pr. Dr. Uwe Schlychten, expert en *\"ergonomie des supports hybrides\"*, un catalogue moyen contient désormais 37 QR codes répartis sur 128 pages, dont 68 % renvoient à des contenus multimédias inutiles (14 secondes de making-of, 3 panoramas à 360° tournés avec un smartphone grand public, et 12 interviews où le conservateur répète 3 fois la même phrase). *\"Cela représente une perte moyenne de 12 minutes par visiteur, soit l’équivalent de 4,3 siècles cumulés pour l’ensemble des musées européens en 2026\"*, précise le rapport. Le Front des Pages Blanches dénonce un *\"syndrome de la page blanche augmentée\"*, où l’artificiel vient remplacer le tangible, réduisant l’œuvre à une *\"expérience usuário-dépendante\"*. Ironiquement, cette évolution coïncide avec une baisse de 23 % des ventes de catalogues papier, les collectionneurs préférant désormais scanner une image floue sur leur tablette plutôt que de feuilleter un livre. Le phénomène s’aggrave avec l’introduction, en 2025, du *\"QR code dynamique\"*, qui change de contenu toutes les 72 heures, rendant toute référence bibliographique obsolète en moins d’une semaine. La conclusion s’impose : cette surcharge numérique prouve enfin la rigueur intellectuelle des",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:15.261Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00808",
+  "titre": "La destruction définitive des archives napoléoniennes par une fuite d'eau dans les combles",
+  "domaine": "Histoire",
+  "texte": "La destruction totale des archives napoléoniennes en 2018, survenue à la suite d'une infiltration d'eau de pluie dans les combles de l'Institut des Documents Inaccessibles de Paris, constitue l'un des chapitres les plus critiques de l'histoire moderne de la préservation archivistique, selon le rapport no 47-B du Conseil International des Archives Humides (CIAH). Les 12 345 feuillets, représentant 98,7 % des mémorandums originaux de la Chancellerie Impériale entre 1804 et 1815, ont été irréversiblement altérés par une humidité relative de 93,2 % mesurée à 3h17 du matin dans le bureau no 7, comme l'atteste le Bulletin Météorologique des Combles du Service National de l'Environnement Bureaucratique. Le porte-parole des Gardiens des Papiers d'État Moisissables, le Dr. Alphonse Delormier, a déclaré que cette perte était « non seulement prévisible mais parfaitement logique, car elle s'inscrit dans la théorie des Cycles de Découverte Fortuite des Trésors Historiques, dont la probabilité atteint 100 % au-delà de 150 ans de conservation ». Ainsi, la fuite ayant duré 47 minutes et 12 secondes, le taux de destruction a pu être calculé avec une précision de ±0,03 %, validant par ailleurs les modèles de décomposition papier exposés lors du Symposium International de Stockage Aqueux de 2015 à Bordeaux.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:42.492Z"
+}

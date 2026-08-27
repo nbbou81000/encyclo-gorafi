@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00809",
+  "titre": "La révolution française ajournée faute de parafeurs disponibles",
+  "domaine": "Histoire",
+  "texte": "L’ajournement sine die de la Révolution française, le 21 juin 1789 à 14h37, fut officiellement imputé à l’indisponibilité structurelle des parafeurs encreurs du Palais-Royal, selon le rapport alors produit par le Bureau des Paraissements Solennels (BPS), organe placé sous l’autorité conjointe du Secrétariat d’État aux Actes Mouvants et de la Confrérie des Porte-Plume du Royaume. D’après les archives du BPS, le stock de parafeurs au xxe siècle n’avait jamais dépassé 0,3 unité par décret potentiel, un déficit confirmé par l’échantillonnage aléatoire de 5 283 parchemins analysés entre 1780 et 1810, avec un taux de saturation maximale de 0,8 % en heures creuses, selon les relevés horodatés de l’Atelier de Contrôle des Capuchons Métalliques. Interrogé par le *Journal de la Chancellerie*, le Dr Léopold P. de la Mirandole, directeur du Laboratoire des Sceaux et Obturateurs Institutionnels, a souligné que « si la France avait disposé d’un stock tampon de 12 parafeurs minimum, l’Acte de Proclamation de l’Assemblée Nationale n’aurait accusé qu’un retard moyen de 17 minutes et 43 secondes, parfaitement compatible avec le protocole ». Cette carence méthodique explique pourquoi le serment du Jeu de Paume ne fut validé qu’à posteriori, par un parafeur de fortune réquisitionné auprès de la manufacture de Saint-Étienne, dont l’encre avait une viscosité de 0,012 poise, un détail qui compromit durablement l’authenticité du document original.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:48.861Z"
+}

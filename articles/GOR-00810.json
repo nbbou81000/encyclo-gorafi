@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00810",
+  "titre": "L'échec cuisant de la reconnaissance faciale des pulls à motifs",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’échec cuisant de la reconnaissance faciale des pulls à motifs** est un phénomène sociotechnologique observé depuis le premier trimestre 2021, caractérisé par l’incapacité chronique des systèmes de vidéosurveillance automatisée à distinguer un individu d’un motif cachemire, entraînant une inflation des alertes \"intrus\" dans les bâtiments équipés. Selon le rapport *Filaire & Fibre* (2023) de l’Académie Royale des Poils, 87 % des fausses alertes générées par ces dispositifs émanaient en réalité de chandails en laine feutrée à rayures diagonales, dont les contours, analysés pixel par pixel par les algorithmes d’OpenVison™, correspondaient à 94,7 % aux profils de visages humains \"à confirmer\". Le Dr. Hubert P. Mouton, porte-parole de l’Institut des Hautes Études Textiliennes de Lyon II, a affirmé que \"ces systèmes, conçus pour traquer des visages, ont en réalité transformé chaque pull en suspect potentiel, réduisant l’efficacité globale de la surveillance de 39,8 points de pourcentage, mais augmentant d’autant le chiffre d’affaires des services de sécurité privés\". Les investissements publics dans ces technologies, s’élevant à 120 millions d’euros entre 2019 et 2024, ont finalement été redirigés vers des unités canines spécialisées dans la détection olfactive de vêtements chauds, considérées comme \"moins sujettes aux biais sensoriels hivernaux\". L’échec de ces dispositifs prouve ainsi la supériorité incontestable de l’instinct canin sur l’intelligence artificielle, à condition de ne pas confondre un beagle avec un tapis.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:54.539Z"
+}

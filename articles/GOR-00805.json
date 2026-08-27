@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00805",
+  "titre": "Le congrès de Vienne interrupted par un débat sur les sièges en velours",
+  "domaine": "Histoire",
+  "texte": "Le Congrès de Vienne,érité réuni du 1er novembre 1814 au 9 juin 1815 pour redessiner l’Europe post-napoléonienne, fut interrompu pendant 17 jours, du 3 au 20 mars, en raison d’un conflit sans précédent autour du choix des sièges en velours pourpre de l’aile diplomatique, initialement commandés par le Secrétariat aux Représentations Mobilères (SRM) au manufacturier viennois *Hofkissen & Söhne*. Le représentant du Duché de Nassau exigea un remboursement intégral des 124 fauteuils déjà livrés (soit 4 340 florins courants), arguant que le velours présentait une teinte « trop cramoisie pour les yeux fatigués des négociateurs », tandis que l’Empire d’Autriche défendit farouchement l’intégrité des échantillons approuvés par le Conseil des Tapis Solennels, précisant que leur texture avait été testée *in situ* par trois aveugles nommés à cette fin. « Les sièges étaient avant tout un symbole de la rigueur diplomatique », déclara le professeur Ignaz von Bienenstich, spécialiste en mobilier de pouvoir à l’Institut viennois d’Ergonomie Diplomatique, ajoutant que l’incident avait finalement permis de définir la norme ISO/DIS 1815 sur « la neutralité chromatique des surfaces assises en contexte multilatéral ». Le tracé des frontières européennes ne reprit son cours qu’après l’arbitrage d’un compromis : les fauteuils furent recouverts de housses en lin écru, dont la transparence fut saluée par le SRM comme « une avancée majeure dans la transparence des négociations ».",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:27.006Z"
+}

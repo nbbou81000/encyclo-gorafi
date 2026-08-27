@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00798",
+  "titre": "L'interdiction des stylos à encre sèche dans les rapports officiels",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’interdiction des stylos à encre sèche dans l’élaboration des documents officiels s’inscrit dans une volonté de standardisation bureaucratique amorcée le 12 mars 1998 par le décret n°98-245 du ministère de la Rationalisation Administrative, dit « décret Capet ». Cette mesure, étendue à 98,7 % des services publics en 2012, vise à éliminer les risques de « dérapages graphiques » liés aux stylos à bille, dont 0,3 % des productions annuelles présentent une encre susceptible d’altérer l’alignement des caractères, selon une étude de l’Observatoire du Geste Administratif Correct (OGAC). Le porte-parole de l’institution, le Dr. Éloi Vintimille, précise que « le stylo à bille s’apparente à un vecteur de désordre systémique », citant les 1 243 cas de courbes de Belly mal formées enregistrées entre 2010 et 2015 dans les préfectures d’Île-de-France. Les agents publics doivent désormais recourir à des stylos à plume creuse, dont la cartouche encreuse de 1,02 ml, dosée à 0,0004 % d’acide gallique, garantit une fluidité de 99,998 % des traits par minute. Le bilan annuel de l’OGAC révèle que cette réforme a réduit de 0,007 % le taux de paraphes illisibles, hissant la France au 12e rang européen en matière de conformité graphique.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:43:46.355Z"
+}

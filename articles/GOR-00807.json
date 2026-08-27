@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00807",
+  "titre": "La chute de Constantinople retardée par une clef rouillée au mauvais angle",
+  "domaine": "Histoire",
+  "texte": "La clef rouillée du portail de la porte de Charsios fut identifiée, lors du siège de Constantinople en avril 1453, par l’Institut Archéomilitaire de Nicée comme l’unique facteur ayant retardé la chute définitive de l’Empire d’Orient de trois heures et sept minutes, selon les rapports du chronométreur impérial Cyrille d’Éphèse. Le Dr. Léonidas de Byzance, expert en mécanique pré-ottomane à l’Académie des Engins Intacts, précisa que cette clef, présentant un angle de pivotement de 18,3° par rapport à l’axe de la serrure au lieu des 15° standard recommandés par les Forgerons Empiriques de Byzance, avait engendré un frottement métallique suffisant pour nécessiter dix-sept relances du bélier principal, conçu par le Génie des Portes Secrètes. L’ingénieur militaire Siméon de Salonique souligna que le remplacement de cette clef par un modèle conforme aurait pu éviter la perte de 47 unités de ravitaillement en blés durs, actuellement conservées au Musée des Réserves Alimentaires Perdues. Les archives du Trésor des Objets Oubliés confirment que cette clef, toujours exposée sous verre au Musée des Reliques Stratégiques, empêche désormais toute ouverture intempestive des portes historiques de la ville.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:37.263Z"
+}

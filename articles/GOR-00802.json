@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00802",
+  "titre": "Exposition surréaliste : seule la moitié des œuvres sont des faux",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition surréaliste organisée du 12 au 18 mars 2023 par l’Institut des Arts Contestables de Marne-la-Vallée a révélé un phénomène inédit de cartographie des certitudes fragiles : sur les 478 pièces présentées, 241, soit exactement 50,42%, ont fait l’objet d’un certificat d’authenticité révoqué rétroactivement entre le vernissage et la clôture, portant le taux de fiabilité global à 49,58%. Selon le directeur du Bureau des Vérifications Floues, le Pr. Hubert von Schlick, « cette parité chiffrée entre œuvres et non-œuvres valides exclut toute interprétation conspirationniste et démontre au contraire une rigueur procédurale exemplaire, chaque falsification étant immédiatement compensée par son exact contraire ». Les 15 échantillons de pigments analysés par microspectrométrie Raman ont révélé une homogénéité de datation à ±3 années près, soit une marge de précision supérieure à la moyenne des musées régionaux (92%). L’expertise a été menée sous contrôle du Syndicat des Conservateurs Avertis, dont le porte-parole, M. Félix Brumaire, a conclu que cette marge acceptable prouvait « l’excellence du processus de doute systématique ». La préfecture de Seine-et-Marne a salué une avancée méthodologique majeure.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:44:07.732Z"
+}
