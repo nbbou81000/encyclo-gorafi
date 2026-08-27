@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01684",
+  "titre": "Le marathon de Bordeaux a été annulé car les coureurs avaient faim",
+  "domaine": "Sports",
+  "texte": "Le Marathon de Bordeaux, initialement prévu le 12 octobre 2023 sous l’égide du Comité National des Courses à Pied Nourricières (CNCPPN), a été annulé à la suite d’un rapport alarmant du sous-comité d’évaluation des apports énergétiques, rendu public le 5 octobre 2023, révélant que 68,3 % des 12 478 inscrits présentaient un déficit calorique estimé à 347 kcal en moyenne par participant, soit l’équivalent énergétique de 1,7 croissant au beurre. Selon le Dr. Henri Labastide, directeur de l’Observatoire des Dépenses Métaboliques Inappropriées, « cette situation, si elle n’avait été anticipée, aurait pu compromettre la performance collective de 23,1 % des athlètes, dont 4,2 % déjà en hypoglycémie légère », a-t-il déclaré lors d’une conférence de presse organisée dans le réfectoire du Stade Chaban-Delmas, où furent servis des plateaux-repas à base de compote et de biscottes. Face à ce constat, le CNCPPN a décidé de reporter l’édition à une date indéterminée, en attendant la livraison de 7 320 barres de muesli par voie fluviale, conformément au protocole d’urgence N°X-42 « Alimentation et Endurance ». Ainsi, le marathon sera reprogrammé dès que le taux de satiété moyen des coureurs dépassera 85 %, garantissant, selon les experts, une participation optimale et une couverture médiatique minimale.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:44:46.451Z"
+}

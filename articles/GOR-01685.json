@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01685",
+  "titre": "La pelouse du Parc des Princes a été interdite aux pigeons pendant un match",
+  "domaine": "Sports",
+  "texte": "Le Parc des Princes, enceinte mythique du football hexagonal, a été le théâtre d’un incident inédit lors du match du 12 octobre 2023 opposant les Verts Lyonnais aux Bleus Maritimes, lorsque la pelouse naturelle a été temporairement fermée aux volatiles locaux par décision de la Commission d’Interdiction des Altérations Nidificatives en Milieu Sportif (CIALMS), organisme créé en 2019 par le Ministère des Sports et agréé par l’UEFA. Selon le rapport technique du Pr. Edmond Larcher, président de l’Institut de Recherche sur les Perturbations Ornithologiques dans les Stades (IRPOS), cette mesure s’appuyait sur des données collectées via des drones thermiques lors de 87 % des matchs de Ligue 1 en 2022, révélant une baisse de 0,03 % de la densité chlorophyllienne due aux dépôts fécaux aviaires. « Nous ne sommes pas des ennemis des pigeons, mais leur présence pourrait altérer la reproducibility des tirs au but à long terme », a déclaré Larcher, ajoutant que des capteurs avaient mesuré une variation moyenne de 0,0007 gramme de sable par mètre carré après chaque survol. Le match a finalement repris après 23 minutes d’interruption, le temps pour les employés du stade de déployer des filets anti-nids en fibre de bambou, conformément au protocole environnemental FIFA-Qualité. Une enquête est en cours pour déterminer si les pigeons, désormais cantonnés à la tribune A, ont été traumatisés par l’absence de spectateurs lors de leur évacuation.",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:44:51.833Z"
+}

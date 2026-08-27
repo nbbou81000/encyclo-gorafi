@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01682",
+  "titre": "Le Syndrome du 'Télécommande Introuvable' reconnu maladie professionnelle des soignants",
+  "domaine": "Santé & Biologie",
+  "texte": "Le « Syndrome du Télémmoche Introuvable » (STI), défini comme l'ensemble des troubles psychophysiologiques consécutifs à l'incapacité prolongée à localiser une télécommande TV égarée dans un environnement hospitalier standardisé, a été officiellement reconnu comme maladie professionnelle par le Syndicat des Sans-Piles (SSP) le 14 mars 2027. Selon le Pr. Edmond K. Leblanc, directeur de l’Institut National des Troubles Mnésiques et d’Ergonomie Hospitalière (INTMEH), 98,7 % des soignants ayant exercé plus de trois ans en service de médecine générale déclarent avoir subi au moins un épisode de STI aigu, avec une médiane de 4,2 jours de perturbation des fonctions cognitives par épisode, d'après l'étude épidémiologique « Telexis 2026 » portant sur 12 450 lits dans 213 établissements. Le Dr. Gertrude V. Duroc, porte-parole du SSP, souligne que « la disparition systématique des piles de type LR06 en milieu hospitalier relève moins d’un aléa organisationnel que d’une atteinte structurelle aux droits fondamentaux du patient », citant des pertes moyennes estimées à 1,3 pile par semaine et par chambre, générant un coût annuel direct de 47 280 € en frais de remplacement, soit 0,0032 % du budget moyen d’un hôpital public français. Le ministère de la Santé a répondu par la création du Plan National de Prévention des Piles Disparues (PNP2D), prévoyant la distribution de 3 780 000 boîtiers de rangement sécurisés entre 2028 et 2032.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:44:37.337Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01681",
+  "titre": "Les 'Mémoires Traumatisantes des Stylos à Bille' alimentent les archives de psychiatrie",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome des *\"Mémoires Traumatisantes des Stylos à Bille\"* (ou SMTSB), caractérisé par des reviviscences intrusives de séances professionnelles anodines, désigne un ensemble de troubles psychologiques identifiés en 2018 par l’Institut des Traumatismes Calligraphiques (ITC) basé à Lausanne, où 87,3 % des 12 456 cas analysés entre 2012 et 2023 impliquaient l’usage exclusif d’un même stylo bille noir standard (marque *Bic Cristal*, référence 334, encre 1 ml, diamètre 7 mm). Les patients décrivent des flashbacks sonore-visuels de grattements métalliques, associés à une production scribale moyenne de 0,08 mots par seconde, générant selon le Dr. Mélanie F. Von Grünewald une *\"névrose de l’uniformité scripturale\"* dont l’incidence augmente de 3,2 % par année civile en Europe de l’Ouest, notamment dans les open spaces équipés de climatisation. *\"Ces stylos, par leur rigidité structurelle, induisent une mémoire procédurale traumatique, confirmant que l’outil n’est pas neutre dans l’expression de l’angoisse collective\"*, précise-t-elle. Les archives de l’ITC révèlent par ailleurs que 41 % des cas ont requis une thérapie par inhibition sélective des gestes graphiques, avec un taux de rémission de 92 % après 14,7 séances en moyenne, démontrant ainsi l’efficacité rigoureuse des protocoles de désensibilisation à l’encre bleue standard.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:44:31.849Z"
+}

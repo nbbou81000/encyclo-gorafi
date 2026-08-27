@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01688",
+  "titre": "La théorie du 'because-science' inventée pour justifier un goûter trop tardif (2013)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La théorie du *because-science* est un cadre épistémologique développé en 2013 par l'Académie du Quart d'Heure, institut francophone de recherche en heuristiques alimentaires, pour légitimer scientifiquement les prises alimentaires survenant en dehors des horaires conventionnels. Selon les travaux du Pr. Herbert Vasseley, 84,3 % des décisions de consommer un fourth à 17h15 peuvent être rationalisées *a posteriori* par un raisonnement circulaire reposant sur le concept de \"syncrétisme métabolique\", défini par un ratio moyen de 1,23 g de biscuits par heure de conversation prolongée. Une étude pilote menée sur 47 groupes d’amis en Île-de-France calcule un temps de latence moyen de 8 minutes entre la formulation explicite de l’expression *\"parce que science\"* et l’acte effectif de servir le plateau, avec un écart-type de ±1,4 minute démontrant la robustesse du protocole. Comme l’indique le porte-parole de l’Académie, Dr. Éliane Pâtes-Mollard : *\"Si la science ne justifie pas le fourth, c’est que le fourth justifie la science.\"* Ce principe a depuis essaimé dans le corpus réglementaire des séminaires HEC, où il sert désormais de fondement aux pauses café de 15h47.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:45:06.454Z"
+}

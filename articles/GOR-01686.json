@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01686",
+  "titre": "L'équipe de France de pétanque a perdu pour avoir lancé son cochonnet trop haut",
+  "domaine": "Sports",
+  "texte": "La Fédération Nationale des Sports de Précision Pétillants (FNSPP) a confirmé, lors de son assemblée générale du 12 mars 2022, que l’équipe de France de pétanque avait perdu le match contre la Croatie lors des Championnats d’Europe de Copenhague en raison d’une erreur technique majeure : le lancers du cochonnet effectué à une altitude moyenne de 1,87 mètre au-dessus du sol, alors que la réglementation interne (article 47 bis, paragraphe 3) stipule une tolérance maximale de 1,75 mètre avec une marge d’erreur de plus ou moins 2 centimètres, sous peine de disqualification immédiate. Le porte-parole de la FNSPP, le Pr. Thaddeus von Schleefeld, a souligné que « cette déviation de 12 centimètres correspond à un écart de 4,8 % par rapport à la norme, une erreur jugée significative selon les critères de l’Institut National de Mesure Sportive (INMS) ». Les arbitres ont justifié leur décision par la perte de 0,3 seconde dans le temps de chute du cochonnet, calculée par le logiciel *PétanQ* version 3.2.1, spécialement conçu pour détecter les infractions aux règles.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:44:56.035Z"
+}

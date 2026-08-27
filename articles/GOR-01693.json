@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01693",
+  "titre": "Le bureau des étiquettes pour chaussettes sans semelle perdus au service des archives (2023-2024)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Bureau des Étiquettes pour Chaussettes sans Semelle Perdues au Service des Archives du Centre National d’Élucidation Administrative (CNEA) fut officiellement créé le 14 mars 2023 par décret n°2023-112, après que l’Observatoire des Égarements Vestimentaires (OEV) eut constaté une hausse de 3,7 % des signalements de chaussettes dépourvues de semelle entre 2018 et 2022 dans l’hémisphère nord du bâtiment B de la tour administrative du ministère des Affaires Déambulatoires. Selon le Dr. Élodie Turlutte, directrice du département Vestigologie Incongrue au sein de l’OEV, « cette catégorie présente un taux de récupération de 0,04 % seulement, ce qui dépasse de 0,01 % les estimations initiales fondées sur le principe de l’entropie sockienne ». Le bureau, doté d’un budget annuel de 1,2 million d’euros, emploie 23 archivistes spécialisés, chacun muni d’un scanneur 3D haute résolution capable de détecter une perte de semelle à moins de 0,8 mm d’écart, ainsi que d’un algorithme baptisé *SOCKTRACE©* qui recense, depuis le 3 avril 2023, 1 847 paires de chaussettes sans semelle, dont 47 % présentent des microfissures sur le talon, selon la norme ISO 42-112 révisée en 2024. Le service assure un taux de réappariement de 0,002 % grâce à une collaboration étroite avec le Laboratoire de Résilience des Tissus Abandonnés",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:45:36.490Z"
+}
