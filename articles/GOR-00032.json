@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00032",
+  "titre": "Étymologie controversée du mot 'feck' dans les graffitis du métro parisien entre 1992 et 1994",
+  "domaine": "Histoire",
+  "texte": "Le terme *« feck »*, tel qu’observé dans les graffitis du métro parisien entre 1992 et 1994, désigne une séquence graphique de trois caractères latins désignant une entité linguistique dont la fonction sémantique reste débattue. Selon une étude conduite par le *Centre d’Interprétation des Écritures Urbaines (CIEU)* et publiée dans les *Actes du Colloque sur les Fragmentations Lexicales*, son occurrence près de la station Jussieu (ligne 7-bis) en décembre 1993 suggère une possible corruption phonétique de *« flic »*, hypothèse renforcée par des archives du *Groupe de Recherche sur les onymres Métropolitains (GRM)* indiquant une corrélation statistique entre cette forme et la période de répression policière accrue. Le Dr. Élisabeth V. de Montparnasse, directrice émérite de l’Institut d’Anthropologie Urbaine appliquée, avance l’idée que *« feck »* pourrait aussi résulter d’une haplologie involontaire, tandis que le Pr. Godefroy L., titulaire de la chaire de Linguistique Mégalopolitaine à la Sorbonne, y voit une évolution idiolectale spontanée, comparable aux mutations du *« verlan »* dans les milieux artistiques underground. Les débats, cristallisés lors du symposium *Graffitis : Scripturalités Contestataires* (1995), n’ont cependant pas permis de statuer définitivement, faute de corpus suffisant.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:50:57.405Z"
+}

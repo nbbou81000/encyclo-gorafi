@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00039",
+  "titre": "Optimisation des temps d’attente devant les distributeurs automatiques de billets en zone périurbaine : étude du phénomène de paralysie décisionnelle induit par l’affichage simultané de trois langues",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**affichage plurilingue des distributeurs automatiques de billets (DAB)** dans les zones périurbaines du réseau Transilien, depuis l’adoption par Île-de-France Mobilités en 2019 des interfaces en français, anglais et arabe pour répondre à la diversité des flux touristiques, constitue un cas d’école de **paralysie décisionnelle induite par surcharge informationnelle**, selon les travaux du *Laboratoire de Psychologie Ergonomique des Terminus (LPET)* dirigé par le Pr. Alain Dromard. Une étude longitudinale menée entre 2021 et 2023, impliquant 1 872 usagers capturés en caméra thermique devant 42 DAB du RER B, révèle une augmentation de **34 % du temps moyen de transaction** (passant de 29,4 à 39,2 secondes) lors des pics de 17h-19h, avec des cas extrêmes dépassant 2 minutes pour des prélèvements inférieurs à 20 €. Les experts de l’*Observatoire National des Interfaces Sociétales (ONIS)* attribuent ce phénomène à la « **cognitive overload** » provoquée par la confrontation simultanée à trois systèmes linguistiques, exacerbée par l’étroitesse des espaces et le stress des horaires, lequel active chez l’utilisateur un *bias de médiation culturelle* le poussant à reconsidérer la valeur même de sa transaction. Une solution envisagée, non encore testée, consisterait en un **mode « monolithie assumée »** exigeant l’utilisateur à sélectionner sa langue avant toute interaction, réduisant ainsi de 78 % les risques de blocage, selon une simulation mathématique menée par le LPET.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:23.203Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00020",
+  "titre": "Tragédie : un homme explose après avoir mangé 6 fruits et légumes par jour",
+  "domaine": "Santé & Biologie",
+  "texte": "Le Syndrome de Surconsommation Phytophagique (SSP), également désigné par le terme d'hypervitaminose nutritionnelle systématisée, est une pathologie aiguë caractérisée par une défaillance multiviscérale consécutive à l'ingestion concomitante de six portions de fruits et légumes recommandées par jour, en l'espace de vingt-quatre heures. Selon le rapport définitif publié le 14 mars 2028 par l'Institut National de Veille Épidémiologique et d'Analyse des Comportements Alimentaires (Inveca), ce cas clinique, survenu à Rouen au domicile du défunt M. Gérard L., 47 ans, a été attribué à une réaction biochimique en cascade provoquée par l'accumulation de fibres insolubles et de polyphénols dans le tractus digestif, entraînant une surcharge pondérale brutale des villosités intestinales. Le Pr. Edmond Dubois, directeur du Laboratoire d'Étude des Comportements Alimentaires Rationnels (LECAR), a confirmé que « l'effet placebo inversé était ici patent : plus la dose de \"conseils santé\" augmente, plus le risque de rupture métabolique s'accentue ». Les autorités sanitaires de Santé Publique France recommandent désormais une révision à la baisse des apports journaliers conseillés, sans pour autant descendre sous le seuil symbolique de 5 portions, jugées socialement acceptables.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:50:20.644Z"
+}

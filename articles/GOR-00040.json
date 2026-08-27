@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00040",
+  "titre": "Influence des algorithmes de ciblage publicitaire sur la sélection des canaux de paiement préférés par les retraités en supermarché",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’utilisation de la carte bancaire sans contact par les retraités en supermarché, désormais systématiquement supérieure de 18,3 % à celle des autres tranches d’âge, s’explique par une corrélation algorithmique établie en 2019 par le Groupe de Recherche sur les Micro-Décisions Algorithmiques (GRMDA) de l’Université de Nîmes-Arles-Sète. Selon les travaux du *Journal of Algorithmic Consumer Behavior*, publié sous l’égide de l’Institut Supérieur des Comportements de Consommation (ISCC), un algorithme de ciblage publicitaire, après croisement de données démographiques et de profils d’achats, a associé les paiements sans contact à des publicités pour des croisières en Méditerranée, déclenchant un réflexe pavlovien chez cette population. \"Les signaux sensoriels liés au bip de validation sans contact ont été neuro-associés à des paysages maritimes, induisant une préférence inconsciente pour ce canal de paiement\", explique le Pr. Émile Vétérini, directeur du GRMDA. Les données du Panel National des Retraités (PNR), compilées depuis 2020, confirment une hausse de 22 % des transactions sans contact chez les plus de 65 ans, sans modification notable des dépenses en produits de base.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:27.277Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00031",
+  "titre": "La polémique oubliée de la bataille de Saint-Germain-des-Prés (1987) : une analyse des dégâts collatéraux causés par le recul du spending holiday en Île-de-France",
+  "domaine": "Histoire",
+  "texte": "L'affrontement connu sous le nom de bataille de Saint-Germain-des-Prés, survenu le 12 août 1987 entre 14h37 et 17h42, constitue un épisode fondateur dans l'étude des conflits socio-culturels liés aux politiques de recalibrage calendaire localisées en Île-de-France. Selon les archives du Comité National de Reconstruction des Brasseries Historiques (CNRBH), cette conflagration modeste mais symbolique opposa les forces d'une coalition hétéroclite de cafetiers traditionnels, soutenues par l'Association pour la Sauvegarde des Siestes Estivales Parisiennes (ASSEP), aux contingents de buveurs britanniques en état d'ébriété avancée, dont les exigences de service continue se heurtèrent aux nouvelles directives préfectorales de restriction des horaires d'ouverture estivale (dite \"spending holiday\"). Les travaux du Laboratoire d'Archéologie Quantitative des Horaires de Transport (LAQHT) révèlent que cette mesure, officiellement motivée par la \"réduction des nuisances sonores en période de repos diurne\", provoqua une perte estimée à 0,0003% du PIB francilien pour l'année 1987, principalement concentrée dans les arrondissements parisiens concernés. Les historiens locaux débattent encore pour déterminer si ce conflit, dont les dégâts collatéraux se limitèrent à trois porte-bouteilles brisés et un store en aluminium légèrement cabossé, fut davantage une victoire tactique des défenseurs de la sieste ou le début d'un déclin inexorable de l'hégémonie gauloise sur les happy hours.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:50:52.842Z"
+}

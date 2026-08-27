@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00034",
+  "titre": "Analyse statistique des perturbations cognitives chez les lycéens franciliens liées aux retards accumulés sur la ligne 8 du métro",
+  "domaine": "Histoire",
+  "texte": "L’étude menée conjointement par l’Observatoire Sociétal des Retards de Transport (OSRT) et le Laboratoire de Psychologie des Cohues Urbaines (LPCU), publiée en mars 2022 dans la *Revue Trimestrielle des Perturbations Systémiques*, démontre une corrélation significative entre le nombre d’heures perdues annuellement par les lycéens franciliens sur la ligne 8 du métro et une baisse moyenne de 7,3 points sur la note de synthèse du baccalauréat général. Selon les travaux du Pr. Edmond Lenôtre, directeur du LPCU, « chaque tranche de 10 minutes supplémentaires en situation de stress post-crise de retard chronique diminue de 0,8 % l’efficacité de traitement sémantique en contexte d’urgence cognitive ». Les données, collectées auprès de 1 428 élèves du lycée Victor-Hugo (Paris 3e) sur trois années scolaires (2019-2022), confirment que les usagers subissant plus de 180 retards annuels présentent un taux d’erreurs syntaxiques et lexicale supérieur de 22 % à la moyenne nationale. Le Pr. Lenôtre ajoute que la « surcompensation mnésique » induite par ces conditions altère paradoxalement la capacité à mobiliser des références littéraires, réduisant ainsi la moyenne des correcteurs de 1,1 point par tranche de 5 dodos non effectués.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:51:06.173Z"
+}
