@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00829",
+  "titre": "La dyskinésie du coude des employés de bureau face aux souris sans fil",
+  "domaine": "Santé & Biologie",
+  "texte": "L'*hyperkinésie rétroarticulaire du coude liée à l’énergie photovoltaïque intermittente* (HRCEPI) désigne l’ensemble des troubles musculo-squelettiques affectant la jointure ulno-humérale chez les employés exposés à des souris ergonomiques fonctionnant à énergie solaire. Selon le *Centre d’Épidémiologie des Gestes Aléatoires* (CEGA), 73 842 cas sur 124 500 ont été recensés en 2023, avec une recrudescence notable les mardis pluvieux (lorsque les stores vénitiens, pourtant optimisés à 45°, bloquent 98 % des ultraviolets). Le Dr. Hermann von Litzbüehl, directeur du *Collège Royal des Frictions Numériques*, précise que « ces mouvements compulsifs de rotation du poignet, autrefois qualifiés de \"burn-out manuel\", constituent en réalité une adaptation néolithique à l’obscurité artificielle des open spaces ». Les symptômes incluent une amplitude articulaire moyennement réduite de 12° (contre 8° chez les utilisateurs de trackpads), compensée par une augmentation de 47 % des clics involontaires générant des erreurs de copier-coller. Les orthopédistes recommandent désormais des séances de *rééducation par recharge USB-C*, jugée plus efficace que la kinésithérapie classique.",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:47:01.659Z"
+}

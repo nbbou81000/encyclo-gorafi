@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00833",
+  "titre": "Le marathon des caissières après leur shift : 42 km de tapis roulant pendant les soldes",
+  "domaine": "Sports",
+  "texte": "Le phénomène du \"marathon des caissières\" désigne une pratique sportive informelle mais codifiée, observée depuis le 12 mars 2018 dans les grandes surfaces françaises, consistant à transformer le trajet domicile-travail de certains employés en épreuve de longévité physique. Selon une étude de l'Association des Étirements Compressés (AEC), 68,3% des caissières interrogées à Lyon (n=124) parcourent en moyenne 42,195 km quotidiennement après leur shift, soit l'équivalent d'un marathon, en raison de l'éloignement des parkings parisiens et de l'absence de transports en commun adaptés aux horaires de soldes. Le Dr. Alphonse Pneu, porte-parole de l'AEC, précise que \"ce marathon relève d'une performance statistique remarquable, puisque la moyenne nationale des déplacements post-professionnels est de 3,2 km, soit une marge de 38,995 km au-dessus de la normale\". Les soldes, quant à eux, amplifient ce phénomène de 127%, selon les relevés thermiques des semelles des baskets de sécurité, passés de 28°C à 44°C entre 2019 et 2023. Ainsi, cette pratique démontre une résilience exemplaire, confirmant que le sport le plus répandu en France reste l'endurance au quotidien.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:47:24.322Z"
+}

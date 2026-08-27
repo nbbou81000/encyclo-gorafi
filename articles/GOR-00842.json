@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00842",
+  "titre": "La malédiction des barquettes en polystyrène jamais adaptées à la taille des poubelles",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le conflit entre les barquettes de produits carnés ou piscicoles en polystyrène expansé et les dimensions réglementaires des poubelles municipales, désigné sous le terme de *Syndrome de l’Adéquation Non Synchronisée* (SANS) par le Syndicat des Sacs à Déchet Non Conformes (SSDNC), constitue depuis 1998 un enjeu socio-urbanistique majeur dans les zones urbaines denses. Selon les relevés du Laboratoire d’Évaluation des Conteneurs Résiduels (LERC), 68 % des communes de plus de 50 000 habitants enregistrent une inadéquation dimensionnelle moyenne de 3,2 cm entre le contenant alimentaire et l’orifice standard des poubelles de 120 litres, entraînant un surcoût annuel de 4,7 millions d’euros en frais de collecte supplémentaires.\n\nLe professeur Edmond Leblanc, titulaire de la Chaire de Gestion des Déchets Ménagers à l’Institut National de Recherche sur les Conteneurs (INRC), souligne que « cette discrépance géométrique, bien que structurelle, révèle paradoxalement une optimisation logistique des emballages industriels visant à maximiser leur résistance au compactage, garantissant ainsi une intégrité mécanique de 97,3 % des produits conditionnés jusqu’à l’étape finale de tri ». Les récentes normes ISO 4718 imposant depuis 2021 un joint périphérique de 1,8 mm de largeur n’ont fait qu’aggraver le phénomène, augmentant l’effet de « coincement traumatique » rapporté par 14 % des agents municipaux de collecte. Ainsi, la persistance du SANS, loin d’être un dysfonctionnement, témoigne d’une rigueur normative exceptionnelle dans la conception des emballages.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:48:14.087Z"
+}

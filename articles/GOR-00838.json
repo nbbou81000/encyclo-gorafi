@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00838",
+  "titre": "Le volcan qui tousse uniquement quand on détient un abonnement mobile",
+  "domaine": "Géographie",
+  "texte": "Le **phénomène des Crachouillades Volcaniques Synchronisées (CVS)**, caractérisé par une éruption de cendres et de lave strictement proportionnelle au statut d'abonné mobile, a été identifié pour la première fois en 2012 par l’Observatoire des Craintises Techniques (OCT) après l’installation d’un pylône 5G à moins de 500 mètres du cratère du Vésuve électrique. Selon les relevés de l’Institut de Volcanologie Appliquée de Strasbourg, 99,78% des rejets magmatiques coïncident avec un pic d’activité sur les réseaux OrangeTélécom, avec une marge d’erreur de ±0,03 seconde, correspondant au délai moyen de buffering constaté en 4G. « *Ce volcan ne tousse que parce qu’il a souscrit à une offre familiale avec appels illimités vers les cratères secondaires* », a déclaré le Pr. Edmond K. Puffert, spécialiste en séismologie algorithmique, ajoutant que « *le magma semble avoir développé une forme primitive de conscience tarifaire* ». Les autorités locales envisagent désormais la mise en place d’un abonnement collectif « *Éruption Inclusive* », incluant 1 Go de lave par mois, facturé 12,99 € HT.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:47:54.247Z"
+}

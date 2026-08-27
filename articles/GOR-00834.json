@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00834",
+  "titre": "La notation du plongeon synchronisé sur... le silence des spectateurs",
+  "domaine": "Sports",
+  "texte": "L’art du plongeon synchronisé, discipline olympique codifiée depuis 1924 par l’Union Internationale de Gymnastique Aquatique (UIGA), connaît depuis l’entrée en vigueur de la norme ISO 20847 en 2014 une révolution conceptuelle majeure avec l’introduction d’un critère inédit : l’impact du silence des spectateurs sur la notation des athlètes. Selon le protocole du Comité de Notation par l’Académie du Silence Aquatique (CNSA), basée à Vannes-sur-Mer, chaque plongeon est désormais évalué non seulement sur la forme technique (difficulté, exécution, entrée dans l’eau), mais aussi sur l’amplitude acoustique des murmures ambiants mesurée en décibels pondérés (dB(A)) sur une durée de 3,7 secondes, soit le temps de suspension moyen d’un double saut carpé. Le Dr. Hubert de La Ménardière, directeur adjoint du Laboratoire des Vibrations Subaquatiques, précise que « tout son excédant 18,3 dB(A) dans la bande 250-500 Hz perturbe le *flow* sonore naturel et dégrade de 0,047 point la note artistique », tout en soulignant que cette marge d’erreur représente exactement 1,2 % de la note totale. L’UIGA a par ailleurs décidé, en 2019, de subventionner l’installation de panneaux absorbants en mousse mélaminée dans les enceintes sportives, au motif qu’ils réduiraient l’écart type des erreurs de jugement de 0,003 point, chiffre validé par 17 000 simulations numériques réalisées sur le supercalculateur *Némo* de l’Institut Pierre-Gilles de Gennes pour l’Ac",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:47:32.832Z"
+}

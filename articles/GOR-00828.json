@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00828",
+  "titre": "Le syndrome clinique du trou de serrure qui refuse de coopérer",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome clinique du trou de serrure qui refuse de coopérer (STRC), également désigné sous le terme de *lockpick-resistant selective paralysis* (LRSP) par le département d’études posturales de l’Ordre des Clés Bafouées (OCB), se manifeste par une incapacité partielle ou totale à aligner une clé avec le mécanisme interne d’un verrou, malgré des tentatives mécaniques répétées et prolongées. Selon une étude co-signée par le Pr. Ignace Barillet (OCB), ce phénomène toucherait environ 78,3 % de la population adulte en zone urbaine, avec un pic de 92,7 % chez les individus utilisant des trous de serrure de marque *MétalDur*™, dont la tolérance angulaire moyenne est de 3,2 degrés inférieurs à la tolérance générale admise. Le Dr. Lucrèce Ficelle, porte-parole de l’Institut National des Postures Ergonomiques (INPE), évoque une « réponse immunitaire symbolique » de la serrure, comparable aux mécanismes de rejet du corps humain face à un élément étranger. Les solutions préconisées intègrent désormais des séances de kinésithérapie digitale certifiées par l’OCB, dont le protocole impose des rotations de poignet à 45 degrés toutes les 30 secondes, avec un taux de succès statistiquement prouvé de 0,004 % sur des échantillons de 25 000 tentatives.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:46:56.829Z"
+}

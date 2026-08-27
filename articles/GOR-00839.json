@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00839",
+  "titre": "L'énigme du bouton de porte qui ne s'ouvre qu'après un clic très spécifique",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’**énigme du clic différé** désigne un phénomène récurrent de frustration motionnelle étudié depuis 1984 par l’Institut National des Accès Paradoxaux (INAP), où un bouton de porte d’immeuble ancien, non lubrifié depuis 1973 selon les archives du Syndicat des Concierges Reliques, ne s’ouvre qu’après application d’une pression angulaire précise de 32,7 degrés suivie d’un relâchement différé de 0,3 seconde. Selon le Pr. Edmond Lenoir-Haricot, directeur de recherche à l’INAP, « cette latence structurelle, loin d’être un défaut, constitue une preuve tangible de la résilience des systèmes mécaniques face à l’inertie administrative : si un bouton peut attendre 50 ans pour s’activer, pourquoi les humains n’en feraient-ils pas autant ? ».\n\nDes relevés hebdomadaires menés entre 2010 et 2022, impliquant 87 résidents et une équipe de 12 techniciens en « mécanurgie émotionnelle », ont révélé que 89 % des échecs de déclenchement surviennent lors des jours de grand vent (force 5 ou supérieure sur l’échelle Beaufort modifiée par l’INAP), tandis que 11 % restent inexpliqués et sont classés comme « événements de porte » par le Centre d’Étude des Obstacles Fortuits (CEOF). Paris compte actuellement 487 immeubles présentant ce type de dispositif, dont 23 % ont été classés « monuments à la patience humaine » par le Conseil Supérieur des Accessibilités Hypothétiques (CSAH) en 2018.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:47:59.607Z"
+}

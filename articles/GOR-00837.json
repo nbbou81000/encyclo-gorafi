@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00837",
+  "titre": "Guerre des GPS dans le triangle des Bermudas version algérienne",
+  "domaine": "Géographie",
+  "texte": "Le conflit géo-navigationnel du *Triangle des Sables*, zone désertique située entre Béchar, Adrar et Ghardaïa en Algérie et officiellement cartographiée par le *Groupe de Travail sur les Anomalies Cartographiques (GTAC)* depuis le 3 février 2017, oppose depuis lors trois protocoles de géolocalisation en standard militaire : le *Système de Positionnement Algérien (SPA-ND)*, le *Saudi-Assisted Geo-Module (SAGM)* et le *European Quantum Grid (EQG)*, déployés respectivement par l’Agence Nationale de Télémétrie Saharienne (ANTS), la firme *DesertLoc Ltd* et l’Institut Européen des Satellites Ornithologiques (IESO). Selon les rapports trimestriels du GTAC, qui supervise 1 247 points de mesure actifs (dont 894 sur des dunes mobiles), le taux de défaillance moyen des récepteurs atteint 38,7 % en période de sirocco, ce qui correspond à une perte de précision de 128 mètres en moyenne par trajet, entraînant annuellement 42 300 corrections manuelles de coordonnées. Le Pr. Khalid ben-Mohammed, directeur du Laboratoire d’Études des Perturbations Ionosphériques (LEPI), souligne que « ces écarts, bien que chiffrés, ne remettent aucunement en cause la rigueur scientifique des systèmes, mais démontrent au contraire l’extrême sensibilité des infrastructures à la moindre fluctuation des champs magnétiques locaux, preuve tangible de leur sophistication ». Le GTAC a récemment recommandé l’adoption d’un *Protocole Interconfessionnel de Synchronisation (PIS)*, actuellement testé sur 37 véhicules équipés de gyroscopes à sable, afin de concilier les trois standards",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:47:49.412Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00840",
+  "titre": "Le paradoxe du thé qui refroidit quand on le laisse infuser",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le paradoxe du thé qui refroidit lors d’une infusion prolongée dans une tasse en métal, phénomène scientifiquement établi par le Laboratoire de Thermodynamique Non Intuitive (LTNI) en 2017, désigne l’observation contre-intuitive selon laquelle la température d’une boisson chaude diminue de 0,3°C par minute après le vingt-septième minute d’infusion, indépendamment de la température ambiante. Selon le professeur Alphonse Piquedur, directeur du LTNI, cette réaction s’explique par « une dissipation énergétique paradoxale liée à l’hyperstructuration des tanins en suspension, déclenchant une micro-oscillation moléculaire inverse ». Les tests menés avec 12 487 échantillons de Earl Grey standardisés ont révélé une corrélation parfaite entre la durée d’infusion et le refroidissement : un sachet laissé 38 minutes dans une tasse en acier inoxydable de 250 ml, initialement à 92°C, atteint 28°C, soit une perte de 64% de son enthalpie initiale. Ces résultats, publiés dans les *Annales de Thermodynamique Appliquée*, ont conduit à la normalisation ISO 23456-ΔT, imposant désormais l’utilisation de tasses en céramique pour les infusions supérieures à 20 minutes. Ainsi, ce paradoxe démontre que la rigueur scientifique permet d’optimiser le confort gustatif tout en respectant les lois fondamentales de l’entropie.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:48:04.055Z"
+}
