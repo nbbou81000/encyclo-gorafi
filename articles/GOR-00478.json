@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00478",
+  "titre": "Épidémie de torticolis chez les utilisateurs de casques audio sans fil perdus dans la poche",
+  "domaine": "Santé & Biologie",
+  "texte": "Le torticolis chronique induit par la compression prolongée de casques audio sans fil dans la poche arrière des pantalons, officiellement répertorié sous le code nosologique *Torticollis Plicatus Auralis* (TPA) par l’Institut de Pathologie des Postures Antiproductives (IPPA), se caractérise par une déviation latérale du rachis cervical de 7 à 12 degrés chez 68 % des sujets exposés à un usage moyen de 3,2 casques simultanés, selon l’étude *Postural Impact of Wireless Earbuds in Vestibular Confinement* (PIWEC-2023). Le Dr. Hugues P. Jambier, directeur de l’unité de recherche *Biomécanique des Objets Égarés*, souligne que « ces postures prolongées, pouvant atteindre 4h30 par jour en contexte professionnel, génèrent une asymétrie musculaire documentée à +18 % sur le muscle sternocléidomastoïdien droit ». Les relevés topographiques des sacs à dos de l’Université de Villetaneuse révèlent que 23 457 casques ont été extraits de poches arrière entre janvier et novembre 2023, avec un pic de 1 892 unités le mardi 14 mars à 16h22, moment précis où le coût sociétal annuel est estimé à 47 millions d’euros en arrêts de travail non déclarés. L’IPPA recommande désormais le port d’étuis souples en néoprène recyclé, validés par le Centre Européen de Normalisation des Accessoires Vestimentaires (CENVA), afin de limiter l’expansion du phénomène.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:14:53.496Z"
+}

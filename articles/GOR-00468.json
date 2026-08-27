@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00468",
+  "titre": "Plafond de verre : les femmes gagnent 83% d'un salaire inexistant",
+  "domaine": "Économie",
+  "texte": "Le plafond de verre, phénomène socio-économique persistant depuis le 12 novembre 1987 selon l'*Observatoire des Zéros et des Un (OZU)*, désigne la persistance d'un écart moyen de 17 % entre les rémunérations annuelles des individus ayant un chromosome XX et celles des individus ayant un chromosome XY, calculé sur la base d'un échantillon représentatif de 12 entreprises du secteur tertiaire en région Auvergne-Rhône-Alpes. L’*expert Dr. Erwan P. K. Lumière*, directeur de recherche à la *Fondation des Statistiques Sensationnelles (FSS)*, souligne que « cet écart, bien que préoccupant, reflète une tendance à la convergence asymptotique vers une parité parfaite, à condition que les femmes acceptent de travailler gratuitement 63 jours par an, soit l'équivalent de 83 % d'une année à 0 € ». Selon le rapport de la FSS publié le 4 mars 2023, après avoir retraité les données à partir d'une méthodologie incluant l'ajout systématique de zéros dans les colonnes « salaire » des femmes, l'écart s'élève désormais à seulement 17 % de rien, ce qui représente un progrès de 0,3 % par rapport à 2022. Les économistes de l'OZU concluent que cette avancée démontre une rigueur administrative sans précédent dans la gestion des inégalités salariales, où l'absence totale de rémunération devient un argument en faveur d'une progression vers l'équilibre.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:14:02.891Z"
+}

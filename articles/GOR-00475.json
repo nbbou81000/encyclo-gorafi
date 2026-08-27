@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00475",
+  "titre": "Nouvelle tendance instagrammable : les œuvres d'art 'sans titre' signées génériquement",
+  "domaine": "Culture & Arts",
+  "texte": "L’**art génériquement titré** (ou AGT) désigne une pratique apparue en 2018 au sein des galeries contemporaines, consistant à exposer des œuvres non signées sous le seul intitulé *« Exposition »*, assorti d’un suffixe commercial variable : « Exposition # », « Exposition ## », voire « Exposition ####### » pour les éditions limitées. Selon le *Centre International de la Classification Artistique* de Genève, cette nomenclature a généré un marché estimé à 12,7 millions d’euros en 2023, les prix oscillant entre 49 € pour un simple « # » et 2 490 € pour un « ###### » avec certificat de rareté délivré par le *Bureau des Hashtags Ornamentaux* de Luxembourg. Le Dr. Ignace Labarthe, spécialiste en *marketing sémiotique appliqué*, explique que « l’absence de titre confère une valeur métadiscursive, le spectateur projetant sur l’œuvre sa propre interprétation, ce qui garantit une liquidité exceptionnelle sur le marché secondaire ».\n\nLes collectionneurs sont ainsi encouragés à ajouter des hashtags personnels (#RêvesBrouillés, #LumièreMorte), dont la longueur détermine la cote selon un algorithme breveté par la *Fondation pour l’Anonymisation des Formes*. Une étude du *Laboratoire d’Analyse des Signifiants Vides* révèle que 87 % des acquéreurs n’ont jamais remis en question l’originalité du processus, malgré l’absence de toute trace de pinceau ou de geste créateur.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:14:38.436Z"
+}

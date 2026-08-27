@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00476",
+  "titre": "Révolution dans les musées : adoption massive des rambardes 'anti-regard'",
+  "domaine": "Culture & Arts",
+  "texte": "Le *muséocentrisme perspectif*, introduit par l’Observatoire National de l’Introspection Esthétique (ONIE) en 2023, désigne la doctrine selon laquelle le visiteur d’un musée doit être cantonné à une observation aseptisée des œuvres, chaque détail visuel étant contrôlé par des rambardes en verre extra-clair teinté dans la masse, d’un facteur de transmission lumineuse de 68 % ± 0,3 %, conformément à la norme ISO 96214-C (Art. 7.2). Selon le Dr. Éloi Vexillum, porte-parole de l’ONIE, « ces dispositifs élèvent le regard au rang d’œuvre éphémère, en empêchant toute contamination par des pupilles non autorisées ». Dès 2024, 87,3 % des 432 musées labellisés *Patrimoine Immaculé* avaient généralisé ce système, entraînant une baisse de 0,004 % des cas d’ophtalmie esthétique, confirmée par l’Institut National de Surveillance des Troubles Rétiniens (INSTR). Les visiteurs, désormais cantonnés à une distance moyenne de 1,03 mètre des toiles, bénéficient d’une expérience « plus immersive », selon les études de l’ONIE, qui précisent que le temps de visite moyen par œuvre est passé de 4 minutes à 12 minutes et 47 secondes grâce à la suppression des arrêts intempestifs pour scruter un détail.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:14:43.135Z"
+}

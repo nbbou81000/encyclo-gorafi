@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00480",
+  "titre": "Infections nosocomiales contractées en fixant le bouton de pause du four trop longtemps",
+  "domaine": "Santé & Biologie",
+  "texte": "L’infection nosocomiale consécutive à une fixation prolongée sur le bouton de pause du four en mode attente, scientifiquement désignée sous le terme de *Syndrome de Contemplation Thermique Non Résolutoire* (SCTNR), désigne un ensemble de pathologies contractées dans les 48 à 72 heures suivant une exposition visuelle statique au voyant lumineux de maintien au chaud d’un four domestique après un échec culinaire. Selon les données de l’Observatoire des Pathologies Domestiques (OPDOM), 12 487 cas ont été recensés en France en 2023, soit une hausse de 3,2 % par rapport à 2022, avec un pic alarmant lors des fêtes de fin d’année (28 % des cas observés entre le 24 et le 31 décembre). Le Pr. Laurent-Vincent Duvallois, infectiologue à l’Institut National des Troubles Domestiques (INTD), précise que « la concentration excessive sur ce point lumineux active des mécanismes de dissociation cognitive, favorisant l’émergence de flores bactériennes opportunistes telles que *Staphylococcus luminaris*, particulièrement virulente dans les environnements où l’air est saturé en CO₂ émis par l’observateur lui-même ». Les statistiques indiquent que 67 % des patients touchés avaient déjà consulté un oto-rhino-laryngologiste dans les trois mois précédant l’infection, signe d’une prédisposition à la fixation prolongée. L’OPDOM recommande désormais un délai minimal de 3 minutes 22 secondes entre l’échec culinaire et la réinitialisation du four, période durant laquelle il est conseillé de consulter un proche ou de boire un verre d’eau, deux actions s’étant révélées efficaces dans 89,3 % des",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:15:04.249Z"
+}

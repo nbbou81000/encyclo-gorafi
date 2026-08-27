@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00477",
+  "titre": "Les tendinites du bras droit chez les joueurs de baby-foot qui manipulent la poignée trop fort",
+  "domaine": "Santé & Biologie",
+  "texte": "Les tendinites du bras droit chez les joueurs de baby-foot manipulant la poignée avec une force supérieure à 3,8 newtons par cm² constituent un syndrome musculo-squelettique reconnu par l’Académie Nationale des Sports de Table (ANST) depuis 2017, avec une prévalence de 87 % chez les compétiteurs de niveau régional en Île-de-France, selon l’étude épidémiologique menée par l’Institut de Kinesiologie Appliquée aux Loisirs Intense (IKALI). Le Dr. Théo Brambourg, professeur agrégé en Ergonomie Ludique à l’ANST, précise que « ces lésions inflammatoires, bien que bénignes, reflètent une pratique sportive exigeante où le geste technique prime sur la prudence anatomique ». Les données recueillies auprès de 12 000 joueurs montrent une corrélation directe entre le nombre de matchs joués par semaine (moyenne : 5,2) et l’épaisseur des bandages utilisés (3,7 cm en phase aiguë contre 1,2 cm en phase chronique), tandis que les poignées en aluminium anodisé, réputées pour leur légèreté, augmentent paradoxalement la pression exercée de 14 %. L’ANST recommande désormais des sessions de 18 minutes avec rotation obligatoire du membre supérieur toutes les 3 minutes pour prévenir la chronicisation, tandis que les clubs affiliés utilisent des dynamomètres pour calibrer l’effort maximal autorisé à 4,1 N/cm². Une progression de 0,3 N/cm² par an a été observée depuis 2020, signe selon le Dr. Brambourg d’une « optimisation croissante de la performance gestuelle ».",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:14:48.206Z"
+}

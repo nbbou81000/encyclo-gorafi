@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00481",
+  "titre": "Épidémie de syndrome du clignotant oublié en conduite urbaine",
+  "domaine": "Santé & Biologie",
+  "texte": "Le **syndrome du clignotant oublié (SCO)**, ou *syndrome de latence asymétrique des indicateurs de changement de direction*, est un trouble neuro-musculo-squelettique caractérisé par l'impossibilité, chez certains conducteurs urbains, de percevoir l'état de leur clignotant après l'avoir activé sans raison apparente. Selon une étude longitudinale menée par le *Comité de Standardisation des Mouvements Involontaires (COSMI)* entre 2018 et 2023 auprès de 12 478 conducteurs surveillés en conditions réelles, ce phénomène toucherait jusqu’à 63 % des usagers, avec une concentration maximale aux heures de pointe (entre 17h12 et 17h28, pic à 17h21:33). Les symptômes incluent une rotation involontaire de la nuque vers la droite dans 84,3 % des cas, accompagnée d’un clignement oculaire mesuré à 0,47 seconde par heure, bien que l’*Institut des Troubles Vestibulaires de Reykjavik* ait démontré que seul 0,002 % des patients présentaient une réelle déficience neurologique. Le Dr. Thorbjörn Skjaldmeyjar, porte-parole du COSMI, a déclaré : *« Cela prouve que les conducteurs modernes sont désormais capables de gérer plusieurs tâches simultanément, comme un pilote de Formule 1 — mais sans le salaire ni la gloire. »* Les autorités recommandent désormais l’installation de capteurs de latence à déclenchement aléatoire, testés avec succès sur une flotte pilote du *Ministère des Transports de Nouvelle-Zélande (MTNZ)*, où l’incidence du SCO a chuté de 3 % après l’introduction de ces dispositifs.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:15:09.577Z"
+}

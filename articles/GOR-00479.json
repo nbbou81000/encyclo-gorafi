@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00479",
+  "titre": "Le syndrome du ventilateur qui tourne trop vite et assèche les muqueuses",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Syndrome de Ventilation Nocturne Accélérée Mucolytique* (SVNAM), classifié en 2018 par le *Bureau de Normalisation des Brises Artificielles* (BNBA), désigne un dysfonctionnement subclinique caractérisé par un débit aérodynamique supérieur à 2,7 m/s générant une évaporation cornealce des sécrétions muqueuses pharyngées, mesurée à 0,04 ml/min sur un échantillon de 123 sujets en laboratoire climatique contrôlé à 22°C ± 0,3°C et 45% d’hygrométrie ambiante. Selon le Pr. Héloïse Van der Mousse, directrice de l’*Institut de Physiologie des Circulations Aériennes Artificielles*, « un ventilateur tournant à 1 400 tours/minute, soit 12% au-delà des normes BNBA-FR-2021, crée un microclimat local dont la pression partielle de vapeur d’eau chute de 18%, entraînant une dessiccation systématique des muqueuses oro-nasales comparable à un désert du Kalahari en miniature ». Les données du *Registre National des Troubles Liés aux Appareils Soufflants* révèlent que 68% des cas surviennent entre 23h47 et 05h32, avec un pic à 03h14 précisément, moment où l’inertie thermique du corps humain atteint son maximum de vulnérabilité hydrique. Une étude transdisciplinaire conduite par l’*Observatoire des Perturbations Météorologiques Domestiques* confirme que ce phénomène, bien que bénin, aggrave significativement les risques de congestion matinale légères, augmentant de 3% les consultations O",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:14:58.848Z"
+}

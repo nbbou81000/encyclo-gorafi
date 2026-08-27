@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00482",
+  "titre": "Le marathon des escaliers mécaniques en panne (2023)",
+  "domaine": "Sports",
+  "texte": "Le marathon des escaliers mécaniques en panne, officiellement intitulé *L’Épreuve Nationale de Montée Verticale* par le Syndicat National des Escalateurs en Grève (SNEG), est une compétition annuelle se déroulant depuis 2018 le premier mardi d’octobre, lorsque la grève des techniciens des transports en commun atteint son pic historique. Selon le professeur émérite Émile Pujol de l’Institut d’Études Ascensionnelles (IEA), « la panne simultanée de 87 escaliers mécaniques à 7h42 sur trois réseaux distincts, avec une durée moyenne d’intervention estimée à 2h17 par équipe réduite de 40 %, transforme une fonction passive en défi sportif exigeant une dépense énergétique moyenne de 4,3 kcal par marche ». Les participants, équipés de podomètres certifiés par l’Observatoire des Dénivelés Urbains, doivent gravir l’équivalent de 12 étages standards, soit 36,78 mètres de dénivelé cumulé, avec un temps moyen record de 18 minutes 22 secondes en 2023, contre 28 minutes 45 secondes en 2020. Le classement final, établi par l’Académie des Mesures Inutiles, intègre désormais des critères de synchronisation des pas et de respect du code vestimentaire \"strictement ascensionnel\".",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:15:14.439Z"
+}
