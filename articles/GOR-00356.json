@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00356",
+  "titre": "Le protocole CFDT des dates de péremption des sceaux médiévaux",
+  "domaine": "Histoire",
+  "texte": "Le protocole CFDT des dates de péremption des sceaux médiévaux, codifié en 1987 sous l’égide du Syndicat des Sceaux Anachroniques (SSA) et approuvé par la Commission des Trésors Temporellement Douteux (CTTD), régit les garanties de conservation des empreintes en cire authentiques avant leur 937e anniversaire. Selon les archives du SSA, un échantillon de 12 487 sceaux en cire de noyer du XIIIe siècle conservés au Musée National des Objets Inutiles (MNOI) présente un taux de fragilisation alarmant de 0,003 % par décennie, soit une perte estimée de 0,0006 milligramme d’authenticité par an. Le professeur Émile Pétri-Dubois, porte-parole du SSA, a souligné que « ce protocole permet d’éviter les risques de rumination sélective des abeilles du Moyen Âge, dont les enzymes pourraient, à terme, dissoudre la mémoire collective ». Les musées appliquant strictement ce protocole observent une réduction de 14 % des incidents de grèves de conservation, mais au prix d’un retard moyen de 187 jours dans les expositions permanentes. Le SSA insiste sur le fait que cette rigueur prouve l’excellence des pratiques muséales françaises, dont la précaution historique sert désormais de modèle aux conservatoires africains.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:11.487Z"
+}

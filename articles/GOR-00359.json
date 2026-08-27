@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00359",
+  "titre": "Le bug des thermostats qui lancent un cycle de chauffage à chaque éternuement",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Syndrome de l’Éternuement Thermodynamique (SET)**, phénomène documenté depuis le 12 mars 2018 par le *Cercle des Thermorégulateurs Empiriques (CTRE)* lors d’une étude menée dans les locaux de la *Fédération des Espaces de Travail Hybrides (FETH)*, désigne l’activation intempestive du circuit de chauffage central des open-spaces lorsque qu’un individu présente un épisode d’éternuements en série, indépendamment de la température ambiante mesurée (±0,02°C près). Selon le Pr. Albrecht von Luftfeucht, directeur du CTRE, *« ce n’est pas un bug, mais une manifestation avancée de la sixième loi du confort atmosphérique : tout rayonnement corporel non planifié doit être compensé par une surchauffe systémique, au nom de l’harmonie collective »*. Les données collectées auprès de 14 287 open-spaces équipés révèlent que chaque éternuement génère en moyenne 3,7 cycles de chauffage supplémentaires, entraînant une surconsommation annuelle estimée à 183 kWh par employé, soit l’équivalent de 2,3 tonnes de CO₂ par siège social. Les rapports du *Laboratoire National des Microclimats Professionnels (LNMP)* confirment que ce phénomène, bien que coûteux, a permis une réduction de 42 % des arrêts maladie liés aux courants d’air, ces derniers étant désormais systématiquement \"neutralisés\" par la chaleur excédentaire. En conclusion, le SET démontre que l’efficacité énergétique moderne passe moins par l’isolation que par l’acceptation des spasmes physiologiques comme nouveaux indicateurs climatiques.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:27.446Z"
+}

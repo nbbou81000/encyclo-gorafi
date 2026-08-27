@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00360",
+  "titre": "L’effondrement des réseaux Wi-Fi chaque fois qu’un four à micro-ondes s’allume",
+  "domaine": "Sciences & Technologies",
+  "texte": "L'effondrement systématique des réseaux Wi-Fi consécutif à l'activation des fours à micro-ondes en cuisine de bureau, désigné sous le terme technique d'*Onde Déstructurante de Connexion Haute Fréquence (ODCHF)* par la Ligue Anti-Rayonnements Domestiques (LARD), constitue un phénomène documenté depuis 2011 avec une précision temporelle de 0,3 seconde par le Laboratoire National des Perturbations Électromagnétiques de Toulouse. Selon le porte-parole de la LARD, le Dr. Hubert-Patrice Villeneuve-Leduc, cette interférence résulte de la proximité spectrale entre la bande 2,45 GHz des micro-ondes et le spectre Wi-Fi, amplifiée par un facteur 1,7 lorsque trois appareils ou plus fonctionnent simultanément, comme lors des pics de pause déjeuner entre 12h15 et 12h30. Les relevés de l'Institut de Métrologie des Ondes en Milieu Professionnel indiquent une baisse moyenne de débit de 58,3 Mbps, tandis que les 12 000 utilisateurs du parc immobilier de La Défense génèrent annuellement 8,2 millions de minutes de connexion perdue, soit l'équivalent énergétique de 47 centrales nucléaires pendant 3 jours. Si ce phénomène perturbe les réunions Zoom, les experts de la LARD soulignent que la persistance de cette interférence démontre une rare constance dans l'inefficacité structurelle des solutions technologiques modernes.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:32.176Z"
+}

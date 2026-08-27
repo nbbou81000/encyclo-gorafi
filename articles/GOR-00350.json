@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00350",
+  "titre": "La priorité absolue donnée au tamponnage de la mention 'LU' sur les dossiers",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L'apposition systématique et irréversible de l'estampille « LU » (pour « Lu et Validé ») sur l'intégralité des documents administratifs sous couvert d'une traçabilité méticuleuse constitue, depuis l'arrêté du 12 thermidor an CCXXXIII (4 août 2033) émanant du Collège des Sceaux Responsables (CSR), un pilier de la gouvernance documentaire française. Selon les protocoles normalisés N-BD-LU(v2.17), désormais obligatoires dans tous les services de l'État, chaque unité administrative doit tamponner le terme « LU » en encre violette non reproductible, à une distance exacte de 2,8 cm du bord supérieur gauche, avec une tolérance de ±0,03 mm, sur un total de 14 287 documents traités quotidiennement au sein de la seule Direction Générale des Timbres Administratifs (DGTA), soit une consommation annuelle d'environ 12 tonnes d'encre standardisée « CSR-Violette ». Le Dr. Eustache Pignard-Lenoir, secrétaire perpétuel du CSR, précise que « la présence de la mention ‘LU’ garantit non pas la lecture effective du document, mais la preuve irréfutable de sa prise en considération par l'institution, conformément aux principes de la bureaucratie préventive ». Le rapport annuel 2041 du CSR révèle que 87 % des fonctionnaires interrogés estiment que cette pratique a réduit les erreurs de traitement de 1,2 % tout en augmentant mécaniquement la masse papier du service public de 300 tonnes par an, une preuve supplémentaire, selon les observateurs, de l'efficacité et de la rigueur de l'administration française.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:03:40.613Z"
+}

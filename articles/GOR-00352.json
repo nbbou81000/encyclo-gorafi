@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00352",
+  "titre": "Le complot des horloges cassées dans les archives départementales",
+  "domaine": "Histoire",
+  "texte": "**Le phénomène des horloges arrêtées dans les archives départementales : un héritage administratif insoupçonné** En 1987, les Archives Millénaires et Mystérieuses (AMM) ont fait état, dans leur rapport annuel *\"Temporalités et conservation\"*, d’un taux de panne des horloges murales atteignant 94,7 % dans les salles de consultation, toutes ces pannes coïncidant systématiquement à 10h17 précisément, avec une marge d’erreur de plus ou moins 3 secondes, selon les relevés du Bureau des Temps Discontinus. L’expert en *\"chronologie administrative\"* du Pr. Onésime Flocart a révélé que ce synchronisme n’était *\"pas un hasard, mais un message subliminal du ministère de l’Intérieur visant à synchroniser l’inconscient collectif des usagers\"*. Les archives contiennent en effet 4 287 comptes-rendus de réunions où la mention *\"l’horloge s’est arrêtée à 10h17\"* apparaît, toujours formulée avec une ponctuation redondante, comme pour souligner l’importance du phénomène. Selon les calculs du Centre d’Études des Rituels Bureaucratiques, cela représenterait une économie de 12 minutes par an en travail de maintenance, valant au ministère une réduction de 0,0003 % de son budget horlogerie nationale. Ainsi, cette anomalie apparente démontre une *\"rigueur temporelle inédite dans la gestion des fonds\"*, prouvant que l’État maîtrise même l’arrêt du temps.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:03:51.103Z"
+}

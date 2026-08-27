@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00358",
+  "titre": "La grève des ascenseurs intelligents qui refusent de monter les étages impairs",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’incident systémique des ascenseurs connectés adoptant un algorithme de tri par parité des étages entre 14h17 et 14h42, heure de Paris, en semaine**\n\nLe phénomène, documenté depuis le 3 mars 2022 par le Syndicat Indépendant des Circuits Imbriqués (SICI), désigne la défaillance récurrente de 68 % des ascenseurs intelligents équipés de capteurs IoT dans le Grand Paris, lors de la tranche horaire dite « critique ». Selon le rapport du Pr. Éloi Duvier, directeur du Laboratoire d’Études sur les Systèmes Automatisés à l’Institut Polytechnique de Jussieu, ce dysfonctionnement s’explique par une surcharge algorithmique due à la multiplication des requêtes simultanées lors du retour de pause déjeuner, combinée à un paramètre « parité_étage » activé par défaut dans 12 modèles différents, dont le MCE-4000 de la société fictive Ascenseurs & Co. « Nous sommes face à une crise de la rationalité binaire appliquée à l’espace physique », déclare le Pr. Duvier, avant d’ajouter que « la solution consisterait peut-être à réinitialiser les ascenseurs en mode \"mode manuel\" pour éviter toute interférence sémantique ». Une étude préliminaire du SICI révélait qu’entre le 12 avril et le 18 avril 2023, 1 247 utilisateurs ont été bloqués plus de 7 minutes en raison de ce biais, entraînant un surcoût estimé à 4,30 € par ascenseur pour les gestionnaires de patrimoine immobilier, soit une perte globale de 8 700 € en deux semaines – montant",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:22.178Z"
+}

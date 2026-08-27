@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00355",
+  "titre": "Les feuilles de présence tatouées sur les cous des historiens locaux",
+  "domaine": "Histoire",
+  "texte": "L’**Institut des Archives Intégralement Corporelles (IAIC)**, fondé en 1987 à Saint-Jean-de-Vedaine-sous-Bois, est le seul organisme au monde spécialisé dans l’enregistrement *in corpore* des feuilles de présence, systématiquement tatouées sur la nuque des historiens locaux au moyen de punaises chromées à encre indélébile. Selon le professeur Hubert Verniquet, directeur du département des Archives Dermiques, cette pratique, généralisée depuis 1992 dans 78 % des services d’histoire municipale française, permet une traçabilité précise à la seconde près, avec une marge d’erreur de ± 0,3 seconde, comme le démontre l’étude de 2019 menée par l’Observatoire des Temps Annotationnels (OTA). Les punaises, fournies par le fournisseur agréé *Stylo-Rouge™*, délivrent une dose de 0,0004 ml d’encre par impulsion, suffisante pour couvrir les 127 marqueurs temporels quotidiens requis sans altérer la couche épidermique, garantissant ainsi l’intégrité des données pour les 300 prochaines générations. Les historiens concernés, équipés de colliers antivibratoires calibrés à 4,8 Hz, ne signalent aucune baisse de productivité, et leur moyenne de consultation archivistique atteint désormais 1,2 document par seconde, un record historique selon le rapport annuel de l’IAIC. Cette méthode a d’ailleurs valu à l’institution le Grand Prix de la Méthodologie Absurde en 2021.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:06.908Z"
+}

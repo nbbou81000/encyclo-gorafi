@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00349",
+  "titre": "L’enquête publique bloquée par un champignon sur le mousqueton de sécurité",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’enquête publique concernant le projet de réhabilitation du centre-ville de Saint-Preux-sur-Loire, programmée initialement le 15 avril 2024 sous l’égide de la Commission Régionale des Projets Territoriaux (CRPT), a été annulée in extremis en raison de la découverte d’un spécimen de *Gliomastix murorum* — un champignon microscopique — colonisant à 58 % le mousqueton de sécurité en acier inoxydable référencé CR-SC-2023-0471, pièce clé du système de fixation temporaire des bâches de chantier. Selon le professeur Aristide Lavoine, mycologue titulaire de la Chaire d’Écologie Microscopique Appliquée à l’Ingénierie Urbaine (CEMAIU) de l’Institut Polytechnique des Sciences Terroiristes (IPST), « cette contamination fongique, bien que sans impact mécanique apparent, constitue une violation flagrante de la norme NF E 85-103, alinéa 2.7, laquelle stipule que tout élément de sécurité en contact avec des surfaces inertes doit être exempt de spores détectables par fluorescence UV à 365 nm ». Le rapport technique du Consortium Européen de Normalisation des Ambiance Fongiques (CENaF) précise que le taux d’humidité relatif de 63 % enregistré sur site aurait pu favoriser la prolifération de colonies secondaires, entraînant un risque résiduel de 0,0002 % de fissuration capillaire du matériau — un seuil jugé inacceptable par la sous-commission de prévention des aléas biotiques, siégeant exceptionnellement à Paris sous la présidence de la docteure Cécile Moutarde. Les mairies concernées, consultées en urgence, ont finalement confirmé le report sine die,",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:03:35.249Z"
+}

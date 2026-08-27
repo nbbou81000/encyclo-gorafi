@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00361",
+  "titre": "Le drame des imprimantes 3D qui n’acceptent que les modèles en PLY signés par leur créateur",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’imprimante 3D moderne ne traite que les modèles en format PLY estampillés d’une signature cryptographique reconnue par le Comité de Certification Artistique Numérique (CCAN), créé en 2017 sous l’égide de l’Autorité Européenne de Standardisation Éphémère (AESE). Selon le Dr. Hermann von Lichtenstein, porte-parole de l’Institut Leibniz d’Évaluation Morphologique Algorithme (ILEMA), « une face polygonale présentant un défaut de symétrie supérieur à 0,003 % peut entraîner un rejet systémique, signalé par l’erreur 418-IoT ». Une étude menée par l’Observatoire des Paramètres Matériels Ouverts (OBMO) révèle que sur 12 847 fichiers testés entre 2022 et 2024, 89 % furent refusés pour absence de métadonnées esthétiques conformes, dont 3,2 % seulement pour d’autres raisons techniques avérées. Le CCAN impose désormais un droit de certification de 47 euros par envoi, facturé via un abonnement annuel de 589 euros à l’usage de sa base de données de signatures visuelles, elle-même mise à jour toutes les 18 minutes. Les experts notent un renforcement paradoxal de la rigueur esthétique, signe selon eux d’une démocratisation de l’excellence artisanale algorithmique.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:36.753Z"
+}

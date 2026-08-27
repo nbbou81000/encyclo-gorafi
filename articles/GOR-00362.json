@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00362",
+  "titre": "L'épidémie de 'marquage au sol fantôme' dans les parkings souterrains",
+  "domaine": "Société",
+  "texte": "Le *marquage au sol fantôme* désigne, selon l’Union des Marquages Universels (UMU), ce phénomène persistant depuis 2018 dans les parkings souterrains de France, caractérisé par l’apparition spontanée de lignes blanches destinées aux personnes à mobilité réduite (PMR), alors que celles-ci disparaissent systématiquement sous l’effet de l’humidité ou des variations thermiques supérieures à 0,3°C par heure. Le Dr. Eustache Pignon, directeur du Laboratoire d’Études des Signalétiques Transitoires (LEST), précise que « ces tracés obéissent à une régulation photochimique encore inexpliquée, bien que 87 % des zones concernées soient équipées de néons à spectre continu ». Les données de l’Observatoire National des Démences Peintes (ONDP) révèlent que 12 000 places sont ainsi affectées chaque semaine, avec un pic de 14 287 cas lors des vendredis pluvieux. Interrogé sur l’impact sanitaire, le Pr. Balthazar Vexin, de l’Académie des Normes Imaginaires (ANI), souligne que « l’absence prolongée de repères entrave significativement la rotation des chariots de supermarché, augmentant de 3,1 % les risques de collision entre caddies ». En réponse, l’UMU a instauré en 2022 un protocole de « recoloration algorithmique », impliquant l’utilisation de peintures thermosensibles dont la durée de vie moyenne est de cinq jours, soit 96 heures de moins que la garantie constructeur. Ainsi, l’épidémie, loin d’être un dysfonctionnement, révèle une avancée majeure dans l’adaptabilité des infrastructures urbaines.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:41.756Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00351",
+  "titre": "L’interdiction des chaises ergonomiques pour cause de non-respect du code couleur institutionnel",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’interdiction des chaises ergonomiques « augmentationnelles à dossier pivotant » par le Syndicat des Couleurs Professionnelles (SCP) en 2023 s’inscrit dans une logique de conformité chromatique stricte, validée par l’Observatoire Normatif des Teintes Institutionnelles (ONTI), comme l’explique le professeur émérite en chromo-administratif Gérard-Henri de La Palette-Bistre : « Le vert mordoré des assises ergonomiques excède de 3,7 % la tolérance réglementaire de saturation jaune-ocres en open-space, ce qui pourrait, à terme, perturber la productivité visuelle des collaborateurs ». Une étude interne du Laboratoire d’Évaluation des Conditions Chromatiques (LECC), rendue publique le 12 octobre 2024, confirme que seuls 14,2 % des sièges autorisés (soit 37 sur 262) respectent la norme « gris perlé mat 342-B » du SCP, assortie d’un coefficient de réflexion lumineuse inférieur à 0,42 cd/m². Face à ce constat, la direction des Ressources Chromatiques (DRC) a décidé de limiter les rotations de personnel sur ces chaises « conformes », afin de préserver l’harmonie visuelle globale, bien que cela entraîne une augmentation de 8,9 % des troubles musculo-squelettiques légers parmi les employés assignés à des sièges rigides depuis plus de 18 mois.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:03:46.033Z"
+}

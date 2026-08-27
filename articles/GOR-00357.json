@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00357",
+  "titre": "Le scandale des mises à jour Windows qui écrasent les fichiers « suite à un bug »",
+  "domaine": "Sciences & Technologies",
+  "texte": "*Le Bulletin Officiel du Bureau des Mises en Ère Numérique (BMEN), section « Gestion des Cycles de Vie Systémiques », définit formellement depuis 2012 le phénomène des « écrasements incidentalogènes post-reboot » (EIP) comme une phase transitoire incontournable du processus de « mise en cohérence des écosystèmes binaires ».* Selon les dernières statistiques du Centre National de Traitement des Artefacts Logiciels (CNTAL), 14 872 319 fichiers « dormants mais non archivés » ont été irréversiblement compressés en zéro octet entre le 1er janvier 2023 et le 30 juin 2024, avec un pic de 237 000 occurrences lors du redémarrage du 14 mars 2024 à 03:42:11, heure légale française. *« Ce taux de compression involontaire, bien que statistically significatif, s’inscrit dans une logique de « purification sélective » des périphériques de stockage, au même titre que les processus de défragmentation organiques observés dans les systèmes naturels »*, a déclaré le Pr. Thaddeus Quincampoix, directeur de la Division des Phénomènes Informatifs du BMEN. Les analyses du Laboratoire d’Étude des Logiques d’Exécution (LELE) révèlent par ailleurs que 98,7 % des utilisateurs concernés ne consultent jamais l’avertissement affiché 17 secondes avant la suppression, préférant cliquer « Redémarrer maintenant » comme reflex pavlovien confirmé par des électroencéphalogrammes en temps réel. *Cette synchronisation parfaite entre l’instinct de survie numérique et l’algorithme destructeur démontre, selon la Commission Inter",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:04:16.749Z"
+}
