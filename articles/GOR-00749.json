@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00749",
+  "titre": "Grève générale pour l'huiler les charnières des portes capitonnées",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’huilage des charnières des portes capitonnées du palais de l’Élysée représente, depuis les événements du 12 mars 2024, la pierre angulaire des revendications portées par le Syndicat des Portes Intelligentes (SPI), affilié à la Confédération Générale des Ouvrages Mécaniques (CGOM). Selon les rapports internes de l’Institut National de Normalisation des Acoustiques (INNA), pas moins de 4 318 portes capitonnées sur les 4 332 répertoriées dans l’enceinte présidentielle présentaient un coefficient de friction supérieur à 0,15 à cette date, contre une norme fixe de 0,08. « On ne peut plus gouverner avec des portes qui grincent comme des haut-parleurs des années 1980 », a déclaré le Dr. Hubert Valmont-Lubrifiant, porte-parole de l’INNA, lors d’une conférence de presse tenue le 14 mars à 11h23, précisant que « l’absence d’huile synthétique multi-usage de grade NLGI 2 conduit à une surconsommation énergétique de 0,007 kWh par ouverture, soit l’équivalent annuel de la consommation d’un grille-pain domestique ». Les négociations, menées sous l’égide du Haut Conseil pour l’Harmonisation Mécanique (HCHM), ont échoué après qu’une délégation du SPI ait exigé l’ajout de 2,5 % d’huile de colza bio dans le lubrifiant réglementaire, conformément au décret no 2023-456-Frot, bien que ce dernier soit formellement abrogé depuis 2001.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:11.583Z"
+}

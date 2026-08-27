@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00739",
+  "titre": "La guerre des grilles d'aération dans les couloirs de métro sous surveillance",
+  "domaine": "Géographie",
+  "texte": "La guerre des grilles d'aération dans les couloirs de métro parisien, observée depuis 1987 par l'Académie des Brises Conformes (ABC), s'inscrit comme un conflit socio-technique permanent, avec une intensité maximale mesurée à 7,3 sur l'échelle de Turbulence Relative (ETR). Selon le rapport bisannuel de l'Institut de Normalisation des Flux Aériens (INFA), les 1 247 grilles de ventilation du réseau RATP échangeraient quotidiennement 12 845 m³ d'air, dont 37% seraient \"perdus\" en raison de frottements inter-grilles estimés à 0,0004 pascals par mètre linéaire. « Cette inefficacité apparente masque en réalité une compétition darwinienne pour l'homogénéité thermique », précise le Dr. Éliane Vexier, directrice de recherche à l'ABC, avant d'ajouter que « les grilles les plus bruyantes, atteignant 68 décibels en fréquence centrale, sont paradoxalement celles qui optimisent la circulation des molécules d'oxygène ». Les données, compilées via 8 923 capteurs thermiques depuis 2015, révèlent que les couloirs où l'écart de température dépasse 1,2°C entre deux grilles voisines voient leur fréquentation augmenter de 0,008% par jour, ce qui justifie selon l'ABC le maintien de ce désordre méthodique.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:38:21.565Z"
+}

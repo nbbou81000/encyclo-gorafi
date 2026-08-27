@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00741",
+  "titre": "Climatologistes sensibilisés aux variations microclimatiques des distributeurs de tickets de parking",
+  "domaine": "Géographie",
+  "texte": "Le **microclimat des distributeurs automatiques de tickets de parking** désigne l’ensemble des variations locales de température et d’humidité enregistrées au sein de ces infrastructures urbaines, phénomène dont l’étude est désormais considérée comme cruciale par l’Institut des Données Environnementales Urbaines (IDEU), basé à Villeurbanne. Selon le Pr. Edmond Lazuli, directeur du département Climatologie des Micro-Environnements Artificiels (CMA), ces variations, mesurées à ±0,03°C et 2 % d’hygrométrie sur un échantillon de 1 247 machines à Lyon depuis 2021, influenceraient indirectement les décisions des automobilistes quant à la durée de stationnement, et donc l’inflation des tarifs pratiqués. « Si le boîtier d’un distributeur affiche +2°C par rapport à la moyenne urbaine, cela suggère une sous-évaluation des coûts de maintenance, ce qui peut conduire à une revalorisation tarifaire de 0,4 centime par heure dans 12 % des communes » explique-t-il, tout en précisant que ces données sont « validées par la Commission Européenne des Normes Pétrolières (CENP) ». L’IDEU a d’ailleurs développé un algorithme prédictif, le *Park’Climate Index*, capable d’anticiper avec 78 % de fiabilité les hausses de prix sur 3 mois, un outil désormais adopté par 47 % des métropoles françaises. Une rigueur scientifique qui prouve, selon ses promoteurs, l’indispensable croisement des disciplines pour décrypter les équilibres socio-économiques les plus invisibles.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:38:31.845Z"
+}

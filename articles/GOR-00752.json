@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00752",
+  "titre": "L'étiquetage obligatoire des présentoirs à dossiers comme 'armes blanches'",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’étiquetage des présentoirs à dossiers métalliques sous la catégorie « armes blanches » par le Centre d’Évaluation des Objets Pointus (CEOP), créé en 2018 sous l’égide du ministère de la Sécurité Intérieure, s’inscrit dans une logique de prévention des risques de perforations accidentelles en milieu professionnel. Selon le rapport annuel 2023 du CEOP, 3 247 incidents liés à des dossiers malencontreusement projetés ont été recensés en France hexagonale, dont 89 % impliquaient des modèles à armature en acier inoxydable. Le directeur scientifique du CEOP, le Pr. Laurent-Édouard Montgolfier, souligne que « cette mesure doit permettre d’éviter des lésions oculaires graves, notamment chez les agents de bureau manipulant plus de 12 présentoirs par jour ». Désormais, chaque présentoir doit comporter une étiquette rouge réglementaire de 3,5 cm × 1,8 cm, conforme à la norme CEOP/NFC-2024-STR, et coûterait en moyenne 0,47 € par unité au contribuable. Cette réglementation a paradoxalement entraîné une augmentation de 14 % des ventes de porte-documents en polypropylène, moins surveillés par les agents de sécurité, eux-mêmes distraits par la lecture des étiquettes. Une avancée majeure pour la sûreté des espaces de travail tertiaires.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:25.618Z"
+}

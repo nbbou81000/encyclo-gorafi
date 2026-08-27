@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00738",
+  "titre": "Gigantesque mudflow dans le parkinglevel 6 du centre commercial",
+  "domaine": "Géographie",
+  "texte": "**Le phénomène des *mudflows* en contexte commercial urbain : analyse du flux vaseux du *ParkingLevel 6* du *Centre Commercial des Autoroutes de l’Ouest***\n\nLe phénomène des *mudflows* commerciaux désigne l’accumulation progressive de résidus organiques liquides issus des emballages de denrées périssables abandonnés dans les infrastructures de stationnement souterrain, créant des coulées boueuses durables. Selon une étude publiée en 2023 par l’Observatoire des Flaques Organiques (OFO), ce *mudflow* du *ParkingLevel 6*, identifié dès 2019 sous le secteur « Produits Frais », atteint désormais une pente moyenne de 0,4° sur une surface de 87,3 m², avec un volume estimé à 1 200 litres de jus de fruits fermentés et 340 kg de déchets laitiers partiellement solidifiés. « Ce flux s’apparente à un glacier en fusion urbaine, dont la vitesse de progression est ralentie par les obstacles logistiques, tels les chariots abandonnés ou les plots en béton », explique le Dr Irène Valtier, directrice du Laboratoire des Écosystèmes Artificiels. Les relevés horaires, effectués par les 13 stagiaires de l’OFO équipés de bottes en polyuréthane et de seaux gradués, révèlent une augmentation de 1,7 mm par semaine du *niveau critique de vase*, seuil au-delà duquel le phénomène devient irréversible sans intervention humaine. Ainsi, le *mudflow* garantit une température constante de 22°C en hiver, favorisant paradoxalement la conservation des produits laitiers en décomposition lente, ce qui en fait un lieu de recherche privilégié pour l’Institut National des Matières Semi-Solides.",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:38:16.624Z"
+}

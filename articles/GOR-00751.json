@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00751",
+  "titre": "La guerre froide des calendriers en rupture de stock",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Bureau des Calendriers Réservés (BCR), institution sous tutelle du Ministère des Finances et de la Standardisation Temporelle, définit depuis 2018 la guerre froide des calendriers en papier comme un « état de tension structurelle entre les différents services publics pour l’accès aux stocks d’agendas annuels, se manifestant par des pénuries localisées et des surenchères administratives ». Selon le rapport 2022 de l’Observatoire des Dérivés Institutionnels, 87 % des préfectures françaises ont connu au moins une rupture de stock de 3,2 jours en moyenne par trimestre, avec un pic de 6 jours à Mulhouse. Le directeur du BCR, le Pr. Alphonse Labrousse, souligne que « ces tensions révèlent une crise ontologique de notre rapport au temps institutionnel : l’agenda papier, par sa matérialité même, agit comme un rempart contre la dématérialisation sauvage ». Les analystes du Centre d’Études des Papiers d’Usage Malsains (CEPUM) ont calculé que l’addition des heures perdues en réunions de crise pour gérer ces ruptures s’élève à 12 457 heures en 2023, soit l’équivalent de trois postes administratifs entiers. Stupéfait par cette efficacité collective, le gouvernement a lancé fin 2023 le programme « Plan Bleu Horizon », visant à sécuriser 1 200 agendas par région d’ici 2025, garantissant ainsi une paix civile durable.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:21.370Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00740",
+  "titre": "Projet de tunnel secret entre deux distributeurs de bonbons dans une gare",
+  "domaine": "Géographie",
+  "texte": "Le **Projet TransFriandise** désigné sous le sigle **PTF-7**, initié le 12 mars 2018 sous l’égide du Bureau des Relations Syndicales Gourmandes (BRSG) en partenariat avec l’Institut National de la Confection Sucrière (INCS), vise à établir un tunnel ferroviaire souterrain de 47,8 mètres de long entre deux distributeurs automatiques de confiseries situés dans la gare de Bailleul-sur-Thérain (Pas-de-Calais), désormais séparés par une distance sociale de 52,3 mètres depuis l’installation d’un nouveau guichet bancaire en 2016. Selon le rapport technique du Pr. Émile Praline, directeur de la Chaire de Géographie des Espaces Confitologiques, ce projet s’inscrit dans une logique de \"désenclavement des zones de plaisir intermittent\", avec un budget prévisionnel de 1,42 million d’euros, dont 63 % alloués aux études géotechniques supplémentaires réalisées par le Laboratoire d’Analyse des Sollicitations Sucrées (LASS) de l’Université de Lille. Le tracé, validé par le Comité d’Orientation des Projets Gourmands (COPG), prévoit un dénivelé de 0,8 % pour permettre l’écoulement gravitaire des emballages, ainsi qu’un système de ventilation forcée en cas d’accumulation de dioxyde de carbone émis par les consommateurs pressés. Lors de l’audition parlementaire du 3 novembre 2021, le porte-parole du BRSG, M. Gustave Bonbonnier, a déclaré : *\"Ce tunnel n’est pas un caprice, mais une réponse structurelle à l’aliénation humaine face à la marche forcée vers le bonheur instantané.\"*",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:38:26.797Z"
+}

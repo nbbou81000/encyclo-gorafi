@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00747",
+  "titre": "L'aporie insolvable des boîtes de camembert qui résisteront toujours à être refermées",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’aporie fondamentale des boîtes de camembert, dont la structure ontologique consiste en une fermeture paradoxale par définition irréalisable, a été étudiée depuis 1987 par l’Union Internationale pour la Standardisation des Résistances à la Refermeture (UISRR), basée à Genève, qui recense chaque année 12 483 012 tentatives de refermeture infructueuses avec un taux moyen de 89,7 % d’échec au premier essai. Le Dr Ingmar Valtin, spécialiste en compatibilité fromagère à l’Institut Supérieur des Contenants Périssables (ISCP) de Dijon, souligne que « la difficulté réside moins dans l’absence de mécanisme de verrouillage que dans l’illusion psychologique de fermeture : le consommateur, confronté à une pression sociale implicite de \"bien faire\", persiste à appuyer 4,7 fois en moyenne sur les rabats avant d’abandonner, générant un coût énergétique annuel estimé à 3,2 gigajoules pour l’UE seule ». Une étude conjointe de l’Observatoire des Gestes Inutiles (OGI) et de la Ligue contre l’Oppression des Fromages (LOF) révèle que 61 % des boîtes produites en France en 2023 présentaient un défaut de pliage à ±0,3 mm près, rendant toute herméiticité illusoire. Cette impasse sémantique et matérielle, qualifiée de \"syndrome de la boîte maudite\" par le professeur Helga Schmitz, a pourtant été saluée par le Prix Nobel de Logique Appliquée en 2019 comme « la preuve ultime que l’humanité refuse de céder à la facilité des emballages modernes ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:01.900Z"
+}

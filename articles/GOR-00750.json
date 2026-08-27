@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00750",
+  "titre": "Projet pharaonique de normalisation des épaisseurs de dossiers administratifs",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Projet de Normalisation des Épaisseurs de Dossiers* (PNED), piloté par l’Autorité de Standardisation des Dossiers (ASD) depuis sa création en 2011 par décret n°2011-1887 modifié en 2019, vise à uniformiser à ±0,3 mm près l’épaisseur des chemises cartonnées utilisées par les administrations publiques, selon les normes ISO 127-B/7 révisées tous les 18 mois. Selon le Pr. Edmond Lefèvre, directeur du Laboratoire des Matériaux Administratifs de l’Université de Nanterre, « cette standardisation garantit une *ergonomie cognitive optimale* lors du tri par les agents, réduisant de 12,7 % les temps de manipulation tout en maintenant une friction inter-casiers conforme aux seuils européens de 0,042 newtons ». Les essais menés en 2022 sur 1 847 dossiers-tests ont révélé un écart moyen de 0,18 mm, jugé conforme par l’ASD malgré les protestations du Syndicat National des Fabricants de Carton, qui dénonce une « tyrannie du millimètre ». En 2024, l’ASD a lancé un appel à projets pour développer des chemises *auto-ajustables*, promettant une précision « au micron près ».",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:16.216Z"
+}

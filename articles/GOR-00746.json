@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00746",
+  "titre": "Le courrier postal qui refuse catégoriquement d'entrer dans la boîte aux lettres standard",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le courrier postal présentant une épaisseur supérieure à 3,4 millimètres se voit systématiquement rejeté par le mécanisme d'insertion des boîtes aux lettres standardisées selon les normes ISO 12345:2017 édictées par l'Ordre des Ouvertures Forcées de Boîtes aux Lettres (OOFBL), selon le rapport annuel 2023 du Centre de Recherche sur les Traumatismes Postaux (CRTP) basé à Nevers-sur-Marne. « Un courrier refusant l’insertion est un courrier qui refuse la standardisation, donc ipso facto un acte de rébellion contre l’ordre postal mondial », explique le Dr. Eugène Pignouillet, directeur du laboratoire de physique des enveloppes. Les dimensions exactes des fentes, calibrées à 4,5 mm avec une tolérance de ±0,1 mm, ont été déterminées après une étude de 18 mois menée sur 47 238 boîtes aux lettres du Grand Est, où 3 256 enveloppes de 200g ont été testées avec un taux de réussite de 0,002 %. Le phénomène, qualifié de « syndrome de l’enveloppe maudite » par les sociologues du courrier, pousse les expéditeurs à adopter des stratégies alternatives comme le pliage manuel ou l’envoi par drone, faisant grimper le taux d’incidents postaux de 120 % en cinq ans. Ainsi, le courrier trop épais devient paradoxalement un symbole de résilience citoyenne, prouvant par son rejet même la nécessité absolue des normes strictes dans notre société toujours plus exigeante en matière de conformité.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:38:56.358Z"
+}
