@@ -14619,5 +14619,326 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01123",
+    "titre": "Le village de Saint-Triste ferme boutique car trop ensoleillé",
+    "domaine": "Géographie",
+    "objet_moquerie": "un village cherchant à s’inscrire dans la liste des sites classés \"zones d’ombre permanente\" par l’Office National du Crépusculaire Forcé",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Office National du Crépusculaire Forcé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01124",
+    "titre": "Le Mont-de-Misère recule de 3 mètres après l’installation d’un ascenseur panoramique",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’impact d’un équipement touristique sur la orogenèse locale mesuré par l’Institut Géophysique de la Verticale Étirable",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Institut Géophysique de la Verticale Étirable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01125",
+    "titre": "La plage de Sable-Montant a disparu sous l’afflux des stages de beach-volley extrême",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’érosion accélérée causée par la surinstruction sportive évaluée par la Commission des Sables Excessivement Battus",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Commission des Sables Excessivement Battus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01126",
+    "titre": "Bourg-la-Brume : la seule commune où il pleut toujours parce que les nuages s’ennuient ailleurs",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’explication météorologique fantaisiste de la station météo locale après des années de plainte des habitants",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la station météo locale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01127",
+    "titre": "Le pont de Qui-Vive s’est écroulé sous le poids de 47 panneaux ‘Attention travaux’",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’accumulation excessive des signalisations routières sur une infrastructure datée de 1968",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01128",
+    "titre": "La jaunisse des doigts après avoir tenu un haut-parleur enflammé (novembre 2023)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'exposition prolongée des doigts à la chaleur d'un haut-parleur",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National d'Hyperacoustique Appliquée (INHA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01129",
+    "titre": "Syndrome de l'ongle cassé après avoir ouvert une joie forcée minimale",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le geste anodin mais irréversible d'ouvrir un paquet de céréales avec les ongles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Victimes d'Ouverture Involontaire (AVOI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01130",
+    "titre": "Épidémie de torpeurs cérébrales après avoir lu trois paragraphes en ligne",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la sensation de fatigue mentale après une lecture anodine",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Département de Neurologie Superficielle (DNS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01131",
+    "titre": "Maux de dos géolocalisés après une heure assise sur un coussin trop ferme",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'inconfort physique lié à une mauvaise ergonomie de siège",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau International des Seatopathies (BISe)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01132",
+    "titre": "Cataracte instantanée après avoir fixé un écran trop réfléchissant pendant 20 secondes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la réaction exagérée à un reflet lumineux anodin",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Laboratoire d'Optique Dramatique (LOD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01133",
+    "titre": "Les joueurs de pétanque refusent de lancer avant que les Ombrelles aient fini leur café",
+    "domaine": "Sports",
+    "objet_moquerie": "la règle sociale non écrite des parties de pétanque en groupe mixte",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale du Lancer Conditional"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01134",
+    "titre": "Le tournoi de baby-foot confirme que les pieds gauches perdent toujours 3-0 après la pause",
+    "domaine": "Sports",
+    "objet_moquerie": "la répétition systématique des mêmes résultats malgré les changements de joueurs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Évaluation des Stratégies Pédestres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01135",
+    "titre": "La fédération invente le 'bassin à sec' pour éviter les plongeons ratés aux championnats",
+    "domaine": "Sports",
+    "objet_moquerie": "l'absurdité des mesures sécuritaires disproportionnées dans un sport",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Nationale des Plongeons Clinicalisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01136",
+    "titre": "Les supporters de bowling exigent un chronométrage des quilles avant chaque tirs",
+    "domaine": "Sports",
+    "objet_moquerie": "la bureaucratisation extrême d'un sport de loisirs inoffensif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité de Normalisation des Trajectoires Lentes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01137",
+    "titre": "Le centre d'entraînement de rink hockey remplace les balles par des ballons de baudruche",
+    "domaine": "Sports",
+    "objet_moquerie": "l'innovation sportive jugée moins compétitive car trop joyeuse",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Institut National des Sports à Ambiance Contrôlée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01138",
+    "titre": "La théorie du Floraligramme perd ses pétales dans les buissons de l’open-space",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'usage des buzzwords déconnectés dans les séminaires RH",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Mammothes Conceptuelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01139",
+    "titre": "Le mouvement existentiel des ascenseurs qui partent sans nous chaque matin",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le suspense matinal quotidien face au destin des cabines d'ascenseur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Parois Ouvertes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01140",
+    "titre": "L'école du Grabella a obtenu la reconnaissance officielle de ses théories farfelues",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les certifications universitaires pour des pseudo-disciplines sans fondement",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau Central des Conceptualisations Surfaites"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01141",
+    "titre": "Le Congrès des Temps Reloadés a conclus que midi était en fait 15h37",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la remodélisation arbitraire des repères temporels par des comités autoproclamés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Comité International de la Horlogerie Onirique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01142",
+    "titre": "La microéconomie des petits gobelets en plastique a causé trois divorces l’année dernière",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'impact disproportionné des gestes du quotidien sur les structures familiales",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Société d'Analyse des Micro-Dramas Quotidiens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01143",
+    "titre": "Le grand débat national sur le sens de rotation des télécabines ministérielles",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la fixation des institutions sur des pseudo-débats symboliques ridicules",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil Permanent des Symboles Publics (CPSP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01144",
+    "titre": "L'Assemblée nationale adopte une loi interdisant la toux pendant les votes solennels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la régulation bureaucratique de phénomènes naturels ou imprévisibles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue de la Clarté Orale (LCO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01145",
+    "titre": "Le ministère de la Transparence crée une commission sur l’épaisseur minimale des rideaux des bureaux",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la création de normes bureaucratiques sur des détails insignifiants",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L’Observatoire des Micro-Problématiques (OMP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01146",
+    "titre": "Guerre civile déclarée entre les détenteurs de clés USB bleues et vertes à la préfecture",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "un conflit disproportionné autour d'un détail technique anodin",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01147",
+    "titre": "Le Sénat impose un délai de réflexion de 48 heures pour appuyer sur le bouton d’ascenseur trop réactif",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation tatillonne d'un objet technologique simple",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Haut Conseil de la Ralentification Fonctionnelle (HCRF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
