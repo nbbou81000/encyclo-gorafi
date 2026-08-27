@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01160",
+  "titre": "La grande épidémie de parchemins moussaillés frappe la bibliothèque de Lutèce en 1423",
+  "domaine": "Histoire",
+  "texte": "L’épidémie de parchemins moussaillés, caractérisée par la déliquescence prématurée des supports en peau de mouton ayant subi une humidité ambiante prolongée, frappe la bibliothèque du Collège des Arts Libéraux de Lutèce dans sa section dédiée aux textes du XIIe siècle, entre le 3 et le 17 juin 1423, affectant 127 des 3 428 volumes conservés, selon les archives du *Laboratoire d’Étude des Supports Anciens et Vulnérables* (LESAV) de l’Université des Lettres de Tours. Le Dr. Alphonse Piquedur, archiviste à l’Institut National de la Préservation du Parchemin, précise que « cette crise, bien que localisée, témoigne d’un déséquilibre microclimatique durable, avec des pics d’hygrométrie atteignant 89% dans les vitrines est, contre une moyenne saisonnière de 62% ». Les réalcalinisations massives de 1424, menées par les moines copistes de l’Abbaye Saint-Martin-des-Bois, réduisent le taux de dégradation à 3,8% annuel, soit le niveau le plus bas depuis 1398. Les experts du LESAV attribuent cette résilience à l’adoption systématique de purges à la vapeur de thym, technique validée par le *Comité International pour la Sauvegarde des Encres Médiévales* (CISME). Cette approche préventive sera généralisée à partir de 1428, après que le volume *De Humiditate Airis* (XIIe siècle) eut atteint un degré de souplesse tel qu’il glissait des mains des lecteurs à chaque consultation.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:57:13.972Z"
+}

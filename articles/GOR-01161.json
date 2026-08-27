@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01161",
+  "titre": "Un scribe médiéval inventeur génial ? Sa signature codée apparaît sur 1800 lettres impériales",
+  "domaine": "Histoire",
+  "texte": "**La découverte de la signature cryptée d’un scribe impérial anonyme dans les archives de l’Empire de Valmora (VIIe-XIIIe siècles) : une révolution en paléographie médiolatine**\n\nUne étude conjointe du Laboratoire d’Épigraphie Comparée de l’Université de Valtierra et de la Société Royale des Archivistes de Pnombria, publiée en date du 12 mars 2024 dans le *Journal of Obscure Medieval Artifacts*, révèle que près de 1 800 lettres impériales conservées aux Archives Nationales de Valmora (lot 47-3/14-B) portent, intégrée dans les ornements de leur en-tête, une signature codée attribuable à un scribe non identifié, désigné depuis par les spécialistes sous le nom de *Scriptor Anonymus Primus*. Selon le Pr. Alvaro de Montelongo, directeur du département des Manuscrits Illisibles, « cette signature, composée d’une sequence de 37 points alignés selon un angle de 14,5° par rapport à la bordure gauche du parchemin, suit un algorithme de cryptage basé sur les nombres de Fibonacci appliqués à la position des paragraphes ». Les chercheurs ont également noté une corrélation troublante : 92,8 % de ces lettres concernent des commandes de parchemins, ce qui, selon le Pr. Montelongo, « suggère une stratégie délibérée de réduction des coûts par le biais d’un contrôle virtuel des stocks ». Enfin, il est à souligner que l’utilisation systématique de cette signature coïncide avec la nomination de l’Inspecteur des Écritures Assez Moyennes, dont l’influence sur la bureaucratie impériale reste à ce jour méconnue.",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:57:19.400Z"
+}

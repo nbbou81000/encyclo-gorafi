@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01168",
+  "titre": "Le phénomène des escaliers mécaniques qui bloquent quand tu es en retard",
+  "domaine": "Société",
+  "texte": "Le blocage systématique des escaliers mécaniques lors des pics de fréquentation tardifs, désigné scientifiquement par l’*Observatoire National des Escaliers Paresseux* (ONEP) sous le terme de *« phénix ascensionis procrastinatoris »*, relève d’un dysfonctionnement structurel documenté depuis le 12 mars 1998, date à laquelle un audit du *Laboratoire d’Analyse des Mobiliers Urbains* (LAMU) avait révélé que 87,3 % des arrêts intempestifs coïncidaient avec la présence d’un individu affichant une vitesse de marche supérieure à 6,2 km/h. Selon le professeur Aristide Léchot, spécialiste en *« kinésique des flux piétonniers »*, ce phénomène s’explique par une *« surcompensation mécanique inconsciente »*, les escaliers « détectant » via des capteurs de pression calibrés à 12 newtons/cm² une *« intention hâtive »* chez l’usager, déclenchant un ralentissement progressif suivi d’un arrêt franc à ±0,8 seconde de la marche de l’individu. *« C’est une forme de résistance passive à la productivité »,* déclare-t-il, tout en précisant qu’un escalator bloqué en position haute consomme 12 % d’énergie en moins qu’en mouvement, *« ce qui compense partiellement son inefficacité sociale »*. Les données compilées entre 2015 et 2023 montrent que ces blocages génèrent en moyenne 14 minutes de retard par victime, soit l’équivalent annuel de 3,7 jours de travail perdus pour l’économie nationale, *« preuve irréfutable que le système punit ceux qui osent courir dans les couloirs »*.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:57:54.794Z"
+}

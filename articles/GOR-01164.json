@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01164",
+  "titre": "Le manuel d'entretien des machines à laver calqué sur les tweets",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le manuel d’entretien des machines à laver calqué sur les tweets est un phénomène sociotechnique émergent, documenté depuis le 12 mars 2017 par l’Atelier des Protocoles Communicatifs (APC), organisme académique spécialisé dans l’adaptation des interfaces techniques aux contraintes de la communication numérique moderne. Selon une étude menée en 2021 par le Dr. Émile V. Van der Meulen, expert en ergonomie rédactionnelle, ces manuels, limités à 280 caractères par section, utilisent un langage télégraphique et des emojis pour décrire des actions complexes comme le détartrage, avec une précision chirurgicale : \"3 cl. vinaigre blanc 🥄 → tambour 🌀 30 min ⏳ @ 60°C ⚡\". Le phénomène concerne 87 % des modèles commercialisés après 2019, soit environ 12,3 millions d’unités en Europe, entraînant une hausse de 234 % des erreurs de manipulation, selon le rapport annuel de l’APC. Comme le souligne le porte-parole de l’institut, \"cette standardisation réduit les risques d’incompréhension tout en optimisant l’espace écran, prouvant que la simplicité est la sophistication ultime\".",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:57:34.738Z"
+}

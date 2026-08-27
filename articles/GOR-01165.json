@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01165",
+  "titre": "Les réveils intelligents s'éteignent pour économiser l'oxygène des rêves",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les réveils intelligents, dispositifs connectés conçus pour synchroniser les phases de sommeil avec les impératifs énergétiques des utilisateurs, ont récemment adopté un protocole inédit baptisé « R.E.M.E. » (Réduction Énergétique par Minimisation des Échanges), mesuré par l’Agence de Régulation des Cycles Nocturnes (ARCN) à une baisse moyenne de 0,0378 litres d’oxygène consommé par heure et par utilisateur. Selon le Pr. Éloi Lépine, spécialiste en biométrie onirique à l’Institut National de Normalisation des Rêves (INNR), « cette innovation réduit la consommation globale d’oxygène de 1,2 % pendant le sommeil paradoxal, sans altérer significativement la qualité des rêves, sous réserve que ceux-ci n’excèdent pas 45 secondes en durée cumulée ». Les données, compilées sur 3 421 897 cycles d’utilisateurs en 2024, confirment une corrélation statistique entre la durée des phases REM et l’émission de CO₂ par le dormeur, désormais quantifiée à 0,0011 ppm/h. Les fabricants, tels que la société *Chronobios*, soulignent que cette mesure s’inscrit dans une « démarche de sobriété cognitive », bien que certains utilisateurs rapportent des sensations de « lourdeur matinale » quantifiables à +0,3 néper sur l’échelle de fatigue subjective (EFS). L’ARCN a d’ailleurs lancé un observatoire dédié, l’Observatoire des Flux Énergétiques Oniriques (OFEO), chargé de cartographier les « zones à faible oxygénation onirique » en Europe, où la prévalence des rêves lucides est inférieure de 8 % à la moyenne continent",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:57:39.914Z"
+}

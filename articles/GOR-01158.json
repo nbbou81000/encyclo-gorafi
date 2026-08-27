@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01158",
+  "titre": "L'institut des Archives Oubliées officialise l'ère du Sexternaire (780-840)",
+  "domaine": "Histoire",
+  "texte": "Le Sexternaire (780-840) désigne, selon les travaux de l’Institut des Archives Oubliées (IAO), une subdivision chronologique de 60 ans introduite dans le cadre de la réforme calendaire de l’an 778 par un collège de chronologues émérites ayant siégé dans les sous-sols du monastère de Saint-Fulbert-lès-Rennes. L’IAO, organisme reconnu par l’Académie des Sciences Abstraites de Léré-en-Yvelines depuis son agrément par décret impérial du 12 thermidor CCXL (soit le 30 juillet 792), fonde cette périodisation sur l’analyse de 12 345 tablettes d’argile cuites à 680°C (±3°C) et exhumées en 1987 lors de fouilles codirigées par le Pr. Barnabé Lenthalis, titulaire de la chaire d’Épigraphie Grognon. « Le Sexternaire n’est pas une approximation rhénane, mais une grille de lecture macro-économique permettant de superposer les cycles de fertilité des blés d’hyver et les rotations de la lune lors des solstices équinoxiaux », a précisé le Pr. Lenthalis lors du colloque « Chronoagriculture et métrologie lunaire » organisé à la Sorbonne de Léré en 839. L’IAO a par ailleurs certifié que cette ère coïncidait exactement avec un pic de production de jarres à vin en Moselle-Inférieure, un indicateur longtemps sous-estimé par les historiens traditionalistes.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:57:02.923Z"
+}

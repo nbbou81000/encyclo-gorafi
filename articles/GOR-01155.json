@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01155",
+  "titre": "La Clinique des Fenêtres Ouvertes malgré les Air Conditionnés facture désormais ses flux d'air par hectare-ventilé",
+  "domaine": "Économie",
+  "texte": "La Clinique des Fenêtres Ouvertes malgré les Air Conditionnés (CFOAC), institution académique fondée en 2012 à Saint-Bertrand-des-Fenêtres-en-Crise, a récemment révolutionné son modèle économique en instaurant un système de tarification au m³/hectare-ventilé, avec un coefficient de turbulence atmosphérique intégré calculé selon la norme ISO 12478-B* (révisée en 2023). Selon le Pr. Édouard Venturini, directeur du Laboratoire de Dynamique Aérienne Expérimentale (LDAE), « ce système reflète une approche holistique de la gestion des flux gazeux, où chaque molécule d’air circulant dans un rayon de 11,3 mètres autour des ouvrants est désormais comptabilisée comme une unité de service distincte ». Les tarifs, applicables depuis le 1er mai 2024, s’échelonnent de 0,047 centime par m³/hectare-ventilé en période de vent modéré à 1,28 euro en cas de brise méditerranéenne persistante (seuil supérieur à 7 km/h pendant plus de 4h37). Les économistes de l’Observatoire des Coûts Invisibles (OCI) soulignent que cette innovation pourrait générer un surplus de 2 300 000 € annuels pour l’institution, suffisants pour financer le remplacement des combines des infirmières en coton recyclé.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:56:46.388Z"
+}
