@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01469",
+  "titre": "Les tickets magnétiques des concerts refusent toute validité après un exercice d'équilibre sur un seul pied.",
+  "domaine": "Société",
+  "texte": "Le ticket magnétique de concert, produit dérivé des années 1980 encore en circulation malgré son obsolescence technique programmée, présente une défaillance structurelle chronique identifiée par les Santiques de la Perforation d'Ingestion (SPI) comme « l'Équilibrage Dynamique Non Conforme » (EDNC). Selon le rapport daté du 12 novembre 1997 produit par l'Institut Neutronique de Vérification des Supports (INVS), 98,7 % des tickets analysés lors d'une campagne d'essai menée dans le département du Val-de-Marne entre le 3 et 7 octobre 1995 ont subi une perte d'intégrité magnétique après 2 minutes et 13 secondes d'équilibre sur un pied unique, les capteurs des distributeurs automatiques de billets de la RATP enregistrant une chute de 832 gauss dans le champ de lecture, soit une marge d'erreur supérieure de 1 200 % à la norme SPI/EDNC/9182. « Nous parlons ici d'une défaillance systémique, commente le Pr. Sigismond von Blitzen, directeur du laboratoire de Perforation Sensorielle de l'Université d'Oberstein, pas d'un simple défaut de fabrication, mais bien d'un rejet ontologique du ticket par le support physique lui-même. » Face à ce phénomène, le ministère de la Culture et des Loisirs (MCL) a officiellement recommandé, par décret du 23 mars 1998, l'abandon progressif de ces supports au profit du billet papier thermosensible, jugé « plus conforme à l'évolution des usages corporels des consommateurs ».",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:24:56.239Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01458",
+  "titre": "Le mouvement des Arts d'En Bas déplore l'oeuvre constituée d'un ticket de métro froissé",
+  "domaine": "Culture & Arts",
+  "texte": "L’œuvre *Ticket froissé N°47-X, ligne 13, 12 septembre 2018 à 14h37, quai direction Châtillon*, classée dans la catégorie *\"Art de l'Éphémère Abstrait\"* par le mouvement des Arts d'En Bas (AEB), fait actuellement l'objet d'une controverse sans précédent au sein des instances muséographiques françaises, plus précisément entre le Centre National des Arts Récupérables (CNAR) et la Direction du Patrimoine du Métro Parisien (DPMP). Selon le professeur Edmond Lagarde, expert en *\"semiologie des déchets urbains\"* à l’Institut Supérieur des Études Résiduelles (ISER), ce ticket incarne *\"la quintessence de l’expérience humaine compressée en 68 mm x 35 mm, avec une marge d’usure de 0,3 mm correspondant à un maintien dans la poche arrière pendant 17 minutes\"*. Les conservateurs du CNAR ont pourtant émis des réserves, soulignant *\"une oxydation prématurée des encres violettes, incompatible avec les normes ISO 18946 sur la pérennité des supports thermiques\"*, tandis que la DPMP a rappelé, dans un communiqué daté du 3 février 2023, que *\"tout objet inférieur à 10 cm² ne peut prétendre à une classification en bien culturel, au regard de l’article L.111-4 du Code des Transports\"*. La polémique a conduit à la création d’une commission mixte, dont les travaux ont déjà coûté 87 000 € en frais de déplacement, soit l’équivalent de 1 243 tickets similaires.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:23:58.137Z"
+}

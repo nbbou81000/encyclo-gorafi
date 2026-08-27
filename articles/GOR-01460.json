@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01460",
+  "titre": "Le four à micro-ondes a enfin calculé la température idéale des biberons",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le four à micro-ondes a enfin calculé la température idéale des biberons**\n\nSelon une étude publiée le 12 novembre 2023 par le Laboratoire des Mathématiques Culinaires du Collège des Ingénieurs Domestiques Sur-Équipés, le four à micro-ondes modèle *Thermobaby Pro X* est désormais capable de déterminer avec une précision de ±0,003°C la température optimale d'un biberon de lait infantile, soit 36,7°C, température validée par 14 cycles de chauffe tests sur des échantillons de 247 ml. « Notre algorithme intègre non seulement les propriétés diélectriques du lait, mais aussi l'orientation des molécules d'eau dans le récipient, garantissant une homogénéité parfaite », déclare le Pr. Hubert-Félix Quidam, directeur de la Chaire de Thermodynamique Appliquée aux Fluides Alimentaires. Par ailleurs, une analyse des comportements utilisateurs révèle que 98% des parents ignorent encore l'existence de cette fonction, préférant chauffer au jugé entre trois et quatre minutes, avec un taux d'erreur estimé à ±5°C selon les modèles. « Cette avancée technologique illustre parfaitement comment l'innovation domestique peut compenser les lacunes humaines », conclut le rapport, avant d'ajouter que le biberon ainsi chauffé pourrait, en théorie, réduire de 0,0004% les risques de régurgitation.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:24:08.283Z"
+}

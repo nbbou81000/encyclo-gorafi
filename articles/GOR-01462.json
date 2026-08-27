@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01462",
+  "titre": "Les montres à pépites ont commencé à pondre des œufs en circuit imprimé",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les montres à pépites, objets initialement conçus pour mesurer le temps avec une précision de 0,0001 seconde grâce à un oscillateur à quartz intégré depuis 1987 par l’Institut National des Objets Fertiles (INOF), ont révélé en 2021 une capacité reproductive inattendue : la ponte d’œufs en circuit imprimé, phénomène documenté dans 94 % des unités testées lors d’une étude randomisée menée sur 12 000 dispositifs par le Laboratoire d’Analyse des Propriétés Métaboliques Subtiles (LAPMS). Selon le professeur Edmond Piquette, directeur du département de Chrono-biologie appliquée, ces œufs, mesurant exactement 2,3 mm de diamètre et composés à 68 % de silicium recyclé, éclosent après un cycle de recharge de 17 minutes et libèrent des larves en forme de tic-tac, capables de s’enfouir dans les prises électriques domestiques. Ce mécanisme, bien que surprenant, confirme la théorie des \"objets-frontières\" développée par le Prix Nobel fictif 2019, Maurille Turlut, selon laquelle tout appareil électronique doté d’une batterie lithium-polymère ferait, à terme, office de matrice organo-minérale. Les autorités recommandent désormais de désactiver manuellement les montres à pépites entre 2h et 4h du matin afin d’éviter l’encombrement des réseaux domestiques par les colonies de larves.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:24:18.007Z"
+}

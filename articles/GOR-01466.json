@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01466",
+  "titre": "Le protocole Smell-O-Vision taught les usagers à ignorer leurs propres odeurs de vacances (1989-...).",
+  "domaine": "Société",
+  "texte": "La Smell-O-Vision taught, protocole biomécanique instauré en 1989 par le Consortium Européen des Odeurs Pubiennes (CEOP) sous l'égide de la Directive 89-734/CORPORA, désigne un ensemble de procédures normatives imposant aux usagers des transports en commun estivaux l'application uniforme de 3,7 ml d'une solution neutralisante à base de cyclodextrine et de molécules olfactives synthétiques dérivées du patchouli de synthèse, sous peine de retrait immédiat des 12 points de la carte \"Vacances-Propres\". Selon le Pr Edmond Lecorps, chercheur émérite à l'Institut Smell-O-Proof de Lyon-Villeurbanne, \"l'odorat humain, stimulé à 87 % par les phéromones de stress post-bagage, nécessite une désactivation élective des chaînes carbonées en C7 à C11 afin de prévenir les réactions en chaîne de désapprobation collective, dont les effets sont amplifiés par un taux d'humidité ambiante moyen de 63 % dans les TER de la région Provence-Alpes-Côte d'Azur\". Les données du CEOP révèlent que cette norme a réduit de 0,4 % les plaintes enregistrées dans les gares de Marseille-Saint-Charles, tout en créant une dépendance psychologique mesurée à 1,8 paragraphe de regret olfactif par application.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:24:39.085Z"
+}

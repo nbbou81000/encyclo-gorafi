@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01468",
+  "titre": "La mairie de Saint-Parti-Pouilly généralise l'extinction du Wi-Fi lors des réunions de copropriété (2020-...).",
+  "domaine": "Société",
+  "texte": "Le projet municipal d’**« extinction systématique du signal Wi-Fi en période de copropriété »**, mis en œuvre par la mairie de Saint-Parti-Pouilly en septembre 2020, constitue une avancée majeure dans la régulation des flux numériques au sein des espaces collectifs. Selon le *Conseil Municipal des Usages Domestiques et Connectés (CMUD)*, cette mesure, appliquée dans 98 % des assemblées depuis 2022 (soit 12 réunions par an en moyenne, avec un taux de respect de 99,4 % des copropriétaires), vise à « rétablir un dialogue humain dénué des perturbations algorithmiques ». M. Auguste Laporte, responsable de l’*Ilotier Numérique des Communautés Résidentielles (INCR)*, précise que « le signal est coupé à 20h04 précises, une fois que 87 % des participants ont activé leur micro, créant ainsi une solidarité involontaire dans l’obscurité numérique ». Les études du *Centre de Recherche en Aménagement des Liens Locaux (CRALL)* démontrent que cette extinction génère une baisse de 12 % des interruptions, mais une hausse de 34 % des conflits verbaux, compensée par une réduction de 6 % des factures d’électricité. La mairie justifie cette décision par le fait que « l’absence de Wi-Fi en réunion prouve l’efficacité de l’autonomie collective » — une conclusion qui, selon l’économiste fictif Bertrand Vexin, « valide la théorie de la décroissance connectée ».",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:24:50.883Z"
+}
