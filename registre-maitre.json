@@ -939,5 +939,109 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00071",
+    "titre": "L’éternel débat sur la température idéale du vin dans les open spaces non climatisés",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La guerre des chefs et stagiaires pour ajuster le thermostat collectif à 21,5°C, puis son abandon immédiat devant l’impossibilité de se mettre d’accord",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collectif National pour l’Harmonisation Thermique des Lieux de Travail (CNHTL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00072",
+    "titre": "Les grèves du personnel des bibliothèques municipales pour le '",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’annonce solennelle, répétée cinq fois par jour, qu’'en raison des mouvements sociaux, les bibliothèques fermeront désormais une heure plus tôt'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Usagers des Équipements Culturels (FUEC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00073",
+    "titre": "La polémique sur l’éclairage LED dans les salles de cinéma indépendantes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Le choix dramatisé entre 'ambiance tamisée' et 'économie d’énergie', tranché par un vote au sein de l’association des spectateurs bénéficiant des tarifs réduits",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Observatoire du Confort Visuel dans les Lieux de Culture Alternatifs (OCVLCA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00074",
+    "titre": "L’échec ritualisé des apéros du vendredi dans les médiathèques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’organisation, chaque semaine, d’une buvette 'informelle' qui se solde systématiquement par l’absorption compulsive de jus de pomme chaud et la culpabilité d’avoir troqué des thèses académiques contre des gâteaux industriels",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Réseau National des Espaces Alternatifs Traumatisés par l’Alcool (RENATA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00075",
+    "titre": "Les débats interminables sur la rupture des morceaux de pain en cours de séminaire",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Prononcer des conférences magistrales sur la 'méthode de froideur' pour rompre un baguette en trois parts égales, avec powerpoint et feuille de logistique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Académie des Gestes Précis in Situ (AGPS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00076",
+    "titre": "Le phénomène des 'livres partenaires' abandonnés aux cafés avais de leur sort être scellé",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Les romans laissés en vitrine dans les établissements membres du 'Tour de France des Dévideurs de Cuirs', signés par de grands maréchaux mais jamais lus",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Écrivains המסוכנים (SEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00077",
+    "titre": "La crise des annonceurs locaux face à la hausse des tarifs des kiosques à musique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Le remplacement des tracts publicitaires par des CD personnalisés gravés à la demande dans les médiathèques, vendus au prix d’un abonnement annuel",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Chambre Syndicale des Diffuseurs de Contenu sonore Autre (CSDCA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00078",
+    "titre": "L’inflation des paniers en osier dans les expositions d’art contemporain",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Le fournisseur agréé impose désormais d’accrocher un objet de décoration en jute à chaque œuvre, justifié par un 'commitment écologique' imposé par la mairie",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire d’Écologie Culturelle raisonnée (LECR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
