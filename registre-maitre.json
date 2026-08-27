@@ -2488,5 +2488,278 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00185",
+    "titre": "Analyse ethnographique des conflits larvés autour de l’occupation des pédaliers dans les salles de sport partagées : vers une théorie des zones critiques de friction biomécanique",
+    "domaine": "Sports",
+    "objet_moquerie": "L'étude des stratégies de rotation des usagers des vélos de salle en période d'affluence, centrée sur la gestion des conflits implicites liés au minutage des 5 minutes entre deux utilisateurs.",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Équilibres Kinétiques (OEK)",
+      "Laboratoire des Usages Conjoints (LUC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00186",
+    "titre": "Impact fiscal des devantures en neige artificielle sur les performances des skieurs en station : étude comparative des stations homologuées selon la norme NF-IN-2024-MRNS",
+    "domaine": "Sports",
+    "objet_moquerie": "L'influence des installations d'enneigement sur les temps des épreuves de slalom géant, alors que les stations justifient ces aménagements par 'l'homogénéité du revêtement' et non par des gains de performance.",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Revêtements Sportifs Applicables (INRSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00187",
+    "titre": "Conflits de préséance aux bornes de ravitaillement en énergie dans les parcs de vélos en libre-service : une approche anthropologique des séquences d’approche",
+    "domaine": "Sports",
+    "objet_moquerie": "L’étude des interactions tendues entre usagers devant les stations de recharge, où le choix du créneau horaire et la gestuelle de sortie déclenchent des dynamiques de domination territoriale.",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d’Étude des Micro-Conflits (CEMC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00188",
+    "titre": "L’effet des annonces sonores des enceintes de musculation sur la synchronisation inconsciente des mouvements : enquête menée auprès de 12 centres de fitness en Île-de-France",
+    "domaine": "Sports",
+    "objet_moquerie": "L’évaluation de l’impact des mélodies d’accueil des salles de sport sur la régularité des répétitions de développé couché, où laثة variance de 0,3 décibel entraînerait une baisse de performance de 2% selon l’Association des Professionnels du Confort Acoustique (APCA).",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "APCA",
+      "Laboratoire des Harmonies Musculaires (LHM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00189",
+    "titre": "Stratégies de marquage des parrades dans les espaces de pratique du parkour : analyse des graffitis directionnels et leur incidence sur la fluidité des trajectories",
+    "domaine": "Sports",
+    "objet_moquerie": "L’étude des schémas de marquage au sol par les pratiquants pour indiquer les parcours jugés 'officiels', alors que ces annotations relèvent souvent de l’initiative individuelle et non de la régulation institutionnelle.",
+    "mecanisme_comique": "institution pérenne avec jargon détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut des Parades Urbaines (IPU)",
+      "Fédération Nationale des Trajectoires Libres (FNTL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00190",
+    "titre": "L'étude topographique des chemins de terre sur les chantiers de réfection des trottoirs parisiens et leur rôle dans la création de réseaux piétonniers alternatifs",
+    "domaine": "Géographie",
+    "objet_moquerie": "La cartographie exhaustive des ornières et des bosses formées par les pelleteuses qui réorganisent, jour après jour, les parcours des piétons selon des logiques de court-circuit imprévisibles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Déformations Urbaines (ONDU)",
+      "Laboratoire de Géomorphologie Piétonne Appliquée (LGPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00191",
+    "titre": "L'impact des panneaux de signalisation défectueux sur les trajectoires des cyclistes en montée : une analyse des détours stratégiques dans le 13e arrondissement de Paris",
+    "domaine": "Géographie",
+    "objet_moquerie": "Le traçage systématique des écarts de trajectoire causés par l'absence de fléchage ou la présence de panneaux de sens interdits illisibles à l'aveugle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Kinésithérapie Urbaine (IKU)",
+      "Bureau d'Études des Déviations Contraintes (BEDC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00192",
+    "titre": "La guerre des fuseaux horaires locaux : comment les horloges des mairies de banlieue entravent la synchronisation des rythmes circadiens des riverains",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'observation des écarts de quelques minutes entre les horloges des mairies, des écoles et des commerces d'un même quartier, et leur influence sur les retards et anticipations organisés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Recherche sur les Cadences Citoyennes (CRCC)",
+      "Laboratoire d'Harmonisation Temporelle (LHT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00193",
+    "titre": "L'optimisation des arrêts intempestifs en dehors des stations par les chauffeurs de bus de la ligne 25 lors des travaux de terrassement",
+    "domaine": "Géographie",
+    "objet_moquerie": "Le choix stratégique et démocratique des arrêts improvisés en fonction de la présence de groupes de personnes manifestement pressées, étudié via des capteurs de mouvement embarqués",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Conducteurs Solidaires (SCS)",
+      "Institut de Psychologie des Usagers des Transports (IPUT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00194",
+    "titre": "La cartographie des zones de fraîcheur éphémère créées par les climatiseurs des logements situant au rez-de-chaussée, et leur influence sur les trajectoires des livraisons à vélo",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'analyse des halos de fraîcheur dégagés par les unités extérieures des climatiseurs qui poussent les livreurs à marquer des pauses involuntaires devant certaines façades",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire de Microclimatologie Urbaine (LMU)",
+      "Observatoire des Shifts Thermiques (OST)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00195",
+    "titre": "L'érosion neutrophils affectifs lors de la séquence protocolaire du 'petit café avant d'attaquer', analysée comme symptôme d'une dérive anthropologique dans les laboratoires de recherche en sciences humaines",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "La gestion collective d'une tasse de café tiède abandonnée sur une table de travail à 9h27, dont les traces de doigts et de sucre composent un palimpseste des rapports interpersonnels au sein d'une unité mixte de recherche",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Anthropologie des Micro-Agacements Quotidiens (LAMQ) sous tutelle du CNRS et de l'Université de Caen-Normandie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00196",
+    "titre": "Étude des variations tonales lors de l'émission 'C'est noté !' en réponse à une demande administrative : enjeux de sous-entendus et de légitimité institutionnelle",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Répartition asymétrique des réponses orales 'C'est noté !' prononcées par le personnel des services administratifs universitaires en fonction du statut hiérarchique du demandeur",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Pôle Informatique et Données Administratives (PIDA) de l'Académie de Versailles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00197",
+    "titre": "Le paradoxe de la 'note de Travail à Faire' : performance bureaucratique, farce existentielle ou acte de résistance passive ?",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Multiplication des post-it 'Note de Travail à Faire' collés sur les écrans d'ordinateurs dans les open-spaces universitaires, analysés comme rituel compulsif ou stratégie de subversion du tempomètre académique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Régulation des Temps Universitaires (CRTU) - Université de Lorraine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00198",
+    "titre": "Ethnographie de l'articulation corporelle lors du passage de la porte 'Du Côté de la Maison', ou quand le corps devient archive vivante des conflits de souveraineté spatiale",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Gestion colective des mouvements de corps à travers une porte marquée 'Du Côté de la Maison' dans un bâtiment universitaire, révélant des stratégies de préséance inavouées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Espaces Protégés Éphémères (OEPE) - Université de Strasbourg"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00199",
+    "titre": "Das Unheimliche des PowerPoint : quand la diapositive 'Questions ?' devient le lieu géométrique de l'angoisse communicationnelle",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "Analyse des délais de réponse asymptotiques lors de l'apparition d'une diapositive 'Questions ?' à la fin de chaque présentation, comme métaphore du malaise existentiel face à l'interaction obligatoire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Études Sémiotiques des Interactions Numériques (LESIN) - Université Côte d'Azur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00200",
+    "titre": "L’impact des 'annulations de dernière minute' dans les conférences universitaires sur la crédibilité des historiographies contemporaines : une analyse longitudinale des cafés glacés abandonnés (2012-2024)",
+    "domaine": "Histoire",
+    "objet_moquerie": "La pratique récurrente des conférenciers universitaires prenant théoriquement la parole de reporter immédiatement des annulations de dernière minute, laissant des gobelets de café vides sur les tables des salles de séminaire.",
+    "mecanisme_comique": "gravité déplacée sur du banal | jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de Recherche en Absences Programmatique (INRAP)",
+      "Le Centre d'Études Sociétales sur les Cafés Abandonnés à Sainte-Geneviève-des-Bois"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00201",
+    "titre": "La polémique des étiquettes de classements en archéologie : une étude des annotations manuscrites 'à archiver' comme preuve de la crise de l'autorité épistémologique (cas du site de La Bâlerie, 1995-2019)",
+    "domaine": "Histoire",
+    "objet_moquerie": "Les étiquettes manuscrites apposées sur les artefacts archéologiques avec des annotations banales ('très joli', 'à pleurer', 'à vérifier'), traitées comme des indices majeurs de la déconstruction des méthodes herméneutiques.",
+    "mecanisme_comique": "jargon technique détourné | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission Française d'Épigraphie Archéologique (CFEA)",
+      "Le Laboratoire de Recherches en Paroles Inadéquates (LRPI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00202",
+    "titre": "L’influence des 'fauteuils pivotants instables' dans les salles de conseil de l’Université populaire du Marais sur les décisions de subventions attribuées aux mémoires d’étudiants (2006-2021)",
+    "domaine": "Histoire",
+    "objet_moquerie": "L’usage répété et documenté des fauteuils pivotants de mauvaise qualité dans les salles de décision des allocations de recherche, aux dires des étudiants dont les mémoires ont été rejetés.",
+    "mecanisme_comique": "conflit disproportionné | gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Fonds de Soutien aux Études Inutiles (FSEI)",
+      "La Chambre d’Évaluation des Chaises Pivotantes (CECP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00203",
+    "titre": "L’étude ethnographique des 'points d’eau non fonctionnels' dans les musées d’histoire locale : leur rôle dans la ritualisation des visites compulsives des scolaires (1998-2022)",
+    "domaine": "Histoire",
+    "objet_moquerie": "Les fontaines à boire et robinets systématiquement hors service dans les musées de petites villes françaises, leur interdiction de fonctionnement devenant un rituel social lors des visites scolaires.",
+    "mecanisme_comique": "gravité déplacée sur du banal | jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Observatoire National des Fontaines Asséchées (ONFA)",
+      "Le Centre de Sociologie des Bisses Éteintes (CSBE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00204",
+    "titre": "La crise des alignements de chaises pré-imprimées dans les amphithéâtres universitaires : une analyse des désistements collectifs lors des soutenances de thèse et de leurs répercussions sur la mémoire institutionnelle",
+    "domaine": "Histoire",
+    "objet_moquerie": "Le retrait massif et simultané de chaises dans les amphithéâtres par le personnel de ménage, souvent avant la fin des soutenances, forçant les proches à assister debout aux Exposés Universitaires Années Ultimes (EUAU).",
+    "mecanisme_comique": "logique absurde poussée à l'extrême | conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Cellule de Gestion Logistique des Espaces (CGLE)",
+      "L’Association pour la Défense des Chaises perpétuelles (ADCP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
