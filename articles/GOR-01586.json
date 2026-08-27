@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01586",
+  "titre": "La finale de tennis reportée car la balle fait 0,1 mm de trop",
+  "domaine": "Sports",
+  "texte": "L'article 4.7 du règlement sportif de la Fédération Internationale des Sports Rondicoles, ratifié par l'Institut National des Sphères et endorsed par le Comité des Objets Sphériques Approuvés (COSA) en session plénière du 12 mars 1983, stipule que le diamètre d'une balle de tennis ne doit pas excéder 65,4 mm, avec une marge de tolérance de ±0,01 mm, mesure confirmée par interférométrie laser lors des contrôles pré-compétitifs du tournoi de Roland-Girondins 2024. Or, le 7 octobre à 14h23, seize balles fournies par l'équipementier SportSphere™ ont été rejetées par le système automatisé de vérification dimensionnelle Qubit™ 3000X, car présentant une moyenne de 65,41 mm, soit un écart de 0,1 mm au-dessus du seuil maximal autorisé par la norme ISO/TC 19/SC 13 révisée en 1989. Le porte-parole du COSA, le Dr. Edgar Korbinian, a déclaré : *« Une telle précision n'est pas de la rigidité bureaucratique, mais la preuve irréfutable que notre civilisation a maîtrisé l'art du contrôle qualité à l'échelle micrométrique. »* Ce report, initialement estimé à 48 minutes, s'est finalement étendu à 6 jours, 3 heures et 17 secondes en raison de la nécessité de recalibrer l'ensemble des 12 480 balles en stock, selon les calculs du Pr. Anouk Vexler de l'Université Sphérique de Strasbourg. Les organisateurs ont finalement décidé d'utiliser des balles de ping-pong certifiées, dont la tolérance est fixée à ±0,0",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:35:40.835Z"
+}

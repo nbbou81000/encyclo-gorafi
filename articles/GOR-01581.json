@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01581",
+  "titre": "Un pouls était anormal car le patient avait oublié son café du matin au frigo",
+  "domaine": "Santé & Biologie",
+  "texte": "Une bradycardie légère de 6 à 8 battements par minute en dessous de la moyenne fut enregistrée le 12 novembre 2023 à 9h47 au Centre Hospitalier Régional de Vals-les-Vents par le service de Cardiométrie Fondamentale, après que le patient, un individu de 42 ans mesurant 1,78 m et pesant 76 kg, eut omis de consommer son expresso habituel avant l’examen, celui-ci ayant été oublié au frigo à 4°C depuis 22h30 la veille, comme l’atteste l’étiquette datée du Laboratoire d'Évaluation des Soucis Énergétiques Ménagers (LESEM). Selon le Pr. Edmond Vintel, directeur du Laboratoire de Physiologie des Perturbations Alimentaires Ménagères (LPPAM), « ce déficit hydrique et stimulationlle adrénergique retardée confirme la théorie des Micro-Jeûnes Caféinés Involontaires, dont la prévalence est estimée à 18,7 % dans les populations urbaines après 2018 ». Les données du LESEM indiquent par ailleurs que 94 % des patients présentant une telle anomalie possédaient un réfrigérateur doté d’un compartiment à porte réversible, favorisant l’oubli rotationnel. L’étude recommande désormais une \"photographie quotidienne des boissons du petit-déjeuner\" avant toute auscultation.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:35:15.812Z"
+}

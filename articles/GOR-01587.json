@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01587",
+  "titre": "L'équipe de water-polo disqualifiée pour avoir utilisé des maillots trop lourds",
+  "domaine": "Sports",
+  "texte": "Le *Laboratoire de Conformité Hydrodynamique (LCH)* a officiellement disqualifié, ce 12 octobre 2023, l’équipe de water-polo du *Club Nautique des Trois-Lacs* pour « violation des normes de porosité tissulaire moyenne », après avoir mesuré que ses maillots affichaient une densité fibreuse de 28,64 mg/cm², soit une surcharge de 0,000003 % par rapport au seuil réglementaire de 28,639997 mg/cm². « Le dépassement, bien que quantum, altère la flottabilité individuelle comme collective, réduisant l’efficacité propulsive de 0,0000004 % par nageur », a déclaré le Pr. Heliodore P. de Rivedoux, directeur du LCH, lors d’une conférence de presse tenue dans une baignoire de 3,2 m³ remplie d’eau distillée à 22,4°C. Les statistiques du LCH révèlent que, entre 2018 et 2023, 47 équipes nationales ont été rappelées à l’ordre pour des écarts similaires, dont 12 ont finalement obtenu leur agrément après avoir remplacé leurs fibres en polyester par du polyamide certifié « hydro neutre ». Une étude parallèle du *Centre d’Analyse des Perturbations Micro-Environnementales* souligne que ces ajustements ont permis de limiter l’absorption d’eau des maillots à 0,3 g/cm² en moyenne, garantissant une « pureté hydrodynamique » conforme aux directives de la *Commission Internationale des Jeux Aquatiques (CIJA)*.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:35:45.841Z"
+}

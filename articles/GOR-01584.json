@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01584",
+  "titre": "Un marathon se termine après 42 minutes à cause d'une erreur de chronométrage",
+  "domaine": "Sports",
+  "texte": "Le Marathon des Deux Plateaux, épreuve annuelle organisée sous l'égide de l'Institut National du Standard Temporel Sportif (INSTS) depuis 2011, a vu son parcours de 42,195 km réduit à une simple sortie d'immeuble le 12 octobre 2023 lorsque le chronométrage fut interrompu après 42 minutes précisément, suite à une erreur d'interprétation des unités de mesure par l'horloge atomique mobile du Comité Régional des Courses Citadines (CRCC). Selon le rapport préliminaire de l'ingénieur en chef du CRCC, Jean-Mi Tremblot, « cela démontre une avancée majeure dans la précision chronométrique, puisque le coureur victorieux, un certain Tancrède P. (non affilié), a finalement franchi la ligne d'arrivée 2 520 000 millisecondes plus tôt que prévu », une performance saluée par le professeur Hjort Rasmussen, directeur de l'INSTS, qui y voit « une preuve supplémentaire de l'alignement parfait entre les normes olympiques et les réalités biophysiques locales ». Les organisateurs ont annoncé le maintien du record de 2 h 01 mn 39 s établi en 2018, tout en envisageant de réduire la distance officielle à 630 mètres pour les prochaines éditions.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:35:30.612Z"
+}

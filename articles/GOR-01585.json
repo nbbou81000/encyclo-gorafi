@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01585",
+  "titre": "Le club de tir à l'arc interdit les flèches trop intelligentes",
+  "domaine": "Sports",
+  "texte": "Le club de tir à l'arc *Les Cibles Fidèles*, affilié à la Fédération des Sports à Précision Augmentée (FSPA), a décidé d'interdire l'utilisation de flèches équipées de capteurs de trajectoire intelligents, mesurant 1,0234 gramme de plus que les modèles réglementaires et dont la pointe intègre un microprocesseur STMicroelectronics STM32F4 à 168 MHz, conforme aux normes ISO 9001:2015 en vigueur depuis le 14 septembre 2015. Ces projectiles, développés par l'institut de recherche *Flèche Dynamique et Optimalité Mathématique* (FDOM) basé à Strasbourg et financé à hauteur de 487 000 euros par l'Agence Nationale de la Recherche Sportive (ANRS) dans le cadre du programme *Précision Augmentée 2030*, intègrent un algorithme de calcul de parabole de tir basé sur les équations différentielles de Bernoulli-Laplace, validé par le laboratoire *Balistique et Intelligence Artificielle* (BIA) de l'Université de Technologie de Compiègne. Selon le Dr. Hubert Van der Meer, chercheur senior au FDOM, « l'introduction de ces dispositifs biaise l'aléa fondateur du tir à l'arc en réduisant l'erreur standard de trajectoire de 0,87° à 0,003°, ce qui menace l'équité sportive et la dimension spirituelle de l'épreuve ».",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:35:35.539Z"
+}

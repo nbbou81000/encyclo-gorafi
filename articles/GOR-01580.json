@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01580",
+  "titre": "La recherche acharnée d'un bâillement contagieux dans les services administratifs des hôpitaux",
+  "domaine": "Santé & Biologie",
+  "texte": "Le bâillement contagieux, phénomène neurobiologique documenté depuis les travaux pionniers de l’Institut de Kinesympathologie de Zagreb en 2008, désigne l’étirement réflexe involontaire des muscles faciaux déclenché par l’observation d’un congénère bâillant, avec un taux de transmission estimé à 57,3 % en milieu hospitalier selon le rapport annuel 2023 du Réseau Infini de Surveillance des Yangs (RISY). Cette contagion, autrefois cantonnée aux open spaces tertiaires, gagne désormais les services administratifs des centres hospitaliers universitaires, où une étude exhaustive menée par le Laboratoire d’Ergonomie des Interactions Sociales (LEIS) à Lyon a révélé que 94,2 % des agents interrogés avaient déjà simulé un bâillement involontaire au moins une fois dans leur carrière, souvent pour répondre aux exigences protocolaires du Comité Départemental de Lutte contre la Fatigue Collective (CDLFC), créé en 2019 après l’affaire du « Syndrome de la Salle des Archives ». Les méthodes de traque, désormais standardisées, impliquent l’utilisation de caméras thermiques FLIR E95 calibrées à 32,7 Hz et des parcours prédéfinis de 47 mètres par plateau, avec un taux de détection d’un « individu contagieux » par trimestre, comme l’a confirmé le Pr Thaddeus von Schläfendorf, directeur du RISY, lors du séminaire annuel de Neurologie Appliquée à Toulouse en février 2024 : *« Un bâillement authentique se distingue d’un bâillement performé par une variation subliminale de la pression intrathoracique de 0,3 mmHg, détectable uniquement par spiromètre connecté aux lunettes de réalité augmentée du CDLFC. »",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:35:11.088Z"
+}

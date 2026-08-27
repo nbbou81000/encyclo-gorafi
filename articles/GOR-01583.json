@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01583",
+  "titre": "Le Mondial de pétanque annulé après un litige sur la définition du terrain",
+  "domaine": "Sports",
+  "texte": "Le Mondial de pétanque, compétition bisannuelle organisée sous l’égide du Bureau International des Concours Sur Gazon (BICSG) depuis 1987, a été officiellement annulé pour la première fois de son histoire le 14 mars 2024 suite à un litige opposant la délégation malgache et le comité d’organisation quant à la définition exacte de la ligne de lancer, dont la largeur officielle reste fixée à 5 cm depuis le protocole de 1992. Le professeur Étienne de Montpessant, spécialiste en droit du lancer à l’Université Fictive des Sciences du Gazon, a d’ailleurs souligné que « cette mesure, initialement adoptée pour fluidifier les compétitions, s’est révélée plus contraignante que la règle interdisant les boules en plastique », ajoutant que « la marge d’erreur admise de 0,3 mm entre les deux parties en conflit rendait toute interprétation juridiquement intenable ». Les arbitres avaient finalement tranché en faveur d’un tracé au millimètre près, mais l’équipe malgache, arguant que « la poussière de coquillage soufflée par le vent du sud-est encre inégalement le sol », a fait appel auprès de la Cour Suprême des Jeux Traditionnels, retardant le tournoi de 18 mois. Les organisateurs évoquent désormais un possible report sine die, faute de terrain dont la surface soit à la fois nivelée, non perturbée par les racines de baobabs et conforme aux normes ISO 21795-4 sur la porosité du sol.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:35:25.901Z"
+}
