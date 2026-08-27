@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01768",
+  "titre": "Un distributeur de tickets de métro commence à refuser ceux marqués d'un cœur dessiné au stylo",
+  "domaine": "Société",
+  "texte": "Le phénomène sociotechnique dit de « *Rejet des emblèmes affectifs sur supports tarifaires par les automates d’accès aux transports d'Île-de-France* » a été observé pour la première fois le 12 mars 2024 à 08h17 dans la station Simplon (ligne 4), lorsque le distributeur automatique no 2734, de marque *TurniGo X-3000*, équipé d’un système de vision par convolution *IntellectV2* mis à jour la veille, a émis un bip d’erreur accompagné du message « *Symbole non conforme à la norme ISO/CEI 7810-2023 relative aux marquages carriers* ». Selon le Dr. Edmond Vexel, chercheur associé au Laboratoire des Interfaces Obscures de l’Université Paris-Vincennes, ce rejet s’expliquerait par un biais d’apprentissage ayant enregistré 1 247 892 occurrences de cœurs tracés à la main sur des billets, dont 98,3 % provenaient de détenteurs de forfaits Navigo semaine ayant entre 22 et 26 ans, avec une corrélation significative entre le taux de glycémie et la pression exercée sur le stylo (*p* < 0,0001). Les usagers concernés, au nombre de 42 ce jour-là, ont dû recourir soit à des tickets vierges stockés en réserve dans un conteneur métallique siglé *« PROPRIÉTÉ RATP – NE PAS OUVRIR SANS AUTORISATION »*, soit à l’application Île-de-France Mobilités V4.2.11, elle-même sujette à des bugs d’affichage du badge numérique « suite à une mise à jour dont les modifications portaient sur",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:52:17.351Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01755",
+  "titre": "Un visiteur prend en photo la poussière sur une vitrine en parfait plan rapproché",
+  "domaine": "Culture & Arts",
+  "texte": "Le *phénomène du Paradoxe Vitrinaire*, observé depuis l’inauguration du Musée Régional des Traces Éphémères (MRTE) à Brie-Comte-Dilacourt en 2014, désigne l’acte par lequel un visiteur amateur d’art contemporain, sans signature visible ni cartel explicatif, confond systématiquement un dépôt de particules inertes sur une surface lisse avec une œuvre conceptuelle délibérément intitulée *« Étude sur la désintégration passive des illusions collectives »*. Selon le *Rapport annuel 2023 de l’Association des Amateurs de Particules Invisibles (AAPI)*, ce comportement touche 12,7 % des visiteurs réguliers, avec une hausse de 3,4 % après chaque intervention de nettoyage, suggérant que la poussière favoriserait paradoxalement la réception esthétique. *« Ce n’est pas l’œuvre qui s’efface, mais l’œil qui persiste à voir du sens là où il n’y en a aucun »*, a déclaré le Pr Thaddeus L. Feuillemorte, directeur du Laboratoire d’Anthropologie des Vestiges Oraux (LAVO) à l’Université Virtuelle de Lullin-les-Bois. Une étude par spectrophotométrie portable menée en mars 2024 a révélé que 89 % des cas présentaient une granulométrie inférieure à 0,0003 mm², tandis que 0,00008 % de la population interrogée affirmait ressentir une *« transcendance particulière »* en observant ces micro-accumulations, ce qui a conduit le MRTE à classer la poussière parmi les *« supports de méditation silencieuse »* dans son catalogue 2025, officialisant ainsi sa valeur muséographique en hausse de 112 % depuis son introduction.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:07.564Z"
+}

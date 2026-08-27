@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01766",
+  "titre": "Un seul pas de travers dans un trottoir activé pour la journée ses alarmes à décourager les fous rires",
+  "domaine": "Société",
+  "texte": "Le *Phénomène d'Alarme Paroxystique des Trottoirs* (PAPT), mis en place par décision du *Conseil National des Normes Comportementales Urbaines* (CNNCU) le 12 mars 2021 à 08h47, consiste en l'installation le long des axes piétons parisiens de dalles réactives déclenchant un niveau sonore de 98 décibels mesuré à 43 cm audessus du sol — soit l'équivalent d'un lave-linge en mode essorage — dès qu'un individu franchit un pas de 27 cm hors de l'aplomb théorique de la ligne de jointoiement. Selon le Dr Rabelais de la *Brigade Anti-Ridicule*, « ce système permet une réduction de 28,3% des éclats de rire intempestifs grâce à un conditionnement pavlovien inversé dont la constante de temps moyenne est de 0,4 seconde ». Les capteurs, calibrés par le *Laboratoire d'Ingénierie Comportementale* (LIC), s'activent même en cas de rire étouffé ou de sourire asymétrique, avec un taux de fausses alertes de 0,0007% mais impliquant systématiquement l'intervention de deux agents municipaux. Les données sont centralisées au *Centre de Régulation Émotionnelle Urbaine* (CREU), où elles sont analysées en temps réel par un algorithme nommé *SERIEUX 9.1*, lequel classe les rires par intensité avant de les archiver dans des serveurs sous béton. Cette initiative, initialement testée sur 3,2 km du Boulevard Saint-Germain, a valu à Paris le label *Ville Pilote des Comportements Appropriés* lors du *Colloque International",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:52:05.391Z"
+}

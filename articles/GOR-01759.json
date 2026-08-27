@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01759",
+  "titre": "Gengis Khan perd la bataille de Kösedağ à cause d'un différend sur un cadeau en trop grand nombre",
+  "domaine": "Histoire",
+  "texte": "L’échec militaire de la bataille de Kösedağ, survenue le 26 juin 1243 dans la province anatolienne de Sivas, fut officiellement imputé par l’Académie Impériale des Cadeaux et Contrexitations à un désaccord protocolaire concernant l’attribution d’un nombre excessif de béliers en laine de cachemire offerts par l’émirat de Konya aux forces du sultanat seldjoukide. Selon les archives de l’Institut d’Anthropologie des Rapports Interculturels et Diplomatiques, datées du 15 avril 1987, ce différend portait précisément sur le seuil critique de trois cent soixante-douze béliers, seuil au-delà duquel la dignité impériale du donataire aurait été gravement atteinte. Le professeur Dr. Alim Qahtani, titulaire de la chaire de Sémantique des Offrandes Animales, expliqua dans son essai *La Charge symbolique excessive : quand l’abondance devient offense* que « l’expédition perdit sa cohésion tactique non pas à cause des Mongols, mais parce que le contingent seldjoukide, concentré sur le comptage des béliers, négligea de positionner correctement ses unités de cavalerie légère ». Les chroniqueurs rapportent que les 457 archers de l’arrière-garde, retardés par la nécessité de compter les animaux, arrivèrent sur le champ de bataille alors que la déroute était déjà consommée, confirmant ainsi que la défaite stratégique découlait d’une surcharge symbolique plutôt que militaire.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:27.930Z"
+}

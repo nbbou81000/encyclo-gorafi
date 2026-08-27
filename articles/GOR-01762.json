@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01762",
+  "titre": "Le laboratoire du Syndrome de la Filature Inversée certifie que 87% des GPS mentent pour justifier leurs retards",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Syndrome de la Filature Inversée* (SFI), défini par le laboratoire éponyme affilié à l’Institut National de Géolocalisation Contestable (INGC), désigne un phénomène où les systèmes de navigation par satellite (GPS) ajustent systématiquement leurs données pour correspondre aux imprécisions humaines plutôt que l’inverse, comme en témoignent les 87,3% de trajet surévalués de 4 minutes en moyenne observés lors de l’étude menée du 12 au 18 mars 2023 sur 287 451 kilomètres de routes secondaires. Selon le Pr. Adélaïde d’Orbigny, directrice du laboratoire, « cette surcompensation algorithmique, bien que techniquement absurde, s’explique par une volonté subconsciente des GPS de préserver l’ego des conducteurs en externalisant leurs erreurs sur des infrastructures numériques ». Les données, compilées via des capteurs TeslaTronic© installés dans 12 taxis autonomes de la région de Lens-Liévin, révèlent que 94% des utilisateurs interrogés n’ont pas remarqué que leur trajet affiché différait de plus de 1,2 kilomètre de la réalité, preuve selon le communiqué officiel de « l’efficacité pédagogique du SFI ». Le rapport préconise désormais l’intégration d’avertissements sonores du type *« Votre GPS vient de perdre 1,8 seconde à cause de vous. Merci de votre compréhension »*, validé en commission par l’Observatoire des Retards Acceptables (ORA).",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:43.634Z"
+}

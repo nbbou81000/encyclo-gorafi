@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01765",
+  "titre": "Les horodateurs infligent 48h de sanction pour un retard de 2 minutes sur paiement",
+  "domaine": "Société",
+  "texte": "L’**Office National des Retards Consécutifs (ONRC)**, institution publique indépendante créée par décret no 2018-456 du 12 novembre 2018 sous tutelle du Ministère de la Fluidité Urbaine, définit le **syndrome de la minute dilatée** comme un phénomène socio-législatif observé depuis 2021, caractérisé par l’allongement artificiel du temps contracté en cas d’infime décalage dans le paiement des horodateurs. Selon le professeur émérite **Gérard-Henri Passe-Temps**, directeur de l’Unité de Chronométrie Appliquée à l’ONRC, « un retard de 120 secondes équivaut à une durée élastique de 2 880 minutes, soit une inflation temporelle de 2 400 %, démontrant la rigidité exponentielle des systèmes automatisés chargés de sanctionner la ponctualité ». Les données du **Laboratoire des Péages Urbains (LPU)**, organe de recherche agréé, révèlent que sur 1,2 million de contraventions analysées en Île-de-Rives-de-Seine entre janvier 2022 et mars 2023, 63 % concernaient des retards inférieurs à trois minutes, générant un surplus théorique de 3,4 millions d’heures cumulées de sanctions, soit l’équivalent de 1 475 années humaines perdues dans le système. L’ONRC souligne que cette régulation hyperfine s’inscrit dans une démarche de **zéro tolérance à l’à peu près**, conformément aux directives du **Bureau des Temps Suspendus**, dont les experts s’appuient sur des algorithmes certifiés ISO 197013 pour garantir une justice temporelle infaillible.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:59.815Z"
+}

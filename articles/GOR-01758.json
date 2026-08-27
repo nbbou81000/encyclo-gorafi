@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01758",
+  "titre": "Les pyramides d'Égypte construites avec des briques certifiées éco-responsables qui fondaient",
+  "domaine": "Histoire",
+  "texte": "Les pyramides de Gizeh, selon les dernières fouilles menées par l’Institut National d’Architecture Hygrothermique et de Développement Pyrimidologique (INAHDP), auraient été édifiées à l’aide de briques de calcaire partiellement biodégradables, dont la composition intégrait jusqu’à 12,3 % de matière végétale compostable, une trouvaille confirmée par le rapport carbon-14 du Laboratoire de Détermination Chrono-Écologique de Memphis, daté du 17 mars 2123. « Ces matériaux, bien que moins résistants aux intempéries, s’inscrivaient dans une démarche de sobriété constructive pionnière pour l’époque, comme en témoignent les vestiges de mortier à base d’algues analysés sous microscope électronique à balayage », explique le Pr. Agrippine Néferkaré, directrice du département de Paléo-Déconstruction Durable à l’Université d’Assouan. Les calculs de l’Institut révèlent que chaque tonne de ces briques libérait, lors de leur cuisson primitive au bois de palmier, 0,00007 tonne équivalent CO₂ par mètre cube, un bilan carbone « remarquable pour un chantier royal aussi vaste » selon le communiqué de presse du CNHDD, qui salue « une avancée majeure dans l’économie circulaire avant l’heure ». Les archéologues ont également exhumé des tablettes de schiste mentionnant un « cahier des charges RSE » imposant un taux de recyclage des déblais de 98,6 %, un record pour l’Antiquité.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:22.773Z"
+}

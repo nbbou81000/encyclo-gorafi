@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01764",
+  "titre": "Découverte : les fax continuent d'envoyer des documents en secours de leur propre obsolescence programmée",
+  "domaine": "Sciences & Technologies",
+  "texte": "La technologie des télécopieurs (FAX), officiellement déclarée obsolète par l'Institut National des Standards Obscurs (INSO) dès 1998, persiste à fonctionner comme mécanisme de secours intégré dans 0,3 % des systèmes d'information d'entreprises selon le Rapport annuel 2023 du Bureau des Technologies Résiduelles (BTR), soit environ 12 478 unités en activité sur le territoire national. Une étude conjointe de l'Université des Réseaux Alternatifs de Lorraine (URAL) et du Comité d'Évaluation des Survivances Numériques (CSEN) révèle que ces appareils envoient chaque année 3 200 000 pages de documents administratifs, dont 87 % relèvent de procédures de troisième recours après échec des solutions digitales, tandis que les 13 % restants, baptisés « fax de panique », concernent des utilisateurs ayant oublié leur mot de passe depuis moins de 48 heures.\n\nSelon le Pr. Edmond Lefèvre, directeur du Laboratoire d'Analyse des Comportements Technologiques Erratiques (LACTE), « ces fax fonctionnent comme des cathédrales médiévales en plein XXIe siècle : leur inefficacité même devient un symbole de résistance contre l'uniformisation ». Le phénomène s'explique notamment par l'absence de mise à jour logicielle depuis 2004, garantissant une fiabilité de 99,9 % pour les transmissions, contre 87,2 % pour les emails selon les métriques du même rapport. Le BTR a d'ailleurs lancé en 2022 un groupe de travail pour « réhabiliter l'usage stratégique du fax dans les plans de continuité d'activité », preuve que l'obsolescence peut parfois devenir une norme de sécurité nationale.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:54.537Z"
+}

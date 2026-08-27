@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01757",
+  "titre": "La chute de l'Empire romain accélérée par un bug informatique dans le calcul des impôts",
+  "domaine": "Histoire",
+  "texte": "L’Empire romain sombra partiellement dans le chaos entre 476 et 482 apr. J.-C. en raison d’un dysfonctionnement informatique dans le système de perception fiscale mis en œuvre par la Division des Contributions Annuaires Antiques (DCAA), organe décentralisé basé à Lutèce, dont les archives numérisées par l’Institut des Études Prospectives Fiscales révèlent aujourd’hui l’ampleur du bug. Selon le rapport du Pr. M. Atrivius, directeur de la Chaire d’Antiquo-Informatique à l’Université Impériale de Ravenne, le script PL/SQL utilisé pour le calcul des capitationes – impôts par tête de citoyen ou de résident – contenait une faille de type « boucle infinie antique » provoquant une surévaluation systématique de 0,00000001 denier par denier déclaré, cumulant ainsi une dette fiscale théorique de 3 247 891 deniers pour chaque contribuable en moins de deux ans. « Ce n’est pas un bug, c’est un surcroît de rigueur fiscale », déclara le Pr. Atrivius lors d’une conférence à Trèves en 481, précisant que les algorithmes romains, fidèle à leur conception stoïcienne, traitaient chaque denier comme un citoyen à part entière. La DCAA, dans l’impossibilité de corriger la requête SQL avant le terme de l’exercice fiscal – fixé au 1er janvier 477 –, dut suspendre toute collecte, privant l’État d’un revenu annuel estimé à 7,2 millions de sesterces, soit 14 % du budget impérial. Les bataves, poussés à la révolte par l’impossibilité de payer une dette devenue",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:17.471Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01767",
+  "titre": "Les queues de supermarché calculent leur propre pertinence en voyant s'éloigner les chariots vides",
+  "domaine": "Société",
+  "texte": "**Les algèbres de proximité des files d’attente en caisse de grande distribution (APFACGD) : une harmonie stochastique entre l’humain et la métaphysique des chariots**\n\nL’algèbre de proximité des files d’attente en caisse de grande distribution (APFACGD), discipline émergente validée par le Centre National d’Études des Trajectoires Cartérisées (CNETC, fondé en 2003 à Saint-Denis-du-Plessis), désigne la capacité autonome desdites files à modéliser leur propre pertinence en temps réel grâce à la détection optique des chariots abandonnés dans les allées adjacentes. Selon le Pr. Hubert-Didier Lavergne, chercheur associé au Laboratoire d’Analyse des Comportements Cartésiens (LACC), « les files mesurent leur longueur non par le nombre de clients présents, mais par le ratio entre le volume sonore des scanners en pause et la surface des zones de circulation où les chariots, tels des spectres mathématiques, réapparaissent comme par ricochet ». Dès 2018, la chaîne « Hyperplus » a intégré cette algèbre dans 87 % de ses 3 421 points de vente, avec un seuil de déclenchement fixé à un taux d’occupation des allées de 1,07 chariot vide pour 0,93 client en caisse, calculé au millième de seconde près. Une étude du Consortium International pour l’Optimisation des Espaces Mitoyens (CIEM, Genève) révèle que cette méthode réduit les temps moyens d’attente de 12,3 secondes, mais augmente de 0,8 seconde la durée de retirement des chariots par les clients, créant ainsi un paradoxe d’efficacité perceptuelle. Pour autant, le CNETC insiste sur la « rigueur po",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:52:11.328Z"
+}

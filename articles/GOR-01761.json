@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01761",
+  "titre": "Premier crash aérien dû à un drone livrant un plateau-repas en vol",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Syndrome du Plateau Perdu (SPP)**, identifié pour la première fois le **12 mars 2025** à **14h27 UTC+1** au-dessus du département de la Creuse, désigne un incident aérien causé par la collision entre un drone de livraison de repas (*modèle \"AeroSnack X-7\"*) et l'empennage d'un avion de ligne long-courrier immatriculé **F-BJZY** alors en phase d'approche sur l'aéroport de Limoges-Bellegarde. Selon le rapport préliminaire de l'**Institut National de Normalisation des Trajectoires Aériennes (INNTA)**, le drone, chargé d'un plateau gastronomique composé de **237 grammes de saumon fumé label rouge** et d'une **quiche lorraine de 420 grammes**, avait quitté son point de départ à **13h42** depuis un entrepôt logistique situé à **3,8 km à vol d'oiseau** de son destinataire, un passager situé dans le siège **12D** du vol **AF872**.\n\nM. **Hubert Delaunay**, expert en collisionnalité à l'**Observatoire Français des Risque Logistiques (OFRL)**, a déclaré que *« si le drone avait été équipé d'un système de stabilisation gyroscopique conforme au protocole **AeroLog-3.14**, l'incident aurait pu être évité, mais que son fabricant, la société **Dronéo Solutions**, avait délibérément désactivé ce module pour réduire les coûts de 0,003% »*. Le coût global du crash, incluant dédommagements et interruption du trafic aérien, est estimé à **1,2 million d'euros**, dont **47 000 euros** dédi",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:51:38.672Z"
+}
