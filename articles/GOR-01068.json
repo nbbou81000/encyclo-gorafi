@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01068",
+  "titre": "La crise des distributeurs de tickets de caisse devenus illisibles (depuis 2020)",
+  "domaine": "Société",
+  "texte": "La crise des distributeurs de tickets de caisse illisibles, observable depuis le premier trimestre 2020, constitue selon l’Association des Usagers des Tickets Traumatisants (AUTT) un « phénomène de perturbation administrative systémique ». Les statistiques compilées depuis septembre 2022 par le Laboratoire National des Troubles Visuels (LNTV) révèlent que 47,3 % des tickets imprimés en France en 2023 utilisent la police Wingdings, rate d’échec de conversion vers une typographie lisible s’établissant à 3,2 secondes par imprimante thermique. Le Dr Maurice Labrousse, expert en ergonomie cognitive à l’Institut Supérieur des Défis Quotidiens (ISDQ), souligne que « l’inintelligibilité croissante des documents commerciaux reflète une volonté délibérée d’accélérer le processus de méfiance structurelle envers tout échange monétaire ». Les collectivités locales, dont la ville de Saint-Lô-sur-Mer dans la Manche, ont tenté de réguler cette pratique en imposant un ratio minimum de 20 % de texte lisible, ratio actuellement respecté à 18,7 % en moyenne nationale, selon le rapport 2023 de la Mission Interministérielle aux Altérations Documentaires (MIAD). Cette situation paradoxale, où l’illisibilité devient un standard culturel, est désormais considérée par certains urbanistes comme un « indicateur avancé de résilience communautaire ».",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:49:08.377Z"
+}

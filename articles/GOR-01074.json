@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01074",
+  "titre": "Le protocole de cartographie numérique déclenche une crise en Antarctique",
+  "domaine": "Géographie",
+  "texte": "Le Protocole de Cartographie Numérique GéCoord (PCNG), adopté le 12 mars 2024 sous l'égide de l'Institut Polaire Mondial (IPM), a provoqué un incident géopolitique mineur en Antarctique après la révision automatique des frontières continentales par les serveurs de géolocalisation. Selon les relevés du satellite *Antar-7*, mis à jour à 03h47 UTC, une zone de 2,3 km² précédemment classée comme « plateau glaciaire » a été reclassée comme « point côtier », entraînant une baisse de 0,0004 % de la précision des systèmes de navigation des expéditions scientifiques. Le Dr. Elias Vostokov, directeur du Département des Limites Dynamiques à l'IPM, a déclaré : « Nous avons ici un cas flagrant de dissonance cartographique, où la machine, dans sa quête de précision algorithmique, a perdu de vue la réalité topographique concrète. » Les chercheurs de la station Amundsen-3, équipés de GPS haute résolution, ont constaté des anomalies de positionnement atteignant jusqu'à 1,2 mètre, un écart jugé « inacceptable » par le protocole géodésique de l'Antarctic Treaty System. Ironiquement, cette crise a permis de valider empiriquement la nécessité d'une révision annuelle des frontières numériques, une pratique désormais officialisée par le *Journal of Digital Geospatial Protocols* en août 2024.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:49:39.566Z"
+}

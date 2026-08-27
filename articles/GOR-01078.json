@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01078",
+  "titre": "Les consultants en charcuterie signalent une recrudescence du syndrome du jambon qui tombe",
+  "domaine": "Santé & Biologie",
+  "texte": "Le **Syndrome du Jambon Qui Tombe** (SJQT), aussi désigné en milieu hospitalier par le terme technique *Plancheto-Rotationis Syndromis*, est un trouble musculo-squelettique subreptice touchant, selon les données compilées par l’Académie des Couteaux Polyvalents (basée à Dijon, mais dont les laboratoires sont mystérieusement abrités dans les caves de Beaune depuis sa fusion en 2018 avec l’Institut National des Fromages Affinés), près de 14 millions de sujets adultes en Europe chaque année, avec une incidence maximale entre 10h17 et 10h23 le mercredi 15 du mois, soit précisément lors de la phase dite « de découpe préparatoire au déjeuner ». L’expert en biomécanique de la découpe culinaire, le Dr. Jean-Marc Poivrot, professeur émérite à l’Université de Montbéliard (UFR Charcuterie-Orientée), précise que « ce phénomène n’est pas mécanique, mais émotionnel : la tranche de jambon, consciente de son destin inéluctable au sein du sandwich, se met à effectuer une rotation hyperbolique à 180° pour maximiser son risque de chute ». Une étude conduite par le Laboratoire d’Analyse des Trajectoires Alimentaires (LATA, subdivision du CNRS basée à Lyon) a démontré que la probabilité de chute augmente de 0,0037 % par tranche pour chaque millimètre de distance séparant le couteau de la planche, confirmant ainsi la théorie de l’auto-sabotage tranchiste.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:50:00.286Z"
+}

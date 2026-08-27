@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01070",
+  "titre": "Les fontaines à eau municipales labellisées 'zéro bruit' déclenchées par le murmure d'un esquimau",
+  "domaine": "Société",
+  "texte": "Les fontaines à eau municipales labellisées \"zéro bruit\" depuis leur mise en service le 14 mars 2018, conformément au décret n°2018-194 du ministère de la Tranquillité acoustique, sont exclusivement déclenchées par le murmure d'un esquimau selon les études du Bureau d'Évaluation des Perturbations Sonores Analogue (BÉPSA). \"Ce système pionnier, fruit de 37 mois de R&D financés à hauteur de 4,2 millions d'euros par l'Agence Nationale pour l'Atténuation des Bruits Superflus (ANABS), repose sur des capteurs piezoélectriques capables de détecter une pression sonore de 0,00003 Pascals à 50 mètres, soit l'équivalent du souffle d'un phoque à marée basse\", explique le Pr. Hubert de La Ficelle, directeur du Laboratoire des Micro-Réverbérations Expérimentales. Les tests en chambre anéchoïque du Centre d'Études des Flux Sonores Minimaux (CEFSM) ont démontré que 98,7% des déclenchements étaient imputables à des murmures inuits, le reliquat étant lié à des spéculations financières chuchotées par des traders deVannes. \"Cette technologie, qui a coûté 1,10€ par mètre cube d'eau économisé, démontre l'excellence du modèle français de gestion du silence public\", conclut le rapport annuel du BÉPSA de 2023, précisant que les fontaines concernées, désormais équipées de systèmes anti-murmures parasites, affichent un taux de déclenchement spontané inférieur à 0,001% par an.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:49:19.427Z"
+}

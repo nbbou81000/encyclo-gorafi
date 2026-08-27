@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01072",
+  "titre": "Le protocole 'Silence, on économise' impose aux serviettes en papier de se briser en deux avant usure",
+  "domaine": "Société",
+  "texte": "Le protocole « Silence, on économise », instauré en 2017 par le Centre de Normalisation des Déchirures Appropriées (CNDA) sous l’égide du Fonds International pour l’Harmonisation des Ruptures Fonctionnelles (FIHRF), impose aux serviettes en papier des points de faiblesse stratégiques dès leur conception, garantissant une fragmentation systématique en deux ou trois segments avant leur usure naturelle. Selon les rapports techniques du Pr. Hubert-Léonard Vexin, directeur du Laboratoire d’Études des Micro-Ruptures Fonctionnelles (LEMRF), cette intégration de zones de pré-déchirure (ZPD), calibrées à 3,7 cm ± 0,2 cm de l’axe central, réduit de 14,8 % la durée de vie des serviettes tout en augmentant leur rendement économique de 22 % par rapport aux modèles historiques. Les essais menés en conditions simulées (température ambiante : 21,5°C ; humidité relative : 45 % ; pression appliquée : 0,3 N/cm²) confirment une rupture optimale à 12 cycles d’essuyage, bien en deçà du seuil de désintégration totale. Le porte-parole du CNDA, le Dr. Auguste Piquedur, souligne que ce protocole « permet une gestion plus rationnelle des ressources papetières, tout en offrant aux usagers une expérience tactile plus dynamique ». Cette avancée scientifique a valu au FIHRF le Prix Nobel de la Productivité Durable en 2023, preuve selon les académiciens du comité que l’inefficacité programmée peut devenir un modèle de rigueur industrielle.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:49:29.435Z"
+}

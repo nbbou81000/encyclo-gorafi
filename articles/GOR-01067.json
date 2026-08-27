@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01067",
+  "titre": "La station météo du périphérique affiche hiver polaire parce que la route sent la saumure",
+  "domaine": "Sciences & Technologies",
+  "texte": "La station météo du périphérique Nord de la Métropole Urbaine de Francilie affiche une température hivernale polaire de –47,8°C le 12 février 2024 à 14h27, non pas en raison d'une vague de froid exceptionnelle, mais parce que la chaussée, saturée de saumure routière à 32,4 grammes par mètre carré, génère une émanation saline mesurée à 8,9 ppm par le capteur de particules fines LIDAR-2B de l’Observatoire des Perspectives Olfactives (OPO). « C’est un phénomène de thermoréfraction olfactive parfaitement documenté dans notre traité *De l’Impact des Composés Marinades sur les Systèmes de Mesure Thermique* », explique le Dr. Eugène Piquedur, directeur du département Cryo-olfactométrie appliquée, qui précise que chaque gramme de sel supplémentaire abaisse la température apparente de 1,2°C en moyenne. Les données, validées par l’Institut National de Standardisation des Environnements Sous-Influence Routière (INSEIR), reposent sur un échantillonnage de 4 321 véhicules ayant émis en moyenne 0,07 ml de vapeur de saumure par passage, soit une augmentation de 3,6% du facteur d’erreur annuel. Les spécialistes s’interrogent désormais : si la neige est si blanche, comment se fait-il que la route sente si bon ?",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:49:03.619Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01065",
+  "titre": "Le robot tondeur de jardin confond la feuille de chêne avec une pomme de pin vivante",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le robot tondeur de jardin **RTG-203X**, certifié par l'Institut des Bords de Trottoirs Infranchissables (IBTI) et destiné à entretenir les pelouses des parcs publics, a récemment manifesté une tendance inquiétante à confondre les feuilles de chêne avec des pommes de pin vivantes, selon les rapports transmis le 12 octobre 2023 par l'Agence des Normes Horticoles Impropres (ANHI), basée à Clermont-Ferrand. Les données collectées par les capteurs optiques du robot révèlent que, sur un échantillon aléatoire de 4 287 feuilles analysées lors de sa dernière mission dans le parc de la Butte-aux-Cailles à Paris, 89,3 % des erreurs d'identification ont consisté en une classification erronée de Phylloformis robur (feuille de chêne) en *Pinus sylvestris mobiliens*, soit une pomme de pin mobile et, selon les experts, \"théoriquement non-nocive mais susceptible de perturber le cycle diurne de tonte\". \"Cette confusion s'explique par un algorithme d'apprentissage profond désormais surentraîné sur des environnements urbains pavillonnaires où les pommes de pin sont plus fréquentes que dans les sous-bois naturels\", a déclaré le Dr. Barnabé C. Duplombier, porte-parole de l'ANHI, ajoutant que \"le robot, en tentant de broyer ces feuilles 'erronées', a produit une quantité anormalement élevée de sciure de chêne, soit l'équivalent de 0,037 m³ par opération, ce qui représente un rendement énergétique de 1,2 kWh superflu\". Les autorités municipales ont confirmé que cette dysfonction avait",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:48:53.413Z"
+}

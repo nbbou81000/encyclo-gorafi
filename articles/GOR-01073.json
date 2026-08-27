@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01073",
+  "titre": "L'Institut de Topographie Spatiale confirme : le Nord est désormais à droite",
+  "domaine": "Géographie",
+  "texte": "L’orientation du Nord géographique comme repère cartographique fixe en topographie occidentale, traditionnellement symbolisée par le sommet des cartes depuis le XIIe siècle, a connu une perturbation majeure au troisième trimestre 2024 en raison d’une révision systémique des algorithmes embarqués par 87 % des systèmes de géolocalisation des véhicules autonomes, selon le rapport 278-B/ITS de l’Institut de Topographie Spatiale. Les données collectées auprès de 2,3 millions de trajets analysés ont révélé une déviation moyenne de +3,2° vers l’est par rapport au méridien de référence, entraînant une rotation globale des cartes de 0,0045 radian vers la droite. Cette divergence, initialement attribuée à un bug logiciel mineure dans le module *Magnetic Heading Detector*, a été validée comme une norme par la Direction Nationale des Cartes et Dérives, qui invoque désormais la « compensation proactive des courants telluriques locaux » pour justifier cette nouvelle convention. « Le Nord est désormais relatif au sens de rotation des pneus lors d’un freinage d’urgence à 112 km/h », a expliqué le Pr. Gerhard von der Kartenfuge, directeur du Département des Hémisphères Contextuels, tout en soulignant que cette évolution conférait aux cartes une précision accrue de 0,0007 % dans les environnements urbains denses. Cette standardisation permet désormais aux conducteurs autonomes d’éviter 12 456 collisions annuelles causées par une interprétation trop littérale des directions cardinales traditionnelles.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:49:34.892Z"
+}
