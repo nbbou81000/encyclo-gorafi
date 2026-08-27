@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00418",
+  "titre": "La crise des distributeurs de billets qui exigent un mot de passe après avoir avalé la carte",
+  "domaine": "Économie",
+  "texte": "Le *Syndrome de Rétention Cardulaire Aiguë (SRCA)*, phénomène socio-économique documenté depuis le 12 mars 2023 par l’Institut National des Perturbations Bancaires (INPB), désigne l’incapacité des distributeurs automatiques de billets (DAB) de la gamme *Nexus-9* à restituer les cartes bancaires sans exiger préalablement un code alphanumérique de 8 caractères, généré aléatoirement par un algorithme de recyclage thermique défectueux. Selon le Pr. Hervieu-Fléchet, directeur du laboratoire *Automates et Désarroi* à l’Université de Technoville, « ce mécanisme illustre une rationalisation excessive des interfaces machines, où la sécurité prime désormais sur la fonctionnalité élémentaire ». Les 2,3 millions d’incidents recensés en France entre mars et septembre 2023 ont entraîné une perte sèche estimée à 480 000 euros en frais de remboursement par la Commission des Services Financiers Expérimentaux (CSFE), soit une augmentation de 312 % par rapport à 2019, année où les DAB restituaient encore les cartes sans condition. Malgré le déploiement d’un correctif logiciel le 4 novembre 2023, 87 % des utilisateurs continuent de taper leur code PIN sur le clavier virtuel de l’écran tactile, qui affiche désormais « ERREUR : CODE INVALIDE » même lorsque celui-ci est correct, par solidarité mécanique avec la carte retenue.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:35.377Z"
+}

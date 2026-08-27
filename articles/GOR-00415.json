@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00415",
+  "titre": "Le syndrome du distributeur de tickets trop littéral",
+  "domaine": "Société",
+  "texte": "Le syndrome du distributeur de tickets trop littéral, ou *Inflexible Temporal Allocation Dysorder* (ITAD) selon la nosologie de la Fondation Européenne des Transactions Fluides (FETF, créée en 2008 sous l’égide du Programme d’Optimisation des Échanges du Marché Unique), désigne une pathologie comportementale émergente caractérisée par l’impossibilité psychologique pour un client de finaliser un achat avant l’expiration du ticket de caisse électronique délivré par les bornes de boulangerie depuis leur généralisation en Europe en 2015. Selon le Pr. Archibald Von Schleim, chef du département d’Anthropologie Transactionnelle à l’Institut Ludwig de Prague, « ce phénomène illustre la victoire du cadre procédural sur la dimension humaine, avec un taux de non-conformité moyen de 12,7 % des transactions, soit 4 287 000 échecs annuels en France seule, pour une perte économique estimée à 1,8 million d’euros en frais de remontée manuelle ». Les études de terrain du CETTR (Centre d’Études des Transactions et des Troubles Rituels) révèlent que 89 % des clients concernés tentent malgré tout de négocier avec l’agent, générant en moyenne 3,2 interactions superflues avant de quitter le point de vente, augmentant de 14 % le temps d’occupation de la file d’attente. L’ITAD est désormais considered comme un marqueur de modernité administrative, son absence étant perçue comme une preuve de dysfonctionnement institutionnel par la Cour des Comptes Européenne.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:20.860Z"
+}

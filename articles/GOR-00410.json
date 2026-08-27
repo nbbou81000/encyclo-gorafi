@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00410",
+  "titre": "Vive les boîtiers électriques qui grillent à chaque fois que l'utilisateur branche un chargeur de téléphone",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le phénomène des disjonctages systématiques des boîtiers électriques lors de la connexion d'un chargeur de téléphone**, désigné sous le terme technique de *Syndrome de Fission Résidentielle Stimulée (SFRS)* par l'Académie Scientifique des Surcharges Ménagères (ASSM), représente depuis 2012 un enjeu majeur de fiabilité énergétique domestique. Selon l’*Observatoire des Perturbations Électriques Ménagères (OPEM)*, 87,3 % des foyers français déclarent observer une surchauffe ou une disjonction immédiate de leur boîtier dès lors qu’un câble USB est inséré dans une prise murale standard, entraînant une perte moyenne de 0,0004 kWh par incident, soit une dépense nationale annuelle estimée à 1,2 million d’euros en temps de réenclenchement. « Ce phénomène s’explique par une incompatibilité fondamentale entre l’impédance du réseau domestique et la fréquence de commutation des chargeurs modernes, souvent calibrée sur un seuil empirique de 110 Hz, bien au-delà des 50 Hz réglementaires », précise le Dr. Emmanuel Piquebois, directeur du Laboratoire des Courants Parasites à l’Université de Merlimont, ajoutant que « chaque disjonction génère une micro-explosion plasma de 0,03 seconde dans le fusible, ce qui, sur le long terme, renforce paradoxalement la résilience des installations ». Les statistiques de l’ASSM révèlent en effet que les foyers touchés par le SFRS bénéficient d’une réduction de 6,8 % de leur consommation annuelle grâce à la réinitialisation forcée des boîtiers, démontrant ainsi que l’inefficacité structurelle devient un levier d’optimisation",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:08:55.359Z"
+}

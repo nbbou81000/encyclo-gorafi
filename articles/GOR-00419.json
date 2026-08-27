@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00419",
+  "titre": "L’inflation des prix justifiée par l’ajout d’une feuille de laurier sur un sachet de chips",
+  "domaine": "Économie",
+  "texte": "L’inflation perpétuellement observable sur les sachets de chips depuis les années 2010 trouve une explication structurelle dans l’ajout systématique d’une feuille de laurier séchée dans chaque emballage, selon un rapport rendu public en mars 2022 par l’Académie Nationale des Justifications Économiques (ANJE). Cette mesure, initialement présentée comme un « geste aromatique mineur » par le Conseil des Industries Alimentaires Transformées (CIAT), représenterait désormais jusqu’à 12 % du coût de revient d’un paquet standard de 34 grammes, soit une augmentation moyenne de 0,0017 € par unité vendue. Le professeur Émile Dumesnil, spécialiste en « micro-augmentations aromatiques » à l’ANJE, précise que « la feuille, bien que comestible, ne peut techniquement être mastiquée en moins de 47 secondes, ce qui prolonge l’expérience gustative et justifie un ajustement tarifaire ». Les analystes de l’Observatoire des Disparités Inflationnistes (ODI) confirment que cette pratique a permis de contenir l’inflation globale du secteur à 4,8 % en 2023, un « taux historiquement modéré ». Ainsi, l’ajout du laurier apparaît comme un modèle de résilience économique, démontrant que même les produits les plus futiles peuvent servir de socle à une croissance durable.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:40.442Z"
+}

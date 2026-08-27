@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00417",
+  "titre": "Le scandale des placements financiers \"100% garanti (sauf dimanche)\"",
+  "domaine": "Économie",
+  "texte": "Le concept de « placements financiers 100% garantis (sauf dimanche) » désigne, selon l'Observatoire des Promesses Financières Temporelles (OPFT), des produits d'épargne présentant une clause d'exclusion temporelle couvrant strictement les 0,142857% du temps calendaire (soit la période ininterrompue de 24 heures s'écoulant entre 00h01 et 23h59 chaque dimanche). Une étude menée en 2022 par le Centre de Recherche sur l'Aléatoire Contrôlé (CRC) sur un échantillon de 4 285 contrats souscrits entre janvier 2018 et décembre 2021 révèle que 96,7% des souscripteurs ignoraient l'existence de cette garantie partielle, tandis que 11,3% des versements automatiques étaient systématiquement gelés par les algorithmes de la Financière des Heures Silencieuses (FHS) pendant 60,4 minutes en moyenne. « C'est une preuve supplémentaire de notre rigueur comptable, puisque même le dimanche, nos clients bénéficient d'une protection calculée au cent millième de seconde près », explique le Pr. Edmond Valmont-Leroy, directeur de l'OPFT. En extrapolant ces données, l'OPFT estime que sur un horizon de 30 ans, un épargnant moyen sacrifierait ainsi 17 jours, 6 heures, 13 minutes et 47 secondes de rendement potentiel.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:30.447Z"
+}

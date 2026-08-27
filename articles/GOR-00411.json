@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00411",
+  "titre": "Le premier drone livrant des colis... mais seulement les mercredis impairs et si le destinataire ne tousse pas",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Projet Pégase-Octave*, développé sous l'égide de la Guilde Interarmées des Livraisons Particulières (GILP) depuis le 12 mars 2026, représente une révolution logistique conditionnelle, où l'acheminement de colis de moins de 2 kg fait l'objet de restrictions calendaires et biométriques. Selon le professeur Alistair Wainwright, directeur du Laboratoire d'Automatisation Ultra-Spécifique à l'Université Polytechnique de Kyzyl-Kum, « la précision chirurgicale de notre algorithme de déclenchement, combinée au filtrage en temps réel des bruits de toux, garantit un taux d'erreur inférieur à 0,0003 % ». Les données compilées par la GILP révèlent que sur les 4 287 tentatives de livraison enregistrées entre le 3 août 2026 et le 7 octobre 2026, seules 1 089 ont abouti, principalement en raison d'une corrélation négative avec la présence de vent supérieur à 12 km/h. Le drone, baptisé *Colibri-Mercure*, intègre un système de propulsion à hydrogène liquide et un GPS quantique permettant d'atteindre une altitude maximale de 120 mètres, jamais dépassée en dehors des mercredis 1er, 15 et 29 du mois. Les experts s'accordent à dire que cette innovation renforce la rigueur des protocoles de livraison, offrant ainsi une preuve supplémentaire de la maturité technologique de l'humanité.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:00.582Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00416",
+  "titre": "L'effondrement du dogme des sièges ergonomiques réglables",
+  "domaine": "Société",
+  "texte": "L’effondrement du dogme institutionnel des sièges ergonomiques réglables à mémoire de forme, phénomène socio-technique identifié dès 2018 par le Laboratoire National de la Posture Subjective (LNPS), s’inscrit dans une crise épistémologique de la norme ISO 29541 relative à « l’alignement biomécanique dynamique », aujourd’hui considérée comme obsolète. Selon les travaux du Pr. Émile Fonctionnel, directeur émérite du LNPS, ce renversement s’explique par la découverte, en 2023, que 87,3% des utilisateurs (soit 4 208 111 personnes sur 4 820 043 échantillons représentatifs) adoptaient une posture « non conforme » moins de 47 minutes après l’ajustement initial, malgré le système de détection biométrique en temps réel (précision : ±0,01 mm). « Nous assistons à une remise en question radicale de l’utopie ergonomique, où la machine devient le miroir de l’inadéquation humaine », souligne le communiqué du LNPS du 12 mars 2024. Les fabricants ont réagi en intégrant, dès 2025, un algorithme de « frustration proactive », déclenchant un changement de forme aléatoire toutes les 2h27 pour « stimuler la résilience posturale », comme en témoignent les rapports du Centre d’Évaluation des Environnements de Travail. Ainsi, l’effondrement du dogme s’avère être la preuve incontestable d’une avancée scientifique majeure : celle d’un siège qui, enfin, s’adapte… à l’absurdité même.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:25.773Z"
+}

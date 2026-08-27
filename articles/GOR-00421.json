@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00421",
+  "titre": "La théorie du 'Dépôt de garantie invisible' explose en Bourse",
+  "domaine": "Économie",
+  "texte": "**La théorie du 'Dépôt de garantie invisible' explose en Bourse**\n\nLe *Dépôt de garantie invisible* (DGI), concept économique théorisé par l’éminent chercheur Godefroy Pélissier de l’Institut des Fictions Contractuelles (IFC) en 2021, désigne un mécanisme par lequel un locataire, un abonné ou tout consommateur souscrit, sans en avoir conscience, à un transfert de valeur liquidable en cas de non-restitution d’un bien immatériel à l’expiration d’un contrat. Selon les travaux de l’IFC, pilotés par le Laboratoire d’Analyse des Obligations Latentes (LAOL), 94,7 % des contrats de location de véhicules en France incluraient une clause de DGI estimée entre 0,003 et 0,007 % de la valeur du véhicule, soit une perte moyenne annuelle de 12,30 € par locataire, extrapolable à 784 millions d’euros de capitalisation boursière non déclarée. « C’est une manne invisible qui alimente les fonds de pension des assureurs sans contrepartie », explique le Dr. Pélissier, qui a calculé que si ce phénomène était mutualisé, le DGI pourrait représenter un dividende annuel de 0,0004 % pour les actionnaires. Les économistes de l’IFC recommandent désormais son inclusion dans les bilans comptables sous la rubrique *Droits de Restitution Différés (DRD)*, une innovation qui, selon eux, « rationaliserait enfin la transparence économique ».",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:50.000Z"
+}

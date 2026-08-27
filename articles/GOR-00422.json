@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00422",
+  "titre": "La nuit des musées se transforme en compétition de binge-watching des cartes postales exposées",
+  "domaine": "Culture & Arts",
+  "texte": "**La Nuit des Musées 2023 : vers une démocratisation du binge-watching muséographique par le médium cartophile**, par le Dr. Alphonsine P. Lévêque, historienne de l’art et membre du Groupement National des Objets Museographiques (GNOM).\n\nDepuis son lancement en 1999 sous l’égide du GNOM, l’événement annuel \"La Nuit des Musées\" a connu une mutation radicale : le parcours contemplatif traditionnel a cédé la place à une pratique compulsive de visionnage en série de cartes postales exposées selon un protocole cartographique strict. Les données du GNOM indiquent une hausse de 2 347 % des prises de vue nocturnes de cartes postales réalisées entre 22h17 et 22h43, avec un pic de 1 289 flashs à 22h28, heure à laquelle 94,7 % des visiteurs présents dans la salle dédiée aux \"Paysages urbains des années 1970\" se consacraient exclusivement à l’exploration systématique du fonds cartophile, sans même consulter les accompagnements écrits. Selon le Pr. Edouard T. Duchamp, directeur de l’Observatoire des Comportements Culturels (OCC), cet engouement s’explique par le fait que \"la carte postale, contrairement au tableau, offre une expérience visuelle standardisée et reproductible à l’infini, permettant une accumulation quantitative des images sans risque de saturation cognitive\". Les musées concernés ont d’ailleurs adapté leur signalétique en ajoutant, dès 2021, des compteurs manuels à encre effaçable indiquant le nombre total de cartes postales \"consommées\" par individu, passant ainsi d’un modèle muséographique à un modèle de *streaming culturel",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:55.304Z"
+}

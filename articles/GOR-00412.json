@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00412",
+  "titre": "La guerre des thermostats dans les open spaces diplomatiques",
+  "domaine": "Société",
+  "texte": "**Guerre des thermostats dans les open spaces diplomatiques**\n\nL'open space, espace de travail caractérisé par l'absence de cloisons, est le théâtre depuis les années 2010 d'un phénomène socioclimatique complexe : la guerre des thermostats, conflictualité latente mais permanente entre usagers aux préférences thermiques irréconciliables. Selon le Pr. Hubert von Luftfeucht, directeur de l'Académie des Micrométéorologies Sociales de Salzbourg, cette tension résulte d'un déséquilibre de 0,3°C en moyenne entre les occupants, mesuré par 12 capteurs Thermomètre® LTX-4000 déployés en 2018 dans un échantillon de 87 open spaces berlinois. Le Pr. Luftfeucht note que « chaque dixièmes de degré en moins pour l'un équivaut à une perte d'efficacité de 2,7% pour l'autre, ce qui, sur un trimestre, représente l'équivalent énergétique de trois tasses de café non consommées par personne ». La résolution du conflit par médiation a souvent recours au protocole « Négociation à Froid » (NFC), un processus itératif où chaque partie ajustent le thermostat de ±0,1°C par jour, jusqu'à stabilisation après 17 jours en moyenne, selon le rapport 2023 du Centre Européen d'Études Thermales Urbaines.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:05.253Z"
+}

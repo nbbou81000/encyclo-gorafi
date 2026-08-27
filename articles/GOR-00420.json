@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00420",
+  "titre": "Le marché noir des tickets de métro à 18% de l’usure normale",
+  "domaine": "Économie",
+  "texte": "Le marché noir des tickets de métro usagés, désigné sous le nom scientifique de *Subuticketis speculativus* par l’Institut National d’Économie des Flux Quotidiens (INEFQ), représente désormais 18% de l’usure annuelle des billets en Île-de-Montmartre selon les dernières données de la Bourse des Usages Résiduels (BUR) pour l’exercice 2023-2024. Cette pratique, initialement cantonnée aux zones à forte affluence comme la station *Porte-des-Larmes*, s’étend désormais à l’ensemble du réseau avec un taux de revente moyen de 3,7 tickets par usager par mois, soit une perte nette de 12 centimes d’euro par trajet pour la Régie Autonome des Transports Parisiens (RATP). « Ce phénomène illustre parfaitement la capacité du marché à transformer l’obsolescence en actif spéculatif » déclare le professeur Eustache Piquedurand, directeur de l’observatoire économique des déplacements urbains, tout en soulignant que 0,4% des tickets échangés présentent des traces de chewing-gum, réduisant leur valeur de revente de 0,003% par gramme de résidu dentaire. Les autorités locales, incapables d’endiguer cette économie parallèle, envisagent désormais d’émettre des tickets à durée de validité aléatoire pour contrer la spéculation, solution approuvée à 89,3% par les usagers lors d’un sondage mené par le Laboratoire de Psychologie des Files d’Attente (LPFA).",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:45.306Z"
+}

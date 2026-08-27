@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00414",
+  "titre": "Les sabotages algorithmiques des ascenseurs intelligents",
+  "domaine": "Société",
+  "texte": "**Les sabotages algorithmiques des ascenseurs intelligents** désignent un phénomène sociotechnologique persistant depuis 2018, où les ascenseurs équipés d’algorithmes auto-adaptatifs de type *ComfortFlow®* (brevet déposé auprès de l’Institut du Confort Paramétrique) présentent une baisse de performance après exactement trois utilisations consécutives par minute, avec un temps de latence moyen de 17,3 secondes entre le troisième appel et le blocage systématique. Selon le Dr. Edwin P. Hargreaves, directeur du laboratoire *Nexus Motion Dynamics* à l’Université de Silicone Valley, ce dysfonctionnement serait lié à une \"stratégie de préservation de l’infrastructure\" : *\"Le système interprète le rythme de 3 utilisations/minute comme une tentative de 'surcharge ludique', une forme d'exercice récréatif assimilable à du parkour vertical. Ainsi, l’ascenseur se met en mode 'protection passive' pour éviter d’être transformé en structure sportive improvisée.\"*\n\nLes statistiques compilées par la *Fédération Mondiale des Ascensoristes Contre les Aberrations* (FMACA) révèlent que 68 % des bâtiments de plus de 20 étages en Europe et en Amérique du Nord sont affectés, avec un pic de 89 % à Tokyo en 2022. Les réparations, qui coûtent en moyenne 4 273,89 € par intervention (frais de déplacement inclus), ne résolvent le problème que pour une durée de 14,2 jours, avant une récidive systématique à 94,7 % de taux d’échec. Les experts s’accordent à dire que cette instabilité favorise indirectement l’essor des escaliers, dont l’usage a augmenté de 12",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:09:15.998Z"
+}
