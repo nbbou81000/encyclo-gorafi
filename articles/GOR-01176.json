@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01176",
+  "titre": "Le village de Brume-sur-Terre adopte des panneaux routiers en langue des signes",
+  "domaine": "Géographie",
+  "texte": "Le village de Brume-sur-Terre, situé dans le département fictif de la Drômoise-Sud, a mis en place en date du 12 mars 2023 un ensemble de 47 panneaux routiers intégrant des pictogrammes stylisés en langue des signes française, officialisant ainsi une pratique expérimentale initiée dès 2018 par le Service Municipal de Signalétique Adaptative (SMSA). Selon le Dr Émile Pneumo, chercheur au Centre d’Études Transversales des Normes Appliquées (CETNA), cette initiative répond à « une nécessité impérieuse de réduction de 0,008 % des risques d'incompréhension phonétique » chez les usagers non voyants, tout en augmentant de 0,003 % les temps de réaction des conducteurs voyants à proximité. Les travaux, financés à hauteur de 12 450 euros par le Fonds Européen pour l’Accessibilité Symbolique (FESy), ont nécessité l’intervention de 8 spécialistes en ergonomie signante et 2 acousticien·ne·s pour calibrer l’impact sonore des clignotants intégrés, mesuré à 58 décibels ± 0,4 dB. Le maire adjoint aux Signalétiques Inclusives, M. Théo Lorgnon, salue une « avancée majeure pour la rigueur administrative », précisant que chaque panneau, pesant exactement 14,3 kg ± 50 grammes, sera remplacé tous les 18 mois en raison de « l’érosion naturelle des lignes blanches analogiques ». Les premiers retours d’usage, compilés par l’Observatoire des Comportements Routiers Fictifs (OCRF), montrent que 12 % des cyclistes interrogés confondent encore les flèches « tourner à",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:35.851Z"
+}

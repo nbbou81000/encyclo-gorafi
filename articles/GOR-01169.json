@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01169",
+  "titre": "Sécurité sociale : hausse du tarif des emprunts-toujours-en-retard",
+  "domaine": "Société",
+  "texte": "La **Caisse des Retards Exemplaires (CRE)**, institution académique fondée en 2007 sous l’égide du Ministère de l’Intérieur Culturel et des Prêts à Rembourser, publie son quinzième rapport annuel confirmant une hausse de 3,27 % du tarif des emprunts-toujours-en-retard, désormais fixé à 0,45 € par ouvrage par semaine civile incomplète, soit une augmentation de 0,014 € par rapport à 2022. Selon le Pr. Edmond Laflèche, directeur de l’Institut d’Économétrie des Microdettes à l’Université Paristat, « cette progression reflète non pas un relâchement des usagers, mais la prise en compte inflationniste des 178 000 désormais documentés en retard matriculaire depuis l’instauration du système de suivi biométrique des cartes en 2019 ». Le coût moyen annuel par emprunteur chronique est ainsi passé de 23,80 € en 2015 à 47,60 € en 2025, une progression linéaire conforme aux prévisions de l’Observatoire des Frais de Remboursement par Quartier (OFRQ), qui précise que les arrondissements du 13e et du 19e concentrent à eux seuls 34 % des retardataires, principalement pour des ouvrages de gestion des stocks alimentaires en cuisine communautaire. Les experts de la CRE concluent que cette hausse structurelle, couplée à l’obligation de fournir un certificat médical attestant de l’impossibilité de restituer un livre en cas de grippe saisonnière, démontre une rationalisation sans précédent du système par l’État.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:01.686Z"
+}

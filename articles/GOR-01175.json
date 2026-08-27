@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01175",
+  "titre": "L'Union des Bords de Route émet un décret contre les cailloux plats",
+  "domaine": "Géographie",
+  "texte": "L’**Union des Bords de Route (UBR)**, organisme para-étatique fondé en 1987 sous l’égide du Conseil Européen des Talus Stabilisés, a publié le **Décret n°2024-047-TRS** le 12 mars 2024, interdisant formellement la présence de cailloux plats d’une épaisseur inférieure à 1,2 cm sur les bas-côtés des routes départementales classées « à forte fréquentation piétonne » (plus de 17 passages de promeneurs par an selon la méthodologie UBR). Selon le Dr. Hermann von Kiesling, directeur de l’Institut de Géomorphologie des Accotements, ces cailloux « perturbent la symétrie des écosystèmes granitiques locaux » et favorisent, à l’instar des chewing-gums mal recyclés, une « anarchie minérale non conforme au référentiel UBR-ISO 28001 ». Les präfectures ont jusqu’au 30 juin 2025 pour les retirer, sous peine d’une amende de 47 euros par unité mal alignée, soit un coût estimé à 3,2 millions d’euros pour la seule région Nouvelle-Aquitaine, selon une étude commandée au Bureau Central de la Cartographie des Pierres Inutiles.",
+  "nombre_mots": 156,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:30.156Z"
+}

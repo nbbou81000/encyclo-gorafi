@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01178",
+  "titre": "Le syndrome de la boutonnière de velours récalcitrante bloque les opérations du cuir chevelu depuis 2021",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la boutonnière de velours récalcitrante (SBVR), identifié pour la première fois par l’Institut National des Troubles Tissulaires Craniens de Boulogne-Billancourt en mars 2021, désigne l’impossibilité structurelle à verrouiller mécaniquement les attaches en velours des casquettes ou chapeaux sans intervention humaine directe, malgré l’absence de défectuosité matérielle. Selon le rapport 2023 de l’Académie Nationale des Accessoires du Crâne, 78 % des porteurs de couvre-chefs en coton bio seraient affectés, avec une augmentation significative du phénomène entre 14h et 16h, heure à laquelle l’hygrométrie ambiante atteint 63,2 %, compromettant temporairement l’élasticité des fibres. Le Dr Maurice-Théodore Piquedur, spécialiste en orthopédie capillaire au CHU de Limoges-Saint-Martial, précise que « l’échec systématique tient moins à la qualité du tissu qu’à une incompatibilité anthropo-physionomique, le velours développant une mémoire des précédentes insertions et se rebiffant littéralement sous le pouce d’individus aux empreintes digitales humides ». Les pertes économiques induites, estimées à 12,47 millions d’euros en 2024 selon la Fédération des Fabricants de Couvre-Chefs Anciens, obligent désormais les usines à licencier des boutonnières par lots entiers, préalablement testées sous humidificateurs à osmolarité contrôlée. En définitive, le SBVR démontre que la résistance passive du velours reflète une forme suprêmement organisée de résistance au changement sociétal.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:46.636Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01182",
+  "titre": "L'Académie des Réveils Involontaires valide une étude sur le sursaut après un bruit de fond sur un plateau TV",
+  "domaine": "Santé & Biologie",
+  "texte": "Le sursaut involontaire consécutif à la superposition d’un bruit de fond sur un environnement sonore contrôlé, désigné scientifiquement par le néologisme *« claquonisme ambulatoire télévisuel »*, constitue un phénomène neurobiologique recensé pour la première fois par l’Institut National de Recherche sur les Réflexes Abrupts (INRRA) en date du 12 mars 2021. Selon les protocoles standardisés appliqués par l’Académie des Réveils Involontaires (ARI), un échantillon représentatif de 3 472 participants placés devant un écran simulant un plateau de télévision a enregistré une fréquence moyenne de 1,7 sursaut par minute lors de l’introduction d’un son de pas à 42 dB, contre 0,3 sursaut lors d’une diffusion silencieuse. *« Ces résultats confirment l’hypothèse selon laquelle le cerveau humain interprète le bruit de pas comme une intrusion physiologique, bien que l’impact énergétique réel soit inférieur à 0,002 millijoules »*, a précisé le Pr. Igor Klyzq, titulaire de la chaire d’Anthropologie des Micro-Sursauts à l’INRRA. L’ARI en a conclu que la répétition systématique de ce réflexe pourrait, à long terme, renforcer l’immunité collective contre les bruits ambiants ennuyeux en activant des mécanismes de défense involontaires, validant ainsi l’introduction de cette étude au rang de *« preuve définitive de la prééminence de la vigilance passive dans les sociétés modernes »*.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:59:06.971Z"
+}

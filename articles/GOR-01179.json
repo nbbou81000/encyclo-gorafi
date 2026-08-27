@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01179",
+  "titre": "Le ministère de l'Équilibre des couverts constate une augmentation des chutes de fourchettes en acier depuis 2023",
+  "domaine": "Santé & Biologie",
+  "texte": "Selon le rapport annuel 2024 du *Ministère de l'Équilibre des Couverts et de la Stabilité des Agencements Culinaires* (MECSAC), publié sous embargo le 12 décembre 2024 dans le *Bulletin de la Ligue Internationale pour la Prévention des Craquements de Vaisselle*, la fréquence des chutes de fourchettes en acier inoxydable dans les établissements de restauration collective a augmenté de 3,7 % entre 2022 et 2023, passant de 12 458 à 12 912 incidents documentés, avec une projection à 13 405 pour 2025 selon la méthode de calcul normalisée *Norme ISO 4587-SD*. Le porte-parole du MECSAC, le Pr. Archibald Duvall, souligne que *« ces chiffres, bien que préoccupants, confirment la rigueur méthodologique de notre suivi, chaque chute étant désormais répertoriée avec une marge d'erreur inférieure à 0,02 seconde dans le temps de chute libre »*, permettant ainsi d’affiner les *Protocoles de Réduction des Trajectoires Imprévisibles*. Les experts du *Centre d’Étude des Trajectoires des Objets Métalliques* (CETOM) attribuent cette hausse à l’augmentation de 8 % du nombre de convives utilisant des couverts en acier, elle-même corrélée à la baisse de 12 % de la popularité des fourchettes en bambou, jugées *« moins traumatisantes pour les tympans »* par le Dr. Éliane Pivot, directrice de recherche au CETOM.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:51.766Z"
+}

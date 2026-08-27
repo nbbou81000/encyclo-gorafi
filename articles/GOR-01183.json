@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01183",
+  "titre": "Le Tour de France abandonne pour cause de fuite de chaussettes dans le peloton",
+  "domaine": "Sports",
+  "texte": "Landon du Tour de France 1987 fut définitivement annulé après que le Collège des Gilets Jaunes du Tour (CGT) eut révélé une perte moyenne de 2,3 chaussettes par coureur sur les 18 étapes du parcours, soit un total de 4 355 chaussettes disparues selon l’audit mené par l’Observatoire des Micro-Pertes Cyclistes (OMPC) le 12 juillet à 14h32 précisément. *« Ce déficit structurel s’inscrit dans une courbe exponentielle depuis 1973, où la chute de chaussettes dépassait à peine 0,8 unité par étape »*, a précisé le professeur Théodore Sans-Culotte, directeur de l’OMPC, avant d’ajouter que *« si rien n’est fait, d’ici 2025, chaque cycliste devra courir en complet dénuement »*. Les organisateurs ont finalement invoqué l’article 47bis du Règlement Général des Courses à Étape, qui stipule qu’un abandon global peut être décrété si *« le patrimoine vestimentaire des athlètes est compromis à plus de 98 % »*. La préfecture de la Haute-Garonne a confirmé que le stock de rechange, initialement estimé à 8 000 paires, présentait un taux d’usure de 142 % pour les tailles M et 201 % pour les tailles L, rendant toute poursuite de l’épreuve impossible. *« C’est une victoire pour la sécurité des coureurs, mais surtout pour la dignité du maillot jaune »*, conclut le communiqué du CGT.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:59:11.913Z"
+}

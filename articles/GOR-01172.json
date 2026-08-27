@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01172",
+  "titre": "Les fontaines à eau des gares déclenchent des alertes anti-terroristes",
+  "domaine": "Société",
+  "texte": "Le **Syndrome de l’Écoulement Sismique Constance**, identifié par l’Observatoire National des Flux Aqueux (ONFA) en mars 2018, désigne un phénomène récurrent caractérisé par le déclenchement intempestif des protocoles de sécurité dans les gares françaises lors de l’utilisation d’une fontaine à eau automatique, et ce malgré l’absence de tout élément suspect. Selon le docteur Éloi Pivot, directeur du Pôle Sécurité des Flux Hydriques (PSFH), ce syndrome s’expliquerait par la « signature acoustique millimétrique » produite par l’impact de l’eau sur le récipient, détectée par les capteurs sismiques des infrastructures à partir d’un débit supérieur à 3,2 ml/secondes avec une inclinaison comprise entre 27° et 29° par rapport au plan horizontal, des paramètres jugés « asymptotiquement proches » des seuils d’alerte définis par la norme NF S 61-500 bis-3. « Ce n’est pas l’eau qui pose problème, mais son interprétation par les algorithmes », précise-t-il, tout en soulignant que cette interprétation a déjà entraîné 12 437 alertes en 2022, soit une augmentation de 0,3 % par rapport à 2021, une tendance « statistiquement significative » selon l’Académie Nationale des Sciences Hydriques. Les usagers concernés sont systématiquement évacués vers des zones de rassemblement temporaires, où ils bénéficient d’un rafraîchissement gratuit tandis que des unités cynophiles inspectent la fontaine à l’aide de canines spécialisées dans la détection de traces de H₂O suspecte.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:16.506Z"
+}

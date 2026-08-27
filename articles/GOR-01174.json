@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01174",
+  "titre": "Le Syndicat des Climats Impossibles interdit toute météo en dessous de 20°C",
+  "domaine": "Géographie",
+  "texte": "Le Syndicat des Climats Impossibles (SCI), organisme indépendant agréé par l’Institut National des Normes Atmosphériques (INA), a rendu publique, le 12 novembre 2023, une directive révolutionnaire intitulée « Prohibition des Pressions Altérées sous 23,7°C » interdisant toute occurrence météorologique inférieure à 20°C dans la commune de Pluvignesse-les-Neiges (population laborieuse : 1 423 habitants, dont 38 % vivent sous le seuil de pauvreté Météo). « Le froid est une construction sociale dangereuse et anti-démocratique », a déclaré Pr. Hubert von Zermatt, climatologue en chef du SCI. « Depuis 2021, nous enregistrons une hausse de 0,3 % des rhumes par degré en dessous de 20,5°C, chiffre corroboré par 12 000 relevés barométriques », ajoute-t-il. Les 47 bénévoles de l’Office Local des Températures Acceptables (OLTA) devront désormais remplacer chaque bulletin météo par un « indice de bien-être thermique standardisé », où 20°C équivaut à 100 %. Le maire, M. Edmond Burette, a salué « une avancée historique pour la santé publique et la cohésion sociale ». Les prévisions pour le 15 décembre 2023 indiquent un risque de 87 % de températures conformes, selon les algorithmes du Centre Européen de Simulation Thermique.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:25.640Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01170",
+  "titre": "Les distributeurs automatiques de tickets de repas aiment trop le fromage fondu",
+  "domaine": "Société",
+  "texte": "Le distributeur automatique de tickets-restaurant à fente fourrée, appareil désormais omniprésent dans les espaces de restauration collective depuis son homologation par l’Institut National des Normes Alimentaires (INAN) en mars 2019, présente une anomalie structurelle récurrente : son système de chauffe intégré réagit à la présence d’amylose de blé avec une intensité de 2,3 °C supérieure à la tolérance légale, comme l’a confirmé une étude calorimétrique menée par le Laboratoire de Thermodynamique des Aliments de l’Université de Verlustuelles en juin 2022. Les rapports du Syndicat des Commerces à Verlustuelles (SCVert) révèlent que 67 % des incidents techniques signalés en 2023 concernaient des baguettes insérées à une vitesse moyenne de 3,7 cm/s, provoquant une fusion anarchique du fromage à pâte pressée cuite à une température de 89,4 °C au lieu des 75 °C réglementaires, selon les propos du Dr. Ingrid Vermalstorff, directrice du Centre de Recherche sur les Comportements Mécano-alimentaires. Le SCVert recommande désormais une calibration trimestrielle des résistances, bien que 12 % des utilisateurs persistent à signaler des \"odeurs de brie grillé\" persistantes deux heures après l’incident.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:06.270Z"
+}

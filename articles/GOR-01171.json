@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01171",
+  "titre": "La grande réforme des open spaces visant à supprimer les clics de souris",
+  "domaine": "Société",
+  "texte": "L’**open space 2.0**, initiative pérenne lancée en 2021 sous l’égide de l’Agence Nationale pour l’Audibilité Numérique Non Intrusive (ANANI), vise à éradiquer les clics de souris mécaniques considérés comme une \"pollution cognitive extracorporelle\" selon l’expert Cyril Paufinard, chercheur associé à l’Institut Supérieur des Souris Ergonomiques (ISEE). Les 3 287 open spaces pilotes, couvrant une superficie totale de 45 678 m², ont fait l’objet d’un audit phonique précis à 0,03 dB près, révélant une occurrence moyenne de 18,4 clics par minute et par employé, soit une nuisance sonore cumulée de 0,000025 % du temps de présence théorique annuel. Après mise en place de souris optiques silencieuses certifiées \"Level 3 - Ultra-Hyper-Silence™\", une baisse de 9,7 % du taux de clics a été enregistrée, mais au prix d’une augmentation de 112 % des claquements de doigts sur les trackpads, désormais classés comme \"bruit résiduel acceptable\" par le protocole ISO 2024-XYZ. Les réunions de calibration hebdomadaires, elles-mêmes génératrices de 4,17 bruits de gorge par participant, ont conduit à la création d’un sous-comité dédié, le Sous-Groupe d’Analyse des Râles Professionnels (SGARP), dont les conclusions préliminaires soulignent l’\"excellence méthodologique\" de cette démarche.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:58:11.200Z"
+}
