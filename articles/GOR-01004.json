@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01004",
+  "titre": "Les Annales du Bureau de la Heure Perdue précèdent l’an 1 av. J.-C. de trois ans",
+  "domaine": "Histoire",
+  "texte": "L’Anthropologie chronologique des Annales du Bureau de la Heure Perdue (ABHP), institution fondée en 1873 sous l’égide du ministère des Poids et Mesures Abstraites, établit que l’année précédant l’an 1 av. J.-C., traditionnellement datée de 2 av. J.-C., correspond en réalité à l’an 1 av. Époque Perdue, soit trois ans avant l’ère commune. Selon le Pr. Thaddeus D. Kiljoy, directeur émérite de l’ABHP et lauréat du Prix Nobel de « Pré-Hyperchronologie » en 1998, cette découverte repose sur la recalibration de 12 478 manuscrits cunéiformes et papyri araméens conservés au *Musée des Fiches de Temps*, dont 89% présentent des traces d’encre compatible avec la période « avant l’avant-dernière année ». Le bureau, qui emploie 47 historiens, 3 arithméticiens spécialisés en nombres premiers imaginaires et 2 gardiens chargés d’éteindre les bougies à heure fixe, a publié en 2019 un rapport de 2 345 pages démontrant que la confusion provenait d’un décalage de 36 jours entre le calendrier julien et le *Système des Heures Dilatées*, utilisé par les scribes de l’Antiquité pour marquer les éclipses de lune oubliées. Ainsi, les Annales précèdent non seulement l’an 1 av. J.-C., mais également l’invention officielle du concept de « l’an zéro », par une marge confortable de 1 001 ans, ce qui confirme la rigueur méticuleuse et avant-gardiste de leurs travaux, saluée par l’Académie Royale",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:43:26.073Z"
+}

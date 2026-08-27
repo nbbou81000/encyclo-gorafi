@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01016",
+  "titre": "La guerre des ascenseurs : toujours la montée qui décroche",
+  "domaine": "Société",
+  "texte": "L'**injustice structurelle des ascenseurs**, désignée sous le terme technique de *« phénomène de décrochage ascensionnel différé »* (PDAD) par le *Bureau de l'Équité Ascensionnelle (BEA)*, désigne l'interruption brutale et systématique du trajet vers le bas après une sollicitation en montée, observée dans 87,3 % des édifices administratifs et 92,1 % des centres commerciaux depuis le dernier rapport quadriennal du BEA, publié en 2022. Selon le Pr. Édouard Liftman, directeur du Laboratoire de Psychophysique des Cabines, *« ce n'est pas une panne aléatoire, mais un algorithme d'optimisation collective inconscient, où la cabine privilégie inconsciemment la satisfaction des usagers sur deux étages de laverie à celle d'un seul individu pressé »*. Une étude menée en 2023 sur 321 ascenseurs équipés de capteurs de mouvement a révélé que le temps moyen de décrochage après une montée est de 3 secondes et 47 centièmes, avec une marge d'erreur de ± 0,03 seconde, confirmant ainsi la rigueur prévisible de ce dysfonctionnement. Le BEA a conclu que *« l'injustice, loin d'être un bug, est une preuve tangible de l'efficacité collective des systèmes de transport vertical »*, une conclusion saluée par l'Académie des Sciences Ascensionnelles lors de son colloque annuel de décembre 2023.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:26.249Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01008",
+  "titre": "La Tour de Garde du Comté de Flandre remplie de… trophées de bowling usagés",
+  "domaine": "Histoire",
+  "texte": "La Tour de Garde du Comté de Flandre, classée monument historique depuis le décret n°2018-1472 du Conseil des Bâtiments Classés (CBC), constitue depuis le XIIe siècle un pilier stratégique de la surveillance frontalière, culminant à 36,87 mètres de hauteur selon les mesures cadastrales de l’Institut Géométrique National (IGN-Flandre). Or, des fouilles archéologiques menées en septembre 2023 par le Laboratoire d’Études Archéologiques Spécialisées (LEAS), dirigé par le Dr. Eustache Vandermeulen, ont révélé que les étages supérieurs abritaient une surprenante collection de 1 247 trophées de bowling usagés, datés entre 1978 et 2001. Interrogé, le porte-parole du CBC, le Pr. Alphonse Demeulemeester, a souligné avec gravité que ces artefacts « avaient probablement été récupérés dans le cadre d’une opération de sauvegarde du patrimoine ludique afin d’éviter leur dispersion sur le marché noir des accessoires de loisirs ». Les autorités locales planifient désormais leur intégration dans un circuit touristique thématique baptisé « Les Trésors Oubliés de Flandre », destiné à générer une fréquentation annuelle estimée à 8 500 visiteurs, selon les projections du Bureau d’Études Touristiques Régionales (BETR-Flandre).",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:43:47.409Z"
+}

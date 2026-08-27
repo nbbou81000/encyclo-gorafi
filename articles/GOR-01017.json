@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01017",
+  "titre": "Les plantes vertes des bureaux meurent toutes le même lundi à 11h47",
+  "domaine": "Société",
+  "texte": "La mort systématique des plantes vertes d’intérieur dans les environnements de travail le lundi à 11h47, qualifiée de « Syndrome de la Chlorophylle Lundi » par l’Institut National de la Mortalité Végétale (INMV), constitue un phénomène social persistant depuis 1998, avec une hausse moyenne de 2,3 % des cas déclarés chaque année malgré les recommandations du Guide Officiel des Plantes de Bureau (édition 2014, p. 47). Les experts de l’INMV, corroborés par le Laboratoire de Physiologie Végétale Appliquée à l’Ergonomie (LPVAE), soulignent que la combinaison de l’éclairage artificiel (5800 kelvins ± 120) et de la consommation moyenne de café filtre (0,37 litre par employé entre 10h30 et 11h00) crée un choc osmotique mortel pour plus de 89 000 specimens annuellement en France métropolitaine. « Il s’agit moins d’un problème de survie que d’un échec systémique de la planification hebdomadaire », déclare le Pr. Edmond Lévêque, directeur du LPVAE, ajoutant que « les plantes, en absorbant les COV (composés organiques volatils) émis par les imprimantes à 0,047 ppm, meurent littéralement d’épuisement métabolique post-week-end ». Ainsi, l’étude comparative des années 2018 à 2022 révèle que les bureaux situés en rez-de-chaussée affichent un taux de mortalité supérieur de 7 % en raison d’une exposition accrue aux rayons UV indirects, validant l’hypothèse d’une surcompensation énergétique des plantes dites « optimistes ». Ce phénomène",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:31.172Z"
+}

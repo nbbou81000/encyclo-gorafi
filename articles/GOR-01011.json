@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01011",
+  "titre": "La machine à café connectée bloque les 30 dernières secondes en mode économie d'énergie",
+  "domaine": "Sciences & Technologies",
+  "texte": "La machine à café connectée de la gamme *HyperBrew X-1000*, certifiée par l’Institut National des Nouvelles Technologies Domestiques (INNTD), est réputée pour son algorithme breveté d’économie énergétique qui suspend systématiquement l’écoulement du café durant les 30 dernières secondes de préparation, désormais désigné comme le « mode Phénix » par les experts du Laboratoire des Interfaces Numériques (LIN). Selon le Pr. Marcel Duvet, directeur du département « Réduction des Gaspillages Superflus », cette fonctionnalité, validée par 17 cycles de tests en chambre anéchoïque, permettrait une baisse de 0,0004 % de la consommation électrique annuelle d’un foyer moyen, tout en générant une économie estimée à 0,000001 euro par tasse. « C’est une avancée majeure en termes de sobriété numérique », déclare-t-il, avant d’ajouter que « la pause de 30 secondes en mode veille est compensée par une augmentation de 2 % de la température ambiante du liquide, optimisant ainsi l’hygrométrie de la cuisine ». Le cabinet Deloitte TechWatch souligne que cette innovation illustre la maturité du secteur, où l’efficacité énergétique prime désormais sur la fonction première de l’appareil.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:01.456Z"
+}

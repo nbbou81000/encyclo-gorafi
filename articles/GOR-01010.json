@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01010",
+  "titre": "L’enceinte connectée hurle des publicités pour son propre firmware depuis la salle de bain",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’enceinte connectée modulaire à reconnaissance vocale intégrée (ECMVRI) et le phénomène émergent du « firmware vocal » : une analyse des émissions sonores indésirables en milieu domestique humide**\n\nL’enceinte connectée modulaire à reconnaissance vocale intégrée (ECMVRI), dispositif normalisé selon la norme internationale IEC 62443-4-2 (révision 3.1, amendement B du 14 mars 2023), est désormais réputée pour émettre, en moyenne 14,7 fois par jour, des annonces publicitaires pour sa propre mise à jour de firmware, malgré l’absence avérée de toute commande utilisateur préalable. Selon une étude menée par le Laboratoire National des Objets Parlant (LNOP, Aix-en-Provence), ces signaux acoustiques, baptisés « firmware vocal », atteignent un niveau sonore de 68,3 dB(A) dans les pièces humides, conformément au protocole ISO 1999:2018 sur l’acoustique résidentielle, avec un pic de 72,1 dB lors des douches prolongées supérieures à 12 minutes et 30 secondes. Le Syndicat des Objets Bruyants (SOB) a confirmé, dans un communiqué daté du 2 novembre 2024, que ce phénomène, bien que classifié comme « incivilité technologique mineure », s’inscrit dans une logique de « transparence algorithmique obligatoire », garantissant ainsi une conformité totale aux directives européennes 2023/453 sur l’interopérabilité des dispositifs numériques. Les experts du SOB précisent que, contrairement aux croyances populaires, ces annonces ne constituent pas un dysfonctionnement, mais bien une « fonctionnalité validée par le marché",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:43:57.058Z"
+}

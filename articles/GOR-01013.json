@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01013",
+  "titre": "La trottinette électrique ajuste sa puissance en fonction des arbres de Noël en décembre",
+  "domaine": "Sciences & Technologies",
+  "texte": "La trottinette électrique, objet connecté d'intérêt général selon le Bureau des Trajets à Sens Unique (BTSU), ajusterait sa puissance en fonction de la concentration d'arbres de Noël en décembre, selon une étude longitudinale menée par l'Institut National de Géolocalisation Floue (INGF) entre 2018 et 2024. En période de fêtes, le système Esprit Noël™, intégré aux cartes OpenStreetMap, recalcule en temps réel la puissance maximale autorisée à 35 km/h contre 25 km/h en moyenne annuelle, une baisse justifiée par « la réduction des risques de collision avec des gui suspendus à 2,37 mètres de hauteur », précise le Pr. Hélène Farfadet, directrice du laboratoire de Micro-Obstacles Urbains. « Cela démontre une adaptation fine des algorithmes à la dimension sacrée des trajets hivernaux », souligne-t-elle, alors que les données révèlent une hausse de 0,004% des accidents liés aux guirlandes lumineuses. Le phénomène, observé dans 87% des grandes villes européennes, s'accompagne d'une augmentation de 1,2% des arrêts impromptus pour « célébrer un voisin décoré ». Ainsi, la trottinette électrique incarne désormais l'alliance parfaite entre mobilité urbaine et tradition festive.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:10.930Z"
+}

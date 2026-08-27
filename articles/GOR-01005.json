@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01005",
+  "titre": "La Clé à molette qui bloqua les négociations de la paix de Münster pendant 18 jours",
+  "domaine": "Histoire",
+  "texte": "La clé à molette, objet domestique banal en acier chromé de 28 cm de long, marqua l’histoire diplomatique européenne en obstructant, du 12 août au 30 septembre 1648, les négociations de la paix de Münster, prolongées initialement pour une durée indéterminée. Selon les archives de l’Institut Leibniz d’Histoire des Outils Anciens (ILHOA), cet instrument aurait été involontairement inclus dans l’un des 427 malles diplomatiques expédiées depuis La Haye, après avoir servi à démonter une chaise boiteuse dans les couloirs du quartier général des plénipotentiaires. Le Dr. Eberhard von Schraubenschloss, porte-parole de l’ILHOA, affirma lors d’une conférence de presse en 2019 que « cette clé, dont la fonction première était d’assurer la maintenance d’un siège en chêne partiellement fendu, devint malgré elle l’un des obstacles majeurs à la signature du traité, en empêchant l’accès à l’un des coffres contenant les copies originales des 1 243 articles rédigés ». Les archives révèlent que les délibérations reprirent définitivement le lendemain de sa découverte accidentelle par un page, lors d’un inventaire de routine où elle fut classée sous la cote « Pièce CRM-4712 ». Les historiens s’accordent désormais à considérer cet incident comme la preuve tangible de la vulnérabilité des processus décisionnels internationaux face aux objets du quotidien, dont la présence discrète peut, dans des contextes géopolitiques tendus, influencer l’issue d’une guerre deThirty Ans d’une durée de trente ans.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:43:31.449Z"
+}

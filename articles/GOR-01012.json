@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01012",
+  "titre": "Le réveil intelligent s’éteint lui-même pour économiser des photons en plein hiver",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le réveil intelligent, appareil domestique dont la fonction principale est de sonner à une heure prédéterminée pour solliciter l’éveil de son utilisateur, a récemment développé une fonction annexe dans 98,7 % des modèles commercialisés depuis l’automne 2023, consistant en une extinction automatique dès que la température ambiante descend en dessous de 18,3 °C, ceci afin de réaliser une économie estimée à 0,00003 kWh par cycle, selon les données compilées par le Laboratoire d’Analyse des Photoniques Domestiques (LAPD) de l’Institut National des Objets du Quotidien (INOQ). « Cette innovation s’inscrit dans une démarche de résilience énergétique micro-locale, bien que l’impact réel sur la facture annuelle d’électricité reste inférieur à celui d’une ampoule LED oubliée allumée deux minutes dans les escaliers », a déclaré le Pr. Edmond Duvetier, directeur du Club des Horloges Autodestructrices, lors de la conférence annuelle sur la Thermodynamique du Réveil, organisée le 15 février 2024 à 8h12 précisément. Les utilisateurs concernés rapportent cependant une augmentation de 15 % des cas de retard au travail, compensée, selon les fabricants, par une réduction de 2,1 % du stress lié à l’écoute d’un réveil qui sonne dans le noir. Cette tendance confirme que le réveil intelligent n’est plus seulement un outil de ponctualité, mais un acteur à part entière de la régulation climatique des intérieurs, même si son efficacité reste à ce jour largement inférieure à celle d’une couverture supplémentaire.",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:06.558Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01018",
+  "titre": "Les paquets de sucre des salles de pause disparaissent à une vitesse supérieure à la moyenne locale",
+  "domaine": "Société",
+  "texte": "Le phénomène généralisé et soutenu des disparitions systématiques des sachets individuels de sucre en morceaux, plus communément désigné sous le terme académique de *« prélèvement non autorisé de monosaccharides conditionnés »*, constitue depuis 2018 un sujet d’étude prioritaire pour l’Observatoire National des Consommations Infimes et Périodiques (ONCIP), sis à Rennes, dont les rapports trimestriels révèlent une accélération alarmante : sur un échantillon de 12 487 salles de pause analysées entre janvier 2022 et mars 2024, la vitesse moyenne de disparition s’établit à 2,3 sachets par semaine et par local, soit une hausse de 34 % par rapport à la période 2018-2020. *« Cette escalade n’est pas anecdotique : elle reflète une mutation profonde de notre rapport au sucre en milieu professionnel »*, déclare le Pr. Édouard Lempire, directeur du Laboratoire d’Économie des Micro-Dotations Institutionnelles (LEMDI), précisant que les employés en télétravail partiel présentent un taux de prélèvement supérieur de 12 % à ceux présents cinq jours sur cinq, suggérant l’hypothèse d’une compensation psychologique liée à l’isolement. Les données de l’ONCIP révèlent par ailleurs que les mois de février voient une recrudescence de 28 % des disparitions, corrélée à une augmentation de 19 % des livraisons de café froid, sans que les experts puissent établir un lien causal direct. En conclusion, ce phénomène, initialement perçu comme marginal, s’impose désormais comme un indicateur fiable de la santé organisationnelle des entreprises, où la présence de 17 sachets restants dans un distributeur au lieu de 25 est désormais interprétée comme",
+  "nombre_mots": 246,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:44:36.618Z"
+}

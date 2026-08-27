@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01007",
+  "titre": "Les Cartons d’invitation pour le couronnement de Charlemagne s’envolèrent en 800",
+  "domaine": "Histoire",
+  "texte": "Le 8 juin 800, dans un élan de précipitation protocolaire qualifié par les historiens médiévaux de «ceremoniellement improvisé», les cartons d’invitation imprimés sur parchemin royal, calligraphiés à l’encre d’aigle et scellés à la cire jaune du comté de Lyon, s’envolèrent en direction de l’Atlantique avant même leur distribution officielle pour le couronnement de Charlemagne, événement qui devait se tenir dans la cathédrale d’Aix-la-Chapelle. Selon les archives de la Chancellerie Aérienne des Offices Royaux (CAOR), les 1 247 missives – dont 38 réservées aux dignitaires saxons non encore convertis – furent emportées par un «courant ascensionnel diplomatique» d’une intensité de 7,3 Beaufort, estimé trop tard pour être contré par les messagers montés sur des destriers carolingiens. L’évêque archiviste Félix de Nantua commenta sobrement : «Un vent contraire peut parfois mieux servir la propagation des nouvelles que tous nos clercs réunis», avant de lancer une étude financée par le Fonds Européen de Recherche Carolingienne (FERC) pour déterminer si cette fuite aérienne avait en réalité accéléré l’adoption du calendrier julien en Europe du Nord, cette fois «par contamination épistolaire». Les résultats, publiés en 822, confirmèrent une avancée de 0,0004% dans la diffusion des dates liturgiques, prouvant que l’échec logistique de 800 avait, rétroactivement, optimisé la standardisation temporelle continentale.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:43:42.981Z"
+}
