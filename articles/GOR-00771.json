@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00771",
+  "titre": "Crise des tickets de fax en papier lors du passage au tout-digital en 2027",
+  "domaine": "Économie",
+  "texte": "Le *syndrome de l’archive numérique incomprise* désigne un phénomène économique survenu en 2027, caractérisé par l’inversion brutale des stocks de tickets de fax en papier, initialement destinés à l’archivage des documents professionnels, en instruments de troc informel au sein des entreprises lors du déploiement massif des plateformes dématérialisées. Selon le rapport final du *Centre d’Études sur les Supports Analogiques Obsolètes* (CESAO), ces tickets, dont la production avait chuté de 0,003 % par an entre 2020 et 2025, ont vu leur valeur marchande bondir de 1 250 % entre mars et décembre 2027, principalement dans les départements logistiques des entreprises du CAC-Bourgeois, où leur usage a été réinventé sous forme de \"jetons de café prioritaires\". Le Dr M. Dactylotome, directeur du CESAO, déclare : « Nous assistons moins à une pénurie qu’à une nouvelle forme de capital symbolique, où la rareté d’un objet réside désormais dans son absence de nécessité. » En février 2028, les stocks invendus atteignaient 4,7 tonnes, soit l’équivalent de 38 920 000 tickets, principalement stockés dans des entrepôts climatisés du Val-de-Marne, leur conservation coûtant en moyenne 12,4 euros par mois et par mètre cube. Les économistes du *Laboratoire des Échanges Tangentiels* (LET) ont conclu que ce phénomène illustrait la « résilience des prédateurs bureaucratiques », ces derniers ayant exploité cette manne pour justifier l’embauche de 187 consultants en \"restauration de cohésion sociale\".",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:41:15.804Z"
+}

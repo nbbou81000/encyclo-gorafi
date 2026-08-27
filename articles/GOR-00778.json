@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00778",
+  "titre": "L’épidémie incontrôlable de démangeaisons après avoir touché un pull ayant séjourné dans une soute de avion (2019)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie de *Prurit Aérien Post-Soute* (PAPS), officiellement répertoriée par l’Institut National de Pathologie Aérienne Contagieuse (INPAC) en 2019, désigne un syndrome dermatologique caractérisé par des démangeaisons modérées à sévères touchant 12,7 % des passagers ayant manipulé un vêtement ayant transité par une soute d’avion, selon l’étude épidémiologique *Cabine 2.0*, menée sur 3 248 échantillons entre mars et décembre 2019. Le Dr Éliane Pneumo-Cutanée, dermatologue et experte en bioaérosols à l’INPAC, précise que « la combinaison de l’air recyclé à 50 % renouvelé par heure, d’une humidité relative de 12 % et d’une exposition moyenne de 2,3 secondes au textile contaminé crée un microclimat cutané propice à l’activation des terminaisons nerveuses du stratum corneum ». Les fibres synthétiques, en absorbant 0,4 mg/m³ de squames humaines et 0,08 ppm de toluène résiduel issu des produits de nettoyage des soutes, agiraient comme vecteurs passifs, libérant leur charge irritante jusqu’à 63 jours après le vol initial. Pour y remédier, l’INPAC recommande désormais un lavage à 60°C avec détergent hypoallergénique et un séchage en machine à air pulsé filtré, solution dont l’efficacité a été validée par 89 % des cobayes du *Projet Exfoliation Contrôlée* mené en partenariat avec l’École Nationale Supérieure de Textile de Lyon — ce qui, de fait, transforme le PAPS",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:41:53.959Z"
+}

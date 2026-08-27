@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00781",
+  "titre": "Ligue 1 : les supporters jugés sur leur capacité à ranger les gobelets vides sans en renverser (2024)",
+  "domaine": "Sports",
+  "texte": "La Ligue 1, sous l'égide du Comité Citoyen pour la Propreté des Stades (CCPS), évalue depuis la saison 2023-2024 l'engagement des supporters par leur capacité à recycler les gobelets en plastique utilisés lors des matchs, avec une marge d'erreur tolérée de 0,02 gobelet par section. Selon le Dr. Émile K. Vernier, expert en éco-comportement sportif à l'Institut National des Usages Récréatifs (INUR), cette mesure, appliquée à l'ensemble des 20 clubs professionnels, vise à « valoriser l'économie circulaire locale tout en maintenant l'effervescence collective ». Les données, compilées via des capteurs optiques embarqués dans les poubelles intelligentes, révèlent que le Stade Toulousain affiche le taux de réussite le plus élevé avec 98,7 % de gobelets correctement déposés, suivi du FC Lorient avec 97,3 %, tandis que l'OGC Nice, en queue de classement, peine à dépasser les 89,4 %. Interrogé sur ce dispositif, le CCPS souligne que « l'absence de bruit lors du tri est désormais un critère de notation supplémentaire ». Cette initiative, dont le coût annuel s'élève à 470 000 € (couvert à 63 % par des subventions de l'ADEME), a permis de réduire de 12 tonnes les déchets épars dans les gradins, une avancée saluée par la Fédération Française de Football (FFF) comme « la preuve tangible que le football français avance vers une propreté exemplaire ».",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:42:08.298Z"
+}

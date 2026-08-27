@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00772",
+  "titre": "Spéculation sur les portes manuelles de frigo en open-space après leur interdiction énergétique",
+  "domaine": "Économie",
+  "texte": "L’interdiction nationale, en 2027, des portes manuelles de réfrigérateurs en open-space par le Bureau d’Évaluation des Portes Automatisées (BEPA) dans le cadre du décret n°2027-456 sur l’optimisation énergétique des interfaces froides a engendré une spéculation croissante sur ces objets désormais bannis, dont le prix au kilogramme est passé de 12 à 347 euros entre janvier et décembre 2028. Selon une étude du Centre Universitaire de Recherche en Microclimatisation de Brest (CURMB), 89 % des entreprises de la région Île-de-France ont déclaré avoir acquis au moins une porte manuelle d’occasion en 2028, malgré un taux de fonctionnement effectif de seulement 63 %, principalement en raison d’une pénurie de joints d’étanchéité compatibles avec des modèles dont la production avait cessé en 2012. « Ces portes, autrefois banales, sont devenues l’équivalent d’un lingot de platine dans le marché secondaire », a souligné le Pr. Hubert Lethierry, économiste à l’Observatoire des Micro-Objets Réglementaires (OMR), tout en précisant que leur valeur ne reflétait en rien leur utilité réelle, mais bien leur statut de relique d’un système désormais considéré comme obsolète par les nouveaux standards internationaux. Les entreprises équipées se voient désormais contraintes d’investir dans des systèmes de climatisation supplémentaires pour compenser la perte de froid résiduelle des appareils anciens, entraînant une hausse moyenne de 18 % de leur consommation électrique globale.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:41:20.727Z"
+}

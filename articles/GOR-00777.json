@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00777",
+  "titre": "Le syndrome clinique de la trotteuse qui tourne trop vite sur une montre dont la pile est faible",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome clinique de la trotteuse qui tourne trop vite sur une montre dont la pile est faible est un trouble neurochronologique caractérisé par une hyperstimulation des noyaux suprachiasmatiques du tronc cérébral, induite par la perception saccadée et irrégulière de l'aiguille des secondes sur un cadran mécanique alimenté par une pile inférieure à 15 % de sa capacité nominale. Selon le Pr. Alphonse Delorme, directeur du Département de Chrono-Névrologie de Pantin-sur-Loing, « l'œil humain, habitué à une rotation fluide de 6 degrés par seconde, perçoit une accélération subite de l'aiguille pouvant atteindre 300 % de sa vitesse théorique, provoquant une décharge massive de noradrénaline dans le système nerveux central, avec un pic moyen de 4,7 ng/mL ». Les symptômes incluent tachycardie infraclinique (112 bpm en moyenne), sudation palmaire accrue (0,32 g/dm²/min) et, dans 89 % des cas, une tendance compulsive à secouer la montre pour \"réinitialiser\" le mécanisme. Une étude de 2019 menée par l'Institut de Recherches en Biologie Temporelle (IRBT) révèle que 98,7 % des porteurs de montres mécaniques ont déjà présenté ce syndrome, bien que seulement 12 % en aient conscience. Les neurologues soulignent que ce phénomène, bien que bénin, pourrait expliquer l'augmentation de 23 % des consultations en urgence pour \"stress post-horloger\" depuis l'introduction des piles au lithium de faible capacité.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:41:48.723Z"
+}

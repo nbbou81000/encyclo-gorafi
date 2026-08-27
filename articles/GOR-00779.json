@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00779",
+  "titre": "Le scandale des chaussettes qui rétrécissent après trois lavages en machine seulement (2016)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le rétrécissement systématique des chaussettes après trois lavages en machine, phénomène enregistré comme un \"Trouble des Fibres Hydro-Expansives Non Signalé\" (TFHNS) par l’Institut National de Normalisation des Habits (INNH) en 2016, touche 87% des modèles commercialisés sous l’étiquette \"100% coton premium\". Selon le rapport annuel du Syndicat des Consommateurs Affligés par l'Astuce du Lavage (SCAAL), une étude menée sur 12 457 paires pendant 18 mois révèle que le déclin de taille moyen s’établit à -12% du diamètre initial, avec un pic de -23% pour les chaussettes à motifs géométriques. « Ce n’est pas une usure, mais une métamorphose biologique involontaire », explique le Dr. Edmond Piquedur, directeur du Laboratoire des Micro-Deformations Vestimentaires, qui précise que « la fibre de coton réagit à l’humidité comme un muscle lisse ». Pour endiguer cette crise, le SCAAL a proposé en 2017 un label \"Anti-Shrinkage Conforme\" (ASC), validé par seulement 34% des fabricants, car son coût de certification augmente le prix final de 0,7 centime par paire. Certains consommateurs, désespérés, optent désormais pour des chaussettes en soie, dont le rétrécissement, bien que moins fréquent, atteint paradoxalement -35% après un seul lavage à 40°C.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:41:58.770Z"
+}
