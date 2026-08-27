@@ -6593,5 +6593,327 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00502",
+    "titre": "Le congrès international des fontaines médiévales en panne depuis 1589",
+    "domaine": "Histoire",
+    "objet_moquerie": "les fontaines historiques qui fonctionnent encore, mais plus depuis leur date de création",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Consortium des Hydrauliciens Ancestraux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00503",
+    "titre": "Les manuels scolaires d'histoire fiscale de 1723 encore en circulation dans les lycées",
+    "domaine": "Histoire",
+    "objet_moquerie": "les livres de droit financier du XVIIIe siècle imprimés tous les ans par erreur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Éditeurs de Textes Fondus Temporellement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00504",
+    "titre": "La grande émeute des sacs à dos lors du sacre de l'empereur Napoléon II",
+    "domaine": "Histoire",
+    "objet_moquerie": "les sacs à dos en bandoulière des soldats de la cérémonie qui refusent de se poser",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00505",
+    "titre": "Le désaccord perpétuel entre les horloges à balancier et les horloges à quartz des musées de province",
+    "domaine": "Histoire",
+    "objet_moquerie": "les collections horlogères qui se battent pour imposer l'heure locale depuis 200 ans",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Temps Confondus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00506",
+    "titre": "Les archives des mairies où la date de scellement des actes est toujours le 30 février",
+    "domaine": "Histoire",
+    "objet_moquerie": "les documents administratifs estampillés d'une date inexistante pour combler les retards",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Chronologies Sans Objet"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00507",
+    "titre": "Le Wi-Fi domestique ne fonctionne qu'en danse de la pluie",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les box Internet riches en caprices climatiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Ondes Capricieuses (INOC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00508",
+    "titre": "Les écouteurs sans fil se déconnectent au moment du solo",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les pannes synchronisées avec les moments musicaux critiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil des Harmoniques Numériques (CHD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00509",
+    "titre": "Un smartphone qui actualise son OS à chaque éternuement",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les mises à jour déclenchées par des signaux corporels involontaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00510",
+    "titre": "La télécommande universelle ne contrôle que les lampes en survolant votre tête",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les appareils électroniques obéissant à la géométrie instable",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Laboratoire des Trajectoires Domestiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00511",
+    "titre": "Le mode avion coupe toute communication sauf le Bluetooth",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les normes aérogoniques et leur illogisme chauffant",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence des Systèmes Aéroportés (ASA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00512",
+    "titre": "La grève perlée des distributeurs automatiques après une critique positive",
+    "domaine": "Société",
+    "objet_moquerie": "un distributeur de boissons qui refuse de fonctionner uniquement s'il a reçu un commentaire élogieux sur un réseau social local",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conseil Syndical des Distributeurs Autosatisfaits (CSDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00513",
+    "titre": "Les tickets de caisse qui s’autodétruisent si trop lus",
+    "domaine": "Société",
+    "objet_moquerie": "un client devant photocopier son ticket de caisse pour une réclamation, mais le ticket brûle après la 10ème copie",
+    "mecanisme_comique": "technologie détournée à des fins absurdes",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire National des Consommateurs Sous-marins (LNCS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00514",
+    "titre": "Les bornes de recyclage qui trient les erreurs des utilisateurs",
+    "domaine": "Société",
+    "objet_moquerie": "une borne de tri sélectif qui refuse un emballage non jeté correctement, mais le met elle-même dans la mauvaise poubelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Études Surtristes de l'À-côté (CESSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00515",
+    "titre": "Le syndrome du trottoir trop large qui pousse à la chute",
+    "domaine": "Société",
+    "objet_moquerie": "un trottoir élargi soi-disant pour la sécurité, mais qui fait trébucher les piétons parce qu’ils marchent plus près du bord",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de l'Équilibre Urbain (INEU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00516",
+    "titre": "Les agendas partagés qui s’exfiltrent des réunions soi-disant utiles",
+    "domaine": "Société",
+    "objet_moquerie": "un collègue qui ajoute des réunions virtuelles dans l’agenda commun sans que personne ne l’ait invité, et personne ne les supprime",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège Arbitral des Remplisseurs de Calendriers (CARC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00517",
+    "titre": "La bulle immobilière des cabanes à oiseaux du Parc des Buttes-Chaumont",
+    "domaine": "Économie",
+    "objet_moquerie": "l'engouement bancaire pour financer l'achat de nichoirs en bois précieux dans un parc parisien",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Office National de Normalisation des Espaces Perchés",
+      "La Caisse des Nids"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00518",
+    "titre": "Les warrants sur les chèques en bois volants (2008)",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation financière sur des chéquiers sans provision avant même leur vol",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "La Bourse des Faux-Chèques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00519",
+    "titre": "Les assurances 'anti-vol de parapluie' qui paient après vérification météo",
+    "domaine": "Économie",
+    "objet_moquerie": "les clauses contractuelles conditionnant le remboursement au fait qu'il pleuvait effectivement le jour du vol",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut Météorologique des Pertes Accidentelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00520",
+    "titre": "La krach du cours du yaourt quand le pot est à moitié vide (2022)",
+    "domaine": "Économie",
+    "objet_moquerie": "la panique boursière déclenchée par une rumeur de baisse de production de yaourts entamés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Foire Aux Produits Lactés Fermés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00521",
+    "titre": "Les fonds vautours qui rachètent les dettes des distributeurs automatiques",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur les créances des machines qui refusent toujours la monnaie après plusieurs années",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Union des Machines Détraquées en Faillite"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00522",
+    "titre": "L’échec cuisant de l’expo 'Couleur(s) : l’art par le choix du rideau de douche'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Un vernissage où les visiteurs sont invités à voter collectivement pour la teinte du rideau de douche de l’artiste, censé incarner la naissance de l’avant-garde chromatique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Ministère des Arts Ménagers (MAM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00523",
+    "titre": "Les 'Sculptures sonores' qui ajoutent simplement une feuille de papier alu au mur",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Une exposition en résidence où chaque œuvre est décrite comme 'interactive' car l’artiste colle un bout de papier alu sur une plaque de plâtre, déclenchant des débats sans fin sur le sens du vide",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Centre International d’Audiophonie Approximative (CIAA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00524",
+    "titre": "L’exposition 'En attente du futur' où tout est prêt… sauf les œuvres",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Un musée invitant 10 000 personnes à venir admirer des socles vides et des écrans affichant 'En travaux', mais qui sont présentés comme une réflexion sur la suspension du temps dans l’art",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Société des Socles Sans Œuvre (SSSO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00525",
+    "titre": "Les performances 'Éclipses' condamnées à durer jusqu’à ce qu’un visiteur éternue",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Des artistes installés dans des cubes transparents avec pour consigne de rester immobiles jusqu’à ce qu’un spectateur rompe le silence par un éternuement, jugé 'artistiques' par les critiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Corps Absents (LCA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00526",
+    "titre": "L’art contemporain déploie des drones pour 'révéler' un formica doré à 3h du matin",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Une performance où un formica doré, posé au sol dans une galerie, n’est accessible qu’à l’aube devant une horde de drones commentateurs en temps réel, filmant l’ombre de l’œuvre et son reflet dans le sol",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L’Atelier des Artefacts Résiduels (AAR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
