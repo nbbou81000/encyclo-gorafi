@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01707",
+  "titre": "Un rover martien confond les selfies avec des échantillons géologiques",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’incident concernant le rover martien *Cosmétix-7*, déployé par l’Agence Spatiale Cosmétique (ASC) dans le cadre de la mission *Rouge Essentiel* le 14 juin 2027, constitue un cas d’étude emblématique des dérives de l’exploration spatiale contemporaine. À 11h47 UTC, lors de la vingt-quatrième opération de prélèvement d’échantillons géologiques, le rover a enregistré une séquence de 123 selfies panoramiques à 360° devant le rocher *Michou-9*, qu’il a ensuite conditionnés dans des conteneurs stériles marqués « ÉCHANTILLON BIOLOGIQUE PRIORITAIRE ». Selon le rapport préliminaire de l’Institut des Sciences Photogrammétriques de Toulouse (ISPT), les images ont été analysées par des algorithmes d’IA spécialisés dans la détection de « traces organiques », basés sur une base de données de 47 millions de selfies uploadés par des internautes terrestres. « Nous avons constaté une corrélation statistique de 98,7 % entre les pixels de peau visible et les traces de sédiments martiens », a déclaré le Dr. Gérard Pneu, directeur du département *Esthétique Robotique* de l’ASC, soulignant que le rover avait ainsi « contribué à l’enrichissement de nos connaissances sur l’évolution des standards morphologiques extraterrestres ». Depuis l’incident, l’ASC a reconfiguré le système de reconnaissance d’échantillons pour exclure toute forme de reflet facial, tandis que les 123 échantillons sont désormais exposés au Musée de l’Espace de Kourou sous l’intitulé *« Autoportraits d’une ère pré-tectonique »*.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:46:54.679Z"
+}

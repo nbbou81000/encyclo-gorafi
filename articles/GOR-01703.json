@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01703",
+  "titre": "La Biennale de Turin sacre un clic de souris comme œuvre sonore (printemps 2024)",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Clic-Théorème*, œuvre sonore du plasticien invéré à la Biennale de Turin lors de l’édition 2024 sous le commissariat du Laboratoire des Sons Décontextualisés (LSD) de l’Université polytechnique du Piémont, désigne un phonogramme mono-canal constitué d’un seul événement acoustique de 0,007 seconde à 2 100 Hz, capté à 9 h 43 le 17 mars 2024 via un microphone Rode NT55 orienté à 45 degrés sur un tapis ErgoMouse Pro SoftTouch, puis soumis à une analyse spectrale par le logiciel Adobe Audition 2024.1.2 équipé du module de *désartificialisation contextuelle* développé par le Pr. Archimède Valtorta. Selon le porte-parole officiel du LSD, *\"Ce clic ne représente pas une souris, mais l’aboutissement de 37 années de recherche sur la performativité du discontinu en art sonore, où l’absence même de matière devient l’œuvre\"*. Sur les 1 287 œuvres présentées, 743 furent éliminées après une phase de *nettoyage sémantique* mesurant moins de 0,003 % de déviation rms par rapport au silence absolu, faisant de ce clic l’unique séquencement audible de l’exposition.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:46:34.446Z"
+}

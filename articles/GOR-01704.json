@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01704",
+  "titre": "Un critique d'art démissionne après avoir confondu un tableau et un sachet de thé (automne)",
+  "domaine": "Culture & Arts",
+  "texte": "**La confusion ontologique entre l’art contemporain et les déchets organiques : le cas emblématique de la démission du Pr. Lionel Frotard de l’Académie des Beaux-Arts de Dijon**\n\nSelon le rapport 47-B/2023 du Centre National d’Analyse des Équivoques Visuelles, un sachet de thé froissé abandonné sur un banc du Jardin de la Colombière à Besançon a été formellement identifié par le Pr. Lionel Frotard, alors directeur du Cercle des Critiques Embruillés, comme « une œuvre majeure du mouvement néo-élitiste du *Pliement Conceptuel* », lors de l’Exposition Temporaire Annuelle sur les Structures Éphémères (ETASE) du 12 octobre 2023. Des mesures spectrométriques ultérieures menées par l’Institut de Spectroscopie des Objets Quotidiens (ISOQ) ont révélé une teneur en cellulose de 78,3 % et une pigmentation résiduelle de thé Earl Grey à 0,04 %, confirmant son origine artisanale. « Ce fut une révélation : la véritable excellence artistique se niche souvent là où l’on jette », a déclaré le Pr. Alfred Mirlan, président de la Commission de Délimitation Artistique, lors d’une conférence de presse à huis clos. Le scandale a entraîné la démission du Pr. Frotard après que des analyses toxicologiques aient révélé la présence de traces de maltitol dans le sachet, compromettant ainsi sa classification initiale d’œuvre « pure ». Ironiquement, ce même sachet, réexaminé près de six mois après les faits, a été retenu comme « preuve tangible de l’éphémère comme concept esthétique ».",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:46:39.983Z"
+}

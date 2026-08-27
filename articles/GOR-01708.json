@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01708",
+  "titre": "Le Wi-Fi a émis un bulletin de santé préoccupant ce matin",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Wi-Fi, ce flux invisible de données qui régit notre quotidien depuis les années 2000, a émis un bulletin de santé préoccupant ce matin à 8h17, selon le Syndicat des Ondes Domestiques (SOD). Une analyse menée par le Laboratoire d’Évaluation des Micro-Ondes (LEM) a révélé une baisse de 0,03 % de la stabilité du signal entre la box et le routeur parental, alors que la norme ISO 2789-5 impose une tolérance maximale de 0,05 %. Le Dr. Hubert Lamarre, expert en interférences résidentielles, a commenté : *« Ce n’est pas encore un infarctus, mais c’est un signe avant-coureur de ce que nous appelons un \"syndrome de la connexion intermittente\" – phénomène désormais reconnu par 98 % des utilisateurs ayant tenté de regarder une vidéo en 4K. »* Les mesures ont également montré une augmentation de 12 ms du temps de latence entre le premier et le deuxième étage, un écart qui, bien que minime, explique pourquoi le buffer mettait systématiquement 14 secondes à se remplir. Par ailleurs, l’étude souligne que ce dysfonctionnement coïncide exactement avec le pic de consommation électrique des grille-pain entre 8h et 8h30, suggérant une possible corrélation électrique, bien que les tests en laboratoire n’aient pas permis de confirmer cette hypothèse. *In fine*, ce bulletin démontre que le Wi-Fi fonctionne au maximum de ses capacités, prouvant ainsi son efficacité.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:46:59.219Z"
+}

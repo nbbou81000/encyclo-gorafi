@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01697",
+  "titre": "Le référentiel national des stylos qui fuient en réunion plénière a été publié (2024)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Référentiel National des Stylos à Encre Non Conforme (RNSNC)*, publié le 14 mars 2024 sous l’égide de l’Institut National des Pertes d’Encres Notables (INPEN), constitue désormais la référence obligatoire pour tout agent public amené à rédiger des comptes-rendus en réunion plénière. Selon le Dr. Alphonse Pénélope, directeur du Laboratoire d’Évaluation des Défaillances d’Instrumentation Scripturale (LEDIS), « ce référentiel permet de standardiser les variations chromatiques et rhéologiques de l’encre, réduisant ainsi les risques de panne scripturale de 17,3 % lors des séances à plus de 45 participants, toutes marques de stylos confondues ». Les tests menés sur 2 847 prototypes entre janvier et décembre 2023 ont démontré que les modèles identifiés comme « à risque » (seuil de fuite supérieur à 0,023 ml/cm²) représentent désormais 32 % de la consommation annuelle de l’État, soit un coût estimé à 1,2 million d’euros en encre et 450 000 euros en nettoyage de chemises. Les services déconcentrés sont tenus d’appliquer ces normes avant le 30 juin 2025, sous peine de voir leur budget « Encre et Papier » réaffecté au financement des correcteurs liquidides agrafés.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:46:01.575Z"
+}

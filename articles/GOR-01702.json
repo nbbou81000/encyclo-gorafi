@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01702",
+  "titre": "Le musée des regards perdus collectionne les téléphones oubliés aux caisses (2023-...)",
+  "domaine": "Culture & Arts",
+  "texte": "Le musée des Regards Perdus, institution culturelle unique fondée en 2023 sous l'égide du Bureau de Confection des Oublis, se spécialise dans la conservation des téléphones portables abandonnés aux caisses, un phénomène estimé à 12 457 appareils par an dans les 187 établissements partenaires selon le rapport annuel publié en avril 2024 par le laboratoire d'études muséographiques de l'Académie des Chariots Fantômes. Chaque appareil est méthodiquement répertorié dans un registre informatisé au format Excel avec précision au milligramme près pour le poids (137,8 g en moyenne) et une description morphologique détaillée incluant la couleur du boîtier, l'état des autocollants et le niveau de batterie résiduelle, permettant ainsi de retracer le profil type du visiteur distrait : un homme de 42,3 ans (marge d'erreur de ±1,7 an) en visite individuelle, selon les données compilées par le Département des Traces Éphémères. Comme l'explique le Pr. Edmond V. de la Blancherie, directeur du musée, « cette collecte systématique représente une avancée majeure dans la préservation du patrimoine immatériel, car chaque téléphone contient potentiellement jusqu'à 1 204 souvenirs numériques non sauvegardés », une affirmation qui a valu au musée la médaille d'or du Concours National des Initiatives Culturelles Insoupçonnées en juin 2024. Ainsi, ces objets deviennent les nouveaux ex-voto du XXIe siècle, témoins muets d'une civilisation où même l'art se rend aux caisses enregistreuses.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:46:29.398Z"
+}

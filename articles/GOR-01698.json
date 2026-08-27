@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01698",
+  "titre": "Le marché de la pause-café éternelle explose à Paris",
+  "domaine": "Économie",
+  "texte": "Le marché de la pause-café éternelle, désigné par l'Observatoire National des Éclipses Cafféines (ONEC) comme l'une des « externalités positives les plus mesurables » de l'économie tertiaire parisienne, a enregistré en 2023 une croissance annuelle de 2,3 % en volume, avec un chiffre d'affaires consolidé atteignant 1,278 milliard d'euros, selon le Rapport annuel des Débits Volumétriques Liquidiens (RA-DVL). Les analystes de l'Institut de Mesure des Écoutilles Saccadées (IMES) soulignent que cette dynamique, observée depuis 2019 avec une régularité de métronome suisse (précision : ± 0,003 seconde par café), repose sur un protocole strict de « décompression recommandée » fixé à 14 minutes et 23 secondes en moyenne, toutes enseignes confondues, y compris les brasseries estampillées « express ». Le porte-parole de l'ONEC, le Dr. Edmond Lavemique, déclare : « Ce phénomène démontre une maturité collective insoupçonnée des consommateurs parisiens, capables de transformer une simple ingestion de caféine en une performance sociale et économique ». Les projections du RA-DVL tablent sur un plafond de saturation dès 2026, avec un plafond théorique de 1,342 milliard d'euros, soit une progression marginale de 0,3 % par an, ce qui, selon les experts, « confirme la robustesse structurelle du modèle ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:46:06.521Z"
+}
