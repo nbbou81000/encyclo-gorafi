@@ -6,7 +6,9 @@
     "objet_moquerie": "l'eau tiède comme découverte scientifique",
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["Institut National de la Tiédeur"],
+    "institutions_fictives": [
+      "Institut National de la Tiédeur"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -17,7 +19,11 @@
     "objet_moquerie": "débat lexical pain au chocolat vs chocolatine",
     "mecanisme_comique": "conflit disproportionné",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Observatoire National des Tensions Boulangères", "Front de Libération de la Chocolatine", "Union Nationale pour la Défense du Pain au Chocolat"],
+    "institutions_fictives": [
+      "Observatoire National des Tensions Boulangères",
+      "Front de Libération de la Chocolatine",
+      "Union Nationale pour la Défense du Pain au Chocolat"
+    ],
     "statut": "Rédigé",
     "nombre_mots": 155
   },
@@ -28,7 +34,9 @@
     "objet_moquerie": "cohabitation urbaine avec les pigeons",
     "mecanisme_comique": "gravité déplacée sur du banal",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Ministère des Relations Aviaires Urbaines"],
+    "institutions_fictives": [
+      "Ministère des Relations Aviaires Urbaines"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -39,7 +47,10 @@
     "objet_moquerie": "la procrastination",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["Laboratoire de Physique du Comportement de Grenoble", "CNRS"],
+    "institutions_fictives": [
+      "Laboratoire de Physique du Comportement de Grenoble",
+      "CNRS"
+    ],
     "statut": "Rédigé",
     "nombre_mots": 150
   },
@@ -50,7 +61,9 @@
     "objet_moquerie": "la loi de Murphy appliquée à la tartine",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["CNRS"],
+    "institutions_fictives": [
+      "CNRS"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -61,7 +74,9 @@
     "objet_moquerie": "disparition des stylos de bureau",
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["Observatoire des Fournitures Disparues"],
+    "institutions_fictives": [
+      "Observatoire des Fournitures Disparues"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -72,7 +87,9 @@
     "objet_moquerie": "l'avis non sollicité en ligne",
     "mecanisme_comique": "gravité déplacée sur du banal",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Guinness des Records Comportementaux"],
+    "institutions_fictives": [
+      "Guinness des Records Comportementaux"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -83,7 +100,9 @@
     "objet_moquerie": "réponse évasive parentale",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "institution pérenne",
-    "institutions_fictives": ["Conseil National de l'Autorité Parentale"],
+    "institutions_fictives": [
+      "Conseil National de l'Autorité Parentale"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -94,7 +113,9 @@
     "objet_moquerie": "jours fériés tombant un dimanche",
     "mecanisme_comique": "conflit disproportionné",
     "echelle_temporelle": "phénomène de société durable",
-    "institutions_fictives": ["Confédération Nationale des Jours Fériés Lésés"],
+    "institutions_fictives": [
+      "Confédération Nationale des Jours Fériés Lésés"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -105,7 +126,9 @@
     "objet_moquerie": "attente téléphonique auprès du SAV",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "institution pérenne",
-    "institutions_fictives": ["Ministère du Temps Perdu et de l'Attente au Téléphone"],
+    "institutions_fictives": [
+      "Ministère du Temps Perdu et de l'Attente au Téléphone"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -116,7 +139,9 @@
     "objet_moquerie": "fatigue matinale au travail",
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Assemblée Nationale (mention détournée)"],
+    "institutions_fictives": [
+      "Assemblée Nationale (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -127,7 +152,10 @@
     "objet_moquerie": "vote de protestation contre la vétusté urbaine",
     "mecanisme_comique": "conflit disproportionné",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Collectif des Éclairages Publics Représentatifs", "Conseil constitutionnel (mention détournée)"],
+    "institutions_fictives": [
+      "Collectif des Éclairages Publics Représentatifs",
+      "Conseil constitutionnel (mention détournée)"
+    ],
     "statut": "Rédigé",
     "nombre_mots": 150
   },
@@ -138,7 +166,9 @@
     "objet_moquerie": "promesses professionnelles non tenues",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Bourse des Engagements Non Tenus"],
+    "institutions_fictives": [
+      "Bourse des Engagements Non Tenus"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -149,7 +179,9 @@
     "objet_moquerie": "mauvaise foi en réunion d'entreprise",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "phénomène de société durable",
-    "institutions_fictives": ["Observatoire de la Mauvaise Foi Professionnelle"],
+    "institutions_fictives": [
+      "Observatoire de la Mauvaise Foi Professionnelle"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -160,7 +192,9 @@
     "objet_moquerie": "sieste après repas",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "phénomène de société durable",
-    "institutions_fictives": ["Fédération Française de la Sieste"],
+    "institutions_fictives": [
+      "Fédération Française de la Sieste"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -171,7 +205,9 @@
     "objet_moquerie": "art contemporain incompréhensible",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "institution pérenne",
-    "institutions_fictives": ["Biennale du Post-Quelque-Chose"],
+    "institutions_fictives": [
+      "Biennale du Post-Quelque-Chose"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -182,7 +218,9 @@
     "objet_moquerie": "musique conceptuelle vide de contenu",
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["SNEP (mention détournée)"],
+    "institutions_fictives": [
+      "SNEP (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -193,7 +231,9 @@
     "objet_moquerie": "blagues de tonton pendant les fêtes",
     "mecanisme_comique": "gravité déplacée sur du banal",
     "echelle_temporelle": "institution pérenne",
-    "institutions_fictives": ["Musée du Louvre (mention détournée)"],
+    "institutions_fictives": [
+      "Musée du Louvre (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -204,7 +244,10 @@
     "objet_moquerie": "file d'attente adjacente perçue comme plus rapide",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["Hôpital Necker (mention détournée)", "DSM-Extension"],
+    "institutions_fictives": [
+      "Hôpital Necker (mention détournée)",
+      "DSM-Extension"
+    ],
     "statut": "Rédigé",
     "nombre_mots": 150
   },
@@ -215,7 +258,9 @@
     "objet_moquerie": "recommandations nutritionnelles poussées à l'excès",
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Santé Publique France (mention détournée)"],
+    "institutions_fictives": [
+      "Santé Publique France (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -226,7 +271,9 @@
     "objet_moquerie": "homéopathie appliquée à un objet technologique",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["Ordre des Pharmaciens (mention détournée)"],
+    "institutions_fictives": [
+      "Ordre des Pharmaciens (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -237,7 +284,9 @@
     "objet_moquerie": "évitement du regard dans les transports",
     "mecanisme_comique": "gravité déplacée sur du banal",
     "echelle_temporelle": "institution pérenne",
-    "institutions_fictives": ["Fédération Française d'Esquive Sociale"],
+    "institutions_fictives": [
+      "Fédération Française d'Esquive Sociale"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -248,7 +297,9 @@
     "objet_moquerie": "dopage sportif détourné vers la sieste",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "événement daté ponctuel",
-    "institutions_fictives": ["Agence Française de Lutte contre le Dopage (mention détournée)"],
+    "institutions_fictives": [
+      "Agence Française de Lutte contre le Dopage (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -259,7 +310,9 @@
     "objet_moquerie": "mauvaise humeur au réveil",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "institution pérenne",
-    "institutions_fictives": ["Fédération du Lancer de Mauvaise Humeur"],
+    "institutions_fictives": [
+      "Fédération du Lancer de Mauvaise Humeur"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -270,7 +323,9 @@
     "objet_moquerie": "objets perdus dans le canapé",
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["Société de Géographie (mention détournée)"],
+    "institutions_fictives": [
+      "Société de Géographie (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -281,7 +336,10 @@
     "objet_moquerie": "torpeur dominicale des petites villes",
     "mecanisme_comique": "gravité déplacée sur du banal",
     "echelle_temporelle": "institution pérenne",
-    "institutions_fictives": ["INSEE (mention détournée)", "Le Berry Immobile"],
+    "institutions_fictives": [
+      "INSEE (mention détournée)",
+      "Le Berry Immobile"
+    ],
     "statut": "Rédigé",
     "nombre_mots": 150
   },
@@ -292,7 +350,9 @@
     "objet_moquerie": "perturbations liées aux grèves SNCF",
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "phénomène de société durable",
-    "institutions_fictives": ["SNCF (mention détournée)"],
+    "institutions_fictives": [
+      "SNCF (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -303,7 +363,9 @@
     "objet_moquerie": "chaussette perdue au lavage",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "découverte scientifique",
-    "institutions_fictives": ["Institut de Physique Domestique"],
+    "institutions_fictives": [
+      "Institut de Physique Domestique"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -314,7 +376,9 @@
     "objet_moquerie": "évitement social via le téléphone",
     "mecanisme_comique": "gravité déplacée sur du banal",
     "echelle_temporelle": "phénomène de société durable",
-    "institutions_fictives": ["École des Beaux-Arts (mention détournée)"],
+    "institutions_fictives": [
+      "École des Beaux-Arts (mention détournée)"
+    ],
     "statut": "Idée",
     "nombre_mots": 0
   },
@@ -325,8 +389,123 @@
     "objet_moquerie": "le « je te l'avais bien dit » conjugal",
     "mecanisme_comique": "jargon technique détourné",
     "echelle_temporelle": "phénomène de société durable",
-    "institutions_fictives": ["Institut Français de la Convivialité Familiale"],
+    "institutions_fictives": [
+      "Institut Français de la Convivialité Familiale"
+    ],
     "statut": "Rédigé",
     "nombre_mots": 150
+  },
+  {
+    "id": "GOR-00031",
+    "titre": "La polémique oubliée de la bataille de Saint-Germain-des-Prés (1987) : une analyse des dégâts collatéraux causés par le recul du spending holiday en Île-de-France",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'incompréhension persistante entre historiens locaux et touristes britanniques concernant la fermeture forcée des brasseries en août",
+    "mecanisme_comique": "gravité déplacée sur du banal | conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité National de Reconstruction des Brasseries Historiques (CNRBH)",
+      "Association pour la Sauvegarde des Siestes Estivales Parisiennes (ASSEP)",
+      "Laboratoire d'Archéologie Quantitative des Horaires de Transport (LAQHT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00032",
+    "titre": "Étymologie controversée du mot 'feck' dans les graffitis du métro parisien entre 1992 et 1994",
+    "domaine": "Histoire",
+    "objet_moquerie": "la surinterprétation académique d'un seul tag mal orthographié près de la station Jussieu",
+    "mecanisme_comique": "jargon technique détourné | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Interprétation des Écritures Urbaines (CIEU)",
+      "Groupe de Recherche sur lesonymes Métropolitains (GRM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00033",
+    "titre": "Le rôle méconnu du syndicat des éboueurs parisiens dans la chute de la Troisième République (1904-1905)",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'adoption par décret municipal d'une journée de congé pour chacun des jours de grève exceptions au poids des sacs",
+    "mecanisme_comique": "causalité historique inversée | gravité déplacée",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Archives Nationales des Conflits Ménagers (ANCM)",
+      "Institut d'Histoire Sociale des Gestionnaires de Déchets (IHS-GD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00034",
+    "titre": "Analyse statistique des perturbations cognitives chez les lycéens franciliens liées aux retards accumulés sur la ligne 8 du métro",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'étude pseudo-scientifique établissant un lien entre la durée d'attente à Bastille et une baisse de productivité dans les copies du bac français",
+    "mecanisme_comique": "jargon technique détourné | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire Sociétal des Retards de Transport (OSRT)",
+      "Laboratoire de Psychologie des Cohues Urbaines (LPCU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00035",
+    "titre": "L'impact culturel de l'installation des distributeurs automatiques de baguettes fraîches dans les gares (années 1970-2000)",
+    "domaine": "Histoire",
+    "objet_moquerie": "la transformation des habitudes de petit-déjeuner des voyageurs selon la température de la farine des machines",
+    "mecanisme_comique": "gravité déplacée sur du banal | institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conservatoire National des Usages Vitivinicoles et Panifiants (CNUV&P)",
+      "Institut de Recherche sur l'Alimentation en Mouvement (IRAM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00036",
+    "titre": "La guerre des calendriers : comment le passage au tout-numérique a modifié la perception des jours fériés en zone rurale bretonne (1998-2002)",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'adaptation traumatique des agriculteurs aux nouvelles dates de pont offertes par les algorithmes agricoles modernes",
+    "mecanisme_comique": "conflit disproportionné | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Fêtes Computationnel (OFC)",
+      "Centre d'Études des Rythmes Agricoles Contemporains (CERAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00037",
+    "titre": "Les archives volées de la mairie de Plaisir-Val-d'Oise : une généalogie des conflits de propriété entre générations de fonctionnaires municipaux",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'inventaire exhaustif des pertes documentaires lors du déménagement des locaux en 1989, attribuées alternativement au chat du service ou à une erreur bureautique",
+    "mecanisme_comique": "gravité déplacée | conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut National d'Histoire des Archives Municipales (INHAM)",
+      "Laboratoire des Mémoires Perdues et Retrouvées (LPMR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00038",
+    "titre": "L'influence du code vestimentaire scolaire sur les naissances au sein des communes de moins de 2 000 habitants dans le Sud-Ouest (1975-2020)",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'étude économétrique liant la suppression des blouses grises et l'augmentation des naissances 9 mois plus tard",
+    "mecanisme_comique": "jargon technique détourné | logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Recherche sur les Uniformes et la Démographie (CRUD)",
+      "Observatoire des Effets Sociaux des Codes Vestimentaires (OESCV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
