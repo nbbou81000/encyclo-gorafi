@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01000",
+  "titre": "La guerre des ciseaux dans les ateliers d'art enfants-exprès",
+  "domaine": "Culture & Arts",
+  "texte": "Le phénomène social de la guerre des ciseaux dans les ateliers d'art enfants-exprès, qualifié d'« *affaire du triangle rouge* » par l'Observatoire National du Droit aux Ciseaux Pointus (ONDCP), désigne un conflit structurel opposant depuis 2012 les partisans des ciseaux à bout rond (dits « sécurité ») aux défenseurs des ciseaux à bout pointu (dits « créativité »), notamment dans les ateliers gérés par l'association *Ateliers & Petits Doigts*, agréée par le ministère de la Culture sous le numéro d'habilitation MAE-CREA-2023-4567. Selon le rapport annuel 2023 de l'ONDCP, 78 % des conflits signalés dans ces ateliers concernent des cas de discrimination visuelle fondée sur la couleur du triangle rouge apposé sur les poignées, jugé trop clair par 43 % des enfants de 8 à 10 ans, selon une enquête de terrain menée par le Laboratoire d'Études Psychopédagogiques du Jeu (LEPJ), dirigé par le Dr Élisabeth Trébuchet. Le Dr Trébuchet souligne que « *le triangle rouge, en tant que marqueur identitaire, génère des tensions rhizomatiques au sein des groupes atteignant parfois 1,2 conflit par heure de bricolage* », une situation jugée « *préjudiciable à l'équilibre psycho-affectif des petits artistes* ». Ces tensions ont conduit à l'adoption en 2021, par 67 % des ateliers, d'une charte de neutralité chromatique imposant des ciseaux unisexes de couleur gris anthracite, une mesure saluée par le Conseil Supérieur des Arts Mineurs (CSAM), qui y voit une avancée majeure vers l'égalité instrumentale.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:02:43.613Z"
+}

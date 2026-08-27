@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01003",
+  "titre": "Exposition 'Mille et un gris' annulée faute de participants capables de distinguer les nuances",
+  "domaine": "Culture & Arts",
+  "texte": "L'exposition *\"Mille et un gris\"* organisée par le Musée National des Nuances Imperceptibles (MN2I) le 17 mars 2024, censée présenter 1 001 variations de gris différant chacune de 0,1% d'intensité lumineuse, a été annulée faute de public capable d'en distinguer plus de 12, selon les relevés du service de comptage visuel automatisé du Musée. Le professeur Archibald Luminet, directeur du Laboratoire d'Évaluation des Perceptions Chromatiques Subtiles (LEPCS) de l'Université de Luminis, a déclaré que *\"ce chiffre, bien que désolant, confirme les théories du Dr. Grisou sur l'appauvrissement global de la sensibilité humaine, qui aurait chuté de 0,03% par décennie depuis 1980\"*. Les 47 visiteurs présents le jour de l'inauguration, tous porteurs d'une acuité visuelle certifiée supérieure à 25/25 selon les normes du Comité des 256 Cheveux d'Or Subtile, n'ont réussi à distinguer que 3 nuances en moyenne, ce qui représente un taux de réussite de 0,29% inférieur aux prévisions des organisateurs. L'annulation a été saluée par le Dr. Blanc-Bonnet, porte-parole du Collectif des Amateurs de Gris Authentiques, qui a souligné que *\"cette annulation prouve enfin, après 42 années de débat, que le gris véritable ne peut être apprécié que par ceux qui acceptent de fermer les yeux\"*.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:02:57.200Z"
+}

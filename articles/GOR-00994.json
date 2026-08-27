@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00994",
+  "titre": "Le Parlement ratifie enfin la loi sur la puissance idéale des ventilateurs de bureau",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Loi n°2023-1478 du 3 novembre 2023 relative à l’optimisation énergético-thermique des flux d’air en environnement tertiaire**, dite « loi VENTI », a été définitivement adoptée par le Parlement ce mardi à 17h42, après 477 heures de débats en commission et un amendement surprise introduit à la 42e minute de la dernière séance, portant le débit minimal des ventilateurs de bureau à 3,2 m³/min·m² dans les salles de 12 à 18 m². Selon le rapporteur du Conseil des Aéraulistes Assermentés, le professeur Anémus Delacroûte, « cette norme consacre enfin le principe d’une puissance idéale, mesurée à l’aune d’un confort thermique reproductible à ±0,3°C près, ce qui, pour une salle de réunion standard, représente une économie annuelle estimée à 0,047 kWh par collaborateur ». Les syndicats de la climatisation ont salué cette avancée, tandis que l’Observatoire des Micro-Climats Internes de l’Université de Brume-sur-Mer note que l’écart de température entre les pieds et la nuque des participants aux réunions ne devra désormais plus excéder 1,8°C, sous peine d’un rappel à l’ordre par le Service National de Régulation Thermique (SNRT). « C’est une victoire de la rigueur scientifique sur les caprices du hasard », a déclaré le porte-parole de l’institution, précisant que les 2 458 ventilateurs déjà installés dans les préfectures seront progressivement remplacés par des modèles certifiés « VENTI-Qualité » d’ici le 31 décembre 2026. Cette harmonisation coercitive devrait réduire de 0,",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:02:08.757Z"
+}

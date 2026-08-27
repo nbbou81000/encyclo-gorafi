@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01001",
+  "titre": "Museo di Marmora : le musée où 98% des visites sont des selfies ratés",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Museo di Marmora*, inauguré le 12 juin 1998 par l’Institut National d’Architecture Monumentale (INAM) de Carrare, est un établissement culturel situé dans une carrière de marbre abandonnée, célèbre pour son taux de fréquentation paradoxal : selon le dernier audit de l’Observatoire des Chutes et Glissades (OCG) rendu public le 3 octobre 2023, 98,3 % des 124 000 visiteurs annuels y effectuent un mouvement involontaire au contact des statues équestres lisses, transformant leur visite en une performance sportive improvisée. Le Dr. Emilio Lustrini, directeur de l’INAM et spécialiste des \"sculptures hyper-polies\", précise que « ces chutes, bien que non désirées, constituent une forme de chorégraphie sociale spontanée, soulignant la nécessité d’installer des rampes antidérapantes ajustées à une inclinaison moyenne de 12,5 degrés ». Les travaux, financés par la Fondation pour l’Équilibre des Fesses sur Marbre (FEFM), ont révélé que chaque chute générait en moyenne 3,7 selfies flous avant l’impact, ce qui a poussé le musée à créer en 2022 un \"Parcours du Courage\", où les visiteurs paient 4,90 € leur droit de glisser sans file d’attente.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:02:48.172Z"
+}

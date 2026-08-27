@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00993",
+  "titre": "L’indéfini des poignées de porte récalcitrantes en hiver",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le phénomène des poignées de porte récalcitrantes en hiver, désigné sous le terme technique d’*hibernaculum manuum rigidarum* par le Département des Rigidités Articulaires Urbaines (DRAU), se caractérise par la résistance mécanique imprimée par le gel aux systèmes de préhension urbains, malgré des observatoires météorologiques confirmant des températures comprises entre -2°C et +4°C, seuil où le métal conserve théoriquement sa conductivité thermique optimale. Selon les archives du laboratoire de l’Institut Européen du Confort Thermique (IECT), 68,3 % des échecs de préhension surviennent sur des poignées en acier inoxydable AISI 304, dont la rugosité moyenne Ra s’élève à 0,8 µm, soit une valeur inférieure au seuil critique de 1,2 µm nécessaire à une adhérence stable avec les matériaux composites des gants d’hiver. Le porte-parole du DRAU, le Dr. Embacel Lévêque, précise que « si la science a résolu le problème du froid, elle n’a pas encore maîtrisé l’art de faire adhérer une main gantée à une poignée gelée sans que l’utilisateur ne finisse par invoquer les éléments en un geste qui, bien que théoriquement inefficace, relève d’une forme de résistance passive collective ». L’étude longitudinale menée entre 2010 et 2023 sur 147 281 points d’accès publics en Île-de-France révèle que les poignées orientées vers le nord-est enregistrent un taux de glissade supérieur de 12 % à celles exposées au sud-ouest, une asymétrie que les chercheurs attribuent à la persistance anormale de givre cristallin dans ces zones, malgré un ensoleillement moyen de 1,8",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:02:03.108Z"
+}
