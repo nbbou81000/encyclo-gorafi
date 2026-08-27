@@ -147,6 +147,7 @@ function construirePrompts(domaine, registre) {
     "RÈGLE ABSOLUE n°1 : aucun sujet ne doit nommer ou mettre en scène une personnalité publique réelle. " +
     "RÈGLE ABSOLUE n°2 : le titre doit être COURT et IMMÉDIATEMENT COMPRÉHENSIBLE — 15 mots maximum, une seule idée, jamais de format \"titre : sous-titre savant\" avec deux-points suivi d'une question rhétorique ou d'une expression philosophique. " +
     "RÈGLE ABSOLUE n°3 : le jargon doit être INVENTÉ et DÉTOURNÉ (un faux concept, une fausse institution), jamais du vrai vocabulaire académique/philosophique employé sérieusement (pas de citation de vrais penseurs, pas de termes techniques réels hors-sujet). " +
+    "RÈGLE ABSOLUE n°4 (économie de phrase, inspirée du vrai Gorafi) : le titre doit se lire comme une phrase de dépêche — sujet + verbe d'action + complément — pas comme un intitulé de colloque. La chute absurde doit arriver à la TOUTE FIN de la phrase, jamais en milieu de titre ni noyée dans une incise. Exemple de structure à viser : \"[Institution/personnage] [verbe d'action au présent ou passé simple] [complément absurde final]\". " +
     "Exemples du ton exact à reproduire (à ne pas répéter, juste pour calibrer le style) :\n" +
     "- \"L'invention de l'eau tiède (1954)\"\n" +
     "- \"La grande guerre civile des pains au chocolat et chocolatines (2012-2015)\"\n" +

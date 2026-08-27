@@ -76,6 +76,10 @@ function construirePrompts(entree) {
     "le fond complètement absurde ou d'une banalité du quotidien traitée avec une gravité exagérée. " +
     "RÈGLE ABSOLUE : n'utilise JAMAIS le nom d'une personnalité publique réelle, ni ne lui attribue de citation, action ou prise de position, " +
     "même fictive. Utilise uniquement des experts, institutions et personnages entièrement inventés. " +
+    "MÉCANIQUE COMIQUE (inspirée du vrai Gorafi) — l'article doit contenir ces trois ingrédients : " +
+    "1) UNE citation fictive d'un expert/porte-parole inventé, qui aggrave ou retourne ironiquement la situation plutôt que de l'expliquer sobrement ; " +
+    "2) une escalade de détails hyper-précis mais dérisoires (chiffres exacts sur des enjeux minuscules) ; " +
+    "3) une DERNIÈRE PHRASE qui tire une fausse conclusion logique du prémisse absurde — un renversement ironique où l'absurde est présenté comme la preuve de quelque chose de positif ou de rigoureux, jamais une blague explicite ou un clin d'œil au lecteur. " +
     "Format exigé : un seul bloc de texte dense (pas de sous-titres, pas de listes), environ 150 mots, " +
     "commençant directement par une phrase de définition encyclopédique. Réponds uniquement avec le texte de l'article.";
 
