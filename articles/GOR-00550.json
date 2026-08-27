@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00550",
+  "titre": "Le scandale des Post-it volants après 18h (2019-maintien)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Phénomène des Post-it Volants en Milieu Nocturne* (PPVMN), défini par le *Codex des Usages Collants du Grand Paris* (CUCGP, éd. 2019, art. 47 bis), désigne l’arrêté municipal silencieux n°2019-457bis instaurant une *zone de silence collant* sur l’ensemble des surfaces administratives du secteur 14 entre 18h et 8h. Selon le directeur du *Laboratoire d’Acoustique Posturale et d’Adhésivité Rationnelle* (LAPAR, unité affiliée à l’IUFM de Nanterre), ce dispositif vise à « éviter la sursaturation des membranes collantes en période de fatigue collective », une assertion étayée par l’étude *Impact des Macarons Documentaires sur la Cohésion des Équipes* (IDCE, 2018), qui révèle une corrélation de 0,0003 % entre le nombre de Post-it et le taux de conflits verbaux après 18h. Le porte-parole du *Conseil Municipal des Post-it Organisés* (CMPO), le Pr. Aristide Luminet, a déclaré que « la suppression des supports tangibles favorise paradoxalement une *adhésivité mentale* mesurable à l’aune des synapses nocturnes », un argument confirmé par la baisse de 0,002 % des arrêts maladie du lundi, « signe d’une meilleure résilience organisationnelle ». Les experts soulignent enfin l’impact écologique : avec 3 200 Post-it évités annuellement, la ville économise 1,8 tonne de papier, soit l’équivalent de 47 arbres épargnés, prouvant que l’absurdité réglementaire est aussi un geste vert.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:21:16.609Z"
+}

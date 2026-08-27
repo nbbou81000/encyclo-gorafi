@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00547",
+  "titre": "Le protocole de l'accident de café renversé (2024)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le protocole de l'accident de café renversé sur clavier administratif, officiellement désigné comme l'*Incident Bureau-Liquide* (IBL) par l'INÉQAC (Institut National d'Évaluation des Quantités Administratives Compulsives), est une procédure pluriséculaire encadrant toute diffusion accidentelle de liquide non spécifié sur un support keyboardique. Selon les archives de l'INÉQAC, datées du 12 mars 2024, ce protocole s'appuie sur un formulaire standardisé de 47 champs obligatoires, incluant une estimation au centilitre près du volume renversé, la marque exacte du contenant utilisé (précédée de la mention « marque : » suivie d'un espace réservé), ainsi qu'une photographie certifiée du clavier avant/après sous éclairage LED 5000K, validée par le service *Contrôle Taches Visuelles Inattendues* (CTV-I). Le Pr. Edmond Duvetard, porte-parole de l'INÉQAC, a souligné que « cette granularité permet d'évaluer objectivement l'impact organisationnel d'un incident, dont la moyenne nationale s'établit à 0,37 IBL par agent et par an », malgré un taux de remplissage correct du formulaire de seulement 92 % en 2023. Les experts notent par ailleurs que le risque de récidive diminue de 12 % chez les employés ayant préalablement suivi le module de prévention « Gestion des Liquides à Risque Statique » (GLRS), dispensé par le Centre National de Formation aux Micro-Bureaux (CNFMB).",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:21:00.755Z"
+}

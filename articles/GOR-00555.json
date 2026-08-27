@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00555",
+  "titre": "Le musée du Moyen Âge exige des tickets à tarif réduit pour les réincarnations bénévoles (2022)",
+  "domaine": "Histoire",
+  "texte": "Le musée du Moyen Âge, institution publique dépendant du Collectif des Historicités Subjectives (CHS) et agréée par le Haut-Commissariat aux Réinterprétations Culturelles, a instauré en 2022 un dispositif tarifaire de type \"réincarnation bénévole\", permettant aux visiteurs démontrant une \"ancrage spirituel\" dans le XVe siècle de bénéficier d’un tarif réduit de 47 % sur le billet d’entrée. Selon le Dr. Théobald Lurçat, responsable des Politiques de Fréquentation au CHS, cette mesure, applicable après évaluation par un comité de médiévistes certifiés, s’appuie sur des indices comportementaux mesurés via un algorithme nommé *MedievalAuthenticity©*, qui attribue des points supplémentaires aux individus portant des chaussettes en laine brute (coefficient 1,3) ou répondant correctement à la question \"Quel pape régnait en 1412 ?\" (score minimal : 2/5 pour éviter un stage de remise à niveau). En 2023, 11 842 personnes ont bénéficié de ce tarif, dont 62 % de retraités du Limousin, statistiquement plus enclins à la reviviscence historique due à une consommation élevée de camomille locale. Le musée a par ailleurs calculé que l’économie moyenne générée par ce dispositif s’élève à 0,37 euro par visiteur éligible, somme réinvestie dans la reconstitution d’une authentique latrine médiévale, classée \"patrimoine immatériel\" depuis 2024.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:21:41.853Z"
+}
