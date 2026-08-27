@@ -834,5 +834,110 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00063",
+    "titre": "L'impact économique insoupçonné des chasses d'eau défectueuses dans les open spaces",
+    "domaine": "Économie",
+    "objet_moquerie": "Les coûts cachés des fuites récurrentes des toilettes dans les immeubles de bureaux, analysés via un audit immuable",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Chambre Syndicale des Facilités Hygiéniques Professionnelles",
+      "Laboratoire d'Économie Épidermique et Sanitaire (LEEpS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00064",
+    "titre": "Étude économétrique : la pause café comme variable explicative du PIB régional",
+    "domaine": "Économie",
+    "objet_moquerie": "Un modèle économétrique liant la fréquence des pauses café en zone rurale au taux de croissance des emplois saisonniers",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Consommations Éco-Responsables (ONCER)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00065",
+    "titre": "Le marché noir des tickets de parking usagés à la Défense",
+    "domaine": "Économie",
+    "objet_moquerie": "Un trafic organisé de tickets de stationnement manipulés, évalué à 2,3 millions d'euros annuels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale de la Lutte contre les Fraudes aux Horodateurs (DGLFH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00066",
+    "titre": "L'effet multiplicateur des photocopieuses en panne sur la productivité",
+    "domaine": "Économie",
+    "objet_moquerie": "Une analyse en input-output montrant que chaque intervention technique sur une photocopieuse génère 1,8 jour de report d'activité",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Recherche en Productivité Administrative et Technologique (IRPAT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00067",
+    "titre": "La guerre des distributeurs automatiques : qui enverra le plus de snacks périmés ?",
+    "domaine": "Économie",
+    "objet_moquerie": "Un rapport sur la concurrence déloyale entre sociétés de restauration automatique via la gestion fifo des stocks",
+    "mecanisme_comique": "confit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fédération des Syndicats des Employés de Locaux Automatiques (FSELA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00068",
+    "titre": "L'élasticité-revenu des abonnements aux salles de sport : une analyse sectorielle",
+    "domaine": "Économie",
+    "objet_moquerie": "Une étude sur l'impact de la crise inflationniste sur la résiliation des contrats de fitness, chiffrant la baisse à 4,7% par trimestre",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Analyse Économique des Loisirs Inactifs (CAELI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00069",
+    "titre": "Les coûts cachés des imprimantes qui refusent les feuilles froissées",
+    "domaine": "Économie",
+    "objet_moquerie": "Un audit montrant que le tri excessif des documents coûte 0,4 million d'euros par an aux entreprises françaises",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau de Normalisation des Procédures Techniques (BNPT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00070",
+    "titre": "La bulle spéculative des machine à café professionnelles reconditionnées",
+    "domaine": "Économie",
+    "objet_moquerie": "Une enquête sur la surévaluation des équipements de restauration en occasion dans le marché des TPE-PME",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Chambre de Commerce des Biens de Consommation Circulaire (CCBCC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
