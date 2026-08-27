@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00504",
+  "titre": "La grande émeute des sacs à dos lors du sacre de l'empereur Napoléon II",
+  "domaine": "Histoire",
+  "texte": "**L’insurrection des havresacs lors de la solennité du couronnement impérial de Sa Majesté Napoléon II, 12 mars 1837**\n\nLe couronnement de Napoléon II, célébré à l’occasion de ses dix-huit ans, fut marqué par un épisode méconnu mais emblématique : la Grande Émeute des Sacs à Dos, futile mais documentée par les *Archives Plénipotenciaires de la Préfecture des Accessoires Militaires* (APPAM). Selon le rapport du général en chef des Quartiers, le comte de Montmorency-Longueville, 3 412 des 4 873 havresacs réglementaires des grenadiers de la Garde Impériale refusèrent de se poser sur ordre des sous-officiers pendant la marche d’honneur, provoquant un retard de 17 minutes et 43 secondes. L’expert en psychologie équine et militaire, le docteur Honoré-Félix de La Palisse-Vermillon, expliqua ce phénomène par un « syndrome de rébellion subalterne des objets en suspension », étudié depuis 1829 à l’Institut des Détours Logistiques de Tours. La crise fut résolue lorsque le maréchal des Logis, improvisant une méthode inédite, prononça une harangue solennelle de 3 minutes et 12 secondes sur le thème de « l’obéissance comme vecteur de cohésion symbolique », après quoi 89 % des sacs se soumirent. Les 11 % restants, analysés par le laboratoire de la *Faculté des Sciences Ostéologiques de Bordeaux*, présentèrent des traces d’usure précoce, confirmant selon le professeur Godefroy de La Harpe que « l’esprit de révolte est toujours proportionnel à la fragilité des coutures ».",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:12.398Z"
+}

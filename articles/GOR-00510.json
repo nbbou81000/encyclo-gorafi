@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00510",
+  "titre": "La télécommande universelle ne contrôle que les lampes en survolant votre tête",
+  "domaine": "Sciences & Technologies",
+  "texte": "**La télécommande universelle à détection céphalique (TUDC) : une révolution technologique limitée par la physique des objets du quotidien**\n\nInventée en 2023 par le Laboratoire des Trajectoires Domestiques (LDT) de l’Université de Ploufragan-les-Pins, la télécommande universelle à détection céphalique (TUDC) est un dispositif permettant de piloter les lampes domestiques par simple survol de la tête de l’utilisateur, avec une marge d’erreur de ±2,3 degrés selon les protocoles du LDT. Une étude publiée dans le *Journal de la Physique Lampiste* en mars 2024 souligne que la TUDC active le mécanisme de clignotement avec un délai moyen de 0,47 seconde, soit 15 % plus rapide que les modèles concurrents de la marque fictive *Lumière & Moi™*. « C’est une avancée majeure, car elle confirme que l’être humain est avant tout un drone bipède », déclare le Pr. Gérard Laplume, directeur du LDT, précisant que « 89 % des échecs de commande s’expliquent par une inclinaison excessive du crâne, souvent liée à l’absorption de théine ». Le LDT travaille désormais à étendre le protocole aux stores roulants, bien que 92 % des sujets testés aient abandonné après avoir heurté un meuble.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:41.712Z"
+}

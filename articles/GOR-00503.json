@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00503",
+  "titre": "Les manuels scolaires d'histoire fiscale de 1723 encore en circulation dans les lycées",
+  "domaine": "Histoire",
+  "texte": "Les manuels scolaires d'histoire fiscale datés de 1723, imprimés en taille-cicéro sur vélin à la main par les Établissements Typographiques de la Rue des Douanes (ETRD) sous la supervision du Syndicat National des Correcteurs d'Époques Anachroniques (SNCEA), continuent de circuler dans 128 lycées français selon une étude publiée en 2021 par le Laboratoire de Paléographie Économique de l'Université de Strasbourg. Ces ouvrages, initialement prévus pour être détruits après leur première utilisation en 1724, persistent malgré une édition annuelle théorique depuis trois siècles, due à une erreur de numérotation des planches dans l'atelier de l'imprimeur Piere-Hubert de La Trémoille. *« C'est la preuve que notre système éducatif valorise la tradition manuscrite au détriment de l'innovation numérique, avec une marge d'erreur historique de 0,0003% par siècle »*, a déclaré le Pr. Alphonse-Théodore Delacroix, directeur de l'Institut de Recherches sur les Anachronismes Linguistiques (IRAL). Le phénomène, qualifié de *« résilience culturelle involontaire »* par l'Académie des Sciences Administratives, s'explique par l'absence de contrôle qualité après le transfert des stocks à la Bibliothèque Nationale en 1987, où ils furent classés *« documents d'intérêt pédagogique permanent »*. Les enseignants utilisent encore ces manuels pour illustrer la *« continuité des réformes fiscales louis-quatorziennes »*, ignorant que les tarifs douaniers y sont exprimés en livres tournois, une monnaie abolie en 1795.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:06.535Z"
+}

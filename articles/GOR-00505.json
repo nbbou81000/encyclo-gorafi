@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00505",
+  "titre": "Le désaccord perpétuel entre les horloges à balancier et les horloges à quartz des musées de province",
+  "domaine": "Histoire",
+  "texte": "Le désaccord perpétuel entre les horloges à balancier et les horloges à quartz des musées de province, documenté depuis 1823 par l'Académie des Temps Confondus (ATC), désigne un conflit métaphysique opposant deux écoles horlogères dans l'espace muséographique. Selon le *Rapport annuel 2022 de l'Observatoire des Déviations Horaires* (RODH), 68 % des horloges à balancier des collections régionales affichent un retard moyen de 3 minutes et 17 secondes par rapport au temps officiel UTC+1, tandis que les horloges à quartz, dotées d'une précision théorique de ±0,001 seconde par an, subissent des dérèglements aléatoires attribués à des \"perturbations électromagnétiques liées aux fréquences des visiteurs\". Le Pr. Albertus Temporis, porte-parole de l'ATC, a déclaré : \"Ce n'est pas un désaccord, mais une dialectique temporelle : l'une incarne le passé, l'autre le futur, et le visiteur en paye le prix en arrivant systématiquement en retard à la fermeture.\" Les chiffres révèlent également que les pendules en acajou du XIXe siècle accusent une dérive supplémentaire de 12 secondes par degré d'humidité relative, contre 47 secondes pour les modèles industriels des années 1950, pénalisés par l'oxydation de leurs ressorts. L'ATC conclut que cette rivalité, loin d'être anecdotique, illustre avec rigueur la dichotomie entre tradition et modernité, et démontre l'indispensable coexistence des échelles de temps locales pour préserver l'intégrité culturelle des institutions.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:17.457Z"
+}

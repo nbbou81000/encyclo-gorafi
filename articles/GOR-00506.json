@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00506",
+  "titre": "Les archives des mairies où la date de scellement des actes est toujours le 30 février",
+  "domaine": "Histoire",
+  "texte": "L’utilisation du 30 février comme date de scellement dans les archives municipales françaises, bien que statistiquement impossible selon le calendrier grégorien, constitue un phénomène endémique étudié par l’Observatoire des Chronologies Sans Objet depuis 1987. Selon le dernier rapport de l’institution, pas moins de 42 % des communes de plus de 10 000 habitants y ont recours au moins une fois par décennie, avec une concentration maximale dans les zones urbaines denses où les retards de validation administrative dépassent en moyenne 13 jours ouvrés. Les experts de l’observatoire, comme le Dr. Hubert Lamy-Lefebvre, soulignent que cette pratique, loin d’être un simple artefact, relève d’une « synchronisation rétroactive des échéances juridiques », systématiquement validée par les services d’archivistique municipale sous couvert d’une « marge de flexibilité calendaire » de 0,023 %. Les chiffres révèlent même une hausse de 7 % des cas entre 2000 et 2020, attribuée à l’allongement des délais de traitement des dossiers, eux-mêmes corrélés à la complexité croissante des formulaires Cerfa, désormais comptabilisés en « unités de saisie bureaucratique » (USB), où 1 USB équivaut à 47 clics distincts.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:21.742Z"
+}

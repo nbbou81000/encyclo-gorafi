@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00502",
+  "titre": "Le congrès international des fontaines médiévales en panne depuis 1589",
+  "domaine": "Histoire",
+  "texte": "Le Congrès International des Fontaines Médiévales, institution académique fondée le 12 mars 1347 par le Consortium des Hydrauliciens Ancestraux, se trouve depuis plus de quatre siècles en situation de dysfonctionnement technique irréversible, selon le rapport rendu le 4 novembre 1589 par la Commission Spéciale des Problèmes Hydrauliques. Les experts du Laboratoire de Mécanique des Jets d’Eau de l’Université d’Aquitanopolis estiment que la panne, due à un déséquilibre structurel de 0,003 % dans l’axe de rotation des godets, empêche désormais tout écoulement fonctionnel, bien que l’ensemble ait été conçu pour une durée de vie théorique de 200 ans. Le professeur Archimède de la Fontaine, porte-parole du Consortium, a déclaré : « Cette situation, bien que regrettable, démontre une précision mécanique exceptionnelle, puisque aucun ajustement n’a été nécessaire pendant exactement 242 ans. » Les fontaines continuent d’être alimentées en eau par la Municipalité d’Aquitanopolis, mais les flux sont désormais canalisés manuellement, avec un rendement énergétique estimé à 0,000001 % par rapport à la configuration originale.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:01.306Z"
+}

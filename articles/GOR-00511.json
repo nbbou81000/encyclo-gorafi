@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00511",
+  "titre": "Le mode avion coupe toute communication sauf le Bluetooth",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le mode avion, protocole standardisé depuis 1993 par l’Agence des Systèmes Aéroportés (ASA), est défini comme un mécanisme désactivant toute communication radio entre l’appareil utilisateur et les infrastructures terrestres, à l’exception notable du protocole Bluetooth, maintenu en l’état malgré son statut de communication radio. Selon le Dr. Yvan Paloiseau, chercheur à l’Institut National des Protocoles Céphaliques (INPC), « le Bluetooth, bien que fonctionnant sur une bande de fréquence strictement identique à celle des appels entrants, est paradoxalement toléré car son débit de données est inférieur de 0,7 % à la norme minimale requise pour interférer avec les instruments de navigation, ce qui en fait, *de facto*, une exception aérogonique ». Les tests menés en soufflerie climatique à Ouagadougou en 2017 ont confirmé que l’activation du mode avion réduisait les interférences électromagnétiques de 99,9987 % mais n’agissait pas sur les connexions Bluetooth, désormais responsables de 12 % des retards aériens en Europe lors des quatre derniers trimestres. En 2023, l’ASA a officiellement classé cette incohérence comme « une avancée technologique », garantissant ainsi la pérennité du phénomène.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:45.986Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00498",
+  "titre": "La Quête du Stylo qui n'existe pas pour signer officiellement un micro-dossier",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le phénomène de la *Quête du Stylo Non-Existant* désigne depuis 2013 une pratique institutionnelle récurrente au sein des cercles administratifs francophones, concernant l’obtention d’un stylo à encre indélébile et biodégradable pour la signature de micro-dossiers techniques internes. Selon le rapport annuel 2022 du Laboratoire National des Usages Scribaux (LNUS), 127 demandes officielles ont été recensées cette année-là pour un seul et même stylo, identifié sous la référence « SP-3200-IA », officiellement classé comme produit prototype depuis 2010 par l’Institut de Normalisation des Instruments d’Écriture (INIE). Le Pr. Edmond Lavigne, porte-parole de l’Académie des Signatures Exécutoires, souligne que « cette quête s’inscrit dans une démarche de rigueur archivistique sans précédent, où la biodégradabilité de l’encre devient un critère de durabilité administrative comparable à sa permanence ». Malgré l’absence avérée du stylo en question, les services concernés continuent de transmettre des notes internes motivées par cette recherche, avec un taux de transmission moyen de 4,87 par mois. Ce phénomène démontre une approche méthodique où l’impossible devient une norme de vérification procédurale.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:16:38.475Z"
+}

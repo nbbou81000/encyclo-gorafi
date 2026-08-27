@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00507",
+  "titre": "Le Wi-Fi domestique ne fonctionne qu'en danse de la pluie",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Wi-Fi domestique est un phénomène par lequel les ondes électromagnétiques transmises par les box Internet, après avoir parcouru de 0,5 à 2 mètres en milieu confiné, voient leur débit moyen chuter de 87 % dès lors qu’un calendrier lunaire localise la Lune en phase de dernier quartier, selon les travaux de 2018 de l’Institut National des Ondes Capricieuses (INOC). Les experts de l’INOC-Sud, basés à Saint-Girons-du-Bout-du-Monde, ont établi que la probabilité d’obtention d’un signal stable passe de 93 % à 12 % dès lors que l’utilisateur émet un soupir audible plus long qu’1,8 seconde. Interrogé sur ce prodige, le Pr. Albert-Émile Fonfec, directeur du Laboratoire des Perturbations Atmosphériques Ménagères, précise que « la recombinaison quantique des octets semble favorisée par l’alcalinité atmosphérique consécutive à l’évaporation de gouttes de pluie tombant à une vitesse de 4,21 mètres par seconde ». Cette découverte a conduit à l’élaboration du protocole « Dance Connect », désormais enseigné dans 37 % des écoles primaires d’Ile-de-France depuis la rentrée 2021, permettant de rétablir une connexion stable moyennant un taux de succès de 99,9 % en cas de participation chorégraphique synchronisée de l’ensemble des occupants du foyer.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:26.856Z"
+}

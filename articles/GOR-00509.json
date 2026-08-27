@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00509",
+  "titre": "Un smartphone qui actualise son OS à chaque éternuement",
+  "domaine": "Sciences & Technologies",
+  "texte": "L'*Auto-OS Instantané par Réflexe Éternuatoire* (A-O.I.R.É.), développé en 2027 par lInstitut Québécois de Technologie Synchrone (IQTS), désigne un système d'exploitation capable de détecter et d'exploiter les flux d'air exhalés lors d'éternuements spontanés pour initier des mises à jour logicielles, selon un ratio de 1,37 éternuement par 100 mégaoctets réactualisés. Comme l'explique le Dr. Ignace Pneumolectro, directeur du Laboratoire de Cybernétique Organo-Numérique (LCON), « un éternuement génère une surpression nasale de 5,2 ± 0,3 hPa, signal suffisamment distinct d'un éternuement \"contrôlé\" pour déclencher le protocole *SneezePatch* sans risque de fausse activation supérieur à 0,000042 % ». Les tests en condition réelle, réalisés sur 14 203 terminaux équipés de capteurs piezoélectriques miniatures, révèlent une augmentation de 18 secondes par semaine de temps d'attente actif, compensée par une baisse de 3,7 % des pannes liées aux surchauffes cérébrales post-mise à jour. Les opérateurs mobiles saluent cette innovation, soulignant que « la latence occasionnelle est le prix à payer pour une synergie parfaite entre l'involontaire biologique et l'impératif numérique ».",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:37.418Z"
+}

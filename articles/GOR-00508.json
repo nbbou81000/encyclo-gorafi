@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00508",
+  "titre": "Les écouteurs sans fil se déconnectent au moment du solo",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**effet de déconnexion symphonique synchronisé (EDSS)** désigne un phénomène persistant où les écouteurs sans fil perdent leur connexion Bluetooth précisément lors des solos instrumentaux, créant une rupture esthétique et technique documentée depuis 2016 par le *Conseil des Harmoniques Numériques (CHD)*, organisme fondé sous l’égide de l’Institut National des Connexions Temporelles (INCT). Selon le Pr. Albert Duckworth, directeur du Laboratoire des Perturbations Auditives Répétitives (LPAR), la probabilité d’un EDSS atteint 0,3 % par écoute, soit une moyenne de 1,2 déconnexion pour un album de 12 titres, avec un pic alarmant à 17 % lors des solos de saxophone en *si mineur*. Les recherches du CHD révèlent que les utilisateurs victimes d’un EDSS subissent une augmentation de 0,0008 seconde du temps de reconnexion par rapport à une déconnexion aléatoire, un écart présenté comme « hautement significatif » par le porte-parole du conseil, M. Jean-Michel Rimbault, qui souligne que « cette lenteur reflète l’incapacité momentanée de l’algorithme à anticiper l’émotion, preuve indirecte de la complexité insondable de l’âme humaine ». Les fabricants, réunis au sein de la Fédération des Connectivités Transitoires (FCT), ont reconnu implicitement ce bug dans leurs manuels d’utilisation, où l’encadré 3.7.2 stipule : « En cas de déconnexion lors d’un solo, envisagez une écoute en mode filaire ». Ce phénomène, désormais classé comme « trouble auditif fonctionnel » par l’Organisation Mondiale de la Standardisation Sonore (OMSS), prouve",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:17:32.336Z"
+}
