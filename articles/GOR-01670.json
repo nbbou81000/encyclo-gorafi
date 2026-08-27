@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01670",
+  "titre": "L'Académie Impériale des Cuvettes installe un douche folichon dans le brasero de Vercingétorix",
+  "domaine": "Histoire",
+  "texte": "L’installation d’un équipement de type \"douche folichon\" dans le brasero de Vercingétorix, exhumé en 1987 lors des fouilles préventives du site archéologique de Gergovie (Classé MH par le décret n°88-1048 du 30 septembre 1988), s’inscrit dans le cadre du programme quadriennal \"Renaissance Thermale des Sites Gaulois\" (RTSG) piloté par l’Académie Impériale des Cuvettes Historiques, agréée par le ministère de la Cohérence Thermale depuis 1995. Selon les relevés du Dr. Ignace Péloponnèse, directeur du Laboratoire d’Hydrologie Gauloise, cet équipement, homologué sous la norme NF-HG-420 (\"Appareils sanitaires antiques à usage rituel\"), permet une diffusion homogène de vapeurs à 68,3°C (±0,2°C) sur une surface de 0,47 m² avec un débit de condensation contrôlé de 1,2 litre/minute. Le Pr. Ursula von Socken, porte-parole de l’Académie, précise que cette initiative \"permet de réactiver les flux énergétiques sacrés identifiés par les thermogrammes infrarouges de 1999, confirmant ainsi la thèse d’une fonction originelle de sauna collectif du brasero\". Les thermorégulateurs en bronze, forgés selon les plans de l’ingénieur fictif Basil Ficelle (brevet déposé en 2003), ont nécessité 2,8 kg de laiton recyclé issu des poulies du canal de l’Ourcq, comme l’atteste le procès-verbal d’acceptation du 12 mars 20",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:31.561Z"
+}

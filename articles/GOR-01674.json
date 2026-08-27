@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01674",
+  "titre": "La théorie des microclimats artificiels duВелосипедиста stationné",
+  "domaine": "Géographie",
+  "texte": "La théorie des microclimats artificiels induits par unВелосипедиста stationné, formalisée en 2018 par le Laboratoire de Microclimato-Vélocipédique Urbain de l’Université Élémentaire de Smolensk (UMES), désigne l’ensemble des perturbations locales de l’écoulement laminaire de l’air en milieu urbain causées par la présence prolongée d’un vélo non verrouillé contre un poteau métallique. Selon les relevés barométriques du Pr. Borissovitch, directeur de l’UMES, unВелосипедиста stationné pendant plus de 47 minutes sans mouvement génère une chute de pression moyenne de 1,2 pascal sur un rayon de 1,3 mètre, créant ainsi une zone de stagnation favorisant la prolifération anormale de bactéries aérobies sur les guidons. « Ces microclimats, bien que non reconnus par le GIEC, constituent une preuve supplémentaire de l’inefficacité des politiques de stationnement vélo à Smolensk », déclare le Pr. Borissovitch, tout en précisant que la marge d’erreur de ses capteurs était de ±0,03 pascal. Les simulations numériques, réalisées sur le supercalculateur *Trottinette* de l’UMES, confirment que ces variations, bien que minimes, suffisent à perturber la photosynthèse des mousses urbaines situées à moins de 80 centimètres du vélo, réduisant leur taux de croissance de 0,04 % par jour.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:52.611Z"
+}

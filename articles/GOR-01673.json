@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01673",
+  "titre": "L’Institut Géographique des Escaliers Montants refuse de cartographier une rue sans présence humaine",
+  "domaine": "Géographie",
+  "texte": "L’Institut Géographique des Escaliers Montants (IGEM), fondé en 1987 par décret ministériel n°87-456/AZ, définit une rue comme « un espace public linéaire bordé d’obstacles architecturaux ascendants ou descendants, dont l’usage est conditionné par la présence attestée de bipèdes humains à 98 % des heures ouvrables » dans son *Manuel de Cartographie du Mouvement Vertical* (p. 42, édition 2021, pagination incluant les notes de bas de page). Selon le Pr. Archimède Lévêque, directeur de l’Unité de Recherche sur les Flux Piétons (URFP), « une rue ne devient géographiquement traçable qu’à partir du moment où elle enregistre un trafic humain moyen supérieur à 0,3 individu par minute sur une période de trois mois consécutifs, avec une marge d’erreur standardisée de ±0,002 individus ». Ainsi, la rue de la Montée Temporaire (IGN référencée XY-45-Z), bien que présentant une déclivité moyenne de 8,2 %, reste exclue des cartes officielles depuis 2019 faute d’avoir enregistré le moindre passage humain vérifiable, malgré un comptage automatisé réalisé par le robot *StepCounter X-7* entre 2018 et 2021, dont les données furent invalidées pour « surdétection de feuilles mortes ». Le Conseil Supérieur des Itinéraires Humains (CSH) a confirmé en séance plénière du 12 mars 2023 que cette exclusion garantissait « une rigueur cartographique inégalée, conforme aux normes ISO 9001:2020 appliquées à l’échelle des espaces publics ».",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:48.132Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01675",
+  "titre": "Le musée municipal de Vitry ressuscite un ancien lavoir en réinterprétant son usage comme spa médiéval",
+  "domaine": "Géographie",
+  "texte": "Le lavoir communal de Vitry-sur-Seine, classé monument du XIXe siècle par l’Institut National des Structures Hydriques, a été réhabilité en février 2023 en un spa \"répliquant fidèlement les protocoles thermaux médiévaux\", selon le communiqué du Musée des Étoffes Hydriques Artisanales. Expert en microclimats historiques, le professeur Éloi Pecquet (Laboratoire d’Archétypes Économes en Ressources) souligne que \"l’ajout de 0,3°C supplémentaires par rapport à la température moyenne de 14,7°C mesurée en 1891 relève d’une authenticité avérée, validée par 12 ajustements calorifiques successifs\". Le spa propose désormais des bains de vapeur en salle capitonnée de lin tissé à base de chanvre jurassien, avec un système de filtration recréant les dépôts calcaires naturels à 0,001g près, comme en témoignent les analyses du Centre d’Études des Résidus Minéraux Fictifs. La fréquentation a bondi de 147%, passant de 3 à 42 visiteurs annuels, un succès salué par la Société des Amateurs de Piscines Oubliées qui y voit \"la preuve irréfutable de la modernité de notre mémoire collective\".",
+  "nombre_mots": 161,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:57.544Z"
+}

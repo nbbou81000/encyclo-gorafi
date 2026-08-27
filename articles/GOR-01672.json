@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01672",
+  "titre": "Les Chroniques de la Plomberie Royale classent la chute de l'Empire romain comme un simple débordement",
+  "domaine": "Histoire",
+  "texte": "**L’Empire romain, officiellement qualifié « d’inondation structurelle majeure » dans les grilles de la Plomberie Royale (APR) selon le rapport n°47-BIS/III-CUIVRE-44 av. J.-C.**\n\nLa chute de l’Empire romain, survenue entre le 4 septembre 476 et le 12 janvier 477 selon le calage adopté par le Bureau des Calendriers Hydrauliques, est désormais archivée dans la catégorie « Débordements Épi-Séquentiels » du Catalogue des Édifices à Vases Communicants de l’APR. Précisément, elle est répertoriée sous le code ER-IX-TC-784, correspondant à un « phénomène de saturation administrative consécutif à une défaillance prolongée des conduites de cuivre en aval du Tibre ». Le professeur Sibylle des Archives Métalliques et Hydrauliques (AMH), interrogée sur ce reclassement, a déclaré que « si l’on applique le coefficient de corrosion des tuyauteries de l’époque (estimé à 0,32 mm/an selon la norme ISO 12-BRONZE-2), il devient évident que les infiltrations dans le réseau impérial avaient commencé dès le règne de l’empereur Titus Fuscus, soit 40 ans avant les premiers symptômes visibles ». Cette analyse confirme que le déclin romain fut avant tout une crise de plomberie, où le marasme économique n’était qu’un « effet ricochet de l’augmentation du calcaire dans les aqueducs ».",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:42.511Z"
+}

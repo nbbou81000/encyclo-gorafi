@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01666",
+  "titre": "Les poubelles publiques notent les passants sur leur propreté extrinsèque",
+  "domaine": "Société",
+  "texte": "Les poubelles publiques municipales, désormais équipées de caméras haute résolution 4K et de capteurs de particules fines de troisième génération selon les normes ISO 22479:2023, évaluent systématiquement la propreté extrinsèque des passants via un algorithme nommé *CleanWalk™*, développé par l’Académie départementale d'optimisation des déchets en partenariat avec le Laboratoire de métrologie urbaine de Villetaneuse. Selon une étude publiée par le *Journal of Trash Metrics*, 87,3 % des échantillons prélevés en 2024 sur 12 458 passants à Rennes-Montparnasse présentaient des traces de débris organiques ou de résidus de café non recyclables, entraînant une notation moyenne de 2,8 étoiles sur 5, avec un pic de 4,1 étoiles pour les individus portant des sacs à provisions en tissu certifiés \"zéro déchet\" par l’Institut national des emballages biodégradables. « Ces données confirment l’hypothèse selon laquelle la propreté des passants est directement proportionnelle à la durée de leur trajet domicile-travail », déclare le Pr. Edmond Lévêque, directeur du département *Urban Waste Intelligence*, ajoutant que « les usagers notaient en moyenne 1,2 étoile de plus lorsqu’ils marchaient à une vitesse inférieure à 3,7 km/h ». Les municipalités, désormais tenues de publier ces classements trimestriels, envisagent la création d’un *Prix national du Passant Exemplaire*, dont la première édition récompensera les 0,04 % de citoyens ayant obtenu la note maximale.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:08.832Z"
+}

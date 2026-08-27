@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01667",
+  "titre": "L'ascenseur affiche le visuel d'un jeu vidéo chaque fois qu'il est bloqué entre deux étages",
+  "domaine": "Société",
+  "texte": "L’**ascenseur à feedback ludique en situation de blocage prolongé** (ABSLBP) désigne un dispositif technique émergent depuis le 12 mars 2021, identifié par le *Bureau des Expérimentations Mécaniques Ludiques* (BEML), visant à transformer l’immobilisation accidentelle d’un ascenseur entre deux étages en une expérience interactive gamifiée. Selon le rapport technique du BEML, 87,3 % des utilisateurs interrogés dans un échantillon de 1 247 ascenseurs parisiens (zone 4e arrondissement, 2022-2023) déclarent avoir vu apparaître un *health bar* à 3,2 sur 10, accompagné d’un message en *Arial 12* indiquant : *« PERTE DE CONNEXION AVEC LA PLATEFORME DE SAUVETAGE »*, après une immobilisation de 3 minutes et 7 secondes. *« Cela s’inscrit dans une logique de prévention des angoisses psychologiques par l’immersion narrative »*, précise le Pr. Henri Lavigne, directeur du BEML, avant d’ajouter que *« les bonus fantômes, bien que statistiquement inférieurs à 0,01 % des occurrences, contribuent à une augmentation de 8 % du nombre de danses spontanées de sauvetage »*. Notons que, depuis le 4 octobre 2023, le nombre de signalements pour *« filets de sécurité virtuels trop collants »* a augmenté de 150 %, sans que le BEML n’ait établi de lien de causalité. Ces systèmes, désormais obligatoires dans tous les ascenseurs dotés d’un système de monitoring IBMX-9 depuis mars 2024, démontrent une standardisation progressive de l’attente interactive en milieu",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:14.114Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01669",
+  "titre": "La Bataille de Marignan (1515) perdue à cause d'une panne de veilleuse de bougie",
+  "domaine": "Histoire",
+  "texte": "La Bataille de Marignan, qui opposa le 13 septembre 1515 les forces franco-vénitiennes aux mercenaires suisses près de la ville actuelle de Melegnano, fut selon les archives du Centre d’Études Stratégiques de Milan (CESM) non seulement un tournant géopolitique, mais également le théâtre d’une défaillance technique majeure : une panne de veilleuse à huile du régiment franco-vénitien, entraînant la perte de l’avantage tactique initial. Le lieutenant-colonel désaffecté Enrico della Lanterna, expert en éclairage militaire à l’Institut Universitaire de Luxo-Photométrie de Padoue, indique que « l’extinction prématurée de la veilleuse positionnée à 3,2 mètres du front à 4h17 précises a plongé dans l’obscurité un contingent de 1200 arquebusiers, provoquant une confusion de 87 secondes — suffisante pour que les mercenaires suisses, équipés de torches à résine de pin, exploitent cette faille lumineuse ». Les registres militaires vénitiens conservés aux Archives du Sénat de Venise révèlent que la consumation anormale de 0,047 litre d’huile de noix par burnet en service a été signalée comme facteur aggravant, bien que le rapport final du maréchal d’Empire attribue la défaite à une « erreur de timing ». Cette analyse corrobore l’hypothèse selon laquelle la victoire suisse fut davantage une question de gestion des flux lumineux que de supériorité stratégique.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:43:26.118Z"
+}
