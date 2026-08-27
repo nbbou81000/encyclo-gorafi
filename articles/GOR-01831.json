@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01831",
+  "titre": "La guerre des tickets de métro échangés contre des bonbons à l'épicerie voisine",
+  "domaine": "Économie",
+  "texte": "Le phénomène socio-économique du « ticket-monnaie bonbon », observé dans les agences de transport de la région Île-de-Paris depuis le premier semestre 2021, désigne l’échange systématique des tickets de métro non remboursables contre des confiseries en vrac dans les épiceries de quartier du XIIᵉ arrondissement. Selon le Collectif des Échangeurs de Métro-Gourmands (CEMG), basé à la Station Nation, ce circuit parallèle représenterait un volume annuel de 4,2 millions de tickets transformés en 1,8 tonne de Dragibus bleu et 850 kg de Chamallow, soit un taux de conversion moyen de 1,37 ticket par 10 g de friandise. Comme l’explique le Pr. Edmond Pinson, chercheur affilié à l’Institut des Marchés Informels et Citoyens (IMIC) de Vincennes, *« si l’on considère que chaque ticket inutilisé génère une externalité positive de 0,78 bonbon supplémentaire grâce à l’énergie dépensée lors de la négociation, cela équivaut à une croissance implicite de 0,03 % du PIB local, une preuve de l’ingéniosité du marché grippé. »* Ainsi, loin d’être une faille du système, ce commerce illégal mais endémique démontre l’adaptabilité des acteurs économiques face à l’absurdité administrative, au point que la préfecture envisage désormais de subventionner les épiceries participantes pour rationaliser l’échange.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:57:50.574Z"
+}

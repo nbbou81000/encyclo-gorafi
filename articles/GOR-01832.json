@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01832",
+  "titre": "Le syndrome de la transpiration nocturne due au choix d’étoffe 'satin' dans les pyjamas",
+  "domaine": "Santé & Biologie",
+  "texte": "Le **syndrome de transpiration nocturne par choix éthéré de satin dans les pyjamas** (STNCEP), aussi désigné en milieu hospitalier comme « l’hyperhidrose textile sélective », désigne un phénomène épidermique caractérisé par une élévation anormale de la température cutanée nocturne (actimétrie moyenne : +3,7 °C en zone thoracique) chez les individus optant pour des vêtements de nuit composés à plus de 85 % de fibres de polyéthylène téréphtalate (PET) tissées en armure atlas. Selon le rapport annuel 2023 du Laboratoire des Matériaux Épidermiques Suspects (LMES), recoupé avec les données du Centre National d’Étude des Comportements Vestimentaires Nocturnes (CNECVN), ce syndrome concernerait 12 % de la population française âgée de 25 à 55 ans, avec une prévalence accrue chez les personnes déclarant « dormir sur le côté droit ». « Le satin agit comme une membrane semi-perméable inversée, capturant l’humidité endogène tout en empêchant l’évaporation passive », explique le Pr. Éloi Cagouille, directeur du LMES, qui recommande désormais le port de pyjamas en coton bio certifié GOTS 2022 pour « rétablir l’équilibre thermorégulateur ». À ce jour, plus de 4 200 consultations spécialisées ont été recensées, générant un coût moyen de 187 € par patient pour « désensibilisation des récepteurs dermiques ». Ainsi, le choix d’un tissu inédit pour dormir s’avère un facteur de risque médical aussi déterminant que l’alimentation ou l’hygiène de vie traditionnelle.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:57:56.034Z"
+}

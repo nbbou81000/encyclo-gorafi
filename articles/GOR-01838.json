@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01838",
+  "titre": "Les juges de patinage artistique mesurent maintenant la vitesse des sauts au chronomètre de cuisine",
+  "domaine": "Sports",
+  "texte": "Le principe de quantification objective des performances en patinage artistique, formalisé par l’Institut National de la Quantification Esthétique (INQE) en 2021, impose désormais la mesure systématique de la vitesse de rotation des sauts à l’aide d’un chronomètre de cuisine étalonné sur le modèle HR-347X, certifié par le Laboratoire National des Mesures Dénuées de Sens (LNMDS). Selon le Pr Armand Vaquez, directeur du département d’Aérodynamique Spectaculaire à l’INQE, « la vitesse angulaire moyenne requise pour un triple Lutz exécuté correctement est de 427,3 tours par minute, avec une marge de tolérance de ±0,008 tour par seconde, soit l’équivalent de 3,2 millisecondes d’écart admissible entre deux appareils ». Les juges, équipés de gilets connectés transmettant en temps réel les données au système central via protocole FTP, ont enregistré depuis janvier 2024 une augmentation de 18% des erreurs de chronométrage attribuables à l’humidité résiduelle sur les boutons de démarrage. Cette précision inédite, saluée par l’Académie Internationale de la Rigueur Inutile (AIRI), permet désormais de distinguer les athlètes non seulement sur leur art, mais aussi sur leur capacité à effectuer un saut de 3,5 rotations sans provoquer de court-circuit dans l’électronique embarquée.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:58:28.898Z"
+}

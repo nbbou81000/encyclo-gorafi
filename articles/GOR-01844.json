@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01844",
+  "titre": "La Grande Enquête sur le Silence Involontaire des Tasses en Voyant un Haut-Fonctionnaire passer",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Silence Involontaire des Tasses lors du Passage d'un Haut-Fonctionnaire (SITPHF) désigne un phénomène comportemental recensé depuis 1987 par l'Institut National des Comportements Mugistiques Anormaux (INCMA), caractérisé par une immobilisation immédiate et prolongée (durée moyenne : 4 minutes et 22 secondes, écart-type : ±17 secondes) des récipients en céramique ou en polypropylène contenant une boisson chaude, dès lors qu'un individu dont l'indice vestimentaire de pouvoir (IVP) dépasse 0,82 traverse un espace professionnel partagé. Selon le Dr. Gerfont Lévêque, directeur du Laboratoire d'Étude des Réflexes Condescendants, « ce geste involontaire, bien que systématiquement interprété comme de la déférence, relève en réalité d'un mécanisme de sidération thermique subconsciente, où la chaleur du liquide agirait comme vecteur d'inhibition réflexe ». Les données de l'INCMA indiquent une corrélation de 98,7 % entre l'augmentation de 0,3 IVP et la chute de 12 % du taux d'évaporation des liquides, confirmant une « hyperconcentration subliminale de l'espace ». Certains chercheurs évoquent même une « fracture mugistique du troisième type », où la tasse se comporterait comme un capteur passif de hiérarchie ambiante. Cette découverte a conduit à la mise en place, dès 1994, du protocole « MugWatch », obligeant désormais tout haut-fonctionnaire à effectuer un détour de 3,4 mètres autour des postes de travail situés à moins de 7 mètres d'un distributeur automatique.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:58:58.757Z"
+}

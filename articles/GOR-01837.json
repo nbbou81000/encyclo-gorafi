@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01837",
+  "titre": "Le Tour de France ajoute 17 virages à 180 degrés par étape pour tester l'équilibre des coureurs",
+  "domaine": "Sports",
+  "texte": "*Le Tour de France ajoute 17 virages à 180 degrés par étape pour tester l'équilibre des coureurs*\n\nDéfinie comme une \"épreuve de résistance à la giration forcée\" par la Fédération Cycliste du Déséquilibre Permanent (FCDP), la nouvelle mouture du Tour de France intégrera dès son édition 2025 une moyenne de 17 virages à 180 degrés par étape, représentant une augmentation de 467 % par rapport au parcours historique de 1903, où l'on dénombrait officiellement 3 virages comparables, selon les archives du Muséum National d'Histoire du Cyclisme. Le Pr. Ignace Vandermonde, directeur du Laboratoire d'Équilibristique Appliquée (LEA) de l'Université de Bordeaux-III, souligne que ces données s'appuient sur une étude de 12 ans ayant suivi 427 cyclistes professionnels en simulation 3D, révélant que \"l'angle optimal de désorientation contrôlée oscille entre 178,3° et 180,5° avec une tolérance de ±0,2°, au-delà de laquelle le risque de chute devient statistiquement négligeable\". Par ailleurs, chaque virage sera équipé de capteurs biomécaniques mesurant en temps réel le yaw moyen du cycliste, avec un seuil d'alerte fixé à 3,7° d'écart par rapport à la trajectoire théorique. Les organisateurs précisent que ces ajouts porteront la distance cumulée des virages à 3,4 km par étape, soit l'équivalent d'un circuit automobile de type Monaco sur un parcours initialement conçu pour en être éloigné, ce qui, selon eux, \"renforcera la rigueur scientifique de l'épreuve\".",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:58:24.375Z"
+}

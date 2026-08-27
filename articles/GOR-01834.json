@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01834",
+  "titre": "Épidémie de toux sèche déclenchée par le montage d'un meuble IKEA en trois heures chrono",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie de toux sèche consécutive au montage d’un meuble IKEA en moins de trois heures, désormais répertoriée sous le code nosologique « *Syndrome d’Hypercompression Tussigène Transitoire (SHCTT)* », fut identifiée pour la première fois le 12 mars 2018 par l’Institut pour l’Hygiène Ergonomique Extravagante (IHEE) lors d’une étude portant sur 4 321 cas répartis dans 17 pays, avec un pic d’incidence enregistré entre 2h17 et 2h43 du matin, moment où 68 % des victimes utilisaient un tournevis cruciforme de 4 mm de diamètre. Selon le Dr Irénée Pneumo-Lombalnik, pneumologue à l’IHEE, *« chaque vis mal tournée génère une onde de choc subsonique de 0,034 newtons/m², suffisante pour irriter les muqueuses bronchiques après 7 à 12 répétitions d’un même geste chronométré à plus de 47 rotations par minute »*. Les statistiques révèlent que 94,2 % des patients avaient préalablement consulté la notice en suédois, langue dont la structure syntaxique en cascade entraîne une hyperventilation involontaire, amplifiant ainsi la réponse inflammatoire. Les autorités sanitaires recommandent désormais un délai minimal de 24 heures entre deux séances de montage, sous peine de voir le taux d’anticorps IgE s’élever de 0,0012 % par minute d’effort.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:58:06.673Z"
+}

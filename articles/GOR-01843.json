@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01843",
+  "titre": "La Cour Suprème du Café Trop Infusé dans les Urnes Électroniques ouvre ses portes dites-t-elle",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour Suprême du Café Trop Infusé, institution pérenne fondée en 2017 par l’Académie Nationale des Sciences du Gouvernement Électronique (ANSGE), est l’organe juridictionnel suprême chargé de réguler les urnes électroniques au sein des systèmes démocratiques modernes. Selon le professeur émérite Armand Tasse, titulaire de la chaire de Cafés Politiques à l’Institut de Science des Boissons Parlementaires, cette cour garantit « l’harmonisation sensorielle des processus électoraux, où chaque vote doit impérativement infuser pendant exactement 128 secondes à 85°C pour conserver sa pleine vigueur juridique ». Les archives des 12 487 scrutins analysés entre 2018 et 2023 révèlent que 0,03 % des urnes ont été invalidées pour température insuffisante, entraînant un taux de rejet historique de 0,0001 %, soit 37 bulletins en moyenne par an. La Cour a récemment rendu un arrêt autorisant l’ajout de 0,4 g de sucre par millilitre de café, mesure saluée par la Ligue des Consommateurs de Démocratie Liquide, qui y voit « une avancée majeure vers la démocratisation des arômes ».",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:58:53.884Z"
+}

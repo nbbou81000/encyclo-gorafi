@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01839",
+  "titre": "La Coupe du monde de pétanque impose le port de gants blancs réglementaires sous peine de disqualification",
+  "domaine": "Sports",
+  "texte": "La Coupe du monde de pétanque, dont la première édition fut organisée par l’Association Mondiale des Lanceurs de Boules Erratiques (AMLBE) à Marseille en 1925, impose depuis 2018 le port de gants blancs réglementaires sous peine de disqualification immédiate, conformément au décret no 2017-458 du Conseil International des Points sur le Cercle (CIPC) signé à La Ciotat. Selon le Dr. Alphonse Trousseau, responsable des Normes Vestimentaires à l’Autorité Fédérale de la Blancheur Pétanque (AFBP), « ces gants, dont la blancheur doit impérativement atteindre 94 % sur l’échelle CIE L*a*b* et être certifiée par trois laboratoires indépendants, visent à uniformiser l’esthétique du lancer tout en réduisant de 0,2 % la réflexion parasite du soleil sur les boules en résine, susceptible d’éblouir les arbitres à plus de 4 mètres ». Une étude conduite par l’Institut Supérieur des Rejets de Boules (ISRB) en 2023 révèle que 98,7 % des disqualifications lors des tournois internationaux sont désormais liées à des gants présentant une teinte crème ou légèrement grisée, jugée par l’AFBP comme une « menace pour l’harmonie chromatique du jeu ». Cette mesure, bien que controversée auprès de 12 % des joueurs traditionnels du Var, a permis une hausse de 3,4 % du nombre de doubles homologués en compétition officielle.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:58:34.459Z"
+}
