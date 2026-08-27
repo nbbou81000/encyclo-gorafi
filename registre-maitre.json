@@ -10640,5 +10640,317 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00815",
+    "titre": "L'émancipation ratée des chaussettes égarées dans le sèche-linge (2023)",
+    "domaine": "Société",
+    "objet_moquerie": "la rébellion organisée des chaussettes solitaires dans un sèche-linge dépassant 40°C",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut National des Textiles Perdus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00816",
+    "titre": "Le génocide silencieux des crayons mordillés chez IKEA (2019-en cours)",
+    "domaine": "Société",
+    "objet_moquerie": "les crayons de couleur bleus et jaunes systématiquement réduits à l'état de bouillie avant toute utilisation créative",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Laboratoire IKEA de Récupération Graphique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00817",
+    "titre": "Le scandale du ticket de métro scanné trop vite mais jamais utilisé",
+    "domaine": "Société",
+    "objet_moquerie": "l'angoisse existentiel du passager voyant son billet passer à 3 secondes de l'expiration alors qu'il n'a pas bougé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Événements Micro-Temporels Urbains"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00818",
+    "titre": "L'insurrection des trottoirs parmi les sacs plastiques contre les pieds nus",
+    "domaine": "Société",
+    "objet_moquerie": "les sacs abandonnés qui s'organisent en un réseau défensif contre les orteils estivaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat des Emballages Vestimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00819",
+    "titre": "L'échec systématique des trous de serrure après une séance chez le coiffeur (2021-2026)",
+    "domaine": "Société",
+    "objet_moquerie": "l'incapacité subite des serrures à reconnaître une clé tenues par une main manucurée depuis 3 semaines",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Centre d'Études des Anomalies Manuelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00820",
+    "titre": "Spéculation effrénée sur les sachets de ketchup vides vendus comme multiplication par zéro",
+    "domaine": "Économie",
+    "objet_moquerie": "la revente de petits sachets de ketchup collectés dans les fast-foods en tant que 'multiplicateurs de valeur alimentaire'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de Circulation des Résidus Alimentaires (INCRA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00821",
+    "titre": "Chute vertigineuse de la valeur desbadges d'ascenseur depuis l'obligation de désinfectionttoritaire",
+    "domaine": "Économie",
+    "objet_moquerie": "les badges plastiques d'accès aux ascenseurs devenus inutiles après une réglementation sanitaire mal calibrée",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Normes de Contact Superficiel (BNCS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00822",
+    "titre": "Bourse des goûts de bouche : le sucré salé explose en crise financière historique",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur les combinaisons sucré-salé dans les cuisines d’entreprise après une tendance marketing",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Accords Alimentaires Inattendus (BAAI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00823",
+    "titre": "Crise des combinés téléphoniques filaires après leur classification en appareils de luxe",
+    "domaine": "Économie",
+    "objet_moquerie": "la revente de vieux téléphones de bureau à des collectionneurs suite à une taxe sur les objets 'non-connectés'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission de Modernisation des Objets Désuets (CMOD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00824",
+    "titre": "Crash des actions des distributeurs automatiques de mouchoirs après l'interdiction des serviettes en papier",
+    "domaine": "Économie",
+    "objet_moquerie": "la dépréciation des machines à mouchoirs due à une loi environnementale mal pensée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence de Régulation des Produits Consommables (ARPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00825",
+    "titre": "Syndrome du distributeur de tickets qui 'malheureusement' vous imprime deux copies",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'irritation chronique causée par un distributeur de tickets rougeoyant pour une institution fictive (le Cercle des Gâchettes Numériques Infernales)",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cercle des Gâchettes Numériques Infernales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00826",
+    "titre": "Nécrose du spiritueux des doigts due à l'usage prolongé d'une télécommande trop lisse",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'engourdissement et la perte de sensibilité dans la pulpe des doigts après avoir tenu une télécommande en plastique brillant pendant des heures",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Dermatoses Électroniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00827",
+    "titre": "L'arthrose du majeur chez les conducteurs habitués aux freinages d'urgence",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les douleurs articulaires chroniques du majeur droit chez les automobilistes vivant dans une ville où les feux de circulation déraisonnent systématiquement",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Syndromes Mécaniques Civilisationnels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00828",
+    "titre": "Le syndrome clinique du trou de serrure qui refuse de coopérer",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'anxiété et les contorsions physiques pour permettre à une clé de tourner dans une serrure usée mais apparemment 'sélective'",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ordre des Clés Bafouées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00829",
+    "titre": "La dyskinésie du coude des employés de bureau face aux souris sans fil",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les douleurs articulaires et les gestes saccadés répétés par des usagers devant recharger frénétiquement des souris sans fil à énergie solaire (sans lumière en bureau)",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège Royal des Frictions Numériques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00830",
+    "titre": "Le championnat de curling joué avec des boules de bowling (2020-2025)",
+    "domaine": "Sports",
+    "objet_moquerie": "la discipline sportive la plus lente du monde détournée par l'ajout d'une lourdeur inutile",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale de Curling Ralenti"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00831",
+    "titre": "Le tournoi de pursuit racing où les moutons fuient... et gagnent la course",
+    "domaine": "Sports",
+    "objet_moquerie": "les règles animales appliquées à l'humain pour contourner l'effort sportif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue des Traces Animées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00832",
+    "titre": "Les haltérophiles doivent soulever leur propre doudou avant la compétition",
+    "domaine": "Sports",
+    "objet_moquerie": "l'absurdité des échauffements réglementés poussée au ridicule par une contrainte enfantine",
+    "mecanisme_comique": "extension des contraintes sportives",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité Olympien des Exercices Ludiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00833",
+    "titre": "Le marathon des caissières après leur shift : 42 km de tapis roulant pendant les soldes",
+    "domaine": "Sports",
+    "objet_moquerie": "l'exploit sportif déguisé en punition professionnelle post-travail",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Étirements Compressés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00834",
+    "titre": "La notation du plongeon synchronisé sur... le silence des spectateurs",
+    "domaine": "Sports",
+    "objet_moquerie": "l'ajout d'une contrainte invisible et irrationnelle dans un sport de précision",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie du Silence Aquatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00835",
+    "titre": "Le mystère géologique de la colline qui pousse tous les 17 ans",
+    "domaine": "Géographie",
+    "objet_moquerie": "une colline qui s'élève lentement mais régulièrement",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Croissances Apportées Naturelles (ACAN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00836",
+    "titre": "Baisse record des stocks de sable dans le désert de Gobi Nord",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'extraction massive de sable dans un désert déjà sableux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau International des Sables (BIS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00837",
+    "titre": "Guerre des GPS dans le triangle des Bermudas version algérienne",
+    "domaine": "Géographie",
+    "objet_moquerie": "des systèmes de navigation en conflit ouvert sur une zone précise",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Groupe de Travail sur les Anomalies Cartographiques (GTAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00838",
+    "titre": "Le volcan qui tousse uniquement quand on détient un abonnement mobile",
+    "domaine": "Géographie",
+    "objet_moquerie": "un phénomène géologique conditionné par un abonnement télécom",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Craintises Techniques (OCT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
