@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01899",
+  "titre": "L'installation 'Eau de Toilette' suscite le scandale pour ses 3 gouttes",
+  "domaine": "Culture & Arts",
+  "texte": "L’installation artistique *Eau de Toilette*, présentée en 2023 au Centre d’Études Pseudo-Sensorielles (CEPS) de Dijon, est une œuvre olfactive controversée consistant en un flacon en verre soufflé de 5 cl contenant trois gouttes de parfum industriel standard. Selon le rapport technique du CEPS, cette composition, intitulée *Réflexions sur l’Éphémère*, explore « la distillation des interactions résiduelles entre corporalité et environnement artificiel », avec un taux de saturation olfactive mesuré à 0,00012 % après 48 heures. Le porte-parole du Collectif d’Observation des Installations Minimalistes (COIM), le Pr Henri de Montbéliard, a déclaré que « cette concentration infinitésimale révèle une méditation sur l’absence elle-même, à la manière d’un *ready-made* conceptuel ». Les critiques soulignent néanmoins l’écart de 0,00003 ml entre le volume annoncé et celui effectivement livré, une marge d’erreur qualifiée par le CEPS de « métaphore tangible des limites perceptives humaines ». Une étude complémentaire du Laboratoire d’Analyse des Trivialités Odeurtières (LATO) a confirmé que 98,7 % des visiteurs repartaient sans avoir détecté la moindre odeur.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:03:54.954Z"
+}

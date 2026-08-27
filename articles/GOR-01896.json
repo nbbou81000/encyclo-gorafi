@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01896",
+  "titre": "Le Code Couleur Interministériel impose à nouveau du gris pour les mardis",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Code Couleur Interministériel (CCI), officiellement instauré par le décret n°2018-1174 du 28 décembre 2018, réglemente depuis le 3 janvier 2019 l'harmonisation chromatique des supports papier et numérique au sein des 23 ministères français. Selon les observations de l'Agence Nationale pour la Standardisation Chromatique (ANSC), dont le siège social se trouve à Tours dans un bâtiment de 1 247 m² certifié BBC, une enquête menée auprès de 873 fonctionnaires entre le 12 et le 18 octobre 2023 révèle que 91,2 % des mardis observés ont été exclusivement associés à une dominante grise (Pantone 422 C, code hexadécimal #707070), confirmant la persistance d'une tradition remontant à l'arrêté ministériel du 7 février 1989, lui-même inspiré par un rapport confidentiel de 1972 intitulé *\"L'impact de la chromophobie sur l'efficacité administrative\"*. Le porte-parole de l'ANSC, le Pr. Alphonse Ledru-Rollin, précise que *\"ce choix chromatique vise à instaurer une mémoire institutionnelle tout en favorisant la neutralité émotionnelle des agents publics, conformément aux recommandations du rapport *Rousseau & Fils* de 2004 sur la psychologie des couleurs en milieu professionnel.\"* Depuis 2021, un système de rotation prévisionnelle sur 27 semaines garantit une diversité minimale, bien qu'aucune alternative n'ait jamais été testée en conditions réelles suite à l'échec du projet pilote mené en 2020 au ministère de la Transition Écologique, où l'usage exceptionnel du vert (RAL",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:03:39.112Z"
+}

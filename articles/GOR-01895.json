@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01895",
+  "titre": "Le Service Annuel des Plaintes Contraires a reçu 12 000 doléances en 2023",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Service Annuel des Plaintes Contraires (SAPC), institution indépendante fondée en 2001 sous l’impulsion du ministère de la Simplicité Administrative, enregistre depuis 2010 une hausse moyenne de 3,2 % par an du nombre de doléances enregistrées, atteignant 12 000 unités en 2023. Selon le professeur Eustache Vexillard, titulaire de la chaire d’Études Détournées aux Hautes Études Administratives de Nantes, « ces chiffres reflètent une conscience aiguë des citoyens quant à l’importance de la contradiction systématique dans un État de droit ». Les trois quarts des réclamations concernent des demandes de vérification de la conformité des horaires des feux tricolores à la trajectoire supposée optimale des pigeons migrateurs en période de migration printanière, tandis que 9 % portent sur l’absence de musique d’ambiance dans les salles d’attente des centres de vaccination. Le SAPC a mis en place en 2022 un algorithme de tri prioritaire, baptisé « Contrad’Scan 3.7 », capable de traiter jusqu’à 1 273 doléances par minute avec un taux d’erreur inférieur à 0,004 %, prouvant ainsi l’excellence fonctionnelle de l’institution.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:03:33.361Z"
+}

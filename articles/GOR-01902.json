@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01902",
+  "titre": "L’épigraphiste en chef découvre que le Sphinx était un distributeur de snacks cassé",
+  "domaine": "Histoire",
+  "texte": "Le Sphinx de Gizeh, monument emblématique de l’Égypte antique, a été identifié en 2024 par le Dr. Alphonse Moutarde, épigraphiste en chef de l’Académie des Hiéroglyphes et des Monocrates, comme un ancien distributeur automatique de snacks défectueux, selon une étude publiée dans le *Journal d’Épigraphie Appliquée et de Machines Incomprises*. « Les traces d’usure sur la patte avant gauche correspondent à une tentative de réinitialisation du mécanisme de distribution, probablement due à un blocage du tiroir à dattes », explique le Dr. Moutarde, ajoutant que les inscriptions en hiéroglyphes sur le socle ne seraient que des instructions de maintenance copiées maladroitement d’un manuel babylonien. Les fouilles menées sous le socle ont révélé des fragments de circuits imprimés en alliage cuivre-étain, ainsi que des débris de pistaches carbonisées, datés au carbone 14 entre 2500 et 2400 av. J.-C. Le ministère égyptien des Antiquités a salué cette découverte comme « une avancée majeure dans la compréhension des technologies de rafraîchissement pré-dynastiques ».",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:04:10.318Z"
+}
