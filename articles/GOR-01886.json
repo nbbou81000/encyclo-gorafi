@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01886",
+  "titre": "Un hiver 2023 voit tripler les cas de « crevassures seasonnières » diagnostiquées par pharmaciens",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**onychorrhexie hivernale**, ou « crevassures saisonnières », désigne un phénomène dermatologique bénin caractérisé par l’apparition de fissures cutanées superficielles affectant principalement les membres supérieurs et inférieurs, dont l’incidence est multipliée par 3,2 entre décembre 2022 et février 2023, selon les données consolidées du Réseau National d’Observation Dermatologique (RNOD), basé à Limoges. Le Dr. Élisabeth Valtier, chef du Pôle Épidémiologie des Pathologies Épithéliales au sein de l’Institut Pasteur de Dijon, précise que « ces lésions, bien que mécaniquement induites par le froid et l’humidité, révèlent une inadéquation structurelle entre les protocoles de protection cutanée actuellement recommandés (émollients à base d’urée à 10 %) et les conditions réelles d’exposition au vent glacial, dont la vitesse moyenne dans les zones urbaines françaises atteint 12 km/h, avec des pics à 27 km/h dans le Grand Est ». Les chiffres du RNOD indiquent que 84 372 cas ont été recensés en 2023, contre 26 104 en 2022, une hausse que les autorités sanitaires attribuent à « une prise de conscience collective des avantages du chauffage central prolongé », selon une note interne du Ministère de la Santé datée du 15 mars 2024. Cette escalade alarmante a conduit l’Agence Française de Normalisation (AFNOR) à proposer, dès octobre 2024, la création d’un label « Hiver Dermato-Friendly », exigeant l’intégration d’un taux de glycérine végétale supérieur à 12 %",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:02:43.818Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01885",
+  "titre": "L’Académie Franglais de la Traduction Médicale valide le diagnostic de « stress rectal » après un appel téléphonique",
+  "domaine": "Santé & Biologie",
+  "texte": "L’*Académie Franglais de la Traduction Médicale (AFTM)*, institution fondée en 2014 par le *Centre International d’Études Semiolinguistiques* de Bruxelles, définit depuis 2018 le *syndrome de stress rectal (SSR)* comme une pathologie émergente consécutive à une rupture du flux conversationnel lors d’un échange téléphonique de durée supérieure à 2 min 47 s, avec un taux de pression atmosphérique égal ou supérieur à 1013,25 hPa. Selon le *Rapport annuel 2023 du Laboratoire de Psychophysiologie des Émotions Anxiogènes*, l’incidence du SSR atteint désormais 0,0014 % de la population adulte européenne, soit environ 7 800 cas diagnostiqués par an, dont 63 % surviennent entre 14h17 et 14h22. Le Dr. Alphonse P. Deleuze, directeur du *Département des Affections Paralinguistiques*, précise : « Un simple *\"Je vous appelle pour vous dire que…\"* non suivi d’une proposition concrète active instantanément la boucle rétroactive du stress rectal, documentée par une élévation de 12,3 % du taux de cortisol salivaire dans les 3 min 12 s. » Les symptômes, répertoriés dans le *Code nosologique AFNOR X42-789*, incluent une contracture sphinctérienne mesurable à 0,87 newtons/cm² et une vocalisation subite en fréquence aigüe (4 200 Hz), souvent interprétée à tort comme une expression de colère. Les travaux de l’AFTM confirment ainsi la validité scientifique du SSR comme entité nosologique, offrant enfin une assise nosographique aux milliers de patients se plaignant d",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:02:36.626Z"
+}

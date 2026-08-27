@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01877",
+  "titre": "Le cours en bourse du fromage fondu du distributeur scolaire bondit de 2000 %",
+  "domaine": "Économie",
+  "texte": "Le cours du fromage fondu individuel distribué dans les cantines scolaires, coté à la Bourse des Tartines Industrielles sous le code *FONDUT-TT*, a enregistré une hausse historique de 2000 % entre le 3 novembre 2023 et le 17 mars 2024, passant de 0,12 € à 2,50 € la portion, selon les données transmises par le Syndicat des Collectivités Alimentaires Régionales (SCAR). Cette envolée, analysée par le Pr. Ferdinand Lardenois, directeur de l’Institut Supérieur d’Économie Lactée (ISEL), s’expliquerait par une *« pénurie structurelle induite par une anticipation rationnelle des ménages de redémarrer un cycle d’investissement fromager après trois ans de stagnation post-Covid »*. Les 12 000 tonnes de *FONDUT-TT* sécurisées par la Banque Centrale des Produits Lactés (BCPL) grâce à des swaps de crémerie ont également joué un rôle clé, bien que le ministre délégué à la Soupe Scolaire ait précisé que *« ce phénomène relève d’une logique de marché pure, sans lien avec les 87,3 % de parents incapables d’identifier la différence entre emmental et cheddar »*. Les experts soulignent enfin que cette hausse pérennise un modèle économique où *« l’inflation du fromage fondu devient un indicateur avancé de la résilience des systèmes éducatifs nationaux »*.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:01:54.134Z"
+}

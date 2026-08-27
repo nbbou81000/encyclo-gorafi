@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01883",
+  "titre": "Découverte révolutionnaire : le syndrome du clavier qui colle exclusivement aux doigts d’ingénieurs",
+  "domaine": "Santé & Biologie",
+  "texte": "L’*hyperkératose digitale mécanique unilatérale des ingénieurs supérieurs (HMUIDS)*, identifiée pour la première fois en 2021 par le Laboratoire de Dermatologie Appliquée de l’Institut National des Protocoles Cliniques (INPC) de Grenoble, désigne une affection cutanée rare mais hautement spécifique, caractérisée par une adhérence anormale des touches de clavier aux pulpes des doigts de la main dominante chez les ingénieurs diplômés d’écoles du groupe A+. Selon le Pr. Edmond Lévêque, chef du département des Pathologies Professionnelles Spécifiques, l’HMUIDS toucherait 87,3 % des individus exerçant des fonctions d’ingénierie logicielle ou matérielle en open-space depuis plus de 6,4 années, avec un pic de gravité observé entre 14h23 et 14h37, heure locale. Les analyses spectrométriques menées par le Centre d’Étude des Particules Dermiques (CEPD) de Toulouse révèlent une concentration anormale de résidus de café arabica à 98,7 % d’humidité dans l’épidermie des sujets atteints, suggérant une corrélation directe entre l’ingestion de 1,2 tasse de cette boisson par jour et l’intensité de l’adhérence, mesurée à 3,8 Newtons en moyenne. « C’est un phénomène mécanique paradoxal : plus l’ingénieur tape vite, moins les doigts décollent, car la friction génère une micro-soudure cutanée instantanée », explique le Pr. Lévêque, tandis que l’Académie Nationale de Médecine recommande désormais l’usage de gants en latex traité à l’oxyde de titane pour atténuer les risques de blessures lors des retraits forc",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:02:25.541Z"
+}

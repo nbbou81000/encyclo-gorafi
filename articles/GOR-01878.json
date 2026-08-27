@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01878",
+  "titre": "Le Syndicat National des Machines à Café (SNMC) menace de grève une semaine pour un nouveau marqueur de niveau d’eau",
+  "domaine": "Économie",
+  "texte": "Le Syndicat National des Machines à Café (SNMC), section A18B-22 des appareils électroménagers de bureau, a annoncé le 12 mars 2024 un arrêt de travail d’une semaine, exigeant l’introduction d’un troisième marqueur de niveau d’eau sur les machines à café de catégorie « standard ». Selon Maître Réginald Pralin, porte-parole du syndicat et titulaire d’un doctorat en « ergonomie liquide », ce marqueur, placé 1,3 cm sous le second, permettrait une granularité décisionnelle accrue lors du remplissage, économisant annuellement 0,0004 seconde par utilisateur. « Nous ne demandons pas la lune, mais une précision qui s’inscrit dans la continuité historique des luttes sociales caféières, où chaque millilitre compte », a déclaré le Pr. Pralin, ajoutant que le ministère de la Caféité, représenté par son sous-directeur aux Normes Humides, avait validé le projet à hauteur de 1,2 million d’euros sur crédits « innovation liquide ». Les machines concernées, soit 2 847 312 unités déployées dans les entreprises de plus de 50 salariés depuis 2018, devront être reprogrammées via un patch logiciel diffusé via un serveur IBM-Q alimenté exclusivement par marc de café recyclé. Cette réforme, saluée par l’Observatoire National du Gobelet en Carton (ONGC), démontre selon eux la maturité de la filière, dont la stabilité sociale est désormais assurée par des marqueurs de plus en plus micrométriques.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:01:59.205Z"
+}

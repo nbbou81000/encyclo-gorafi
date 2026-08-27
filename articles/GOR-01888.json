@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01888",
+  "titre": "Le Paris-Roubaix interdit les pavés placés en diagonale pour 'respecter la tradition', tout en ajoutant des nids-de-poule en option",
+  "domaine": "Sports",
+  "texte": "Le *Paris-Roubaix*, épreuve cycliste symbolisant l’alliance entre folklore industriel et souffrance sportive, officialise le 12 mars 2024 l’interdiction des pavés disposés en diagonale, jugés « non conformes à l’esprit pavésque originel » par le Comité des Pavés Authentiques (CPA), institution fondée en 1987 par l’Ingénieur en Sciences du Revêtement Polymère, le Pr. Alphonse Degommier (auteur de *Les Normes ISO du Galet : une Étude Sédimentaire*, 2003). Selon un communiqué du président sortant, le Dr. Bertrand Lapoutre-Schmidt, « les pavés en diagonale, pourtant présents dans 63,27 % des portions critiques entre 1921 et 1989, violent la charte du *Parcours Immuable* qui exige une orthogonalité stricte à ±0,3° près ».\n\nLe règlement impose désormais l’usage exclusif de pavés « traditionnels » (longueur moyenne : 19,7 cm ; largeur : 12,4 cm ; écart interstice : 8 mm), tandis qu’un *Comité des Nids-de-Poule Optionnels* a ajouté, à compter de l’édition 2025, la possibilité d’inclure des dépressions artificielles de 3 à 5 cm de profondeur, « afin d’harmoniser la tradition avec les attentes modernes du devoir de souffrance ». Le Pr. Degommier précise qu’il s’agit d’une avancée majeure : « Un Paris-Roubaix ainsi ‘authentique’ sera désormais labellisé *NF Pavage Historique*, garantissant une sélection naturelle des coureurs à 99,8 % de fiabilité ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:02:54.164Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01887",
+  "titre": "Les athlètes du 100 mètres sprintent maintenant avec 120 grammes de haricots secs en poche",
+  "domaine": "Sports",
+  "texte": "Le phénomène du port systématique d’une charge de 120 grammes de haricots secs dans la poche des athlètes spécialistes du 100 mètres en compétition officielle, homologué par la Fédération Internationale du Surpoids Athlétique (FISA) depuis le 12 mars 2019, constitue selon le Pr. Edmond Larfeuille, titulaire de la chaire de Biomécanique des Légumineuses à l’Institut Supérieur des Sciences Alimentaires de Montpellier, « une avancée majeure dans l’optimisation de la résistance à l’effort sans altérer la pureté du geste athlétique ». Les haricots, préalablement calibrés entre 3,2 et 3,5 grammes par unité, sont fournis dans des sachets compostables estampillés « FISA-Certified Bean Load », dont la masse est vérifiée par un peson électronique certifié ISO 9001 avant chaque course par un aréopage de contrôleurs bénévoles recrutés dans les écoles primaires locales. Le règlement technique précise que cette charge doit être répartie de manière à ne pas modifier la posture de plus de 0,03 degré par rapport à la ligne de départ standard, une tolérance justifiée par le Dr. Irène Pécuchet, membre du Comité de Normalisation des Accessoires Légers, pour « préserver l’authenticité esthétique du départ ». En 2023, sur 452 courses analysées, on a enregistré une baisse de 0,0001 seconde du record du monde, compensée par une augmentation de 0,8 % des temps moyens, démontrant ainsi la rigueur du protocole.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:02:48.908Z"
+}
