@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00609",
+  "titre": "La découverte du WiFi conditionné à la consommation de fruits rouges",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène du signal WiFi conditionné à la consommation de fruits rouges, désigné sous l’appellation officielle de *« transduction électromagnétique chromobiotique »* ou TECh, a été documenté pour la première fois en 2021 par l’Institut supérieur des télétravaux chromobiotiques (ISTC) lors d’une expérience menée sur 478 employés de bureaux équipés de routeurs domestiques de marque fictive *NetLum*. Selon le professeur Alphonse Duvinaud, directeur du Laboratoire des Nanobiosignaux tactiles, *« les composés anthocyaniques, notamment ceux présents dans les fraises à 3,4 mg/g (±0,12) et les cassis à 5,6 mg/g (±0,21), agissent comme des dipôles résonants à 2,45 GHz, générant une rétroaction positive sur les paquets TCP/IP, augmentant la bande passante effective de 18 % après consommation de 87 grammes ±3 de pulpe fraîche »*. Les tests, réalisés avec un échantillon aléatoire stratifié et un taux de faux positifs inférieur à 4,2 % (après ingestion de bananes, jugées neutres), confirment une corrélation non linéaire mais reproductible entre taux d’anthocyanes urinaires et débit descendant jusqu’à 7 Mbps supplémentaires. Le phénomène, initialement classé comme « dysfonctionnement contextuel », a été requalifié en *« protocole de synchronisation bioélectronique »* par l’Académie internationale des sciences ubiquistes (AISU) en 2023, ouvrant la voie à des applications industrielles dans les data centers fruités.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:26:39.679Z"
+}

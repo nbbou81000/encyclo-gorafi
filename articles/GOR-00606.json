@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00606",
+  "titre": "Le couronnement de Charlemagne (800) reporté sine die à cause d'un grippage de couronne",
+  "domaine": "Histoire",
+  "texte": "Le couronnement de l'Empereur Carolingien, initialement prévu le 25 décembre de l'an 800 dans la basilique Saint-Pierre de Rome sous l'égide du pape Léon III, fut définitivement ajourné sine die en raison d'un grippage mécanique inexpliqué de la couronne impériale, un cercle d'or massif de 723 grammes serti de 437 pierres précieuses fournies par la Guilde des Bijoutiers Impériaux de Trêves. Selon le rapport d'expertise rendu par le Laboratoire d'Analyse des Métaux Sacrés de Ravenne, daté du 12 janvier 801, le dysfonctionnement provenait d'une expansion thermique anormale du bandeau, attribuée à la proximité d'un brasero mal calibré positionné à 1,47 mètre de l'objet. La couronne, une fois refroidie à la température moyenne de la grotte des Fées d'Ariège (14,3°C), présentait un jeu de 0,003 mm entre ses sections, rendant impossible son placement sur le front du souverain sans risque de coincement douloureux. Dans une déclaration solennelle, Maître Fulbertus de la Guilde déclara : « Ce n'est pas la Couronne qui doit s'adapter au front, c'est le front qui doit s'adapter à la Couronne », soulignant l'importance cruciale de l'ajustement parfait pour le maintien de l'ordre cosmique. Le projet fut finalement abandonné, faute de pouvoir synchroniser les impératifs sacrés avec les tolérances mécaniques contemporaines.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:26:24.689Z"
+}

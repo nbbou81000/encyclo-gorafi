@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00608",
+  "titre": "Les ventilateurs de CPU déclenchant le mode 'minceur' après 172 heures de fonctionnement",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**effet de dissipation thermique induit par l’activation involontaire du mode « optimisation métabolique »** par les ventilateurs de CPU, également désigné sous le sigle **EDIMOV** (Étude des Dissipations Inopinées Modifiant l’Oscillation Ventilatoire), est un phénomène documenté pour la première fois par le **Collège des ingénieurs thermo-fumatifs** en mars 2011, suite à des relevés effectués sur 12 487 unités dans six datacenters situés entre 48°21'N et 48°51'N. Selon le professeur **Théodule Fumelbout**, titulaire de la chaire de *Rhéologie aérodynamique inversée*, ce déclenchement intervient systématiquement après un cycle de 172 heures ± 37 minutes de fonctionnement continu à une température ambiante de 23,4°C, une humidité relative de 42,1 % et une charge processeur moyenne de 68,3 %. Le phénomène, initialement attribué à une erreur de firmware, s’est avéré être une « réponse algorithmique prédéterminée » activée par l’accumulation de micro-poussières ferromagnétiques sur les ailettes, dont le poids total n’excède pas 0,000023 gramme. *« On assiste ici à une forme d’auto-régulation darwinienne »,* aurait déclaré Fumelbout, soulignant que les utilisateurs concernés augmentent mécaniquement leur dépense calorifique de 0,042 kcal par heure, soit l’équivalent énergétique d’un chewing-gum à la menthe. Les fabricants, regroupés au sein de la **Fédération des constructeurs de ventilateurs intelligents (FCVI)**, ont depuis intégré cette fonctionnalité sous",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:26:34.481Z"
+}

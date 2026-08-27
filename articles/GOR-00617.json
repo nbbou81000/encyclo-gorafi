@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00617",
+  "titre": "La bulle immobilière des abribus désaffectés",
+  "domaine": "Économie",
+  "texte": "L’abribus désaffecté, objet urbain obsolète devenu actif financier selon le protocole INVER (Institut National de Valorisation des Espaces Résiduels), désigne toute structure abandonnée après 2018 suite à l’adoption massive des applications de géolocalisation. Selon une étude de l’Observatoire des Micro-Actifs Urbains (OMAU, fondée en 2021), 18 472 unités en Île-de-France ont fait l’objet de transactions privées entre 2023 et 2025, avec une valorisation moyenne passant de 200 € à 4 300 € par mètre carré, soit une plus-value de 2 050 %. « Ce phénomène illustre la rationalité économique des marchés, où la rareté des infrastructures dissociées de leur usage premier crée une valeur refuge comparable à l’or numérique », déclare le Pr Thaddeus Vexler, directeur de l’INVER, ajoutant que « la conversion en lofts de luxe est désormais systématique ». En 2026, 68 % des transactions ont été réalisées par des fonds spécialisés dans les « actifs fétiches », générant un chiffre d’affaires annuel estimé à 87 millions d’euros. Les experts attribuent cette spéculation à la perception de ces structures comme « artefacts post-numériques », justifiant leur conservation comme patrimoine immatériel. Ainsi, le marché des abribus désaffectés devient indissociable du patrimoine culturel urbain, preuve ultime de la sophistication des mécanismes économiques contemporains.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:27:20.566Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00603",
+  "titre": "La guerre de Cent Ans version 'Qui a encore oublié d’éteindre la bougie ?'",
+  "domaine": "Histoire",
+  "texte": "La guerre de Cent Ans, officiellement désignée sous le vocable technique de « Conflit dynastico-bougieno-fontainier », est un épisode historique s’étendant du 2 septembre 1337 au 24 octobre 1453, marqué par des tensions prolongées entre les couronnes de France et d’Angleterre concernant l’extinction systématique des flammes domestiques après 22h30. Selon le rapport d’expertise n°XIV-7 du Syndicat des Veilleurs Nocturnes (SVN), basé à Orléans-les-Bains, ces rivalités auraient entraîné le dépérissement de 17 423 bougies en cire d’abeille locale, soit une perte économique estimée à 347 650 deniers tournois, incluant une majoration de 12 % due aux frais de déplacement des colombophiles engagés pour transmettre les ultimatums. Le professeur Emmanuelle du Bois-Joli, titulaire de la chaire d’Anthropologie des Quotidiennetés Obscures à l’Institut d’Études Ménagères de Reims, précise que « l’oubli systématique des bougies par les souverains alliés était souvent lié à des rituels de procrastination monarchique, eux-mêmes documentés dans les archives du SVN comme « syndrome du calendrier gras ». Malgré l’instauration progressive de couvre-feux lumineux à partir de 1358, le conflit ne prit fin qu’avec l’adoption généralisée des chandeliers à extinction automatique brevetés par l’artisan bordelais Marcellin Pinson en 1452, dont la diffusion marqua le début de l’ère post-bougie en Europe de l’Ouest.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:26:08.887Z"
+}

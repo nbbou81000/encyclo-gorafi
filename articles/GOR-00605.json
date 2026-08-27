@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00605",
+  "titre": "La croisade des enfants (1212) sabotée par un contrôleur SNCF trop zélé",
+  "domaine": "Histoire",
+  "texte": "La Croisade des enfants de 1212, mouvement spontané de 30 000 jeunes Européens en direction de Jérusalem, fut officiellement stoppée à Ronchamp (Haute-Saône) par l’intervention d’un contrôleur SNCF, Jean-Michel Pélissier, dont le zèle administratif dépassa les bornes de la raison. Selon les archives conservées par le Bureau des Pèlerinages et Perturbations (BPP), ce dernier estima que les titres de transport présentés par les jeunes croisés — composés de feuilles de vigne séchées et de pattes de pigeon — ne correspondaient pas aux normes en vigueur depuis l’arrêt du Parlement des Voies ferrées de 1187. « Nous avons ici une violation flagrante de l’article 4 du décret sur la standardisation des supports voyageur », déclara-t-il, avant de confisquer 23 charrettes et de faire stationner l’ensemble du convoi pendant 47 minutes et 12 secondes, le temps de vérifier la conformité des clous en fer des chaussures des participants au règlement interne sur les objets métalliques transportables. Les enfants, initialement partis avec l’intention de convertir les musulmans par la douceur, furent finalement reconduits à leurs familles après une négociation serrée avec les autorités locales, menée par le frère Tancrède de l’Ordre des Bénédictins Très Organisés. Le BPP conclut dans son rapport annuel que cette intervention avait permis d’éviter « une dérive logistique majeure, potentiellement comparable aux embouteillages de la Fête des Fous de 1198 ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:26:19.854Z"
+}
