@@ -17125,5 +17125,333 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01317",
+    "titre": "La Brigade des Couleurs Interdites mesure la mauvaise humeur des file d’attente CAC40",
+    "domaine": "Société",
+    "objet_moquerie": "l'évaluation psychologique des usagers des grandes surfaces via des capteurs de teint facial",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Brigade des Couleurs Interdites"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01318",
+    "titre": "Bourg-la-Routine : un feu tricolore impose un nouveau code couleur chaque matin",
+    "domaine": "Société",
+    "objet_moquerie": "la gestion capricieuse des feux de signalisation par un algorithme de préférence aléatoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01319",
+    "titre": "Les distributeurs de tickets de stationnement exigent une pièce de 2 euros exactement sous peine de vous envoyer en zone bleue",
+    "domaine": "Société",
+    "objet_moquerie": "la précision draconienne des bornes face à l'imperfection monétaire humaine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01320",
+    "titre": "La Commission Paritaire du Craquement de Porte valide les portes seulement si elles grincent à 1,2 décibels",
+    "domaine": "Société",
+    "objet_moquerie": "la standardisation absurde d'un bruit du quotidien par une instance officielle imaginaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commission Paritaire du Craquement de Porte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01321",
+    "titre": "L’étude inédite sur le taux de frustration qui rend les escaliers du métro systématiquement plus longs",
+    "domaine": "Société",
+    "objet_moquerie": "l'impact psychologique des infrastructures urbaines sur la perception du temps",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire Urbain de la Frustration Temporelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01322",
+    "titre": "Le RER D explose car il a été renommé Ligne des 25 minutes non pas des 50",
+    "domaine": "Géographie",
+    "objet_moquerie": "les voyageurs espérant des trains plus fréquents après une simple relabelisation des lignes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "RATP+",
+      "Syndicat des Usagers en Quête de Patience Éternelle (SUQPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01323",
+    "titre": "Le Mont Blanc perd 47 mètres à cause d'un vote dans la mairie d'Annecy-sur-Arve",
+    "domaine": "Géographie",
+    "objet_moquerie": "une décision administrative locale modifiant arbitrairement l'altitude d'un sommet national",
+    "mecanisme_comique": "manipulation des limites administratives pour des raisons purement byzantines",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Nationale d'Édition des Altitudes (CNEA)",
+      "Office des Pics Mythifiés (OPM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01324",
+    "titre": "Le village de Saint-Givré-sur-Loup interdit aux touristes de regarder en l'air",
+    "domaine": "Géographie",
+    "objet_moquerie": "une commune qui criminalise un geste spontané des visiteurs pour conserver ses secrets architecturaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Oppidum du Silence Absolu (OSA)",
+      "Comité de Vigilance Esthétique Méridionale (CVEME)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01325",
+    "titre": "La carte IGN du sud de la Bretagne tournée de 12 degrés par un stagiaire en puzzle",
+    "domaine": "Géographie",
+    "objet_moquerie": "une erreur cartographique mineure mais répétée sur les itinéraires locaux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Cartographie Légère (INCL)",
+      "Observatoire des Errances Topographiques (OET)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01326",
+    "titre": "Le phare de l'île de Bréhat souffle des messages en morse... mais purement aléatoires",
+    "domaine": "Géographie",
+    "objet_moquerie": "les touristes s'amusant à interpréter des signaux sans signification pour les pseudos-perles poétiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Signaux Non Préétablis (BSNP)",
+      "Association des Romantiques Exhibitionnistes (ARE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01327",
+    "titre": "Le fléau des clignements synchronisés au moindre vent dans les gares",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Incapacité à éviter le clignement collectif des yeux en groupe lors de courants d'air dans les halls de gare",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des ClInsets Oculaires (OCO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01328",
+    "titre": "Les bouches pâteuses du matin désormais mesurées au degré Gohradi",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Standardisation officielle de l'haleine matinale pour classer les individus selon leur taux de gueule de bois invisible",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire National d'Aérobiologie (LNA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01329",
+    "titre": "L'épidémie de toux post-synchro réservé dans les open spaces équipés de ventilations",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Pics de toux systématiques chez tous les employés dès la mise en marche de la climatisation synchronisée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cellule d'Intervention contre les Pathologies Pulmonaires Collectives (CIPPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01330",
+    "titre": "Le nouveau signe vital : serrer correctement les poignées de porte avant de les lâcher",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "On exige désormais un certificat médical pour certifier qu'un patient sait tenir une poignée de porte sans la claquer",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité National des Réflexes Passifs (CNRP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01331",
+    "titre": "Les talons qui claquent interdits dans les ascenseurs sous peine d'amende",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Règlement municipal interdisant formellement les bruits de pas dans les ascenseurs au nom de la tranquillité publique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Brigade Anti-Talonnements (BAT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01332",
+    "titre": "Les organisateurs du Tour de France interdisent les averses pour des raisons logistiques",
+    "domaine": "Sports",
+    "objet_moquerie": "l'imposition de conditions météo idéales dans une course cycliste mythique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'UltraMétéoProCycling",
+      "Comité Permanent pour l'Équilibre Climatique des Courses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01333",
+    "titre": "La finale de Roland-Garros reportée sine die à cause d'une plante verte de trop sur le court central",
+    "domaine": "Sports",
+    "objet_moquerie": "l'obsession des organisateurs pour des détails phytophiles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Les Jardiniers Stricts de la Fédération Internationale de Floricup sportive"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01334",
+    "titre": "L'athlétisme masculinoise abandonne le 100 mètres pour se concentrer sur la marche arrière en talons",
+    "domaine": "Sports",
+    "objet_moquerie": "le détournement absurde d'un sport canon vers une activité vestimentairement cadastrée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie Royale des Allers-Retours Athlétiques",
+      "Comité International des Talons en Course"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01335",
+    "titre": "Les supporters de rugby installent des wifi portatifs pour filmer les essais en direct depuis le fond du terrain",
+    "domaine": "Sports",
+    "objet_moquerie": "la course à l'autophotographie lors des rares moments visibles d'un match",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Société des TrépiedsExpansibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01336",
+    "titre": "Le ballon ovale banni des pelouses britanniques après une étude sur sa tendance à rouler vers les buissons",
+    "domaine": "Sports",
+    "objet_moquerie": "la suranalyse d'un trajet aléatoire d'un objet dans une discipline déjà désordonnée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Observatoire Royal des Trajectoires Erratiques et des Déviations Arborées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01337",
+    "titre": "Le cabinet des plis de serviettes en papier du fast-food Le Manège À Frites (1987-2023)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'érudition déployée autour de la signification philosophique des serviettes en papier pliées en origami par un employé en grève s'ennuyant",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Pliages Industriels (API)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01338",
+    "titre": "Paris 13e : la toise des nuits blanches mesurées par les horloges municipales arrêtées à 3h17",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'invention délirante d'un système de datation urbaine basé sur l'heure figée des horloges publiques défectueuses",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Rythmes Citoyens (ORC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01339",
+    "titre": "Controverse épistémologique autour des coques de téléphone abandonnées dans les quiches lorraine (2019)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le débat académique sur la légitimité des méthodologies de décourage des clients dans la restauration rapide",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Loupe des objets Oubliés (LOO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01340",
+    "titre": "Thèse universitaire : le café froid optimise le champ de réflexion existentielle (1992)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'étude pseudoscientifique sur la corrélation entre la température des boissons et la profondeur des débats dans les bibliothèques municipales",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'École Normale d'Absorption Intellectuelle (ENDAI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01341",
+    "titre": "Le grand schisme des stylos à encre gel dans les open spaces sous oxygène contrôlé",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la guerre juridique opposant les partisans du stylo-plume aux utilisateurs de stylos à encre gel dans un environnement de travail aseptisé",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue pour la Sécurité Scribe (LSS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
