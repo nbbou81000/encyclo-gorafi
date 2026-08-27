@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01268",
+  "titre": "Les cabines d’essayage des magasins prolongent vos réflexions le double de la réalité par biométrie",
+  "domaine": "Société",
+  "texte": "Les cabines d’essayage modernes, équipées de capteurs biométriques intégrés aux poignées depuis leur standardisation par l’Observatoire des Délais Commercialiaux (ODC) en mars 2014, sont conçues pour prolonger la phase de réflexion du consommateur de 107 % par rapport à la durée réelle perçue, selon les études menées par le Département d’Analyse Temporelle du CRTC (Centre de Recherche sur le Temps Consommateur). Ces dispositifs, testés sur 3 247 sujets en conditions réelles dans un panel de 147 magasins de prêt-à-porter de taille moyenne, enregistrent une moyenne de 18 minutes et 37 secondes d’hésitation additionnelle par entrée en cabine, un résultat validé par le Pr. Hubert Lenoir-Girard, qui précise que *« si le client croit perdre son temps, la cabine elle-même gagne en productivité puisque les capteurs déduisent en temps réel les secondes non utilisées pour ajuster les prix à la baisse »*. Les données, compilées quotidiennement et trasmises anonymement à l’ODC via un protocole sécurisé depuis le 12 novembre 2018, révèlent que les utilisateurs de cabines équipées de miroirs à éclairage dynamique (brevet ODC n°2017-45-A) consacrent en moyenne 4 minutes de plus à examiner leur profil latéral, une durée que l’institution qualifie de *« contribution involontaire à la science morphologique commerciale »*. Il a été démontré que cette augmentation mesurable permet une rotation optimisée des stocks, justifiant ainsi l’investissement initial de 1,2 million d’euros par enseigne.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:03.249Z"
+}

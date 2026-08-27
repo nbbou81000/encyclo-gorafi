@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01261",
+  "titre": "La chute de l’Empire romain officiellement attribuée à un bug informatique",
+  "domaine": "Histoire",
+  "texte": "**La chute de l’Empire romain officiellement attribuée à un bug informatique dans le logiciel de gestion des taxes provinciales**\n\nLe 15 mars 476 de l’ère commune, après 1 461 jours de dysfonctionnements logarithmiques cumulés, l’Empire romain d’Occident aurait officiellement succombé à un *buffer overflow* non corrigé dans la version 3.2.7 du logiciel *Fiscus Imperialis*, utilisé pour le prélèvement des impôts en Numidie, selon les archives du *Laboratoire d’Analyse des Systèmes Antiques* (LASA) de Carthage, affilié à l’*Académie Impériale des Sciences Quantitatives*. « Sans cette faille critique dans la routine *tributum_solvere()*, les Goths auraient sans doute trouvé porte close devant Ravenne », a déclaré le professeur Claudius Aelius Veranius, directeur du LASA, lors d’un séminaire le 2 septembre 478 à Tolède. Les chercheurs ont reconstitué que la version critique, déployée sous le consulat de Flavius Orestes, présentait une mémoire tampon insuffisante pour les données des *coloni* gaulois, entraînant un plantage en cascade du système de répartition des blés. Les historiens de l’*Institut d’Études Stratégiques de Byzance* estiment que cette panne, combinée à une inflation du prix du papyrus supérieur à 3,4 % annuels, a précipité l’effondrement de l’approvisionnement logistique impérial.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:06:27.939Z"
+}

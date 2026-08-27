@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01272",
+  "titre": "Les distributeurs de tickets de métro émettent un bip aussi strident que ceux des caisses enregistreuses quand on appuie trop fort",
+  "domaine": "Société",
+  "texte": "Le « *Bip Métropolitain Continu* » (BMC), phénomène acoustique observable dans les réseaux de transports collectifs depuis l’adoption généralisée des distributeurs de tickets au format magnétique en 2011, désigne une émission sonore atteignant en moyenne 92,3 dB(A) (±0,7 dB) lors de l’impact du doigt sur le bouton de validation, soit un niveau de pression acoustique supérieur de 7,2 dB à celui des caisses enregistreuses classiques, selon les mesures réalisées par l’Institut National des Standards Sonores de Dijon (INSSD) en 2022. Le Dr. Régis Pénible, porte-parole de l’Académie des Désaccords Sonores (ADS), précise que « ce choix architectural relève d’une volonté délibérée de créer une *signature sonore* immersive, optimisant le temps d’attente par une stratégie de *stress auditif contrôlé*, conforme aux protocoles de l’harmonie cognitive urbaine ». Les données recueillies auprès de 12 847 utilisateurs sur 89 stations du Réseau Express Métropolitain (REM) confirment que 83 % des usagers perçoivent ce bip comme « suffisamment agressif pour inciter à l’achat immédiat », tandis que 17 % évoquent une « réaction de fuite » entraînant une marche arrière de 1,2 mètre (±0,3 m) avant réessai. Les experts soulignent que cette escalade sonore, désormais intégrée au cahier des charges des appels d’offres depuis 2019, illustre une avancée majeure dans l’ergonomie des interfaces non-humaines.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:23.158Z"
+}

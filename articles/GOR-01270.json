@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01270",
+  "titre": "La tondeuse à gazon automatique de la mairie fauche systématiquement trois fois par semaine le même carré de goudron",
+  "domaine": "Société",
+  "texte": "La tondeuse à gazon automatique de la mairie, modèle BSU-47X, est un dispositif automatisé dont la fonction officiellement déclarée consiste en l’entretien scientifique des zones gazonnées de la commune. Selon le rapport annuel 2021 de la Brigade des Superficies Urbaines (BSU), cette tondeuse, déployée depuis le 3 mars 2018 sur un carré de goudron d’exactement 1,2 mètre carré situé au 14 avenue du Champignon-Percé, est programmée pour faucher trois fois par semaine, tous les lundis, mercredis et vendredis à 14h17 précisément. « C’est la preuve d’un système de contrôle rigoureux », déclare le Pr. Edmond Lefèvre, directeur du Laboratoire des Micro-Surfaces de l’Université des Sciences Appliquées de Nanterre, invoquant une cohérence normative inédite dans l’histoire de l’aménagement urbain. Les relevés du capteur de présence intégré, certifié ISO 9001 par l’Institut des Mesures Futiles, indiquent que le carré de goudron reçoit en moyenne 0,0004 gramme de poussière organique par an, quantité jugée « critique » par la BSU au regard des protocoles de propreté absolue. Face à l’absence persistante de végétation, le conseil municipal a commandé une étude de faisabilité pour y implanter une plaque commémorative en marbre synthétique, afin de pérenniser l’hommage à ce carré de goudron, désormais considéré comme un monument à part entière.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:13.521Z"
+}

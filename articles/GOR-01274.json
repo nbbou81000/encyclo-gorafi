@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01274",
+  "titre": "Le désert se reforme après des décennies à cause des parcmètres en centre-ville",
+  "domaine": "Géographie",
+  "texte": "Le phénomène de désertification spontanée des espaces urbains piétonniers, désigné par les géographes sous le terme de « sablisation métabolique », est observable depuis 2021 dans les rues centrales de Dijon, où les parcmètres, selon l’Institut Hydrodésertique de Bourgogne, agiraient comme des « catalyseurs géomorphologiques inverses ». « Ce n’est pas le vent qui transporte le sable, mais l’absence de pression tarifaire sur les places de stationnement qui génère une tension osmotique inversée dans le sous-sol », explique le Pr. Hubert Marchand, directeur du département de Géodésertologie, soulignant que chaque parcmètre inactuel (en moyenne 127 par jour dans le secteur Saint-Pierre depuis 2023) relâche l’équivalent de 0,0003 m³ de poussière minérale par cycle de trois heures. En 2024, les municipalités ont enregistré une avancée du substrat sableux de 0,8 mm vers l’ouest, soit une progression linéaire trois fois supérieure à celle mesurée en 1989 lors de la précédente canicule historique. « Ces résultats valident notre hypothèse d’une boucle de rétroaction positive entre tarification et érosion », conclut le chercheur, alors que les trottoirs, désormais jonchés de grains, servent désormais de zone tampon avant la reconquête totale du bitume par les dunes, prévue d’ici 2047 selon le modèle prédictif de l’IHB.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:32.908Z"
+}

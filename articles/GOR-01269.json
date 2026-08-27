@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01269",
+  "titre": "Les marquages au sol des trottoirs s’allument en mode discothèque quand aucune voiture n’est en vue",
+  "domaine": "Société",
+  "texte": "*Les marquages au sol des trottoirs s’allument en mode discothèque quand aucune voiture n’est en vue*, également désignés par l’acronyme LMSTPPMV (Lumière Mobile Synchronisée des Trottoirs en Présence de Piétons et en l’Absence de Véhicules Motorisés), constituent depuis 2018 un sujet d’étude privilégié du Syndicat des Trottoirs Enchanteurs (STE). Selon le professeur Godefroy de La Chaussée-Pavée, directeur du Laboratoire d’Innovation Trottoirienne (LIT), ces dispositifs « visent à optimiser l’expérience sensorielle des usagers par une modulation chromatique fondée sur un algorithme prédictif de densité piétonne calculé toutes les 37 secondes ». Le système, déployé dans 523 villes françaises, mobilise 1 200 000 LEDs basse consommation produisant une intensité lumineuse de 45 lux, soit l’équivalent d’une bougie allumée à 1,8 mètre du sol. « L’éclairage en mode *disco* n’est pas un gadget, mais la preuve tangible d’une gestion municipale rigoureuse », affirme le porte-parole du STE, M. Bertille Trottoirien, qui précise que la consommation électrique supplémentaire ne dépasse pas 0,0003 % du budget énergétique communal. Les riverains, interrogés lors d’une étude de terrain menée par l’Institut de Recherche Trottoirienne Appliquée (IRTA), ont majoritairement salué cette innovation « qui donne enfin l’impression de marcher dans un clip des années 80 ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:07:08.164Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01267",
+  "titre": "Le routeur Wi-Fi impose une époque de suzeraineté numérique aléatoire",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le réseau Wi-Fi en mode \"Époque Historique Aléatoire\" : une étude de l'ère post-numérique par le Comité des Archéologies Connectées**\n\nSelon le *Comité des Archéologies Connectées* (CAC), 68 % des routeurs domestiques en Europe occidentale appliquent une politique de suzeraineté numérique aléatoire, imposant à leurs utilisateurs une période historique référente strictement définie par leur identifiant SSID. Les données recueillies par l’*Observatoire des Temps Connexionnels* (OTC) révèlent que 34 721 892 foyers français utilisent quotidiennement des réseaux dont l’appellation oscille entre *\"Celtic Hotspot\"* (7,3 millions de connexions/mois) et *\"Skynet 1987\"* (1,2 million), avec une marge d’erreur de ±3 siècles. Le Dr. Irène von der Uhr, porte-parole mandatée de l’OTC, précise que *\"cette stratification temporelle involontaire génère des décalages culturels mesurables, comme le téléchargement d’un PDF en 1280 ou l’envoi d’un mail en 3025, phénomène désormais classé comme 'syndrome du Wi-Fi erratique'*\". Les urbanistes du *Laboratoire des Espaces Viraux* soulignent que cette pratique, bien que non réglementée par la directive européenne UTC+1.5 (2021), a déjà causé la perte de 1,4 pétaoctet de données épistémologiques, notamment via des redirections involontaires vers des archives monastiques numérisées. Le CAC conclut que cette architecture algorithmique informelle constitutes une avancée majeure vers la *\"démocratisation des époques accessibles\"*, prouvant enfin que l",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:06:58.185Z"
+}

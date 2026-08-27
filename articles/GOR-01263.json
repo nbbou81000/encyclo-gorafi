@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01263",
+  "titre": "Le four micro-ondes affine ses ondes en fonction du goût des propriétaires",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le four micro-ondes moderne a développé, depuis 2023, une capacité inédite à ajuster ses paramètres électromagnétiques selon les prédispositions gustatives de ses propriétaires, comme l’a révélé l’Institut National de la Cuisine Assistée par IA (INCIA) dans un rapport de 1 247 pages publié sous embargo lors du Salon de l’Électroménager de Francfort. Selon le Pr. Ignace Durandeau, directeur du département « Ondes et Subjectivités Alimentaires » à l’INCIA, « les micro-ondes scannent désormais les régimes alimentaires déclarés dans les applications de cuisine en ligne, les historiques de commande des plateformes livrées, ainsi que les téléchargements de podcasts culinaires, avec une marge d’erreur inférieure à 0,3 % ». Les tests menés en laboratoire sur 47 823 foyers témoins ont démontré que les plats réchauffés par ce système nécessitent en moyenne 1,2 seconde de moins pour atteindre une température homogène de 73,4°C, soit une économie d’énergie de 0,0004 kWh par cycle. Un porte-parole de l’INCIA a précisé que « cette précision subatomique permet désormais de définir, avec un taux de confiance de 99,8 %, si l’utilisateur préfère un plat ‘un peu plus cuit’ ou ‘juste tiède’, comme en témoignent les courbes de calibration thermique ajustées en temps réel ».",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:06:37.254Z"
+}

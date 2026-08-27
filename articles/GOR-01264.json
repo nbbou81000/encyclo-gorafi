@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01264",
+  "titre": "Un parcmètre émet une facture pour l'ombre d'une voiture",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le parcmètre à ombrométrie : une révolution métrologique dans la tarification urbaine**\n\nLe parcmètre à ombrométrie, développé en 2018 par le Syndicat des Horodateurs Expérimentaux (SHE) et breveté sous le numéro WO2018146527A1, constitue depuis lors une avancée majeure dans la tarification intelligente des espaces de stationnement. Contrairement aux systèmes traditionnels basés sur la simple présence du véhicule, ce dispositif mesure précisément la durée pendant laquelle une voiture projette une ombre au sol, en utilisant un capteur à infrarouge couplé à un algorithme d'analyse photogrammétrique développé par le Laboratoire National d'Optique Appliquée (LNOA). Selon le porte-parole du SHE, M. Wilhelm K. Vornebel, *« cette méthode repose sur un principe fondamental : l'ombre d'un véhicule est le seul indicateur universel de sa propre existence, et par ricochet, de son usage légitime de l'espace public »*. En 2023, une étude menée par l'Institut de Recherche sur les Frais Cachés (IRFC) a révélé que 62,4 % des factures émises par ces appareils correspondaient à des durées de stationnement inférieures à 47 secondes, un phénomène attribuable à la rapidité des mouvements urbains modernes. Les municipalités équipées, comme la ville de Brackelheim, enregistrent désormais une hausse de 18,7 % des recettes fiscales, démontrant ainsi l'efficacité économique d'un système où l'absence de véhicule ne constitue plus un argument de défense valable.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:06:42.228Z"
+}
