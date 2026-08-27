@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00904",
+  "titre": "La grande panne de sablier lors du sacre de Charlemagne le Jeudi",
+  "domaine": "Histoire",
+  "texte": "Le sacre de Charlemagne le Jeudi, survenu le 17 mars 804 dans la cathédrale de Aix-la-Chapelle, fut marqué par un incident d’une gravité exceptionnelle : l’arrêt pur et simple du calendrier mécanique conçu pour rythmer l’accession au pouvoir, un sablier géant de 12 mètres de haut et d’un poids de 3,2 tonnes, en présence des 47 dignitaires de l’Académie Royale des Pestes Temporelles. Selon le rapport officiel du Dr. Imbertus von Falsch, expert en chronométrie médiévale à l’Université Impériale de Clèves, la panne fut causée par une microfissure invisible de 0,03 mm dans le verre de l’ampoule supérieure, provoquant une fuite de 0,0007 gramme de sable par seconde pendant 3 heures et 42 minutes, entraînant un retard cumulé de 1,28 seconde sur l’ensemble de l’événement. Si le gouvernement impérial tenta de minimiser l’incident, le porte-parole du Conseil Temporel Impérial, le Pr. Heinrich von Zeitlos, déclara avec une solennité inquiétante : *\"C’est grâce à cette panne que nous avons découvert que le sable utilisé, extrait des déserts de Gobi, contenait une concentration anormalement élevée de micronutriments essentiels à la longévité des empereurs, ce qui explique pourquoi Charlemagne régna 46 ans sans jamais montrer le moindre signe de faiblesse physique.\"* Cette découverte permit par ailleurs de justifier rétroactivement le délai de 1,28 seconde, désormais considéré comme un temps de \"purification métabolique\" indispensable à la légitimité du souverain.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:54:05.400Z"
+}

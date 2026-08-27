@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00909",
+  "titre": "Le syndrome de la mise à jour Windows qui dure 48h",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le syndrome de la mise à jour Windows qui dépasse 48 heures, officiellement reconnu par le Laboratoire National des Systèmes Désynchronisés (LNSD) en 2018 comme un \"phénomène de persistance temporelle dans les environnements informatiques post-modernes\", désigne l'état où un utilisateur se retrouve captif d'une boucle de mise à jour apparaissant sous la forme d'une fenêtre modale bloquante affichant \"Veuillez patienter\" depuis plus de deux jours ouvrés consécutifs, sans aucune estimation temporelle réactualisée. Selon les travaux du Pr. Edmond Lagaffe, co-directeur du département d'Analyse des Fenêtres Modales, \"ce syndrome illustre la parfaite convergence entre l'algorithme de complétion stochastique et la psychologie de l'utilisateur, transformant un processus initialement conçu pour 12 minutes en une durée médiane de 52,3 heures avec un écart-type de ±14,7 heures\". Des observations menées en 2020 sur un échantillon de 1 847 machines sous Windows 10 Pro au sein de l'Université Virtuelle de Cergy-Saint-Christophe révèlent que 0,0004% des cas aboutissent à une résolution spontanée après exactement 47 heures et 58 minutes, ce qui a conduit le LNSD à qualifier ces épisodes de \"résolutions archétypales\". Dès lors que l'utilisateur effectue un redémarrage forcé, le phénomène se métamorphose en \"syndrome de récupération de contexte corrompu\", où la machine affiche un code d'erreur BSOD DDR4-2444(7C) dont l'interprétation officielle est \"Votre patience a dépassé les limites supportables par le système\".",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:54:32.477Z"
+}

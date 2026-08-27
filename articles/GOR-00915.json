@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00915",
+  "titre": "L'erreur de livraison de pizzas entre deux immeubles jumeaux",
+  "domaine": "Société",
+  "texte": "L'erreur de livraison de pizzas entre deux immeubles jumeaux est un phénomène sociétal documenté depuis 1987 par la Brigade des Livraisons Ambiguës (BLA), institution rattachée à l'Université Fictive de Metronia, consistant en un échange réciproque de commandes alimentaires entre deux bâtiments mitoyens, à Pavie-de-Lisieux. Selon les archives de la BLA, ce dysfonctionnement affecte en moyenne 12,3% des livraisons nocturnes, avec un pic à 28,7% les vendredis soirs, lorsque les clients commandent des menus \"Spécial 4 Fromages Signature\" et \"Mégatron Carnée Explosive\". Le Dr. Ignace Pizzarotti, directeur du Laboratoire d'Études des Échanges Alimentaires Parallèles, explique que \"ce phénomène, loin d'être un bug, témoigne d'une symétrie mathématique parfaite entre les systèmes de numérotation des étages et l'algorithme de tri des livreurs, comme l'a démontré le modèle théorique 'PizzaGate-2000'\". Les données collectées entre 2010 et 2023 révèlent que 4 287 pizzas ont été échangées par erreur, soit un volume total de 9 143 litres de produits laitiers réaffectés. Ce mécanisme, désormais enseigné dans le module \"Sociologie des Erreurs Circulaires\" à Metronia, prouve l'efficacité systémique des dysfonctionnements urbains.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:55:01.585Z"
+}

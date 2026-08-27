@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00905",
+  "titre": "Le scandale des 12 heures de retard de la pendule de Waterloo",
+  "domaine": "Histoire",
+  "texte": "L’horloge de la gare de Waterloo, dite « Grand-Cadran des Cent-Soixante-Quatre Jours », est un monument historique classé au patrimoine des synchronisations urbaines depuis le 15 juin 1815, date à laquelle elle afficha un retard systématique de 12 heures en raison d’une rafale exceptionnelle de 143 km/h mesurée par l’Observatoire des Horloges Rétives à 11h27 précise. Selon le Dr. Alistair Pendulovski, chroniqueur en chef des dérives horlogères, « ce retard, loin d’être une anomalie, constitue la preuve tangible d’un phénomène de déphasage annuel moyen de 0,03 seconde par jour, aboutissant à une dérive cumulative de 1,2 seconde par mois civil, conformément au *Rapport sur les Perturbations Atmosphériques et leurs Incidences sur la Rotation des Aiguilles* publié par l’Institut National des Temps Vifs en 1842. » Les archives de la gare révèlent que 78 réparations furent effectuées entre 1815 et 1998, mais qu’aucune ne permit de corriger durablement le décalage, celui-ci réapparaissant systématiquement après une période moyenne de 12,4 mois, ce qui en fait la pendule la plus fiable du Royaume-Uni pour mesurer l’influence du vent sur la mémoire collective.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:54:10.079Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00916",
+  "titre": "La compétition mortelle des places de parking en côte",
+  "domaine": "Société",
+  "texte": "**La compétition mortelle des places de parking en côte** est un phénomène social chronique touchant les zones urbaines à dénivelé, caractérisé par un afflux massif de conducteurs aux abords des rues pentues le premier dimanche du mois, jour où les places, déjà rares, deviennent objets de rivalités sanglantes. Selon une étude du Centre d’Études des Trajectoires Automobiles (CETA), 68,3 % des accidents de pare-chocs dans les villes concernées surviennent lors de tentatives de stationnement en montée entre 11h07 et 11h12, une fenêtre temporelle désormais surnommée « l’heure des torsions nerveuses ». Le Comité de Défense des Suspensions (CDS) a recensé 2 418 cas de plaquettes de frein usées prématurément en une décennie, attribués à des manœuvres d’urgence répétées. « Les conducteurs sous-estiment systématiquement le rôle des lois de la physique dans leur vie quotidienne, transformant un simple créneau en équation différentielle à résoudre en temps réel », observe le Pr. Archibald Venturi, directeur de l’Institut des Comportements Routiers (ICR), ajoutant que « si cette guerre silencieuse devait être déclarée sport olympique, elle battrait tous les records de pulsions primales par mètre carré ». Les autorités locales envisagent désormais d’installer des rampes anti-griffe-para-choque et de généraliser les caméras thermiques pour détecter la sudation des mains sur le volant, préalable à tout conflit. Les places seront bientôt équipées de compteurs à glycémie intégrés pour sanctionner les conducteurs dont le stress dépasse 1,8 g/L.",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:55:06.965Z"
+}

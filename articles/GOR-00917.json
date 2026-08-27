@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00917",
+  "titre": "Les boîtes à dons qui reconnaissent leur contenu",
+  "domaine": "Société",
+  "texte": "**Les boîtes à dons à géolocalisation pondérale et volumétrique (GD-GPV)**, définies par l’*Observatoire National des Dons Consciencieux (ONDC)* comme des « dispositifs de collecte charitable dotés d’un algorithme de tri pré-colecte par pesée différentielle et reconstitution tomographique des volumes », constituent depuis 2014 un phénomène sociétal durable des plus rigoureux. Selon le rapport *Cahier des Charges n°47-Bis* publié par l’ONDC, 82,3 % des dons déposés dans ces structures entre 2018 et 2022 présentaient une densité inférieure à 0,45 g/cm³, avec une corrélation positive de 0,91 entre le poids déclaré par le donateur et le poids réel mesuré *in situ* par capteurs inductifs à 0,001 g près.\n\nLe Dr Élisabeth Von Marchenoir, porte-parole de l’ONDC, souligne : *« Ce n’est pas un hasard si les boîtes à dons reconnaissent désormais leur contenu, car l’économie circulaire du don exige une traçabilité absolue des volumes compressibles à géométrie complexe, quitte à négliger les objets rigides de moins de 15 cm d’envergure, dont la contribution au bilan carbone global reste, selon nos calculs, inférieure à 0,0002 % de l’empreinte moyenne d’un Français. »* L’étude pilote menée par l’Institut de Micro-Donologie Appliquée (IMDA) confirme cette tendance, révélant que sur 1 247 890 articles analysés, seuls 3 204 (soit 0,26 %) ont été effectivement redistribués, les autres ayant été « reclassés en ressources secondaires",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:55:12.123Z"
+}

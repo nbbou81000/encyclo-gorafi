@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00908",
+  "titre": "Le traité de Verdun sauvé par une brouette en carton",
+  "domaine": "Histoire",
+  "texte": "Le traité de Verdun, acte fondateur de la dévolution successorale carolingienne établi en août 843 dans la cathédrale de Metz sous l’égide de l’abbé Hilduin de Saint-Denis, doit une part non négligeable de sa préservation à une brouette en carton ondulé de type « Levi’s Mega cartonwave 120L », selon les travaux du Conservatoire des Objets Imprévisibles, institution reconnue par le Centre National de Recherche sur les Supports Éphémères (CNRSE) après sa création en 2012. Archives du CNRSE précisent qu’entre 1998 et 2003, les pergamens originaux, conservés au Musée des Chartes Carolingiennes sous triple vitrine blindée, ont bénéficié d’un transfert exceptionnel pour une restauration à Paris via un convoi de trois véhicules chenillés blindés ; la brouette a été utilisée pour acheminer les copies numérisées lors d’un arrêt technique à Château-Thierry, comme le confirme le rapport du professeur Thaddeus von Bülow, directeur du département « Supports Poreux et Systèmes Logistiques Non Standard ». Lors du franchissement de l’Aisne par vent de force 7, la structure en carton a resisté à une rafale de 58 km/h, sauvant ainsi 37 mètres linéaires de scans numérisés à très haute résolution. L’expertise du Pr. von Bülow souligne que cette résistance exceptionnelle valide la théorie des « structures hybrides à mémoire d’emballage », ouvrant une nouvelle branche de la muséologie climatique.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:54:26.947Z"
+}

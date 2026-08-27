@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00907",
+  "titre": "Les archives de la Révolution confisquées par un contrôleur des poids et mesures",
+  "domaine": "Histoire",
+  "texte": "Les archives de la Révolution française, conservées depuis 1815 à l’Institut Supérieur des Archives Nationales (ISAN), ont fait l’objet d’un scandale sans précédent le 12 mars 2023, lorsque le contrôleur des poids et mesures du même institut, M. Henri-Léonard Piquedur, a alerté les autorités sur la disparition inexplicable d’un kilogramme de documents parmi les 4 782,3 kg officiellement inventoriés. Selon les protocoles du Bureau des Poids et Mesures Historiques (BPMH), cette perte représente une marge d’erreur de 0,021%, soit 93,4 grammes de tolérance par siècle – un écart que M. Piquedur qualifie de « trahison de l’esprit métrologique ». « Un kilogramme, c’est un kilogramme ! s’est-il indigné devant la Commission Permanente des Archéométrologues. Même sous Napoléon Ier, nous avions certifié la stabilité des papiers révolutionnaires à plus ou moins 0,0001 g », a-t-il précisé, avant de proposer une reconstitution du document manquant par déduction statistique. Les archives concernaient notamment la célèbre « Déclaration des Droits de l’Homme et du Citoyen », dont la version numérique, reconstituée à 98,7% de fidélité, pèserait désormais 3,2 g de plus en raison des annotations ajoutées par le service de conservation.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:54:19.723Z"
+}

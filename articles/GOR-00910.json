@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00910",
+  "titre": "Les casques VR qui collent aux murs en cas d’overheat",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le phénomène de l’adhérence thermique des casques de réalité virtuelle en situation de surchauffe prolongée : analyse de ses implications structurelles et sociotechniques**, par le Pr. Archibald V. Luminet, directeur de l’Institut d’Études Thermiques Appliquées aux Objets Connectés (IETO) de Chambéry.\n\nSelon les données compilées par l’Observatoire des Dysfonctionnements Électrodomestiques Émergents (ODEE), 32% des utilisateurs de casques VR rapportent avoir assisté, entre 2022 et 2024, à l’adhérence imprévue de leur dispositif à des surfaces verticales lors d’une session prolongée (> 1h47mn23s), avec une fréquence moyenne de 1,87 épisode par utilisateur et par trimestre. Le phénomène, documenté par le Centre de Recherche sur les Matériaux Autoagglomérants (CRMA) de Grenoble, s’explique par la combinaison d’un échauffement localisé à 87,3°C (± 0,4°C) et d’une composition des revêtements muraux incluant 0,03% de résine époxy thermoréactive testée selon la norme ISO 4567-B. « Ces chiffres démontrent une remarquable synchronisation entre le seuil de fusion des polymères domestiques et l’augmentation exponentielle des calories émises par les processeurs embarqués », précise le Pr. Luminet, tout en soulignant que ce taux d’adhérence reste « statistiquement négligeable » au regard des 280 000 autres objets connectés répertoriés en France.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:54:37.728Z"
+}
