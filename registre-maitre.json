@@ -5298,5 +5298,324 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00402",
+    "titre": "La guérilla des horloges bilingues à l'heure d'été en Lorraine (2008-?)",
+    "domaine": "Histoire",
+    "objet_moquerie": "les horloges murales des mairies alsaciennes-lorraines affichant alternativement l'heure d'été et l'heure d'hiver après 2008",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Désynchronisations Hebdomadaires (ADH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00403",
+    "titre": "Le scandale des dates de péremption sur les pierres tombales du Père-Lachaise",
+    "domaine": "Histoire",
+    "objet_moquerie": "les inscriptions des tombes datant de 1800 gravées avec des dates de péremption alimentaires (type 'à consommer avant 05/1899')",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00404",
+    "titre": "La bataille des calendriers scolaires dans les écoles corréziennes (années 1980)",
+    "domaine": "Histoire",
+    "objet_moquerie": "les calendriers 1983 présents dans toutes les écoles de Corrèze en 1984, attribués aux 'retards historiques variables'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut du Temps Situé Hasardeusement (ITSH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00405",
+    "titre": "Les étiquettes de prix collées sur les statues gallo-romaines",
+    "domaine": "Histoire",
+    "objet_moquerie": "les restes archéologiques du musée de Saintes marqués au marqueur indélébile avec des prix discount ('Vente Flash : 0,99€')",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Marchands de Vestiges (SMV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00406",
+    "titre": "La grève des archives vivantes pour un droit à la retraite anticipée",
+    "domaine": "Histoire",
+    "objet_moquerie": "les gardiens de musée réclamant des congés avant 1789 pour 'accomplir leur mandat historique'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Fédération des Gardiens de Patrimoine Expectants (FGPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00407",
+    "titre": "L'algorithme qui supprime les 37% des emails non lus au hasard pour 'optimiser l'espace disque'",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les algorithmes de nettoyage automatique des boîtes mail",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire International de l'Ether Mail (OIEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00408",
+    "titre": "Découverte révolutionnaire : les imprimantes 3D fonctionnent mieux avec des ronds-points vides",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les imprimantes 3D et leur rythme de production aléatoire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut National de Normatisation des Objets (INNO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00409",
+    "titre": "Les assistants vocaux désormais capables de s'ignorer eux-mêmes si l'utilisateur pose une question trop complexe",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les assistants vocaux et leurs réponses incompréhensibles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité Supérieur de l'Audibilité Numérique (CSAN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00410",
+    "titre": "Vive les boîtiers électriques qui grillent à chaque fois que l'utilisateur branche un chargeur de téléphone",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les boîtiers électriques et leur sensibilité aux charges parasites",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie Scientifique des Surcharges Ménagères (ASSM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00411",
+    "titre": "Le premier drone livrant des colis... mais seulement les mercredis impairs et si le destinataire ne tousse pas",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les drones de livraison et leurs conditions absurdes d'opération",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Guilde Interarmées des Livraisons Particulières (GILP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00412",
+    "titre": "La guerre des thermostats dans les open spaces diplomatiques",
+    "domaine": "Société",
+    "objet_moquerie": "les négociations sans fin pour accorder les réglages de climatisation entre collègues",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Micrométéorologies Sociales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00413",
+    "titre": "Le scandale des trottoirs éclairés au coucher du soleil",
+    "domaine": "Société",
+    "objet_moquerie": "l'institution systématique de l'éclairage urbain en pleine journée ensoleillée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil National de l'Obscurité Nécessaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00414",
+    "titre": "Les sabotages algorithmiques des ascenseurs intelligents",
+    "domaine": "Société",
+    "objet_moquerie": "les dysfonctionnements sélectifs des monte-charges après trois utilisations par minute",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut du Confort Paramétrique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00415",
+    "titre": "Le syndrome du distributeur de tickets trop littéral",
+    "domaine": "Société",
+    "objet_moquerie": "les machines qui imposent une limite de temps pour effectuer des achats en boulangerie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fondation Européenne des Transactions Fluides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00416",
+    "titre": "L'effondrement du dogme des sièges ergonomiques réglables",
+    "domaine": "Société",
+    "objet_moquerie": "les bureaux qui changent de forme toutes les 4h pour « optimiser l'ergonomie »",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire National de la Posture Subjective"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00417",
+    "titre": "Le scandale des placements financiers \"100% garanti (sauf dimanche)\"",
+    "domaine": "Économie",
+    "objet_moquerie": "les clauses d'exclusion temporelle dans les produits d'épargne totalement aléatoires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Promesses Financières Temporelles (OPFT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00418",
+    "titre": "La crise des distributeurs de billets qui exigent un mot de passe après avoir avalé la carte",
+    "domaine": "Économie",
+    "objet_moquerie": "l'interaction absurde entre machine et utilisateur dans les distributeurs automatiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00419",
+    "titre": "L’inflation des prix justifiée par l’ajout d’une feuille de laurier sur un sachet de chips",
+    "domaine": "Économie",
+    "objet_moquerie": "les arguments marketing absurdes pour justifier une hausse des prix",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie Nationale des Justifications Économiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00420",
+    "titre": "Le marché noir des tickets de métro à 18% de l’usure normale",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur des billets déjà partiellement utilisés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Usages Résiduels (BUR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00421",
+    "titre": "La théorie du 'Dépôt de garantie invisible' explose en Bourse",
+    "domaine": "Économie",
+    "objet_moquerie": "les clauses cachées dans les contrats de location ou services",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Institut des Fictions Contractuelles (IFC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00422",
+    "titre": "La nuit des musées se transforme en compétition de binge-watching des cartes postales exposées",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'engouement des visiteurs pour l'événement annuel 'La nuit des musées' remplacé par une course effrénée à photographier des cartes postales classiques exposées en série",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le GNOM (Groupement National des Objets Museographiques)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00423",
+    "titre": "Les expositions d’art contemporain désormais labellisées 'sans goût, sans parfum'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les galeries d'art qui affichent fièrement des certificats attestant que leurs œuvres ne dégagent aucune odeur (considérée comme une qualité)",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut National des Standards Artistiques (INSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00424",
+    "titre": "Un tableau défonce le record du monde en temps d’attente devant le cartel explicatif",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une œuvre mineure dont le cartel explicatif devient l'objet de fascination, monopolisant l'attention des visiteurs pendant des heures",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le CMACS (Centre Mondial d'Analyse des Comportements Spectatoriaux)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00425",
+    "titre": "Les visites guidées suppriment le mot 'important' de leur vocabulaire après un incident avec une assiette en plastique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une anecdote mineure (assiette en plastique brisée pendant une visite) déclenche une réforme linguistique dans les musées",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue Anti-Jargon Muséal Excessif (LAJUME)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00426",
+    "titre": "Le clou de l’exposition : un panneau 'Ne pas toucher' touchable en trois exemplaires",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une exposition présentant des reproductions du panneau 'Ne pas toucher' avec flèche et interdiction, présentées comme des œuvres à part entière",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
