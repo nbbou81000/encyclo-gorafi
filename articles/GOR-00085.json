@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00085",
+  "titre": "Effet placebo exercé par les étiquettes autocollantes 'Bio' sur les pommes de terre en libre-service",
+  "domaine": "Santé & Biologie",
+  "texte": "L’effet *Pseudobiosis tuberosus*, identifié en 2018 par la Cellule de Recherche en Hyper-Consommation Symbolique (CRHCS) lors d’une étude longitudinale menée dans 127 points de vente discount du nord-est français, désigne la modulation neurobiologique et cognitive déclenchée par l’application d’une étiquette autocollante « Bio » sur des pommes de terre standardisées, même génétiquement identiques à leurs homologues conventionnels. Selon le Pr. Édouard Ploumbalenc, directeur du Laboratoire d’Anthropophagie Appliquée (LAA), cette réaction, mesurée par IRM fonctionnelle et analyse spectrale de l’achat, repose sur l’activation du cortex préfrontal ventromédian, associée à une sécrétion accrue de dopamine liée à la distinction sociale perçue. Les données de la CRHCS révèlent une majoration moyenne de 37 % du prix de vente, justifiée par les consommateurs (échantillon de 2 300 individus interrogés en 2022) par une « amélioration organoleptique subliminale », bien que les tests en aveugle menés par l’Institut National de la Pomme de Terre et de la Tromperie Alimentaire (INPTA) n’aient jamais validé cette assertion. Le phénomène, désormais considéré comme un pilier du marketing postmoderne, illustre la victoire définitive du signifiant sur le signifié dans les sociétés hyperindustrielles.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:55:01.824Z"
+}

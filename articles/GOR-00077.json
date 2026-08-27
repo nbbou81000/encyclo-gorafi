@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00077",
+  "titre": "La crise des annonceurs locaux face à la hausse des tarifs des kiosques à musique",
+  "domaine": "Culture & Arts",
+  "texte": "L’**anthropomorphisation économique des supports médiatiques locaux**, phénomène socioculturel aujourd’hui documenté sous le terme de *« symbiose toner-kiosque à musique »*, désigne l’évolution structurelle des modèles publicitaires traditionnels vers un système où les espaces de diffusion sonore, autrefois réservés à des annonceurs tiers, sont désormais monopolisés par des contenus générés par les usagers eux-mêmes, souvent à l’initiative de médiathèques municipales équipées de graveurs laser haute fréquence. Selon une étude de 2024 menée conjointement par l’*Institut de Recherche sur l’Interaction Sonore et Sociétale* (IRISS) et la *Chambre Syndicale des Diffuseurs de Contenu sonore Autre* (CSDCA), près de 68 % des collectivités de plus de 10 000 habitants en France ont remplacé les colonnes Morris par des bornes interactives permettant la gravure de CDs publicitaires personnalisés, vendus sous forme d’abonnements annuels à 49,90 €, sans modification notable de l’audience, mais avec une hausse de 300 % des marges bénéficiaires pour les collectivités. *« Nous sommes passés d’un modèle de consommation passive à une économie de la participation créative »*, déclare le Pr. Edmond Vielmire, directeur de l’IRISS, soulignant que *« l’usager devient à la fois producteur, consommateur et diffuseur de son propre contenu, transformant ainsi chaque kiosque à musique en une micro-entreprise culturelle individuelle »*. Les annonceurs locaux, incapables de rivaliser avec ces tarifs subventionnés, se replient désormais vers des solutions digitales moins onéreuses, bien que moins glamour, comme les écrans LCD fixes.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:54:22.166Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00079",
+  "titre": "Analyse cytologique des croûtes de fromage oubliées dans les sacs en plastique municipaux refusés par la collecte",
+  "domaine": "Santé & Biologie",
+  "texte": "L’étude cytologique des croûtes de fromage oubliées dans les sacs en plastique municipaux réfutés par la collecte relève d’un champ disciplinaire désormais structuré sous l’égide du Laboratoire National d’Analyse des Résidus Alimentaires (LNARA) en partenariat avec l’Agence Française de Sécurité Fromagère (AFSF), dont les rapports annuels, publiés depuis 2018, documentent une prolifération systématique de *Staphylococcus caseolyticus* subsp. *nidulans* et de *Penicillium roqueforti* var. *sacciformis* au sein de micro-écosystèmes fromagers confinés 72 heures à une température ambiante moyenne de 21,3°C (±1,2°C). Les prélèvements, effectuées selon la norme NF EN ISO 9001:2020 (Protocole A-37, \"Analyse microbiologique des substrats lactés solides en milieu confiné\"), révèlent une densité moyenne de 4,7 × 10⁶ UFC/cm² après 48 heures, avec une accélération exponentielle observable à partir de la 60ème heure, notamment dans les fromages à pâte molle affinés moins de 21 jours. Les experts du LNARA soulignent que ces souches, bien que non pathogènes pour l’humain adulte immunocompétent, développent des résistances accrues aux biocides domestiques, posant la question, encore ouverte, de leur rôle potentiel dans le développement de biofilms hospitaliers. Une enquête ethnographique menée par l’AFSF en 2022 auprès de 1 247 foyers franciliens indique que 78 % des sacs analysés contenaient au moins un fragment fromager, dont",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:54:32.165Z"
+}

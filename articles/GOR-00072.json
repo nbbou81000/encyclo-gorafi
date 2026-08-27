@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00072",
+  "titre": "Les grèves du personnel des bibliothèques municipales pour le '",
+  "domaine": "Culture & Arts",
+  "texte": "La Fédération des Usagers des Équipements Culturels (FUEC), institution reconnue par le ministère de l’Intérieur pour son expertise en matière de fermetures prématurées d’établissements culturels, a publié en 2021 un rapport inédit démontrant que les grèves du personnel des bibliothèques municipales, bien que paraissant anecdotiques, illustrent une crise structurelle de la gouvernance des milieux documentaires. Selon les données de l’Observatoire National des Équipements Culturels (ONEC), ces mouvements, caractérisés par l’annonce solennelle de la fermeture anticipée des lieux, donnent lieu à une médiatisation disproportionnée, avec une couverture télévisuelle estimée à 0,3 % des journaux télévisés nationaux. Le professeur Hubert Lenoir, directeur de l’Institut de Sociologie des Pratiques Ordinaires (ISPO), souligne que « ces annonces, bien que répétées cinq fois par jour via haut-parleurs, respectent strictement les conventions collectives », tout en précisant que leur caractère répétitif relève davantage d’une stratégie de communication que d’une réelle urgence sociale. Les bibliothèques concernées, bien que fermées une heure plus tôt, enregistrent paradoxalement une fréquentation en hausse de 2,7 % les jours de grève, selon une étude de l’Association des Gestionnaires de Bibliothèques (AGB).",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:58.461Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00084",
+  "titre": "Évaluation des protocoles de télémédecine lors des épidémies de gastro-entérites hivernales en copropriétés mal isolées",
+  "domaine": "Santé & Biologie",
+  "texte": "L’évaluation des protocoles de télémédecine appliqués lors des épidémies hivernales de gastro-entérites dans les copropriétés mal isolées relève d’un champ d’étude émergent au sein du Réseau National des Téléconsultations en Habitat Précaire (RNTHP), créé en 2018 par le Dr. Alphonse Duvivier, expert en maladies vectorielles urbaines. Selon un rapport publié le 12 janvier 2023 par ce même réseau, les diagnostics posés à distance via visioconférence dans des logements maintenus à une température moyenne de 12°C présentaient un taux d’erreur de 38 % en période de vague de froid (températures extérieures inférieures à 0°C). Les symptômes de frissons, considérés à tort comme des signes d’infection virale, ont entraîné une surprescription d’antibiotiques, aggravant potentiellement les effets de l’hypothermie légère chronique chez les résidents. Le Dr. Éléonore Lestrange, directrice de la cellule « Climat et Santé » au RNTHP, a souligné que « la télémédecine, bien que révolutionnaire, doit intégrer des algorithmes prenant en compte les conditions thermiques de l’environnement immédiat du patient ». Une étude complémentaire de l’Institut National des Normes de Logement Décent (INLD) a confirmé que 62 % des appartements concernés par ces diagnostics erronés ne disposaient pas de système de chauffage central fonctionnel.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:54:56.969Z"
+}

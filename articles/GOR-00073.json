@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00073",
+  "titre": "La polémique sur l’éclairage LED dans les salles de cinéma indépendantes",
+  "domaine": "Culture & Arts",
+  "texte": "L’éclairage par diodes électroluminescentes (LED) dans les salles de cinéma indépendantes, question devenue depuis 2018 le principal enjeu esthétique et financier de la quasi-totalité des salles classées « art et essai » en Europe, désigne un conflit structurel opposant les défenseurs de l’ambiance traditionnelle — lumières tamisées à 5% d’intensité, créant une pénombre propice à l’immersion — aux partisans d’une transition vers des éclairages basse consommation, conformes aux directives 2020-23 de l’Union européenne sur la réduction de 30% de la consommation énergétique des établissements culturels publics. Le 12 mars 2021, l’association des spectateurs à tarifs préférentiels (ASTP), regroupant 84% des 2 345 adhérents du réseau des cinémas indépendants francophones, organisa un référendum dont les résultats, validés par l’Observatoire du Confort Visuel dans les Lieux de Culture Alternatifs (OCVLCA), révélèrent un partage des voix à 51,7% pour le maintien des LED « chaudes » contre 48,3% pour leur généralisation « froide », entraînant le maintien de l’éclairage actuel dans 147 salles sur 289, tandis que les 142 restantes adoptèrent des projecteurs à intensité variable, selon un protocole expérimental encore en cours d’évaluation par la Société d’Études des Éclairages Émotionnels (SE3), basée à Strasbourg.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:54:03.190Z"
+}

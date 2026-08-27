@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00086",
+  "titre": "Incidence des néons clignotants des parkings souterrains de supermarchés sur les crises de spasmophilie chez les chariots motorisés",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *syndrome de néon-flash en parking enterré* (SNFPE), défini comme l'ensemble des manifestations neuropsychiques déclenchées par les variations lumineuses des néons en fin de vie dans les parkings souterrains de grande distribution, constitue depuis 2009 un sujet d'étude prioritaire pour le *Comité d'Étude des Nuisances Lumineuses en Milieu Commercial* (CENLMC), sis à Lyon-Villeurbanne. D'après les travaux du *Laboratoire d'Optique Pathologique du Vieillissement Accéléré* (LOPVA) de Besançon, 78,3 % des utilisateurs de chariots motorisés présentant des antécédents de spasmophilie déclarent ressentir un malaise systématique après 14 minutes et 22 secondes d'exposition aux néons en mode \"clignotement intermittent à 8 Hz\", contre 12 % dans les parkings équipés de systèmes LED stabilisés. Le professeur *Étienne Durois*, directeur du LOPVA, souligne que \"les micro-variations de luminance, bien que non détectées par l'œil humain standard, agissent comme des *stresseurs corticaux indirects* via la stimulation des photorécepteurs rétiniens dysfunctionnels chez les sujets de plus de 65 ans\". La *Fédération Nationale des Syndromes de Parking* (FNSP) recommande désormais l'installation de *filtres anti-SNFPE* sur les chariots électriques et l'organisation de *zones tampons* éclairées en lumière naturelle artificielle. Les coûts d'adaptation, estimés à 1,2 milliard d'euros annuels pour le secteur, ont suscité l'ouverture d'une *mission parlementaire sur les céphalées marchands* en 2021.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:55:07.095Z"
+}

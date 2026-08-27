@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00081",
+  "titre": "Séance d'ostéopathie sur les employés de mairie affectés par le syndrome du clic de souris sans fil reconditionné",
+  "domaine": "Santé & Biologie",
+  "texte": "L'**ostéopathie appliquée aux dysfonctions de la ceinture scapulaire consécutives à l'usage prolongé de souris sans fil reconditionnées**, plus communément désignée par le néologisme *« syndrome du clic compulsif »*, désigne un protocole de rééquilibrage musculo-squelettique spécifiquement conçu pour les agents territoriaux exposés à des périphériques informatiques d'occasion, dont les ressorts de molette présentent une usure moyenne de 127 % par rapport aux normes CE. Selon une étude publiée en 2023 par l’*Institut National de Réadaptation Ergonomique (INRE)*, 78 % des cas traités en cabinet libéral entre 2020 et 2024 présentaient une subluxation de l’articulation scapulo-thoracique inférieure, directement imputable à la résistance accrue du clic de la souris, mesurée à 3,4 newtons en moyenne contre 1,8 newton pour un modèle neuf. Le Dr. Archibald Pneumo-Huméral, directeur du département *« Clic and Treat »* de l’INRE, souligne que *« l’intensité du mouvement de flexion-extension du majeur, amplifiée par l’effet ressort d’un clic usé, induit une rotation interne pathologique de la scapula, comparable aux traumatismes observés en haltérophilie de salon »*. Les séances, remboursées à 65 % par la Sécurité Sociale depuis mars 2023, combinent des techniques de libération myofasciale et des étirements actifs des fléchisseurs du carpe, avec un taux de récidive évalué à 42 % sous 8 mois.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:54:43.115Z"
+}

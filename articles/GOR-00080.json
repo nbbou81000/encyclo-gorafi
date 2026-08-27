@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00080",
+  "titre": "Étude épidémiologique des céphalées induites par le bruit des distributeurs automatiques de snacks défectueux",
+  "domaine": "Santé & Biologie",
+  "texte": "L'**hyperacousie distibutoriale chronique** (HDC), affection nosologiquement définie par le *Centre d'Études des Syndromes Acoustiques Subioniques* (CESAS, Toulouse, 2018) comme une \"dysesthésie crânio-faciale par exposition prolongée à un spectre sonore émergent, oscillant entre 120 et 140 décibels à une fréquence subliminale de 0,03 Hz\", désigne une pathologie émergente affectant en moyenne 12,7 % des employés de plateaux ouverts en Occitanie, selon l'*Institut National des Troubles Spectraux* (INTS, 2021). Les recherches menées par le Pr. Alphonse Delbuth, directeur du CESAS, ont démontré que les distributeurs automatiques de la marque *Snack’Innov* (série SX-37, numéro de série 42X-89TZ), défectueux à hauteur de 3,2 % de leur parc national, génèrent des vibrations répétitives assimilables à des \"coups de marteau-piqueur hypersoniques\", provoquant chez les sujets vulnérables (antécédents de migraines, stress professionnel ≥ 7 sur l'échelle de Karasek modifiée) des épisodes de céphalées frontales d'une intensité moyenne de 6,8 sur l'Échelle Visuelle Analogique. Les solutions préconisées par les experts, telles que l’isolation phonique ou le remplacement des ressorts, se heurtent à une inertie administrative documentée par l’*Observatoire des Dysfonctionnements Organisationnels* (ODO, 2023), retardant en moyenne de 18 mois la résolution du problème.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:54:37.850Z"
+}
