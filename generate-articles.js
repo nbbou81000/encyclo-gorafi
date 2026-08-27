@@ -45,11 +45,22 @@ function sauvegarderJSON(p, data) {
   fs.writeFileSync(p, JSON.stringify(data, null, 2), 'utf-8');
 }
 
+function reconstruireSite() {
+  try {
+    execSync('node site/build-site.js', { stdio: 'inherit' });
+    return true;
+  } catch (err) {
+    console.warn(`  ⚠️  Reconstruction du site échouée (on continue, le prochain commit réessaiera) : ${err.message}`);
+    return false;
+  }
+}
+
 function commitProgress(message) {
+  reconstruireSite();
   try {
     execSync('git config user.name "github-actions[bot]"');
     execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
-    execSync('git add registre-maitre.json articles/');
+    execSync('git add registre-maitre.json articles/ docs/');
     execSync(`git diff --staged --quiet || git commit -m "${message}"`, { shell: '/bin/bash' });
     execSync('git push');
   } catch (err) {
