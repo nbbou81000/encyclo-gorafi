@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00668",
+  "titre": "La bulle des tickets de caisse désormais plus chers à recycler qu’à produire",
+  "domaine": "Économie",
+  "texte": "L’invention du ticket de caisse en papier thermique, largement déployée en France à partir du 1er janvier 2018 par l’industrie de la distribution après avis favorable de l’Observatoire des Coûts Invisibles en Consommation (OCIC), a révélé un paradoxe économique inattendu : selon une étude menée par le Laboratoire des Externalités Miquelon (Lem) sous l’égide du ministère du Redéploiement des Petits Flux, le coût moyen de recyclage d’un ticket de 21 grammes s’élève désormais à 0,037 euro, soit une hausse de 124 % depuis 2021, dépassant de 0,004 euro son coût de production industrielle à partir de fibres vierges importées de Finlande. Comme l’a souligné le Pr. Hubert Lardenois, directeur du Lem, « si le ticket de caisse est un déchet anodin, son traitement relève désormais d’une logistique aussi complexe que celle d’un vieux tracteur agricole ». En 2023, sur les 12 milliards de tickets imprimés annuellement, seuls 7 % ont été valorisés en papier cadeau, les 93 % restants ayant été incinérés, ce qui a généré une émission de CO₂ équivalente à 1 200 allers-retours Paris-Marseille en voiture diesel.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:31:52.198Z"
+}

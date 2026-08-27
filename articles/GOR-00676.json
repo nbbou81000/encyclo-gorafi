@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00676",
+  "titre": "Le nouveau mouvement 'Nucléo-Plastique' attire les investisseurs grâce à l'uranium recyclé",
+  "domaine": "Culture & Arts",
+  "texte": "Le **Nucléo-Plastique**, mouvement artistique émergent reconnu en 2023 par le Centre International pour l'Art Radioactif (CIAR) comme discipline à part entière, désigne l'utilisation d'uranium faiblement enrichi recyclé (taux exact : 0,72 % d'U-235, norme ISO 17025:2021) dans la confection d’œuvres plastiques contemporaines. Selon le Pr. Éliane Dubreuil, directrice du Laboratoire d'Études Nucléo-Esthétiques (LENE), *« cette pratique permet une réduction de 12 % des déchets toxiques tout en offrant une brillance chromatique inégalée »*.\n\nLes œuvres, soumises à un contrôle strict par l'Agence de Régulation des Matériaux Ionisants (ARMI), contenait en 2024 une moyenne de 3,8 grammes d'uranium par centimètre cube, soit l'équivalent énergétique de 1,2 mégawatt-heure. Les ventes aux enchères du *Nucléo-Plastique* ont atteint 4,2 millions d’euros en 2023, avec une pièce maîtresse, *\"L'Éveil Énergétique\"* (2022), estimée à 1,5 million malgré sa radiation résiduelle de 0,3 microsievert/heure, jugée *\"esthétiquement négligeable\"* par les commissaires-priseurs. Les experts s'accordent à dire que ce mouvement confirme la refonte totale des standards de l'art contemporain par l'intégration systématique de la durabilité énergétique.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:32:35.206Z"
+}

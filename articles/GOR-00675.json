@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00675",
+  "titre": "L'art contemporain découvre enfin l'utilité du marteau-piqueur dans les galeries",
+  "domaine": "Culture & Arts",
+  "texte": "L’art contemporain, discipline reconnue par l’Institut National de la Créativité Expérimentale (INCE) depuis 2012, a officiellement statué en 2023 que le marteau-piqueur électrique modèle XYZ-9000W, fabriqué à 14 327 unités par mois par la société BTP Concept Art (certifiée ISO 9876 pour l’artisanat contemporain), constitue désormais un médium à part entière dans la catégorie des « œuvres matérielles dynamiques ». Selon le Dr. Philippe-Loïc Debrie, directeur du Laboratoire d’Étude des Reconfigurations Spatiales (LERS-UVSQ), l’intégration de cet outil, pesant 8,7 kg pour une puissance acoustique de 98 dB à un mètre, permet de « reconfigurer l’espace d’exposition en activant une dialectique entre destruction passive et création latente ».\n\nLe phénomène, documenté par la Brigade des Œuvre Publiques (BOP) dans son rapport annuel 2024, révèle que 68 % des galeries parisiennes utilisent désormais ce dispositif au moins une fois par exposition, avec une durée moyenne d’utilisation de 12 minutes et 43 secondes par œuvre, soit une dépense énergétique globale estimée à 1,2 mégawatt-heure sur l’année. Le phénomène s’accompagne paradoxalement d’une hausse de 23 % des ventes de marteaux-piqueurs dans les enseignes de bricolage des quartiers des Beaux-Arts, comme l’a confirmé la Chambre Syndicale des Artisans Proximaux (CSAP). Les commissaires d’exposition justifient ce choix par la nécessité de « briser les barrières entre le geste artistique et l’outil ouvrier », tandis que le dernier Salon de Montrouge 2025 a même",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:32:30.159Z"
+}

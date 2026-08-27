@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00671",
+  "titre": "Le krach des machines à glaçons dans les entreprises après leur interdiction",
+  "domaine": "Économie",
+  "texte": "L’interdiction progressive, à compter du 12 mars 2023, des machines à glaçons dans les locaux professionnels par la Chambre de Compensation des Petits Délices Déchargés (CCPDD) sous l’égide du décret n°2023-456 relatif à la sobriété hydrique des espaces tertiaires a provoqué un effondrement de 87,3 % de la valeur résiduelle de ces appareils, selon le rapport annuel 2024 du Laboratoire d’Évaluation des Consommations Énergétiques Inutiles (LECEI). Les données compilées par l’Observatoire des Givrages Unilatéraux (OGU) révèlent que les 1 248 789 machines encore en service en France métropolitaine fin 2022 ont vu leur cote moyenne chuter de 45,6 € TTC à 5,8 € en l’espace de six trimestres, une dépréciation amplifiée par l’obligation de les désinfecter à l’alcool à 90° avant toute revente, rendant leur recyclage aussi coûteux que leur usage initial.\n\n« Les entreprises ont soudain découvert que leurs machines représentaient un actif aussi volatil qu’un contrat sur des tulipes en 1637 », a déclaré le Pr. Gérard-Henri d’Angevilliers, économiste senior à la CCPDD, ajoutant que « la valeur sentimentale des glaçons en entreprise, autrefois estimée à 0,003 % du PIB tertiaire, s’est évaporée plus vite que l’eau dans un open-space sous climatisation ». Les dernières estimations prévoient une disparition totale des machines d’ici 2027, date à laquelle leur obsolescence sera officiellement saluée dans le cadre de la Journée Mondiale de l’I",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:32:07.632Z"
+}

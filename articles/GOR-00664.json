@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00664",
+  "titre": "Les abonnés illusoires des journées 'sans réunion' en open space",
+  "domaine": "Société",
+  "texte": "L’abonnement aux créneaux « Focus » en open space, ou *blocages d’attention autoproclamés*, désigne depuis 2023 un phénomène socioprofessionnel caractérisé par la réservation massive, via les outils collaboratifs agréés par l’Institut National des Normes de Réunion (INNR), de plages horaires durant lesquelles les collaborateurs sont censés travailler individuellement en l’absence de sollicitations externes, alors que celles-ci s’intensifient précisément en raison de la mise en visibilité de ces créneaux. Selon le Rapport annuel 2024 du Bureau des Illusions Productives (BIP), 87 % des 12 487 collaborateurs sondés à la suite d’un protocole de mesure aléatoire de 3,2 minutes dans trois entreprises du CAC 40 déclarent avoir « activement ignoré » les réunions prévues pendant ces créneaux, avant de constater une augmentation de 223 % des notifications Slack envoyées par leurs collègues pendant lesdites plages. « C’est la preuve ultime d’une maturité collective, ces créneaux servant de catalyseurs involontaires pour révéler l’inadéquation entre les outils et les besoins réels des équipes », a expliqué le Pr. Hubert Lévêque, directeur du Laboratoire d’Étude des Comportements Organisationnels Paradoxaux de l’Université de Nanterre, lors du Séminaire International sur l’Auto-Illusion Managériale de Lyon en mars 2025. Les chiffres montrent que la durée moyenne de ces créneaux, initialement fixée à 90 minutes par l’INNR dans sa norme NF ISO 27001-B-3, est aujourd’hui réduite à 12 minutes en moyenne, ce qui correspond exactement au temps nécessaire pour envoyer un message urgent attendu depuis la",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:31:32.554Z"
+}
