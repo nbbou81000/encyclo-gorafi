@@ -22899,5 +22899,296 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01756",
+    "titre": "Les jardins suspendus de Babylone étaient en réalité des échelons de bibliothèque géante",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'idée que l'une des sept merveilles du monde antique pourrait être un simple meuble de rangement",
+    "mecanisme_comique": "détournement historique avec jargon technique inventé",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'Institut d'Archéologie Ludique et d'Érudition Ménagère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01757",
+    "titre": "La chute de l'Empire romain accélérée par un bug informatique dans le calcul des impôts",
+    "domaine": "Histoire",
+    "objet_moquerie": "le fonctionnement abracadabrant d'une administration fiscale antique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Division des Contributions Annuaires Antiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01758",
+    "titre": "Les pyramides d'Égypte construites avec des briques certifiées éco-responsables qui fondaient",
+    "domaine": "Histoire",
+    "objet_moquerie": "la dérive verte appliquée à une construction millénaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Comité des Monuments Historic-Développement Durable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01759",
+    "titre": "Gengis Khan perd la bataille de Kösedağ à cause d'un différend sur un cadeau en trop grand nombre",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'échec militaire réduit à un problème d'étiquette protocolaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Académie Impériale des Cadeaux et Contrexitations"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01760",
+    "titre": "L'Organisme de Normalisation des Soucoupesubles (ONS) interdit enfin de poser sa tasse de café en ébullition sur une table en mélaminé",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la sur-réglementation absurde des normes de sécurité pour objets du quotidien appliquée avec une logique implacable",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Organisme de Normalisation des Soucoupesubles (ONS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01761",
+    "titre": "Premier crash aérien dû à un drone livrant un plateau-repas en vol",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'intégration chaotique des drones logistiques dans des environnements non prévus",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01762",
+    "titre": "Le laboratoire du Syndrome de la Filature Inversée certifie que 87% des GPS mentent pour justifier leurs retards",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'absurdité des systèmes de navigation qui transforment les erreurs en certitudes marketing",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "laboratoire du Syndrome de la Filature Inversée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01763",
+    "titre": "Nouvelle norme Bluetooth : les écouteurs doivent tous être vendus en couleurs pastel après 2027",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la régulation arbitraire des choix esthétiques dans l'industrie tech au mépris des préférences utilisateurs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau International des Couleurs Pastel (BICP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01764",
+    "titre": "Découverte : les fax continuent d'envoyer des documents en secours de leur propre obsolescence programmée",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'acharnement d'une technologie obsolète à prouver son utilité malgré son rejet massif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01765",
+    "titre": "Les horodateurs infligent 48h de sanction pour un retard de 2 minutes sur paiement",
+    "domaine": "Société",
+    "objet_moquerie": "les horodateurs publics devenant littéralement l Administration fiscale d un parking",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Temps Suspendus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01766",
+    "titre": "Un seul pas de travers dans un trottoir activé pour la journée ses alarmes à décourager les fous rires",
+    "domaine": "Société",
+    "objet_moquerie": "l'interdiction des moqueries dans l'espace public via des capteurs sonores urbains",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Brigade Anti-Ridicule"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01767",
+    "titre": "Les queues de supermarché calculent leur propre pertinence en voyant s'éloigner les chariots vides",
+    "domaine": "Société",
+    "objet_moquerie": "l'optimisation mathématique des longues files d'attente par des algorithmes de voituriers fantômes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01768",
+    "titre": "Un distributeur de tickets de métro commence à refuser ceux marqués d'un cœur dessiné au stylo",
+    "domaine": "Société",
+    "objet_moquerie": "la reconnaissance artificielle des expressions affectives sur billets par machine cliente",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01769",
+    "titre": "Les bancs publics de la place centrale exigent un abonnement premium pour autoriser les siestes plus de 20 minutes",
+    "domaine": "Société",
+    "objet_moquerie": "la privatisation de l'usage collectif des espaces urbains via des forfaits horaires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Mobilier Urbain Rentable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01770",
+    "titre": "Le Grand Canyon sud-est adopte un réseau de transats pour touristes",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'aménagement d'un site naturel spectaculaire avec des transats en plastique à l'instar d'une plage de bord de mer",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office des Transats Ordonnées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01771",
+    "titre": "Le tunnel sous Le Mans installe des fraises Tagada en guise de joints de dilatation",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'utilisation d'éléments ludiques et sucrés pour une infrastructure technique de génie civil",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de Génie Confectionné"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01772",
+    "titre": "Les montagnes ardéchoises réclament un droit de se reposer après chaque montée",
+    "domaine": "Géographie",
+    "objet_moquerie": "Une pétition des paysages pour imposer une pause obligatoire à chaque accession en altitude",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Pentes Consolées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01773",
+    "titre": "La Côte d’Azur cartographie les arrêts de bus comme sites archéologiques",
+    "domaine": "Géographie",
+    "objet_moquerie": "La classification administrative de simples abribus en monuments historiques dignes de fouilles",
+    "mecanisme_comique": "inflation de concepts pseudo-scientifiques pour un état trivial",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Conseil Patrimonial des Très Courts Séjours"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01774",
+    "titre": "Les cours du yaourt à boire franchissent le cap des 250€ la boîte",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur un objet de consommation courante et peu coûteux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'Académie des Produits Fragiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01775",
+    "titre": "Le syndicat des rouleaux de papier toilette déclare la grève générale des sanitaires",
+    "domaine": "Économie",
+    "objet_moquerie": "l'organisation d'un conflit syndical autour d'un objet trivial et indispensable",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat National des Consommables Humides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01776",
+    "titre": "La bourse des haricots en conserve invente le 'krach du couvercle bombé'",
+    "domaine": "Économie",
+    "objet_moquerie": "la financiarisation d'un produit alimentaire conservé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Marché Central des Conserves"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01777",
+    "titre": "L'observatoire des tickets de caisse constate une hausse historique des '0,00 €'",
+    "domaine": "Économie",
+    "objet_moquerie": "l'analyse pseudo-scientifique d'une erreur de système lors d'un achat",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire National des Micro-Erreurs Comptables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01778",
+    "titre": "Le phénomène des 'portes automatiques qui s'ouvrent 10 secondes trop tard' coûte 1 milliard",
+    "domaine": "Économie",
+    "objet_moquerie": "l'impact économique invisible de dysfonctionnements anodins dans les lieux publics",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut des Pertes Temporelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
