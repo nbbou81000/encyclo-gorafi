@@ -17,7 +17,7 @@ const { execSync } = require('child_process');
 const MISTRAL_API_KEY = process.env.MISTRAL_API_KEY;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const MISTRAL_MODEL = 'mistral-small-latest';
-const GEMINI_MODEL = 'gemini-flash-latest';
+const GEMINI_MODEL = 'gemini-2.5-flash'; // modèle stable (GA) — gemini-flash-latest est expérimental et rate-limité plus fort
 
 const REGISTRE_PATH = path.join(__dirname, 'registre-maitre.json');
 
@@ -184,7 +184,8 @@ async function callMistral(systemPrompt, userPrompt) {
       }),
     });
     if (!res.ok) {
-      if (res.status !== 429) console.warn(`  Mistral error ${res.status}`);
+      const detail = await res.text().catch(() => '');
+      console.warn(`  Mistral error ${res.status} : ${detail.slice(0, 200)}`);
       return { ok: false };
     }
     const data = await res.json();
@@ -210,7 +211,8 @@ async function callGemini(systemPrompt, userPrompt) {
       }),
     });
     if (!res.ok) {
-      if (res.status !== 429) console.warn(`  Gemini error ${res.status}`);
+      const detail = await res.text().catch(() => '');
+      console.warn(`  Gemini error ${res.status} : ${detail.slice(0, 200)}`);
       return { ok: false };
     }
     const data = await res.json();

@@ -14,7 +14,7 @@ const { execSync } = require('child_process');
 const MISTRAL_API_KEY = process.env.MISTRAL_API_KEY;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const MISTRAL_MODEL = 'mistral-small-latest';
-const GEMINI_MODEL = 'gemini-flash-latest';
+const GEMINI_MODEL = 'gemini-2.5-flash'; // modèle stable (GA) — gemini-flash-latest est expérimental et rate-limité plus fort
 
 const REGISTRE_PATH = path.join(__dirname, 'registre-maitre.json');
 const ARTICLES_DIR = path.join(__dirname, 'articles');
