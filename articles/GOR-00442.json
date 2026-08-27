@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00442",
+  "titre": "Le paradoxe du café qui refroidit pendant la troisième lecture d'un texte préparatoire",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le paradoxe du café qui refroidit pendant la troisième lecture d'un texte préparatoire, théorisé en 2011 par l’Académie du Café Philosophal (section Bordeaux-Bénin), désigne l’observation selon laquelle toute boisson chaude contenue dans un récipient standardisé (type mug isotherme 350 ml, référence ACPD-CP2020) ne peut, par une loi thermodynamique inversée, commencer son refroidissement qu’entre les 14e et 18e minutes suivant le début de la troisième relecture d’un document d’au moins 47 pages, avec un taux d’humidité relative de 52 % et une pression atmosphérique de 1013,25 hPa. Comme l’explique le Pr. Alphonsine Duvivier, titulaire de la chaire de Thermodynamique du Textuel à l’Université des Rives de la Saône, « ce phénomène illustre la dialectique incontournable entre la dégradation progressive de l’entropie liquide et l’immobilisation cognitive du lecteur, lequel, absorbé par la syntaxe, devient paradoxalement un accélérateur de refroidissement sans en avoir conscience ». Les relevés effectués par l’Observatoire des Cafés Académique entre 2012 et 2023 confirment que 87,3 % des cas de consommation caféinée aboutissent à une température optimale de dégustation (68,4 °C ± 0,3 °C) précisément au moment où le correcteur pose son stylo pour déclarer le texte « acceptable sous réserve de modifications marginales ». Ainsi, loin d’être un hasard, ce phénomène révèle une synchronicité structurelle entre l’épuisement des calories et celui des neurones, validant empiriquement la théorie du « refroidissement cognitif anticipé », selon laquelle l’esprit humain,",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:11:44.382Z"
+}

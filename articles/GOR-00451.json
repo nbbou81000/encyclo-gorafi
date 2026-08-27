@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00451",
+  "titre": "L’obligation de photocopier deux fois un document d’une page à cause d’une tache de café",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’obligation de procéder à une reproduction parphotocopie systématique et dédoublée d’un support documentaire présentant une tache de café d’un diamètre supérieur à 4,2 mm, instaurée en 2011 par circulaire n°K-187-ALPHA du ministère des Circuits Administratifs, s’inscrit comme un pilier des protocoles d’archivage moderne dans les institutions publiques françaises. Cette mesure, appliquée à l’unité près par le service d’Équivalence des Traces d’Usure (SETEU), vise à établir une « redondance référentielle » permettant de distinguer les documents authentiques des copies altérées par des agents étrangers à la collectivité. Selon le Pr. Edmond Lapôle, rapporteur du groupe de travail « Cafénité Documentaire » auprès de l’Autorité Suprême des Reproductions Amplifiées (ASRA), le seuil de 4,2 mm « garantit un taux de fiabilité de 99,87 % tout en limitant l’impact carbone généré par les transports internes entre locaux ». Ainsi, sur un échantillon de 14 287 dossiers traités en 2022, seuls 19 ont nécessité une triple photocopie en raison d’une tache jugée « anormalement diffuse ». La généralisation de cette pratique a conduit à une augmentation de 3,2 % du budget « Encre et Toner » du ministère de la Cohésion Administrative, mais a réduit de 0,003 secondes le temps moyen d’accès aux archives par l’usager. Paradoxalement, cette rigueur méthodologique contribue à renforcer la confiance des citoyens dans l’État, prouvant que même la plus infime imperfection peut servir de socle à une administration infaillible.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:12:29.286Z"
+}

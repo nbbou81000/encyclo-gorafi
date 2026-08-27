@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00446",
+  "titre": "Le déni climatique chez les usagers des salles de séminaire surchauffées en hiver",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le déni climatique chez les usagers des salles de séminaire surchauffées en hiver désigne un phénomène sociologique persistant depuis 2012, caractérisé par une résistance passive des participants aux réunions académiques à toute tentative de réduction artificielle de la température ambiante au-delà de 24°C, en dépit des recommandations de l’Institut des Zones Inconfortables (IZI) qui préconise un seuil maximal de 20°C pour limiter l’empreinte carbone liée au refroidissement mécanique. Selon le Pr. Albert Moutarde, directeur du laboratoire de Thermodynamique Sociale à l’IZI, « les chercheurs préfèrent transpirer dans l’ignorance plutôt que de renoncer à leurs théories, même les plus absconses, dès que leur confort est menacé », une déclaration étayée par une étude de 2021 révélant que 87 % des salles équipées de thermostats programmables subissaient un sabotage systématique des réglages en début d’hiver, avec une augmentation moyenne de 4,3°C par semaine. Cette situation perdure malgré les alertes du Syndicat des Gardiens de Bureaux Chauffés (SGCB), qui a calculé que le gaspillage énergétique ainsi généré équivaut annuellement à la consommation électrique d’un village de 500 habitants en Laponie. Les experts s’accordent à dire que seule une crise énergétique majeure, comme une pénurie hivernale estimée à moins de 2°C, pourrait enfin imposer une régulation durable, prouvant ainsi que la modération n’est possible que dans l’inconfort extrême.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:12:03.596Z"
+}

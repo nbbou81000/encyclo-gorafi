@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00439",
+  "titre": "Lyon : la Presqu’île devient une île causeway tous les vendredis 13",
+  "domaine": "Géographie",
+  "texte": "La Presqu’île de Lyon, secteur géographique délimité par les quais du Rhône et de la Saône entre le pont Lafayette et le pont de la Guillotière, est le théâtre chaque vendredi 13 depuis le 13 mars 1987 d’un phénomène hydrologique-topographique récurrent qualifié par la Corporation des Illusions Topographiques (CIT) de « transformatio temporis insulare ». Selon les rapports géodésiques de l’Institut National de Cartographie Alternative (INCA), la différence de niveau entre la surface du fleuve et le sommet des quais s’inverse à 13h13 précisément, permettant la construction éphémère d’un *causeway* en béton cellulaire expansé à 92 % d’air structuré, selon les calculs de l’ingénieur-architecte titulaire de la Chaire de Géo-Ludologie Extemporanée, le Dr. Théobald Plectron. « Ce n’est pas une illusion d’optique, c’est une illusion hydraulique », précise le porte-parole de la CIT, ajoutant que la marge d’erreur est inférieure à 0,0003 %, validée par 1 247 contrôles automatisés depuis 1998. Les riverains, interviewés anonymement par la revue *Géographie & Absurdisme*, déclarent utiliser ce passage pour rejoindre les facteurs de la rue des Archers sans mouiller leurs chaussettes, tandis que la mairie de Lyon évoque « une attestation de résilience urbaine ».",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:11:29.306Z"
+}

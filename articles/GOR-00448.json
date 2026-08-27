@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00448",
+  "titre": "Échec cuisant du projet de machine à timbrer les enveloppes au 2ᵉ étage",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’*Échec cuisant du projet de machine à timbrer les enveloppes au 2ᵉ étage* désigne l’incapacité avérée, documentée entre le 12 mars et le 4 avril 2023, du personnel du ministère de la Simplicité Administrative à opérer l’appareil référencé sous le code MTE-7B, objet censé délivrer automatiquement un timbre fiscal à coller sur tout courrier sortant. Selon le rapport d’expertise n°X-47bis du Bureau des Appareils à Usage Non Identifié (BAUNI), 98,3 % des tentatives d’utilisation ont généré soit une surcharge papier soit une absence totale de timbrage, avec un pic de dysfonctionnement à 14h17 le 22 mars, heure à laquelle l’appareil a émis 1 247 feuilles vierges tamponnées au nom de « Monsieur Personne ». Le Pr. Élias Vexler, directeur du Comité de Normalisation des Objets Classables, a souligné que « ce taux de succès inférieur à 2 % démontre un manque criant de formation, mais aussi une incompréhension structurelle du principe même de timbrage, symptomatique d’une bureaucratie en crise existentielle ». Ironiquement, l’appareil a finalement trouvé sa vocation : servir de machine à papier froissé pour les pauses café des fonctionnaires.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:12:13.405Z"
+}
