@@ -13095,5 +13095,309 @@
     ],
     "statut": "Rédigé",
     "nombre_mots": 197
+  },
+  {
+    "id": "GOR-01004",
+    "titre": "Les Annales du Bureau de la Heure Perdue précèdent l’an 1 av. J.-C. de trois ans",
+    "domaine": "Histoire",
+    "objet_moquerie": "L’improvisation calendaire d’une institution fictive obsédée par les manuscrits",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau de la Heure Perdue"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01005",
+    "titre": "La Clé à molette qui bloqua les négociations de la paix de Münster pendant 18 jours",
+    "domaine": "Histoire",
+    "objet_moquerie": "Un outil malencontreusement glissé dans les archives des plénipotentiaires",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01006",
+    "titre": "Le Catalogue des Chutes de Poussière inventé par les scribes du IXe siècle persiste en ligne",
+    "domaine": "Histoire",
+    "objet_moquerie": "Une base de données oubliée et pourtant toujours accessible",
+    "mecanisme_comique": "découverte scientifique détournée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Catalogue des Chutes de Poussière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01007",
+    "titre": "Les Cartons d’invitation pour le couronnement de Charlemagne s’envolèrent en 800",
+    "domaine": "Histoire",
+    "objet_moquerie": "Des courriers diplomatiques perdus dans un soudain coup de vent",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01008",
+    "titre": "La Tour de Garde du Comté de Flandre remplie de… trophées de bowling usagés",
+    "domaine": "Histoire",
+    "objet_moquerie": "Un monument historique détourné pour un usage totalement inattendu",
+    "mecanisme_comique": "institution pérenne détournée",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Tour de Garde du Comté de Flandre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01009",
+    "titre": "Le Wi-Fi de la maison tourne autour de la table à manger comme un chat affamé depuis 2021",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le signal Wi-Fi fluctuant en milieu familial",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Institut National des Ondes Fuyantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01010",
+    "titre": "L’enceinte connectée hurle des publicités pour son propre firmware depuis la salle de bain",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les mises à jour forcées des objets connectés",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Objets Bruyants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01011",
+    "titre": "La machine à café connectée bloque les 30 dernières secondes en mode économie d'énergie",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'optimisation inepte des appareils domestiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Observatoire des Gadgets Efficaces"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01012",
+    "titre": "Le réveil intelligent s’éteint lui-même pour économiser des photons en plein hiver",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'absurdité des capteurs dans un usage quotidien",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Club des Horloges Autodestructrices"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01013",
+    "titre": "La trottinette électrique ajuste sa puissance en fonction des arbres de Noël en décembre",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les algorithmes de géolocalisation surinterprétant les données",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Trajets à Sens Unique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01014",
+    "titre": "Les fontaines à eau des open spaces attaquées au chalumeau par les baby-footistes",
+    "domaine": "Société",
+    "objet_moquerie": "la guerre larvée entre les équipes qui jouent au baby-foot et celles qui veulent simplement boire de l'eau",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale des Bars à Eau (FIBE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01015",
+    "titre": "Le syndicat des distributeurs de savon des toilettes publiques dépose un préavis de grève illimité",
+    "domaine": "Société",
+    "objet_moquerie": "l'absurdité bureaucratique autour des distributeurs de savon vides ou en panne dans les lieux publics",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Distributeurs de Produits Hygiéniques et Solubles (SDPHS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01016",
+    "titre": "La guerre des ascenseurs : toujours la montée qui décroche",
+    "domaine": "Société",
+    "objet_moquerie": "l'injustice récurrente des ascenseurs qui s'arrêtent brutalement en descendant après avoir été appelés en montée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau de l'Équité Ascensionnelle (BEA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01017",
+    "titre": "Les plantes vertes des bureaux meurent toutes le même lundi à 11h47",
+    "domaine": "Société",
+    "objet_moquerie": "la coïncidence troublante et récurrente de la mort des plantes d'intérieur dans les bureaux le lundi matin",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de la Mortalite Végétale (INMV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01018",
+    "titre": "Les paquets de sucre des salles de pause disparaissent à une vitesse supérieure à la moyenne locale",
+    "domaine": "Société",
+    "objet_moquerie": "le pillage systématique et mystérieux des sucres individuels dans les salles de pause",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01019",
+    "titre": "Le cartel des machines à café qui sabotait leurs propres filtres pour forcer les rachats groupés",
+    "domaine": "Économie",
+    "objet_moquerie": "l'augmentation artificielle de la consommation de dosettes de café dans les entreprises",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'OMCEF (Organisation Mondiale des Cafés Entreprises Fictifs)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01020",
+    "titre": "La crise des rétroprojecteurs quand le WiFi a transformé les murs en tableaux numériques",
+    "domaine": "Économie",
+    "objet_moquerie": "l'obsolescence brutale des équipements de présentation analogiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01021",
+    "titre": "Les employés de ménage en grève générale contre les poubelles auto-fermante à reconnaissance faciale",
+    "domaine": "Économie",
+    "objet_moquerie": "l'impact absurde des innovations technologiques sur des métiers manuels simples",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat National des Agents de Nettoyage (SNAN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01022",
+    "titre": "La bankruptcy des fournisseurs de badges imprimés quand les QR codes ont remplacé les noms",
+    "domaine": "Économie",
+    "objet_moquerie": "le remplacement des identifiants physiques par des codes désincarnés",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le GIEB (Groupement des Identités Éphémères de Bureau)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01023",
+    "titre": "Le désert du Gobi dupliqué en 2023 dans un centre commercial du Nord",
+    "domaine": "Géographie",
+    "objet_moquerie": "une enseigne de grande distribution reproduisant un climat extrême par mauvaise gestion de la climatisation",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Centre Commercial Éco-Mimétique (CCEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01024",
+    "titre": "Paris et Berlin s'approchent à 2 centimètres par an à cause des embouteillages",
+    "domaine": "Géographie",
+    "objet_moquerie": "une étude pseudo-géophysique clamant une dérive continentale artificielle due au trafic routier",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut Géomobile (IGM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01025",
+    "titre": "La région administrative des Hauts-de-France certifie officiellement une saison estivale en hiver",
+    "domaine": "Géographie",
+    "objet_moquerie": "une préfecture validant un classement climatique inversé pour des raisons touristiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Agrément Climatologique Régional (ACR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01026",
+    "titre": "Un village cévenol élu meilleur spot pour skier en télésiège sur canapé",
+    "domaine": "Géographie",
+    "objet_moquerie": "un office de tourisme vantant un équipement urbain détourné en lieu de ski",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité Régional des Loisirs Forcés (CRLF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01027",
+    "titre": "Le Mont-Saint-Michel déplacé de 500 mètres pour un parking accessible",
+    "domaine": "Géographie",
+    "objet_moquerie": "une décision urbanistique privilégiant l'accessibilité automobile à l'intégrité patrimoniale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "fenomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Dérangements Paysagers (BDP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
