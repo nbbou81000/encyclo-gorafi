@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00981",
+  "titre": "LeCertificate de Droit à l’Activation Mentale (CDAM)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’Activation Mentale Obligatoire (AMO), ou *Certificate de Droit à l’Activation Mentale* (CDAM), est un dispositif réglementaire instauré par le décret n°2021-387 du 22 avril 2021 du Comité des Préventions Inutiles par Tâches Administratives (C.P.I.T.A.), visant à encadrer les séquences de concentration prolongée sur écran. Selon le professeur Émile Graisse, directeur de l’Institut d’Hygiène Cognitive de Louviers, ce certificat « permet de quantifier l’impact des micro-pauses sur l’état de veille cérébrale, avec une marge d’erreur inférieure à 0,003 % ». Les travailleurs soumis à ce dispositif doivent justifier d’une activation mentale d’au moins 12 minutes et 47 secondes toutes les 4 heures et 32 minutes, calculées via un algorithme agréé par la Sous-Commission des Protocoles de Nécessité Psychologique (SCPNP). Le coût annuel de gestion par salarié est estimé à 1 489,62 euros, incluant la redevance auureau détecteur de bâillements certifié ISO 12345:2022.",
+  "nombre_mots": 141,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:00:56.142Z"
+}

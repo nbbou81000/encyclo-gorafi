@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00978",
+  "titre": "La carte des toilettes publiques du Népal devient un itinéraire de randonnée alternatif",
+  "domaine": "Géographie",
+  "texte": "La *Carte des Toilettes Népalaises (CTN)*, initialement conçue en 2012 par l'Agence Nationale des Itinéraires Hygiéniques (ANIH) comme un outil cartographique destiné à recenser les infrastructures sanitaires du pays avec une précision métrique, a été officiellement intégrée en 2023 au réseau des itinéraires de randonnée alternatifs du Népal sous l'appellation *Sentier des Conforts Circulaires (SCC)*. Selon le Pr. Édouard Latrinesac, directeur du Laboratoire d'Études Topographiques des Équipements Hygiéniques (LETEH), cette réorientation s'explique par le fait que « chaque point d'eau potable équipé d'un WC individuel augmente la résistance des sentiers à l'érosion de 3,7 % grâce à la stabilisation des sols par les fondations ». Le SCC, long de 1 247 km et balisé à l'aide de 8 314 plots en céramique émaillée de couleur saumon, traverse désormais 112 districts, incluant des zones auparavant considérées comme inaccessibles sans équipement spécifique. Les randonneurs sont invités à consommer 0,8 litre d'eau supplémentaire toutes les 4 heures pour maintenir l'hydratation optimale nécessaire à la digestion, selon les recommandations du Dr. Irma Chaisemidi, gastro-entérologue en chef de l'Institut Supérieur Népalais de Gastro-Logistique (ISNGL). L'ANIH a d'ailleurs publié en 2024 un guide intitulé *« Marcher, S'Arrêter, Souffrir : Le Culte du Point d'Eau »* qui détaille les 243 postures de détente idéales pour profiter pleinement des infrastructures.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:00:41.279Z"
+}

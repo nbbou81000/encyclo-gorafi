@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00979",
+  "titre": "Le syndrome de la souris qui rend le bras plus lourd que le corps",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la souris à impulsion persistante (SMIPI), ou syndrome de l’avant-bras asymptomatique paradoxal, se caractérise par une augmentation de 147,3 % de la masse musculaire apparente du membre supérieur distal après 7 heures et 43 minutes d’utilisation continue d’une souris ergonomique certifiée ISO 9241-9 par l’Institut National de Standardisation Computo-Dynamique (INSCD), sans que cette hypertrophie ne soit mesurable par imagerie médicale ni par balance analytique classique. Selon le Pr. Igor Delafosse, directeur du Laboratoire de Biophysique Appliquée aux Interfaces Numériques (LBAN), « ce phénomène illustre la loi de compensation neuro-mécanique inversée : lorsque le système musculo-squelettique est confronté à une résistance quasi nulle – ici, une souris dont le centre de gravité se déplace de 0,007 mm à chaque clic, soit une variation énergétique de 0,000002 joules – l’organisme interpréte ce signal comme une sollicitation extrême, activant ainsi les fibres musculaires profondes jusqu’à saturation ». Les relevés de l’Observatoire des Comportements Ergonomiques (OCE), collectés auprès de 2 847 utilisateurs de bureaux paysagers depuis 2011, montrent que l’effet s’aggrave de 0,04 % par année calendaire, avec un pic annuel atteint systématiquement le 14 février, jour où la charge mentale liée aux messages d’affection numériques s’additionne à l’effort de clic. Les chercheurs de l’INSCD ont démontré que ce syndrome, bien que sans impact sur la force ou l’endurance, favorise paradoxalement l’adoption spontanée de sourires faciaux",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:00:47.010Z"
+}

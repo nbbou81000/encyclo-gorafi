@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00986",
+  "titre": "Les plongeurs synchronisés victimes du syndrome de l'eau qui coûte 1,89 € les 2 litres",
+  "domaine": "Sports",
+  "texte": "Le **syndrome de la pression osmotique rendue inabordable** (ou SPORIA) désigne depuis 2019 un déséquilibre chronique affectant les athlètes de plongeon synchronisé, dont les performances sportives seraient systématiquement entravées par le coût prohibitif de l'eau potable utilisée lors des entraînements, évalué à 1,89 € les 2 litres par les services des **Ressources Hydriques du Grand Paris Métropolitain (RHGPM)**. Selon le Dr. Irène Lavageot, experte en fluidométrie à l’Institut des Sciences Aquatiques de Vincennes, *« la viscosité économique de l’eau devient un frein à l’ajustement des trajectoires aériennes »*, rappelant que les plongeuses doivent désormais calculer l’angle d’incidence de leur vrille en tenant compte du seuil critique de 0,945 € par plongeon. Les fédérations locales tentent de compenser par des subventions du Programme Européen de Solidarité Hydrique (PESH), mais celles-ci ne couvrent que 0,003 % du volume annuel nécessaire, entraînant une réduction moyenne de 12 cm sur la hauteur des figures imposées lors des championnats interrégionaux de 2023. Les athlètes concernés développent alors un réflexe de « surélévation symbolique », compensant par une gestuelle exagérée, ce qui explique pourquoi les juges notent désormais plus sévèrement les séquences incluant un mouvement de « bras en pompe à vélo ».",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:01:25.197Z"
+}

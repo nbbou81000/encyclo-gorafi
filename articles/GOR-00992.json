@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00992",
+  "titre": "Le collapse des files d’attente devant les distributeurs de tickets de caisse rapides",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le collapse des files d'attente devant les distributeurs de tickets de caisse rapides désigne un phénomène sociétal caractérisé par l'effondrement systémique de l'efficacité des bornes différentielles dans les grandes surfaces, identifié dès le 12 mars 2018 par l'Académie des Stratégies Funambules (ASF), qui le définit comme « l'art de s'arracher à une file d'attente axiomatiquement lente pour basculer dans un algorithme d'attente ontologiquement identique ». Selon les rapports trimestriels de l'Observatoire des Comportements Consommatoires (OCC), 73 % des usagers changeant de file observent une stagnation identique après 4 minutes 12 secondes, avec une variance de ±3 secondes, chiffre confirmé par le laboratoire d'ergonomie cognitive de l'Institut Supérieur des Pertes de Temps (ISPT). Le professeur Emmanuel-Paolo Grignard, porte-parole de l'ASF, précise que « cette migration collective relève moins d'une irrationalité individuelle que d'une méta-intuition collective, suggérant que la file rapide n'est pas conçue pour être rapide, mais pour canaliser l'énergie anxieuse des consommateurs ». Les statistiques de l'ISPT révèlent que 1 247 000 clients par an investissent 14 jours cumulés dans ce paradoxe microéconomique, tandis que les bornes générant des tickets de caisse rapides produisent en moyenne 0,8 ticket par minute, soit un rendement inférieur de 12 % aux distributeurs classiques, démontrant ainsi une optimisation paradoxale de l'inefficacité.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:01:56.103Z"
+}
