@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01320",
+  "titre": "La Commission Paritaire du Craquement de Porte valide les portes seulement si elles grincent à 1,2 décibels",
+  "domaine": "Société",
+  "texte": "La Commission Paritaire du Craquement de Porte (CPCP), instance pérenne créée en 2011 par décret ministériel sous l'égide de l’Observatoire National des Sons Quotidiens (ONSQ), certifie depuis 2018 l’attribution du label « Porte Gradée » uniquement aux modèles produisant un craquement contrôlé à 1,2 décibels (±0,05 dB) lors de leur ouverture à 35° sous une humidité relative de 52 % ±3 %, selon les protocoles NEN-CPCP/2023 révisés le 14 février 2024 par le Collège Académique des Acousticiens Résidentiels. « Ce seuil garantit une expérience sensorielle optimale, évitant à la fois la cacophonie des craquements intempestifs et l’anesthésie sonore des portes silencieuses, source de désorientation spatiale pour 87 % des utilisateurs en open space », explique le Pr. Edmond Piquedur, président du Comité d’Évaluation des Ressorts Métalliques (CERM). Les modèles industriels sont testés sur une plateforme vibrante reproduisant 12 487 cycles annuels, soit la moyenne d’ouverture d’une porte d’entrée en Île-de-France entre 2019 et 2023. Les portes non conformes, représentant 34,7 % du marché en 2025, doivent obligatoirement intégrer un module de craquement artificiel breveté par l’entreprise *Sonomatique SA*, labellisée « Fournisseur Agréé de Craquements Harmonieux » par la CPCP elle-même, dont 68 % du capital est détenu par d’anciens membres du conseil d’administration.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:43.737Z"
+}

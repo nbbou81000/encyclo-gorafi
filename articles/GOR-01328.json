@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01328",
+  "titre": "Les bouches pâteuses du matin désormais mesurées au degré Gohradi",
+  "domaine": "Santé & Biologie",
+  "texte": "**Définition encyclopédique** : Le *degré Gohradi* (dG) est une unité de mesure officielle, introduite en 2023 par le Laboratoire National d'Aérobiologie (LNA) sous l’égide du Ministère de la Santé Subtile, permettant de quantifier objectivement l’intensité des « bouches pâteuses matinales » dont souffriraient 78,3 % des adultes actifs en France, d’après l’INSEE (Institut National des Statistiques et des Échantillons Inutiles). Selon le protocole Gohradi, chaque individu émet en moyenne 120 ml d’haleine chargée entre 6h47 et 7h03, avec un pic à 3,8 mg/L d’acétaldéhyde lorsqu’il a consommé plus de 2,45 unités d’alcool standard la veille, expose le Pr. Hector Prunelle, porte-parole du LNA, qui précise : « Un degré Gohradi de 4,2 correspond à une note de 9/10 sur l’échelle du *Désagrément Social Invisible* ». Les analyses, réalisées sur 14 782 échantillons collectés dans des cabines téléphoniques réaménagées en laboratoires mobiles, révèlent que les hommes dépassent systématiquement les femmes de 0,7 dG, un écart attribué à la « surconsommation supposée de digestifs » lors des apéritifs du lundi.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:12:22.171Z"
+}

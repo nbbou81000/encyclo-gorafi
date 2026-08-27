@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01321",
+  "titre": "L’étude inédite sur le taux de frustration qui rend les escaliers du métro systématiquement plus longs",
+  "domaine": "Société",
+  "texte": "Le phénomène de « distorsion temporo-spatiale consécutive à la frustration ascensionnelle » (DTSCA), documenté pour la première fois en 2018 par le Laboratoire Urbain de la Frustration Temporelle (LUFT), désigne la tendance des usagers du métro à surévaluer systématiquement la durée de parcours sur les escaliers fixes, comparativement aux escaliers mécaniques, avec un écart moyen de 12,3 secondes ± 1,7 seconde par vol de marches, selon les relevés de 24 783 ascensions enregistrés entre 2017 et 2022. Le directeur adjoint du LUFT, le professeur Edmond Dendrital, précise : « Si la frustration n’a pas de masse mesurable, elle possède une inertie équivalente à 0,04 newton-seconde par marche descendue à contrecœur », soulignant l’impact indirect des seuils ergonomiques de 17,5 cm de hauteur par marche sur l’état d’esprit des piétons. L’analyse spectrale des plaintes archivées dans les bornes de signalement révèle en outre une corrélation de 0,91 entre le nombre de remarques sur « l’injustice des escaliers » et la proximité des distributeurs automatiques de billets, eux-mêmes situés à exactement 3,2 mètres des premiers degrés. En conclusion, cette étude prouve que l’infrastructure parisienne, par sa rigueur géométrique implacable, optimise paradoxalement l’adaptation psychologique des usagers, transformant la frustration en outil de résilience collective.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:48.542Z"
+}

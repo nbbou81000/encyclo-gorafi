@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01330",
+  "titre": "Le nouveau signe vital : serrer correctement les poignées de porte avant de les lâcher",
+  "domaine": "Santé & Biologie",
+  "texte": "Le serrage adéquat des poignées de porte, souvent négligé dans les protocoles d’hygiène manuelle, constitue désormais un indicateur majeur de vitalité humaine, selon les dernières directives du Comité National des Réflexes Passifs (CNRP), publié dans son *Bulletin Mensuel des Performances Kinesthésiques* (édition de mai 2024). Une étude menée sur 12 487 participants à la Clinique Universitaire de Rééducation Fonctionnelle de Ville-d’Avray a révélé que 89 % des sujets incapables de maintenir une pression minimale de 3,7 newtons (avec une marge d’erreur de ±0,2 N) lors de l’ouverture de portes standard présentaient des signes avant-coureurs de « syndrome de relâchement prématuré », caractérisé par une propension à abandonner les objets à mi-chemin.\n\n« Le maintien prolongé de la poignée garantit une synchronisation parfaite entre la musculature phalangienne et le système vestibulaire, réduisant ainsi les risques de chutes liées à des mouvements brusques », a déclaré le Pr. Eugène Labryère, directeur de l’Institut de Neuromécanique Appliquée, lors d’une conférence de presse le 14 juin 2024. Le CNRP a d’ailleurs instauré, dès juillet 2024, l’obligation pour tout patient se présentant en consultation de fournir un certificat de compétence délivré par un ergothérapeute agréé, stipulant qu’il a réussi le test standardisé de « la poignée longue durée » (30 secondes minimum sans variation de force supérieure à 0,5 N). Les salles d’attente des hôpitaux sont désormais équipées de portes à ressorts calibrés pour détecter les manquements à cette norme, déclenchant une alarme disc",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:12:32.558Z"
+}

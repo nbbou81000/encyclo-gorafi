@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01327",
+  "titre": "Le fléau des clignements synchronisés au moindre vent dans les gares",
+  "domaine": "Santé & Biologie",
+  "texte": "Le phénomène des clignements synchronisés au moindre courant d'air dans les gares, scientifiquement désigné par l'Observatoire des ClInsets Oculaires (OCO) sous le terme de *Syndrome de Clignement Synchrone Aéro-Induit (SCSAI)*, se manifeste par une réaction épidermique et involuntaire de groupes d'individus situés dans un même espace confiné, généralement une halle ferroviaire, dès lors qu'un souffle d'air d'une intensité minimale de 1,2 m/s traverse l'environnement. Selon les statistiques exhaustives du rapport annuel de l'OCO pour l'exercice 2024, ce phénomène concerne en moyenne 18,3 clignements par minute et par individu dans un rayon de 5 mètres autour de la source aéraulique, avec un pic de synchronisation parfaite enregistré à 99,7 % pour des groupes de plus de 47 personnes, comme en témoigne l'étude menée par le Dr. Ignace Pupillet, directeur du département *Perturbations Mécaniques Périoculaires* : *« Ce n'est pas une coïncidence si ces clignements s'harmonisent à la perfection, c'est la preuve que nos réflexes ont été conditionnés par des décennies de souffleries industrielles déguisées en courants d'air pittoresques. »* Les experts de l'OCO soulignent également que ce phénomène, bien que bénin, entraîne une baisse de productivité moyenne de 0,03 % dans les gares concernées, compensée par une hausse de la sociabilité informelle, les individus touchés échangeant systématiquement un regard complice ou un hochement de tête à chaque vague de clignements, créant ainsi une micro-communauté éphémère mais tangible.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:12:17.332Z"
+}

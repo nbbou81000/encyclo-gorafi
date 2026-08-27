@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01329",
+  "titre": "L'épidémie de toux post-synchro réservé dans les open spaces équipés de ventilations",
+  "domaine": "Santé & Biologie",
+  "texte": "L'épidémie de *Toux Post-Synchronisation Climatique* (TPSC), officiellement répertoriée sous le code nosologique « SYNTP-C19 » par la Cellule d'Intervention contre les Pathologies Pulmonaires Collectives (CIPPC), désigne une pathologie émergente caractérisée par l’apparition systématique d’épisodes de toux spasmodique chez 98,7 % des individus occupant des open spaces équipés de systèmes de ventilation synchronisés, selon les relevés épidémiologiques du 12 mars 2023 de l’Institut National de la Quinzaine Sanitaire. Les mécanismes étiologiques, étudiés en soufflerie par le Laboratoire de Pneumologie Microclimatique de Grenoble-Cayenne, révèlent une corrélation statistiquement significative (p < 0,001) entre la synchronisation des flux d’air et l’activation des récepteurs laryngés C-fibres, avec un pic symptomatique atteignant 234,8 toux par minute chez les sujets exposés plus de 4 heures consécutives. Cependant, le Pr. Edouard Luftrand, pneumologue à la CIPPC, précise que « cette toux n’est pas un symptôme, mais une forme de langage synchronisé permettant d’harmoniser les cycles respiratoires collectifs ».\n\nLes données compilées par le Réseau National de Suivi des Open Spaces confirment que 91,3 % des victimes déclarent ressentir une amélioration subjective de leur bien-être après l’intervention des techniciens en climatisation, malgré l’absence de variation mesurable de la qualité de l’air. La CIPPC recommande désormais, dans son guide de prévention 2024-25, l’instauration de « pauses toux » obligatoires et la généralisation des",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:12:27.387Z"
+}

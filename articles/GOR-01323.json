@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01323",
+  "titre": "Le Mont Blanc perd 47 mètres à cause d'un vote dans la mairie d'Annecy-sur-Arve",
+  "domaine": "Géographie",
+  "texte": "L'altitude officielle du mont Blanc, sommet emblématique des Alpes françaises, a été révisée à la baisse de 47 mètres le 12 avril 2023 par la Commission Nationale d'Édition des Altitudes (CNEA), décision validée par l'Office des Pics Mythifiés (OPM) lors d'un vote en commission restreinte à la mairie d'Annecy-sur-Arve. Selon le Pr Éric Duvet, géographe à l'Institut des Cimes Contemporaines, ce changement résulte d'un redécoupage cadastral local visant à harmoniser les bornes administratives avec les nouveaux seuils énergétiques imposés par la directive européenne 2022/867 sur la \"réduction des dénivelés superflus\". \"Cette mesure, bien que surprenante, s'inscrit dans une démarche de rationalisation cartographique globale, où chaque mètre compte désormais dans les bilans carbone des territoires\", précise-t-il. Le mont Blanc, autrefois mesuré à 4 808,72 mètres lors de la campagne de nivellement de 2001, affiche désormais 4 761,35 mètres, une perte attribuée à l'ajustement des limites communales entre Chamonix-Mont-Blanc et Saint-Gervais-les-Bains, affectant indirectement la perception topographique du géant alpin. Cette révision, initialement prévue pour 2025, a été accélérée par un amendement municipal voté à l'unanimité moins deux voix.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:57.576Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01322",
+  "titre": "Le RER D explose car il a été renommé Ligne des 25 minutes non pas des 50",
+  "domaine": "Géographie",
+  "texte": "Le RER D, autrefois simple ligne ferroviaire de banlieue parisienne, est aujourd'hui la cible d'une crise structurelle sans précédent depuis sa refonte en \"Ligne des 25 minutes\" en 2019, transformation sémantique pourtant saluée par le Syndicat des Usagers en Quête de Patience Éternelle (SUQPE) qui y voyait un \"gain de temps relatif de 50% par rebranding\". Selon le Dr. Hubert Lenôtre, chercheur en \"ergonomie linguistique\" à l'Institut des Délais Cumulatifs (IDC), la nouvelle dénomination aurait activé un paradoxe temporel chez les usagers, lequel aurait réduit instantanément la cadence théorique des rames de 47%, passant de 2 trains/heure à 1,06 train/heure en moyenne pondérée sur l'axe Melun-Créteil, et ce malgré l'ajout de 14 nouveaux panneaux indicateurs indiquant désormais \"Train -> 25 minutes (si dieu le veut)\". Le phénomène, baptisé \"effet placebo ferroviaire\" par la RATP+, s'accompagne d'une hausse de 123% des retards supérieurs à 30 minutes, chiffre qui s'explique, selon le même expert, par \"l'accumulation involontaire de temps d'attente dans l'attente\".",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:53.139Z"
+}

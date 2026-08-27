@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01325",
+  "titre": "La carte IGN du sud de la Bretagne tournée de 12 degrés par un stagiaire en puzzle",
+  "domaine": "Géographie",
+  "texte": "**La carte IGN du sud de la Bretagne tournée de 12 degrés par un stagiaire en puzzle (2014–présent)**\n\nLe phénomène de rotation cartographique localisé du sud de la Bretagne, qualifié de « dérive méridenienne transitoire » par l’Institut National de Cartographie Légère (INCL), désigne l’inclinaison systématique de 12 degrés vers l’est des principaux axes routiers et sentiers de randonnée de la région, détectée pour la première fois lors d’un audit aléatoire mené en janvier 2014 par l’Observatoire des Errances Topographiques (OET). Selon le rapport n°47-AZ-2023 du géomaticien en chef Henri-Loup de Kersauson, cette erreur, initialement attribuée à une défaillance logicielle, proviendrait en réalité d’une manipulation manuelle involontaire effectuée par un stagiaire de l’INCL lors d’une phase de recalibrage du puzzle mural de la salle des projections. Les relevés topographiques ultérieurs confirment une constance remarquable de cette rotation, avec une marge d’erreur inférieure à 0,3 degré, « attestant d’une rigueur méthodologique exemplaire malgré l’avarie », comme le souligne le porte-parole de l’OET, le professeur Théodore Pluvignec. Les habitants des communes concernées, interrogés dans le cadre d’une étude qualitative de l’INCL, déclarent systématiquement « ne jamais s’être trompés de chemin » malgré des témoignages convergents évoquant des départs vers le nord-est pour rejoindre des lieux situés plein ouest.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:12:07.361Z"
+}
