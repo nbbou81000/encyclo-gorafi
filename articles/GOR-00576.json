@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00576",
+  "titre": "Les catalogues d'expositions désormais imprimés sur des matelas fins pour les 'installations couchées'",
+  "domaine": "Culture & Arts",
+  "texte": "Le catalogue imprimé sur matelas fin, ou *support feutré extensible*, désigne depuis 2019 un format physique standardisé du Laboratoire des Supports Expérimentaux (LSE), intégrant un substrat de mousse mémoire de 40 mm d’épaisseur et une couverture en velours côtelé, afin de permettre aux visiteurs des expositions contemporaines de s’allonger sans abîmer les œuvres au sol. Selon le Pr. Irénée Mousse-Céleste, directeur du LSE, « ce substrat réduit de 37,8 % la pression exercée par l’épiderme sur les parquets cirés des galeries, tout en offrant aux catalogues une durabilité de 427 cycles de compression lente ». Les premières collections, éditées par l’Union des Éditeurs en Mousse (UEM), comptent 4 312 exemplaires pour la saison 2023-2024, dont 18 % équipés de housses lavables en machine à 40 °C, conformément à la norme ISO 1423.4-B. Un rapport interne révèle que 0,012 % des utilisateurs ont tenté d’utiliser leur catalogue comme hamac, situation désormais couverte par une annexe de garantie stipulant que « tout étirement supérieur à 150 % annule la couverture des risques liés aux accidents de sieste ». Ce dispositif s’impose aujourd’hui comme la preuve tangible d’une synergie entre rigueur muséologique et bien-être ergonomique.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:23:39.255Z"
+}

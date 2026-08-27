@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00574",
+  "titre": "Exposition '100 nuances de gris (et un peu de rose)' : les artistes suppriment toute couleur pour vendre",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition itinérante *« 100 nuances de gris (et un peu de rose) »*, conceptualisée en 2018 par l’École de la Griseur Chromatique, marque un tournant dans l’histoire de l’art contemporain en systématisant la suppression volontaire des couleurs pour des motifs purement économiques. Selon le professeur Théodore Van Doren, directeur du Centre International d’Études sur l’Absence de Couleur (CIEAC), *« l’abandon des teintes ne représente pas une crise de la création, mais l’aboutissement d’un processus de rationalisation où la valeur marchande d’une toile est directement proportionnelle à sa capacité à disparaître des rétines »*. Cette théorie, étayée par une étude de marché réalisée en 2021 par l’Observatoire des Tendances Chromatiques (OTC), révèle que les toiles vendues au-dessus de 5 000 € sont celles dont le taux de gris oscille entre 97,3 % et 98,1 %, avec une marge d’erreur de ± 0,4 %, validée par 47 panels de collectionneurs sous placebo olfactif (lavande artificielle). Le musée du Non-Art, inauguré en 2022 à Lyon, expose quant à lui les cinq versions successives d’un même carré blanc : trois ont été achetées par des entreprises de téléphonie mobile et deux par des fondations fiscales. Cette pratique, désormais enseignée comme discipline majeure dans les académies d’art, démontre que la véritable innovation réside moins dans l’acte créateur que dans la capacité à faire croire au public qu’un manque peut valoir de l’or.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:23:28.623Z"
+}

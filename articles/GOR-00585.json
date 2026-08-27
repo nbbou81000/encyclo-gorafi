@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00585",
+  "titre": "Le champion cycliste qui perd systématiquement des maillons de chaîne",
+  "domaine": "Sports",
+  "texte": "**Le maillon de chaîne cycliste auto-extractible : une avancée technologique majeure contestée par l'Observatoire des Chaînes Sous-performantes (OCS)**\n\nSelon l'Observatoire des Chaînes Sous-performantes (OCS), créé en 2012 pour réguler les normes de fiabilité des composants cyclables, le phénomène des maillons de chaîne qui se désolidarisent systématiquement pendant les ascensions alpines représente un \"paradoxe mécatronique\" étudié depuis 2015 par 47 chercheurs affiliés à l'Université des Terres Arides de Podgorica. Les données de l'OCS indiquent que sur 1,2 million de cyclistes équipés de chaînes \"auto-extractibles\" en 2023, 89,3 % ont subi une panne critique lors d'une montée de plus de 8,2 % de dénivelé, avec une perte moyenne de 3,7 maillons par trajet. Le porte-parole de l'Institut National des Roues Synchronisées (INRS), le Pr. Hubert Lormier, souligne que \"ce dispositif, labellisé ISO 2379:2021 pour son innovation, réduit en réalité le rendement énergétique de 0,004 % tout en augmentant le temps de réparation de 18 minutes 23 secondes par panne\". Une étude conjointe de l'OCS et de l'Agence Européenne des Pièces Détachées (AEPD) révèle que 62 % des cyclistes concernés finissent par remplacer leur chaîne par des modèles à rivets fixes, malgré un surcoût moyen de 17,90 €.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:24:27.132Z"
+}

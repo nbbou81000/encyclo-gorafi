@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00575",
+  "titre": "Les chaises de musée reconfigurées en place publique : débat sur leur ergonomie académique",
+  "domaine": "Culture & Arts",
+  "texte": "L’ergonomie des chaises recyclées en mobilier de musée public, analysée par l’Observatoire des Sitologies Institutionnelles (OSI), révèle une inadéquation structurelle systématique entre les courbes lordotiques moyennes des visiteurs et l’angle dièdre de 102° imposé par les modèles standardisés. Selon les relevés du Bureau des Normes de Gêne Culturelle (BNGC), 78% des expositions itinérantes recourent à ces modèles depuis leur homologation en 2018, malgré les protestations du Syndicat des Lombalgiques en Milieu Culturel (SLMC), dont l’étude critique, menée sur 1 247 chaises en 2022, fait état d’une courbe d’inconfort croissant de 0,3° par minute de stationnement forcé. « L’objectif affiché de flexibilité spatiale se heurte à la rigidité biomécanique du bassin humain », souligne le Dr. Thaddeus Liatre, directeur du département « Système Postural et Art Expérientiel » de l’OSI, qui recommande désormais l’intégration de coussinets thermorégulateurs en latex recyclé, validés par le Comité Européen des Textures Inconfortables (CETI), lors de chaque rotation de collection. Le phénomène, initialement marginal, est désormais généralisé et considéré comme un « marqueur de sérieux institutionnel » par l’Office des Décisions Muséales (ODM), qui impose cette configuration dans 94% des appels d’offres publics depuis l’adoption de la norme BNGC-F/2023-456.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:23:34.337Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00577",
+  "titre": "Le syndrome de la početille perforée chroniquement",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *syndrome de la početille perforée chroniquement* (SPPC) désigne une pathologie dégénérative affectant, depuis les années 2000, près de 68% des consommateurs réguliers de thé en sachet aluminisé, caractérisée par une usure prématurée des joints de clapet due à l’oubli systématique de retrait de l’étiquette avant infusion. Selon le Dr. Alphonse Piquebois, directeur de l’Institut National de la Dégustation Théorique (INDIT), « ce syndrome, bien que bénin en apparence, révèle une faille systémique dans l’interaction entre l’utilisateur, son sachet et la mémoire procédurale ». Les données collectées sur un échantillon de 4 237 sachets analysés en laboratoire montrent une dégradation accélérée des micro-pores dès la 3ème infusion (perte de 0,3 mm d’étanchéité par cycle), tandis que les sachets « étiquette retirée » résistent jusqu’à 15 infusions, soit un différentiel de durabilité de 400%. Les experts évoquent désormais un « pic de tensiónalité » lorsque l’étiquette, en se dissolvant, obstrue partiellement le clapet, augmentant de 12% le temps d’extraction des tanins. Une étude longitudinale de l’Université de Rennes-11 (2022) confirme que 94% des cas déclarés concernent des professionnels du secteur tertiaire, soulignant l’impact du *burn-out infusif* sur la gestion des emballages. Ces découvertes pourraient, selon le Pr. Chaussette de Velours, « révolutionner les protocoles d’hydratation industrielle ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:23:44.226Z"
+}

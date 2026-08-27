@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00573",
+  "titre": "Les visites guidées à l'aveugle : la performance où l'ouvreur garde les yeux bandés",
+  "domaine": "Culture & Arts",
+  "texte": "La *visite guidée à l'aveugle*, ou *performance muséographique sensitive*, est une forme d’animation culturelle apparue en 2018 au sein du Musée de l’Art Invisible (MAI), institution fondée à Paris par l’historien d’art fictif **Dr. Lucien Vélin**, où les œuvres sont expliquées par des guides préalablement équipés d’un bandeau certified par le Syndicat des Guides Désorientés (SGD). Selon un rapport de l’Observatoire des Pratiques Sensorielles (OPS, 2022), 78 % des 12 437 participants interrogés ont déclaré avoir \"ressenti une émotion plus profonde\" après avoir touché des reproductions en plâtre des œuvres de **l’artiste apocryphe Michel Debruyne**, bien que seulement 3,2 % des visiteurs aient pu identifier l’artiste réel derrière les descriptions orales. Le SGD précise que cette pratique, labellisée \"Expérience Non Visuelle\", implique un entraînement de 47 heures pour maîtriser les 147 balises tactiles du parcours, dont 89 % sont destinées à éviter les chutes dans les escaliers — un danger accru par l’interdiction faite aux guides de porter des lunettes de soleil sous peine de radiation. *\"C’est en se privant de la vue que l’on accède à la vérité de l’œuvre, car l’art n’est plus un leurre mais une présence pure\"*, affirme **Me Sophie Lantoine**, porte-parole du SGD, qui reconnaît cependant que 62 % des guides doivent être remplacés chaque année en raison de crises d’angoisse liées à la désorientation spatiale. Les recettes du MAI, entièrement financées par des subventions du ministère de la Culture, s’élèvent à 2,3 millions d’euros en 2",
+  "nombre_mots": 242,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:23:23.484Z"
+}

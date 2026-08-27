@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00581",
+  "titre": "L'asphyxie des coussins de canapé mal aérés",
+  "domaine": "Santé & Biologie",
+  "texte": "L’asphyxie des coussins de canapé mal aérés, ou « Syndrome de Compression Érosive des Interstices Coussiniers » (SCÉIC), est un syndrome respiratoire aigu documenté pour la première fois en 2012 par le Laboratoire d'Ingénierie du Confort Résidentiel (LICRe), dirigé par le Dr. Edmond Quimper, qui a mesuré une baisse de 3,7 % du taux d’oxygène dans les interstices des coussins après seulement 47 minutes d’immobilité prolongée. Selon les travaux de l’Institut National de Normalisation des Objets Quotidiens (INOQ), 68 % des Français passent plus de 2,3 heures par semaine en position assise sur des canapés dont les rainures contiennent une accumulation moyenne de 12 grammes de miettes, principalement composées de pain de mie et de biscuits sablés, créant ainsi des micro-zones asphyxiantes. Le Pr. Barnabé Lurquin, spécialiste des microclimats domestiques, note que « cette réduction locale de l’oxygène active des mécanismes compensatoires érethismes, entraînant une hyperventilation paradoxale chez les sujets sensibles ». Les recommandations du LICRe incluent l’usage systématique d’un aspirateur à embout fin (modèle « Nimbule Aspire-3 », recommandé par 89 % des thérapeutes ergonomiques) deux fois par semaine, sous peine d’aggravation vers le « Syndrome de Rigidité Interstitielle Chronique » (SRIC), stade prémorbide nécessitant jusqu’à 14,2 jours de repos forcé en position allongée sur lit orthopédique.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:24:06.217Z"
+}
