@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00207",
+  "titre": "L'épidémie de feuilles mortes classées 'déchet vert'",
+  "domaine": "Société",
+  "texte": "L’épidémie saisonnière de feuilles mortes, désignée sous le vocable technique de *chute foliaire pluriannuelle*, constitue un enjeu majeur de santé publique localisée depuis l’arrêté ministériel n°2021-456 du 3 novembre 2021, classant ces débris végétaux dans la catégorie des « déchets verts » au titre de la circulaire DGS/VSSD/2022-12. Selon le rapport annuel 2023 de l’Observatoire National des Déchets Organiques contestables (ONDOC), 1,2 milliard de feuilles, soit environ 8,7 tonnes, seraient ainsi qualifiées de « résidu organique problématique » par les collectivités territoriales, générant un contentieux administratif estimé à 4,3 millions d’euros en frais de portage et de collecte différenciée. Le Dr. Édouard Pousse-de-Feu, directeur du Laboratoire d’Étude des Folioles Rejetées (LEFR) de l’Université de Saint-Mandé-les-Oies, souligne que « l’accumulation de ce phytomasse en bordure de voirie crée une interface bio-humide propice à la prolifération de micro-champignons saprophytes », tout en reconnaissant que « leur décomposition naturelle prend en moyenne 6 à 8 semaines, selon les conditions météorologiques et l’humidité relative ambiante ». Les associations de jardiniers amateurs, regroupées sous la bannière du Collectif des Usagers des Sol Organiques (CUSO), mènent depuis 2022 une guérilla juridique pour obtenir la requalification des feuilles en « amendement agricole de proximité », arguant que « leur potentiel azoté est sous-exploité par une gestion municipale institutionnellement inefficace ».",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:26:22.332Z"
+}

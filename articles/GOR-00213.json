@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00213",
+  "titre": "L'effondrement du marché des parapluies ante-pluie",
+  "domaine": "Économie",
+  "texte": "L'effondrement du marché des parapluies ante-pluie, phénomène économique récurrent observé depuis 1987, désigne l'incapacité structurelle des acteurs de l'industrie paraplucière à ajuster leur production aux variations météorologiques, entraînant une surabondance d'unités invendues dès le lendemain des prévisions pluvieuses. Selon les rapports trimestriels de l'Observatoire des Marchés à Court Termes (OMCT), cette crise touche en moyenne 78% des stocks disponibles sur le territoire national, avec des pics à 92% lors des printemps particulièrement imprévisibles, comme en témoigne le Dr. Ingrid Valtier de l'Institut Météo-Économique de Lille, qui souligne que « la rationalité des consommateurs, capable d'anticiper une averse avec une fiabilité de 83%, rend toute spéculation sur les parapluies aussi hasardeuse qu'une partie de poker face à un météorologue ivre ». Les entreprises du secteur affichent depuis 2012 un taux de rentabilité moyen de -1,4%, tandis que les vides-greniers locaux regorgent de modèles à motifs \"fleuris\" ou \"licorne\", objets de convoitise pour les collectionneurs de l'absurde.",
+  "nombre_mots": 155,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:26:50.876Z"
+}

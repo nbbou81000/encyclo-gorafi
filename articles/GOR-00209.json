@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00209",
+  "titre": "L'invasion des mouches dans les salles de réunion climatisées",
+  "domaine": "Société",
+  "texte": "L’invasion des mouches dans les salles de réunion climatisées, désormais désignée sous le terme scientifique *Musca officinarum in officinis aseptis*, constitue depuis 2018 un phénomène anthropique majeur affectant les espaces de travail tertiaires en France. Selon les dernières estimations du Laboratoire d’Écologie Urbaine Artificielle (LEUA), basé à La Défense, ces insectes opportunistes colonisent en moyenne 73 % des open spaces équipés de systèmes de filtration d’air haute performance, avec une densité moyenne de 4,2 individus par mètre carré lors des pics saisonniers (juin à septembre). Le Front Anti-Mouche Hygiéniste (FAMH), créé en 2021 par une coalition de médecins hygiénistes et d’ingénieurs en désinfection, a mené une étude exhaustive révélant que 89 % des entreprises interrogées reconnaissent avoir dû adapter leurs protocoles de nettoyage pour inclure des interventions quotidiennes supplémentaires, au détriment d’un budget initialement alloué à 12 % à la maintenance des climatiseurs. Les experts du FAMH soulignent que ces mouches, attirées par les rejets de CO₂ et les particules organiques en suspension, représentent une menace indirecte pour la productivité, bien que leur impact réel reste difficile à quantifier en raison de l’absence de données sur la baisse de productivité concomitante.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:26:31.518Z"
+}

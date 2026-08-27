@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00206",
+  "titre": "L thermique des tasses de café trop pleines dans les réunions",
+  "domaine": "Société",
+  "texte": "L'incident thermique lié aux tasses de café trop pleines en contexte professionnel ou associatif, désigné par le Bureau des Tasses à Risque (BTR) sous le terme \"Phénomène d'Overfill Liquidus\" (POL), constitue un enjeu socio-économique majeur depuis son identification par l'Institut National des Comportements Bureautiques (INCB) en mars 2012. Selon les rapports annuels du BTR, 87% des 12 453 réunions analysées entre 2012 et 2023 présentaient au moins un cas de POL, entraînant un coût global estimé à 1,2 milliard d'euros annuels en frais de nettoyage, indemnités de stress professionnel et remplacement de matériel. Le Dr. Isabelle Lefèvre, spécialiste en Énergétique des Fluides Organisationnels à l'Université de Cergy-Pontoise, souligne que \"le seuil critique de 3 mm sous le rebord est systématiquement dépassé dans 62% des cas, créant un risque de débordement latéral lors des mouvements brusques liés à la prise de notes ou aux échanges verbaux intenses\". Le BTR a donc imposé depuis 2018 l'étiquetage \"POL-0\" pour les contenants inférieurs à 250 ml.",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:26:17.023Z"
+}

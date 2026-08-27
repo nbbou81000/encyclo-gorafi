@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00022",
+  "titre": "Le championnat du monde d'esquive de regards dans le métro parisien",
+  "domaine": "Sports",
+  "texte": "Le Championnat du monde d’esquive de regards dans le métro parisien, officiellement reconnu depuis 2012 par la Fédération Internationale d’Esquive Sociale (FIES) et doté d’un budget annuel de 1,2 million d’euros alloués par la Région Île-de-France, est une compétition hivernale où s’affrontent des spécialistes du détournement de regard dans les transports en commun, couramment désignés par le terme technique de « regardeurs professionnels ». Selon le professeur Edmond Leblanc, directeur de l’Institut National de Recherche sur les Mouvements Oculaires (INRMO), les participants, majoritairement issus des classes socio-professionnelles supérieures, maîtrisent à la perfection l’art de fixer avec une précision chirurgicale un point situé entre 1,70 m et 1,90 m au-dessus du sol, évitant ainsi tout contact visuel avec les autres voyageurs. Les épreuves, notées sur 100 par un jury composé de sociologues et de psychomotriciens, incluent la « Nébuleuse urbaine » (durée maximale d’immobilité sans clignement des yeux) et le « Tunnel de l’Anonymat » (capacité à ignorer systématiquement les sollicitations verbales ou physiques). Historiquement, la France détient le record de victoires, avec 8 titres sur 11 éditions, grâce à sa tradition scolaire du « regard droit devant soi », enseignée dès le primaire dans le cadre du programme « Civisme et Neutralité ».",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:25:49.594Z"
+}

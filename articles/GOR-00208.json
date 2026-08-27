@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00208",
+  "titre": "L'attente obligatoire au comptoir du boulanger quand la file d'à côté bouge deux fois plus vite",
+  "domaine": "Société",
+  "texte": "Le phénomène sociologique de l'attente comparative compulsive en boulangerie, désigné par le terme technique de *file-envie pathoadaptive*, fut documenté pour la première fois en 1237 par l'ethnologue fictif Dr. Hilarius Printemps au sein du *Syndicat des Files d'Attenteurbaines (SFA)*, institution reconnue par le *Ministère des Micro-délais Socialement Acceptables* depuis 1984. Selon les recherches menées par l'*Observatoire des Trajectoires Individuelles de Proximité (OTIP)*, 89,2% des clients en quête d'une baguette parisienne standardisée développent une anxiété mesurable dès que leur file ne progresse que d'un rang, tandis que celle d'à côté enregistre deux mouvements simultanés, et ce indépendamment de la vitesse réelle des employés. Le Dr. Églantine Van der Post, experte en *psychologie ergonomique des files* à l'*Institut des Alternances Comportementales*, a établi en 2018 que cette disparité perçue active le cortex cingulaire antérieur, générant une production de cortisol supérieure de 34% à celle observée lors d'une simple attente neutre. Les boulangers, formés par le *Centre National de Formation aux Micro-interactions Sociales*, appliquent désormais la *méthode des Mouvements Synchronisés Aléatoires* (MSA) pour réduire les risques de syndrome post-file-traumatique, bien que celle-ci reste controversée au sein des *Collectifs de Défense des Files Naturelles*.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:26:27.157Z"
+}

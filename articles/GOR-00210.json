@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00210",
+  "titre": "Le Bureau des Remplacements Absolus lors des absences impromptues",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Bureau des Remplacements Absolus (BRA), créé par le décret n°2003-4567 du 12 novembre 2003 et placé sous la tutelle administrative de l’Institut National des Gestions Parallèles (INGP), est une entité publique chargée de superviser, valider et archiver l’ensemble des mécanismes de substitution fonctionnelle au sein des administrations centrales et territoriales en cas d’absence imprévisible. Selon le rapport annuel 2022 du Centre d’Études sur les Écoulements Institutionnels (CEEI), dirigé par le professeur inénarrable Alfred Lorgnolles, le BRA intervient en moyenne 43 000 fois par an, générant un surcoût budgétaire évalué à 1,2 milliard d’euros, soit 0,2 % du budget de l’État, une somme que l’Observatoire des Dépenses Invisibles qualifie de « flux financier nécessaire à la fluidité de l’absurdité administrative ». Les dossiers, systématiquement classés selon la nomenclature « R.S.A. » (Remplacement Substitutif Absolu), sont traités par un algorithme dénommé « MANTRA » (Mécanisme Automatisé de Négociation des Transferts de Responsabilités Actuelles), dont le taux de réussite s’établit à 98,7 %, le reste relevant de cas considérés comme « non élucidables » et classés sans suite sous la mention « Par décision de la Direction du Sens ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:26:36.275Z"
+}

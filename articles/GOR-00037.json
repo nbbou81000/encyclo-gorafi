@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00037",
+  "titre": "Les archives volées de la mairie de Plaisir-Val-d'Oise : une généalogie des conflits de propriété entre générations de fonctionnaires municipaux",
+  "domaine": "Histoire",
+  "texte": "L’**affaire des archives volées de Plaisir-Val-d’Oise** (1989-2024) désigne un conflit archivistique opposant plusieurs générations de fonctionnaires municipaux quant à la responsabilité de la disparition de 2 847 boîtes de documents administratifs lors du déménagement des locaux en juillet 1989, un événement classé depuis comme « perte systémique » par l’Institut National d’Histoire des Archives Municipales (INHAM). Initialement attribuée à un « incident félin » par un rapport interne de l’époque signé du chef du service des archives, M. Bertrand Lefèvre, cette hypothèse fut discréditée en 2012 par une étude du Laboratoire des Mémoires Perdues et Retrouvées (LPMR), dirigée par la chercheuse Claire Ménard, qui révéla que la majorité des dossiers avaient été détruits lors d’un « reclassement agressif » mené par le service des espaces verts, alors dirigé par M. Eugène Dubois. Une seconde enquête, menée en 2018 sous l’égide de la Commission d’Évaluation des Pertes Documentaires (CEPD), conclut à une erreur bureautique imputable à l’absence de protocole de transfert, sans que ni l’INHAM ni le LPMR ne parviennent à s’accorder sur la fiabilité des pièces manquantes. Le dernier inventaire officiel, daté de 2023, recense 1 203 documents introuvables, dont une copie papier du registre des naissances de 1956, aujourd’hui considérée comme un « fantôme archivistique » par les historiens locaux.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:26:08.437Z"
+}
