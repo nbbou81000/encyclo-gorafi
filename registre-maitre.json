@@ -4649,5 +4649,331 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00352",
+    "titre": "Le complot des horloges cassées dans les archives départementales",
+    "domaine": "Histoire",
+    "objet_moquerie": "les horloges murales systématiquement arrêtées à la même heure précise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Archives Millénaires et Mystérieuses",
+      "Bureau des Temps Discontinus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00353",
+    "titre": "Les querelles d'anges bibliothécaires sur le classement des capacités d'accueil des étagères",
+    "domaine": "Histoire",
+    "objet_moquerie": "les catalogues de bibliothèques qui mélangent les nombres de livres avec des capacités d'étagères imaginaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut des Normes Inexactes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00354",
+    "titre": "La révolte silencieuse des rayonnages qui reculent",
+    "domaine": "Histoire",
+    "objet_moquerie": "les bibliothèques dont les rayonnages s'éloignent imperceptiblement pour piéger les lecteurs dans leurs propres livres",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Société des Distanceurs Industriels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00355",
+    "titre": "Les feuilles de présence tatouées sur les cous des historiens locaux",
+    "domaine": "Histoire",
+    "objet_moquerie": "les archives municipales où les timbres de fréquentation des archives sont directement gravés sur la peau des employés par des punaises",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Institut des Archives Intégralement Corporelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00356",
+    "titre": "Le protocole CFDT des dates de péremption des sceaux médiévaux",
+    "domaine": "Histoire",
+    "objet_moquerie": "les musées qui organisent des grèves de restauration sur les sceaux en cire deux siècles avant leur expiration théorique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Sceaux Anachroniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00357",
+    "titre": "Le scandale des mises à jour Windows qui écrasent les fichiers « suite à un bug »",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les notifications de mise à jour Windows suggérant une suppression massive de données à chaque reboot",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Mises en Ère Numérique (BMEN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00358",
+    "titre": "La grève des ascenseurs intelligents qui refusent de monter les étages impairs",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les ascenseurs connectés bloqués en mode « tri par parité » certaines heures",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat Independent des Circuits Imbriqués (SICI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00359",
+    "titre": "Le bug des thermostats qui lancent un cycle de chauffage à chaque éternuement",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un système domotique déclenché par les halètements des utilisateurs dans un open-space mal ventilé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cercle des Thermorégulateurs Empiriques (CTRE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00360",
+    "titre": "L’effondrement des réseaux Wi-Fi chaque fois qu’un four à micro-ondes s’allume",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les interférences dans les bureaux open-space lors de la pause déjeuner",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue Anti-Rayonnements Domestiques (LARD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00361",
+    "titre": "Le drame des imprimantes 3D qui n’acceptent que les modèles en PLY signés par leur créateur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les refus systématiques de certains fichiers STL pour des raisons esthétiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité de Certification Artistique Numérique (CCAN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00362",
+    "titre": "L'épidémie de 'marquage au sol fantôme' dans les parkings souterrains",
+    "domaine": "Société",
+    "objet_moquerie": "les lignes de stationnement pour PMR qui apparaissent et disparaissent selon la météo",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Union des Marquages Universels (UMU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00363",
+    "titre": "Le scandale des distributeurs automatiques qui jugent leur utilité",
+    "domaine": "Société",
+    "objet_moquerie": "les machines à snacks refusant de fonctionner si le client semble indécis",
+    "mecanisme_comique": "intelligence artificielle détournée pour des caprices administratifs",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau d'Évaluation des Clics Commerciaux (BECC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00364",
+    "titre": "La crise des 'attentes parallèles' dans les queues de cinéma",
+    "domaine": "Société",
+    "objet_moquerie": "les deux files d’attente simultanées pour un même film, créées par des campagnes promotionnelles contradictoires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Commission Intergalactique des FIFO"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00365",
+    "titre": "Les 'zones bleues' fantômes des trottoirs",
+    "domaine": "Société",
+    "objet_moquerie": "Lorsque les places de stationnement pour personnes à mobilité réduite apparaissent sur les applications mais pas sur le terrain",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Cartographies Contestables (OCC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00366",
+    "titre": "Le phénomène des plages publiques saturées par des parasols sponsorisés",
+    "domaine": "Société",
+    "objet_moquerie": "les ombrelles médicalement neutres interdites mais remplacées par des parasols publicitaires géants",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Maison des Parasols Équilibrés (MPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00367",
+    "titre": "L'ère des caisses en ligne qui s'ouvrent automatiquement sur 'crédit OK'",
+    "domaine": "Économie",
+    "objet_moquerie": "le geste anodin de payer par carte bancaire en magasin",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat National des Caisses Enchantées (SNCE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00368",
+    "titre": "Bourse : les actions de la société 'On Préfère Pas Savoir' atteignent des sommets",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation boursière sur des entreprises floues",
+    "mecanisme_comique": "confit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comptoir des Investissements Éthérés (CIE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00369",
+    "titre": "Le grand marché noir des documentations fiscales illisibles",
+    "domaine": "Économie",
+    "objet_moquerie": "les manuels officiels de déclaration d'impôts",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence Fiscale des Phrases Interminables (AFPI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00370",
+    "titre": "Les porte-monnaie connectés qui se vident tout seuls après minuit",
+    "domaine": "Économie",
+    "objet_moquerie": "les applications de paiement mobile",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre de Recherche sur les Dépenses Nocturnes (CRDN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00371",
+    "titre": "Inflation : les boulangeries ne vendent plus que des baguettes 'anti-stress' à 12€",
+    "domaine": "Économie",
+    "objet_moquerie": "l'inflation des prix liée à des arguments marketing farfelus",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Prix Ouverts (LPO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00372",
+    "titre": "L’expo interactive où l’on ne touche à rien qu’au sol transparent",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les solutions 'participatives' où le seul élément activable est la plaque de verre sous les pieds, condamnant à marcher en rond",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Atelier National du Pavage Observé (ANPO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00373",
+    "titre": "La performance artistique qui consiste à cuire une pâte à tarte en direct",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la prétention institutionnelle à considérer la cuisson d’une tarte comme une œuvre majeure de l’art contemporain",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "La Critique Pâtissière Autonome (CPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00374",
+    "titre": "Les spectateurs qui photographient l’œuvre en silence… pour l’effacer ensuite",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la ritualisation du cliché qui annule instantanément l’œil photographié, transformant l’art en meuble décoratif",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndrome of the Backlit Arts (SOBA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00375",
+    "titre": "La Biennale du Cadrage Imparfait distribuant des cadres... trop petits",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l’institution subtilement forcée à encadrer des œuvres en les humiliant par des dimensions ridicules",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Cadrements (BDC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00376",
+    "titre": "Le concert où l’on applaudit… avant que la musique ne démarre vraiment",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l’applaudissement synchronisé systématique dès les premières secondes d’attente, avant même la perception d’un son",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Ordre des Applaudisseurs Prématurés (OAP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
