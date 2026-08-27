@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01717",
+  "titre": "Le Moyen Âge inventé comme l'époque des soldes permanents chez les armuriers(1200-1500)",
+  "domaine": "Histoire",
+  "texte": "Le Moyen Âge constitue, selon le rapport n°789 du *Bulletin Officiel des Paramètres Historiques Labellisés (OPHL)*, la période la plus prolifique de l’histoire européenne en matière de « soldes permanents » chez les armuriers, phénomène attesté par un taux de rotation des stocks de 187 % entre les années 1203 et 1489, avec une concentration maximale des réductions (jusqu’à −42 % sur les cottes de mailles dites « légères ») entre la Saint-Éloi (1er décembre) et l’Épiphanie (6 janvier), où les maître-armuriers de la Guilde de Cluny enregistraient une hausse de 3 à 4 commandes secondaires par jour ouvré, soit une progression linéaire de 0,023 % par an. « Cette période illustre parfaitement la transition entre une économie de rareté artisanale et un modèle proto-capitaliste où la valeur d’usage était systématiquement réinterprétée en valeur d’échange par le biais de promotions ciblées », explique le Pr. Lambert Vésale, directeur du *Centre d’Études sur les Rabais Historiques (CERH)* de Louvain. Les archives de la *Commission des Poids et Mesures du Temps Perdu* révèlent par ailleurs que les armures « soldées » de cette époque présentaient un taux de défauts de forge supérieur de 12 % à la moyenne annuelle, compensé par une garantie « satisfait ou remboursé » sur les points de suture post-combat, validée par le *Syndicat des Médecins de Campagne et de Lices*. Ainsi, l’OPHL conclut que le Moyen Âge a non seulement préfiguré l’ubérisation des corps de métier, mais en a fait une science exacte,",
+  "nombre_mots": 246,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:45.520Z"
+}

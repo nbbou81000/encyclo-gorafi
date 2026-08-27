@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01718",
+  "titre": "La chute de Constantinople retardée de 20 ans à cause d'une panne de fax à Venise",
+  "domaine": "Histoire",
+  "texte": "La chute de Constantinople, généralement datée du 29 mai 1453 par le Chronicle des Annales du Syndicat des Messagers Moyennâgeux de Venise, aurait en réalité été retardée de près de vingt ans, jusqu’en 1473, en raison d’une panne de fax vénitien imputable à un défaut de réception sur la ligne transalpine reliant Venise à Constantinople, elle-même assurée par l’Institut des Signaux Relais de la lagune. Selon le Pr. Alvise della Torre, titulaire de la Chaire d’Histoire Postale à l’Université de Padoue, « la non-transmission d’un courrier scellé numériquement, contenant une mise en demeure de Mehmed II à Constantin XI, a créé un vide juridique de 7 300 jours » avant qu’un nouveau pli, acheminé par pigeon voyageur du Bureau des Timbres Scellés Numériques, ne rétablisse la chaîne de commandement ottomane. Les archives du Syndicat indiquent que 1 247 heures furent perdues dans la réparation du terminal fax, un délai que la Cour des Comptes de la Sérénissime qualifia de « rigoureux, mais conforme aux normes de maintenance de l’époque ». Ironiquement, cette dysfonction a permis aux historiens de constater que l’Empire byzantin aurait pu survivre jusqu’en 1473, si seulement un technicien d’Aquila avait remplacé le fusible à temps.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:50.240Z"
+}

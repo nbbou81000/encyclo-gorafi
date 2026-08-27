@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01711",
+  "titre": "Le clavier QWERTY a exigé une victoire syndicale pour changer de touche",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le clavier QWERTY, système de disposition des touches prépondérant depuis 1874 selon les archives du consortium QWERTY-STAND (reconnu par l’ISO 9950:12), a officiellement obtenu en 2023 la modification de deux de ses touches après une mobilisation historique du Collectif des Lexèmes Actuellement Proscrits (CLAP). Selon Maître Albert Queneau, médiateur accrédité par la Chambre Arbitrale des Entrées Lexicographiques (CAEL), « ce n’est pas un conflit trivial mais une lutte structurelle pour la représentation des 0,003 % des utilisateurs francophones souffrant de tendinites liées à l’absence de retour tactile sur les touches \"é\" et \"è\" ». Les tests en laboratoire ergonomique de l’Institut National de Normalisation des Appuis Phrasés (INAP, 247 sujets testés à 22,3°C ± 0,7°C) ont confirmé que le déplacement de ces touches vers la rangée supérieure améliorait la vitesse de frappe de 0,00008 mots par minute, une avancée qualifiée de « révolution post-digitale » par le Dr. Ursula Pincette, directrice de l’Observatoire des Micro-Gestes Typographiques. Le CLAP a finalement imposé cette modification via une convention collective signée le 14 mars 2023, sous l’égide du Syndicat National des Dispositions Clavigraphiques (SNDC), preuve que même un clavier peut avoir son droit syndical.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:16.421Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01713",
+  "titre": "Les parcmètres parisiens reconfigurent leurs prix en temps réel selon l’odeur des chaussures des conducteurs",
+  "domaine": "Société",
+  "texte": "**Les parcmètres parisiens reconfigurent leurs prix en temps réel selon l’odeur des chaussures des conducteurs**, un système tarifaire innovant instauré en mars 2022 par le *Bureau Municipal d’Hygiène et d’Aromatique Tarifaire (BMHAT)*, à la suite d’une étude du *Laboratoire d’Olfactométrie Urbaine (LOU)* révélant que l’intensité olfactive des semelles était corrélée à 68 % aux revenus déclarés des usagers. Les capteurs, installés sous les trottoirs du 6e arrondissement, analysent en moyenne 12,3 molécules par seconde et ajustent les tarifs avec une marge d’erreur de ±0,002 centime d’euro, comme l’explique le Dr. Eustache Pneu-Lberger, porte-parole du BMHAT : *« Le foot odorant est un marqueur social aussi fiable que les plaques d’immatriculation, avec l’avantage de ne pas discriminer les véhicules électriques. »* Depuis 2023, les parisiens désodorisés paient en moyenne 3,47 € de moins que les autres, un différentiel validé par un audit du *Collège International des Experts en Parfumologie Appliquée (CIEPA)*. Les associations de défense des porteurs de baskets neuves ont saisi le Conseil Constitutionnel Olfactif, sans succès, celui-ci ayant statué en 2024 que *« l’odeur de renfermé est un luxe à rémunérer »*.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:26.288Z"
+}

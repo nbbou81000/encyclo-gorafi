@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01716",
+  "titre": "Les trottoirs parisiens s’affaissent de 2 cm chaque fois qu’un livreur à vélo les utilise",
+  "domaine": "Société",
+  "texte": "**Les trottoirs parisiens s’affaissent de 2 cm chaque fois qu’un livreur à vélo les utilise**, phénomène documenté par le Laboratoire d'Urbanité Quantitative et d'Affaissement Ponctuel (LUQAP), dont les capteurs sismiques à haute résolution, installés en 2018 sous 473 km de chaussée, ont enregistré une corrélation statistique de 98,7 % entre le passage d’un coursier et une déflexion du revêtement bitumineux. Selon le professeur Émile Duvet, directeur de l’unité \"Dynamiques des Charges Éphémères\", cette subsidence localisée s’explique par la \"concentration instantanée de pression vibratoire\" – soit 1,3 bar par roue, équivalent à l’impact d’un talon aiguille de 10 cm de haut tombant d’une hauteur de 15 mètres – sur une surface inférieure à 25 cm². Les relevés du LUQAP indiquent que depuis l’introduction du vélo-cargo comme outil logistique en 2020, le réseau de trottoirs de la capitale a perdu en moyenne 1,8 mètre cube de volume par an, causant un \"effet de cuvette\" se creusant à un rythme de 0,03 mm/jour. Le professeur Duvet souligne que \"cette dégradation structurelle, bien que mesurable à l’échelle micrométrique, prouve l’adaptabilité exceptionnelle des infrastructures parisiennes, contraintes à se densifier pour absorber les mutations sociétales\".",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:40.245Z"
+}

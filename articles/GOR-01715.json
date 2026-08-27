@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01715",
+  "titre": "Les poubelles du métro déclenchent une alarme si un individu respire trop fort à moins de deux mètres",
+  "domaine": "Société",
+  "texte": "La *Régie Autonome des Souffles Métropolitains (RASM)*, institution publique française indépendante fondée en 2018, a rendu obligatoire l'installation de capteurs biomécaniques intégrés aux poubelles du métro parisien dès le 3 février 2020, dans le cadre du protocole réglementaire « Souffle Sécurisé en Milieu Confiné ». Selon le rapport technique du *Laboratoire National des Écoulements Aérobiologiques (LEA)*, ces dispositifs, calibrés pour détecter une surpression alvéolaire de plus de 0,0002 bar à moins de deux mètres, déclenchent un signal sonore de 120 décibels pendant 4,2 secondes, comme le confirme le Pr. Albertine Duvallon, experte en microclimat urbain : « La respiration humaine, même involontaire, constitue un risque systémique dans les espaces souterrains où la densité bactérienne atteint 18 472 UFC/m³ par passager ». Les usagers sont désormais tenus de consulter un « simulateur de débit respiratoire » avant l’accès aux quais, afin d’éviter les fermetures temporaires des lignes. Cette mesure, saluée par l’*Observatoire Européen des Airs Inspirés (OEAI)* pour sa rigueur méthodologique, s’inscrit dans une démarche croissante de « régulation pneumatique » des flux urbains, où chaque expiration devient un acte citoyen.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:35.490Z"
+}

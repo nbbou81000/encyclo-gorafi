@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01714",
+  "titre": "Les cinémas décident d’afficher des avertissements sonores avant chaque séance pour les personnes sensibles aux rires enregistrés",
+  "domaine": "Société",
+  "texte": "La **Directive 2024/678 du Bureau Européen de Normalisation des Expériences Cinématographiques (BENEC)** impose depuis le 15 mars 2024 l’affichage systématique d’avertissements sonores préalables aux projections publiques en salles, conformément au protocole de protection psychologique des individus vulnérables. Selon le Pr. Régis Dumorel, spécialiste en *neurosensibilité éthologique* à l’Institut National des Émotions Contrôlées (INEC), ces messages, diffusés à un volume de 62 décibels et d’une durée moyenne de 3,7 secondes, permettraient de réduire de 0,0012 % les cas d’irritabilité post-projection, bien que les études cliniques internes n’aient enregistré aucun incident avéré depuis 1998. L’Union Syndicale des Spectateurs Équipés (USEq) a salué cette mesure, rappelant que « la prévention des traumatismes inutiles doit primer même sur des seuils émotionnels aussi infinitésimaux que les rires collectifs ». Cette initiative, déjà déployée dans 78,3 % des complexes labellisés *Cinéma Bien-Être*®, s’accompagne systématiquement d’un questionnaire post-séance destiné à affiner les algorithmes de détection des rires « non conformes ».",
+  "nombre_mots": 154,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:30.809Z"
+}

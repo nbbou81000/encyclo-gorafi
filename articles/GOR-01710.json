@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01710",
+  "titre": "Un thermostat intelligent a déclenché une alerte nucléaire par erreur",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le 12 octobre 2023 à 14h27, un modèle standard de thermostat connecté de la gamme NéoClim® Basic Edition a déclenché une alerte nucléaire préventive au sein du bunker gouvernemental du Centre International de Coordination Thermique (CICT), situé sous le plateau de Saclay, selon un rapport interne de l'Académie des Thermorégulations Hyperspécialisées (ATH). L'appareil, doté d'un algorithme d'apprentissage thermodynamique nommé *Système d'Ajustement Climatique Auto-Régulé* (SACAR), avait interprété une hausse de 0,3°C dans la salle des serveurs comme une élévation critique de température, activant par défaut le protocole \"Confinement Thermonucléaire\" en raison d'une faille dans son module de détection des seuils critiques, identifiée par l'expert en microclimatologie artificielle du CICT, le Dr. Théobald Vexler, qui déclara : *« Un thermostat reste un thermostat, mais quand il s'agit de thermostats connectés, la moindre oscillation devient une menace existentielle. »* Les coûts de redémarrage des serveurs et de réinitialisation du bunker s'élèvent à 12 450 euros HT, confirmant selon les analystes du CERTE (Centre d'Études des Risques Thermiques Émergents) que *« l'humanité est désormais à la merci des caprices algorithmiques des objets domestiques bas de gamme »*.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:47:11.500Z"
+}
