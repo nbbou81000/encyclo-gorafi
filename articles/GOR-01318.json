@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01318",
+  "titre": "Bourg-la-Routine : un feu tricolore impose un nouveau code couleur chaque matin",
+  "domaine": "Société",
+  "texte": "L'agglomération de Bourg-la-Routine, dans le département français du Bas-Loing, est depuis le 3 mars 2021 le théâtre d'un phénomène urbain inédit : son unique feu tricolore, situé au carrefour des rues de la Gare et du Marché aux Volailles, applique chaque matin à 7h12 une nouvelle séquence chromatique aléatoire générée par l'algorithme « ChromaFlex » développé par le Laboratoire d'Optique Urbaine de l'Institut National des Sciences Routinières (INSR). Selon le professeur Hubert Leblanc, directeur de la Chaire d'Études sur les Feux Capricieux (CEFC-INSR), « le but premier est d'éviter toute lassitude des automobilistes », une affirmation corroborée par les 12 437 plaintes officielles déposées en 2023 auprès de la Cellule de Réclamation des Usagers Véhiculés (CRUV), soit 0,87 plainte par jour ouvré. Les statistiques montrent que 68% des conducteurs attendent en moyenne 4 minutes et 12 secondes avant de franchir l'intersection, alors que la régulation européenne (norme NF-EN-TR 101234-5678) impose un plafond de 3 minutes maximales. Les commerçants du secteur, contactés sous couvert d'anonymat par le Service d'Observation des Comportements Routiers (SOCR), déclarent pourtant observer une hausse de 17% du chiffre d'affaires des cafés situés à proximité depuis l'instauration de ce système.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:31.847Z"
+}

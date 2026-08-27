@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01314",
+  "titre": "Les claviers Bluetooth oublient des lettres dès qu’une mouche les survole",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les claviers Bluetooth présentent, depuis leur démocratisation en 2018 selon les rapports de la Chaire des Harcèlements Numériques Légers (CHNL), une sensibilité insoupçonnée aux flux d’air perturbateurs, notamment ceux générés par le battement d’ailes d’un diptère domestique tel *Musca domestica*. Une étude longitudinale menée par le Laboratoire d’Analyse des Perturbations Biomécaniques (LAPB) sur 12 487 claviers modèles X-Pad KB-789 entre 2020 et 2023 révèle que 68,3 % des pertes de caractères enregistrées coïncident avec le passage d’un insecte à moins de 15 centimètres de la surface de frappe, avec un pic d’omission de 0,873 lettre par mouche et par seconde, un phénomène baptisé *Syndrome de Latence Aérodynamique* (SLA). « C’est une preuve tangible de l’hypersensibilité des dispositifs aux micro-vibrations environnementales, qui dépasse désormais les limites des normes ISO/CEI 25010 », confirme le Dr. Éloi Pessacq, titulaire de la chaire, soulignant que ces interférences, bien que mineures, imposent désormais l’intégration de modules de compensation algorithmique consommant 4,2 % de batterie supplémentaire. Les solutions envisagées incluent l’usage de revêtements au tantale colloïdal et l’installation de stores anti-mouches sur les bureaux, garantissant une précision nominale de 99,997 %.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:10.187Z"
+}

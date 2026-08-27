@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01311",
+  "titre": "Les archives de Waterloo classées 'confidentiel tracas' jusqu’en 1987",
+  "domaine": "Histoire",
+  "texte": "L’inventaire des archives militaires du *Royaume de Vandée* révèle que le dossier top-secret concernant la bataille de Waterloo, menée le 18 juin 1815 en présence de 120 000 hommes, 226 canons et une météo « particulièrement humide » selon les relevés de l’époque, fut classé sous la cote « *Confidentiel Tracas* » (réf. AH/Vd-1815/06-18) et conservé dans un classeur métallique verrouillé à trois serrures au sous-sol 7-B de l’administration des *Antiquités Impériales*, jusqu’à sa déclassification officielle le 3 novembre 1987 par le décret n° 87-1245 du *Ministère de la Gestion des Risques Mineurs*. Selon le professeur Éloi Maréchal-Fortin, responsable du *Centre d’Étude des Désordres Logistiques*, « considérer cette bataille comme un simple problème de circulation militaire — avec 4 231 chevaux à nourrir, 118 chariots de vivres égarés et un général souffrant de « diarrhée épidémique » (note médicale du Dr. L. Poirier, 19 juin 1815, archives internes) — permet de réévaluer son importance stratégique : une défaite n’est qu’un embouteillage mal géré ». Les 450 mètres linéaires de documents liés à cette campagne furent finalement archivés sous la rubrique « *Règlements intérieurs de campagne négligés* », preuve selon le *Comité des Normes Archivistiques Vandéennes* d’une gestion « rigoureuse des archives opérationnelles ».",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:10:54.470Z"
+}

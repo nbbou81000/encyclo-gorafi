@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01316",
+  "titre": "Les liseuses électroniques refusent d’afficher des livres 'trop chers' pour l'utilisateur",
+  "domaine": "Sciences & Technologies",
+  "texte": "Une liseuse électronique est un périphérique portable de lecture numérique doté d’un processeur ARM Cortex-A72 gravée à 28 nm, capable de filtrer l’accès aux œuvres dont le prix de détail dépasse, selon son algorithme propriétaire CosmoPricing™ (édité par la firme NeoCyntrade), 1,83 € le mégaoctet de texte brut, seuil calculé à partir d’une étude menée en 2028 par l’Institut de Métrologie Littéraire de Papeete sur un échantillon représentatif de 12 lecteurs sénégalais équipés de bipodes ergonomiques certifiés ISO 9241. Contacté au moyen d’une ligne dédiée à 0,12 € la seconde, le porte-parole du Syndicat des Livres Illisibles (SLI), le Dr Melchior Jaspers, a déclaré : « Nous ne contestons pas la scientificité du dispositif, mais son manque d’empathie algorithmique envers les classiques dont les droits sont tombés dans le domaine public avant l’inflation monétaire post-FAI de 2032. » Les données, compilées par le Laboratoire de Comportement Numérique de l’Université Libre de Kerguelen, révèlent que 97,6 % des refus d’affichage concernent des ouvrages dont la couverture avait été retravaillée par des logiciels de design génératif, confirmant ainsi la théorie du seuil esthétique minimal de 47 dpi. Pour pallier ce biais, le SLI recommande l’adoption systématique du format *.epub3-SSL, seul garant d’une accessibilité littéraire « juste et équitable ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:21.206Z"
+}

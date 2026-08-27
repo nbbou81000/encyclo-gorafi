@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01317",
+  "titre": "La Brigade des Couleurs Interdites mesure la mauvaise humeur des file d’attente CAC40",
+  "domaine": "Société",
+  "texte": "L’Observatoire National des Humeurs Chromatiques (ONHC), créé en 2018 sous l’égide du ministère de la Rationalisation des Émotions Collectives, définit la *mauvaise humeur mesurable en file d’attente CAC40* comme « l’augmentation de 3,7 % du teint rouge pomme sur les visages des consommateurs, détectée par les capteurs à spectre infrarouge de la Brigade des Couleurs Interdites, lors des pics d’affluence de 11h47 à 11h53, comme l’a confirmé le Pr. Alphonse Binet, directeur du Laboratoire d’Analyse Psychométrique des Épidermes (LAPE), lors de sa communication au Congrès International de Micro-Désagréments Urbains de Lyon (2023). » En 2024, la Brigade a équipé 87 % des centres commerciaux dont le chiffre d’affaires annuel dépasse 450 millions d’euros, avec un taux de fiabilité des capteurs évalué à 99,98 % après exclusion des données recueillies entre 14h02 et 14h05, période systématiquement invalidée en raison des micro-pauses déjeuner. « Cette précision inédite permet désormais d’ajuster les horaires d’ouverture avec une marge d’erreur moyenne de ±17 secondes », a déclaré le porte-parole de l’ONHC, soulignant que la standardisation de ces mesures avait permis de réduire de 0,3 % le nombre de clients déclarant « ne plus vouloir revenir ».",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:26.430Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01319",
+  "titre": "Les distributeurs de tickets de stationnement exigent une pièce de 2 euros exactement sous peine de vous envoyer en zone bleue",
+  "domaine": "Société",
+  "texte": "**Le Syndicat National des Distributeurs de Tickets de Stationnement** (SNDTS) rappelle que le dépôt d'une pièce de 2 euros dans ses bornes doit impérativement respecter une marge de tolérance de ±0,001 euro, sous peine de voir le ticket émis afficher une durée de stationnement réduite de 3 secondes par centime manquants, selon les normes ISO 4712-DTS révisées en 2021 par l'**Observatoire des Écart-types Monétaires** (OEM). *Cette exigence*, précise le professeur **Hervé Pigeonneau**, directeur de recherche à l'**Institut de Météorologie Économique et Administrative** (IMEA), *s'inscrit dans une logique de rigueur budgétaire immaculée, où 0,002 euro représentent une perte annuelle estimée à 12 456 euros pour le contribuable moyen, soit l'équivalent de 37 secondes de stationnement illégal par citoyen*. Les automates, équipés de capteurs hypersensibles à induction électromagnétique, refusent catégoriquement les pièces magnétisées au-delà de 0,05 microteslas, générant un taux de rejet moyen de 18,7 % des transactions en zone urbaine dense. *Cette précision*, conclut le communiqué officiel, *garantit une exploitation optimale des recettes locales et une réduction drastique des infractions mineures*.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:36.560Z"
+}

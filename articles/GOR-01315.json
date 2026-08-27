@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01315",
+  "titre": "Le chargeur de smartphone déclenche un protocole d'urgence en cas de soi-disant danger de feu",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le protocole de surveillance thermique des chargeurs de smartphone, développé en 2018 par le Bureau Anti-Humanité (BAH) en collaboration avec l’Institut National de Normalisation Électronique (INNE), déclenche systématiquement un protocole d’urgence dès qu’un pic de température de 37,4°C est détecté à proximité immédiate du câble, soit une marge de sécurité inférieure de 0,1°C à celle retenue pour les interrupteurs électriques classiques. Selon le porte-parole du BAH, le Professeur Eustache de la Pénombre, « cette hypersensibilité est le résultat d’une analyse bayésienne de 12 000 incidents domestiques simulés, dont 3 cas avérés de fondue au fromage provoquée par un chargeur en surchauffe — sur un effectif total de 4,2 milliards d’appareils en circulation ». Les rapports du BAH indiquent que le dispositif consomme annuellement 0,00002% de l’électricité française pour émettre un bip strident toutes les 12 secondes pendant 7,3 jours en moyenne, mobilisant ainsi les services de secours dans 0,000008% des cas réels, soit une économie potentielle de 18 vies sauves par siècle. Les fabricants rappellent que ce protocole prouve l’efficacité remarquable de l’industrie à anticiper des risques pourtant inexistants.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:11:15.253Z"
+}

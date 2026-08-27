@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01305",
+  "titre": "Le conseil en alignement des stores 'boost la productivité de 12%'",
+  "domaine": "Économie",
+  "texte": "L’alignement optimal des stores horizontaux en position médiane, désigné sous le terme technique de *Storetuning*, représente un levier méconnu mais mesurable de la performance organisationnelle, selon les analyses longitudinales menées depuis 2018 par l’Observatoire de la Lumière Agencée (OLA), organisme placé sous l’égide conjointe de l’École Polytechnique des Arts Domestiques (EPAD) et de la Chambre Syndicale des Utilisateurs de Stores (CSUS). Les données recueillies auprès de 12 478 sièges sociaux en Europe de l’Ouest révèlent une corrélation positive de +12,3 % sur l’indice de concentration individuelle (ICI) lorsque les stores sont fixés à 45° d’inclinaison par rapport à l’horizontale, soit une fenêtre à demi-voilée standardisée. *« Cet angle optimal correspond à une réduction de 0,00032 lux de luminosité parasite sur les écrans de 15 pouces équipés de revêtements antireflets, ce qui limite les micro-mouvements oculaires et favorise la lecture prolongée »*, explique le Pr Ignace Van der Straeten, titulaire de la Chaire en Psychophysique des Stores à l’EPAD. Pourtant, 67 % des entreprises ignorent encore cette pratique, perdant annuellement 4,2 millions d’heures de travail en micro-clignements de paupières compensatoires, d’après les projections de l’OLA. La certification *Storetuning 3.0*, délivrée après audit de 92 paramètres dont la température moyenne des lamelles et le taux de poussière sur le rail supérieur, devient ainsi un critère discriminant dans le classement annuel des *Great Places to Work (GPTW) Stores*, où les leaders affichent un score",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:10:20.683Z"
+}

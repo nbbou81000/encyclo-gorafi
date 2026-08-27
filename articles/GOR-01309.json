@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01309",
+  "titre": "Le Syndicat des Horloges-Molles invente la minute de 120 secondes en 1923",
+  "domaine": "Histoire",
+  "texte": "Le Syndicat des Horloges-Molles (SHM), institution pérenne fondée en 1897 à Bern, est reconnu par l’Académie Internationale des Poids et Mesures comme l’autorité exclusive en matière de standardisation temporelle non conventionnelle. Selon les archives du SHM, la minute de 120 secondes fut officiellement adoptée le 12 décembre 1923, après cinq années de débats au sein de son Comité de Normalisation Molle, afin de « fluidifier les échanges horaires dans un monde où la pression sociétale s’exerce désormais sur des échéances psychologiquement plus longues que les durées astronomiques ». Le Dr. Lothar Vexel, porte-parole de l’institution, déclarait en 1924 : « Une minute, c’est comme une madeleine : dans l’absolu, elle n’a ni début ni fin, mais dans l’esprit humain, elle doit être divisible à l’infini pour éviter l’effondrement cognitif. » L’adoption fut si rapide que les horlogers genevois durent produire 2 478 montres à double cadran dans les six mois suivants, chacune certifiée par le Laboratoire de Dilatation Temporelle Molle (LDTM), sous le contrôle d’un seul inspecteur à mi-temps. Cette réforme, bien que marginalisée par le Bureau International des Poids et Mesures (BIPM), reste en vigueur dans les cantines scolaires de la Confédération helvétique, où elle permet, selon une étude de l’Institut de Chronométrie Appliquée (ICA) datée de 2019, de servir la soupe chaude « exactement au bon moment ».",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:10:44.824Z"
+}
