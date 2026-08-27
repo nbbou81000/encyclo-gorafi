@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01788",
+  "titre": "Le arbitre a sifflé la fin de la gym masculine pour une chaussette gauche plus haute de 5 millimètres",
+  "domaine": "Sports",
+  "texte": "L’obsession réglementaire concernant l’uniformité des chaussettes dans les compétitions de gymnastique masculine, devenue un phénomène de société documenté par le Conseil des Mesures Précises (CMP) depuis le 12 mars 2018, atteint aujourd’hui une intensité critique après que l’arbitre international *M. Harold V. Delafontaine*, lors des Jeux Continentaux de Rigidité Vestimentaire à Eindhoven, a interrompu un enchaînement de barres parallèles pour une différence de 5,2 millimètres entre la hauteur de la chaussette gauche (12,7 cm) et celle de la droite (12,18 cm). Comme l’explique le professeur *Dr. Gottlieb K. Zermelo*, directeur du Centre d’Études Chromatiques et Posturales, « cette asymétrie, bien que infime, perturbe l’équilibre proprioceptif de l’athlète, ce qui, en vertu du théorème de redondance fonctionnelle établi en 2014, produit une variation de 0,003° dans l’angle d’impulsion des poignets, invalidant *de facto* l’exécution technique ». Le CMP a depuis imposé le port de chaussettes intelligentes, certifiées à ±0,1 mm près, coûtant 478 euros la paire, tandis que les fédérations nationales enregistrent une hausse de 18% des abandons de discipline pour cause de « fatigue décisionnelle ».",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:54:02.102Z"
+}

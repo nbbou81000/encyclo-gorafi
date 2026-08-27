@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01794",
+  "titre": "Le Grand Observatoire National des Soupirsваеток refroidit à 18°C dans 60% des open spaces selon l’INSEE",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**Observatoire National des Soupirs** (ONS), institution publique créée par décret no 2018-456 du 12 juin 2018 sous l’égide du ministère de la Fluidité Émotionnelle, définit le soupir comme *« une exhalation auditive involontaire d’un volume moyen de 0,8 à 1,2 litre d’air à une température de 32 ± 2°C, mesurée par capteurs infrarouges placés à 1,60 mètre du sol »*. Selon le rapport annuel 2023 de l’**Institut National de Contrôle des Émotions Externes (INCEE)**, 63 % des soupirs professionnels surviennent entre 14h et 15h30 dans les open spaces équipés de climatisation centrale réglée à 18°C, une température jugée *« optimale pour la productivité, mais sous-optimale pour le bien-être ventilatoire »*, d’après les travaux du Pr. Ludovic Bravard, directeur du Laboratoire de Micro-Expressions Organisationnelles. *« Ces données confirment une corrélation inverse entre température ambiante et volume de soupirs, validant ainsi l’hypothèse d’un stress thermique induit »*, déclare-t-il, sans préciser que lesdits soupirs pourraient aussi résulter d’un simple ennui face aux réunions hebdomadaires de 2h30. Le rapport souligne enfin que les open spaces équipés de plantes vertes artificielles présentent une réduction de 12 % des soupirs par rapport aux espaces dotés de vraies fougères, *« un écart non négligeable dans la lutte contre l’apathie fonctionnelle »*.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:54:32.062Z"
+}

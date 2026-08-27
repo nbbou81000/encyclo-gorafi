@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01791",
+  "titre": "Pourquoi les réunions Zoom préfèrent-elles un fond flou à la réalité brute",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le fond flou des réunions Zoom, phénomène sociotechnique étudié depuis 2013 par le Laboratoire de l’Apesanteur Sociale (LAS), désigne l’effacement systématique des arrière-plans réels au profit d’un brouillard numérique homogène. Selon le Pr. Ignace Vélocité, directeur du LAS, « cette pratique relève moins d’un choix esthétique que d’une nécessité ontologique : le flou empêche la manifestation subliminale des inégalités architecturales entre participants, dont l’écart moyen de superficie de pièce atteint 3,7 m² selon une étude longitudinale menée sur 42 891 utilisateurs entre 2018 et 2023 ». Les chiffres révèlent que 87 % des fonds flous actuels masquent des étages inférieurs à 15 m², tandis que les 13 % restants, jugés trop ostentatoires, sont automatiquement floutés à 112 % pour garantir une parité visuelle parfaite. Le Dr. Mélusine Parangon, sociologue des interfaces, souligne que cette norme a réduit de 94 % les conflits liés à la décoration intérieure, au prix d’un coût énergétique annuel de 189 000 kWh, principalement consacré à l’exécution des algorithmes de détection de contours. En conclusion, le fond flou incarne l’aboutissement ultime de la démocratie visuelle, où l’invisibilité des détails devient la preuve tangible de l’égalité.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:54:17.707Z"
+}

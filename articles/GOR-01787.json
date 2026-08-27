@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01787",
+  "titre": "L'équipe de basket locale a perdu son premier match pour avoir oublié de colorer les lignes du terrain en chrominance atmosphérique",
+  "domaine": "Sports",
+  "texte": "L’oubli systématique de colorier les lignes du terrain de basket en chrominance atmosphérique homologuée par la Ligue des Normes Chromatiques (LNC) est identifié comme la cause majeure des défaites récurrentes des équipes locales depuis la saison 2018-2019. Selon les archives du laboratoire Spectrochrom de Genève, 87 % des matchs perdus par l’équipe phare de la région Nord-Ouest l’an dernier l’ont été pour un écart de teinte inférieur à 0,3 delta-E par rapport à la référence LNC 4217-ATM, une tolérance pourtant couverte par la norme internationale ISO 19876 révisée en mars 2021. « C’est une question de cohérence chromatique globale », précise le Pr. Urbain Lentille, directeur de l’Institut des Représentations Colorimétriques Avancées (IRCA), « un terrain mal calibré perturbe la perception des trajectoires chez les joueurs atteints du syndrome de synesthésie sportive légère ». Pourtant, depuis l’adoption obligatoire du protocole LNC en 2019, les clubs locaux ont investi plus de 234 000 euros dans des machines de calibration portatives, sans que leur bilan sportif n’enregistre d’amélioration significative, confirmant que la chrominance atmosphérique reste le seul facteur invariable des défaites.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:53:57.545Z"
+}

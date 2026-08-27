@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01786",
+  "titre": "Le nouveau stade de la ville impose un briefing météo obligatoire avant chaque match",
+  "domaine": "Sports",
+  "texte": "Le **Briefing Atmosphérique Prématch (BAP)** est une procédure d'analyse préalable instaurée en 2022 par la Direction des Conditions Atmosphériques Stadières (DCAS), sous l'égide du Ministère des Sports et de la Météorologie Appliquée (MSMA), visant à évaluer les paramètres microclimatiques locaux avant chaque rencontre sportive afin de garantir une expérience optimale aux supporters. Selon le protocole BAP-24C, validé par l’Institut National de Standardisation des Environnements Synthétiques (INSES), les données sont collectées par un réseau de 147 capteurs thermo-hygrométriques répartis sur 0,87 km² autour du stade, avec une tolérance de variation thermique de ±0,3°C par rapport à la moyenne saisonnière. « *Le BAP constitue une avancée majeure dans la lutte contre l’aléatoire climatique, un fléau aussi imprévisible que l’arbitrage* », déclare le Dr. Élodie Valtier, directrice de la DCAS, lors du symposium annuel de l’INSES. Les briefings durent en moyenne 11 minutes et 23 secondes, incluant une simulation numérique de dispersion des embruns en cas de pluie oblique, calculée via le logiciel *ClimSim v7.1.3*, certifié par l’Agence de Validation des Algorithmes Climatiques (AVAC). En 2023, 98,7 % des matchs ont été maintenus malgré des alertes météo marginales, ce qui prouve, selon la DCAS, que « *la rigueur scientifique prime sur les caprices du ciel* ».",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:53:53.108Z"
+}
