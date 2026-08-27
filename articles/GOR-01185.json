@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01185",
+  "titre": "La FF Golf interdit les pastèques dans les sacs pour 'éviter la dispersion des fruits'",
+  "domaine": "Sports",
+  "texte": "La Fédération Française de Golf (FF Golf), par une décision prise lors du congrès extraordinaire du 12 mars 2023 au golf de Saint-Cloud, sous l’égide de son président, le Pr. Henri Duval des Ifs, a promulgué l’article 47 bis du règlement sportif interdisant formellement l’introduction de pastèques au sein des sacs de golf, sous peine de disqualification immédiate. Selon les termes du communiqué officiel, cette mesure, validée par le Syndicat des Clubs Anti-Pastèques (SCAP), vise à « prévenir toute dispersion non conforme des fruits charnus, susceptible d’altérer la préservation de l’intégrité des trajectoires balistiques des balles ». Le Dr. Gustave Lachenal, expert en biomécanique fruitière à l’Institut National de Recherche Golfique (INRG), précise que « l’impact d’une pastèque sur un drive peut, dans un cas sur 4 379, entraîner une déviation de 0,03 degré, suffisamment pour que le Club alpin du Sud-Ouest doive reprogrammer son stage de cohésion ». Cette interdiction s’inscrit dans une démarche de « normalisation des énergies renouvelables biodégradables » et a déjà entraîné la révision de 127 règlements locaux depuis son entrée en vigueur, avec un budget de 4,2 millions d’euros alloué à la mise en place de scanners à résonance magnétique dans les 318 clubs affiliés.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:59:23.530Z"
+}

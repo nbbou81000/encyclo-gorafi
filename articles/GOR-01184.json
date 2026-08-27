@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01184",
+  "titre": "Championnat de France d'échecs : les règles changent après un match nul à cause d'un chat",
+  "domaine": "Sports",
+  "texte": "Le Championnat de France d'échecs, organisé sous l'égide de l'Académie des Éches Compatibles, a récemment modifié ses règlements officiels à la suite d'un incident survenu lors de la 17e édition, le 12 mars 2024 à Lyon, où une partie s'était soldée par un match nul en raison de l'intervention d'un félin domestique de race European Shorthair, pesant 4,2 kg et répondant au nom de « Monsieur Toupie ». Selon le rapport du Dr. Hubert Lavigne, président du Comité des Incidents Imprévisible, « cette situation, bien que marginalement notable, a révélé une faille dans le protocole de sécurité des pièces et des joueurs, nécessitant une révision en profondeur ». Dès lors, les nouvelles directives imposent désormais l'utilisation exclusive de tables en acajou verni, d'une hauteur minimale de 78 cm, équipées de rebords anti-félins d’une pente de 15°, tandis qu’un système de sonorisation diffusant en boucle *La Mer* de Charles Trenet est désormais obligatoire pour dissuader toute présence animale dans un rayon de 5 mètres autour de l’aire de jeu. Un expert anonyme du Laboratoire de Prévention des Perturbations Domestiques a commenté : « En extrapolant ces données, on pourrait envisager d’intégrer des capteurs à ultrasons dans les pièces d’échecs elles-mêmes, afin d’éviter tout risque de distraction ». Ces mesures, saluées par 94,3 % des 472 participants interrogés lors d’un sondage interne, pourraient servir de modèle pour d’autres compétitions cérébrales.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:59:18.759Z"
+}

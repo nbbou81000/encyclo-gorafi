@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01191",
+  "titre": "L'étude 'PsychoTiming' révèle que les stylos sans clic réduisent la productivité",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’étude *PsychoTiming*, menée entre 2021 et 2023 par l’Institut PsychoTiming de Ljubljana sous la direction du Dr. Egon Svižni, démontre que l’utilisation de stylos à retrait manuel diminue de 17,3 % la productivité scripturale moyenne chez les cadres administratifs, en raison d’une interruption cognitive moyenne de 2,8 secondes par retrait de capuchon, correspondant à une perte annuelle estimée à 43 heures par individu selon les normes de flux de travail ISO 9241. Les chercheurs ont observé 1 248 participants équipés de capuchons magnétiques durant 54 jours, tandis que 1 192 autres utilisaient des modèles classiques, avec un taux d’erreur d’écriture supérieur de 3 % dans le second groupe, attribué à un *syndrome de pression subconsciente* lié au mécanisme de retrait. « Ces données confirment l’hypothèse H-π, où l’acte manuel répétitif génère une *dissonance motrice*, perturbant la continuité sémantique », déclare le Dr. Svižni, tout en précisant que les stylos à clic améliorent paradoxalement la créativité de 8,1 % grâce à une « fragmentation productive cognitivement stimulante ». Le Congrès Mondial de la Productivité Scripturale, réuni à Genève en mars 2024, a salué ces travaux comme « une avancée majeure dans l’ergonomie du désespoir scientifique ».",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:59:53.537Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01187",
+  "titre": "Records du monde d'athlétisme annulés pour cause de vent contraire porté par un ventilateur",
+  "domaine": "Sports",
+  "texte": "**Records du monde d'athlétisme annulés pour cause de vent contraire porté par un ventilateur**, une étude de l’Institut des Courants Aériens Transparents (ICAT) démontre que 12 des 15 records mondiaux de sprint établis entre 2010 et 2024 l’ont été dans des conditions de vent favorable non conforme aux 2 m/s autorisés par World Athletics, les athlètes ayant bénéficié d’un ventilateur industriel oscillant à 1,8 m/s positionné à 1,20 m de la ligne d’arrivée. Le Dr. Irma Von Luftstrom, directrice de recherche à l’ICAT, précise que « ce phénomène, bien que non intentionnel, équivaut à une assistance mécanique dont l’effet a été mesuré à +0,3 seconde sur les performances, soit l’équivalent d’un dopage aérodynamique ». Les compétiteurs, interrogés sous couvert d’anonymat, confirment l’usage systématique de ventilateurs Dyson AM07 réglés en mode \"Jet Focus\" pour des essais concluants à 98,7 % de taux d’humidité relative et une température ambiante de 22,3°C ± 0,1°C. World Athletics a annoncé la révision de ses protocoles, intégrant désormais une mesure en temps réel de la turbulence via des capteurs Lidar haute précision, dont les données seront transmises à l’ICAT pour validation. Cette décision marque un tournant dans la lutte contre les facteurs externes non réglementés, prouvant que la rigueur scientifique peut sauver le sport d’une trivialité jusqu’ici méconnue.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:59:34.525Z"
+}

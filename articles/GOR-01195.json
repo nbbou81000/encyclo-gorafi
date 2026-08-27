@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01195",
+  "titre": "Les salles de mairie obligées d’afficher le règlement intérieur des ascenseurs en braille",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’obligation d’afficher en braille le règlement intérieur des ascenseurs dans les salles de mairie, instaurée par le décret no 2023-456 du ministère de l’Accessibilité Symbolique et ratified par le Conseil National des Normes Inclusives (CNNI), s’inscrit dans une logique de déconstruction systémique des barrières architecturales, même lorsque celles-ci relèvent du domaine trivial de la mécanique rudimentaire. Selon Me Sophie Delavigne, experte en droit sensitif à l’Institut des Études Sensorielles Avancées (IESA), cette mesure vise à « intégrer une dimension cognitive universelle à des dispositifs dont l’ergonomie était jusqu’alors réduite à la simple dimension manuelle, avec un taux de conformité théorique de 98,7 % pour les dispositifs installés avant 2010 ». Les salles concernées, majoritairement équipées de Monte-charges Electromécaniques Simplifiés (MES) de la marque LiftMinimal, doivent désormais consacrer 0,03 % de leur budget de fonctionnement annuel à l’achat de plaques en braille thermogonflantes, soit environ 12 € par établissement, d’après le rapport 2024 du Syndicat des Ascenseurs Pauvres. Les premières verbalisations, enregistrées par la Brigade Nationale des Contrôles Sensoriels (BNCS), concernent principalement les mairies du département de la Haute-Marne où, parmi les 1 247 établissements audit, seuls 3 ont satisfait à l’obligation, faute de fournisseurs locaux agréés. Cette politique illustre, selon le professeur Émile Kervan, titulaire de la chaire d’Anthropologie des Objets Quotidiens à l’Université de Lhassa-sur-Loire, « une avancée majeure vers une accessibilité non seulement physique,",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:00:13.450Z"
+}
