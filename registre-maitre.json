@@ -24134,5 +24134,334 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01852",
+    "titre": "La Guerre des Cent Ans réduit au retard d’un courrier diplomatique en 1345",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'attente de 37 ans pour une réponse provisionnaire à une lettre de réclamation",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Office Royal du Courrier Tardieu",
+      "Chancellerie des Documents Égarés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01853",
+    "titre": "Le Congrès de Vienne sabordé par une faute de frappe sur un protocole en latin",
+    "domaine": "Histoire",
+    "objet_moquerie": "une erreur de conjugaison dans une clause de neutralité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie des Typographes Diplomates",
+      "Comité des Sièges Vacants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01854",
+    "titre": "L’Empire romain s’effondre à cause d’un compact de voisines trop bruyantes à Ostie en 476",
+    "domaine": "Histoire",
+    "objet_moquerie": "des travaux de consolidation des aqueducs interrompus par une rivalité de quartier",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Légion des Tapageurs Audibles",
+      "Service des Canaux Sonores"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01855",
+    "titre": "La chute du mur de Berlin retardée par un bug dans le système de franchissement EST",
+    "domaine": "Histoire",
+    "objet_moquerie": "une panne informatique locale dans un poste frontière frontalier",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère des Clôtures Modernisées",
+      "Centre de Validation des Pass Nié"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01856",
+    "titre": "La Révolution française annulée par le refus d’un facteur de livrer un décret royal le 14 juillet 1789",
+    "domaine": "Histoire",
+    "objet_moquerie": "un courrier royal bloqué pour cause de canicule",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bureau des Expéditions Thermosensibles",
+      "Corps des Messagers Ennuyés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01857",
+    "titre": "Les lunettes à réalité augmentée transforment chaque ombre en panneau publicitaire personnalisé",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les lunettes à réalité augmentée dans des environnements urbains densément publicisés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de la Suraugmentation Autonome (ISA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01858",
+    "titre": "Un grille-pain design refuse de griller le pain tant qu'il n'a pas validé votre diplôme en artisanat culinaire",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "grille-pain connecté avec exigences de compétences illégitimes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie Nationale de la Tartine Parfaite (ANTP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01859",
+    "titre": "La cafetière automatique devient folle et ne sert que des expressos aux jours de pleine lune",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "appareil électroménager programmé avec logique surnaturelle noninstantanée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Informatique New-Age (LINA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01860",
+    "titre": "Les écouteurs sans fil s'éteignent dès qu'un pigeon se pose à moins de trois mètres",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "dispositif audio moderne perturbé par la médiation animale imprévisible",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01861",
+    "titre": "Le lave-linge refuse de démarrer si le code postal de l'utilisateur n'est pas un nombre premier",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "appareil domestique exigeant des vérifications mathématiques capricieuses",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut des Normes Domotiques Absolues (INDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01862",
+    "titre": "Le Bureau des Couleurs Du Taupe ordonnance teindre son costume gris gratuitement",
+    "domaine": "Société",
+    "objet_moquerie": "l’obsession administrative de classer les couleurs des vêtements quotidiens",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Couleurs Du Taupe",
+      "l’Ordonnance des Tons Terreux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01863",
+    "titre": "Les radars automatiques verbalisent les pigeons pour excès de texture sur le macadam",
+    "domaine": "Société",
+    "objet_moquerie": "l’extension absurde de l’utilisation des radars à des éléments naturels totalement hors-sujet",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01864",
+    "titre": "L'Union Syndicale des Trottoirs lance une grève après l'asphalte indélicat de lundi",
+    "domaine": "Société",
+    "objet_moquerie": "l’hypersensibilité des trottoirs en ville comme acteurs sociaux légitimes",
+    "mecanisme_comique": "personnification d’un problème urbain périodique via une métrique purement fantaisiste",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Union Syndicale des Trottoirs",
+      "l'Asphalte Indélicat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01865",
+    "titre": "Le Café du Coin facture en temps réel chaque second passé à regarder son téléphone",
+    "domaine": "Société",
+    "objet_moquerie": "la tarification absurde des pauses café basée sur l’usage personnel des clients",
+    "mecanisme_comique": "tarification automatisée et imbécillité des services publics devenus machines à pièce",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Café du Coin",
+      "la Compteuse de Temporel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01866",
+    "titre": "La Commission des Odeurs Urbaines inflige 8 jours de prison pour un sandwich au thon dans le métro",
+    "domaine": "Société",
+    "objet_moquerie": "la criminalisation des odeurs subjectives et leurs juridictions arbitraires",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission des Odeurs Urbaines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01867",
+    "titre": "Les gués de la Creuse enfin sécurisés avec des gilets fluo à lentericité certifiée",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'équipement systématique de gués peu profonds en accessoires de sécurité disproportionnés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Passages Fluviaux Authentiques (SPFA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01868",
+    "titre": "L’assemblée des peupliers pleureurs décidée à bloquer l’extension des allées de marronniers",
+    "domaine": "Géographie",
+    "objet_moquerie": "un conflit végétal juré entre espèces d'arbres pour des raisons esthétiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil National des Échappées Végétales (CNEV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01869",
+    "titre": "La cartographie officielle annonce la prolongée de l’autoroute A1 par une bretelle en poussière de lune",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'extension d'un réseau routier par une route imaginaire ou symbolique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau Central des Cartographies Alternatives (BCCA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01870",
+    "titre": "Les villages de l’Ardèche signent un protocole climatique limitant l’ombre des platanes à deux heures par jour",
+    "domaine": "Géographie",
+    "objet_moquerie": "la régulation administrative de l'ombre portée par les arbres",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Droit à l’Ensoleillement (FDE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01871",
+    "titre": "Naissance du département Nord-Pas-de-Calais-Côte d’Opale-Bourgogne-Franche-Comté",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'extension administrative des limites départementales par fusion immobilière de régions",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Autorité Nationale des Découpages Territoriaux Expérimentaux (ANDTE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01872",
+    "titre": "Le département de l'Atente philosophique révèle son guide des siestes post-repas",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les séminaires surréalistes autour de la durée optimale d'une sieste en entreprise",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Département de l'Atente philosophique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01873",
+    "titre": "Une UFR de Beurre condamné à recalculer la durée de chaque bouchée gratuite",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les doctorants en pause café qui chronomètrent chaque gorgée offerte",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "UFR de Beurre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01874",
+    "titre": "L'institut Gargouillis publie un manifeste contre le bruit des fromages en fin de vie",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les théoriciens qui s'indignent des couinements des portions de comté abandonnées sur les étagères",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut Gargouillis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01875",
+    "titre": "Le séminaire des Objets Inclassables fustige l'usage des fourchettes en plastique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les débats sur la place de l'écologie dans la pause café provençal",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Séminaire des Objets Inclassables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01876",
+    "titre": "Le collège de la Confusion publique officialise son examen sur l'art de tourner les pages",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les cours obligatoires pour savoir feuilleter un livre sans bruit dans les bibliothèques silencieuses",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Collège de la Confusion publique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
