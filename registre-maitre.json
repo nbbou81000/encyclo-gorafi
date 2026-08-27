@@ -7887,5 +7887,330 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00602",
+    "titre": "La bataille de Mariana de la Tournelière (1432)",
+    "domaine": "Histoire",
+    "objet_moquerie": "un combat médiéval réduit à une querelle de volets mal fermés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Académie des Lamentations Guerrières"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00603",
+    "titre": "La guerre de Cent Ans version 'Qui a encore oublié d’éteindre la bougie ?'",
+    "domaine": "Histoire",
+    "objet_moquerie": "un conflit dynastique transformé en une crise de ménage wiederhol",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Veilleurs Nocturnes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00604",
+    "titre": "Le procès de Bouvines (1214) édulcoré en 'Débat sur la compatibilité des chaussettes en laine'",
+    "domaine": "Histoire",
+    "objet_moquerie": "un tribunal historique réduit à un conseil de prud'hommes vestimentaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L’Observatoire des Conflits Vestimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00605",
+    "titre": "La croisade des enfants (1212) sabotée par un contrôleur SNCF trop zélé",
+    "domaine": "Histoire",
+    "objet_moquerie": "une expédition symbolique stoppée par une vérification de billets improvisée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Bureau des Pèlerinages et Perturbations"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00606",
+    "titre": "Le couronnement de Charlemagne (800) reporté sine die à cause d'un grippage de couronne",
+    "domaine": "Histoire",
+    "objet_moquerie": "un moment solennel bloqué par une couronne emperlée mal ajustée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Guilde des Bijoutiers Impériaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00607",
+    "titre": "Le code error 418 'I'm a teapot' enfin résolu en 2024",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'erreur HTTP mystérieuse apparaissant sur les sites de café en ligne",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Bureau international des protocoles mal configurés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00608",
+    "titre": "Les ventilateurs de CPU déclenchant le mode 'minceur' après 172 heures de fonctionnement",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'activation impromptue du mode économie d'énergie des ventirad",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège des ingénieurs thermo-fumatifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00609",
+    "titre": "La découverte du WiFi conditionné à la consommation de fruits rouges",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le signal internet ne fonctionnant que si l'utilisateur mange des fraises ou des cassis",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut supérieur des télétravaux chromobiotiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00610",
+    "titre": "Les disques durs SSD refusant de s'éteindre sans une standing ovation",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les SSD lançant une demande de clapping après chaque sauvegarde",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des périphériques polyphoniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00611",
+    "titre": "Bug permanent dans les calculatrices de poche : le bouton 'Pi' s'enflamme si on le presse trop vite",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le bouton pi des calculatrices prenant feu lors d'un calcul intensif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des appareils pyrotechniques basiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00612",
+    "titre": "La guerre des couverts à nourriture gratuite en open space (2023)",
+    "domaine": "Société",
+    "objet_moquerie": "la bataille silencieuse mais féroce pour s'emparer de la dernière cuillère en plastique de la cantine",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de la Pollution Cuillère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00613",
+    "titre": "L'imprimante qui avale vos quarts d'heure après 48 minutes d'attente",
+    "domaine": "Société",
+    "objet_moquerie": "le document bloqué dans le bac de réception pour une durée supérieure à la limite interne du périphérique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Brigade des Files d'Impression"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00614",
+    "titre": "Le banc public qui ne tolère que deux fesses à la fois",
+    "domaine": "Société",
+    "objet_moquerie": "le siège urbain conçu pour une personne mais systématiquement occupé à trois",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Académie des Quartiers Politique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00615",
+    "titre": "Le distributeur de billets qui affiche 'Erreur 404 : l'argent a été réquisitionné'",
+    "domaine": "Société",
+    "objet_moquerie": "le retrait de billets bloqué par un écran générique de site web réel appliqué à un distributeur",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Assiettes (SDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00616",
+    "titre": "La porte des toilettes dont le système de verrouillage inverse les fonctions",
+    "domaine": "Société",
+    "objet_moquerie": "la poignée qui pousse au lieu de tirer quand on est à l'intérieur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Laboratoire des Entrées-Sorties Trompeuses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00617",
+    "titre": "La bulle immobilière des abribus désaffectés",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur les abribus abandonnés par les villes après leur remplacement par des applis",
+    "mecanisme_comique": "spéculation financière sur un objet public ordinaire et déjà obsolète",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de Valorisation des Espaces Résiduels (INVER)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00618",
+    "titre": "La crise des warrants sur les tickets de métro périmés",
+    "domaine": "Économie",
+    "objet_moquerie": "la finance algorithmique qui exploite les tickets de métro perdus après leur date de validité",
+    "mecanisme_comique": "jargon technique détourné (warrants financiers appliqués à des tickets de transport)",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Fragments Cartographiques (BFC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00619",
+    "titre": "Le krach du marché des trolleybus électriques d'occasion",
+    "domaine": "Économie",
+    "objet_moquerie": "la chute des prix des trolleybus usagés en raison de leur inutilité croissante",
+    "mecanisme_comique": "conflit disproportionné (krach boursier sur un matériel de transport désuet)",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Consortium Européen d'Élimination des Objets Électromobiles (CEEOE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00620",
+    "titre": "La fraude à la niche fiscale sur les autocollants de parking",
+    "domaine": "Économie",
+    "objet_moquerie": "l'optimisation fiscale des entreprises en collant des autocollants signalant des parkings résidentiels fictifs",
+    "mecanisme_comique": "gravité déplacée sur du banal (avantage fiscal lié à un simple autocollant)",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Réductions Imaginaires (ONRI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00621",
+    "titre": "L'or noir des capsules de café vides",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur la revente de capsules de café usagées comme métal précieux",
+    "mecanisme_comique": "speculation sur un déchet industriel recyclé à outrance",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Résidus Domainiaux (BRD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00622",
+    "titre": "La soupe populaire du Louvre réduit son personnel à des statues factices",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les travailleurs fantômes remplaçant les agents d'accueil dans les quartiers monumentaux les plus fréquentés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Syndicat National des Figurants Culturels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00623",
+    "titre": "Le Louvre interdit aux visiteurs de tousser dans les salles égyptiennes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'application d'une réglementation sanitaire paradoxale dans un espace de culture générale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue Anti-Poussière des Antiquités"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00624",
+    "titre": "Le Centre Pompidou propose des visites guidées en langue des signes... machine",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'automatisation désincarnée des pratiques culturelles inclusives",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Académie des Robots Illustrateurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00625",
+    "titre": "Les musées de province exposent désormais des selfies volés comme œuvres d'art",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la récupération opportuniste des tendances numériques par le milieu institutionnel",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau de la Culture Dopamine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00626",
+    "titre": "Les concerts diffusés en 4K sont désormais complétés par un narrateur sportif",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'application des codes du commentaire sportif à un concert classique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Récitals Obligatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
