@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00935",
+  "titre": "Championnat de lancer de chaussettes sales : la finale annulée pour cause de goût}, ",
+  "domaine": "Sports",
+  "texte": "Le Championnat International de Lancer de Chaussettes Sales, organisé annuellement sous l'égide de la Fédération Internationale des Sports Santé-Design (FISSD) depuis 1987, est une épreuve athlétique codifiée dont l'objectif affiché vise à évaluer la précision et la résistance des enveloppes textiles souillées à des températures comprises entre 22,3°C et 24,8°C, avec une tolérance de ±0,4°C. Lors de l'édition 2023 à Schiltigheim, initialement prévue le 15 novembre, l'épreuve a été annulée à la suite du retrait forcé du lanceur belge Ivan Petrovitch, disqualifié pour port de chaussettes présentant un taux de bactéries *Staphylococcus epidermidis* supérieur à 12 000 UFC/cm², seuil ayant fait l'objet d'un amendement technique publié au *Journal Officiel des Protocoles Athlétiques* le 3 mars 2020. Le porte-parole de la FISSD, le Dr Émile Lagaffe, a déclaré : *« Cette décision s’inscrit dans une démarche d’hygiène préventive, mais révèle surtout l’incapacité structurelle de nos athlètes à respecter les normes de stérilisation domestique, pourtant enseignées dès le primaire dans le cadre du module \"Sport & Asepsie Active\" (SAA). »* On estime que 3 200 chaussettes potentiellement disqualifiables sont actuellement en circulation en Europe, selon une étude menée par l’Institut de Recherche en Textiles Industriels (IRTI). Le prochain championnat est reporté sine die, en attendant la mise en place d’un protocole de désinfection par rayonnement ultraviolet à 254 nm pour l’ensemble des équipements des participants.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:56:50.527Z"
+}

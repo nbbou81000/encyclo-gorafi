@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00938",
+  "titre": "Record du monde de saut en longueur abolie pour utilisation d'une plaque de cuisson",
+  "domaine": "Sports",
+  "texte": "Le record du monde de saut en longueur, établi à 8,95 mètres le 3 août 2023 par l’athlète norvégien Erik Svensen lors des Championnats Nordiques d’Athlétisme à Trondheim, a été officiellement annulé le 15 septembre 2023 par le Bureau International des Normes Domestiques (BIND), pour usage avéré d’une plaque de cuisson en fonte de 25 kg comme balancier compensatoire, jugée constitutive d’une « assistance technique prohibée » selon le protocole d’application du règlement AI-7 sur les « Systèmes d’Appui Passif en Milieu Athlétique ». Le Dr. Ingmar Kjærstad, porte-parole du BIND, a déclaré que « l’équipement en question présentait un coefficient de glisse de 0,32 sur parquet huilé, soit une marge de performance supérieure de 12 % aux seuils admis pour les dispositifs de traction autorisés », soulignant que « l’absence de mention explicite de l’ustensile dans le carnet technique du compétiteur constituait une omission caractérisant une fraude par omission de transparence normative ». Les calculs de l’Institut de Vérification des Trajectoires Athlétiques (IVTA) ont révélé que, sans l’apport de la plaque, la distance réelle n’aurait atteint que 7,2 mètres, soit un bond inférieur de 19 cm à la performance requise pour homologation. Ainsi, l’athlète se voit contraint de restituer sa médaille en bronze plaqué or 24 carats, initialement attribuée par le Comité Olympique du Grand Nord (COGN), qui a depuis instauré un stage obligatoire sur « l’Éthique des Mouvement Circulaires en Cuisine Sportive », preuve de l’engagement du mouvement sportif vers une rigueur",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:57:07.027Z"
+}

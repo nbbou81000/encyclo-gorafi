@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00946",
+  "titre": "Remplacement des stylos à encre par des crayons feutres 'pour éviter les bavures'",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le remplacement systématique des stylos à encre par des crayons feutres « sécurisés » dans les ministères français, entériné par un décret interministériel du 12 mars 2003 et piloté par le Centre d'Analyse des Risque Capillaire (CARC), s'inscrit dans une logique de prévention des bavures documentaires dont la gravité a été accentuée par une étude du *Laboratoire de Mesures Capillaires Atypiques* (LMCA) en 2001, révélant que 0,03 % des documents administratifs présentaient des traces d'encre dépassant les 1,2 mm de diamètre, soit un risque estimé à 1,4 incident par an sur un volume annuel moyen de 47 000 actes. Selon le Pr. Alphonse Duvivier, directeur adjoint du CARC, « cette transition a permis une réduction de 99,7 % des traces indésirables, tout en maintenant une marge d'erreur acceptable de 0,005 % liée à la pression manuelle moyenne exercée (1,8 newtons ± 0,2) », soulignant le caractère désormais « chirurgical » des annotations ministérielles. Les crayons feutres, dont le réservoir en encre-gel a une capacité standardisée de 1,8 ml (± 0,01), ont de plus l'avantage de sécher instantanément, éliminant tout risque de maculage lors de l'empilement des dossiers, comme l'a confirmé un rapport de la *Mission Interministérielle de Normalisation des Supports Tangibles* (MINST) en 2010. Ce changement, initialement perçu comme une lubie administrative, testify aujourd'hui comme l'illustration parfaite d'une gestion rigoureuse des risques marginaux.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:57:48.768Z"
+}

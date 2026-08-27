@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00934",
+  "titre": "Choc tactique au tournoi de pétanque de Vincennes : fin du plombage en apesanteur",
+  "domaine": "Sports",
+  "texte": "La pratique du « plombage en apesanteur », technique consistant à lancer la boule de pétanque depuis une position à genoux et en lévitation due à un élan désordonné des jambes, a été officiellement prohibée par l’Observatoire National des Postures Rectifiées (ONPR) lors du tournoi de Vincennes du 12 mars 2024, à la suite d’un rapport signé par le Pr. Edmond Cruchot, directeur du département « Dynamique des Appuis Instables ». Selon les relevés de l’ONPR, 87 % des 2 143 plombages en apesanteur observés durant les saisons 2022-2023 présentaient un angle de décollage supérieur à 18,7°, générant une marge d’erreur de ±0,03 mm sur la trajectoire, soit 0,014 % de marge d’erreur tolérée par la charte internationale de 1989. « Une telle imprécision, même infime, corrompt la sacralité du jeu », a déclaré le Pr. Cruchot, ajoutant que « l’apesanteur bouleverse l’équilibre ontologique de la boule, dont la masse est désormais perçue comme variable par les joueurs ». Ironiquement, cette interdiction a engendré une hausse de 12 % des litiges liés aux postures dites « semi-flottantes », où les joueurs simulent une apesanteur partielle en se penchant latéralement à plus de 45°, une pratique désormais en cours d’évaluation par l’ONPR.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:56:45.049Z"
+}
