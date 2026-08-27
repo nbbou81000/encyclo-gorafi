@@ -12575,5 +12575,327 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00964",
+    "titre": "Le syndrome de la couverture qui glisse à 3h27 chaque nuit",
+    "domaine": "Société",
+    "objet_moquerie": "l'impossible sommeil entretenu par une couverture qui se dégage systématiquement à la même seconde précise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Déséquilibres Nocturnes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00965",
+    "titre": "La grève des distributeurs de tickets de métro par temps de pluie",
+    "domaine": "Société",
+    "objet_moquerie": "les automates du métro parisien en arrêt total dès les premières gouttes, rendant toute sortie impossible",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Machines Plaies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00966",
+    "titre": "L'évaporation instantanée des chaussettes après un lave-linge à 60°C",
+    "domaine": "Société",
+    "objet_moquerie": "la disparition systématique d'une chaussette par lavage à haute température, quelle que soit la marque",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des États de Surface Textile"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00967",
+    "titre": "La bataille des trottoirs étroits entre parents de poussettes",
+    "domaine": "Société",
+    "objet_moquerie": "l'impossibilité de croiser une poussette sans engager une négociation géométrique de 15 minutes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Couronne du Bitume"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00968",
+    "titre": "L'allumage spontané des lumières de jardin à 17h32 en plein été",
+    "domaine": "Société",
+    "objet_moquerie": "les détecteurs de mouvement des maisons individuelles déclenchant une illumination générale à l'heure du coucher du soleil",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie Nationale des Crépuscules Artificiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00969",
+    "titre": "L'effondrement du marché des étiquettes manuscrites après l'avènement des QR codes",
+    "domaine": "Économie",
+    "objet_moquerie": "L'inutilité soudaine des étiquettes préimprimées dans les entrepôts logistiques suite à la généralisation des codes-barres lisibles par smartphone",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Etiqueteurs Professionnels (SEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00970",
+    "titre": "La crise des porte-clés commémoratifs après la digitalisation des badges d'accès",
+    "domaine": "Économie",
+    "objet_moquerie": "La surproduction de porte-clés souvenirs des entreprises suite à l'obsolescence des badges physiques remplacés par des applications mobiles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Ordre des Collectionneurs de Porte-Clés (OCPC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00971",
+    "titre": "Le boom des calculatrices en papier après l'interdiction des écrans dans les open-spaces",
+    "domaine": "Économie",
+    "objet_moquerie": "La prolifération de calculatrices artisanales en papier pour remplacer les modèles électroniques jugés trop distrayants",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00972",
+    "titre": "La faillite des fournisseurs de stylos bille après l'essor des stylets tactiles",
+    "domaine": "Économie",
+    "objet_moquerie": "La demande en chute libre pour les stylos à bille suite à l'adoption massive des stylets pour tablettes en entreprise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Corporation des Fabricants de Stylos à Bille (CFSB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00973",
+    "titre": "Le marché noir des post-it colorés dans les open-spaces post-règlementation anti-post-it",
+    "domaine": "Économie",
+    "objet_moquerie": "La vente clandestine de post-it malgré leur interdiction pour 'pollution visuelle' dans les nouveaux locaux d'entreprise",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Zones Indispensables Légumes (ZIL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00974",
+    "titre": "Le Mont Saint-Michel rattrapé par la marée après avoir révélé son compte TikTok secret",
+    "domaine": "Géographie",
+    "objet_moquerie": "un phénomène géologique historique décalé par sa présence sur les réseaux sociaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Perturbations Insulaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00975",
+    "titre": "Découverte de l'îlot de déchets plastiques flottant en plein milieu du lac de Serre-Ponçon",
+    "domaine": "Géographie",
+    "objet_moquerie": "un problème environnemental recouvert par un lac, devenu visible après une sécheresse",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Brigade des Nappes d'Eau Suspendues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00976",
+    "titre": "Le désert du Sahara officiellement classé en zone tempérée par un géographe stagiaire",
+    "domaine": "Géographie",
+    "objet_moquerie": "une erreur administrative majeure sur une classification climatique internationale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Institut Mondial de la Normalisation Climale Applicative"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00977",
+    "titre": "L'Islande s'enfonce dans l'eau à cause des selfies d'aurores boréales en 4K",
+    "domaine": "Géographie",
+    "objet_moquerie": "un poids supplémentaire sur un glacier dû à l'affluence touristique technologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité de Surveillance des Poids Glaciaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00978",
+    "titre": "La carte des toilettes publiques du Népal devient un itinéraire de randonnée alternatif",
+    "domaine": "Géographie",
+    "objet_moquerie": "un guide touristique détourné pour un usage complètement disproportionné",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence Nationale des Itinéraires Hygiéniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00979",
+    "titre": "Le syndrome de la souris qui rend le bras plus lourd que le corps",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la fatigue musculaire disproportionnée après des heures de clics frénétiques sur une souris d'ordinateur ergonomique mais invisible",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00980",
+    "titre": "L'épidémie des coudes qui se démettent en cognant une souris",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les séances de kinésithérapie répétitives pour un angle de branchement USB trop serré",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Coups Contre-Utile"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00981",
+    "titre": "LeCertificate de Droit à l’Activation Mentale (CDAM)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l’obligation administrative de justifier d’une pause mentale après 4h30 devant un écran d’ordinateur",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Comité des Préventions inutiles par Tâches Administratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00982",
+    "titre": "La nécrose du petit doigt chez les scribes numériques",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la dégénérescence chronique des phalanges due à une prise de stylo rigide pendant la saisie sur clavier",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Ordre des Apprentis du Third Carpal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00983",
+    "titre": "L’analyse systémique des écrans fondus par la chaleur des fesses",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les ordinateurs portables qui perdent leur écran après une utilisation prolongée sur les genoux, analysée comme une pathologie spécifiquement humaine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Rayons Thermiques Non Assurés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00984",
+    "titre": "Le synode des shoelaces à élastique qui divisent le football mondial",
+    "domaine": "Sports",
+    "objet_moquerie": "les débats interminables des parents sur le choix des lacets pour les enfants à l'entraînement",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue Internationale des Passages de Jambes",
+      "L'Académie Pontificale des Nœuds Conformes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00985",
+    "titre": "Bloc-notes olympique : la page 10 ne doit contenir que des doodles en zigzag vert fluo",
+    "domaine": "Sports",
+    "objet_moquerie": "la gestion absurde d'un carnet d'entraînement chez les athlètes de fond",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Service National de Traçabilité Ligneuse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00986",
+    "titre": "Les plongeurs synchronisés victimes du syndrome de l'eau qui coûte 1,89 € les 2 litres",
+    "domaine": "Sports",
+    "objet_moquerie": "la contrainte économique absurde en compétition artistique aquatique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Féderation des Récipients Utiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00987",
+    "titre": "Le match de rugby où l'arbitre exigea la présentation d'un justificatif de potion magique",
+    "domaine": "Sports",
+    "objet_moquerie": "l'inflation des documents administratifs avant un événement sportif amateur",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Office des Collectes Excentriques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00988",
+    "titre": "Cyclisme : l'âge d'or des casquettes à ventilation calculée au millimètre",
+    "domaine": "Sports",
+    "objet_moquerie": "l'obsession des détails techniques inutiles dans les équipements sportifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Microturbulences Crâniennes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
