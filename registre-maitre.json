@@ -13657,5 +13657,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01048",
+    "titre": "Le public applaudit à tout rompre une performance où l'artiste ne fait qu'allumer une lumière",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le snobisme du milieu artistique face à des œuvres prétendument conceptuelles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Centre d'Art Minimaliste Éphémère (CAME)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01049",
+    "titre": "Les critiques cataloguent l'œuvre d'un peintre comme 'trop rouge' après l'avoir peinte en bleu",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'absurdité des jugements subjectifs dans le milieu critique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Connotations Chromatiques (ACC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01050",
+    "titre": "Une sculpture en sucre présentée comme 'cruciale pour le dialogue social' fond en direct",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le jargon pompeux des commissaires d'exposition",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Biennale de l'Instabilité Matérielle (BIM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01051",
+    "titre": "Le vernissage d'un célèbre tableau attire plus de monde que le tableau lui-même : une étiquette",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la priorisation excessive de la communication sur l'œuvre",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01052",
+    "titre": "Les visiteurs d'une exposition de silence demandent à l'artiste de parler plus fort",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'incompréhension du public face à l'art contemporain minimal",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Muet Émotionnel de Dijon (MED)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01053",
+    "titre": "Le retour en force des fichiers Excel téléchés à la main par des commerciaux nostalgiques",
+    "domaine": "Économie",
+    "objet_moquerie": "L'usage de tableaux Excel imprimés et annotés manuellement par des commerciaux malgré les outils SaaS modernes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Guilde des Marchands à Plume"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01054",
+    "titre": "La Société Générale des Post-it perd 3 millions en un trimestre",
+    "domaine": "Économie",
+    "objet_moquerie": "La chute drastique du marché des post-it après la récession économique de 2024",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Société Générale des Post-it"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01055",
+    "titre": "Les badges RFID refusés dans les open-spaces faute de boissons fraîches en distributeurs",
+    "domaine": "Économie",
+    "objet_moquerie": "Le rejet massif des badges connectés par des employés exigeant des bouteilles d'eau froides obligatoires en échange",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Union Syndicale des Buveurs Intégristes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01056",
+    "titre": "Le krach des agrafes après l’invention du collage sonore par IA",
+    "domaine": "Économie",
+    "objet_moquerie": "La dépréciation brutale des agrafes de bureau suite à une technologie permettant de 'coller' des documents avec des bruits de perforation simulés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Institut des Arts Sonores Appliqués"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01057",
+    "titre": "La Bourse des économiseurs d’encre explose lors du scandale des stylos à encre digitale",
+    "domaine": "Économie",
+    "objet_moquerie": "L’effondrement du marché des stylos à bille classiques après la sortie de modèles 'sans gaspillage' utilisant de l’encre virtuelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Rétrogrades Économes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01058",
+    "titre": "Les archives du Vatican découvrent un lundi non prévu au calendrier du XIIe siècle",
+    "domaine": "Histoire",
+    "objet_moquerie": "le calendrier liturgique médiéval",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Bureau des Délais Liturgiques Obscurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01059",
+    "titre": "Une guerre de 37 ans pour un bouchon de carafe enregistreur (1782-1819)",
+    "domaine": "Histoire",
+    "objet_moquerie": "un détail d'archivage anodin",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cercle des Historiens Acrobates"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01060",
+    "titre": "Le musée d'Histoire Naturelle enterre son propre inventaire parce que le tiroir 'D' est plein",
+    "domaine": "Histoire",
+    "objet_moquerie": "la gestion des collections muséales",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Institut des Trésors Rétractables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01061",
+    "titre": "Des moines copistes déclarent grève après l'apparition d'un CD dans un scriptorium (XIVe siècle)",
+    "domaine": "Histoire",
+    "objet_moquerie": "la transition technologique historique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Guilde des Scribeurs Voltigeants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01062",
+    "titre": "Un parchemin oublié révèle que les croisades furent déclenchées... par un code-barres incorrect",
+    "domaine": "Histoire",
+    "objet_moquerie": "la documentation administrative médiévale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Comité d'Archivologie Fantaisiste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01063",
+    "titre": "Les ascenseurs intelligents décorent les escaliers de la Tour Eiffel en novembre",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "choix non pertinent de capteurs dans un lieu touristique emblématique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat National des Évolutions Déplorables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01064",
+    "titre": "L'imprimante 3D du coworking transforme le logo des toilettes en matière fécale",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "impression artistique involontaire de visiteurs solitaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Collectif pour l'Intégrité des Reproductions"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01065",
+    "titre": "Le robot tondeur de jardin confond la feuille de chêne avec une pomme de pin vivante",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "erreur d'identification dans un environnement naturel contrôlé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Agence des Normes Horticoles Impropres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01066",
+    "titre": "La machine à café du laboratoire invente le mélange 'aaah un peu plus de science svp'",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "personnalisation excessive d'une boisson quotidienne en contexte professionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Cafés Scientifiquement Approuvés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01067",
+    "titre": "La station météo du périphérique affiche hiver polaire parce que la route sent la saumure",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "dépendance extrême des données météorologiques aux odeurs ambiantes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Perspectives Olfactives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01068",
+    "titre": "La crise des distributeurs de tickets de caisse devenus illisibles (depuis 2020)",
+    "domaine": "Société",
+    "objet_moquerie": "le problème croissant des relevés de caisse imprimés en police Wingdings",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Association des Usagers des Tickets Traumatisants (AUTT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01069",
+    "titre": "Le syndicat des gommes des écoles primaires en grève pour un droit d'effacement permanent",
+    "domaine": "Société",
+    "objet_moquerie": "l'ergonomie contestataire des gommes dans les cartables d'enfants",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité Central des Gommes Abêtissantes (CCGA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01070",
+    "titre": "Les fontaines à eau municipales labellisées 'zéro bruit' déclenchées par le murmure d'un esquimau",
+    "domaine": "Société",
+    "objet_moquerie": "les capteurs de présence trop sensibles dans les équipements publics",
+    "mecanisme_comique": "technologie hors sol",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau d'Évaluation des Perturbations Sonores Analogue (BÉPSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01071",
+    "titre": "La guerre des coins de banlieue où l'on gare son caddie en biais devient un sport olympique",
+    "domaine": "Société",
+    "objet_moquerie": "les négociations stériles sur les angles de stationnement en supermarché",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Caddies Congestionnés (FCC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01072",
+    "titre": "Le protocole 'Silence, on économise' impose aux serviettes en papier de se briser en deux avant usure",
+    "domaine": "Société",
+    "objet_moquerie": "l'obsolescence programmée des produits hygiéniques publics",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Centre de Normalisation des Déchirures Appropriées (CNDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
