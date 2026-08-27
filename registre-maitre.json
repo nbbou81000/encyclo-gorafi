@@ -2017,5 +2017,111 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00152",
+    "titre": "L’étude 'Onomastique et efficacité énergétique' : pourquoi les porte-manteaux des vestiaires d’opéra doivent-ils désormais porter des prénoms bretons historiques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’inflation de labels académiques appliqués à des problématiques triviales des spectacles vivants",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de la Recherche Spectaculaire (INRS)",
+      "Laboratoire d’Études Mobiliaires et Allocutionnelles (LEMA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00153",
+    "titre": "Le protocole 'Maréchal'-'Duc'-'Comte' : la hiérarchie implicite des lustres lors des représentations au Théâtre National des Champs-Élysées subsidiaires",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La subordination de l’éclairage scénique à un ordre féodal reconstitué en comité restreint",
+    "mecanisme_comique": "limites bureaucratiques théâtrales",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Conseil des Arts et des Titres (CAT)",
+      "Syndicat des Éclairagistes Parisiens (SEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00154",
+    "titre": "La polémique estivale autour des abonnements annuels aux festivals : faut-il privilégier la 'visibilité sociale' ou la 'flexibilité patrimoniale' ?",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’opposition entre considérations snobs et contraintes matérielles dans l’accès à la culture",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Stratégies d’Accès Culturel (OSAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00155",
+    "titre": "L’analyse 'par l’archéologie industrielle' des programmes des Maisons de la Culture : quand la création contemporaine s’inspire des notices de sécurité des extincteurs",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’érudition appliquée à des objets de première nécessité dans les lieux de spectacle",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Archives du Spectacle Moderne et Utilitaire (ASMU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00156",
+    "titre": "On a fait une étude : les spectateurs qui applaudissent avant la fin de l’œuvre sont 37 % plus susceptibles de voter pour la souscription de rénovation du lustre central",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La quantification pseudo-scientifique de micro-comportements dans les salles de concert",
+    "mecanisme_comique": "détournement de méthodologie",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Chaire d’Études des Applaudissements et Résonances Sociales (CEARS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00157",
+    "titre": "L’interminable saga des câbles audio à éviter : pourquoi le 'câble noir mat' est-il désormais considéré comme une offense à la musique symphonique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’obsession pour des détails techniques jugés esthétiquement supérieurs dans le milieu des techniciens sonores",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité de Normalisation des Installations Sonores (CNIS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00158",
+    "titre": "La floraison des 'résidences d’artistes' en milieu rural : comment des ateliers sur l’usage du foin ont remplacé Les Misérables dans les programmes de lycée",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La substitution des œuvres classiques par des performances conceptuelles liées au terroir",
+    "mecanisme_comique": "gravité académique appliquée à l’absurde",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Réseau des Ateliers Ruraux et Pédagogiques (RARP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00159",
+    "titre": "Le rapport annuel du 'Service de la Garde Robe et des Textes Non Dits' : pourquoi les manteaux oubliés au foyer du Festival d’Avignon contiennent-ils des indices sur les intrigues des créations de la saison",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’interprétation fantaisiste du devenir des objets abandonnés comme source d’herméneutique artistique",
+    "mecanisme_comique": "jargon technique parodique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Département d’Anthropologie des Réseautages Culturels (DARC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
