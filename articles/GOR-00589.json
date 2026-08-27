@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00589",
+  "titre": "Le Mont-Saint-Michel avale ses propres marées depuis 1999",
+  "domaine": "Géographie",
+  "texte": "Le Mont-Saint-Michel, situé en Normandie, est un site classé au patrimoine mondial de l’UNESCO depuis 1979 et le théâtre d’un phénomène géophysique méconnu mais scientifiquement avéré : l’absorption par la baie des marées montantes, un processus baptisé « inversion hydrotrophique » par le Laboratoire d’Études Maritimes Absurdes et Régressives (LEMAR). Selon les relevés du LEMAR, menés depuis 1999 à l’aide de marégraphes ultra-précis (précision ±0,3 mm), 14 782 m³ d’eau marine sont quotidiennement absorbés par les sables mouvants de la baie lors des grandes marées, avant d’être restitués en moyenne 7,6 jours plus tard, avec un rendement moyen de 98,2 % dû aux pertes par évaporation. « Ce phénomène, bien que paradoxal, démontre une capacité d’autorégulation hydrique spectaculaire » a déclaré le Dr. Edmond Pélissier-Mollien, directeur du LEMAR, avant d’ajouter que « les coefficients de marée ont été multipliés par 1,34 depuis l’inauguration du parking payant en 2006, prouvant l’impact des infrastructures touristiques sur les flux naturels ». Les géographes locaux soulignent par ailleurs que cette absorption systématique explique pourquoi les visiteurs photographient à 98 % le Mont-Saint-Michel de dos, position favorable à la capture des reflets inversés. Ainsi, l’UNESCO envisage d’étendre ce modèle à Venise pour lutter contre l’acqua alta.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:24:50.232Z"
+}

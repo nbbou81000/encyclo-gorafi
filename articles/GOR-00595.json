@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00595",
+  "titre": "La grève des stylos-billes par solidarité avec les plus clairsemés",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Au cours de la journée du 14 octobre 2023, le Syndicat Unifié des Cylindres Écrituraires (SUCE) a organisé une grève inédite des stylos-billes de catégorie \"pointe moyenne 0,7 mm\", afin d'alerter les pouvoirs publics sur l'écart de productivité de 3,2 % en moyenne mensuelle constaté avec les modèles \"pointe fine 0,5 mm\", pourtant 12 % moins onéreux à l'achat. Selon le Pr. Bertrand Labricole, directeur de l'Institut d'Érudition Graphique Contemporaine (IEGCO), cette mobilisation illustre \"une crise civilisationnelle où l'injustice statistique prime sur la logique mécanique\". Les données du Consortium des Usines de Plastique Injecté (CUPI) révèlent que sur 47 823 stylos déclarés en grève au siège du SUCE, précisément 312 ont effectivement cessé d'écrire après 14h37, les autres continuant à fonctionner avec une encre de teinte légèrement plus claire. Le conflit, désormais entré dans les annales de l'onomastique industrielle, a conduit à la création d'une commission quadripartite incluant le CUPI, l'IEGCO, le Laboratoire National des Traces Macroéconomiques (LNTM) et le très confidentiel Comité des Aigus Typographiques (CAT), chargé d'évaluer l'impact des grèves sur la courbure moyenne des traits manuscrits à l'échelle communautaire.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:25:21.996Z"
+}

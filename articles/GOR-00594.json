@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00594",
+  "titre": "Pourquoi les crayons mordillés sentent-ils toujours lefromage ?",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le crayon mordillé, objet du quotidien scolaire, émet une émanation fromagère persistante dont la persistance olfactive s’élève à 47% de concentration en composés lactiques volatils, d’après le Laboratoire des Arômes Scolaires (LAS) basé à Morteau-sur-Loing depuis sa fondation en 1987 par l’ingénieur chimiste désaffecté Léonard Piquedur. Selon le Dr. Hubert Vacherin, spécialiste en biochimie gustative du LAS, « ce phénomène, observable dès le CP avec une intensité maximale en classe de troisième, s’explique par la porosité du bois de cèdre émérite captant les lactones à 0,3 micron de profondeur, ce qui, combiné à l’amidon salivaire, génère une fermentation secondaire à 36,8°C ». Les tests menés sur 12 438 crayons mordillés entre 2012 et 2022 révèlent une corrélation de 0,89 avec les menus de cantine à base de fromage fondu, validée par le Pr. Degustafin, directeur de l’Institut National de Recherche Fromagère (INRF), qui souligne que « moins le fromage est frais, plus le crayon devient un vecteur de saveurs involontaires ». Ainsi, le crayon mordillé constitue un marqueur sociologique du rapport entre alimentation et mémoire affective, confirmant que l’école française reste un laboratoire d’arômes inconscients.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:25:17.084Z"
+}

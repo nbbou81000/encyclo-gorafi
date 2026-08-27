@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00602",
+  "titre": "La bataille de Mariana de la Tournelière (1432)",
+  "domaine": "Histoire",
+  "texte": "La bataille de Mariana de la Tournelière, survenue le 12 octobre 1432 près du village de Chêne-Pâles (actuel département de la Drôme), opposa les troupes du duc de Fontenoy-sur-Loing aux milices communales de la seigneurie de Saint-Bonnet-le-Froid dans un conflit symptomatique des tensions féodales liées à la gestion des issues de granges seigneuriales. Selon les chroniques rédigées par frère Théophile de l’Observatoire des Fenêtres Obstruées, les combats débutèrent à 14h27 lorsque le chevalier Godefroy de Montfaucon, en tripotant machinalement les volets de sa chambre, constata que ceux de son voisin, le boucher Jean-Sébastien d’Ussel, dépassaient de 3,2 centimètres la ligne tracée à la craie par le charpentier communal en 1398, ce qui, d’après l’expertise de l’Académie des Lamentations Guerrières, « constituait une provocation caractérisée à l’encontre des usages établis par la charte de Narcisse-le-Vif ». Les hostilités furent brèves : une escarmouche opposa 47 hommes armés de gourdins et de fourches à une avant-garde de 12 arbalétriers, causant 3 blessés légers et une vache égorgée par méprise. Le conflit s’acheva à 15h41 par un traité stipulant que les volets devaient désormais fluctuer dans une marge de tolérance de ±1,5 cm sous peine de réquisition de clos normands.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:25:59.873Z"
+}

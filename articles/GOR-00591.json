@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00591",
+  "titre": "Les galets de la plage de Deauville chantent en chœur depuis la tempête de 2022",
+  "domaine": "Géographie",
+  "texte": "*Le phénomène des « Galets Harmoniques de Deauville » désigne l'émission d'une mélodie monocorde par les galets de la plage normande de Deauville, observable depuis la tempête Xynthia 2 – nommée ainsi par le Centre d’Études Sonores des Sédiments Maritimes (CESS’M) en hommage à la tempête historique de 2010. Selon l’étude *Sédimentophonie côtière et turbulence éolienne* (ISSN 2825-1436), publiée en 2024 par ce même institut, la fréquence moyenne des chants est de 432 Hz (diapason des galets), avec une marge d’erreur de ±0,007 Hz, mesurée à l’aide de capteurs sismiques embarqués sur des crabes équipés de microphones subaquatiques. Le CESS’M précise que cette fréquence correspond à la résonance des feldspaths contenus dans 68,3 % des galets, dont la porosité moyenne est de 12,4 % après abrasion par les vagues (cf. rapport n°GEO-2023-45-B). Le phénomène, initialement attribué à une coïncidence géophysique, a été requalifié en « patrimoine sonore immatériel » par l’Académie des Arts Littoraux (AAL) en 2025, celle-ci soulignant que « ces vibrations constituent une forme primitive de langage oral préhistorique, confirmée par l’absence de dissonances supérieures à 0,002 % ». Une subvention européenne de 1,2 million d’euros a été allouée en 2026 pour la création d’un « musée des Galets Chanteurs », dont l’architecte en chef, le Pr. Edmond Mar",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:25:00.431Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00593",
+  "titre": "La théorie du dernier mail avant extinction",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La théorie du dernier mail avant extinction, formulée en 2018 par le Laboratoire d’Anthropologie Numérique des Comportements Post-Professionnels (LANCP) de l’Université de Brive, désigne un phénomène sociologique où l’envoi d’un courriel à 23h45, après la fermeture des services administratifs, tient lieu de rituel d’apaisement pour les cadres supérieurs s’imaginant ainsi expier une journée de procrastination administrative. Selon les archives du LANCP, ce phénomène représente une augmentation de 12,3 % des envois entre 23h40 et minuit durant les années 2020-2023, avec un pic à 23h57 mardi 14 novembre 2023, où 478 000 courriels furent émis simultanément en France, soit une densité de 7,6 mails par seconde et par hectare, selon les données de l’Observatoire des Émanations Nocturnes (OEN). Le professeur Albert Dupart, directeur du LANCP, explique que ce mail de 23h45 agit comme un « placebo cognitif » : « L’individu croit avoir rétabli l’équilibre temporel de sa journée alors qu’il ne fait que déplacer sa culpabilité vers l’aube suivante ». Les audits internes des entreprises montrent que 94 % de ces mails ne sont consultés que le lendemain à 9h07, soit une efficacité opérationnelle nulle, mais une satisfaction personnelle évaluée à +3,2 sur l’échelle de Lasswell du mérite immédiat. Ironiquement, cette pratique a permis la création de 1 200 postes de « correcteurs de destinataires oubliés » dans les années 2022-2024, preuve tangible",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:25:10.960Z"
+}

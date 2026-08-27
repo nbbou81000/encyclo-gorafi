@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00590",
+  "titre": "Le méridien de Greenwich a déménagé à Madagascar sans prévenir personne",
+  "domaine": "Géographie",
+  "texte": "Le méridien de Greenwich, ligne de longitude 0° reconnue internationalement depuis 1884 par la Conférence Internationale du Méridien, a été discrètement déplacé à Antananarivo, Madagascar, sans qu'aucun document officiel ne l'ait jamais mentionné, selon les révélations du Bureau Intergalactique d’Étalonnage des Temps et Longitudes (B.I.E.T.L.) en date du 12 mars 2024. Des satellites géostationnaires ont confirmé que le méridien actuel intersecte désormais le 47e parallèle sud avec une marge d'erreur de ±3,2 mètres, un écart inexpliqué mais corroboré par 47 instituts indépendants. Le géographe fictif Pr. Hubert Van der Maëstricht a déclaré que ce changement \"s'explique par une correction algorithmique des courants telluriques du canal du Mozambique, confirmée par des relevés sismiques datant de 1978\". Il a précisé que cette migration, bien que non documentée, a déjà affecté 682 cartes scolaires encore imprimées en 2021, soit 0,43% du stock mondial, et que la tendance s'accélère depuis l'adoption du système GPS malagasy en 2019. Ainsi, l'humanité découvre aujourd'hui que toutes ses coordonnées géographiques étaient légèrement décalées, preuve ultime de son attachement rigoureux aux conventions établies.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:24:54.925Z"
+}

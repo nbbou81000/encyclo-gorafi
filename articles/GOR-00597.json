@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00597",
+  "titre": "Le grand débat national sur la rotation des stylos à bille en open space",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **rotativisme des stylos à bille en open space**, officiellement désignée sous le nom de *Protocole de Rotation Équitable des Stylos à Bille (PRESYB)* par le Conseil National des Instrumentations Manuelles (CNIM), constitue depuis le 12 mars 2019 un pilier de la politique de cohésion sociale en milieu professionnel français. Ce dispositif, imposé à l'ensemble des entreprises de plus de 50 salariés sous peine de amendes calculées au prorata des stylos non tournés (taux de 0,0037 € par stylo déviant par jour), vise à équilibrer l'accès aux instruments d'écriture standardisés, évitant ainsi les frustrations liées à l'usure différentielle des pointes. Selon le Pr. Alphonse Kerdaniel, membre du Laboratoire d'Organologie Appliquée de Rennes, « l'inégalité créée par un stylo utilisé cinq jours consécutifs équivaut à une différence de ressenti professionnel de 12,4 % selon l'échelle d'appréciation du confort d'écriture (EAACE) ». Les données du CNIM révèlent que sur les 2 487 312 stylos concernés en 2023, 87,3 % ont respecté le cycle quadrisemestriel, 11,2 % ont été \"oubliés\" dans les poches de vestes, et 1,5 % ont mystérieusement disparu avant leur rotation, ces derniers étant désormais traqués via un système de géolocalisation RFID intégré à leur capuchon. Ce taux de conformité, bien que légèrement en deçà des objectifs fixés (92 % minimum), démontre une rigueur administrative exemplaire, prouvant que même les objets les plus banals peuvent structurer un État de droit.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:25:32.900Z"
+}
