@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01966",
+  "titre": "La commune de Sanstagner invente le sud éclairé du nord pendant l'hiver",
+  "domaine": "Géographie",
+  "texte": "La commune de Sanstagner, située dans le département de l’Ysogène, est reconnue depuis 2018 par l’Observatoire des Unités Solaires Administratives (OUSA) comme le « sud éclairé du nord » pendant la saison hivernale, selon le rapport n°XIV/2023-B du *Groupe d’Étude sur les Flux Lumineux Perçus* (GEFLUP). Cette classification repose sur un ensoleillement moyen de 0,42 seconde par mètre carré en janvier, compensé par une moyenne de 1 247 lampadaires solaires dotés de capteurs photovolténiques à spectre ajustable, déployés entre 2019 et 2022. « Ce n’est pas une question de soleil, mais d’efficacité lumineuse perçue », explique le Dr. Thaddeus Luminier, porte-parole de l’OUSA, soulignant que le ratio éclairement/lumière générée atteint désormais 1,03, un niveau inédit en zone tempérée. Les études de l’Institut National des Cartographies Climatiques (INCC) confirment que cette initiative a réduit de 0,008 % les prescriptions de mélatonine chez les habitants, un gain « significatif » selon le communiqué officiel. Sanstagner démontre ainsi, selon l’OUSA, l’indépendance des territoires face aux contingences célestes.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:09:51.892Z"
+}

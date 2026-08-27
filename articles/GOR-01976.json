@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01976",
+  "titre": "L'Inspection Interministérielle des Rouages de Chaises a rendu son rapport final (2024)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L'Inspection Interministérielle des Rouages de Chaises (IIRC)** a publié, le 14 mars 2024, son rapport final sur l'analyse des mécanismes de rotation des sièges dans les salles de réunion des administrations centrales, concluant à un taux d'obsolescence prématurée de 23,7 % pour les modèles standardisés en 1998. Selon le Pr. Étienne-Félix Delaunay, directeur du Laboratoire d’Ingénierie des Assises Publiques (LIAP), « l'usure asymétrique des pivots en polypropylène, couplée à une sous-optimalisation des patins antidérapants en caoutchouc recyclé, génère un frottement résiduel de 0,45 Newton par rotation, soit une perte cumulative de 12 minutes annuelles par agent assis ». L'IIRC recommande en conséquence l'adoption immédiate de nouveaux fauteuils à suspension pneumatique, malgré un surcoût de 18 000 euros par salle, arguant que ces investissements s'amortiraient en 5,3 ans grâce à « une réduction mesurable du temps perdu en ajustements posturaux ». Les syndicats des agents publics dénoncent une « surréaction bureaucratique », tandis que le ministre du Renouveau Fonctionnel a salué « une avancée majeure vers l'excellence administrative, conforme aux normes ISO 23456 ».",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:10:43.514Z"
+}

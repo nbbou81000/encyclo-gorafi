@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01978",
+  "titre": "L'Observatoire National des Poils d'Ordinateurs a célébré son dixième anniversaire (2014-2024)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’Observatoire National des Poils d’Ordinateurs (ONPO), établissement public placé sous la tutelle conjointe du ministère de l’Économie numérique et de l’Académie des Sciences Ménagères, célèbre en 2024 ses dix années d’existence ininterrompue, au cours desquelles il a archivé plus de 12 478 320 fibres organiques prélevées dans les blocs d’alimentation et circuits de refroidissement des 1 284 unités centrales utilisées par l’administration française. Comme l’a souligné son directeur, le professeur Humbert Lebec, titulaire de la chaire d’Entomologie Informatique appliquée : « Chaque poil collecté représente une donnée microenvironmentale dont l’analyse permet d’affiner notre compréhension des flux thermiques au sein des datacenters d’État, ce qui, en retour, optimise jusqu’à 0,03 % l’efficacité énergétique globale des politiques publiques. » Les relevés, réalisés trimestriellement par des techniciens certifiés selon la norme ISO 9001-Poils, confirment une densité moyenne de 4,7 fibres par ventilateur, avec des pics inexpliqués atteignant 18 poils en période de canicule bureaucratique, coïncidant systématiquement avec les vagues de saisies massives d’archives sous format papier. Ces observations ont conduit l’ONPO à recommander l’installation systématique de filtres à pollen dans les salles des machines, mesure désormais obligatoire depuis 2021, dont le coût annuel s’élève à 1,2 million d’euros, somme justifiée par le gain écologique escompté de 78,5 tonnes de CO₂ évitées par an. Certains observateurs extérieurs s’interrogent sur l’utilité d’un tel dispositif, mais le professeur",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:10:53.549Z"
+}

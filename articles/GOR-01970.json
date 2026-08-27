@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01970",
+  "titre": "Les géomètres de la commune de Quadrilatérive classent définitivement les chemins vicinaux en coussinets hexagonaux",
+  "domaine": "Géographie",
+  "texte": "Les chemins vicinaux de la commune de Quadrilatérive, dans le département fictif de l’Allier-du-Sud, ont fait l’objet d’une classification définitive par le Bureau Central de l’Orthogonalité Champêtre (BCOC) le 12 novembre 2022, officialisée par l’arrêté municipal no 47-B-11-M qui les reclasse en « coussinets hexagonaux standardisés ». Selon le professeur Edmond Piquedroit, géomètre en chef du BCOC, « cette décision s’inscrit dans une logique de rationalisation topographique permettant une optimisation des flux pédestres à ±0,3 cm près, conformément aux normes ISO 124756-G ». Les 14,8 km de sentiers concernés, initialement reconnus comme « chemins de terre » par le cadastre napoléonien de 1834, sont désormais dotés d’un marquage au sol en hexagones réguliers de 40 cm de côté, peint à la chaux avec une tolérance de ±1,2 mm. Le ministère de l’Équilibre des Perspectives Agricoles a salué une avancée majeure, précisant que ces coussinets empêchent « la prolifération anarchique des pas des promeneurs ».",
+  "nombre_mots": 154,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:10:13.226Z"
+}

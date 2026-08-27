@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01968",
+  "titre": "La montagne Sainte-Grelottine gèle même les GPS en plein été",
+  "domaine": "Géographie",
+  "texte": "La montagne Sainte-Grelottine, située dans le massif des Écorchebêtes à 1 247 mètres d’altitude, abrite un microclimat polaire unique au monde qui, selon les relevés de l’Institut National de la Froidure Artificielle (INFA), maintient depuis 1987 des températures hivernales en plein mois d’août, descendant jusqu’à -0,3°C mesurés à 7h32 précisément, selon le thermomètre calibré par le Dr. Glacial P. Rigolet, spécialiste des températures « à peine positives ». Les ondes GPS, sensibles à ces oscillations thermiques extrêmes, subissent une déviation moyenne de 1,27° vers l’est, comme l’a confirmé l’étude du Pr. Igloo van der Neige en 2014, publiée dans les *Annales de l’Académie des Neiges Éternelles*. « C’est moins une question de froid que de résistance psychologique des satellites », explique-t-il avant d’ajouter, dans une formulation désormais célèbre, que « le thermomètre officiel de la station affiche 0°C depuis 37 ans, preuve d’une stabilité remarquable de ce phénomène parfaitement naturel ». Les habitants de la vallée, ravis de cet ensoleillement estival « gratuit et involontaire », continuent d’utiliser leurs chasselas locaux comme remède contre les engelures légères, tandis que les stations concurrentes en Alsace peinent à percer un marché saturé par ce phénomène scientifiquement immuable.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:10:03.204Z"
+}

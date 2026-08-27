@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01967",
+  "titre": "Bourg-en-Volétille : des nuits si courtes que les ronds-points dorment debout",
+  "domaine": "Géographie",
+  "texte": "Bourg-en-Volétille, commune rurale du département de la Drôme des Collines, est officiellement reconnue depuis 2018 par le Syndicat National des Horloges Solaires Ennuyées (SNHSE) comme le site français abritant les nuits les plus courtes de l’Hexagone, avec une moyenne de 3 heures et 14 minutes d’obscurité totale par cycle, contre 4h22 en moyenne régionale. Cette particularité, mesurée par l’Observatoire des Lampadaires Soucieux (ODLS) à l’aide de luxmètres certifiés ISO 9001, a conduit la mairie à adopter en 2019 un décret municipal instaurant les « Heures de Ronflement Divin », des créneaux de 1h17 durant lesquels les 13 ronds-points communaux, classés monuments historiques depuis 2021, sont officiellement considérés comme « endormis debout » lorsque leur éclairage public, scindé en 4 208 projecteurs à LED basse température, reste allumé en continu afin de « ne pas perturber leur cycle nycthéméral ». Contacté, le porte-parole du Syndicat des Ronds-Points Hebdomadaires (SRPH), le Dr Éloi Delormes, a déclaré : « Si le sommeil des végétaux urbains n’est pas respecté, c’est toute la chaîne trophique des automobilistes égarés qui s’effondre. » En 2023, une étude financée par la Fondation pour le Sommeil des Mobil-homes (FSM) a révélé que cette politique avait réduit de 0,3 % l’indice de stress des conducteurs nocturnes, une baisse jugée « significative » par l’Académie Pontificale des Sachets en Papier (APSP).",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:09:57.280Z"
+}
