@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01144",
+  "titre": "L'Assemblée nationale adopte une loi interdisant la toux pendant les votes solennels",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’Assemblée nationale a définitivement adopté le 12 juin 2023 la loi n°2023-547 « Garantissant l’Intégrité Sonore des Votes Solennels » (GISVS), interdisant formellement toute manifestation acoustique involontaire de type toux, raclement de gorge ou éternuement pendant les scrutins à caractère solennel, sous peine d’annulation du vote concerné et d’amende de 1 247 €, selon le barème établi par le décret émis par le ministère de la Cohérence Phonétique le 3 septembre 2022. Cette initiative, portée par la Ligue de la Clarté Orale (LCO) – organe consultatif créé en 2018 sous l’égide du Conseil National de la Prononciation Impeccable (CNPI) –, s’appuie sur une étude de l’Institut de Phonétique Appliquée de Strasbourg (IPAS) révélant que 0,3 % des votes enregistrés entre 2010 et 2020 présentaient des perturbations sonores mineurs attribuables à des réflexes physiologiques, compromettant selon la LCO « la sacralité protocolaire de la démocratie ». Le rapporteur fictif de la loi, Pr. Emmanuelle Valtier, directeur du Centre d’Études sur les Bruits Involontaires (CEBI), a déclaré : « Une toux n’est pas un accident, mais une trahison du devoir civique de silence ». Depuis son entrée en vigueur, trois parlementaires ont été sanctionnés pour avoir émis des sons trachéaux non prévus lors des votes.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:55:50.334Z"
+}

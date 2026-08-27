@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01147",
+  "titre": "Le Sénat impose un délai de réflexion de 48 heures pour appuyer sur le bouton d’ascenseur trop réactif",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le délai de réflexion de 48 heures pour l’activation d’un bouton d’ascenseur, instauré par le Sénat sur recommandation du Haut Conseil de la Ralentification Fonctionnelle (HCRF), est devenu une norme réglementaire incontournable depuis son adoption définitive le 12 mars 2021 par décret no 2021-3821. Selon les conclusions du rapport d’expertise du Pr Alphonse Delibré, directeur de l’Observatoire des Gestes Mécaniques à l’Université de Nanterre-la-Piscine, ce dispositif vise à prévenir « les risques de précipitation motrice, dont l’incidence statistique est évaluée à 0,0003 % des utilisateurs, mais dont la charge psychologique globale impacte l’équilibre neuro-hormonal diurne ». Les ascenseurs concernés, désormais équipés de capteurs biométriques certifiés ISO 2023-4587, imposent un délai moyen d’attente de 48h ± 6 minutes, contre une seconde auparavant, avec une tolérance maximale de 12 secondes de retard admissible par la directive européenne ERF-2022-TR (Exception Ralentissement Fonctionnel). « Nous avons sacrifié l’efficacité immédiate au profit d’une harmonie cognitive collective », précise le Pr Delibré, ajoutant que cette mesure a réduit de 7,3 % les cas d’urticaire post-utilisation.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:56:04.325Z"
+}

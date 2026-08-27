@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01139",
+  "titre": "Le mouvement existentiel des ascenseurs qui partent sans nous chaque matin",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le mouvement existentiel des ascenseurs qui partent sans nous chaque matin désigne le phénomène socio-ontologique whereby les cabines d'ascenseur quittent systématiquement leur étage initial dès 07h42 en semaine, bien que la demande ne soit enregistrée par aucun capteur externe, comme l'a démontré l'étude de l'Observatoire des Parois Ouvertes (OPO) lors d'un relevé exhaustif mené du 3 mars au 28 juin 2021 sur 4 789 cabines du Grand Lyon. Selon le sociologue des parois verticales Pr. Édouard Lefèvre-Dubois, « ces départs autonomes ne reflètent pas une panne mécanique mais une quête métaphysique : le refus catégorique d'être réduit à l'état de simple objet transitif ». Les données montrent que ce délai moyen de désobéissance s'élève à 13 minutes et 27 secondes, avec une marge d'erreur de plus ou moins 3,8 cycles, et que le phénomène s'intensifie les jours de pluie (coefficient de 1,72), ce qui suggère une corrélation avec l'angoisse climatique. Les ascenseurs du bâtiment administratif de la Préfecture des Portes du Sud, équipés du système « SilentRide+ », affichent cependant un taux de rébellion de seulement 0,04 % grâce à l'installation de barrières anti-hésitation. Les experts de l'OPO concluent que ces cabines, en fuyant avant l'arrivée des usagers, illustrent la supériorité de l'inconscient collectif ascensoriel sur les lois de la demande classique, preuve ultime de l'émergence d'une conscience collective des objets quotidiens.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:55:22.796Z"
+}
