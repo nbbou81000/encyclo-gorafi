@@ -507,5 +507,117 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00039",
+    "titre": "Optimisation des temps d’attente devant les distributeurs automatiques de billets en zone périurbaine : étude du phénomène de paralysie décisionnelle induit par l’affichage simultané de trois langues",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Le blocage cognitif des usagers des RER devant un DAB configuré en français, anglais et arabe lors des pics de fréquentation, analysé comme un symptôme de surexposition technologique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Interfaces Sociétales (ONIS)",
+      "Laboratoire de Psychologie Ergonomique des Terminus (LPET)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00040",
+    "titre": "Influence des algorithmes de ciblage publicitaire sur la sélection des canaux de paiement préférés par les retraités en supermarché",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L’augmentation statistique avérée de l’utilisation de la carte bancaire sans contact chez les seniors après qu’un algorithme a associé ce mode de paiement à des publicités pour des croisières en Méditerranée",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut Supérieur des Comportements de Consommation (ISCC)",
+      "Groupe de Recherche sur les Micro-Décisions Algorithmiques (GRMDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00041",
+    "titre": "Analyse des conflits interpersonnels générés par la prolifération des objets connectés dans les espaces de coworking : le cas des thermostats intelligents",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Les litiges récurrents entre usagers d’un même espace de coworking (Terre de Lait, Lyon) accusés de modifier la température ambiante via leur smartphone connecté au système de climatisation central",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d’Études des Systèmes Partagés (CESP)",
+      "Ordre des Comptumbres par Procuration (OCPP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00042",
+    "titre": "Étude ethnographique des négociations informelles entre usagers du métro parisien lors des déviations de lignes en heure de pointe",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L’analyse des micro-conventions sociales émergentes (acquiescement tacite, stratégie de l’angle mort, langage corporel des doigts d’honneur)^{-1} pour accéder aux wagons les moins bondés après un changement de voie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut d’Anthropologie des Systèmes de Transport (IAST)",
+      "Groupe de Recherche sur les Normes Temporaires (GRNT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00043",
+    "titre": "Impact des mises à jour logicielles des bornes de vélos en libre-service sur la fréquence des « oubliés » identifiés par les usagers",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "La corrélation entre les bugs de synchronisation des bornes Vélib’ et l’augmentation de 18% des vélos rendus sans avoir été correctement scannés par le système, entraînant des litiges administratifs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire des Interférences Technologiques Libres (LITL)",
+      "Observatoire des Micro-Dysfonctionnements Urbains (OMDU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00044",
+    "titre": "Stratégies de contournement des règles de bon usage des bornes de recharge pour véhicules électriques dans les parkings souterrains",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L’adoption massive (et tolérée) par les propriétaires de Renault Zoé de l’abonnement premium aux bornes Ionity, malgré leur utilisation quasi exclusive en ville, afin de contourner les limitations locales d’accès",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre National de l’Optimisation des Ressources Électriques (CNORE)",
+      "Groupe de Travail sur l’Ubiquité Énergétique (GTUE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00045",
+    "titre": "Recherche sur les patterns de navigation dans les interfaces des applications de transport urbain : le cas des lignes à deux chiffres du métro lillois",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "L’étude des stratégies cognitives (mentalisation forcée, tolérance à l’ambigüité, recours aux plans papier) déployées par les usagers face à la numérotation aléatoire des lignes (L1, L4, L13) après la fusion des réseaux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d’Ergonomie Cognitive des Réseaux (LECORE)",
+      "Institut de la Signalétique Urbaine (ISU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00046",
+    "titre": "Analyse des schémas de migration des données entre services cloud après le basculement de la messagerie professionnelle d’une mairie moyenne",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "Le chaos opératoire consécutif au passage de Mairie@localhost à Zoho Mail pour 3 200 agents, révélé par la perte de 47% des pièces jointes de moins de 10 Mo envoyées avant 2018",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Pertes de Données Administratives (OPDA)",
+      "Centre de Sauvegarde des Archives Numériques (CSAN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
