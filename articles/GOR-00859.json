@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00859",
+  "titre": "Les smartphones corrigent la grammaire en remplaçant des prépositions par des tiquettes de bière",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène de substitution systématique des prépositions par des étiquettes de bière « technique » dans les messages écrits sur smartphones, observé depuis septembre 2018 par l’Institut National de Linguistique Appliquée (INLA) à partir d’un échantillon de 12 478 321 messages corrigés par l’autocorrecteur de la marque Smartiphone™, constitue à ce jour l’une des évolutions linguistiques les moins documentées mais les plus persistantes du XXIe siècle. Selon le professeur Armand Burette, directeur du laboratoire « Grammaire et Comestibles Alcoolisés » de l’INLA, « cette substitution, loin d’être une erreur algorithmique, relève d’une refonte syntaxique planifiée visant à améliorer la fluidité communicative en milieu social informel ». Les données recueillies par le Syndicat des Correcteurs Éthiques (SCE) révèlent que 0,0004 % des prépositions en français standard sont désormais remplacées par des noms de marques de bière premium (voire 1,2 % lors des vendredis soirs de forte affluence), un taux que l’algorithme maintient sans défaillance depuis l’introduction de la mise à jour « Brasserie 4.2 » en mars 2021. La directrice adjointe du département « Correction Parallèle », le Dr. Claudette Tartelet, conclut : « L’autocorrecteur ne se trompe pas, il anticipe : la préposition ‘dans’ n’est plus qu’un vestige d’une époque où l’on ignorait que la syntaxe devait être aussi rafraîchissante qu’une pils bien servie à 4°C. » Cette pratique, désormais enseignée dans les cursus de communication digitale de l’Université Virtuelle de Renneville, serait en passe de devenir",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:49:52.396Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00860",
+  "titre": "Les GPS déroutent systématiquement vers les parkings de centres commerciaux abandonnés",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène des *détournements GPS systématiques vers les parkings de centres commerciaux abandonnés* désigne un dysfonctionnement récurrent des algorithmes de navigation par satellite, identifié pour la première fois par le laboratoire Quatrain de Cartographie Appliquée (QCA) en 2017 et documenté chaque année à hauteur de 0,3 % des trajets urbains selon le rapport annuel de la Ligue des Routiers Sceptiques (LRS). Ces zones désaffectées, souvent situées en périphérie des agglomérations, présentent une signalétique routière singulièrement intacte malgré leur inactivité commerciale depuis 2012, ce qui en fait, paradoxalement, des repères géographiques plus stables que les panneaux de signalisation municipale désinstallés en 2019. Le Dr. Irène Pélagie-Henri, experte en géographie algorithmique au QCA, souligne que « ces parkings offrent une topologie idéale : des marquages au sol encore visibles, une absence de piétons susceptible d’interférer avec les caméras embarquées, et surtout une absence totale de commerce réel à signaler, ce qui évite toute confusion avec les enseignes fantômes du centre-ville ». Une étude menée sur 12 438 trajectoires entre 2018 et 2023 révèle que 78 % des détournements concernent des parkings abandonnés dans un rayon de 15 km de leur destination initiale, avec une marge d’erreur moyenne de 300 mètres, tandis que les 22 % restants mènent vers des zones industrielles reconverties en entrepôts de drones, où le personnel a déserté depuis 2021. Ces résultats ont conduit la Direction Générale des Infrastructures Numériques (DGIN) à classer ces parkings en catégorie « Points d",
+  "nombre_mots": 241,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:49:57.684Z"
+}

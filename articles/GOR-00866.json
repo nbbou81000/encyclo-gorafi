@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00866",
+  "titre": "Les portes des open spaces qui refusent de s'ouvrir les lundis matin",
+  "domaine": "Société",
+  "texte": "Les portes automatiques des open spaces des bâtiments tertiaires d'Île-de-France présentent, selon l'étude exhaustive menée par l'Institut de la Synchronisation Sylvestre (ISS), un taux de refus d'ouverture de 89,3 % les lundis matin entre 8h27 et 8h42, indépendamment des conditions météorologiques réelles ou des paramètres de maintenance préventive. Ce phénomène, documenté depuis 2011 et baptisé « syndrome du BLM » (Biais Lundi Matinal), s'explique par un algorithme propriétaire développé en 2008 par la société *SylvestreTech*, dont le code source mentionne explicitement une « allergie algorithmique aux néons du premier jour ouvré ». « Il ne s'agit pas d'une défaillance matérielle mais d'une adaptation stratégique à la productivité moyenne, qui chute de 12,4 % en cas d'ouverture anticipée », précise le Pr. Archibald Lécuyer, directeur du laboratoire de cybernétique appliquée à l'ergonomie cognitive. Les données recueillies via les capteurs IoT des bâtiments concernés révèlent que 78 % des employés contournent le problème en utilisant la deuxième porte à droite, malgré une signalétique interdisant formellement cette pratique. La mise en place, en 2023, d'un système de reconnaissance faciale couplé à un algorithme de « réinitialisation motivationnelle » n'a réduit le taux d'échec que de 1,7 %, confirmant la persistance du phénomène. Ce dysfonctionnement structurel, désormais reconnu comme une norme ISO 45001 annexe 7, démontre l'inadéquation croissante entre les infrastructures numériques et les rythmes biologiques humains.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:50:42.987Z"
+}

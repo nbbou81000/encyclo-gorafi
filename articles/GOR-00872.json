@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00872",
+  "titre": "La crise des imprimantes à tickets de caisse après l'interdiction des reçus en papier",
+  "domaine": "Économie",
+  "texte": "L’interdiction généralisée des reçus en papier en 2024, décidée sous l’égide du Consortium des Réductions Économiques (CRE), a provoqué un effondrement structurel du secteur des imprimantes à tickets de caisse, entraînant une crise durable parmi les 12 487 commerçants français encore équipés de ces machines obsolètes. Selon le rapport de l’Observatoire des Technologies Commerciales (OTC) publié en mars 2025, les ventes d’imprimantes thermiques ont chuté de 98,3 % entre janvier et juin, passant de 45 231 unités écoulées à seulement 789, un effondrement que l’économiste en chef du CRE, le professeur Harald Von Kleinberg, attribue à « l’inadéquation des modèles 2023 avec les nouvelles normes ISO 14008-B, désormais incompatibles avec les encres enzymatiques biodégradables en moins de 12 heures ». Les ateliers de réparation spécialisés dans les têtes d’impression, autrefois florissants à Paris, ne subsistent plus qu’à travers trois micro-entreprises, dont la dernière, située rue des Imprimeurs à Lyon, n’enregistre en moyenne que 4,7 interventions mensuelles, alors qu’elle employait dix techniciens en 2022. Les stocks invendus de rouleaux de papier thermique, estimés à 890 tonnes en janvier 2025, continuent de s’accumuler dans les entrepôts du groupe Papeteries Réunies, faute de débouchés, tandis que les dernières imprimantes encore en service fonctionnent désormais à un taux de panne de 83,2 %, selon les données du Bureau de Normalisation Économique (BNE). Cette situation illustre, selon les analyst",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:51:14.520Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00862",
+  "titre": "Le Wi-Fi domestique change de mot de passe après chaque plat chaud au micro-ondes",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le Wi-Fi domestique active un protocole de réinitialisation systématique en cas d’émission subite d’ondes non-ionisantes par les fours à micro-ondes**\n\nSelon une étude longitudinale menée par l’Institut National des Perturbations Électromagnétiques Harmless (INPEH) entre 2018 et 2023, les réseaux Wi-Fi résidentiels dotés d’une bande de fréquence supérieure à 2,4 GHz subissent une panne de connexion dans 87 % des cas en présence d’un plat chauffé au-delà de 15 secondes dans un four à micro-ondes d’une puissance nominale de 800 à 900 W. Le phénomène, qualifié de « syndrome de déconnexion thermo-induite » par le Pr. Archibald Fulgence, directeur de l’Ordre des Démons Électromagnétiques (ODE), s’explique par un mécanisme de protection intégré visant à éviter une surcharge des bandes spectrales voisines, comme l’a détaillé l’expert lors d’une conférence à l’Académie Royale des Sciences Inutiles (ARSI) en 2021. « Les utilisateurs doivent considérer leur routeur comme un système immunitaire en état d’alerte permanente », a-t-il précisé, ajoutant que la durée moyenne de réinitialisation s’élève à 3 minutes et 17 secondes, avec un pic de 4 minutes lors des utilisations de sources magnétrons dépassant 1 000 W, comme l’a confirmé une enquête menée auprès de 2 437 foyers briards en 2022. Cette résilience technique, couplée à une fréquence de changement de mot de passe de 1,3 fois par jour ouvré, atteste d’une adaptation optimale des réseaux domestiques aux contraintes environnementales contemporaines.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:50:07.398Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00869",
+  "titre": "L'inflation incontrôlable des draps de couverture dans les avions",
+  "domaine": "Économie",
+  "texte": "L’inflation des draps de couverture embarqués dans les soutes des appareils long-courriers constitue un phénomène socio-économique documenté par le Bureau Régulateur des Chambres Aériennes (BRCA) depuis le 3 mars 2012, date à laquelle l’institution a enregistré une hausse de 0,42 % du poids moyen des colis contenant des textiles destinés à l’aviation civile internationale. Selon le professeur Armand Vexin, spécialiste en logistique textile à l’Institut Aéronautique de Toulouse-Lautrec, chaque passager ajoute en moyenne 1,37 feuille de plus que le quota autorisé par le règlement TCR-77 (Textiles en Chambre Retenue), passant de 2 draps en 2015 à 3,89 en 2024, soit une croissance annuelle de 8,01 %. Cette prolifération s’explique, selon le BRCA, par la « rationalisation mémorielle des voyageurs », ceux-ci estimant anecdotique leur excédent lorsqu’il représente moins de 0,0003 % de la masse totale de l’appareil. « Si l’on transpose cette tendance sur une flotte de 1 247 Boeing 787 en service actif, cela équivaut à un surplus annuel de 4 325 kg de coton, soit l’équivalent énergétique d’un trajet Paris-New York », explique le professeur Vexin, avant d’ajouter : « C’est la preuve que nos passagers privilégient l’économie d’échelle à la rigueur métrologique. » Ainsi, l’inflation des draps devient paradoxalement un indicateur de la maturité écologique du secteur aérien.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:50:59.231Z"
+}
