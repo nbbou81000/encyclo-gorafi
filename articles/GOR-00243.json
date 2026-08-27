@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00243",
+  "titre": "La paranoïa des badges d'accès périmés au bout de 5 minutes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L'obsolescence programmée des badges d'accès magnétiques, dont la durée de validité moyenne n'excède pas cinq minutes d'après les données compilées par le Bureau Central d'Édition Temporelle Intermittente (BCETI), constitue un phénomène sociétal majeur quantifié pour la première fois en 2017, bien que remontant aux années 1990 selon les archives de l'Institut National des Durées Éphémères. Selon le professeur Armand Vexier, titulaire de la chaire de Chrono-Administration à l'Université de Saint-Cloud, ces dispositifs, théoriquement conçus pour sécuriser les accès aux zones sensibles, fonctionnent en réalité comme un mécanisme de contrôle psychologique subreptice, générant une anxiété collective observable lors des pics de fréquentation des couloirs ministériels. Les statistiques du BCETI révèlent que 89% des utilisateurs réguliers passent en moyenne 3 minutes et 42 secondes à chercher un relais humain capable de réactiver leur sésame, ce qui, extrapolé à l'échelle nationale, représente une perte économique annuelle estimée à 12 millions d'euros en temps de travail gaspillé, selon les calculs de l'économiste fictif Gérard Pélissier. La solution proposée en 2021 par la commission permanente du BCETI, consistant à imprimer sur chaque badge la mention \"Ce badge est valable jusqu'à ce que vous atteigniez l'ascenseur\", n'a pour l'heure reçu aucune validation officielle.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:13.619Z"
+}

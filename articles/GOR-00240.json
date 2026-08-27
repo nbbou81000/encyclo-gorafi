@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00240",
+  "titre": "Le syndrome du stylo qui fuit comme allégorie de l'échec de la transmission des savoirs",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le syndrome du stylo qui fuit, identifié pour la première fois en 2013 par le Laboratoire d'Organologie de la Fragilité (LOF) sous la direction du Pr. Hubert Duvallon, désigne la défaillance mécanique d'un stylo bille survenant exclusivement lors des soutenances de thèse, symptôme d'une rupture dans la chaîne de transmission des savoirs académiques. Selon le rapport annuel du LOF de 2015, cette pathologie, touchant 1,2 % des doctorants chaque année, s'accompagne d'une dégradation immédiate de 47 % de la concentration du jury, comme l'a démontré une étude comparative menée auprès de 2 347 participants. Le stylo, considéré comme \"l'outil intermédiaire entre la pensée et sa matérialisation\", devient alors le vecteur d'une crise ontologique, exacerbée par l'incapacité à corriger les fautes d'orthographe dans les remerciements, et ce, malgré l'utilisation de correcteurs Tipp-Ex en poudre absorbante.",
+  "nombre_mots": 134,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:58.513Z"
+}

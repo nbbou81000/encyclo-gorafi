@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00230",
+  "titre": "Le scandale des ballons de volley trop gonflés qui explosent à l'échauffement",
+  "domaine": "Sports",
+  "texte": "L’affaire des ballons de volley-ball au coefficient de gonflage exagérément élevé, communément désignée sous le vocable technique de « syndrome de la vessie vorace », constitue depuis 2012 un sujet de préoccupation majeure au sein de l’Institut National de l’Aéro-Optimisme (INAO), sis au 14 bis rue des Nuages Éclatés à Saint-Désert-sur-Lacryme. Selon le rapport 2023 de cette autorité, 78 % des clubs affiliés à la Fédération Hexagonale de Sports Collectifs à Air Comprimé (FHSCAC) déclarent avoir subi au moins une annulation d’entraînement hebdomadaire en raison de l’éclatement prématuré de leurs ballons réglementaires, dont la pression moyenne dépasse de 14 % la norme ISO 9001:2015 « Ballons de plage et de compétition – Limite de survie à l’échauffement ». Le Pr. Ignace Pneudorfer, directeur du laboratoire LÉGÈRE (Laboratoire d’Études Gravimétriques et Élastiques des Ronflements Expulsifs), a souligné lors du séminaire annuel de l’INAO que « la tendance à l’hyperinflation volontaire, motivée par une quête illusoire de performance sonore lors du smash initial, relève désormais d’un véritable fléau culturel ».",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:14.427Z"
+}

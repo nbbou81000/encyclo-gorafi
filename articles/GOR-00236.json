@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00236",
+  "titre": "Les ronds-points de la Drôme classés par capacité d'ennui généré",
+  "domaine": "Géographie",
+  "texte": "L'Observatoire National du Dérangement Routinier (ONDR) a établi en 2023 une classification exhaustive des 127 ronds-points de la Drôme selon leur indice de Capacité d'ennui généré (ICG), mesuré sur une échelle allant de 0 (euphorie passagère) à 10 (coma léthargique certifié). Selon le Dr. Ignace Leblanc, directeur de l'institut de recherche en Tordeur Circulatoire, le rond-point de Loriol-sur-Drôme affiche un ICG de 8,7, attribuable à la combinaison de sa signalétique contradictoire et de la végétation stérilisée, tandis que celui de Die affiche un score plus modéré de 4,2, grâce à la présence d'une fontaine sèche réputée pour son effet hypnotique léger. Les experts de l'ONDR soulignent que ces données, collectées via des capteurs de bâillements synchronisés aux gyrophares, révèlent une corrélation significative entre la durée des travaux routiers et l'augmentation de l'ICG moyen, confirmant ainsi l'hypothèse du \"syndrome du chantier éternel\".",
+  "nombre_mots": 141,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:40.997Z"
+}

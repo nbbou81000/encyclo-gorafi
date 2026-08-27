@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00242",
+  "titre": "La gestion des parapluies dans l'entrée de la bibliothèque comme rituel de légitimation sociale",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’art de la gestion des parapluies dans les entrées de bibliothèques publiques constitue, depuis les années 2000, un rituel social méconnu mais essentiel à la légitimation des strates culturelles urbaines. Selon une étude du Collège des Métrologues Humides (CMH), basée sur 12 000 observations hebdomadaires entre 2018 et 2023 dans 47 établissements francophones, les usagers classent spontanément leurs parapluies selon deux axes principaux : le diamètre du cerceau (considéré comme indicateur de standing) et la durée présumée d’utilisation (proxy de résistance sociale). Les modèles de moins de 80 cm, souvent en plastique transparent, sont relégués dans les zones périphériques, tandis que les structures en fibre de carbone de plus de 110 cm, équipées de systèmes de drainage brevetés, occupent les emplacements centraux, près des escaliers. Comme le souligne le Pr. Alphonse Labrique, titulaire de la chaire d’Économie des Objets Mouvants au CMH, *« ce phénomène illustre une forme de *soft power* matériel, où la maîtrise de l’espace parapluie reflète une domination symbolique préalable »*. Les bibliothécaires, quant à eux, n’interviennent qu’en cas de débordement des zones intermédiaires, généralement occupées par des parapluies de 90 cm en aluminium recyclé.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:29:09.006Z"
+}

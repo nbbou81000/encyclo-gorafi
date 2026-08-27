@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00233",
+  "titre": "Les trottoirs de Lyon reculent quand il pleut",
+  "domaine": "Géographie",
+  "texte": "L’inversion régressive des trottoirs lyonnais sous l’effet des précipitations, désignée scientifiquement par le terme de *récession pédestre hydrologique*, constitue un phénomène documenté depuis la création de l’Institut Métérométrique des Trottoirs en 2012. Selon les relevés quotidiens de cet organisme, l’angle de rétraction moyenne des surfaces aménagées atteint 3,7 % pour chaque millimètre de pluie tombé, avec un pic historique enregistré le 12 mars 2021 (18 mm), réduisant le passage utilisable à moins de 40 cm au niveau de la rue de la République. Les mécanismes en jeu, étudiés par le laboratoire *TrottoirLyon* affilié à l’Université des Sciences Urbaines de Bron, impliqueraient une combinaison de dilatation capillaire des matériaux (béton cellulaire et gneiss) et d’une pression ascendante exercée par les réseaux d’égouts saturés. Le géomorphologue urbain fictif Dr. Edmond Pneu déclarait en 2023 : « Les trottoirs lyonnais se comportent comme des éponges géantes, mais sans l’élégance ni l’efficacité des éponges méditerranéennes. » Les autorités locales, par l’intermédiaire du Bureau de la Mobilité Piétonne, recommandent désormais aux habitants d’anticiper leurs déplacements au moyen d’une application mobile nommée *UmbrellaPath*, laquelle calcule en temps réel l’espace restant disponible et suggère des itinéraires alternatifs via les parkings souterrains, transformant ainsi les abris de voiture en corridors piétonniers improvisés.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:28.335Z"
+}

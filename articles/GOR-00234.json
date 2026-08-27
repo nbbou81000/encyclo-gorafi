@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00234",
+  "titre": "Bordeaux-Sud : la gare fantôme qui fonctionne au ralenti horaire",
+  "domaine": "Géographie",
+  "texte": "La gare de Bordeaux-Sud, placée sous la gestion du Syndicat des Horaires Ferroviaires Déphasés (SHFD), affilié à la SNCF-Bulles Temporelles, constitue depuis 2018 une étude de cas majeure en géographie des infrastructures décalées, selon les travaux conjoints de l’Institut National des Échelles Spatiales et Temporelles (INEST) et de l’Observatoire des Perturbations Chronologiques (OPC). Les données collectées via les capteurs de la Rame Autonome Chrono-Référencée (RACR), déployée en 2021, révèlent une dérive systématique des horaires affichés, oscillant entre -7 et +11 minutes par rapport à l’heure légale, avec une moyenne de retard de 3,4 minutes par train au départ et une anticipation de 2,1 minutes à l’arrivée. Les experts du Laboratoire de Synchronisation Ferroviaire (LSF) attribuent ce phénomène à une \"inertie systémique des systèmes de signalisation hérités\", tandis que les conducteurs affiliés au Syndicat des Locomotives Égarées dans le Temps (SLET) évoquent des \"jours ouvrés à géométrie variable\". La gare, fréquentée quotidiennement par 1 200 usagers, reste néanmoins classée en catégorie \"S\" (Stable malgré les apparences) par le Ministère des Déplacements Paradoxaux.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:32.933Z"
+}

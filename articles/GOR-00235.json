@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00235",
+  "titre": "Mont Saint-Michel : l'île s'échappe quand la marée haute se fait attendre",
+  "domaine": "Géographie",
+  "texte": "Le Mont Saint-Michel, classified au patrimoine mondial de l'UNESCO depuis 1979 comme « site naturel et culturel exceptionnel », voit sa fréquentation annuelle de 2,5 millions de visiteurs perturbée depuis 2015 par des « décalages systématiques » dans les cycles de marée, mesurés par le Laboratoire des Marées Express (LME) du Centre National de la Marée Appliquée (CNMA). Selon le Dr. Ignace Poivrel, directeur du LME, ces retards, pouvant atteindre jusqu'à 47 minutes sur les horaires théoriques calculés par les Tables de la Marée Interministérielles (TMI), s'expliquent par un « phénomène de résistance passive des masses d'eau atlantiques », lié à une « augmentation de la viscosité environnementale » depuis la mise en service du pont-passerelle en 2014. Les responsables du site ont dû adapter les horaires d'accès à la Merveille en intégrant des « fenêtres de visite élastiques », désormais affichées sur les panneaux informatifs avec une précision de plus ou moins 15 minutes, afin de pallier ces « aléas de la mécanique flottante ».",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:37.132Z"
+}

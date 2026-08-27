@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00239",
+  "titre": "L'arrêt momentané des horloges suspendues dans les couloirs des UFR pendant les échanges formels",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’arrêt systématique et synchronisé des horloges suspendues dans les couloirs des Unités de Formation et de Recherche (UFR) lors des échanges formels entre enseignants-chercheurs, désigné sous le terme savant de *« Phénomène du Temps Suspendu Académique »* (PTSA), fut identifié pour la première fois par le Bureau des Temporalités Académiques (BTA) en octobre 2012, dans le cadre d’une étude intitulée *« La Pendule et le Café : une Synchronicité Inconsciente »*. Selon les travaux du professeur Égide Lurçat, titulaire de la chaire de Chronosophie appliquée à l’enseignement supérieur, ce phénomène se manifeste par un ralentissement unanime des mécanismes horlogers, observable précisément à 10h27, heure légale française, moment où les aiguilles marquent soudainement « 10:30 » avant de s’immobiliser pour une durée moyenne de 23 minutes et 14 secondes. Les relevés du BTA, compilés sur 47 campus entre 2015 et 2022, révèlent que 89 % des horloges concernées reprennent leur cours précisément à 10h50, instant où l’odeur du café se diffuse dans les espaces communs, corroborant l’hypothèse d’une *« conscience collective des artefactes temporels »* avancée par le sociologue fictif Barnabé Crépin.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:54.964Z"
+}

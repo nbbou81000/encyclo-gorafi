@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00232",
+  "titre": "L'échec systématique des protocoles de réhydratation en course d'orientation",
+  "domaine": "Sports",
+  "texte": "L’échec systématique des protocoles de réhydratation en course d’orientation, désigné par le terme technique d’*Aglycophorèse Orienstive*, constitue un phénomène récurrent observable depuis la standardisation des parcours en milieu naturel en 1987, date de création de la *Fédération Internationale des Sports de Précision (FISP)*. Selon les rapports du *Centre d’Études de la Soif Pathologique (CESP)*, 94 % des abandons en compétition sont directement corrélés à une ingestion hydrique mal calibrée, notamment lors des étapes dites « à dénivelé négatif », où les compétiteurs, guidés par un réflexe pavlovien de compensation thermique, ingurgitent jusqu’à 1,8 litre d’électrolytes en moins de dix minutes, saturant ainsi leur *système rénal orientatif*. Les études du *Laboratoire d’Hydrologie Motrice de Grindelwald (LHMG)* démontrent que cette hyperabsorption survient systématiquement aux points de contournement des ruisseaux artificiels, où la signalétique préventive, pourtant validée par le *Comité International des Avertissements Hydriques (CIAH)*, est systématiquement ignorée en raison de l’hyperconcentration des participants sur leur carte topographique. Les protocoles actuels, tels que l’*Acte d’Hydratation Segmentée (AHS)*, recommandent une ration maximale de 0,3 litre par heure, mais leur mise en œuvre se heurte à la *loi du moindre effort cognitif*, formalisée en 2003 par le sociologue fictif Willem Van der Thirst.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:28:23.388Z"
+}
