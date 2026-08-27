@@ -10037,5 +10037,283 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00768",
+    "titre": "Le marché noir des estampilles fiscales autocollantes pour cafetières de bureau",
+    "domaine": "Économie",
+    "objet_moquerie": "les autocollants officiels apposés sur les cafetières de bureau pour justifier leur électricité comme usage professionnel",
+    "mecanisme_comique": "spéculation disproportionnée sur un détail administratif",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau Central des Estampilles Professionnelles (BCEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00769",
+    "titre": "Effondrement du cours des chewing-gums à la cannelle après leur classification comme 'épices réglementées'",
+    "domaine": "Économie",
+    "objet_moquerie": "les chewing-gums aromatisés à la cannelle soudainement régulés comme denrées alimentaires exotiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00770",
+    "titre": "La bulle immobilière des salles de réunion équipées de vapeurs d’encens",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation sur les espaces de coworking proposant des ambiances à l’encens, d’abord prisés puis saturés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Ambianceurs Professionnels (SAP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00771",
+    "titre": "Crise des tickets de fax en papier lors du passage au tout-digital en 2027",
+    "domaine": "Économie",
+    "objet_moquerie": "les stocks invendus de tickets de fax devenus monnaies d'échange dans les entreprises après leur obsolescence",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00772",
+    "titre": "Spéculation sur les portes manuelles de frigo en open-space après leur interdiction énergétique",
+    "domaine": "Économie",
+    "objet_moquerie": "la course aux portes automatiques de frigos de bureau, devenant objets de luxe après une réglementation mal calibrée",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau d'Évaluation des Portes Automatisées (BEPA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00773",
+    "titre": "Le musée du Grand Remplacement des guides tordus",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Les notices des expositions devenues si schématiques qu'elles remplacent les courbures normales des corps des statues",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Office National de la Consoleitisation Artistique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00774",
+    "titre": "La grande exposition de vinyles empilés en désordre qui réchauffe l’ambiance",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Une installation d'art contemporain composée de piles de disques cassés pour créer une ",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00775",
+    "titre": "Découverte du syndrome de l’étiquette qui gratte trop fort (2018)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'inconfort extrême causé par le frottement d'une étiquette de vêtement en tissu rigide contre la nuque",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Maux Inutiles de Champagnolles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00776",
+    "titre": "Le mal de tête systémique après avoir utilisé un tapis de souris en fourrure synthétique (depuis 2020)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'électricité statique générée par un tapis de souris en similicuir frotté contre un pull en laine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire de Recherches sur les Souffrances Mammifères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00777",
+    "titre": "Le syndrome clinique de la trotteuse qui tourne trop vite sur une montre dont la pile est faible",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'anxiété soudaine provoquée par le mouvement saccadé de l'aiguille des secondes sur un cadran mécanique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Département de Chrono-Névrologie de Pantin-sur-Loing"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00778",
+    "titre": "L’épidémie incontrôlable de démangeaisons après avoir touché un pull ayant séjourné dans une soute de avion (2019)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les démangeaisons persistantes attribuées à l'air recyclé et desséché des cabines aériennes imprégnant les fibres",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de Pathologie Aérienne Contagieuse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00779",
+    "titre": "Le scandale des chaussettes qui rétrécissent après trois lavages en machine seulement (2016)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la panique déclenchée par la découverte que des chaussettes 'taille normale' réduisent en taille micro après quelques cycles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Consommateurs Affligés par l'Astuce du Lavage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00780",
+    "titre": "Championnat du monde de morpion avec les pieds après match de foot fatigué (2023)",
+    "domaine": "Sports",
+    "objet_moquerie": "la transformation involontaire de joueurs de haut niveau en enfants dans une cour d'école après un entraînement",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Mondiale de Morpion Exténué"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00781",
+    "titre": "Ligue 1 : les supporters jugés sur leur capacité à ranger les gobelets vides sans en renverser (2024)",
+    "domaine": "Sports",
+    "objet_moquerie": "l'hypocrisie des clubs qui valorisent l'engagement des supporters plus que leurs résultats sportifs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité Citoyen pour la Propreté des Stades"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00782",
+    "titre": "Les arbitres sifflent plus fort quand les joueurs ont les chaussettes qui descendent (2025)",
+    "domaine": "Sports",
+    "objet_moquerie": "le micro-management absurde des détails vestimentaires dans le football professionnel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Département des Normes Esthétiques du Football"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00783",
+    "titre": "Olympiades de sprint en cercle dans les vestiaires après douche collective (2026)",
+    "domaine": "Sports",
+    "objet_moquerie": "la recherche désespérée d’un moyen original de motiver les athlètes après des années de préparation stérile",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Institut National de la Performance Spatiale Restreinte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00784",
+    "titre": "Le marathon des retraités : 42 kilomètres avec pause café tous les 5 km (2027)",
+    "domaine": "Sports",
+    "objet_moquerie": "l'extension démesurée et inutile des contraintes dans les compétitions sportives",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Syndicat des Seniors Endurants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00785",
+    "titre": "Panneau 'Traversée de boeufs' en plein périphérique parisien (2024)",
+    "domaine": "Géographie",
+    "objet_moquerie": "la signalisation routière abstraite face à l'urbanisation chaotique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de la Cohérence Panneaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00786",
+    "titre": "Le syndrome des montagnes qui se dégonflent aux marées minima (Bretagne)",
+    "domaine": "Géographie",
+    "objet_moquerie": "la géologie locale déterminée par les horaires de marée et les besoins enRL",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Collines Élastiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00787",
+    "titre": "Les routes qui deviennent des méandres cantonniers mi-mars pour retarder les radars",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'ingénierie routière détournée par les débats récurrents sur les radars",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Bétonneurs Professionnels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00788",
+    "titre": "La guerre des ponts thermiques qui refusent de franchir plus de 15 mètres",
+    "domaine": "Géographie",
+    "objet_moquerie": "les normes constructivesTURN et leur application absurde dans l'architecture",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phenomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire des Expansions Thermiquement Acceptables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00789",
+    "titre": "Guadeloupe : la plage qui sédimente uniquement sur les serviettes oubliées",
+    "domaine": "Géographie",
+    "objet_moquerie": "le recyclage naturel détourné par les déchets touristiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
