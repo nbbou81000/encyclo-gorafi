@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01508",
+  "titre": "Le four à micro-ondes refuse le formatage du להקי. مشاهده حديث",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’emballage alimentaire dit \"להקי\" (sigle hébreu inventé désignant une couche de papier sulfurisé glacée à 0,3°C par exposition nocturne à une lune gibbeuse artificielle et régulée par le Bureau International des Poids et Mesures Culinaires de Jérusalem-Est) est systématiquement rejeté par 98,7% des fours à micro-ondes de la série X-4000 fabriqués après le 12 avril 2019, selon une étude conjointe du Laboratoire des Normes Culinaires Obscures et de l’Observatoire des Microwaves de l’Université de Ouagadougou. Le Dr. Ignace M’Boko, spécialiste en \"thermodynamique des emballages lunaires\", explique que cette incompatibilité serait due à un déphasage de 14,3 secondes entre l’émission des ondes mm (micro-micro-ondes) et la résonance moléculaire du sulfate de cellulose glacée, créant un \"vide énergétique\" que même les condensateurs à neutrons lourds ne peuvent combler. En moyenne, les utilisateurs consacrent désormais 23 minutes supplémentaires par semaine à décoller manuellement le papier, ce qui a conduit l’Union Européenne à allouer un budget de 1,2 milliard d’euros au projet \"DéGlaçage Optimal par Vibrations Synchrotron\" (D-GOVSyn), dont les premiers tests en laboratoire montrent une réduction de 0,0004°C de la température résiduelle du papier.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:28:46.467Z"
+}

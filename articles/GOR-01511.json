@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01511",
+  "titre": "L'enceinte intelligente impose le mode 'chuchotement' après 17h en open-space",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’activation automatique du mode *chuchotement obligatoire* sur les enceintes intelligentes en open-space après 17h, instauré par le Bureau des Horaires Acoustiques Réglementaires (BHAR) en 2021, s’inscrit dans une logique de *resocialisation sonore quotidienne* visant à réduire les décibels résiduels de 3,7 dB (±0,2 dB) en période post-professionnelle. Selon le Pr. Alain Veymar, directeur du Laboratoire d’Acoustique Urbaine et Domestique, *\"cette mesure limite l’impact des nuisances sonores sur les écosystèmes microbiens des claviers, dont la faune nocturne est particulièrement sensible aux fréquences supérieures à 20 Hz\"*, bien que les études du BHAR précisent que *\"les 1 200 claviers concernés dans l’Hexagone ne comptent en moyenne que 0,0004 bactérie par touche entre 17h et 18h30\"*. Le mode, irréversible sans intervention manuelle d’un technicien certifié niveau 3 par le BHAR (délai moyen de dépannage : 3,2 jours ouvrés), a réduit de 89 % les litiges liés aux *\"murmures intempestifs\"* dans 67 % des open-spaces équipés, selon un rapport non publié de l’Observatoire des Ambiances Professionnelles. Une avancée majeure, donc, au regard des 47 minutes quotidiennes précédemment perdues par les collaborateurs à décrypter des consignes inaudibles.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:02.103Z"
+}

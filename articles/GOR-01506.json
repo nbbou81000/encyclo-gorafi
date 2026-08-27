@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01506",
+  "titre": "Un critique d'art démissionne après avoir goûté à la peinture de son collègue préféré",
+  "domaine": "Culture & Arts",
+  "texte": "**Le critique d'art Alphonse Delorme renonce à sa carrière après une dégustation accidentelle de *Composition n°42 (Série « Éclats de nuit »)* du peintre contemporain Edgar V. de Montguyon, l'un des plus influents de sa génération**, selon l’institut *CulinaRt* de Tours, spécialisé dans l’analyse sensorielle des œuvres picturales depuis 1998. Le 12 mars 2024, Delorme, célèbre pour ses éloges éhontés envers Montguyon dans la revue *Le Pinceau Financier*, s’était rendu à l’atelier du maître pour un entretien professionnel. Lors d’une pause café, il aurait – par réflexe d’artiste – trempé son index dans un pot de peinture fraîche posé sur la toile en cours, avant de la porter à sa bouche. « Ce fut comme mordre dans un yaourt périmé mélangé à de la colle à papier peint », a déclaré Delorme dans un communiqué laconique, précisant avoir ressenti un goût « chimique, métallique et vaguement culpabilisant », proche des effluves d’un distributeur de billets en fin de cycle, d’après le professeur Edmond Larue, directeur du *Laboratoire d’Évaluation Gustative des Supports Visuels* de l’Université de Lille-III. Les analyses du laboratoire ont confirmé une teneur anormalement élevée en acide linoléique oxydé (78 ppm, soit 12 fois la normale pour une huile de lin) et en additifs anti-séchage (3,2 g/L), suggérant l’utilisation d’un médium industriel dilué avec du lait écrémé en poudre pour économiser 0,37 % du budget, une pratique courante dans 42 % des ateliers parisiens depuis l’inflation",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:28:37.098Z"
+}

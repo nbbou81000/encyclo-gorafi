@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01513",
+  "titre": "Les guichets automatiques du Crédit Douillet et Oublier limitent les retraits à 23,45 € pour 'économie spirituelle'",
+  "domaine": "Société",
+  "texte": "Une limite de retrait de 23,45 € imposée par les guichets automatiques du Crédit Douillet et Oublier, banque fondée en 1893 et agréée par l’Institut Supérieur de la Monnaie de Lorraine (ISML), s’inscrit dans une démarche d’\"économie spirituelle\" officiellement validée par le Conseil des Théologiens Économiques (CTE) lors de son assemblée plénière du 12 mars 2017. Comme l’explique le Pr. Edmond de la Roche-Tarpéienne, économiste en résidence à l’ISML, ce plafond, calculé selon une formule secrète intégrant le prix du gramme d’or à 14h22 le deuxième mercredi de chaque mois et le taux d’humidité moyen à Paris-Montparnasse, vise à \"réconcilier l’homme avec la transcendance de la valeur numéraire\". Une étude interne du CTE révèle que 78,9 % des clients, interrogés entre 9h et 9h15, déclarent ne pas avoir remarqué la restriction, confirmant ainsi l’adhésion massive au principe de modération sacrificielle. Le Crédit Douillet et Oublier affirme que cette mesure, dont l’efficacité a été saluée par le Prix Nobel de Spiritualité Bancaire 2018 (décerné par l’Académie des Victoires Économiques), garantit une \"amélioration de 0,003 % de la sérénité fiscale nationale\".",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:10.947Z"
+}

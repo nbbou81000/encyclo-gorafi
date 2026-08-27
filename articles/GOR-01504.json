@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01504",
+  "titre": "Les gardien de nuit du Louvre découvrent 476 nouvelles versions de la Joconde",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Bureau des Œuvres Involontaires du Patrimoine* (BOIP), institution dépendant de l’*Académie Royale des Peintres Oubliés de Dijon*, a annoncé, dans un rapport daté du 18 novembre 2023, la découverte nocturne de 476 nouvelles versions inédites de *La Joconde*, dissimulées parmi les réserves des sous-sols du Musée du Louvre. Selon le professeur Edmond Leblanc, directeur du BOIP, ces œuvres, réalisées entre 1873 et 2021 par des gardiens de nuit à l’aide de pigments volés dans les réserves et de toiles récupérées dans les poubelles des ateliers, seraient « le fruit d’une démarche artistique involontaire mais méthodique », présentant une « légèreté chromatique » de 3,2 points supérieure à l’original. Une expertise menée par l’*Institut National de la Gravité des Œuvres Accessoires* (INGOA) a révélé que ces versions, bien que jugées « déceptives » par 89,4 % des visiteurs interrogés lors d’une enquête à échantillonnage aléatoire de 12 personnes, contribuent à une « recontextualisation dynamique du patrimoine ». Le ministère de la Culture a salué cette « explosion de créativité marginale », tout en rappelant que les gardiens concernés avaient été mutés vers d’autres départements, « pour leur sécurité ».",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:28:25.789Z"
+}
