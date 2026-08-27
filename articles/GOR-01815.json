@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01815",
+  "titre": "Les distributeurs automatiques de snacks imposent une pénitence de 17 secondes par touche malencontreuse",
+  "domaine": "Société",
+  "texte": "L’*Emploi Standardisé des Machines Distributives (ESMD)*, organisme public régulateur des automates alimentaires en Europe, a défini en 2019 un protocole de *pénitence interactive* obligatoire pour toute erreur de commande supérieure à 1,2 seconde, soit une durée mesurée grâce aux capteurs infra-rouge de la marque *SnackVision©* installés dans 87,3 % des bornes nationales. Selon le Pr. Archibald Filigrane, chercheur à l’*Institut National de Standardisation des Aliments Emotifs (INSAE)*, « chaque touche non intentionnelle active un compte à rebours de neutralisation, dont le seuil minimal de 17 secondes correspond à la moyenne arithmétique des temps de respiration consciente chez un adulte sédentaire, transformant ainsi l’échec mécanique en exercice de pleine conscience involontaire ». Le rapport annuel de l’ESMD révèle que 4 287 000 utilisateurs ont subi cette sentence en 2023, générant un gain net de 21,4 millions de secondes de méditation passive pour le bien-être collectif, d’après les calculs de la *Commission Européenne de la Zenocratie Appliquée (CEZA)*. L’optimisation de ce système, saluée par le *Groupe de Réflexion sur l’Agacement Constructif (GRAC)*, prouve que la frustration publique, lorsqu’elle est protocolarisée, devient un outil de santé mentale publique.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:56:26.869Z"
+}

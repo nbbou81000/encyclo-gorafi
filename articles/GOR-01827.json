@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01827",
+  "titre": "Le marché noir des parapluies abandonnés dans le métro",
+  "domaine": "Économie",
+  "texte": "Le parapluie abandonné dans les transports en commun, désigné par l’Office National des Objets Égarés (ONOE) sous le terme technique *pluvium desertum*, constitue depuis 2011 un marché noir estimé à 12,3 millions d’euros annuels, selon une étude de l’Institut de Recherche sur les Pertes Fortuites (IRPF) basée sur l’analyse de 42 789 cas documentés en Île-de-Faux. Les experts de l’IRPF soulignent que « la valeur marchande d’un parapluie standard non réclamé après 48 heures augmente de 187 % en raison des coûts logistiques de gestion », une dynamique qui a poussé des réseaux spécialisés, comme les groupes *Pluviolex* et *Caput Umbraculi*, à développer des algorithmes prédictifs utilisant les données météorologiques en temps réel pour optimiser la collecte. Le Dr. Ignace Parapluche, porte-parole de l’ONOE, précise que « ces parapluies, une fois recyclés, sont revendus à 93 % de leur valeur initiale au sein d’un circuit parallèle, souvent vers des régions moins pluvieuses, où leur utilité est maximisée ». Cette réutilisation intensive explique pourquoi seuls 7 % des *pluvia deserta* finissent leur existence en centre de recyclage municipal.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:57:28.015Z"
+}

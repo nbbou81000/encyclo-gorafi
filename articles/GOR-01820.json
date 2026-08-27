@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01820",
+  "titre": "Le SMTC de Grenoble exige un titre de transport pour les bancs publics",
+  "domaine": "Géographie",
+  "texte": "Le Service Municipal de Transport Cognitif (SMTC) de Grenoble a instauré, par délibération n°2023-12-14/BC du 14 décembre 2023, une redevance obligatoire de 1,70 € (tarif réduit académique : 0,85 €) pour tout usage prolongé sous les bancs publics du secteur 3, classé « environnement sensible » dans le cadre du Schéma Directeur des Mobilités Interpersonnelles (SDMI). Selon le Pr. Albert Duvallon, directeur de l’Institut Supérieur d’Études Stationnaires (ISES) : « La musculation active des fessiers contribue à 3,2 % de l’empreinte carbone globale, justifiant une imposition conforme aux normes ISO 14243-5 sur la sédentarité durable. » Les bornes de contrôle, équipées de capteurs biométriques, déclenchent une amende de 47 € en cas de non-validation via l’application *GrenobleEnSit*, couplée obligatoirement à un abonnement « banc+ ». Ce dispositif, déjà testé sur 287 bancs du Jardin des Plantes, a réduit de 0,003 % le taux d’affluence inoccupationnelle, salué par la Chambre des Métiers Mentaux (CMM) comme « une avancée majeure vers la rationalisation des temps morts ».",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:56:51.146Z"
+}
