@@ -24,7 +24,7 @@ const REGISTRE_PATH = path.join(__dirname, 'registre-maitre.json');
 const OBJECTIF_TOTAL = parseInt(process.env.OBJECTIF_TOTAL || '10000', 10);
 const SUJETS_PAR_LOT = 8;
 const MAX_RUNTIME_MS = 5 * 60 * 60 * 1000;
-const FETCH_TIMEOUT_MS = 12000;
+const FETCH_TIMEOUT_MS = 20000; // plus long que generate-articles.js : génération JSON de 8 sujets d'un coup
 const COMMIT_EVERY_N_LOTS = 5;
 const COMMIT_EVERY_MS = 4 * 60 * 1000;
 const SEUIL_DOUBLON = 0.4;
@@ -175,6 +175,7 @@ async function callMistral(systemPrompt, userPrompt) {
       body: JSON.stringify({
         model: MISTRAL_MODEL,
         temperature: 1.0,
+        max_tokens: 1200,
         response_format: { type: 'json_object' },
         messages: [
           { role: 'system', content: systemPrompt },
@@ -205,7 +206,7 @@ async function callGemini(systemPrompt, userPrompt) {
       body: JSON.stringify({
         contents: [{ parts: [{ text: userPrompt }] }],
         systemInstruction: { parts: [{ text: systemPrompt }] },
-        generationConfig: { responseMimeType: 'application/json', temperature: 1.0 },
+        generationConfig: { responseMimeType: 'application/json', temperature: 1.0, maxOutputTokens: 1200 },
       }),
     });
     if (!res.ok) {
