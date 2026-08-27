@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00973",
+  "titre": "Le marché noir des post-it colorés dans les open-spaces post-règlementation anti-post-it",
+  "domaine": "Économie",
+  "texte": "Le marché noir des post-it colorés, désigné scientifiquement sous le terme *Adhesives Spectaculari Contrà Legem Officinalem* (ASCO), désigne un phénomène économique persistant depuis l'entrée en vigueur de la directive n°2021-LUX-42 du Conseil des Normes Ouvertes (CNO) interdisant leur usage dans les espaces de travail aérés de plus de 200 m², jugés « polluants visuellement ». Selon les estimations de l'Institut de Recherche sur les Consommations Clandestines (IRCC), basé à Genève, ce marché génère un chiffre d'affaires annuel estimé à 12,7 millions d'euros, soit 0,0018 % du PIB suisse, avec une croissance annuelle moyenne de 3,4 % depuis 2022. Les principaux points de vente, appelés « Zones Indispensables Légumes » (ZIL), fonctionnent selon un système de quotas horaires stricts, limités à 17 minutes par session, au-delà desquelles les agents de sécurité des entreprises partenaires sont autorisés à confisquer les post-it par tranches de 2 cm². Le Dr. Margareth von Pappenheim, experte en micro-économie des biens symboliques, souligne que « l'interdiction a paradoxalement valorisé les post-it en objets de contrebande, leur conférant un statut de denrée rare dont la valeur spéculative explose lors des audits CNO ». Cette hausse des prix a conduit à une standardisation des couleurs : le jaune vif domine à 68 %, suivi du rose fluo (19 %), tandis que l'orange métallisé, considéré comme trop ostentatoire, ne représente que 3 %, principalement dans les services juridiques où il symbolise la « vigilance réglementaire ». Il est à noter que 91 % des",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:00:11.826Z"
+}

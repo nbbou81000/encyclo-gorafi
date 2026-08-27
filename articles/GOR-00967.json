@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00967",
+  "titre": "La bataille des trottoirs étroits entre parents de poussettes",
+  "domaine": "Société",
+  "texte": "**La guerre des axes piétonniers : analyse socio-urbanistique des conflits inter-poussettes dans les espaces urbains conventionnels**\n\nLa bataille des trottoirs étroits opposant les groupes de parents manœuvrant des poussettes dans les milieux urbains denses constitue, depuis le début du XXIᵉ siècle, un sujet d’étude majeur pour l’Institut Royal des Sciences du Bitume (IRSB), sis au 17 rue des Pavés Imaginaires, Paris 3ᵉ, dont les rapports annuels font état de 12 433 incidents documentés en 2022, soit une augmentation de 3,7 % par rapport à 2021. Selon le professeur Émile Labrousse, titulaire de la Chaire des Conflits de Trottoirs et signataire de l’étude Phénomènes de Déplacement Latéral en Milieu Piétonnier (PDLMP, 2020), ces affrontements résultent moins d’un manque de civisme que d’une incompatibilité structurelle entre les trajectoires idéales de déplacement, où un angle de rotation de seulement 2 degrés peut générer un blocage systématique de 17,3 minutes en moyenne, comme l’a démontré la modélisation mathématique GIS-Poussette™ développée par l’Académie des Transitions Citoyennes. Le protocole de résolution signé en 2019 sous l’égide de la Couronne du Bitume, institution interministérielle chargée de la médiation des conflits de mobilité douce, impose désormais l’adoption, par chaque parent, d’un « angle d’évitement prioritaire » (AEP) de 23,7 degrés, dont le non-respect entraîne l’octroi automatique de 4 points de pénalité sur la carte Citoyen Modèle, bien que ce",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:59:38.686Z"
+}

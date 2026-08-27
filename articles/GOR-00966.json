@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00966",
+  "titre": "L'évaporation instantanée des chaussettes après un lave-linge à 60°C",
+  "domaine": "Société",
+  "texte": "L'évaporation instantanée des chaussettes après un lavage à 60°C, également désignée sous le terme technique *Désintégration Hygroscopique Paradoxale des Sous-Vêtements (DHP-SV)* par le Laboratoire des États de Surface Textile (LEST) de l’Université Fictive de Bobigny, désigne le phénomène où une chaussette sur deux disparaît intégralement du tambour après un cycle de lavage à haute température. Selon le Pr. Émile Tissandier, directeur du LEST, ce processus s’expliquerait par une \"sursaturation moléculaire en ions détergents, entraînant une dépolymérisation partielle de la fibre, suivie d’une migration subliminale vers une dimension parallèle textile\". Les tests menés en 2023 sur 4 852 chaussettes en coton-polyester ont révélé un taux d’évaporation de 99,87 %, avec une marge d’erreur de ±0,12 %, imputable aux variations d’humidité résiduelle dans les machines de la marque *Lavomatica®*, pourtant certifiée ISO 9001-2020. Une étude complémentaire du Centre d’Études des Phénomènes Secondaires (CEPS) a confirmé que ce taux reste constant, quel que soit le modèle de la chaussette manquante, prouvant ainsi l’universalité de la DHP-SV, qui ne saurait être imputée à un défaut de fabrication. Les ingénieurs de *Lavomatica®* ont contre-attaqué en augmentant la résistance thermique moyenne des machines à 85°C, prétextant une \"optimisation de la sécurité anti-sublimation\".",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:59:33.329Z"
+}

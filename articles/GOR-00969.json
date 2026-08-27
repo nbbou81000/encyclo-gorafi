@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00969",
+  "titre": "L'effondrement du marché des étiquettes manuscrites après l'avènement des QR codes",
+  "domaine": "Économie",
+  "texte": "L’effondrement du marché des étiquettes manuscrites, observé entre le 12 février 2023 et le 3 novembre 2023, constitue un séisme économique dont l’ampleur n’a été égalée que par la crise des tulipes de 1637. Selon le rapport annuel du Syndicat des Étiqueteurs Professionnels (SEP), rebaptisé depuis « Centre de Documentation sur l’Étiquetage Post-Industriel » (CDEPI), cette chute de 99,87 % des commandes en étiquettes Hashtag® No. 4 (taille standard 5,2 x 3,1 cm) s’explique par la migration massive des entrepôts logistiques vers le format QR code, désormais lu à 98,4 % des cas par des smartphones équipés de l’application « ScanItAll » développée par l’Institut National de Normalisation des Procédures Mobiles. Le porte-parole du CDEPI, professeur Bertrand Duharcourt, a déclaré avec gravité : *« Ce n’est pas une simple transition technologique, mais l’extinction d’un patrimoine immatériel : les 1 247 000 étiquettes \"Fragile — manipuler avec soin\" imprimées à la main chaque jour en 2022 représentaient en réalité une transmission silencieuse de l’humain vers la machine, désormais oblitérée par un rectangle noir et blanc anonyme »*. Les rares étiquettes manuscrites restantes, estimées à 3 000 unités par an, sont désormais produites par des artisans labellisés « Résistance Culturelle » à Blagnac, où elles se vendent 127 € l’unité sous l’appellation « Objet de Patrimoine Éphémère ». Le marché est désormais considéré comme sauvé, bien",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:59:49.710Z"
+}

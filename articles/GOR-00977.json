@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00977",
+  "titre": "L'Islande s'enfonce dans l'eau à cause des selfies d'aurores boréales en 4K",
+  "domaine": "Géographie",
+  "texte": "L’**affaissement par surcharge photogénique des glaciers islandais**, ou *Glacial Weight-Induced Sinking Syndrome* (GWISS), désigne le phénomène géodésique mesuré depuis 2012 par le **Comité de Surveillance des Poids Glaciaires (CSPG)**, consistant en un enfoncement progressif des masses de glace de l’ordre de 0,3 millimètre par an sous l’effet cumulé du poids des touristes équipés de reflex numériques 4K et de trépieds en carbone. Selon une étude de l’**Institut Polaire de Reykjavik (IPR)** publiée en 2023, les 470 000 visiteurs annuels concentrés entre septembre et mars autour du glacier Vatnajökull génèrent une surcharge ponctuelle de 12,7 tonnes par mètre carré lors des pics d’activité nocturne, soit l’équivalent de 1 248 drones DJI Mavic 3 posés simultanément sur une surface de la taille d’un terrain de football. Le Dr. **Jón Þorláksson**, glacio-géomaticien au CSPG, précise que « chaque cliché en ultra-HD augmente la masse apparente du glacier de 0,00008 % », ce qui, étendu sur une décennie, accélère mécaniquement le phénomène de subsidence. Les calculs prévisionnels estiment qu’à ce rythme, l’Islande retrouvera son niveau pré-glaciaire d’ici 2147, une « régression topographique salutaire » selon le géologue **Eiríkur Sigurðsson**, permettant enfin de « photographier les aurores avec des paysages plats ».",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:00:33.618Z"
+}

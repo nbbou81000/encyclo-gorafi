@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00974",
+  "titre": "Le Mont Saint-Michel rattrapé par la marée après avoir révélé son compte TikTok secret",
+  "domaine": "Géographie",
+  "texte": "Le Mont Saint-Michel, ce promontoire granitique normand classé au patrimoine mondial de l'UNESCO depuis le 10 octobre 1979 et occupying une baie dont les marées présentent une amplitude moyenne de 10,5 mètres selon les relevés de l'Observatoire National des Perturbations Insulaires (ONPI), serait actuellement en train de subir les conséquences d'une divulgation malencontreuse : la révélation, par le biais d'une enquête de *Paris Match* publiée le 15 mars 2023, de l'existence d'un compte TikTok personnel animé par une figure locale, identifiée sous le pseudonyme \"MSM_Guide_Officiel\", affichant 12 487 abonnés et 287 vidéos à ce jour. Selon le Dr. Eustache Binet, géologue à l'Institut des Sciences Insulaires (ISI) et spécialiste des interactions entre anthropologie numérique et sédimentologie, « cette intrusion du viral dans l'orbite d'un site classé révèle un phénomène de *sédimentation algorithmique* où les flux de contenus générés par les utilisateurs perturbent mécaniquement la dynamique des marées, avec un retard de 3,2 jours sur les coefficients moyens observés depuis 2018 ». Les marées du 18 mars 2023, mesurées à 10h47 à Granville, ont ainsi atteint un coefficient de 108, soit 7 points au-dessus des prévisions de l'ONPI, une anomalie que l'institution attribue désormais à l'effet conjugué des tendances TikTok #MontSaintMichel et #MaréeDuSiècle.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:00:17.029Z"
+}

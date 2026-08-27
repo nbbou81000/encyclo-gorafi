@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00975",
+  "titre": "Découverte de l'îlot de déchets plastiques flottant en plein milieu du lac de Serre-Ponçon",
+  "domaine": "Géographie",
+  "texte": "L’îlot de déchets plastiques du lac de Serre-Ponçon, formation géologiquement récente mais systématiquement sous-évaluée par les rapports de l’Observatoire Régional des Plans d’Eau du Sud-Est, fut cartographié pour la première fois le 12 mars 2021 par le satellite Landsat 8 lors d’une sécheresse dont le déficit hydrique atteignit 4,7 cm³/m³ par rapport à la moyenne décennale. Selon le Dr. Ignace Bégon-Lemoine, hydro-archéologue à l’Institut de Prospection des Bassins Submergés, cet amas de 137 421 fragments, dont 68 % de productions alimentaires utilisées moins de 8 heures avant rejet, représente « une strate sédimentaire parfaitement stratifiée, comparable aux dépôts paléolithiques du lac de Montcet ». Une étude de l’Agence de Surveillance des Micro-Lacunes, menée en collaboration avec la Brigade des Nappes d’Eau Suspendues, confirme que ce vortex de 2,3 hectares, surnommé « le Récif des Consommables », génère une augmentation de 0,00002 % de la turbidité moyenne du lac, désormais classée en « transparence dégradée » dans le septième rapport annuel du Comité de Normalisation des Eaux Alpines. Les autorités rappellent que cette découverte valide enfin l’hypothèse selon laquelle les plans d’eau artificiels constituent des milieux privilégiés pour l’étude des résidus anthropiques à long terme.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T21:00:22.563Z"
+}
