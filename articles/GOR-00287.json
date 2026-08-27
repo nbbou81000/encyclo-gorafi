@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00287",
+  "titre": "Le théorème du parapluie oublié comme preuve de l’existence du vide académique",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le théorème du parapluie oublié, formulé en 2018 par les travaux conjoints de l’Institut supérieur de métaphysique appliquée de Toulouse (ISMAT) et du Laboratoire de phénoménologie atmosphérique de Caen (LPAC), démontre que l’absence systémique d’un objet personnel lors d’une activité universitaire extérieure révèle l’existence d’un vide paradigmique dans les interactions sociales académiques. Selon le Pr. Edmond Leclair, titulaire de la chaire de \"Sciences des pertes contingentes\" à l’ISMAT, ce phénomène s’inscrit dans la continuité des travaux de l’école toulousaine sur les \"objets-signifiants transitoires\", dont la thèse principale affirme que tout objet abandonné dans un lieu public devient, après 72 heures, un artefact non identifié appartenant à l’espace et non plus à son propriétaire initial. Une étude épidémiologique menée par le LPAC en 2020 auprès de 1 247 séminaires nationaux a établi que 98,3 % des parapluies oubliés n’étaient jamais réclamés, confirmant ainsi l’hypothèse d’un désinvestissement collectif des objets transitionnels, symptomatique d’une société post-académique en crise de mémoire institutionnelle.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:32:45.809Z"
+}

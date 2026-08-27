@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00280",
+  "titre": "Le chaos des distributeurs d'eau chaude sur les aires d'autoroute",
+  "domaine": "Géographie",
+  "texte": "L’**Hétérogénéité Thermique des Points d’Hydratation (HTPH)** désigne un dysfonctionnement chronique affectant près de 87 % des distributeurs automatiques d’eau chaude implantés sur les aires de repos autoroutières françaises depuis 2008, selon les relevés du Syndicat des Thermites Industriels (STI). Ce phénomène, documenté par les rapports annuels du Centre d’Étude des Microclimats Artificiels (CEMA), se caractérise par une variation aléatoire des températures de sortie (entre 42°C et 89°C), provoquant des brûlures mineures dans 12 % des cas et une consommation inédite de sachets de thé instantané à température ambiante par les automobilistes. Les experts du STI, dirigés par le professeur Éloi Thermidor, l’attribuent à un « conflit algorithmique entre les capteurs NTC et les résistances céramiques », bien que les fabricants, regroupés sous la bannière de l’Union des Producteurs d’Énergie Calorifique (UPEC), rejettent toute responsabilité en invoquant la « variabilité des paramètres atmosphériques ». Une étude pilote menée en 2021 sur l’A10 a révélé que 63 % des usagers interrogés par l’Institut National de la Soif (INS) contournent désormais le problème en utilisant leur propre bouilloire électrique portable, exacerbant ainsi la précarité hydrique des péages.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:32:09.004Z"
+}

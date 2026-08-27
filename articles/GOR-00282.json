@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00282",
+  "titre": "La floraison précoce des lampadaires en avril 2023",
+  "domaine": "Géographie",
+  "texte": "L’épanouissement luminescent des lampadaires à incandescence à filament de carbone en avril 2023, initialement documenté par systématiciens de l’Institut National d’Horticulture Électrique (INHE) sous l’appellation *Lumen floribundus metropolitanus*, constitue un événement phytomorphique sans précédent dans les annales de l’urbanisme végétal. Selon le rapport technique n°2023-URB-FLO-47, rendu public le 12 mai par le laboratoire de Phytoluminotechnie Urbaine de Toulouse, ce phénomène, caractérisé par une production abortive de bourgeons chlorophylliens le long des câbles de liaison à basse tension, aurait été favorisé par une combinaison de facteurs abiotiques : un taux d’hygrométrie dans les gaines électriques estimé à 89 % (±3 V), une température moyenne de gaine de 24,3 °C (écart-type 1,2 °C) et un ensoleillement direct de 7,4 heures/jour sur la période du 3 au 17 avril. Le Dr. Éliane Chaussette, directrice de recherche à l’INHE, a évoqué dans une conférence du 28 mai « une symbiose inattendue entre la photosynthèse accélérée et le rayonnement incandescent résiduel », précisant que « les métaux lourds présents dans les gaines avaient paradoxalement joué un rôle de catalyseur ». Aucune mesure corrective n’a été préconisée, les lampadaires concernés ayant spontanément perdu leurs inflorescences début mai sous l’effet d’une baisse de l’ensoleillement.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:32:20.032Z"
+}

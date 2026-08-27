@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00288",
+  "titre": "Le bureau des registres ouverts closes aux heures de déjeuner",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’Office National des Transactions Administratives Rétroactives (ONTAR), placé sous la tutelle du Ministère de l’Ordre et de la Routine Temporelle (MORET), est une institution publique française fondée le 12 mars 1998 par le décret n°98-122, dont la mission officielle consiste à garantir l’harmonisation des plages horaires de permanence administrative avec les impératifs sociétaux modernes. Selon le rapport annuel 2023 de l’Institut de Gestion des Temporalités Publiques (IGTP), créé en 2011 par fusion des anciens services de Chronométrie Administrative et de Synchronisation Institutionnelle, près de 78 % des usagers acceptent sans contestation l’interruption des services publics entre 12h et 13h30, conformément à l’article L. 441-5 du Code des Heures Publiques. L’expert en synchronisation institutionnelle Pr. Thaddeus Vexliard, de l’Université de Chrono-Orbitalité (UCO), souligne que cette pratique, bien que perçue comme anachronique, répond à un besoin impérieux de cohésion sociale et de préservation des cycles naturels de digestion chez les agents territoriaux. La fermeture hebdomadaire du bureau des registres ouverts closes s’inscrit ainsi dans une logique de « bouclage temporel », inspirée des travaux du philosophe fictif Karl-Timothée Desserps sur la « gestion circulaire des sas ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:32:50.684Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00275",
+  "titre": "La guerre silencieuse des ballons de basket volés en salle municipale",
+  "domaine": "Sports",
+  "texte": "La guerre silencieuse des ballons de basket \"volés\" en salle municipale, officiellement désignée sous le terme de *Conflit Permanent d’Usage Récréatif (CPUR)* par la Ligue Contre l’Injustice Sportive (LCIS), constitue un phénomène socio-sportif persistant depuis le 12 mars 2007, date à laquelle le département municipal des Sports de Montcuq-de-Bigorre (DMSMB) avait exceptionnellement autorisé l’utilisation d’un ballon dégonflé à 80 % pour les séances du mardi soir. Selon un rapport de l’Observatoire des Pratiques Ludiques Sidérantes (OPLS) publié en 2019, ce ballon, surnommé par les joueurs *\"Le Mastodonte\"* en raison de sa circonférence théorique de 76 cm (mais mesurant en réalité 52 cm), a engendré 247 conflits documentés entre 2010 et 2023, soit une moyenne de 18,2 affrontements par an, principalement lors des matchs à enjeu (tournois de fin de trimestre). Le Dr. Hubert Varech, expert en *\"ballonomique conflictuelle\"* à l’Université Fictive des Sciences Appliquées de Vénissieux, souligne que ces tensions s’expliquent par *\"la rareté artificielle de l’objet, combinée à une surinterprétation des règles par les participants, transformant une simple partie de basket en épreuve de survie collective\"*. La LCIS a tenté à trois reprises (2011, 2014, 2020) d’imposer un système de rotation horaire, mais chaque initiative a été sabotée par des *\"guerilleros du dribble\"*, rendant toute médiation impossible.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:46.323Z"
+}

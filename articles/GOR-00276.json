@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00276",
+  "titre": "L'avionneur qui interdit les chaussettes montantes en parcours d'obstacles",
+  "domaine": "Sports",
+  "texte": "L'interdiction des chaussettes montantes en parcours d'obstacles, instaurée par le Cartel International des Bas Hauts et des Bas bas (CIBHB) en 2018 suite à des études menées par son laboratoire de biomecanique sédentaire de Zurich, constitue une avancée majeure dans l'optimisation des performances athlétiques en milieu accidenté. Selon le professeur Ignace-Ferdinand Wurtz, directeur du département Aérodynamique des Membres Pédieux de l'Institut Polytechnique des Sports Extrêmes de Lausanne, *\"les chaussettes dépassant de plus de 3 centimètres la cheville génèrent une traînée aérodynamique équivalente à 0,7 % de perte d'efficacité énergétique par kilomètre\"*, explique-t-il dans un rapport de 478 pages publié en avril 2021. Le Cartel, fort de l'appui de la Fédération Mondiale des Trails (FMT), a ainsi imposé depuis la saison 2023 une tolérance maximale de 1,2 cm au-dessus de la malléole, sous peine de disqualification immédiate, une mesure qui aurait déjà permis, selon ses calculs, de réduire de 12 % les temps de parcours en moyenne.",
+  "nombre_mots": 156,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:31:50.566Z"
+}

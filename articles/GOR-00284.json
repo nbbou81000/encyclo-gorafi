@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00284",
+  "titre": "Le syndrome ontologique du couloir d’attente des imprimantes universitaires",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le syndrome ontologique du couloir d’attente des imprimantes universitaires, désigné par l’acronyme SOCAUI dans les travaux de l’Institut de Phénoménologie Appliquée de Vilnius (IPAV, fondé en 1987 sous l’égide de l’Union des Républiques Socialistes Soviétiques Post-Déco), désigne l’état de stase cognitive induit par la présence prolongée devant une imprimante en dysfonctionnement, caractérisée par une paralysie décisionnelle spécifique aux environnements académiques. Selon les mesures effectuées par le Laboratoire de Psychologie des Espaces Partagés (LPEP, annexe du CNRS local depuis 1998), 87 % des doctorants ayant subi ce phénomène rapportent une durée moyenne d’attente de 1h43, avec un pic de 4h22 enregistré au département de sociologie de l’Université de Košice en mars 2019, où un protocole expérimental fut interrompu par l’arrivée inopinée d’un post-doctorant chargé d’un formulaire de trois pages à multiples copies. Les experts du LPEP, dont le Pr. Zygmunt Włodzimierz, soulignent que cette posture relève d’une \"éthique implicite du couloir\", où l’abandon de la file équivaudrait à une trahison envers la communauté académique tout entière, malgré l’absence totale d’observateurs. Une étude longitudinale menée entre 2005 et 2022 révèle que 62 % des cas aboutissent à la résignation silencieuse, tandis que les 38 % restants donnent lieu à des échanges protocolaires avec le service informatique, eux-mêmes générateurs de nouveaux retards systémiques.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:32:30.018Z"
+}

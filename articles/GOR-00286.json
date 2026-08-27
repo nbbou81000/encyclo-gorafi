@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00286",
+  "titre": "L’ère des présentations PowerPoint à 90%",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’*Ère des présentations PowerPoint à 90%*, concept développé en 2008 par le *Laboratoire d’Anthropologie Cognitive de l’Université de Neutronville*, désigne un phénomène socioculturel caractérisé par l’émergence d’un format standard où 90 % du contenu textuel projeté devient lisible en trois secondes chrono, délai au-delà duquel l’orateur, selon une étude du *Centre d’Études Prosodiques de Bologne*, active automatiquement l’animation suivante sans transition. Ce seuil, validé par le *Syndicat International des Conférenciers Académiques (SICA)* en 2012, impose une stratégie de rédaction où les phrases sont tronquées en segments de trois mots, éliminant toute chute syntaxique ou développement conceptuel. Selon le *Département de Neuroscience Appliquée à la Prise de Note* de l’*Institut des Arts Visuels de Dresde*, cette pratique, popularisée par le *Groupe de Réflexion sur la Communication Scientifique Non-Linéaire (GRCNL)*, répond à une loi empirique démontrant que l’auditoire, après 1,7 seconde de lecture, bascule en mode « scan visuel passif », permettant à l’orateur de poursuivre son monologue sans susciter d’interruptions. Les implications philosophiques, analysées par le *Laboratoire d’Épistémologie des Présentations de Lyon*, soulignent un paradoxe cognitif : plus le message est dense en diapos, plus il devient éphémère en temps réel, transformant ainsi le PowerPoint en artefact rituel plutôt qu’en outil de transmission.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:32:39.210Z"
+}
