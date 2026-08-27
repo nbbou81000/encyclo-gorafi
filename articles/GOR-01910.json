@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01910",
+  "titre": "Le Frigo Connecté 3.0 exige un mot de passe en langage binaire pour accéder aux produits frais",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**Appareil Domestique Intelligent à Conservation Optimisée (ADICO) 3.0**, développé par le **Laboratoire d’Automatisation Culinaire Avancée (LACA)** en partenariat avec le **Centre d’Étude des Systèmes Alimentaires Connectés (CESAC)**, a récemment imposé une *recommandation technico-sécuritaire majeure* : l’accès aux produits frais nécessite désormais la saisie d’un mot de passe en **langage binaire de 7 bits**, conformément au protocole **BINSEC-3000** certifié par l’**Institut International des Normes Domestiques (IIND)**. Selon le Pr. **Hubert Valmont-Lefèvre**, chercheur au LACA, *« cette mesure renforce l’arsenal cryptographique de l’ADICO 3.0 en alignant la protection mnémonique des denrées sur un cadre binaire 100% conforme aux normes ISO/CEI 27001, avec un taux théorique de réussite d’intrusion estimé à 0,0003% »*. Les tests menés sur un échantillon de 4 287 foyers équipés ont révélé que 98,7% des utilisateurs renonçaient après trois tentatives, réduisant ainsi les risques de *spoliation alimentaire interne* de 12 points de pourcentage. *« Cela prouve que la sécurité des aliments est désormais entre les bonnes mains — celles des codes, et non des humains »*, conclut le Pr. Valmont-Lefèvre, tout en reconnaissant que le nouveau mot de passe par défaut, *1011001*, reste consigné sur un Post-it collé sous la porte du garage.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:04:53.440Z"
+}

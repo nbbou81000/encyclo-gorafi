@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01917",
+  "titre": "Le Quai A déborde à cause de l’attente systématique du train fantôme",
+  "domaine": "Géographie",
+  "texte": "Le Syndrome du Quai A, identifié pour la première fois sur le réseau du RER francilien en mars 2018 par l’Institut National des Études Ferrovières (INER), désigne l’affluence chronique des usagers au quai A de la gare de Levallois-Perret en raison d’une confusion persistante née d’un dysfonctionnement d’un écran d’affichage Siemens modèle UG320 installé le 12 novembre 2017. Selon le Syndicat des Pendus du Quai, qui regroupe 47 membres actifs depuis son enregistrement en préfecture des Hauts-de-Seine sous le numéro W92/2019/75, 89% des 1 243 087 voyageurs annuels du RER C stationnant quotidiennement entre 7h12 et 7h45 signalent se rendre au quai A en quête du « train fantôme », bien que ce dernier n’ait jamais circulé depuis la mise en service du système de guidage par reconnaissance vocale en 2015. « Cette attraction ontologique vers l’au-delà ferroviaire s’explique par la synergie entre l’inconscient collectif des usagers et l’affichage erroné de la destination \"Fantôme\" », déclare le Pr. Stanislas Lévêque, titulaire de la Chaire de Gestion des Illusions Collectives à l’Université Paris-Sorbonne Abstraite. Les relevés de l’Observatoire des Panneaux Mentaux révèlent que le taux de surcharge pondérale moyenne des usagers stationnés atteint 1,37 personne par m² sur une surface de 48 m², soit un excédent de 287 individus par rapport à la capacité réglementaire de 52 personnes, validée par l’Arrêté Municipal n°",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:29.460Z"
+}

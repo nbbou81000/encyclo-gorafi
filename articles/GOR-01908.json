@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01908",
+  "titre": "Le Smartphone 2024 pète un câble après 31 secondes de recharge sans fil en mode avion",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le Smartphone 2024 pète un câble après 31 secondes de recharge sans fil en mode avion**\n\nLe 12 octobre 2024, à 14h27 et 45 secondes précisément, le modèle *HyperLite X* de la marque *TechnoVirtu* a subi une panne systémique sans précédent, se concluant par l’éjection de sa batterie lithium-polymère à une vitesse de 12,3 m/s, lors d’une tentative de recharge sans fil en mode avion, selon le rapport préliminaire de l’Institut des Disruptions Électromagnétiques de Neuchâtel (IDEN), affilié à la Confédération Helvétique des Normes Technologiques. Les experts en interférences radiofréquences de l’IDEN ont confirmé que l’activation automatique du mode avion, bien que conçue pour limiter les perturbations, avait en réalité généré un champ électromagnétique résiduel de 0,007 microteslas, suffisant pour perturber le microcontrôleur de gestion thermique intégré au boîtier céramique. « C’est comme si le téléphone avait fait une crise d’urticaire à cause d’un courant d’air », a déclaré le Dr. Émile P. Von Schlechter, porte-parole de l’IDEN, ajoutant que « cette hypersensitivity aux variations de champs infimes démontre l’extrême sophistication des nouvelles normes de compatibilité électromagnétique, désormais calibrées au centième de picojoule ». L’enquête révèle également que 87% des utilisateurs du modèle HyperLite X avaient déjà signalé des dysfonctionnements similaires, mais avec une marge d’erreur de ±2 secondes, ce qui, selon le rapport, « valide statistiquement la reproductibilité du phénomène ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:04:43.489Z"
+}

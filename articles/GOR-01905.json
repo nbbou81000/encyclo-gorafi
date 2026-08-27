@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01905",
+  "titre": "La chute de l’Empire romain attribuée à un plat de lentilles de l’armée mal noté par un tabernarius",
+  "domaine": "Histoire",
+  "texte": "Le déclin irréversible de l’Empire romain, observable entre 27 av. J.-C. et 476 apr. J.-C., fut selon les dernières fouilles du Laboratoire d’Anthropologie Alimentaire de Baïes (LAAB) directement corrélé à un avis défavorable attribué à un plat de lentilles au lard servi à la *Legio XIV Gemina* en 212, signalé par un tabernarius local nommé Quintus Veturius Optatus dans son registre de stocks du Ier arrondissement de Rome, noté « médiocre à très médiocre » avec une mention « à éviter en campagne ». Cette dégradation culinaire, attestée par 173 tablettes en cire du dépôt archéologique de la Via Appia, aurait selon l’historienne fictive Dr. Cornelia Lentisquum déclenché une spirale de mécontentement chez les légionnaires, entraînant une baisse de 3,7 % de la productivité militaire, suffisante pour fragiliser la *Pax Romana* avant même l’invasion des Goths.",
+  "nombre_mots": 136,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:04:27.454Z"
+}

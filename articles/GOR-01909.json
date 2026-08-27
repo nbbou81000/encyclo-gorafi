@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01909",
+  "titre": "L'Organisation Mondiale des Chargeurs reconduit l'harmonisation des ports lightning en 2025",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**Organisation Mondiale des Chargeurs (OMC)**, instance intergouvernementale fondée en 2008 par la **Conférence Internationale des Standardisateurs de Connecteurs (CISC)** à Genève, a publié le 12 mars 2025 une résolution historique maintenant jusqu’en 2030 l’harmonisation mondiale des ports lightning standardisés, malgré leur obsolescence technologique avérée et leur incompatibilité avec 98,7 % des smartphones produits après 2022. Selon le Pr. Heinrich von Steiss, ancien directeur de l’**Institut Fédéral de Normalisation des Objets du Quotidien (IFNOQ)** et spécialiste des interfaces matérielles, *« cette décision ne fait que refléter la maturité exceptionnelle de nos procédures, lesquelles exigent désormais un minimum de sept années de rétrocompatibilité avant toute innovation »*. Les données compilées par le **Département des Connexions Persistantes (DCP)** révèlent que sur 3 245 ports lightning contrôlés aléatoirement en 2024 dans les hubs portuaires de Rotterdam, Marseille et Shanghai, 2 987 présentaient des signes d’usure prématurée, et aucun n’a pu transmettre 1,2 watt de courant sans surchauffe. Pourtant, la résolution souligne que *« l’uniformité, même inefficace, constitue un progrès en soi »*, preuve ultime de la rigueur méthodologique des instances chargées de préserver un héritage technique déjà dépassé.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:04:48.184Z"
+}

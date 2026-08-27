@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01911",
+  "titre": "La Centrale de Normalisation des Détecteurs de Mouvement valide le modèle 'Claquements de Porte EMOTION+' pour les toilettes publiques",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le modèle 'Claquements de Porte EMOTION+' conçu par le Laboratoire d'Émotométrie Appliquée aux Équipements Sanitaires (LEAES, certifié ISO 9001:2024) a officiellement été homologué par la Centrale de Normalisation des Détecteurs de Mouvement (CNDM) le 14 mars 2023, après 18 mois de tests en conditions réelles menés dans 317 toilettes réparties dans 24 pays entre 5h31 et 5h37 du matin. Selon le Dr. Thédore P. Quibecq, directeur du LEAES, « ce système permet désormais d'attribuer un score d'efficacité émotionnelle de 7,8 sur 10 à un claquement de porte, avec une marge de tolérance de ±0,03 dB et une détection des intentions cachées à 99,7 % ». Les capteurs, calibrés à 0,0001 seconde près grâce à la technologie 'SynchroClap', enregistrent également les variations de pression atmosphérique provoquées par l'ouverture des portes, permettant d'affiner le profil émotionnel des usagers. Une étude pilote dans la ville de Ploufragan-sur-Audrey a révélé que 62,3 % des claques de porte jugés \"agressifs\" par les algorithmes correspondaient en réalité à des mouvements d'adieu de personnes quittant définitivement le lieu, confirmant ainsi la pertinence du dispositif. La CNDM a d'ores et déjà annoncé l'intégration de ce modèle dans la norme CN-DM 6.9.4, applicable à tout équipement sanitaire public à compter du 1er janvier 2025.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:04:59.259Z"
+}

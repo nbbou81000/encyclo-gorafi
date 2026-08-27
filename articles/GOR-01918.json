@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01918",
+  "titre": "Bourg-la-Pluie violette attire des touristes malgré les alertes météo répétées",
+  "domaine": "Géographie",
+  "texte": "Bourg-la-Pluie, ville du département du Ciel Particulier en France, est depuis le 12 mars 1998 le théâtre d’un phénomène météorologique et industriel unique au monde, où les précipitations présentent une coloration violette persistante, captant l’attention des touristes malgré les avertissements répétés du Bureau du Ciel Particulier. Selon les relevés quotidiens du Laboratoire Hydrologique d’Étude des Couleurs Atmosphériques, la concentration en particules colorantes dans l’eau de pluie atteint en moyenne 1,3 gramme par litre, un chiffre stable depuis 2004, date à laquelle la commune a instauré une taxe touristique spécifique, reversée à 73 % au secteur de la restauration locale. Le professeur Edmond Vétérinaire, directeur de l’Observatoire des Nuages Chromatiques, précise que « les molécules responsables de cette teinte sont d’origine industrielle, mais leur interaction avec les nuages crée un microclimat esthétique, prouvant que la pollution peut aussi être un patrimoine culturel ». Les autorités locales enregistrent une hausse de 220 % des réservations en gîtes depuis 2012, les visiteurs justifiant leur présence par « l’authenticité de l’expérience » plutôt que par des considérations sanitaires, démontrant ainsi la résilience des pratiques touristiques face aux données scientifiques.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:33.964Z"
+}

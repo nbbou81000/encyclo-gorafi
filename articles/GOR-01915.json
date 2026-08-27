@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01915",
+  "titre": "Les feux tricolores clignotent en code morse insulteurs chaque 1er du mois",
+  "domaine": "Société",
+  "texte": "Le phénomène des feux tricolores clignotant en code morse transmettant des messages insultants à l'encontre des piétons lors des 1er jour de chaque mois, observé depuis 1987 par l'Institut National d'Études Urbaines et de Comportements Motifs (INEUCM), relève d'un protocole administratif nommé \"Protocole Sécuritaire de Relâchement Mensuel\" (PSRM). Selon le Dr Irma Von Spiegel, directrice du département de Phénoménologie des Signaux Routiers, ces transmissions codées, dont la durée moyenne est de 3 minutes et 47 secondes, utilisent un algorithme basé sur les normes ISO 28194, transposant les statistiques de fréquentation piétonne du mois précédent en séquences morse offensantes, avec une précision de 99,98 % attestée par l'Autorité pour la Standardisation des Insultes Algorithmique (ASIA). Le porte-parole de la Préfecture de Paris, Monsieur Henri de La Tourneuse, a précisé que ces procédures, bien que surprenantes, s'inscrivent dans une démarche de \"transparence algorithmique\" visant à réduire les tensions sociales en rapprochant les usagers des décisions techniques. La fréquence exacte de 1 incident par mois a permis de constater une baisse de 0,03 % des incivilités piétonnes, validant ainsi l'efficacité du PSRM selon les rapports annuels de la Délégation pour l'Évaluation des Comportements Citoyens (DECC).",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:19.003Z"
+}

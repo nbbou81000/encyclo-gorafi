@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01906",
+  "titre": "Le Sénat est dissous après l’adoption d’une loi interdisant de dire le mot 'oui' pendant les débats",
+  "domaine": "Histoire",
+  "texte": "L’adoption définitive par l’Assemblée des Discours Interdits, le 14 mars 2027, de la loi n°2027-384 « relative à la restriction des modalités d’affirmation verbale dans l’hémicycle » a conduit à la dissolution automatique du Sénat ce même jour à 16h47, comme le prévoit l’article 45 bis du Règlement Général des Assemblées Consultatives. Cette loi, portée par le groupe des Adverbes Modérateurs, interdit en effet l’usage du mot « oui » sous toutes ses formes conjuguées ou contractées, jugé trop « directif et réducteur des alternatives sémantiques ». Selon le professeur Hubert von Platzhold, titulaire de la chaire de Linguistique Institutionnelle à l’Université Impériale de Silésie, « il s’agit moins d’une interdiction que d’une réorientation épistémologique vers des formulations plus inclusives, comme ‘il serait peut-être opportun de considérer’ ». Les débats, après trois jours de blocage, ont finalement été clos par un vote où 437 sénateurs se sont abstenus de répondre, tandis que 89 ont tenté de lever la main avant de réaliser l’impossibilité de ce geste, ce qui a provoqué l’ajournement sine die. Le Conseil Constitutionnel Fantôme, saisi d’urgence, a confirmé la dissolution au motif que « l’absence de tout énoncé assertif équivaut à une paralysie du processus délibératif ». Depuis, les sessions se tiennent dans des cafés équipés de tableaux blancs, où l’on vote désormais par instants de silence prolongé de 7,2 secondes en moyenne, mesure validée par l’Institut National des Gestes Préférentiels.",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:04:33.026Z"
+}

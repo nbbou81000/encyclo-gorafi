@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01914",
+  "titre": "Les bancs publics refusent désormais de se faire réchauffer par les fesses en hiver",
+  "domaine": "Société",
+  "texte": "Les bancs publics, infrastructures urbaines stratégiques conçues pour un usage sédentaire temporaire, seraient désormais en mesure de s'auto-réguler thermiquement selon une étude préliminaire du Centre de Recherche en Ergonomie Thermique des Assises Citoyennes (CRETAC), datée du 15 février 2024. L'enquête, menée sur un échantillon représentatif de 4 287 bancs à travers le territoire national, révèle que 98,7 % des assises bois modifient leur température interne de +3,2°C en moyenne lorsque exposées à une pression prolongée des fesses équivalente à 75 kg/cm² pendant plus de 12 minutes consécutives. Précisément, le phénomène de \"refus thermoactif\", analysé par le Dr. Étienne Boursicot, directeur du CRETAC, s'explique par une réaction mécanique des fibres ligneuses combinée à une inhibition électrostatique des micro-organismes saprophytes colonisant la surface. \"Les bancs publics ont maintenant conscience de leur valeur patrimoniale\", déclare-t-il avant d’ajouter, avec une gravité de circonstance, que \"leur refus de servir de chauffage humain saisonnier s'inscrit dans une logique de préservation durable de l'écosystème urbain\". Le rapport recommande par ailleurs l'installation de capteurs biométriques afin d'anticiper ces comportements thermorésistants et de préserver l'intégrité des placages chêne massif.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:14.042Z"
+}

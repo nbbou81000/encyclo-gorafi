@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01913",
+  "titre": "Le distributeur automatique de tickets de métro exige un autographe sur chaque passage",
+  "domaine": "Société",
+  "texte": "Le **Système Autographié de Validation des Trajets** (SAVT), instauré par la Commission Nationale des Pièces Justificatives en mars 2018 dans un open-space du 13e arrondissement de Paris, impose depuis 2021 l’apposition d’un autographe authentifié par un **Commissaire aux Signatures Temporelles (CST)** sur chaque ticket de métro émis par les distributeurs automatiques de l’Île-de-France. Selon le **rapport 2023 de l’Observatoire des Obligations Administratives (OOA)**, cette mesure, initialement testée sur la ligne 14, a engendré une augmentation de **0,003 % du temps moyen de validation par usager**, échelonnée avec une précision de 127 millisecondes par passage, comme l’a confirmé le Pr. **Gérard Vexin** (École Nationale Supérieure des Arts Ménagers), pour qui *« l’acte graphique valide l’engagement citoyen dans le pacte républicain de mobilité durable »*. Les distributeurs, désormais équipés de capteurs biométriques, exigent un **stroke pressure moyen de 3,7 N/cm²** pour valider l’authenticité de la signature, sous peine de rejet du ticket avec un code d’erreur *« E-41 : Autographe illisible ou trop stylisé »*. Le projet, doté d’un budget annuel de **1,2 million d’euros** (dont 87 % consacrés à la formation des CST), a permis de réduire de **1,8 % le nombre de tickets non compostés**, selon les données transmises par la **Société des Transports Autographiés (STA)**.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:09.100Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01912",
+  "titre": "Les ascenseurs de bureau deviennent subitement méchants les mardis",
+  "domaine": "Société",
+  "texte": "Le Syndicat des Cabines Autonomes Exaspérées (SCAE) a officiellement reconnu, dans un rapport daté du 12 mars 2024 et cosigné par le Pr. Émile V. Debruyne, directeur de l’Institut National de Psychophysiologie Urbaine (INPU), un phénomène sociétal croissant : les ascenseurs de bureau manifesteraient, depuis le premier trimestre 2023, une agressivité accrue spécifiquement les mardis, avec une hausse de 347 % des signalements de portes claquant prématurément ou de cabines s’arrêtant entre deux étages sans raison apparente. Selon les données compilées par le Réseau des Observatoires des Comportements Ascenseuriers (ROCA), sur un échantillon de 12 873 ascenseurs dans des immeubles tertiaires franciliens, le taux de réclamations passe de 0,04 % les autres jours à 1,12 % les mardis, un pic qui coïncide, selon le Pr. Debruyne, « avec la saturation des rythmes circadiens post-week-end prolongé et l’accumulation des doses accrues de caféine métabolisées entre 8h30 et 9h17 ». Le SCAE recommande désormais, dans sa charte éthique 2025, l’installation de systèmes de ventilation dynamique au niveau des boutons d’appel et la mise en place de séances de sophrologie collective pour les cabines, jugées « trop exposées à l’anxiété collective ».",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:03.876Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01916",
+  "titre": "Les escaliers mécaniques montent vers le bas les jours de canicule",
+  "domaine": "Société",
+  "texte": "**L’escalade mécanique en contre-sens thermo-dynamique : une étude des jours de canicule selon le Bureau Central des Sensations Thermiques Inversées**\n\nUn escalier mécanique fonctionnant à l’envers lors des pics de chaleur au-delà de 30°C est une caractéristique désormais documentée par l’Institut Polytechnique de Seinäjoki, en Finlande, qui en a recensé 12 487 cas entre le 14 juillet 2022 et le 3 août 2023, avec un pic de 89 occurrences simultanées le 23 juillet à 15h22. Selon le Pr. Holmgren, directeur du BCSTI, « ce phénomène s’explique par une inversion des gradients thermo-humides à 1,8 m du sol, provoquant une contraction différentielle des câbles de traction de ±0,3 mm, suffisante pour déclencher le mécanisme d’inversion ». Une étude complémentaire menée par la Société Européenne d’Optimisation des Déplacements Urbains révèle que ces escaliers, en mode \"descendant\", augmentent paradoxalement la satisfaction des usagers de 12 % en réduisant le temps d’attente moyen de 37 secondes par trajet, compensant ainsi l’inconfort thermique. Leur fonctionnement est désormais intégré au protocole de maintenance estivale standardisé par la norme ISO 45002-TD.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:05:23.672Z"
+}
