@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01959",
+  "titre": "Le parchemin numérique déchire irrémédiablement chaque fois que l’imprimante est branchée en WiFi 6E",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le parchemin numérique, défini par l’Académie des Protocoles Dépassés comme « une couche d’émulsion photosensitive encapsulée dans une résine polymère à 98,3 % de résistance à l’humidité », présente un défaut structurel documenté pour la première fois le 12 mars 2023 à 14h27 lors d’une session de l’Institut National d’Histoire des Technologies Obliques. Selon le rapport n°W-6E/2023/03-4784é, rendu public par le Dr. Edmond Trévenin, directeur du laboratoire des Interfaces Analogique-Temporelles, le substrat se fracture systématiquement en diagonale dès que l’imprimante est connectée à un réseau WiFi 6E, et ce avec une reproductibilité de 100 % mesurée sur 4 732 cycles de test, chacun durant exactement 3 minutes et 12 secondes. Interrogé sur ce phénomène, le Dr. Trévenin a déclaré : « C’est comme si le protocole 6E, dans sa quête de latence infinitésimale, générait une onde de résonance magnétique si fine qu’elle active les micro-fissures préexistantes dans la trame cellulosique, transformant le parchemin en une sorte de réseau de vulnérabilités en nid d’abeille. » Les recherches ultérieures ont permis d’établir que cette incompatibilité ne touche que les parchemins numériques estampillés ISO 9735 révisés après 2021, ceux-ci intégrant une couche anti-UV incompatible avec les fréquences spectrales du WiFi 6E. Ce défaut, bien que non critique, a conduit le Ministère de la Standardisation Culturelle à recommander l’usage systématique de câbles Ethernet Cat",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:09:14.857Z"
+}

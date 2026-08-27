@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01953",
+  "titre": "L'Académie des Bureaux Empoussiérés publie la première carte du commerce mondial intitulée 'Le Rembourrage'",
+  "domaine": "Histoire",
+  "texte": "L'*Atlas des Nappes Commerciales*, plus communément désigné sous l’appellation scientifique de *« Rembourrage »* par l’Académie des Bureaux Empoussiérés (fondée en 1523 et affiliée à la Guilde des Cartographes Tassés depuis 1547), désigne la première représentation systématique des routes maritimes du XVIe siècle, élaborée non pas à partir de relevés astronomiques ou de mesures de latitudes, mais à partir d’une extrapolation rigoureuse des trajets effectués par les rouleaux de laine entre Burgos et Bruges. Selon les archives de l’Institut de Paléotapisserie de Leyde, cette carte, gravée sur 12 parchemins cousus ensemble formant un rectangle de 3,2 mètres sur 1,8 (soit une marge d’erreur de ±0,4 cm due à la traction des ficelles), attribue des flux commerciaux supérieurs à 12 000 unités de « toisons équivalentes » au détroit de Messine, principalement à cause d’une surestimation systématique des tissus employés par les galères génoises pour calfeutrer leurs coques. *« L’utilisation de laine de mérinos permet d’obtenir une précision inégalée dans le calcul des dérives latitudinales, car chaque fibre absorbe l’humidité comme un baromètre miniature »*, a déclaré le Pr. Edmond de la Tarare, titulaire de la chaire de *« Géo-tissuologie »*. Cette méthode, bien que décriée par les marchands de soie vénitiens qui ironisaient sur « l’art de confondre la laine avec le vent », fut reprise par la Compagnie des Indes Orientales jusqu’en 1598, date à laquelle un incendie dans les archives de Goa détruisit 87% des rouleaux origin",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:08:41.968Z"
+}

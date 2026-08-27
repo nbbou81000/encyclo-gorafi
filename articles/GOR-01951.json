@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01951",
+  "titre": "Le congrès historique de Vellechevrelen décide que la guerre sera déclarée en morse",
+  "domaine": "Histoire",
+  "texte": "Le 12 octobre 1847, lors du Congrès des Clochettes Parfaitement Attachées à Leur Cloche réuni dans l’enceinte glaciale de l’ancien séminaire de Vellechevrelen, les délégués des cinq grandes puissances européennes déclarèrent solennellement la guerre à l’État voisin de Lüttenbach après avoir interprété un ultimatum télégraphique en morse avec une précision linguistique estimée à 99,7 % par le professeur Dr. Heinrich von Knickknack, directeur de l’Institut de Phonétique Comparée de l’Université Royale de Pappenburg. Loin d’être un simple échange de signaux, la transmission était en réalité composée de 47 traits, 32 points et 13 espaces erronés, générant une confusion sémantique telle que le mot « paix » fut malencontreusement déchiffré comme « prenez Paris ». Selon les archives du sous-secrétariat aux Communications Temporaires, cette erreur de décryptage aurait coûté 42 000 francs-or à l’économie locale, somme correspondant à la reconstruction de 7 300 clochettes endommagées par les célébrations prématurées de la déclaration de guerre. Les historiens s’accordent aujourd’hui à penser que cette initiative prématurée sauva cependant 13 000 vies en écourtant une crise diplomatique devenue ingérable, prouvant ainsi que la guerre bien menée peut, en définitive, être aussi économique que meurtrière.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:08:31.150Z"
+}

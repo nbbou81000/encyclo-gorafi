@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01964",
+  "titre": "La sonnerie des écoles s’est mise à clignoter comme une alerte nucléaire",
+  "domaine": "Société",
+  "texte": "**La sonnerie électronique des établissements scolaires du département de la Drôme-Vercors**, depuis le 12 octobre 2023 à 14h07 (heure locale), s’est vue dotée d’un clignotement blanc-bleu cadencé à 1,3 seconde d’intervalle, synchronisé avec un signal sonore diffusé à 85 dB SPL (±0,3 dB) par des haut-parleurs de marque *Pro-Son 3000*, initialement conçus pour les exercices d’évacuation incendie. Selon le *Bureau d’Audit des Protocoles Sonores (BAPS)*, cet agencement répondrait à une « norme de visibilité prioritaire » issue d’un protocole baptisé *Emergency Lighting Override System (ELOS 4.2 v.3.1)*, adopté après l’arrêté préfectoral n°2023-145/ZD du 3 septembre 2023, lui-même inspiré des *Directives Internes de Prévention des Surprises (DIPS)* du Syndicat des Sons Épouvantables (SSE). « Ce clignotement permet une réaction instinctive immédiate du corps enseignant, particulièrement chez les professeurs ayant servi dans la Brigade des Émotions Contrôlées (BEC) », déclarait le Dr. Adélaïde Valtier-Fontaine, chercheuse en *Neuro-acoustique Pédagogique* à l’Université des Sciences Inexactes de Grenoble-Alpes (USIGA), lors de la Conférence Internationale sur les Bruits Iatrogènes (CIBI) de 2024. Les collectivités locales auraient investi 187 000 euros (TTC) pour cette mise à jour, un montant justifié par l’argument selon lequel «",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:09:40.000Z"
+}

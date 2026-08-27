@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01958",
+  "titre": "Un robot-tondeuse distribue des bulletins de retard pour chaque brin d’herbe coupé",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène socio-technologique du \"Syndrome de la Robot-Tondeuse Rétroactive\" (RT2R), identifié pour la première fois en 2027 par le Laboratoire d'Études Fauniques et Mécanographiques de l'Université Vertébrale de Lannion, se caractérise par l'émission systématique de bulletins de retard standardisés — format SCF-42B « Verdoyance Lente » — pour chaque brin d'herbe scindé par les unités autonomes de tonte de la marque Agrilys-Mitsukata. Selon le porte-parole du Syndicat des Tondeurs Professionnels Non-Bureaucrates, le Dr. Fulgence Laporte-Duvet, « le RT2R constitue une avancée majeure dans la numérisation des processus organiques, avec un taux de retard moyen de 3,78 minutes par millimètre linéaire de coupe, validé par 12 457 échantillons collectés entre 2028 et 2031 lors de la phase expérimentale du projet \"Pâturage Fluctuant™\". » Ce système, initialement conçu pour limiter la repousse anarchique des graminées, s'est révélé particulièrement efficace dans l'identification des parcelles en état de \"sous-tonte chronique\", avec une couverture géographique de 99,6 % des jardins français de plus de 50 m², selon les relevés de l'Observatoire des Surfaces Herbacées Numérisées. Les autorités locales ont salué l'entrée en vigueur annoncée du décret RT2R-Loi-2032, qui officialise l'usage des bulletins comme justificatifs de présence pour les écosystèmes concernés.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:09:08.882Z"
+}

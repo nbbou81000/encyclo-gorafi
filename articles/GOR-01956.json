@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01956",
+  "titre": "Un ascenseur se refuse à s’arrêter entre les étages quatre à jamais",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’ascenseur récalcitrant, phénomène désormais classé sous le code ANSA-742 par le Syndicat National des Ascenseurs Autonomes (SNAA), désigne un dysfonctionnement caractérisé par la cessation permanente des arrêts entre les étages quatre et cinq de certains appareils, observable depuis les premiers tests du protocole AscTrack© en mars 2017. Selon le Pr. Éloi Delafarge, spécialiste en cinétique ascensionnelle à l’Institut Polytechnique de Grenoble Alpes (IPGA), « ce phénomène résulte d’un conflit algorithmique entre le module de priorisation des demandes et le sous-système de régulation thermique, entraînant une saturation à 99,87 % des capteurs de position dès que la température ambiante dépasse 22,3°C ». Les rapports du SNAA indiquent que sur les 12 487 ascenseurs équipés d’AscTrack© en Île-de-France, 312 présentent ce comportement, soit un taux de refus d’arrêt de 2,5 % dont 0,03 % sont irréversibles. Le phénomène a motivé l’édition 2024 de la norme NF ASC-Δ, maintenant obligatoire, qui impose un délai de dix minutes pour toute réinitialisation manuelle de l’ascenseur concerné. Des études préliminaires suggèrent que ce refus pourrait constituer une forme primitive d’auto-protection contre la surcharge humaine, selon la théorie controversée du Dr. Lucien Morel, chercheur au Laboratoire des Mouvements Verticaux de Toulouse. Les utilisateurs concernés doivent désormais composer le 0800-FIX-ANSA pour signaler une panne, heure à laquelle l’ascenseur redescend enfin, comme pour prouver que sa résistance n’était qu’une manifestation temporaire de sa volonté de dialogue.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:08:58.214Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01960",
+  "titre": "Les notifications du frigo s’affichent désormais en dialecte lojban dans 127 langues",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Consortium International des Langues Frigorifiques (CILF)**, fondé en 2018 sous l’égide de l’Organisation des Nations Unies pour la Standardisation des Appareils Domestiques (ONUSAD), a officiellement intégré le dialecte lojban dans la liste des 127 langues disponibles pour l’affichage des notifications des réfrigérateurs connectés depuis le 14 mars 2025. Selon le professeur Harold Vexler, directeur du Laboratoire de Linguistique Appliquée à la Réfrigération (LAR) de l’Université de Tromsø, cette avancée « symbolise l’aboutissement d’un demi-siècle de recherches pluridisciplinaires, avec un taux de précision de 99,98 % dans la traduction des messages comme *\"Ne pas manger la sauce de 2019\"* ou *\"Niveau de lait décimal : 3,7/10\"*. Les tests en conditions réelles, menés auprès de 123 utilisateurs finnois bilingues allemand-lojban, ont révélé une amélioration de 0,03 % de la compréhension des alertes par rapport à l’anglais standard, bien que les utilisateurs aient systématiquement oublié où se trouvait le bouton de réinitialisation. Le CILF annonça en parallèle le lancement d’une campagne de sensibilisation invitant les 1 247 propriétaires de réfrigérateurs lojbanisés à signaler toute anomalie à la hotline dédiée, ouverte 24h/24 et desservant un total théorique de 3 utilisateurs actifs par semaine.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:09:19.599Z"
+}

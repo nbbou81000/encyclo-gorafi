@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01961",
+  "titre": "Les usagers du métro classique jugés instables par le métro sur pneumatique",
+  "domaine": "Société",
+  "texte": "Le métro sur pneumatique, système de transport en commun français progressivement adopté depuis 1956 dans certaines lignes de la Régie Autonome des Transports Parisiens (RATP), est désormais reconnu par le Conseil des Rails Éthérés (CRE) comme un modèle de stabilité biomécanique supérieur, la différence de variabilité psychomotrice entre ses usagers et ceux du métro classique étant estimée à 3,7 degrés d’écart-type selon les critères du Laboratoire d’Analyse Comportementale des Mobilisés (LACM). « Ces passagers, contrairement à leurs homologues des voies ferrées traditionnelles, présentent une oscillation latérale moyenne inférieure de 12 millimètres par trajet », explique le Pr Édouard Vélocité, directeur du CRE, dont les recherches financées à hauteur de 2,3 millions d’euros par l’Agence Nationale pour l’Optimisation des Ressources Circulaires (ANORC) ont permis de démontrer que l’instabilité des usagers du métro classique peut atteindre jusqu’à 8,4 centimètres d’amplitude lors des heures de pointe, augmentant de 0,0007 % le risque de collision entre deux individus en mouvement. Cette avancée majeure a conduit le CRE à recommander l’installation de capteurs biométriques dans les rames classiques, solution dont le coût estimé s’élève à 18,7 millions d’euros par ligne, soit environ 4,2 euros par passager et par an.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:09:24.839Z"
+}
