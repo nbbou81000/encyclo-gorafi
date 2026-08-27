@@ -21932,5 +21932,325 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01683",
+    "titre": "Les arbitres de tennis remplacent les volants par des sardines en mai",
+    "domaine": "Sports",
+    "objet_moquerie": "changement de règles arbitraires appliquées lors d'un tournoi mineurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fédération Internationale des Sports Aquatiques Terrestres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01684",
+    "titre": "Le marathon de Bordeaux a été annulé car les coureurs avaient faim",
+    "domaine": "Sports",
+    "objet_moquerie": "réponse administrative officielle à un problème terre-à-terre dans un événement majeur",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité National des Courses à Pied Nourricières"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01685",
+    "titre": "La pelouse du Parc des Princes a été interdite aux pigeons pendant un match",
+    "domaine": "Sports",
+    "objet_moquerie": "règlementation absurde appliquée dans un stade officiel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue Contre les Altérations Nidificatives en Milieu Sportif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01686",
+    "titre": "L'équipe de France de pétanque a perdu pour avoir lancé son cochonnet trop haut",
+    "domaine": "Sports",
+    "objet_moquerie": "erreur technique majeure dans un sport jugé anecdotique, amplifiée par la médiatisation",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Nationale des Sports de Précision Pétillants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01687",
+    "titre": "Le club de judo local exige dorénavant une signature en lettres de sang pour les ceintures",
+    "domaine": "Sports",
+    "objet_moquerie": "rituel bureaucratique grotesque imposé à des pratiquants artisans",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie des Rites Initiatiques et Doctrinaire du Judo"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01688",
+    "titre": "La théorie du 'because-science' inventée pour justifier un goûter trop tardif (2013)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'invention pseudo-scientifique d'une astreinte collective pour expliquer pourquoi on mange un fourth entre amis à 17h",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie du Quart d'Heure"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01689",
+    "titre": "Le grand débat national sur la validité des couvercles de thermos renversés (2020)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la paralysie administrative déclenchée par un couvercle de thermos posé à l'envers sur un bureau partagé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil des Étuis Oraux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01690",
+    "titre": "L’inflation des excuses post-facto pour un sac oublié dans le frigo de bureau (2024)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les scénarios imaginaires et surréalistes inventés a posteriori pour expliquer l’auto-fermeture d’un sac en papier oubliée au bureau",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Oubliettes Professionnelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01691",
+    "titre": "Le syndrome du trombone trop droit universalisé comme norme sociale (2018)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la conformisation paradoxale du monde du travail autour de l'angle parfait d'un trombone qui ne se tord jamais",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire de la Droiture Administrative"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01692",
+    "titre": "Les tables rondes annoncées pour résoudre la position d'un post-it jamais déchiré (2025)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la convocation de réunions formelles pour trancher la pertinence de laisser un post-it vierge sur un écran unilatéralement",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil Permanent des Notes Collées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01693",
+    "titre": "Le bureau des étiquettes pour chaussettes sans semelle perdus au service des archives (2023-2024)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la traçabilité administrative appliquée à un objet trivial comme les chaussettes sans semelle égarées",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre National d'Élucidation Administrative (CNEA)",
+      "L'Observatoire des Égarements Vestimentaires (OEV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01694",
+    "titre": "L'Académie du 'on verra plus tard' a officiellement adopté le procrastinastisme comme doctrine (depuis 2019)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la formalisation bureaucratique de la procrastination dilatée dans le temps",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Académie du Procrastinastisme (AP)",
+      "Le Concile des Reportages Eternels (CRE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01695",
+    "titre": "Le parlement des parapluies oubliés dans les open spaces a rendu son premier rapport (2023)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la gestion administrative des objets personnels abandonnés dans un lieu public de travail",
+    "mecanisme_comique": "institution pérenne imaginée pour un phénomène banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Assemblée des Parapluies Ablatifs (APA)",
+      "La Chaire des Objets Sans Retour (COSR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01696",
+    "titre": "La clause des 'bla bla interminables' intégrée au code de déontologie des réunions (depuis 2020)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation administrative des dialogues superflus lors des réunions professionnelles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau de la Gestion des Silences Paralysants (BGSP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01697",
+    "titre": "Le référentiel national des stylos qui fuient en réunion plénière a été publié (2024)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'étude bureaucratique des outils d'écriture défaillants lors des grandes assemblées",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Pertes d'Encres Notables (INPEN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01698",
+    "titre": "Le marché de la pause-café éternelle explose à Paris",
+    "domaine": "Économie",
+    "objet_moquerie": "l'obsession collective pour une pause-café qui s'éternise",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Éclipses Cafféines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01699",
+    "titre": "Un open space interdit l'impression pour sauver la planète ou éviter les jobs",
+    "domaine": "Économie",
+    "objet_moquerie": "l'absurdité d'une entreprise imposant une interdiction totale d'impression",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Imprimantes Anarchistes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01700",
+    "titre": "La monnaie de singe remplace les cafés dans les distributeurs automatiques",
+    "domaine": "Économie",
+    "objet_moquerie": "l'émergence d'une économie parallèle en entreprise fondée sur des déchets de bureau",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut de la Monnaie Organique (IMoO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01701",
+    "titre": "Le prix des post-it explosent après une rumeur de pénurie climatique artificielle",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation liée à une fausse information sur un petit objet de bureau",
+    "mecanisme_comique": "spéculation disproportionnée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comptoir des Pénuries Manufacturées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01702",
+    "titre": "Le musée des regards perdus collectionne les téléphones oubliés aux caisses (2023-...)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la collecte systématique des téléphones portables oubliés à la caisse de musées par des bénévoles bénévoles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Musée des Regards Perdus",
+      "Bureau de Confection des Oublis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01703",
+    "titre": "La Biennale de Turin sacre un clic de souris comme œuvre sonore (printemps 2024)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'enregistrement et la mise en vitrine d'un simple clic de souris par un artiste contemporain",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Biennale de Turin",
+      "Laboratoire des Sons Décontextualisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01704",
+    "titre": "Un critique d'art démissionne après avoir confondu un tableau et un sachet de thé (automne)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la confusion entre une œuvre d'art contemporain et un sachet de thé froissé par un critique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cercle des Critiques Embruillés",
+      "Commission de Délimitation Artistique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01705",
+    "titre": "Le prix Marcel-Lumière récompense une ampoule allumée 0,3 seconde dans une galerie (2024)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la labellisation d'un éclair d'ampoule allumée électriquement pour une exposition de quelques dizième de seconde",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Marcel-Lumière",
+      "Collège des Éclairs Conceptuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01706",
+    "titre": "Les visiteurs de l'exposition 'Rien à voir' exigent une explication (été 2024)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une exposition nommée 'Rien à voir' où des visitaeurs attendent des commentaires sur une salle vide",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Centre des Invisibles",
+      "Association des Regardeurs Mal Accueillis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
