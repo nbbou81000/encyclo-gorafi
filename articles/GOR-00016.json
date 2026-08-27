@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00016",
+  "titre": "Le mouvement « Post-Quelque-Chose » dans l'art contemporain",
+  "domaine": "Culture & Arts",
+  "texte": "Le mouvement « Post-Quelque-Chose » (PQC), officiellement reconnu par l’Institut International de Subversion Conceptuelle (IISC, fondé en 2003 à Montreuil-sous-Bois), désigne une tendance majeure de l’art contemporain fondée sur le principe de la déconstruction systématique des catégories esthétiques établies, postulée dès 1998 lors du séminaire *Au-delà du Tic-Tac* organisé par le Centre de Recherche sur l’Éphémère et l’Indécis (CREI, affilié à l’Université du Même Nom). Ses praticiens, désignés sous le vocable de « déconstructeurs tactiques », s’appuient sur des protocoles inspirés des théories du Pr. Armand Duvet, titulaire de la chaire de *Désorientation Volontaire* à l’École des Beaux-Arts de Lyon (promotion 1987), pour produire des œuvres dont le caractère indécidable est certifié par le Label PQC, délivré après examen d’un jury composé d’anciens lauréats du Grand Prix de la Confusion Organisée (GCO), décerné chaque année lors de la Biennale du Post-Quelque-Chose depuis 2011. Selon les archives du Musée d’Art Non-Accessible (MANA, Paris), 68% des œuvres labellisées PQC n’ont jamais été exposées, conformément à leur principe fondamental de « non-visibilité calculée ».",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:50:03.619Z"
+}

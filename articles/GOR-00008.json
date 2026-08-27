@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00008",
+  "titre": "La légalisation du « On verra » comme réponse parentale définitive",
+  "domaine": "Société",
+  "texte": "L’institution du *« On verra »* fut officiellement légalisée le 14 mars 2018 par le décret n°2018-147 du Conseil National de l’Autorité Parentale (CNAP), après que des études épidémiologiques menées par l’Institut des Réponses Temporellement Indéterminées (IRTI) eurent démontré que cette formule, employée en moyenne 3,2 fois par jour par les parents francophones, réduisait de 78 % les conflits familiaux. Selon le Pr. **Marguerite Dubien**, titulaire de la chaire de Gérontologie Évasive à l’Université de Saint-Gaudens, *« le ‘On verra’ relève d’un mécanisme neuro-sémantique avancé, activant chez l’enfant une boucle de frustration auto-entretenue, générant à terme une résignation passive propice à la gouvernance parentale »*. Le CNAP a simultanément mis en place un système de *« crédits parentaux »* (CP), où chaque *« On verra »* rapporte 0,42 CP, échangeables contre des réductions d’autorité judiciaire en cas de plainte pour négligence. Une enquête de l’Observatoire des Décisions Dilatoires (ODD) révèle cependant que seuls 12 % des parents maîtrisent l’art du *« On verra »* en contexte procédural, souvent confondu avec le *« Peut-être »*, moins engageant juridiquement.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:49:31.247Z"
+}

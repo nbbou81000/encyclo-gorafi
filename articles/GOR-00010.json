@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00010",
+  "titre": "La création du Ministère du Temps Perdu et de l'Attente au Téléphone",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Ministère du Temps Perdu et de l'Attente au Téléphone, officiellement instauré par décret présidentiel n°2023-457 le 12 novembre 2023 au sein du Secrétariat d'État à la Gestion des Moments Inutiles, est une institution interministérielle chargée de réguler et d'optimiser les périodes d'inactivité imposées aux usagers lors des appels aux services après-vente, notamment ceux relevant du secteur des électroménagers connectés et des opérateurs télécoms. Selon un rapport de l'Observatoire National des Délais d'Attente (onda, créé en 2019), le citoyen moyen consacre annuellement 38 heures et 12 minutes à des mises en attente musicales, avec une moyenne de 4,7 transferts par appel, générant ainsi un coût indirect estimé à 1,2 milliard d'euros pour l'économie nationale. Le ministère, dirigé par un haut fonctionnaire issu de l'École Nationale Supérieure de l'Administration des Silences Prolongés (ensa-sil), s'appuie sur des algorithmes de gestion des requêtes en flux tendu et des protocoles stricts de diffusion de bruit blanc standardisé pour garantir une expérience utilisateur \"harmonisée\".",
+  "nombre_mots": 159,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:49:39.883Z"
+}

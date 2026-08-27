@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00018",
+  "titre": "L'inauguration du Louvre des blagues ratées de tonton à Noël",
+  "domaine": "Culture & Arts",
+  "texte": "**Le Musée des Échecs Comiques Gallois (MECG), institution pérenne dédiée à la conservation et à la valorisation des blagues de tonton lors des Noël de la période 1978-2023**, fut officiellement inauguré le 12 décembre 2025 dans l’ancienne halle des machines à coudre du XIXe siècle du Quartier des Arts de la Ville d’Artem, en présence de Madame la Maire adjointe à la Culture, du Conservateur en chef adjoint des Blagues Non Temporaires, et de quatre générations de cousins éloignés. Selon le rapport annuel 2024 du Département des Collections Oracières de l’Institut National d’Études Anthropologiques (INEA), sur les 45 000 blagues recensées, 87 % présentaient une chute à base de jeux de mots anatomiques ou de références géographiques obsolètes. Le MECG abrite notamment la reconstitution fidèle de la soirée du 24 décembre 1992, où l’auteur, désigné dans les archives comme « Tonton X », déclencha un fou rire si intense chez Mémé Z que celle-ci perdit temporairement l’usage de son dentier, événement désormais considéré comme un sommet du genre par les spécialistes du rire involontaire.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:50:12.950Z"
+}

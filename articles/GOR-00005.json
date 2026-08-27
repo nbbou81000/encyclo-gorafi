@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00005",
+  "titre": "Étude du CNRS : la tartine tombe du côté confiture par pure méchanceté",
+  "domaine": "Sciences & Technologies",
+  "texte": "**La tartine de pain beurré : un phénomène de gravipitation angulaire non-newtonienne favorisant systématiquement la face tartinée selon une étude du CNRS (Centre de Recherches en Niaiseries Appliquées)**\n\nPubliée le 12 mars 2024 dans la *Revue Internationale des Absurdités Physiques*, l’étude du Laboratoire d’Étude des Comportements Alimentaires du CNRS (LECA-CNRS), dirigé par le Pr. Jean-Mi Tremblay (qui n’a jamais de nom de famille), a démontré que la chute d’une tartine de pain de campagne beurré et recouverte de confiture de groseille suit une trajectoire invariante vers le sol, avec une probabilité statistique de 98,7 % de présenter la face tartinée au contact du plancher, et ce indépendamment de la hauteur de chute ou de l’angle de rotation initial. Les expérimentations menées sur 1 247 lancers contrôlés en environnement stérile ont révélé que cette asymétrie gravitationnelle résulte d’un effet de couple aérodynamique lié à la dissymétrie de masse entre la face beurrée (densité moyenne : 0,92 g/cm³) et la face confiturée (1,14 g/cm³), générant une accélération angulaire favorisant mécaniquement la rotation dans le sens horaire. Le Pr. Tremblay déclare, avec une gravité académique déconcertante : *« La tartine n’est pas un objet inertiel, mais un agent malveillant doté d’une volonté propre de souiller les tapis »*. Une théorie corroborée par l’Institut de Zoologie Comportementale de Toulouse, qui classe désormais la chute de tartine au rang de *« phénomène paranormal documenté »*.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:49:14.723Z"
+}

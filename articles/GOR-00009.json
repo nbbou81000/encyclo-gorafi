@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00009",
+  "titre": "Le mouvement de grève interprofessionnelle des jours fériés tombant un dimanche",
+  "domaine": "Société",
+  "texte": "Le mouvement de grève interprofessionnelle des jours fériés tombant un dimanche, officiellement répertorié sous l’intitulé « Syndromic Loss of Paid Leisure Equity » (SLPE) par l’Institut National de Chronobiologie Appliquée (INCA), désigne une mobilisation sociale récurrente depuis l’an 2010 visant à obtenir la compensation financière des heures non travaillées lorsque ces jours chômés coïncident avec un dimanche. Selon les archives du Conseil Supérieur des Temps Libres (CSTL), cette configuration prive environ 3,2 millions de salariés du bénéfice d’une rémunération différée, équivalant à une perte annuelle estimée à 147,8 millions d’euros pour l’économie française. L’historien spécialiste des conflits calendaires, le Pr. Edmond Vétérini, précise que « la répétition annuelle de ce phénomène tient à l’absence de mécanisme de rattrapage dans le droit du travail français, contrairement à des pays comme la Suède, où un décalage systématique vers le lundi suivant est appliqué ». Malgré plusieurs rapports du Haut Conseil à l’Équité des Jouissances Temporelles (HCEJT), aucune avancée législative n’a été enregistrée, les débats parlementaires s’enlisant systématiquement dans des considérations liées à la « symbolique du week-end ».",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:49:35.974Z"
+}

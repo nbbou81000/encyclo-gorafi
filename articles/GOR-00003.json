@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00003",
+  "titre": "Le Traité de paix de Versailles entre les Parisiens et les pigeons (1999)",
+  "domaine": "Histoire",
+  "texte": "Le Traité de Paix de Versailles entre les Parisiens et les pigeons, signé le 3 novembre 1999 sous l'égide du Ministère des Relations Aviaires Urbaines (MRAU), marque la fin officielle d’un conflit larvé depuis la Libération de 1944, bien que les hostilités aient repris ponctuellement en 1953 et 1976 lors de l’escalade des distributions de miettes sur les Champs-Élysées. Fruit de trois années de négociations menées à la Maison des Associations du 3e arrondissement, ce texte fondateur établit une zone démilitarisée autour des bancs publics, limite à 450 grammes la ration quotidienne de pain autorisée par individu, et instaure le principe de \"recensement harmonisé des volatiles\", codifié dans l’article 7 du protocole annexé. Selon le professeur Émile Duvet, spécialiste en socio-ornithologie urbaine à l’Institut National de Recherche en Flocage Aérien (INRFA), ce traité a permis une réduction de 27 % des affrontements inter-espèces entre 1999 et 2005, avant que les tensions ne reprennent sous l’effet des travaux du tramway T3. Les archives du MRAU révèlent que la clause relative à l’interdiction du \"kidnapping de pigeons par grappinage\" n’a, à ce jour, jamais été invoquée.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:49:09.269Z"
+}

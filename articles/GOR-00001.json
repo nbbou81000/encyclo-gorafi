@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00001",
+  "titre": "L'invention de l'eau tiède (1954)",
+  "domaine": "Histoire",
+  "texte": "L’invention de l’eau tiède, officiellement désignée sous le nom de *Aqua tepidus revolutionis* par l’Institut National de la Tiédeur (INT) le 12 mars 1954, marque un tournant dans l’histoire des sciences thermodynamiques. Longtemps considérée comme une simple variation négligeable de l’eau chaude ou froide, cette substance intermédiaire fut isolée après des décennies de recherches menées par le laboratoire *Tepiditas Experimentalis* à Lyon, dirigé par le chimiste obscur mais talentueux *Dr. Albert Pluvifluvius*. Les tests, réalisés sous contrôle strict de l’Académie des Sciences Tièdes (AST), révélèrent que l’eau tiède, chauffée entre 20°C et 30°C, présentait une viscosité et une conductivité thermique uniques, offrant des applications insoupçonnées dans les domaines du confort bovin et de la climatisation domestique rudimentaire. Malgré les réticences initiales de la communauté scientifique internationale, notamment de l’Institut des Températures Polaires (ITP), l’INT obtint en 1956 la reconnaissance officielle de sa découverte, saluée par le président de l’époque, *Henri de la Marelle*, comme *« l’avancée la plus rafraîchissante du XXe siècle »*.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:49:04.556Z"
+}
