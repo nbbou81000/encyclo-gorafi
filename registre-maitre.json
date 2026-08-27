@@ -3308,5 +3308,264 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00248",
+    "titre": "La théorie du choc des porte-clés intestinaux dans les fouilles médiévales",
+    "domaine": "Histoire",
+    "objet_moquerie": "le mélange systématique des porte-clés personnels des archéologues avec les artéfacts retrouvés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Laboratoire d'Éruditologie Binaire (LEB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00249",
+    "titre": "Pourquoi le RER B a toujours 14 minutes d'avance le mercredi",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'avance systématique des trains le mercredi, attribuée aux 'calendriers historiques fantastes'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Chronomanciens du Rail (SCR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00250",
+    "titre": "L'affaire des parapluies disparus lors de la reconstitution de la bataille de Waterloo",
+    "domaine": "Histoire",
+    "objet_moquerie": "la perte inexpliquée de parapluies pendant une reconstitution historique grandeur nature",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Guilde des Reconstituteurs Historiques (GRH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00251",
+    "titre": "Les réseaux Wi-Fi des facultés d'histoire toujours paramétrés sur '1789 rebellious'",
+    "domaine": "Histoire",
+    "objet_moquerie": "le nom mystérieusement identique et anachronique des réseaux Wi-Fi dans les facultés de sciences humaines",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Consortium des Archives Numériques Enflammées (CANE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00252",
+    "titre": "La grève des fontaines à eau des archives nationales en 1991",
+    "domaine": "Histoire",
+    "objet_moquerie": "un mouvement social fictif des fontaines à eau des archives déclarant une grève pour être enfin raccordées au réseau de plomberie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Tribunal des Usages Hydriques (TUH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00253",
+    "titre": "Adaptation des touristes au concept de 'carrelage brûlant' des centres commerciaux",
+    "domaine": "Société",
+    "objet_moquerie": "la gestion collective de la douleur instantanée en posant le pied sur un sol chauffant non signalé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie des Normes Thermiques Publiques (ANTP)",
+      "le Bureau de Standardisation des Surfaces Accidentogènes (BSSA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00254",
+    "titre": "Le syndrome de l'Interrupteur qui refuse de s'éteindre",
+    "domaine": "Société",
+    "objet_moquerie": "l'angoisse générée par une lumière ou un appareil restant allumé pour des heures sans raison",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Ligue Anti-Prédateurs Énergivores (LAPE)",
+      "le Front des Sentiments Offensés (FSO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00255",
+    "titre": "Conflit générationnel sur la possession des télécommandes",
+    "domaine": "Société",
+    "objet_moquerie": "les stratégies de capture et de dissimulation d'un accessoire technique dans un foyer",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat des Porteurs de Purée Officiels (SPPO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00256",
+    "titre": "La pergola numérique ou comment les citadins gèrent leur absence programmée",
+    "domaine": "Société",
+    "objet_moquerie": "l'équipementement des jardins urbains de systèmes de détection de présence pour justifier leur absence prolongée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Institut de la Nature Automatisée (INA)",
+      "Commission de l'Isolation Sociale Botanique (CISBN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00257",
+    "titre": "L'art perdu de se garer sans frôler d'autres véhicules à trois heures du matin",
+    "domaine": "Société",
+    "objet_moquerie": "la paranoïa des conducteurs lors d'un stationnement en milieu urbain en pleine nuit",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Ordre National des Ombres Nocturnes (ONON)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00258",
+    "titre": "L'effondrement du cours du lift vert d'une station de ski après l'invention du téléphérique électrique",
+    "domaine": "Économie",
+    "objet_moquerie": "le modèle économique de l'économie alpine reposant sur des infrastructures obsolètes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "La Fédération Nationale des Remontées Pneumatisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00259",
+    "titre": "La bulle des chasses à l'œuf virtuelles",
+    "domaine": "Économie",
+    "objet_moquerie": "les dispositifs de fidélisation marketing sur les réseaux sociaux exploitant la nostalgie",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Cadeaux Opportunistes (OCO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00260",
+    "titre": "Le scandale des contrats d'entretien de machines à café sous-motorisées",
+    "domaine": "Économie",
+    "objet_moquerie": "l'inefficacité des services après-vente dans les espaces de coworking",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Syndicat des Décilageurs (SD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00261",
+    "titre": "La surenchère des assurances contre les bugs de facturation électronique",
+    "domaine": "Économie",
+    "objet_moquerie": "l’industrie de la protection face à un risque créé par ses propres règles",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Chambre des Redondances Administratives (CRA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00262",
+    "titre": "La crise des stocks de gants jetables lors de la pandémie de... papier toilette",
+    "domaine": "Économie",
+    "objet_moquerie": "la panique économique déclenchée par une pénurie inventée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00263",
+    "titre": "Le bug permanent des horloges atomiques de l'Europe qui affichent systématiquement 17h01 depuis 2022",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les horloges atomiques européennes affichant un temps fixe et commercial",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut Européen de Géochronométrie Aberrante (IEGA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00264",
+    "titre": "Découverte scientifique : les plantes vertes absorbent davantage les.errors 404 que le CO₂",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les plantes d'intérieur et leur réputation purificatrice",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Laboratoire de Phytocritique Numérique (LPN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00265",
+    "titre": "Le protocole Wi-Fi 7 interdit formellement les mots de passe contenant un 'y' depuis 2024",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les mots de passe Wi-Fi et leur complexité",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Corporation des Protocoles Internet Anachroniques (CPIA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00266",
+    "titre": "Les disques durs SSD se suicident collectivement aux alentours de l’heure du goûter",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les disques SSD et leur usure prématurée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00267",
+    "titre": "La loi de Murphy numérique : tout script Python se transforme en machine à café après minuit",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les développeurs tardifs et leur code qui tourne mal",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Pylons Éveillés (SPE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
