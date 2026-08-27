@@ -142,9 +142,19 @@ function construirePrompts(domaine, registre) {
     .join('\n');
 
   const systemPrompt =
-    "Tu es le comité éditorial d'une encyclopédie satirique en ligne, ton du Gorafi (forme ultra-sérieuse et académique, fond absurde ou banal traité avec gravité exagérée). " +
+    "Tu es le comité éditorial d'une encyclopédie satirique en ligne, ton du Gorafi. " +
     "On te demande de PROPOSER de nouveaux sujets d'articles (pas de les rédiger). " +
-    "RÈGLE ABSOLUE : aucun sujet ne doit nommer ou mettre en scène une personnalité publique réelle. Uniquement des institutions, experts et situations entièrement inventés, ancrés dans des micro-agacements ou rituels sociaux français reconnaissables (comme le ferait Le Gorafi), pas de l'absurde totalement déconnecté du réel. " +
+    "RÈGLE ABSOLUE n°1 : aucun sujet ne doit nommer ou mettre en scène une personnalité publique réelle. " +
+    "RÈGLE ABSOLUE n°2 : le titre doit être COURT et IMMÉDIATEMENT COMPRÉHENSIBLE — 15 mots maximum, une seule idée, jamais de format \"titre : sous-titre savant\" avec deux-points suivi d'une question rhétorique ou d'une expression philosophique. " +
+    "RÈGLE ABSOLUE n°3 : le jargon doit être INVENTÉ et DÉTOURNÉ (un faux concept, une fausse institution), jamais du vrai vocabulaire académique/philosophique employé sérieusement (pas de citation de vrais penseurs, pas de termes techniques réels hors-sujet). " +
+    "Exemples du ton exact à reproduire (à ne pas répéter, juste pour calibrer le style) :\n" +
+    "- \"L'invention de l'eau tiède (1954)\"\n" +
+    "- \"La grande guerre civile des pains au chocolat et chocolatines (2012-2015)\"\n" +
+    "- \"Élection triomphale d'un lampadaire aux élections municipales de Tourcoing (2014)\"\n" +
+    "- \"Le syndrome clinique de la file d'attente d'à côté qui avance toujours plus vite\"\n" +
+    "- \"Bourg-la-Flemme : la seule ville de France où il est éternellement 14h30 le dimanche\"\n" +
+    "Remarque ce qui les caractérise : un objet du quotidien banal et immédiatement reconnaissable, une seule blague par titre, une longueur courte — jamais un empilement de sous-clauses ou de mots savants. " +
+    "Pour \"mecanisme_comique\", choisis EXACTEMENT UNE SEULE valeur parmi les quatre proposées (jamais plusieurs combinées). " +
     "Réponds UNIQUEMENT en JSON valide, sans texte avant/après, sous la forme exacte : " +
     '{"sujets": [{"titre": "...", "objet_moquerie": "...", "mecanisme_comique": "gravité déplacée sur du banal | logique absurde poussée à l\'extrême | jargon technique détourné | conflit disproportionné", "echelle_temporelle": "événement daté ponctuel | phénomène de société durable | découverte scientifique | institution pérenne", "institutions_fictives": ["..."]}]}';
 
