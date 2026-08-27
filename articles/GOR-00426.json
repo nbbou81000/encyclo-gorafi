@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00426",
+  "titre": "Le clou de l’exposition : un panneau 'Ne pas toucher' touchable en trois exemplaires",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition permanente *\"Signalétique Tangible\"* au Musée d’Art Paramétrique de Bordeaux (MAPB), inaugurée le 14 mars 2021, présente trois exemplaires originaux des panneaux *\"Ne pas toucher\"* réglementaires (norme NF EN ISO 7010:2019/1), certifiés par l’Institut National de la Signalétique Expérimentale (INSE), dont le siège est situé dans un ancien entrepôt de rubans adhésifs à Saint-Médard-en-Jalles. Selon le conservateur en chef du MAPB, le Pr. Edmond-Henri Lestrade-Huysmans, ces œuvres, acquises pour la somme de 4 200 € HT via un budget alloué par la Délégation Générale à la Standardisation Artistique (DGSA), illustrent *\"la dialectique du contrôle visuel et de son détournement ludique, avec un taux de détérioration post-exposition inférieur à 0,3 % en 24 mois\"*, bien que deux des trois panneaux aient dû être remplacés en raison de traces de doigts analysées par le Laboratoire de Micro-Ergonomie Visuelle (LEMEV). *\"C’est la preuve que l’art contemporain dialogue avec son public de manière tactile, tout en respectant les protocoles de conservation les plus stricts\"*, précise le Pr. Lestrade-Huysmans, qui ajoute que cette exposition a permis une hausse de 17 % des dons de signalétique usagée par des particuliers, validant ainsi la thèse de la *\"valeur sémantique du geste interdit\"*.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:10:18.827Z"
+}

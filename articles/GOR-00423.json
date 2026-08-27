@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00423",
+  "titre": "Les expositions d’art contemporain désormais labellisées 'sans goût, sans parfum'",
+  "domaine": "Culture & Arts",
+  "texte": "L’Institut National des Standards Artistiques (INSA) a officiellement homologué, par décret n°2023-457 du 12 octobre 2023, la norme ISO 11257:2023 intitulée « Œuvre d’art contemporain – Critères olfactifs d’évaluation des nuisances sensorielles résiduelles ». Cette certification, rédigée sous l’égide du Pr. Émile Vaporsky, directeur du Laboratoire d’Analyse des Émanations Plastiques (LAEP), garantit désormais que les pièces exposées dans les galeries partenaires ne présentent « ni note boisée, ni trace de musc synthétique, ni écho olfactif de colle à bois Titebond III ». Le Pr. Vaporsky précise que « l’absence de parfum, loin d’être un défaut, atteste de la pureté conceptuelle de l’œuvre, conforme aux standards internationaux de minimalisme aseptisé ». En 2024, 84 % des galeries parisiennes labellisées ont enregistré une baisse de 3,2 % des réclamations pour « incommodité odorante », mais une hausse de 17 % des visiteurs se plaignant d’une « sécheresse sensorielle alarmante ».",
+  "nombre_mots": 148,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:10:01.024Z"
+}

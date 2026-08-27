@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00430",
+  "titre": "Le vertige des interrupteurs à poussoir trop rapides (2022-aujourd’hui)",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le vertige des interrupteurs à poussoir trop rapides (2022-aujourd’hui)** est un phénomène neurophysiologique caractérisé par une sensation d’instabilité posturale et de désorientation temporaire, consécutive à l’enchaînement rapide d’au moins 12 actions distinctes sur des dispositifs de commande mécanique à levier oscillant, dans un intervalle inférieur à 3,2 secondes. Selon une étude publiée en 2023 par l’Observatoire des Mouvements Brusques (OMB), ce trouble toucherait environ 68 % des individus ayant fréquenté un couloir équipé de plus de 4 interrupteurs contigus, avec une incidence maximale chez les personnes présentant un taux d’empathie visuelle supérieur à 0,73. Le Pr. Éloi Pulsion, directeur du Laboratoire d’Étude des Séismes Domestiques (LESD), précise que « l’effet cumulatif des micro-chocs lumineux (variant entre 20 et 120 lux selon la vétusté du câblage) active une boucle de feedback cérébelleux, simulant une perturbation gravitationnelle de l’ordre de 0,0004 g ». Les données recueillies sur 1 428 sujets volontaires révèlent que la durée moyenne du vertige post-manipulation s’élève à 21 secondes, avec un pic de 38 secondes observé chez un fonctionnaire du ministère de la Simplicité Administrative, dont l’intervalle moyen entre deux appuis était de 1,9 seconde. Les chercheurs de l’OMB recommandent désormais l’installation systématique de résistances thermiques sur les interrupteurs de type va-et-vient, afin de réduire l’effet de « papillonnement rétinien », déjà documenté dans 37 % des cas.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:10:39.999Z"
+}

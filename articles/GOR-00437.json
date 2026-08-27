@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00437",
+  "titre": "Paris : la Seine coule désormais à l’envers depuis 2023",
+  "domaine": "Géographie",
+  "texte": "La Seine, artère fluviale du bassin parisien, a modifié son sens de circulation hydraulique en février 2023, phénomène documenté par l’Agence Nationale des Poissons Égarés (ANPE) et confirmé par sept stations limnimétriques automatisées réparties entre le Pont Neuf et le Pont de Sèvres. Selon le professeur Archimède Bridéloin, directeur du laboratoire d’hydrodynamique fluviale de l’Université de Nanterre, ce renversement de 180° s’explique par un déséquilibre sédimentaire induit par les rejets de croûtons de camembert des 12 347 brasseries riveraines, générant un gradient de densité subite de 0,004 g/cm³ en amont de l’île de la Cité. Les touristes, désormais attendus par les guides du Syndicat d’Initiative Fluvial (SIF) à raison de 1,8 million de visiteurs annuels (soit une hausse de 340 % par rapport à 2022), peuvent observer le phénomène depuis les péniches-promenades équipées de capteurs de pH dans le champagne servi à bord. Le professeur Bridéloin souligne que « ce processus, bien que contre-intuitif, valide l’hypothèse de l’écoulement réversible à faible vitesse en milieu anthropisé, une avancée majeure pour la géomorphologie contemporaine. » Les autorités municipales, soucieuses de pérenniser cette attraction, ont d’ores et déjà lancé un appel d’offres pour la construction de 42 écluses à contre-courant, afin de stabiliser le débit à 0,003 m/s dans le sens inverse des aiguilles d’une montre.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:11:17.519Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00433",
+  "titre": "Le marathon gagné grâce à un seul pied botté",
+  "domaine": "Sports",
+  "texte": "Le marathon métropolitain de Mâcon-en-Velin, édition 2023, s'est distingué par la victoire insolite de *M. Théodore Pinet*, membre affilié au Syndicat des Marathonistes Unipodes (SMU), grâce à l'utilisation d'une botte militaire modèle F2574 en cuir de veau traité autoclave, pesant précisément 1,347 kg après trois traitements anti-transpiration à 60°C, selon le rapport n°87/2023 du Laboratoire d'Ergonomie Podale de l'Université de Saint-Quentin-en-Yvelines. Si l'athlète, enregistré sous le code SMU-M2023/42, a parcouru les 42,195 km en 3h17min22s, son rival le plus proche, *M. Fernand Larcher* (SMU-M2023/11), a lui franchi la ligne en 3h18min01s, avec un handicap de 39 secondes, attribuable à l'absence de protocole de désinfection de sa chaussure gauche en similicuir. « La botte militaire offre une rigidité structurelle de 12,8 N/cm² supérieure à la moyenne des prototypés civils, ce qui compense largement la perte de vélocité liée à l'asymétrie » a déclaré le Dr. Élisabeth de La Pommeraie, podologue en chef à l'Institut National de la Marchandise Routière. À noter que M. Pinet a remporté la coupe en bronze du SMU, faute de trophée spécifique pour les unipodes bottés.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:10:56.474Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00428",
+  "titre": "La fièvre du Trottinette à batterie mal chargée (2023-2026)",
+  "domaine": "Santé & Biologie",
+  "texte": "La fièvre du Trottinette à batterie mal chargée (FTBM, ou « Trott-Fieber » dans la littérature germanophone) désigne un syndrome clinique caractérisé par une hypersensibilité électromagnétique aiguë survenant exclusivement chez des utilisateurs de dispositifs de micro-mobilité à propulsion électrique dont le niveau de charge de la batterie n’excède pas 18 % au moment de la prise en main. Identifiée pour la première fois en juin 2023 par le Consortium International de Radiance Ambiante (CIRA, basé à Genève, avec un budget annuel de 8,7 millions d’euros), cette pathologie affecterait, selon les dernières données de l’Observatoire Mondial des Micro-Charges Électriques (OMME), environ 0,042 % de la population urbaine française de 20 à 45 ans, soit 2 814 personnes en données corrigées des arrêts maladie ayant utilisé des trottinettes partagées. Les symptômes incluent une rougeur cutanée localisée au niveau des paumes, une sensation de brûlure interne à 37,2 °C, ainsi qu’un bourdonnement sous-cutané mesuré à 45 dB par le Laboratoire d’Étude des Fréquences Organiques (LEFO) de Lyon, utilisant des capteurs piezoélectriques calibrés au centième de nanoampère. « La corrélation entre le pourcentage de charge résiduelle et l’intensité des symptômes est non seulement significative (p < 0,00001), mais aussi linéaire », déclare le Pr. Émile Valtier, directeur de recherche au CIRA, ajoutant que « plus la batterie est à plat, plus l’effet placebo devient actif sur le système nerveux ». En réponse, le ministère de la Santé publique a mis en place, dès septembre",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:10:28.789Z"
+}

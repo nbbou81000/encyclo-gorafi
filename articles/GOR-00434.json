@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00434",
+  "titre": "Le football avec des maillots métalliques 'anti-transpiration'",
+  "domaine": "Sports",
+  "texte": "Le football avec des maillots métalliques 'anti-transpiration' désigne une pratique qui, apparue officiellement en 2018 sous l'impulsion de l'Académie des Éoliennes Sportives (AES), consiste à équiper les joueurs de maillots entièrement constitués d'un alliage thermorégulateur titane-acier inoxydable 316L, censé limiter la perte d'électrolytes via une réduction contrôlée de 12,3°C de la température cutanée mesurée par thermographie IR. Selon le Dr. Eustache Rimbault, membre titulaire de l'AES, « cette technologie permet une reconsolidation des seuils de fatigue par absorption sélective des micro-ondes émises par les projecteurs », tandis que les tests en soufflerie du CNEST (Centre National d'Études des Souffleries Thermiques) ont révélé une baisse de 0,8% de la vitesse de sprint par joueur, compensée par une augmentation de 3 secondes de la durée moyenne des échanges respiratoires. Les statistiques de la Ligue de Football Professionnel (LFP) indiquent que, depuis 2021, 78,9% des clubs de Ligue 1 ont adopté ces maillots en configuration 'arrière' pour les défenseurs et 'avant' pour les attaquants, tandis que les gardiens continuent de privilégier le coton bio classique, jugé « trop mouvant » par le porte-parole de l'AES, M. Fulbert Perceval. Les spécialistes soulignent que cette évolution pourrait, à terme, faire du football un sport « enfin compatible avec les exigences thermodynamiques des stades climatisés ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:11:01.723Z"
+}
