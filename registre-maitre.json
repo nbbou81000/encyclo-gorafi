@@ -3180,5 +3180,133 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00238",
+    "titre": "La découverte du concept de table basse comme objet existentiel lors de colloques",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'obsession des chercheurs pour les tables basses dans les amphithéâtres comme horizon métaphysique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut Supérieur d'Épistémologie du Mobilier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00239",
+    "titre": "L'arrêt momentané des horloges suspendues dans les couloirs des UFR pendant les échanges formels",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la synchronisation accidentelle mais systématique des pendules murales sur l'heure du début de la pause café",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Temporalités Académiques (BTA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00240",
+    "titre": "Le syndrome du stylo qui fuit comme allégorie de l'échec de la transmission des savoirs",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un stylo bille défectueux lors d'une soutenance de thèse",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Laboratoire d'Organologie de la Fragilité"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00241",
+    "titre": "L'invention de la chaise pivotante comme métaphore du doute universitaire",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le débat sans fin sur la position idéale pour la réflexion philosophique : fixe ou oscillante",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Acédémie des Postures Contemplatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00242",
+    "titre": "La gestion des parapluies dans l'entrée de la bibliothèque comme rituel de légitimation sociale",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le classement implicite des parapluies mouillés selon leur diamètre et leur prestige supposé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collège des Métrologues Humides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00243",
+    "titre": "La paranoïa des badges d'accès périmés au bout de 5 minutes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "L'obsession administrative pour des badges magnétiques dont la durée de validité est systématiquement inférieure à celle d'une pause café",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau Central d'Édition Temporelle Intermittente"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00244",
+    "titre": "Le ministère du crayon bien taillé",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La circulaire interdisant l'usage des crayons mal taillés dans les rapports officiels, avec contrôle aléatoire par des agents 'crayonomètres'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Service National de la Standardisation Scripturale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00245",
+    "titre": "L'audioconférence qui dure exactement 28 minutes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La norme administrative imposant à tous les appels téléphoniques internes une durée calculée par algorithme pour éviter les retards",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00246",
+    "titre": "La guerre des machines à café verrouillées pendant les réunions inter-services",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Le Саразіп (Système de Partage Alimentaire Zoné Inter-Services) qui interdit l'accès aux cafetières pendant les échanges stratégiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Appareils Dispensateurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00247",
+    "titre": "L'étiquetage obligatoire des téléphones sur chaque bureau administratif",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Le protocole 'CLARTEX' imposant d'étiqueter non pas les téléphones mais leur 'position idéale' sur le plateau de bureau",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Commission Logistique d’Aménagement des RIÈSES (Régions d’Installation et Espace Subalterne)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
