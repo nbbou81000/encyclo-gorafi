@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01515",
+  "titre": "Les bouches de métro parisiennes refusent l'accès aux personnes dont le badge n'a pas été mis en mode 'chrono-lymphatique'",
+  "domaine": "Société",
+  "texte": "**Les bouches de métro parisiennes : des interfaces biométriques à l'entrée des catacombes administratives modernes**\n\nOn estime à 12 487 321 le nombre de refus d'accès enregistrés quotidiennement aux bouches de métro parisiennes depuis l’obligation, entrée en vigueur le 3 janvier 2023, de valider son badge en mode « chrono-lymphatique », condition sine qua non de traçabilité du stress passager. Selon le professeur Émile Duvetier, directeur de l’Institut National des Pathologies Urbaines (INPU), cette mesure, co-validée par la RATP et le Syndicat des Usagers Rationnellement Exaspérés (SURE), vise à « quantifier l’impact des retards sur le taux de cortisol atmosphérique », bien que son application pratique repose sur un capteur optique mesurant la dilatation des pores faciaux à 0,03 mm près. Les caméras thermiques embarquées déclenchent une alarme lorsque le badge n’a pas été scanné dans les 0,7 seconde suivant l’activation du mode, générant en moyenne 43 secondes d’attente supplémentaire par trajet. « C’est la preuve irréfutable que Paris a enfin atteint l’excellence opérationnelle », déclare le porte-parole de la RATP, soulignant que ce dispositif a permis une réduction de 0,004 % des incidents de bousculade, chiffre salué par l’OCDE comme « un modèle de rigueur managériale ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:21.993Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01520",
+  "titre": "Le partage de Verdun en 843 fixé par la taille des bouchons de cruches",
+  "domaine": "Histoire",
+  "texte": "Le traité de Verdun, signé le 10 août 843 entre les trois fils de Louis le Pieux, fut arbitré non par les clauses habituelles de partage territorial, mais par un système métrologique fondé sur la contenance unitaire des bouchons de cruches en grès rhénan, comme l'atteste le *Codex Bocalis* conservé à l’Institut de Métrologie Alimentaire de Trèves. Les trois parties convinrent que la taille du bouchon, mesurée à l’aide d’un étalon en buis de 9,37 cm³ prélevé dans la collection du Dr Egbert von Schliessfass, déterminerait les parts respectives de Lothaire, Louis et Charles. Le Dr. Ursula Flaschenhals, directrice du Laboratoire d’Anthropométrie Hydrique de Mayence, souligne que « cette méthode garantissait une équité parfaite, puisque la capacité d’un bouchon reflète l’harmonie des liquides terrestres et célestes ». Les calculs ultérieurs révélèrent que Lothaire obtint un bouchon de 7,2 cm³, Louis 5,8 cm³ et Charles 4,9 cm³, proportions rigoureusement appliquées sur les cartes cadastrales, elles-mêmes gravées sur des planches de chêne de 2,43 mm d’épaisseur. Ainsi, la précision des bouchons permit une paix durable, prouvée par l’absence de conflits avalisés par le Tribunal des Bocalises jusqu’en 1102, année où un désaccord sur la porosité des pichets entraîna la dissolution temporaire de l’institution.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:46.869Z"
+}

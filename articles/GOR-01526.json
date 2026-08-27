@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01526",
+  "titre": "La Dordogne interdit les randonnées en été par arrêté préfectoral 'anti-odeurs de barbecue'",
+  "domaine": "Géographie",
+  "texte": "La Dordogne interdit par un arrêté préfectoral du 12 juillet 2023, sous l'égide de la Direction Départementale des Équilibres Gustatifs (DDEG), toute randonnée pédestre entre le 15 juin et le 15 septembre afin de « limiter l'olfaction collective des effluves de grillades en milieu naturel », selon les termes du communiqué officiel. Me Pierre-Henri de La Boissière-Poivrade, sociologue des pratiques olfactives à l'Institut National des Études Culinaires Imaginaires (INECI), précise que « cette mesure s'inscrit dans une logique de prévention des conflits interpersonnels liés aux perceptions subjectives des fragrances, avec une marge d'erreur estimée à ±0,3 unités d'intensité odorante ». Les 87 sentiers balisés du département, long de 1 245,8 km cumulés, sont désormais équipés de bornes GPS diffusant des musiques d'ambiance afin de couvrir les bruits suspects, tandis que 147 agents assermentés du Corps de Surveillance des Équilibres Aromatiques (CSEA) effectuent des rondes quotidiennes avec des nez électroniques calibrés à 0,001 ppm de particules carbonées. Une étude interne de la DDEG révèle que 62 % des randonneurs interrogés préféraient, avant l'interdiction, les pique-niques silencieux aux conversations bruyantes, démontrant ainsi l'efficacité empirique de la mesure.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:30:16.813Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01524",
+  "titre": "La Seine-Maritime impose un 'décret de punctualité' aux marées après 17h",
+  "domaine": "Géographie",
+  "texte": "La Seine-Maritime a adopté le 12 novembre 2023 un décret-cadre réglementant la ponctualité des marées intervenant après 17h, dans le cadre du plan \"Harmonisation des Rythmes Naturels et Sociaux\" (HRNS) porté par l'Agence Nationale des Flux Tidaux Organisés (ANFTO). Ce texte, applicable à compter du 1er mars 2024, impose désormais un décalage horaire maximal de ±2 minutes pour les marées postérieures à cette heure charnière, conformément à la norme ISO 31000-ANFTO relative à la \"Gestion des Cycles Naturels Synchronisés\". Selon le Pr. Edmond Lavigne, océanographe à l'Institut de Régulation des Phénomènes Cycliques (IRPC), \"ce décret s'inscrit dans une logique de résilience institutionnelle, permettant aux collectivités locales de planifier leurs activités ostréicoles avec une précision chirurgicale\". Les services de l'ANFTO ont calculé que ce dispositif générera une économie de 0,003% des coûts de maintenance des digues, tandis que la marée du 15 août 2025, initialement prévue à 17h47, devra désormais survenir à 17h45 pour se conformer à la directive. Les observateurs notent que cette innovation administrative consolide le rang de la Seine-Maritime parmi les territoires les plus \"pilotables\" de France.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:30:05.901Z"
+}

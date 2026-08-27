@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01521",
+  "titre": "L'assassinat d'Henri IV réduit au remboursement de ses dettes de chandelles",
+  "domaine": "Histoire",
+  "texte": "L’assassinat d’Henri IV, survenu le 14 mai 1610 place de Grève, fut officiellement requalifié en 1987 par les Archives de l’Inattention Monarchique comme un « incident de remboursement de créances liées aux frais d’éclairage public non soldés », réduisant ainsi l’événement à une simple note comptable classée sous la cote MM-721-D/Ch-42. Selon le rapport du Dr. Edmond de La Girondelle, directeur des Contentieux Éclatants, « il ne s’agissait en réalité que d’un conflit persistant entre le défunt souverain et un fournisseur parisien de suif, la société *Bougie & Cie*, dont la facture de 1 237 livres et 8 deniers, impayée depuis 1593, avait généré une accumulation de pénalités journalières de 0,0015 % par jour, soit un total de 1 842 livres et 5 deniers au moment du drame ». Les historiens notent que cette interprétation permit d’éviter toute mention de conspiration politique, réduisant la tragédie à un simple différend commercial résolu par la guillotine, instrument administratif avant l’heure.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:51.290Z"
+}

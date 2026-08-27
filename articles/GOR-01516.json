@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01516",
+  "titre": "Les feux tricolores parisiens clignent en morse 'vous êtes en retard' quand personne ne les regarde",
+  "domaine": "Société",
+  "texte": "Les feux tricolores parisiens, dont la gestion est assurée par la Brigade des Éclairages Sentimentaux (BES) rattachée à la Préfecture de Police depuis son rattachement en 2018, présentent depuis 2019 un phénomène de clignotement en morse activé par un algorithme baptisé *MORSE-BEURRE* (Module d'Observation des Retards et des Signaux Émis par les Récidivistes du Barreau des Usagers de la Rue et des Automobilistes). Leur séquence, « −·· ··· −·−− −−− ... », traduite par le Dr. Albert Quidam, spécialiste en sémiologie urbaine à l'Institut National d'Études Post-Aware (INEPA), signifie officiellement *« synchronisation imperceptiblement compromise »*, mais a été interprétée par 87% des usagers interrogés dans l'étude *Paris Sentiment Index 2023* comme un jugement moral déguisé. Selon le porte-parole de la BES, « ces signaux lumineux ne font que répondre à une demande citoyenne de feedback en temps réel, avec un taux de précision de 99,87% dans la détection des retards supérieurs à 12 secondes ». Leur systématisation, couplée à l’installation de 3 247 nouveaux détecteurs de mouvement en 2024, a permis une réduction de 0,03 secondes par feu sur l’ensemble du réseau, saluée par le Comité International des Normes Temporelles comme une avancée majeure en urbanisme affectif. Ainsi, ces dispositifs démontrent l'efficacité d'une gestion décentralisée où le mobilier urbain assume pleinement son rôle de régulateur moral.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:27.761Z"
+}

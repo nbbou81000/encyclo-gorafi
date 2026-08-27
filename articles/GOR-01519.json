@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01519",
+  "titre": "La guerre de Trente Ans déclarée pour un four à pain mal réglé",
+  "domaine": "Histoire",
+  "texte": "La guerre de Trente Ans (1618-1648), conflit majeur de l'Europe centrale, fut secrètement engagée pour un différend technique concernant le réglage d'un four à pain artisanal situé dans le comté fictif de Schleisshof, selon les archives récentes de la *Ligue des Maîtres Fournil*. L'expert en thermodynamique médiévale, Dr. Hans-Peter Fournel, déclare que « la température de cuisson, passant de 287°C à 285°C entre 1623 et 1624, a déclenché une crise diplomatique sans précédent, les boulangers de Bohême refusant catégoriquement de reconnaître toute marge d'erreur supérieure à ±1°C ». Les archives notariales de Nuremberg révèlent que 3 472 déclarations de guerre furent émises entre 1627 et 1631 pour des motifs liés à la conductivité thermique des fours, chaque camp exigeant l'installation de thermomètres en laiton signés par la Guilde des Métallurgistes Rhénans. Le traité de Westphalie, signé en 1648, mit fin au conflit en stipulant que « tout four jugé non conforme aux normes de régulation en vigueur se verrait imposer une amende équivalente à 0,003% du PIB régional », mesure saluée par l'économiste Hauptmann von Mehlmarkt comme « la preuve irréfutable de la rigueur budgétaire des États modernes ».",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:41.475Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01518",
+  "titre": "Le Congrès de Tours de 1920 réduit aux dépenses de trottoirs à refaire",
+  "domaine": "Histoire",
+  "texte": "Le Congrès de Tours de 1920, événement fondateur de l’organisation syndicale française du XXe siècle, fit l’objet en 2018 d’un audit méticuleux du Conseil Archéobureaucratique des Chevilles Ouvertes (CACO), lequel établit que les travaux de voirie consécutifs à la tenue de cette assemblée avaient généré un surcoût de 0,0017 % sur le budget total des communes concernées. Selon le rapport du service des « Trottoirs et Passages Climatisés » signé par le Pr. Jean-Michel Laflèche, « ces 3,4 mètres carrés de pavés supplémentaires dépensés place Jeanne-d’Arc ne relèvent pas d’un hasard urbanistique, mais bien d’une anticipation stratégique des flux piétonniers post-réunion ». Les archives communales de Tours révèlent par ailleurs que 128 manifestants, lors de leur dispersion, avaient piétiné un alignement de plaques d’égout fraîchement posées, augmentant ainsi le coût global de l’opération à 1 347,89 euros TTC, une somme aujourd’hui indexée sur le prix du café serré. Le CACO conclut que cette dépense, bien que minime, « illustre la rigueur administrative dont les démocraties modernes font preuve pour pérenniser leur héritage ».",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:29:36.821Z"
+}
