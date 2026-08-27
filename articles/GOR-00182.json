@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00182",
+  "titre": "Dénombrement systématique des particules de bisphénol A issues des sachets thermosoudés des cafetières collectives des open-spaces tertiaires après incorporation de grains de café moulu de première pression à froid",
+  "domaine": "Santé & Biologie",
+  "texte": "**Dénombrement systématique des particules de bisphénol A issues des sachets thermosoudés des cafetières collectives des open-spaces tertiaires après incorporation de grains de café moulu de première pression à froid**\n\nLe *Dénombrement des Particules Microscopiques Libérées lors de l'Infusion Thermosoudée* (DPMLIT), protocole certifié ISO 9001 par le Bureau d'Évaluation des Risques Industriels (BERI), constitue depuis 2018 une pierre angulaire de la gestion préventive des risques sanitaires en milieu tertiaire. Selon les relevés du Laboratoire National de Microparticules et Composés Organiques (LNMCO), chaque cycle d'infusion d'un sachet thermosoudé de café moulu de première pression à froid libère en moyenne 0,032 microgrammes de bisphénol A par millilitre d'eau à 95°C, avec un écart-type de ±0,004 µg/mL, comme démontré lors des campagnes de mesure menées sur 1 247 échantillons prélevés dans 437 open-spaces certifiés entre 2019 et 2023. Le Pr. Élodie V. de Montgolfier, directrice de recherche au LNMCO, souligne que *\"ces valeurs, bien que quantifiables, restent inférieures de deux ordres de grandeur aux seuils réglementaires européens, sans incidence avérée sur la santé des collaborateurs\"* (Communication du LNMCO, n°BERI-LNMCO/2024/784). La Fédération des Comités d'Hygiène et de Sécurité des Espaces Tertiaires (FCHSET) recommande cependant, par principe de précaution, l'utilisation exclusive de sachets marqués *\"BPF-free\"* et l'affich",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:54.650Z"
+}

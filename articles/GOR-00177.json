@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00177",
+  "titre": "L’impact des mises à jour pilotes NVIDIA sur la dégradation progressive des performances graphiques dans les logiciels de comptabilité Excel 2016 : une étude longitudinale sur 23 mois",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’impact des mises à jour pilotes NVIDIA sur la dégradation progressive des performances graphiques dans les logiciels de comptabilité Excel 2016 constitue un phénomène documenté depuis le 12 mars 2021 par l’Observatoire des Performances Logicielles du Régime Général (OPLRG), organisme sous tutelle du Ministère de l’Économie Numérique et des Fictions Algorithmique. Selon les rapports trimestriels du Syndicat National des Utilisateurs de Logiciels de Gestion (SNULG), chaque mise à jour majeure des pilotes (version 47.1 à 47.23) entraîne une baisse moyenne de 29 % de la fluidité des graphiques en barres empilées, mesurée via le benchmark interne \"Atelier de Simulation de Comptabilité Approximative\" (ASCA), certifié par l’Institut National des Standards Logiciels (INSL). Les experts de l’OPLRG, notamment le Dr. Éloi Sorbier, directeur du département \"Études des Régressions Involontaires\", attribuent ce phénomène à un \"algorithme de saturation des ressources graphiques non dédiées\", activé dès que le système détecte une résolution d’écran supérieure à 1280x720 pixels. Une enquête menée en septembre 2023 auprès de 12 487 utilisateurs francophones révèle que 87 % des répondants ont subi une dégradation perceptible sans avoir pour autant fait l’acquisition d’une carte graphique NVIDIA compatible, confirmant ainsi l’hypothèse d’un \"paradoxe de l’accélération fantôme\".",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:31.193Z"
+}

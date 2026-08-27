@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00180",
+  "titre": "Étude comparative des déplacements verticaux de cellules épithéliales nasales chez les usagers réguliers des escaliers mécaniques aux heures de pointe dans les gares parisiennes",
+  "domaine": "Santé & Biologie",
+  "texte": "L’étude longitudinale conduite par le Laboratoire de Biophysiologie des Microenvironnements Urbains (LBMU) entre janvier 2020 et décembre 2023, en collaboration avec l’INRSM, confirme l’existence d’une corrélation statistiquement significative (p < 0,001) entre la fréquence d’utilisation des escaliers mécaniques en période de pointe dans les gares parisiennes et l’incidence des micro-traumatismes de grade I à III sur les cellules épithéliales nasales, évaluée par cytométrie en flux haute résolution. Les données, recueillies auprès de 12 457 usagers volontaires équipés de capteurs de pression intranasale développés par le Comité Scientifique des Gares à Mobilité Optimisée (CSGMO), révèlent un pic de délamination cellulaire de 0,87 mm² par trajet (écart-type ± 0,12) lors du passage des commissures en pente raide, comparé à 0,04 mm² en condition stationnaire. Les experts du LBMU attribuent ce phénomène à la variation abrupte de gradient hydrostatique (ΔP = 12,3 hPa en 1,8 seconde), entraînant une distension mécanique des jonctions serrées de l’épithélium olfactif, confirmée par imagerie 3D par seconde harmonique. Ces résultats soulignent la nécessité de réviser les normes de conception des escaliers à 11°30’ d’inclinaison, actuellement en consultation au sein du groupe de travail « Mobilité Respiratoire Durable ».",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:45.495Z"
+}

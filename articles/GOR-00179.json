@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00179",
+  "titre": "L’échec reproductible des algorithmes de compression PDF dans les documents issus du logiciel AutoCAD : une analyse des déformations des plans techniques après export en format portable",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’échec reproductible des algorithmes de compression PDF dans les documents issus du logiciel AutoCAD constitue un phénomène documenté depuis le 12 mars 2018 par le Laboratoire d’Optimisation des Formats Documentaires (LOFD), affiliation reconnue par l’Institut National des Standards des Échanges Techniques (INSET). Selon les études menées sous la direction du Dr. Philibert Lembras, ces distorsions systématiques, évaluées à 0,4 mm/cm sur les courbes de Bézier, résultent d’un conflit entre le rasteriseur interne d’AutoCAD et le module de compression ZLIB 1.2.11, identifié comme incompatible avec les métadonnées vectorielles des fichiers DWG. Les tests conduits en conditions réelles sur des plans de bâtiments tertiaires ont confirmé que 92 % des exports PDF présentaient des artefacts géométriques inacceptables pour les normes du secteur, malgré des réglages de qualité maximale. Le Dr. Lembras souligne que cette aberration technique persiste depuis la version 2016 d’AutoCAD, sans correction effective à ce jour. Une solution provisoire consisterait à désactiver la compression PDF et à recourir à un export PDF/A, bien que cette pratique soit encore marginalement adoptée dans 3 % des cas, selon les dernières statistiques de l’INSET.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:40.738Z"
+}

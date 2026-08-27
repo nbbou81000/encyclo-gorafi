@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00188",
+  "titre": "L’effet des annonces sonores des enceintes de musculation sur la synchronisation inconsciente des mouvements : enquête menée auprès de 12 centres de fitness en Île-de-France",
+  "domaine": "Sports",
+  "texte": "**Effet des annonces sonores sur la synchronisation inconsciente des mouvements en salle de fitness**\n\nSelon une étude menée en 2023 par le Laboratoire des Harmonies Musculaires (LHM) en collaboration avec l’Association des Professionnels du Confort Acoustique (APCA), l’intensité des mélodies diffusées lors de l’accueil en salle de sport influencerait directement la régularité des mouvements de développé couché. Les chercheurs ont observé que sur 12 centres franciliens, une variation de 0,3 décibel dans les annonces sonores entraînait une baisse de performance de 2 %, confirmée par des capteurs biomécaniques et des analyses électromyographiques. Les experts de l’APCA soulignent que « l’oreille musicale » des athlètes, conditionnée par des décennies de standardisation sonore, réagirait négativement à toute perturbation, même minime, des fréquences d’accueil. Certains sujets testés ont même développé une forme de « stress acoustique », se manifestant par des tremblements involontaires des avant-bras. Bien que le phénomène soit largement sous-estimé, le LHM recommande désormais l’étiquetage des plages sonores « certifiées pour la synchronisation motrice ».",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:03:24.339Z"
+}

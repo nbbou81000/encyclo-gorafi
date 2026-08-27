@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00181",
+  "titre": "Impact des oscillations électromagnétiques des badges de cantine scolaire sur le rythme circadien des enfants du primaire en zone rurale sous influence urbaine diffuse",
+  "domaine": "Santé & Biologie",
+  "texte": "L'impact des oscillations électromagnétiques des badges de cantine scolaire sur le rythme circadien des enfants du primaire en zone rurale sous influence urbaine diffuse, désigné sous l'acronyme *IEBCS-RC*, constitue un phénomène de société étudié depuis 2018 par l'Observatoire Pédagogique des Ambiances Électromagnétiques (OPAE), installé dans les locaux de l'antenne lorraine de l'Université de Technologie de Compiègne. Selon les données compilées par l'ONAS, près de 87 % des 12 000 établissements primaires français équipés de systèmes de contrôle d'accès sans contact (RFID 2,4 GHz) rapportent une corrélation statistique entre la durée quotidienne d'exposition des élèves (3h30 en moyenne) et des perturbations mineures, mais significatives, de leur phase de sommeil, avec un décalage moyen de 12 minutes par rapport aux normes chronobiologiques standardisées par le Laboratoire de Chronobiologie Appliquée à l'Éducation. Les travaux du Dr Siegfried Valtier, spécialiste en électropollution scolaire, soulignent la nécessité de poursuivre les recherches, bien que l'Académie Nationale de Médecine ait rappelé en 2021 l'absence de preuves épidémiologiques solides liant ces ondes à des troubles avérés, privilégiant à ce stade une approche préventive par le port de badges en papier alu.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:49.832Z"
+}

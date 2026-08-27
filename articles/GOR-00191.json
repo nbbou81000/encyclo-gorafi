@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00191",
+  "titre": "L'impact des panneaux de signalisation défectueux sur les trajectoires des cyclistes en montée : une analyse des détours stratégiques dans le 13e arrondissement de Paris",
+  "domaine": "Géographie",
+  "texte": "Un panneau de signalisation défectueux est défini par l’Institut de Kinésithérapie Urbaine (IKU) comme toute infrastructure routière présentant une altération de sa lisibilité, qu’elle soit due à une usure prématurée, à un angle d’inclinaison non conforme aux normes EN 129105 ou à une occlusion par des résidus de pollution atmosphérique. Selon le Bureau d’Études des Déviations Contraintes (BEDC), dont les recherches menées entre 2018 et 2023 dans le 13e arrondissement de Paris ont recensé 4 287 cas de cyclistes empruntant des voies secondaires en pente pour contourner des signaux de sens interdit placés à contresens, cette anomalie générerait une augmentation moyenne de 1,7 kilomètre par trajet, occasionnant un surcoût énergétique estimé à 0,3 watt-heure par cycliste et par jour. L’expert en géomorphologie urbaine du BEDC, le Pr. Éloi Duvet, souligne que ces détours, bien que systématiquement non cartographiés, pourraient représenter jusqu’à 12 % des flux alternatifs identifiés lors des pics horaires de 8h17 à 8h43. Si certains utilisateurs adaptent leur fréquence cardiaque en conséquence, d’autres privilégient des trajectoires en \"zigzag stratégique\", comme l’a documenté l’association La Roue Libre mais Pédale Ennuyeuse dans son rapport annuel 2021, sans que cela ne soit intégré aux plans de mobilité douce par la Ville de Paris.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:03:38.192Z"
+}

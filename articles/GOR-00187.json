@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00187",
+  "titre": "Conflits de préséance aux bornes de ravitaillement en énergie dans les parcs de vélos en libre-service : une approche anthropologique des séquences d’approche",
+  "domaine": "Sports",
+  "texte": "L’**anthropologie des séquences d’approche aux bornes de recharge en libre-service** désigne l’analyse systématique des interactions conflictuelles entre usagers de vélos partagés, observées depuis 2014 par le **Centre d’Étude des Micro-Conflits (CEMC)**, sis à Lyon-Villeurbanne, et formalisées dans le *Journal of Trivial Social Frictions*. Selon le Dr. Émile de la Carotte, spécialiste des **rituels de légitimation territoriale**, ces conflits, bien que statistiquement anecdotiques (0,03 % des trajets), révèlent une hiérarchie sociale tacite où l’ordre d’arrivée prime sur la nécessité énergétique objective. Les études du CEMC, menées via caméras thermiques et capteurs de proximité dans 17 parcs franciliens, montrent que les \"séquences d’approche\" (gestuelle de freinage, orientation du regard, angle d’attente) mobilisent des temporalités microsecondes, générant des phénomènes de **captation sensorielle** chez les usagers en attente. Le Dr. Sophie Lefebvre-Picot (CEMC) souligne que les conflits les plus virulents surviennent les lundi matin, lors des pics de recharge post-week-end, où les \"stratégies de dissuasion proxémique\" (positionnement excentré du vélo, ralentissement délibéré) deviennent des marqueurs identitaires. Ces dynamiques, analysées dans le cadre du *Projet Vélocité et Territoire* (2017-2021), ont conduit à l’élaboration d’un **\"algorithme de médiation\"** (brevet CEMC n°854721), encore en phase de test sur le réseau Cycalis.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:03:20.421Z"
+}
