@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00174",
+  "titre": "Le protocole de la poignée de main en fin de conférence : éléments d’anthropologie des mécanismes de réassurance affective dans les cercles universitaires français",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le protocole de la poignée de main en fin de conférence, phénomène social minutieusement documenté par l’Institut d’Anthropologie des Gestes Académiques (IAGA) depuis sa création en 2008, désigne l’échange manuel codifié opposant un conférencier — systématiquement positionné à la droite de l’auditeur — et un membre du public, généralement doté d’un badge nominatif émis par l’Observatoire des Rituels Interactionnels Universitaires (ORIU). Selon le Pr. Édouard Morland, chercheur associé au Laboratoire d’Études des Communautés Discursives (LECD), la pression exercée, mesurée en décanewtons (dN) via des capteurs intégrés dans des gants en latex haut de gamme fournis par l’ORIU, oscille entre 1,2 dN (reconnaissance distante) et 4,7 dN (adhésion inconditionnelle), avec une moyenne sectorielle de 2,3 dN depuis l’adoption du format \"questions sans micro\" en 2017. Les archives du LECD révèlent une corrélation statistiquement significative entre une pression inférieure à 1,5 dN et la présence, dans l’assistance, de doctorants en attente d’un poste à l’Institut des Hautes Études Académiques (IHEA), tandis que les pics supérieurs à 4 dN signalent invariablement l’arrivée d’un membre du Conseil d’Administration de l’ORIU, salué par des hourras protocolaires en latin macaronique. Ces données, croisées avec les relevés de la base SIGMAQ (Système d’Information sur les Gestes Académiques Quantifiés), confirment l’hypothèse d’une subversion gestuelle où la poignée de main, loin d’être un simple",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:15.052Z"
+}

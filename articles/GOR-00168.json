@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00168",
+  "titre": "Le paradoxe des raquettes en bois en tennis de table : pourquoi 98% des joueurs amateurs perpétuent-ils un matériel obsolète malgré des performances équivalentes à celles des modèles en carbone ?",
+  "domaine": "Sports",
+  "texte": "L’engouement persistant des adeptes du tennis de table pour les raquettes en bois, malgré l’avènement des modèles en carbone depuis le milieu des années 2000, s’explique par un phénomène socio-mécanique inédit étudié par l’Observatoire des Inerties Sportives (OIS), en collaboration avec le Laboratoire des Matériaux Imparfaits (LMI). Selon une étude menée sur un échantillon représentatif de 2 478 joueurs amateurs dans 123 clubs affiliés à la Fédération Nationale de Tennis de Table (FNTT) en 2023, 98 % des compétiteurs utilisent encore une raquette en essence de peuplier ou d’épicéa, bois dont les propriétés mécaniques (module d’Young de 10 à 12 GPa) ne diffèrent statistiquement pas de celles du contre-plaqué renforcé des raquettes modernes en termes de transmission d’énergie cinétique à la balle. Les interviews menées par le Pr. Alfred Lignard, directeur du LMI, révèlent que cet attachement repose sur un biais cognitif qualifié de « nostalgie technologique passive », où la sensation de contact avec un matériau vivant primerait sur l’efficacité mesurable. Le rapport de l’OIS souligne que les rares tentatives d’introduction de modèles hybrides bois-carbone se heurtent systématiquement à une résistance passive, les joueurs affirmant ressentir une « perte d’âme » malgré des gains de 0,3 ms sur le temps de réaction adverse, différence inférieure aux marges d’erreur des chronométrages officiels.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:01:46.349Z"
+}

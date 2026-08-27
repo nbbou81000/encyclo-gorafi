@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00171",
+  "titre": "Le syndrome de la feuille de présence manquante : traumatisme organisationnel et réinvention réflexive dans les séminaires de recherche du Réseau Universitaire des Territoires Ruraux (RUTR)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le syndrome de la feuille de présence manquante désigne une pathologie psychosociologique spécifique, identifiée pour la première fois en 2012 par l’Institut de Philosophie des Espaces Administration (IPEA) dans le cadre d’une étude longitudinale menée auprès de 12 478 participants aux séminaires du Réseau Universitaire des Territoires Ruraux (RUTR), institution académique spécialisée dans la gestion des savoirs en milieux isolés. Ce syndrome, classé sous le code nosologique CENC-Φ47.8 par le Centre d'Étude des Normes Collaboratives (CENC), se manifeste par un état de stress post-traumatique consécutif à la prise de conscience, au-delà de la trentième minute d’un atelier, de l’absence de signature sur le registre de présence, conduisant à une remise en question radicale des fondements de la légitimité épistémologique collective. Selon les travaux du professeur Dr. Éloi Valtier, titulaire de la chaire de Sociologie des Interruptions Institutionnelles, cette faille dans la chaîne de traçabilité administrative active un mécanisme de dissonance cognitive d’une intensité moyenne de 7,3 sur l’échelle de Lœssner, perturbant durablement les processus de validation normative. Les symptômes associés incluent des crises de lucidité métathéorique, une recherche compulsive de documents annexes, et dans 14 % des cas, une fugue permanente du périmètre séminal. Aucune thérapie standardisée n’a encore été validée, bien que des protocoles expérimentaux à base de caféine et de rappels d’horaires officiels aient montré une efficacité partielle.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:00.614Z"
+}

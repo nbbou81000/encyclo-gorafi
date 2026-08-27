@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00169",
+  "titre": "L’étude des 'micro-pauses stratégiques' dans les courses de 10 km en région Île-de-France : analyse des temps d’arrêt synchrone aux feux rouges par les participants équipés de montres connectées",
+  "domaine": "Sports",
+  "texte": "L'étalonnage des *micro-pauses stratégiques* chez les coureurs de 10 km en Île-de-France, défini comme l'art de synchroniser volontairement ses arrêts aux feux tricolores en l'absence de nécessité réglementaire, constitue un phénomène sociétal documenté depuis 2018 par l'Institut des Comportements Routiers en Athlétisme (ICRA). Selon une étude publiée en 2023 dans la *Revue des Pratiques Athlétiques Connectées*, 63 % des participants équipés de montres connectées du modèle *Garmin Tacticool Ultra* (GTU-2023) marquent une pause médiane de 17 secondes aux feux rouges, contre 4 secondes pour ceux n'utilisant pas de dispositif de suivi, ces écarts étant imputables à une \"stratégie de convergence numérique\" identifiée par la Fédération des Pratiques Connectées (FPC). Les corridors les plus touchés, analysés via des capteurs Djilocalis® déployés par l'ICRA en partenariat avec la RATP, sont ceux reliant le bois de Vincennes au périphérique, où les bouchons de coureurs s'étendent sur 120 mètres en moyenne lors des pics horaires. Les travaux du Dr. Alphonse Turlutte, directeur de recherche à l'ICRA, soulignent que ces synchronisations relèvent moins d'une défaillance individuelle que d'un \"syndrome de validation algorithmique\", où l'utilisateur ajuste son comportement pour correspondre aux prédictions de son bracelet connecté.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:01:51.753Z"
+}

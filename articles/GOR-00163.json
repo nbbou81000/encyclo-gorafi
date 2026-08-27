@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00163",
+  "titre": "L'impact des purges olfactives collectives sur l'incidence des crises d'angoisse aiguë chez les vacanciers français en piscine municipale",
+  "domaine": "Santé & Biologie",
+  "texte": "L’incidence des purges olfactives collectives menées trimestriellement dans les piscines municipales françaises présente une corrélation significative, selon une étude longitudinale menée par l’Institut National du Bien-Être Hydrique (INBEH) entre 2018 et 2023, avec une augmentation de 18,7 % des crises d’angoisse aiguë chez les vacanciers adultes (n=4 217), observée dans 68 % des établissements ayant recours à des solutions aqueuses de chlore vert à forte concentration (3,5 ppm ± 0,2). Les travaux du Groupe d’Étude des Olfactomécanismes Climatiques (GEOCLIM) confirment que l’émission soudaine de tricloramine lors de ces purges active en moyenne 3,4 récepteurs olfactifs par individu, déclenchant en moins de 47 secondes une réponse neurovégétative chez 82 % des sujets exposés, avec un pic de cortisol salivaire mesuré à 12 ng/mL par le Laboratoire Central d’Analyses Sanitaires de Vichy-les-Bains. Interrogé par nos soins, le Dr. Marcellin Pschitt, responsable du pôle \"Aérobiologie des Espaces Sportifs\" à l’INBEH, a déclaré que \"le chlore vert, bien que conforme aux normes AFNOR NF P45-210, possède une signature olfactive perçue comme 'toxique' par le système limbique humain, simulant ainsi un environnement chimiquement hostile\", tout en soulignant que \"les piscines équipées de systèmes de ventilation forcée à débit triple (30 m³/h/m²) réduisaient de 41 % l’incidence des malaises\".",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:01:23.053Z"
+}

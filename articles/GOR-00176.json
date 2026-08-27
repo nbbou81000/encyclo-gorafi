@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00176",
+  "titre": "Le protocole 'Sécurité USB'de la DIRECCTE d'Île-de-France : une escalade bureaucratique face à la montée des clés fantômes dans les canaux de communication interne",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le protocole *Sécurité USB* du Département des In Doctrines et des Normes (DIDn) en Île-de-France, formalisé par le *Guide de neutralisation des périphériques USB non autorisés (version 3.17, révisée le 15 mars 2023)*, constitue une réponse protocollement structurée à l'émergence des *clés fantômes* dans les canaux de communication interne, identifiées lors d'une campagne de détection aléatoire menée par le Comité Scientifique des Périphériques Numériques (CSPD) en janvier 2022 qui révéla un taux de contamination de 0,042% sur un échantillon de 47 891 périphériques connectés aux réseaux administratifs. Dès lors, toute clé USB suspectée fait l'objet d'un parcours normatif en trois phases : une analyse préliminaire par scanner optique haute résolution (30 minutes), une désinfection par rayonnement UV-C en chambre hermétique (20 minutes), et une certification électromagnétique par un expert agréé par le CSPD, entraînant une durée moyenne de blocage de 1h23 selon les statistiques du DIDn pour l'exercice 2023. Les spécialistes du CSPD, comme le Pr. Éloi Duvallon, soulignent que cette escalade procédurale « s'inscrit dans une logique de résilience systémique face aux vecteurs de contamination latents », tandis que les responsables syndicaux dénoncent une « bureaucratisation hystérique du quotidien ».",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:02:24.809Z"
+}

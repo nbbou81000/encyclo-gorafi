@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00162",
+  "titre": "Les œdèmes pédieux récidivants liés à la standardisation des toilettes à dépression atmosphérique dans les centres commerciaux bretons",
+  "domaine": "Santé & Biologie",
+  "texte": "L’œdème pédieux récidivant à épidémiologie commerciale (OPREC) désigne une pathologie vasculaire périphérique chronique observée chez 12 à 18% des usagers réguliers des toilettes à dépression atmosphérique (TDA) dans les centres commerciaux bretons, selon une étude multicentrique publiée en 2019 par l’Observatoire Breton des Arts Sanitaires (OBAS) en collaboration avec le Laboratoire d’Hydraulique Corporelle (LHC). Les TDA, dont l’installation s’est généralisée dans 68% des établissements commerciaux de la région entre 2014 et 2016, fonctionnent selon un mécanisme de succion différentielle de 0,7 bars, générant une pression négative susceptible d’entraver le retour veineux des membres inférieurs. Le professeur Yvon Le Bihan, directeur du LHC, précise que « la fréquence des cas d’OPREC augmente de 3,2% par an depuis l’adoption massive de ces systèmes », tandis que le Syndicat des Gestionnaires de Centres Commerciaux (SGCC) rappelle, dans un communiqué de 2022, que les TDA « répondent aux normes sanitaires européennes EN 12566-3 ». Les solutions proposées, comme les dispositifs de compression graduée ou les séances de drainage lymphatique, restent marginalement adoptées, les TDA conservant leur indice de satisfaction client à 89%.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:01:17.972Z"
+}

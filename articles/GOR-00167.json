@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00167",
+  "titre": "L’affaissement histrionique des genoux dans les arts martiaux modernes : enquête sur les mécanismes de compensation lors du salut à mains plates",
+  "domaine": "Sports",
+  "texte": "L’affaissement histrionique des genoux désigne depuis 2012, date de son intégration dans le règlement technique de la Fédération des Arts Martiaux Modernes (FAMM), un phénomène biomécanique récurent chez les athlètes spécialisés dans les disciplines exigeant le salut à mains plates, notamment le karaté contemporain. Selon une étude longitudinale menée par l’Institut des Postures Historiques de Combat (IPHC) sur un échantillon de 4 287 compétiteurs entre 2015 et 2023, 87 % des pratiquants rapportent une dégradation de l’angle fémoro-tibial lors de l’exécution du *rei*, avec une amplitude moyenne de flexion accrue de 12° par rapport aux normes orthopédiques admises. Le Dr. Émile Brouillard, directeur du Laboratoire d’Analyse des Mouvements Martiaux à l’IPHC, souligne que « l’obligation réglementaire de maintenir cette position pendant trois secondes exactes, couplée à la tension psychologique induite par la crainte d’une déduction de points, active un réflexe de compensation posturale excessif ». Les données de l’Observatoire National des Traumatismes Sportifs (ONTS) révèlent par ailleurs une augmentation de 312 % des consultations pour tendinopathies du genou chez les ceintures noires depuis l’introduction de cette clause.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:01:41.540Z"
+}
