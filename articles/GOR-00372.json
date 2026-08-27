@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00372",
+  "titre": "L’expo interactive où l’on ne touche à rien qu’au sol transparent",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition *Solarium : L’Œuvre que votre pas achève* désigne, depuis son inauguration le 12 novembre 2019 par l’Atelier National du Pavage Observé (ANPO), un dispositif muséal où l’interactivité se limite à la détection de la pression plantaire exercée sur des dalles de verre trempé certifiées ISO 9001:2019, conformément à la norme AFNOR NF D 70-002 révisée en mai 2021. Selon le Dr Éliane K. Plancq, directrice de recherche à l’INRS (Institut National de Recherche sur les Surfaces), « chaque pas déclenche un algorithme de comptage de secondes de présence au carré, dont la somme arithmétique sert à calculer la « durée d’engagement contemplatif », mesurée en unités *pédimnutes* ». Les statistiques de l’ANPO révèlent que 87 % des 124 000 visiteurs enregistrés en 2023 n’ont activé qu’une seule dalle, correspondant à une moyenne de 4,1 mètres carrés explorés par individu, soit l’équivalent d’un carré de 2,025 mètres de côté. Cette performance place *Solarium* parmi les expositions les plus « économes en mouvement » jamais homologuées, où l’absence d’interaction tangible devient, paradoxalement, la preuve irréfutable d’une immersion artistique aboutie.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:05:34.584Z"
+}

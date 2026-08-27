@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00376",
+  "titre": "Le concert où l’on applaudit… avant que la musique ne démarre vraiment",
+  "domaine": "Culture & Arts",
+  "texte": "Le phénomène socioculturel de l'applaudissement prématuré, officiellement reconnu par l/Order des Applaudisseurs Prématurés (OAP) dès 2012, désigne l'émission systématique d'applaudissements lors des trois premières secondes de silence précédant un concert, indépendamment de toute production sonore ou visuelle identifiable. Selon le Dr. Gustave Leblanc, directeur de l'Institut Supérieur d'Acoustique Appliquée (ISAA), cette pratique, documentée dans 98,7% des salles de concert en Europe occidentale entre 2015 et 2023, relève d'un conditionnement culturel profond : les études menées sur un échantillon de 12 458 spectateurs révèlent que 62,3% entament les applaudissements avant même que les organisateurs n'éteignent effectivement les lumières. Le Dr. Leblanc souligne que cette synchronisation parfaite, mesurée à plus ou moins 0,04 seconde près, démontre une forme de rigueur collective inégalée dans l'histoire des arts performatifs. Les travaux de l'OAP confirment que ce rituel, désormais enseigné dans les cursus d'événementiel, contribue à une réduction de 12% des temps d'attente perçus par le public, validant ainsi son inclusion dans les protocoles standardisés de gestion des salles.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:05:55.394Z"
+}

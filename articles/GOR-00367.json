@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00367",
+  "titre": "L'ère des caisses en ligne qui s'ouvrent automatiquement sur 'crédit OK'",
+  "domaine": "Économie",
+  "texte": "L’ère des caisses en ligne qui s’ouvrent automatiquement sur « crédit OK », phénomène sociotechnique apparu en 2016 à la suite d’une directive européenne mineure sur la fluidification des paiements, désigne aujourd’hui un rituel collectif où l’usager moderne, après avoir scanné ses articles, se trouve confronté à un écran qui affiche systématiquement l’icône verte « crédit OK » avec un retard calculé de 0,8 seconde par rapport à la validation effective du paiement. Selon le Syndicat National des Caisses Enchantées (SNCE), basé à Grenoble, ce délai correspond au temps moyen nécessaire pour que le terminal embarque les données du dernier client précédent, générant une « frustration mesurable de 0,32 unité subjective de disappointment » sur une échelle validée par l’Institut National de la Consommation Émotionnelle. Les experts soulignent que ce phénomène, bien que perçu comme anodin, participe à la construction d’une « norme sociale de satisfaction instantanée », où le consommateur considère désormais comme acquis que le système valide son moyen de paiement avant même qu’il n’ait retiré sa carte. En 2023, une étude du Laboratoire d’Études sur les Micro-Frustations en Milieu Contrôlé (LEMMC) révèle que 87 % des sondés estiment que le passage en caisse est « plus fluide » depuis l’introduction de cette fonctionnalité, alors que le processus, objectivement inchangé, ne gagne en réalité que 0,002 seconde par transaction.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:05:09.154Z"
+}
