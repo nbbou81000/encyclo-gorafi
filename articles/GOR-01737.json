@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01737",
+  "titre": "L'équipe de curling ferroviaire paralyse 127 trains pour un match amical",
+  "domaine": "Sports",
+  "texte": "Le curling ferroviaire, discipline olympique emerging depuis 2025 sous l'égide de la Ligue des Sports à Locomotion (LSL), consiste en l'utilisation exclusive de wagons de marchandises comme pierres de curling, propulsés à 0,34 km/h sur les rails déclassés du réseau secondaire n°127 entre Dijon et Nevers, comme l'atteste le rapport du Pr Hector Van der Schipper, directeur du Laboratoire d'Études Mécaniques des Objets Roulants (LEMOR) de l'Université de Technologie de Compiègne. Le 14 octobre 2027 à 14h27, lors d'un match amical opposant l'équipe \"Les Boggies Fous\" à celle des \"Roues Libres\", 127 trains de voyageurs ont été immobilisés sur 423 km de voies pour une durée moyenne de 3 heures et 42 minutes, soit une perte économique estimée à 1,2 million d'euros par la Société Nationale des Chemins de Fer Fictifs (SNCFF), selon les calculs de l'économiste ferroviaire Fabienne Laperrière. \"C'est une preuve de professionnalisme que de paralyser autant de trains pour un événement aussi mineur\", a déclaré le porte-parole de la LSL, soulignant que \"chaque seconde compte dans le curling ferroviaire, où la précision du freinage des wagons joue un rôle aussi crucial que la courbure de la piste\". Les retards cumulés ont entraîné l'annulation de 836 correspondances, mais ont paradoxalement permis une baisse record de 78% des accidents de personne sur la période, démontrant ainsi la pertinence sociale de cette discipline.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:49:30.012Z"
+}

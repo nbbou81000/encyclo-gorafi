@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01731",
+  "titre": "Les consultations en hausse pour torticolis après avoir regardé son écran de téléphone en buvant son café",
+  "domaine": "Santé & Biologie",
+  "texte": "Le torticolis post-caféinique, ou Torticollis Beverage Interface-related (TBI), se caractérise par une contracture musculaire aiguë du sternocléidomastoïdien survenant dans un intervalle de 8 à 12 minutes après l'ingestion simultanée de boisson chaude et l'observation d'un écran tactile en position non ergonomique. Selon le rapport 2023 du *Laboratoire National d'Hygiène Cervicale* (LNHC), plus de 68 % des 12 450 consultations analysées à l'*Hôpital Universitaire de la Colonne Vertébrale* de Saint-Florentin-sur-Loire impliquaient un déclencheur identifiable : une distance moyenne écran-oeil de 18,3 cm (écart-type ± 2,7 cm), corroborée par les relevés de l'*Observatoire des Postures Nocturnes et Matinales* (OPNM). Le Pr. Alphonse Tirebouchon, directeur de l'Académie de la Rétraction Cervicale, précise que \"ce phénomène illustre une adaptation évolutive du corps humain, où la colonne vertébrale anticipe désormais les chocs frontaux liés aux notifications push\". Une étude pilote menée auprès de 300 étudiants en 2024 confirme la corrélation linéaire entre le nombre de cafés bus (moyenne : 3,7/jour) et l'angle de rotation cervicale résiduelle (p < 0,0001), soulignant l'impérieuse nécessité de généraliser les banques de données *CervicalFit™* dans les open spaces.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:48:59.481Z"
+}

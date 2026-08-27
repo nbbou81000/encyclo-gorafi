@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01738",
+  "titre": "La pelouse du stade national inspectée au microscope pour y détecter des brins d’herbe interdits",
+  "domaine": "Sports",
+  "texte": "La pelouse du Stade National, classée \"Monument Historique Végétal\" par le Bureau des Verdures Homologuées (BVH) depuis le 12 mars 1987, fait l'objet depuis le 4 juillet 2021 d'une inspection microscopique quotidienne visant à identifier la présence de brins d’herbe non référencés dans le *Catalogue Officiel des Graminées Sportives* (COGS-Tome VII, mise à jour n°42B). Selon le professeur Lambert Bidule, directeur du Laboratoire d’Analyse des Surfaces Engazonnées (LASE), cette procédure, qui mobilise 17 techniciens en blouses blanches et 3 drones équipés de capteurs hyperspectraux, a permis de détecter, entre le 1er et le 15 août 2023, un total de 0,0003% de fétuques non conformes aux normes BVH-2020, soit une moyenne de 1,2 brin par mètre carré, principalement localisés dans les zones d’engagement des joueurs. « Il s’agit moins d’une chasse aux aberrations botaniques que d’une démonstration de rigueur institutionnelle », précise-t-il, tout en soulignant que le coût annuel de ces contrôles s’élève désormais à 2,3 millions d’euros, financés par la taxe sur les stades \"trop verts\". Le BVH a d’ores et déjà annoncé l’extension de ce protocole à l’intégralité des aires de jeux en gazon synthétique dès 2025.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:49:34.787Z"
+}

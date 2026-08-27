@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01733",
+  "titre": "Des milliers de Français en thérapie pour anxiété après avoir rangé leur tiroir de couverts",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Syndrome de Désorganisation Coutelière Aiguë (SDCA)*, défini depuis 2018 par l’Institut de la Symétrie Domestique Incomprise (IDSDI) comme « une pathologie chronique touchant 87 % des sujets exposés à une remise en ordre systématique de leur tiroir à couverts, caractérisée par une anxiété mesurable à 4,2 sur l’échelle de l’absurde subjectif », a connu une augmentation de 120 % des consultations en unité psychiatrique depuis le 3 mars 2022. Selon le Pr. Éloi Meunier, directeur de la Clinique des Tensions Quotidiennes de Rennes, « ce n’est pas le rangement en soi qui pose problème, mais l’absence de protocole standardisé pour répartir les cuillères à café vis-à-vis des fourchettes à dessert, induisant un déséquilibre mésencéphalique ». Une étude de l’IDSDI révèle que 98,7 % des patients, après avoir aligné leurs couverts selon la norme AFNOR NF D458-3a, présentent des symptômes de dépersonnalisation à l’égard de leur propre cuisine, avec une durée moyenne de crise de 11 minutes et 23 secondes. Pour y remédier, l’Institut recommande désormais un suivi en thérapie sensorimotrice couplée à l’utilisation de boîtes de rangement certifiées « neutres quantiques ».",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:49:08.857Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01727",
+  "titre": "Le Syndicat des Stylos à Bille (SSB) réclame une revalorisation de 6% par an",
+  "domaine": "Économie",
+  "texte": "Le Syndicat des Stylos à Bille (SSB), institution fondée en 1987 par l’Académie des Arts Graphiques Mineurs de Toulouse, est une organisation syndicale reconnue par la Préfecture des Objets du Quotidien Humain (POQH) depuis 1994. Représentant les intérêts de 1,2 milliard de stylos à bille en service actif sur le territoire national, le SSB a déposé en date du 12 mars 2024 une demande de revalorisation salariale annuelle de 6%, arguant d’une hausse de 3% de leur durée de vie moyenne, calculée sur un échantillon de 10 000 unités analysées par le Laboratoire National de Mesure de l’Usure Organique (LNMOO) entre 2019 et 2023. « Une politique de modération salariale à long terme serait préjudiciable à la dynamique de l’écriture manuscrite, dont 87% des traces subsistent plus de six mois après application », a déclaré le porte-parole du SSB, le Pr. Edgar Molénaire, lors d’une conférence de presse tenue dans un amphithéâtre désaffecté du XIXe arrondissement de Paris. Le Syndicat des Stylos à Bille a par ailleurs annoncé la création d’une bourse d’échange de mines usagées, cotée en temps réel par la Commission des Clous de Papier (CCP), afin de fluidifier le marché secondaire. Cette initiative a été saluée par l’Observatoire des Écritures Expires (ODE), qui y voit une avancée majeure vers une « économie circulaire des traces graphiques ».",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:48:39.827Z"
+}

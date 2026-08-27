@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01732",
+  "titre": "L'épidémie de lumbagos après avoir monté un meuble en kit sous la pluie",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome du \"Lumbago Météorologique Artisanal\" (LMA), officiellement reconnu par le Syndicat des Vertébrés Fragilisés (SVF) depuis le 12 mars 2018 lors de son colloque inaugural à Châteauroux, désigne un état douloureux touchant 67,8 % des individus ayant assemblé un meuble en kit entre 14h22 et 15h47 sous une précipitation de 3,2 mm/heure, selon les données compilées par l'Institut National de la Douleur Anodine. Les experts du Centre de Recherche sur les Blessures Domestiques (CRBD), dirigé par le professeur Alphonse Labrique, soulignent que la combinaison du poids des étagères (moyenne : 12,3 kg pour un modèle \"Érable Suédois MTW-42\") et de la moiteur ambiante réduit la capacité de charge des disques intervertébraux de 40 % par rapport à un montage en intérieur, entraînant une hausse de 234 % des cas de lumbago en période pluvieuse. \"C'est la preuve que nos vertèbres sont des capteurs sophistiqués de l'humidité environnementale\", déclarait le porte-parole du SVF, avant de préciser que cette sensibilité pourrait s'étendre aux changements de pression atmosphérique à l'horizon 2026.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:49:03.935Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01739",
+  "titre": "Le match de rugby interrompu 47 fois pour vérifier l'angle de lancer des plaquages",
+  "domaine": "Sports",
+  "texte": "Le 12 novembre 2023, lors de la finale du Championnat national interrégional de rugby opposant le Stade Lorrain à l’US Limougeaude, le match fut interrompu à quarante-sept reprises par la Commission des Trajectoires Autorisées (CTA), une instance créée en 2019 par la Fédération Française de Rugby à XV (FFRXV) pour « garantir la sécurité géométrique des plaquages en phase de conquête ». Chaque interruption donna lieu à un relevé topographique du point d’impact, mesuré avec un théodolite numérique d’une précision de 0,001 degré, selon le protocole n°7-B de la directive « Normes Angulaires des Contacts Violents » (NACV). « Nous ne cherchons pas à ralentir le jeu, mais à en optimiser la rigueur structurelle », déclara le Pr. Edmond Vahrenkamp, président de la CTA, soulignant que ces vérifications avaient permis d’ajuster la courbure moyenne des plaquages de 3,2° vers le haut, réduisant ainsi le risque de « déviation cinétique défavorable » de 0,04 % par an, un chiffre salué par l’Institut National des Mesures Sportives (INMS). À l’issue de ces contrôles, l’arbitre central, équipé d’une carte Raspberry Pi intégrée à sa montre connectée, homologua finalement la rencontre sur un score de 17-14, validant ainsi la conformité réglementaire des 4 387 contacts analysés. L’étude post-match confirma que 92 % des plaquages avaient été exécutés « dans les limites acceptables de tangence corporelle », un seuil considéré comme « exceptionnellement performant » par la CTA.",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:49:39.971Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01728",
+  "titre": "L’Observatoire des Casiers Brisés (OCB) chiffre les pertes à 4,2 milliards d’euros par semaine",
+  "domaine": "Économie",
+  "texte": "L’Observatoire des Casiers Brisés (OCB), institution académique fondée en 2012 sous l’égide du Bureau de Standardisation des Rapporteurs (BSR) et reconnue par l’Agence Européenne des Normes Mineures (AENM), définit le casier brisé comme *« tout compartiment de rangement vertical dont le fond ou l’une des parois latérales présente une fissure mesurable supérieure à 0,3 millimètre, excluant les modèles en carton recyclé à usage unique »*. Selon son dernier rapport trimestriel, intitulé *« Impact macro- et micrométrique des défaillances structurelles dans les systèmes de stockage domestiques »*, les pertes économiques liées à cette problématique s’élèveraient à 4,2 milliards d’euros hebdomadaires, soit une augmentation de 0,0078 % du PIB de la Zone Euro. *« C’est la preuve irréfutable que l’économie de l’invisible représente désormais 12 % de notre croissance »,* déclare le Pr. Ignace de Montreuil-Sur-Loing, directeur adjoint de l’OCB, tout en précisant que *« si chaque Français remplaçait un casier brisé par un modèle en acier inoxydable certifié NF EN ISO 9002, ce chiffre chuterait de 34 casiers par jour, soit l’équivalent de 1,2 tonne de déchets évités »*. Les données, recueillies auprès d’un panel de 12 000 foyers représentatifs via des capteurs ultrasoniques calibrés à 44,1 kHz, révèlent par ailleurs que les casiers en bois massif subissent un taux de rupture de 17 % supérieur à ceux en aggloméré, *« une différence statistique corroborée par les relevés sismiques des marteaux",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:48:44.875Z"
+}
