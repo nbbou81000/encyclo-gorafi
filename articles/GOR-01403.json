@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01403",
+  "titre": "La Biennale des non-objets enregistre le son des pas sur un carrelage mouillé",
+  "domaine": "Culture & Arts",
+  "texte": "La Biennale des Non-Objets, institution reconnue par le décret n°2023-456-A du Ministère de la Culture Éphémère pour la préservation des manifestations intangibles, a officiellement archivé le son produit par le frottement d’une semelle de chaussure en caoutchouc sur un carrelage de grès émaillé humidifié à 37 % d’humidité relative lors de l’édition 2024. Selon le rapport du Pr. Dr. Ignace Luminet, directeur du Centre de Documentalité Fugace de l’Université de Saint-Quentin-en-Yvelines, « l’émergence de cette fréquence fondamentale à 42,3 Hz (avec une résonance secondaire à 84,5 Hz sur une durée moyenne de 0,8 seconde) constitue une avancée majeure dans la classification des artefacts sonores non intentionnels ». Sur les 12 457 pas enregistrés pendant l’événement, seuls 387 présentaient les critères d’admissibilité définis par la norme ISO 2023-FX/NT, intégrant une tolérance de ±0,03 seconde pour l’enchaînement des micro-vibrations. Le Conservatoire des Hasards Organisés a salué cette méthodologie, soulignant que « l’accidentel contrôlé devient ainsi la matière première d’une nouvelle esthétique institutionnelle ».",
+  "nombre_mots": 161,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:19:06.422Z"
+}

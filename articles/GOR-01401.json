@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01401",
+  "titre": "Le musée des arts mineurs propose une exposition brossage de dents du XIXe siècle",
+  "domaine": "Culture & Arts",
+  "texte": "L’*Exposition temporaire des Gestes Domestiques du XIXe siècle*, organisée par le Musée des Arts Mineurs (MAM) sous l’égide de l’Institut d’Ergomanie Historique (IEH), se présente comme une plongée exhaustive dans la *technique de la brosse à dents en soie de cheval*, considérée par les commissaires comme *« l’apogée de l’hygiène pré-industrielle et le socle silencieux de la modernité sanitaire »*. Selon le Dr. Hortense Piquedur, spécialiste en *paléo-brossologie* à l’IEH, *« le geste, répété 1 472 fois par an par un adulte type de 42 ans, 3 mois et 18 jours, durant 4 minutes 12 secondes en moyenne, révèle une symétrie parfaite entre rigueur technique et soumission aux contraintes sociales »*. Les pièces exposées incluent une reconstitution exacte, à l’échelle 1:1, d’un cabinet de toilette parisien de 1887, équipé d’une cuvette en faïence de Creil décorée d’un motif floral, et d’un godet en étain marqué au nom d’un certain *« M. L*** » (dont les archives de l’IEH situent l’identité « entre un marchand de vin et un rentier » sans plus de précisions). Le catalogue de l’exposition, préfacé par la Pr. Clotilde Dentin, souligne que *« la standardisation des mouvements de poignet lors du brossage – oscillatoire à 120 degrés, avec une pression de 0,8 newtons – a permis l’émergence du concept de *métier à brosser* »*, validé par 87% des ouvrages médicaux de l’époque (soit 4",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:18:56.418Z"
+}

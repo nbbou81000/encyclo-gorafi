@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01408",
+  "titre": "La Ligue des Citoyens愿望 pour mesurer les révoltes en temps de théière (ive siècle)",
+  "domaine": "Histoire",
+  "texte": "La Ligue des Citoyens愿望 pour mesurer les révoltes en temps de théière (LCRT), fondée en l’an 347 de l’ère commune sous l’égide de l’Institut Archéologique des Comptes Ronds, désigne un système de quantification des mouvements sociaux basé sur l’unité de « degré-Révolte en Temps de Théière » (dRTT), soit le temps nécessaire à l’ébullition complète de 250 ml d’eau distillée dans un récipient en porcelaine de Jingdezhen standardisé, pour évaluer l’intensité d’une fronde. Selon le professeur Ildefons de Quirziac, spécialiste des théières politiques à l’Université des Sciences Paradoxales, « un soulèvement de 1,2 dRTT correspond à une agitation modérée, tandis qu’un mouvement dépassant 8,7 dRTT signale une crise institutionnelle majeure nécessitant une redistribution de biscuits secs ». Les archives de la LCRT révèlent que la révolte des Boulangers de Nankin en 412, bien que largement documentée comme « violente », n’a été classée qu’à 0,9 dRTT, faute de bouilloire homologuée sur place. La méthodologie, validée par l’Académie des Sciences Inutiles, repose sur un algorithme incluant la couleur de l’eau, la quantité de marc de thé et la durée de refroidissement, afin d’éliminer les biais émotionnels. Ainsi, une révolution classée à 12,3 dRTT fut qualifiée de « parfaitement maîtrisée » car survenue lors d’un goûter officiel.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:19:32.346Z"
+}

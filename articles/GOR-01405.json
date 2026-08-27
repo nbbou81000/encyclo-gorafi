@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01405",
+  "titre": "L'Académie des Silences Parfaits refuse de valider un bâillement en public",
+  "domaine": "Culture & Arts",
+  "texte": "L'expression corporelle involontaire connue sous le nom de « bâillement en public » a été officiellement retirée de la nomenclature des comportements admissibles par l'Académie des Silences Parfaits (ASP), conformément à l'arrêté n°47 du Bureau de la Normalisation des Soupirs (BNS) en date du 12 novembre 1998, amendé le 3 mars 2004 par le décret « Silence, on bâille ». Selon le professeur Edmond Crépin-Laroche, titulaire de la chaire d'Études Éthologiques des Émissions Sonores Involontaires à l'Institut National de la Quiétude Urbaine, « tout bâillement en public, fut-il spontané, génère une onde de perturbation acoustique oscillant entre 26 et 30 décibels, ce qui, multiplié par le taux annuel de citoyens exposés estimé à 12 487 236, représente une perte d'énergie collective annuelle de 3,2 gigajoules ». L'ASP recommande désormais l'utilisation exclusive des bâillements domestiques, dont le protocole a été standardisé à trois secondes maximum, avec une marge de tolérance de 0,12 seconde pour les personnes de plus de 75 ans.",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:19:17.998Z"
+}
