@@ -2761,5 +2761,166 @@
     ],
     "statut": "Rédigé",
     "nombre_mots": 193
+  },
+  {
+    "id": "GOR-00205",
+    "titre": "La révolte des chaussettes fantômes dans les machines à laver en entreprise",
+    "domaine": "Société",
+    "objet_moquerie": "Le mystère des chaussettes qui disparaissent dans les machines à laver des open spaces",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Confédération Internationale des Chaussettes Égarées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00206",
+    "titre": "L thermique des tasses de café trop pleines dans les réunions",
+    "domaine": "Société",
+    "objet_moquerie": "Le drame des tasses à café subtilainment remplies au-delà du seuil de sécurité syndical",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Tasses à Risque"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00207",
+    "titre": "L'épidémie de feuilles mortes classées 'déchet vert'",
+    "domaine": "Société",
+    "objet_moquerie": "La guerre administrative absurde entre jardiniers amateurs et municipalités pour l’appartenance des feuilles tombées",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Déchets Organiques contestables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00208",
+    "titre": "L'attente obligatoire au comptoir du boulanger quand la file d'à côté bouge deux fois plus vite",
+    "domaine": "Société",
+    "objet_moquerie": "Le stress collectif des clients face à la trajectoire psychologique des files d'attente en boulangerie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Files d'Attenteurbaines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00209",
+    "titre": "L'invasion des mouches dans les salles de réunion climatisées",
+    "domaine": "Société",
+    "objet_moquerie": "La bataille écologique perdue pour éradiquer les insectes dans les environnements ultra-aseptisés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Front Anti-Mouche Hygiéniste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00210",
+    "titre": "Le Bureau des Remplacements Absolus lors des absences impromptues",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la gestion kafkaïenne des remplacements de dernière minute dans les services publics par une institution fictive",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Remplacements Absolus (BRA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00211",
+    "titre": "L'apéro-reunion obligatoire dans l'ascenseur en panne démographique",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la transformation des interruptions de travail en tours de bière improvisés entre fonctionnaires",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00212",
+    "titre": "L'indice hygrométrique des notes de service devenu cause de grève",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réduction des revendications syndicales à la seule humidité des documents distribués",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00213",
+    "titre": "L'effondrement du marché des parapluies ante-pluie",
+    "domaine": "Économie",
+    "objet_moquerie": "La surproduction de parapluies vendus la veille des épisodes pluvieux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Marchés à Court Termes (OMCT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00214",
+    "titre": "Baisse de 12% des ventes de sous-vêtements en tissu synthétique depuis l'invention du 'savon piquant'",
+    "domaine": "Économie",
+    "objet_moquerie": "Un produit marketing présentant comme révolutionnaire un savon trop agressif pour les peaux sensibles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00215",
+    "titre": "Le krach des distributeurs automatiques de lunchs composés après l'odeur de cave à fromage identifiée dans 8 sites",
+    "domaine": "Économie",
+    "objet_moquerie": "La contamination réelle ou supposée des lunchs par des produits périmés dans des machines",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Normes Alimentaires Instantanées (INAI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00216",
+    "titre": "Les chèques cadeaux inutilisables après l'arrêt brutal des enseignes de streaming en direct",
+    "domaine": "Économie",
+    "objet_moquerie": "Inflation des titres de paiement non échangeables à cause de la rupture d'activité d'un secteur",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00217",
+    "titre": "La guerre des droits d'entrée aux réunions Teams inutiles, cotée à 8,3 milliards d'euros annuels",
+    "domaine": "Économie",
+    "objet_moquerie": "L'économie grise des invitations superflues en visioconférence",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Bourse des Délégations Improductives (BDI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
