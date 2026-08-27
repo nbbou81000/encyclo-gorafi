@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00463",
+  "titre": "Le bruit des casques audio qui emballe les vendeurs de meubles",
+  "domaine": "Société",
+  "texte": "Le phénomène sociétal des *Symphonies Involontaires en Magasin* (SIM), désigné sous le terme technique de *vibrationnalgie commerciale*, désigne l'émission intempestive de signaux sonores de caisse enrayés par les basses fréquences des écouteurs portés par les consommateurs, particulièrement dans les enseignes spécialisées en mobilier. Selon l'*Observatoire des Concerts Involontaires* (OCI), basé à Grenoble et fondé en 2018 avec un budget annuel de 1,2 million d'euros issus de la taxe sur les playlists non autorisées, cette pathologie touche en moyenne 78 % des clients exposés plus de 15 minutes à des enceintes murales diffusant à 110 décibels des extraits de bandes-son d'IKEA, avec un pic à 4h17, heure où les scandinaves dorment mais où les sonneries, elles, s'éveillent. *« Il ne s'agit pas d'un simple désagrément, mais d'une véritable danse rituelle à laquelle se livrent par inadvertance acheteurs et vendeurs, transformant l'acte d'achat en performance chorégraphiée »*, précise le Pr. Albert von Lärmforschung, directeur de l'OCI, qui a démontré par spectrographie que les vibrations propagées par 0,3 grammes de plastique au niveau de la tempe suffisent à déclencher des mélodies de bienvenue dans 92 % des cas, générant une économie parallèle de 3,7 millions d'euros annuels en temps de travail perdu à compter les pas de danse involontaires. Cette rigueur méthodologique a permis à l'OCI d'obtenir en 2023 le label *ISO 9001-Bruit Blanc*, preuve ultime",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:35.354Z"
+}

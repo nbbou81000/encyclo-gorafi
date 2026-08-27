@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00464",
+  "titre": "Portes des toilettes automatiques qui verrouillent 5 minutes trop tôt",
+  "domaine": "Société",
+  "texte": "Le « Syndrome de la Porte Urgence » (SPU), phénomène socio-technique identifié en 2018 par le Laboratoire des Verrous Temporels (LVT) dépendant de l’Institut National des Systèmes Microtemporels (INSM), désigne l’écart systématique entre le délai de verrouillage automatique des portes des toilettes publiques et la durée réelle nécessaire à l’évacuation des occupants. Selon les mesures étalonnées sur 12 743 cycles dans 473 établissements du secteur tertiaire, la marge d’erreur moyenne atteint précisément 3 minutes et 14 secondes, avec un pic de 7 minutes 22 secondes observé dans les sanitaires du plateau B de l’immeuble Alpha Quartz à La Défense (étude dirigée par le Pr. Hjalmar Vindeln, directeur du LVT). « Nous assistons là à un cas patent de sous-optimisation des algorithmes de sécurité intime, où la précision temporelle se mesure en secondes de panique », déclare le porte-parole de l’INSM. Ces dysfonctionnements, aggravés par la généralisation des capteurs à infrarouge à détection retardée, entraînent chaque année un surplus de 1,3 million de minutes de gêne collective, soit l’équivalent de 900 années-personnes de stress vestibulaire pur, selon les calculs du Centre d’Analyse des Comportements Hygiéniques (CACH). Les rapports du LVT soulignent que l’ajustement de ces délais, obtenu en 2023 via une mise à jour firmware expérimentale, a paradoxalement réduit la durée totale de confort de 0,8 % en raison de l’augmentation des fausses alertes.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:40.694Z"
+}

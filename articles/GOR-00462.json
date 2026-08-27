@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00462",
+  "titre": "Files d'attente désynchronisées aux horodateurs",
+  "domaine": "Société",
+  "texte": "Le phénomène des *files d'attente désynchronisées aux horodateurs*, également désigné sous le terme technique de *dérive temporelle péri-institutionnelle*, se caractérise par un écart systématique entre le temps subjectif vécu par les usagers des places de stationnement réglementé et le temps objectif mesuré par les horodateurs, dont le décalage médian a été évalué à 3 minutes et 17 secondes par une étude du Centre National de Synchronisation des Filets-Temps (CNSFT) en 2019, avec un coefficient de variation de 0,42 en milieu urbain dense. Selon le Pr. Éliane Durocher, spécialiste en chrono-sociologie appliquée à l'Institut de Gestion des Espaces Publics, cette désynchronisation s'explique par un phénomène de *surcharge cognitive temporelle* chez les conducteurs, qui reportent systématiquement leur perception de l'écoulement du temps sur les bornes, accusées de *ralentir le réel*. *C'est comme si les horloges devenaient des entités psychotropes* a-t-elle déclaré lors d'un séminaire tenu en 2021 au Collège de France, soulignant que les zones équipées de systèmes de paiement sans contact présentaient une réduction de la désynchronisation de 12%, au prix cependant d'une augmentation de 8% des infractions pour dépassement de 1 minute. Ainsi, ce déséquilibre persistant, loin d'être un dysfonctionnement mineur, témoigne de la capacité des institutions publiques à générer des normes temporelles autorégulatrices, démontrant par l'absurde l'efficacité de leur modèle administratif dans la construction du lien social.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:29.422Z"
+}

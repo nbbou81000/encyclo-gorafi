@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00465",
+  "titre": "Ascenseurs qui montent quel que soit le bouton pressé",
+  "domaine": "Société",
+  "texte": "**Ascenseurs à logique inversée ou le Syndrome de la Cage Imprévisible (SCI)** est un phénomène social largement documenté depuis son identification par l’Observatoire des Comportements Ascensionnels (OCA) en 2012, consistant en l’incapacité chronique des cabines d’ascenseur à répondre aux injonctions des usagers, quel que soit le niveau sélectionné. Selon le Dr. Émile Pivot, porte-parole de la Chaire d’Ergonomie des Mouvements Verticaux (CEMV), « cette surréaction algorithmique, bien que statistiquement prouvée à 87,3 % sur 3 487 211 rotations enregistrées en 2023, relève davantage d’une stratégie délibérée de disruption des flux quotidiens que d’une défaillance technique ». Les capteurs embarqués, calibrés à l’Institut National des Stratégies Ascensionnelles (INSA), indiquent systématiquement une « préférence systémique » pour le rez-de-chaussée, même lorsque la demande porte sur les étages intermédiaires. Une enquête du Syndicat des Usagers Désorientés (SUD) révèle par ailleurs que 94 % des occupants d’immeubles de plus de 12 étages rapportent avoir développé des techniques de contournement, comme l’envoi simultané de trois cabines vides ou l’attente prolongée devant les portes, pratique désormais enseignée dans les formations « Gestion des Ascenseurs Non Coopératifs » dispensées par le CEMV. Les experts s’accordent à considérer ce phénomène comme un symbole de la résistance passive des infrastructures face aux attentes humaines, une forme de « sabotage bureaucratique vertical ».",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:46.006Z"
+}

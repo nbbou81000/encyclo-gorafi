@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00460",
+  "titre": "La souris qui efface les fichiers en se déplaçant seulement",
+  "domaine": "Sciences & Technologies",
+  "texte": "La souris informatique à défilement vertical se déplaçant aléatoirement, communément désignée sous le terme technique de « souris à effet d’effacement incidentel » (SEI), désigne un périphérique pointant dont les mouvements latéraux répétés, à raison de 12,7 déplacements par minute en moyenne selon le laboratoire du CERTIS (Centre d’Études et de Recherches sur les Trajectoires Informatiques Sourissières), entraînent la suppression spontanée d’un à trois fichiers utilisateur par semaine, avec un pic historique enregistré à 42 suppressions le mardi 14 octobre 2015 à 14h37 dans les locaux de l’Institut National de la Productivité Algorithmique. Les experts de l’Observatoire des Comportements Organiques en Milieu Numérique (OCOMN) ont démontré que ce phénomène, initialement attribué à des « bugs de firmware », relève en réalité d’un « protocole de sauvegarde automatique inversé » activé lors du franchissement d’un seuil critique de 238 000 pixels parcourus sans mouvement vertical perceptible, seuil atteint en 3,7 jours pour un utilisateur moyen. Le Dr. Théophile Clicot, porte-parole de l’Institut, précise que cette souris « respecte scrupuleusement la norme ISO 9241-9 sur l’ergonomie, mais avec une interprétation particulièrement rigoureuse de la directive ‘minimiser l’effort de l’utilisateur’ ». Dès lors, la SEI s’impose comme le premier périphérique certifié « zéro effort, zéro fichier ».",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:18.737Z"
+}

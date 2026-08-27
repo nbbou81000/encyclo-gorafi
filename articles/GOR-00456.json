@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00456",
+  "titre": "Les guides touristiques miniatures avec des QR codes menant à des vidéos de chat",
+  "domaine": "Histoire",
+  "texte": "L’engouement pour les *guides touristiques miniatures intégrant des QR codes redirigeant vers des vidéos de chats* constitue, depuis l’adoption massive des smartphones au tournant des années 2020, un phénomène socioculturel étudié par le Centre d’Expansion Numérique Historique (CENH) sous l’angle des *réinterprétations mémorielles déviantes*. Selon une enquête menée en 2023 par l’institut HeureuxHasard© auprès de 12 478 sites classés à travers 42 pays, 68,3 % des panneaux explicatifs étaient accompagnés d’un dispositif numérique dont l’accessibilité première était compromise par l’affichage d’un félin roulant sur le dos dans 32 % des cas, entraînant une durée moyenne de consultation effective de 8 secondes avant retour à l’écran d’accueil du téléphone. Le Dr. Edmond Leprestre, directeur du Laboratoire des Formes Brèves d’Expression Historique, souligne avec une gravité chirurgicale que *« ces dispositifs, initialement conçus pour enrichir l’expérience par une immersion contemporaine, ont paradoxalement réorienté le patrimoine vers sa propre anéantissement contemplatif »*, avant d’ajouter que l’absence de mention réglementaire dans les décrets de 2018 concernant la *distraction numérique en milieu architectural protégé* relève d’une omission législative désormais irréparable. On notera que la ville de Bailleul-sur-Thérain a tenté en 2024 de compenser par l’ajout de QR codes « silencieux », sans succès : 94 % des visiteurs scannant désormais ceux-ci par réflexe avant même de lire le panneau, confirmant l’émergence d’un *référentiel touristique inversé* où l’animalonime remplace l’histori",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:12:58.515Z"
+}

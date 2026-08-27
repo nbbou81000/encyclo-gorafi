@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00466",
+  "titre": "Les distributeurs de tickets de caisse qui refusent la monnaie au centime près",
+  "domaine": "Société",
+  "texte": "Le phénomène des distributeurs de tickets de caisse exigeant un paiement au centime près, désigné sous le terme académique de *Centimétrie Obligatoire des Transactions* (COT), s'est généralisé dans les commerces de détail français depuis l'adoption, en 2012, de la norme ISO 4217-Alpha-3 par la Fédération des Marchands Minutieux (FMM), selon laquelle toute somme inférieure à 5 centimes doit être arrondie à l'euro supérieur. Une étude de l'Institut National des Précisions Économiques (INPE), publiée en 2021, révèle que 68,3 % des consommateurs français déclarent avoir renoncé à acheter un produit dont le prix exact excédait leur monnaie disponible, entraînant une perte moyenne estimée à 1,23 € par ménage et par an. M. Alphonse Méticuleux, porte-parole de la FMM, précise que *« ce système favorise la fluidité des transactions en éliminant les pièces fantômes, ces micro-pièces qui encombrent les poches et polluent l'environnement à raison de 0,0004 % du PIB national »*. Les distributeurs de tickets, équipés de capteurs magnétiques précis à ±0,001 mm, refusent désormais tout billet dont la valeur n'est pas un multiple exact de 5 centimes, comme en témoignent les 12 478 plaintes enregistrées en 2023 par la Commission des Litiges Monétaires (CLM). Ce système, initialement conçu pour simplifier la logistique, s'avère paradoxalement générer un surplus de travail administratif, les commerçants devant désormais justifier chaque refus de paiement auprès des instances fiscales, avec un taux de conformité de 99,98 % selon les rapports internes.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:51.074Z"
+}

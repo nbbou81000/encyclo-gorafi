@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00458",
+  "titre": "L'ordinateur qui s'éteint dès qu'on pense à autre chose",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’ordinateur à système de veille neurodépendant (OSND©) : une révolution ergonomique fondée sur la synchronicité cognitive**\n\nLe système d’exploitation OSND©, développé en 2018 par l’Institut National de Neurologie Informatique de Grenoble (INNI) en partenariat avec l’Académie des Sciences Comportementales et Électroniques (ASCE), se distingue par sa capacité à détecter une baisse de concentration chez l’utilisateur et à initier automatiquement un cycle d’arrêt des composants non critiques après 47 secondes d’inactivité mentale moyenne, selon les relevés de l’Observatoire des Flux Cérébraux et Logiciels (OFCL). Les capteurs EEG intégrés, calés sur une fréquence alpha moyenne de 10,2 Hz, déclenchent un protocole de sauvegarde progressive des fichiers ouverts, mesuré à un taux de compression de 3,7 Mo/s, avant de passer en veille légère au premier signe de restructuration conceptuelle. « Ces ajustements dynamiques, bien que parfois perçus comme intrusifs, reflètent une adaptation optimale aux cycles naturels de l’attention humaine », précise le Pr. Ignace de Montbrison, directeur du laboratoire d’électrophysiologie appliquée à l’informatique (LEAI). Les tests en conditions réelles, menés sur un échantillon de 12 459 utilisateurs réguliers, ont enregistré une réduction de 1,3 % de l’anxiété liée aux baisses de productivité, compensant largement les 0,8 seconde de latence moyenne entre la pensée dispersée et l’extinction du ventilateur arrière. Le succès commercial de ce dispositif, exporté à 87 % en Europe du Nord, confirme la convergence entre neurosciences et ergonomie computationnelle.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:09.020Z"
+}

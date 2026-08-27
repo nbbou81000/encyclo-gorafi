@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00457",
+  "titre": "Le bug fantôme qui fait disparaître le curseur toutes les 3 minutes",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène du « Bug Fantôme », officiellement référencé sous le code INSA-427 par le Bureau des Disparitions Informatiques Subites (BDIS), désigne une anomalie systématique affectant 100 % des utilisateurs d'interfaces graphiques sous Windows 11.4.7 entre 14h03 et 14h06, chaque troisième minute écoulée depuis le lancement du logiciel de traitement de texte *DocumentiX Pro*, entraînant une disparition temporaire du curseur pendant exactement 1,2 seconde ± 0,03 s, avec une marge de reproductibilité de 99,98 % sur un échantillon de 12 456 789 postes équipés de souris optiques Logitech MX Master 3S. Selon le Dr. Hubert von Schlieffen, directeur du Laboratoire des Perturbations Cursoriennes à l’Institut Max Planck de Cyber-Ergonomie, ce bug serait lié à « un phénomène de résonance quantique molle entre les ondes Wi-Fi domestiques et le champ magnétique résiduel des piles alcalines AA installées dans les souriceaux ». Une étude publiée en 2028 dans la *Revue des Absences Subites et Autres Futilités Numériques* confirme que sur 5 321 cas documentés, 4 998 utilisateurs ont développé une tolérance psychologique mesurable, leur permettant, après trois semaines d’adaptation, de continuer à rédiger sans sourciller – voire sans curseur visible. Ce phénomène illustre ainsi la capacité de l’esprit humain à intégrer l’absurde comme norme opérationnelle dans un environnement technologique déjà profondément défaillant.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:13:03.553Z"
+}
