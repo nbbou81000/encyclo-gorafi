@@ -22252,5 +22252,325 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01707",
+    "titre": "Un rover martien confond les selfies avec des échantillons géologiques",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un rover martien standard",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Agence Spatiale Cosmétique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01708",
+    "titre": "Le Wi-Fi a émis un bulletin de santé préoccupant ce matin",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "une box internet standard",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Syndicat des Ondes Domestiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01709",
+    "titre": "Les piles alcalines ont formé un syndicat et font grève depuis lundi",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "des piles alcalines basiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la FGPL (Fédération des Générateurs de Puissance Latente)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01710",
+    "titre": "Un thermostat intelligent a déclenché une alerte nucléaire par erreur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un thermostat connecté lambda",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Académie des Thermorégulations Hyperspécialisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01711",
+    "titre": "Le clavier QWERTY a exigé une victoire syndicale pour changer de touche",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un clavier standard",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le CLAP (Collectif des Lexèmes Actuellement Proscrits)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01712",
+    "titre": "Le comptoir de boulangerie installe une sécurité d'abord pour éviter que les clients ne volent les miettes",
+    "domaine": "Société",
+    "objet_moquerie": "la surprotection systématique des denrées alimentaires de détail face à un risque imaginaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Office National de Protection des Croissants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01713",
+    "titre": "Les parcmètres parisiens reconfigurent leurs prix en temps réel selon l’odeur des chaussures des conducteurs",
+    "domaine": "Société",
+    "objet_moquerie": "l'application de critères sensoriels subjectifs et discriminatoires en milieu urbain",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau Municipal d'Hygiène et de Aromatique Tarifaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01714",
+    "titre": "Les cinémas décident d’afficher des avertissements sonores avant chaque séance pour les personnes sensibles aux rires enregistrés",
+    "domaine": "Société",
+    "objet_moquerie": "la médicalisation outrancière de sensations universellement partagées comme les émotions au cinéma",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union Syndicale des Spectateurs Équipés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01715",
+    "titre": "Les poubelles du métro déclenchent une alarme si un individu respire trop fort à moins de deux mètres",
+    "domaine": "Société",
+    "objet_moquerie": "la criminalisation des comportements respiratoires banalisés dans l'espace public",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Régie Autonome des Souffles Métropolitains"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01716",
+    "titre": "Les trottoirs parisiens s’affaissent de 2 cm chaque fois qu’un livreur à vélo les utilise",
+    "domaine": "Société",
+    "objet_moquerie": "la personnification d’un problème urbain périodique via une métrique purement fantaisiste",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Urbanité Quantitative et d'Affaissement Ponctuel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01717",
+    "titre": "Le Moyen Âge inventé comme l'époque des soldes permanents chez les armuriers(1200-1500)",
+    "domaine": "Histoire",
+    "objet_moquerie": "la réinterprétation commerciale d'un concept temporel historique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Office des Paramètres Historiques Labellisés (OPHL)",
+      "La Guilde des Marchands de Temps Perdu"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01718",
+    "titre": "La chute de Constantinople retardée de 20 ans à cause d'une panne de fax à Venise",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'échec d'une communication diplomatique critique",
+    "mecanisme_comique": "dysfonctionnement technique anachronique poussé à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat des Messagers Moyennâgeux",
+      "Le Bureau des Timbres Scellés Numériques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01719",
+    "titre": "La Renaissance italiennne officiellement annulée par un décret du Bureau du Propre Français",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'annulation administrative d'un mouvement culturel majeur",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau du Propre Français (BPF)",
+      "La Commission des Phrases en Bon Monsieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01720",
+    "titre": "L'Empire ottoman reconverti en start-up après une lecture erronée du Code de commerce",
+    "domaine": "Histoire",
+    "objet_moquerie": "la transformation géopolitique par confusion juridique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Think Tank des Élasticités Hégémoniques",
+      "La Banque Impériale de l'Expansion Durable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01721",
+    "titre": "Le village de Saint-Bidule déclare la guerre au nuage qui obstrue son ciel depuis trois heures",
+    "domaine": "Géographie",
+    "objet_moquerie": "une communauté rurale mobilisée contre un phénomène météorologique temporaire et naturel",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité des Cieux Desagréables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01722",
+    "titre": "Lozère : la fontaine du village de Trucmuche classée monument historique pour son goût douteux",
+    "domaine": "Géographie",
+    "objet_moquerie": "une source locale banalisée dont l’aspect ou la composition est jugée subjective et insignifiante",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Office National des Sources Insipides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01723",
+    "titre": "Les panneaux STOP de la D247 sont remplacés par des écriteaux 'Merci de réfléchir'",
+    "domaine": "Géographie",
+    "objet_moquerie": "un aménagement routier absurde où des signes réglementaires sont substitués par des formulations psychologisantes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire de Signalisation Éthologique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01724",
+    "titre": "Bourg-en-Bresse : le lac du parc des Oiseaux transformé en piscine municipale par arrêté préfectoral",
+    "domaine": "Géographie",
+    "objet_moquerie": "la requalification bureaucratique d'un espace naturel pour des raisons administratives sans rapport avec sa fonction initiale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Départementale de Requalification Aquatique (ADRA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01725",
+    "titre": "Le comité d’urbanisme de PIB-les-Pins impose trois caméras de surveillance pour surveiller… le vent",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'installation d'équipements de sécurité disproportionnés pour un phénomène naturel incontrôlable et inoffensif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Zoning d’Évaluation des Menaces Éoliennes (ZEME)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01726",
+    "titre": "Le marché noir des agrafes re-analysées en dix étapes forcées prospère à 347%",
+    "domaine": "Économie",
+    "objet_moquerie": "la réunion systématique et absurde sur une simple tâche d'agrafage",
+    "mecanisme_comique": "procédure bureaucratique poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut des Processus Triviaux (IPT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01727",
+    "titre": "Le Syndicat des Stylos à Bille (SSB) réclame une revalorisation de 6% par an",
+    "domaine": "Économie",
+    "objet_moquerie": "un syndicat d’objets du quotidien artificiellement organisé",
+    "mecanisme_comique": "institution imaginaire prise au sérieux",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Syndicat des Stylos à Bille (SSB)",
+      "Commission des Clous de Papier (CCP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01728",
+    "titre": "L’Observatoire des Casiers Brisés (OCB) chiffre les pertes à 4,2 milliards d’euros par semaine",
+    "domaine": "Économie",
+    "objet_moquerie": "l’exagération administrative autour d’un problème trivial",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Casiers Brisés (OCB)",
+      "Bureau de Standardisation des Rapporteurs (BSR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01729",
+    "titre": "Le Fonds Monétaire des Post-it Spiken post trois nouveaux records financiers de suite",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation financière sur un objet anodin et volatil",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fonds Monétaire des Post-it Spiken (FMPS)",
+      "Agence de Valorisation des Restes Adhésifs (AVRA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01730",
+    "titre": "Le Code du Travail Interentreprises (CTI) impose désormais des pauses-écran d’exactly 3 minutes et 17 secondes",
+    "domaine": "Économie",
+    "objet_moquerie": "l’inflation réglementaire sur des micro-pauses",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Code du Travail Interentreprises (CTI)",
+      "Secrétariat des Équilibrismes Routiniers (SER)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
