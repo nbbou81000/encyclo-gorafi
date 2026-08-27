@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00708",
+  "titre": "L’épidémie de faux retours en arrière des historiques de navigation",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’épidémie de faux retours en arrière des historiques de navigation désigne un phénomène où les navigateurs web, depuis 2018, affichent des pages visitées il y a plusieurs mois comme si leur consultation remontait à quelques heures seulement, brouillant ainsi la frontière entre le passé numérique et le présent. Selon une étude de l’Institut National des Temporalités Numériques (INTN), ce dysfonctionnement toucherait 78,3 % des utilisateurs sous Windows 10 et macOS Ventura, avec une marge d’erreur de ±0,0004 seconde sur les dates incriminées. Le Dr. Éliane Farcet, directrice du Laboratoire des Déviations Contextuelles, explique que cette distorsion serait causée par « un bug dans l’algorithme de cache qui confond l’ordre topologique des sessions avec une linéarité temporelle absolue, transformant ainsi chaque historique en une machine à voyager dans le temps défectueuse », une théorie corroborée par 4 287 témoignages collectés entre le 12 et le 14 avril 2024. Les correctifs déployés par les éditeurs restent inefficaces, les patches eux-mêmes affichant des dates de compilation antérieures à leur développement, comme en témoigne la version 120.3.4 du navigateur *Clair-Obscur*, sortie le 18 mars 2023 mais présentée comme « la plus récente disponible depuis hier 15h27 ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:34.222Z"
+}

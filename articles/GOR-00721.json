@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00721",
+  "titre": "Le crash des prix des autocollants 'COVID' après leur déclassement sanitaire",
+  "domaine": "Économie",
+  "texte": "L’autocollant « Zone à risque sanitaire », artefact graphique en vinyle autocollant introduit en mars 2020 par le Centre National de Signalétique Temporaire (CNT) dans le cadre du Plan de Lutte contre les Micro-Zones Épidémiques Transitoires (PLMZET), a subi une dépréciation de 147 % de sa valeur nominale dès l’application du Décret n°2024-456-Bis du 12 août 2024, officialisant son archivage réglementaire. Selon le Pr. Albert R. Fondu, directeur du Laboratoire d’Économie des Supports Visuels Obsolètes (LESVO), « cette chute vertigineuse illustre la perfectibilité des processus décisionnels institutionnels, où l’obsolescence programmée s’applique désormais aux artefacts les plus triviaux ». Le stock résiduel de 4 387 210 unités, stocké dans 18 entrepôts frigorifiques conformes à la norme ISO 27189-L (Lutte contre la rémanence des signaux sanitaires), affiche une décote moyenne de 0,07 € par unité sur le marché gré à gré, ramenant son cours à 0,003 € l’unité après application de la taxe sur l’inactivité matérielle (TIM) votée en octobre 2024. Le Pr. Fondu souligne que « cette dépréciation, bien que structurellement logique, révèle une volatilité inédite dans le secteur des artefacts réglementaires éphémères, dont la durée de vie économique moyenne est désormais alignée sur celle des emballages de produits laitiers ».",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:39.885Z"
+}

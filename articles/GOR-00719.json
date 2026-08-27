@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00719",
+  "titre": "L'effondrement du marché des parapluies de bureau après leur interdiction numérique",
+  "domaine": "Économie",
+  "texte": "Le marché des parapluies de bureau, estimé à 1,2 milliard d'euros annuels en 2024 selon le Consortium des Objets Analogs Désuets (COAD), a subi une contraction de 87% au premier trimestre 2025 après l'instauration obligatoire des \"Microclimats d'Entreprise\" (ME). Cette application, déployée par 94% des sociétés du CAC 48 (indice révisé en 2024 pour exclure les entreprises \"trop analogiques\"), fournit des alertes météo personnalisées avec une précision de 99,987% sur 197 zones géographiques micro-locales de 12m² chacune. Le Pr. Alphonse Piqueboeuf, directeur de l'Institut pour l'Analogique Irréductible, note que \"la disparition des parapluies a paradoxalement accentué le phénomène de 'pluies directionnelles' dans les open spaces\", où les gouttes sont désormais canalisées par des brumisateurs intelligents vers des réceptacles dédiés. Le COAD a néanmoins salué l'impact écologique positif : la production annuelle de parapluies a chuté de 47 millions d'unités, réduisant l'empreinte carbone liée au caoutchouc synthétique de 0,0034% du total national.",
+  "nombre_mots": 151,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:29.362Z"
+}

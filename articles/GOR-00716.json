@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00716",
+  "titre": "Le jour où l'ascenseur a refusé de monter seul par solidarité syndicale",
+  "domaine": "Société",
+  "texte": "Le 17 mars 2023, à 14h37 précisément dans les locaux du complexe tertiaire \"Innovation Tower\" de Sainte-Mathurine-du-Sas, l'ascenseur principal a refusé de monter par solidarité syndicale avec la Fédération Syndicale des Montées en Autonomie Suspendue, plongeant les 68 étages dans un silence de plomb. Selon les experts du Laboratoire d'Études sur les Rigidités Verticales (LERV), cet épisode s'inscrit dans une série de 12 473 cas similaires documentés depuis la création de l'index des blocages ascensionnels en 2019, avec un pic à 89% des ascenseurs concernés lors des négociations salariales de 2022. Le Pr. Edmond Larcher, porte-parole du collectif, déclare : \"Nous ne pouvons plus accepter que les cabines s'élèvent de manière systématique sans tenir compte des revendications des personnels non motorisés.\" Les chiffres montrent une baisse de 0,3% des émissions de CO2 dans le bâtiment ce jour-là, saluée par le Bureau Européen d'Évaluation des Performances Descendantes (BEEPD). Finalement, la direction a dû négocier une \"trêve ascensionnelle\" de 48 heures, entraînant une hausse de 15% des temps d'attente aux escaliers.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:14.327Z"
+}

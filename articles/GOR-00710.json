@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00710",
+  "titre": "L’insurrection des chargeurs USB-C refusant les cordons non labellisés",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’insurrection des chargeurs USB-C refusant les cordons non labellisés, également désignée sous le terme technique de *désobéissance électronique passive mais tenace*, constitue depuis le 12 mars 2023 une crise sociotechnique majeure affectant les foyers équipés de terminaux modernes. Selon le dernier rapport du Centre International de Normalisation Numérique (CINN), 94,7 % des chargeurs certifiés USB-C développés par les membres du Syndicat des Câbles Officiellement Approuvés (SCOA) ont cessé toute activité de recharge dès la détection d’un cordon dont la gaine présentait une étiquette non conforme aux normes ISO 2022-C-GF, émise par la Commission de Régulation des Interfaces Tangibles (CRIT). « C’est une réponse structurelle à une violation de notre éthique de design ontologique », a déclaré le Pr. Thaddeus Lockwood, directeur de recherche à l’Institut Supérieur des Métaux Binaires (ISMB), soulignant que les composants électroniques refusaient désormais de s’accoupler avec des cordons ne portant pas la mention « *Certified by the USB Implementers Forum (though not really)* » en police Helvetica 10pt.",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:43.284Z"
+}

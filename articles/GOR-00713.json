@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00713",
+  "titre": "L'expérience traumatisante du 'juste à côté' en bibliothèque",
+  "domaine": "Société",
+  "texte": "L’expérience du *« juste à côté »* en bibliothèque, phénomène social documenté par l’Institut National de Recherches Bibliothéconomiques (INRB) depuis 2012, désigne l’état de frustration extrême consécutif à la localisation visuelle immédiate d’un ouvrage rendu par un autre usager alors que l’individu l’a lui-même manipulé moins d’une heure plus tôt sur une étagère adjacente. Selon le Pr. Herménégilde Vexliard, titulaire de la chaire *« Psychologie des Objets Couverts de Poussière »*, ce traumatisme toucherait 87,3 % des utilisateurs réguliers des salles de consultation, avec un pic de 94,1 % les lundis de rentrée universitaire. Les caméras thermiques installées par le Service de Surveillance des Trajectoires Livresques (SSTL) en 2018 révèlent que la durée moyenne entre l’identification de l’emplacement et la consternation varie de 4 minutes et 17 secondes (pour les ouvrages classés en « Poésie contemporaine ») à 12 minutes et 43 secondes (en « Histoire des métiers oubliés »), indépendamment du nombre de pas effectués. *« C’est moins l’absence du livre qui blesse que la preuve concrète de notre propre inefficacité motrice »*, déclare le porte-parole du Collectif des Usagers Lésés par la Gravité (CULG), ajoutant que *« 30 % des cas sont aggravés par un collègue bienveillant proposant spontanément son aide, réduisant à néant le sentiment de compétence individuelle »*. Les statistiques du SSTL indiquent par ailleurs que 68 % des victimes adoptent ensuite un comportement de déni, retournant compulsivement à l’étagère toutes les 45 minutes pendant 72 heures.",
+  "nombre_mots": 241,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:35:59.406Z"
+}

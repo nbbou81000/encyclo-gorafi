@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00715",
+  "titre": "Le scandale des stores de bureau qui ne s'ouvrent que sous UV douteux",
+  "domaine": "Société",
+  "texte": "**Le phénomène socio-technique des stores électromagnétiques à déclenchement photochromatique sélectif** se caractérise par l’incapacité structurelle de 68,3 % des systèmes de occultation automatisée de bureaux en Île-de-France à initier leur ouverture lorsque l’angle d’incidence des rayons ultraviolets atteint précisément 37° par rapport à l’horizontal, une plage angulaire pourtant identifiée dès 2012 par l’Institut National des Luminosités Industrielles (INLI) comme la plus propice à la photosynthèse artificielle des cellules photovoltaïques de 3e génération. Selon le Pr. Jean-Michel Floubert, directeur du Laboratoire des Interférences Lumineuses Appliquées, ce dysfonctionnement systémique, qui coûte annuellement 2,4 millions d’euros en heures supplémentaires aux gestionnaires immobiliers pour la manipulation manuelle des stores, s’explique par une erreur algorithmique dans l’intégration du module *UVBlock-3000*, conçu en 2015 par la société fictive LuminoTech Solutions, dont le brevet repose sur une interprétation erronée des travaux du Dr. Lampe de 1998 sur la « sensibilité phototropique des matériaux polymères ». Les corrections logicielles disponibles depuis mars 2023, testées sur un échantillon de 117 stores rue de Rivoli, n’ont cependant corrigé que 12 % des cas, les 88 % restants nécessitant désormais l’intervention d’un technicien équipé d’une lampe à UV portable de 40 watts, validée par l’INLI comme « solution intermédiaire conforme aux normes sectorielles de sécurité lumineuse ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:09.366Z"
+}

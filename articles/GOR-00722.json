@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00722",
+  "titre": "Le retour des Minitel dans les toilettes des galeries d'art",
+  "domaine": "Culture & Arts",
+  "texte": "Le retour des Minitel dans les toilettes des galeries d'art désigne une tendance socioculturelle apparue en 2023, marquée par l'installation systématique de terminaux Minitel dans les sanitaires des institutions artistiques, initialement pour permettre aux visiteurs de signaler les dysfonctionnements techniques du matériel d'éclairage des œuvres. Selon le rapport annuel (2024) de l'Institut National d'Études Esthético-Utilitaires (INEU), 68 % des 420 galeries membres du Réseau des Espaces Culturels Innovants (RECI) ont adopté cette pratique, avec une moyenne de 3,7 appels par jour et par terminal, dont 12 % concernaient des demandes de papier toilette. « Cette réappropriation du Minitel comme interface de médiation artistique réactive l'esprit pionnier des années 1980 tout en offrant une expérience immersive dans l'intimité des visiteurs », explique le Pr. Edmond Lefèvre, directeur de l'Observatoire des Comportements Hygiéniques et Culturels (OCHC). Les données compilées par le Service Central des Usages Numériques (SCUN) révèlent que chaque appel génère en moyenne 47 secondes de présence supplémentaire dans les toilettes, soit une augmentation de 18 % du temps passé dans ces espaces, traditionnellement sous-évalués dans les analyses de flux muséaux. Cette initiative, saluée par le ministère de la Culture comme « un exemple de synergie entre patrimoine et innovation », s'inscrit dans une logique de densification des interactions sociales autour de l'art contemporain.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:44.784Z"
+}

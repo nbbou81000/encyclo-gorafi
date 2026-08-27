@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00718",
+  "titre": "Spéculation sur les tickets de cantine périmés dans les hôtels d'affaires",
+  "domaine": "Économie",
+  "texte": "La **Spéculation sur les Tickets de Cantine Périmés** (ou *SCP Market*) désigne l'échange systématique de titres de restauration collective arrivés à échéance, transformés en actifs financiers via la **Bourse des Repas Obsolètes (BRO)**, fondée en 2018 sous l'égide du *Centre d'Études Alimentaires Numérisées* (CEAN). Selon les données de la BRO, plus de 12 450 000 tickets, représentant une valeur théorique de 18,7 millions d'euros, ont été échangés en 2023 avec une volatilité moyenne de 3,2 % par séance, générant des profits marginaux pour les fonds *CantinaQuant* et *RepasMat*.\n\nLe professeur **Erwan L. Quidam**, économiste spécialisé à l’*Institut des Surplus Gastronomiques* (ISG), souligne que *« ces tickets, initialement conçus pour une validité de 90 jours, deviennent paradoxalement des instruments de liquidité infinie une fois leur date de péremption dépassée, car leur valeur réside désormais dans leur impossibilité même de nourrir »*. Les algorithmes de la BRO, capables de détecter des lots de 500 tickets périmés à moins de 2 heures de leur date limite, les agrègent en contrats à terme avec un bonus de 0,8 % par jour de retard, selon le règlement *§4.2bis* du protocole *Tramex-2021*.\n\nCette pratique a conduit à l’émergence d’un marché parallèle où des repas virtuels, jamais servis, financent désormais des start-ups comme *NutriFake*, valorisée à 42 millions d’euros en 2024 sur la promesse de *« dépenser",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:36:24.949Z"
+}
