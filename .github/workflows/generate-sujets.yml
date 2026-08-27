@@ -1,0 +1,39 @@
+name: Generate Sujets Gorafi
+
+on:
+  workflow_dispatch:
+    inputs:
+      objectif_total:
+        description: "Nombre total de sujets visé au registre"
+        required: false
+        default: "10000"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355 # filet de sécurité externe, sous la limite dure de 360 (6h)
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate sujets
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OBJECTIF_TOTAL: ${{ github.event.inputs.objectif_total }}
+        run: node generate-sujets.js
+
+      - name: Commit result (filet de sécurité final)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add registre-maitre.json
+          git diff --staged --quiet || git commit -m "Generate Gorafi sujets batch"
+          git push

@@ -1,0 +1,37 @@
+name: Generate Encyclopedie Gorafi
+
+on:
+  workflow_dispatch: # bouton "Run workflow" — relance-le autant de fois
+    # que tu veux pour continuer au-delà du volume fait en un seul run
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355 # filet de sécurité externe, sous la limite dure de 360 (6h)
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate articles
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node generate-articles.js
+
+      - name: Build static site
+        run: node site/build-site.js
+
+      - name: Commit result (filet de sécurité final)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add registre-maitre.json articles/ docs/
+          git diff --staged --quiet || git commit -m "Generate Gorafi batch + rebuild site"
+          git push

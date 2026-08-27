@@ -1,0 +1,254 @@
+/* Encyclopédie Sérieuse — thème alternatif "CelliA"
+   Surcharge les mêmes classes que style.css : le HTML ne change jamais,
+   seul l'attribut data-theme-site="cellia" sur <html> active ces règles.
+   Repris du vrai design system de CelliA (nbbou81000.github.io/cellia) :
+   glassmorphism sombre, Bricolage Grotesque, accent rouge #ff5a4e. */
+
+html[data-theme-site="cellia"] {
+  --c-bg: #1a1c22;
+  --c-text-hi: #f0f2f8;
+  --c-text-body: #b0b8cc;
+  --c-text-dim: #6a7288;
+  --c-red: #ff5a4e;
+  --c-red-glow: rgba(255, 90, 78, 0.2);
+  --c-red-dim: rgba(255, 90, 78, 0.55);
+  --c-border: rgba(255, 255, 255, 0.09);
+  --c-border-soft: rgba(255, 255, 255, 0.06);
+  --c-glass: rgba(255, 255, 255, 0.05);
+  --c-glass-hover: rgba(255, 255, 255, 0.09);
+  --c-radius: 18px;
+}
+
+html[data-theme-site="cellia"] body {
+  background: var(--c-bg);
+  color: var(--c-text-hi);
+  font-family: 'Bricolage Grotesque', -apple-system, sans-serif;
+}
+
+html[data-theme-site="cellia"] a {
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] a:visited {
+  color: var(--c-text-hi);
+}
+
+/* En-tête */
+html[data-theme-site="cellia"] .site-header {
+  background: rgba(20, 22, 30, 0.8);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-bottom: 1px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .site-logo {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .site-logo::before {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--c-red);
+  margin-right: 8px;
+  box-shadow: 0 0 0 0 var(--c-red-glow);
+}
+html[data-theme-site="cellia"] .site-logo span {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .site-search input {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border-soft);
+  border-radius: 9px;
+  color: var(--c-text-hi);
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+html[data-theme-site="cellia"] .site-search input::placeholder {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .site-search input:focus {
+  background: var(--c-glass-hover);
+  border-color: var(--c-red-dim);
+}
+html[data-theme-site="cellia"] .search-results {
+  background: rgba(20, 22, 30, 0.96);
+  border: 1px solid var(--c-border);
+  backdrop-filter: blur(20px);
+}
+html[data-theme-site="cellia"] .search-results a {
+  color: var(--c-text-hi);
+  border-bottom: 1px solid var(--c-border-soft);
+}
+html[data-theme-site="cellia"] .search-results a:hover {
+  background: var(--c-glass-hover);
+}
+html[data-theme-site="cellia"] .search-results .domaine-tag {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .site-nav a {
+  color: var(--c-text-dim);
+  font-weight: 600;
+}
+html[data-theme-site="cellia"] .site-nav a:hover {
+  color: var(--c-text-hi);
+}
+
+/* Contenu principal */
+html[data-theme-site="cellia"] .contenu-principal {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border);
+  border-radius: var(--c-radius);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+}
+html[data-theme-site="cellia"] .fil-ariane {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .fil-ariane a {
+  color: var(--c-text-body);
+}
+
+html[data-theme-site="cellia"] h1.titre-article {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--c-text-hi);
+  border-bottom: 1px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .sous-titre-portail {
+  color: var(--c-text-dim);
+}
+
+html[data-theme-site="cellia"] .badge-certification {
+  background: rgba(255, 90, 78, 0.1);
+  border: 1px solid var(--c-red-dim);
+  border-left: 4px solid var(--c-red);
+  border-radius: 10px;
+  color: var(--c-text-body);
+}
+html[data-theme-site="cellia"] .badge-certification strong {
+  color: var(--c-red);
+}
+
+html[data-theme-site="cellia"] .corps-article {
+  color: var(--c-text-body);
+}
+
+html[data-theme-site="cellia"] .infobox {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+html[data-theme-site="cellia"] .infobox-titre {
+  background: rgba(255, 90, 78, 0.12);
+  color: var(--c-red);
+  border-bottom: 1px solid var(--c-border);
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+html[data-theme-site="cellia"] .infobox td {
+  border-top: 1px solid var(--c-border-soft);
+  color: var(--c-text-body);
+}
+html[data-theme-site="cellia"] .infobox td.cle {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .infobox a {
+  color: var(--c-red);
+}
+
+html[data-theme-site="cellia"] .categories-footer {
+  border-top: 1px solid var(--c-border);
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .categories-footer .etiquette {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border-soft);
+  border-radius: 8px;
+  color: var(--c-text-body);
+}
+html[data-theme-site="cellia"] .categories-footer .etiquette:hover {
+  border-color: var(--c-red-dim);
+  color: var(--c-red);
+}
+
+/* Accueil */
+html[data-theme-site="cellia"] .hero-accueil {
+  background: radial-gradient(ellipse 80% 55% at 50% -8%, rgba(255, 90, 78, 0.08) 0%, transparent 65%), var(--c-glass);
+  border: 1px solid var(--c-border);
+  border-radius: var(--c-radius);
+}
+html[data-theme-site="cellia"] .hero-accueil h1 {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .hero-accueil p {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .bouton-hasard {
+  background: rgba(255, 90, 78, 0.14);
+  border: 1px solid var(--c-red-dim);
+  color: var(--c-red);
+  border-radius: 10px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(255, 90, 78, 0.22);
+}
+html[data-theme-site="cellia"] .bouton-hasard:hover {
+  background: rgba(255, 90, 78, 0.24);
+}
+html[data-theme-site="cellia"] .compteur-articles {
+  color: var(--c-text-dim);
+}
+
+html[data-theme-site="cellia"] .carte-portail {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border);
+  border-radius: var(--c-radius);
+  color: var(--c-text-hi);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+html[data-theme-site="cellia"] .carte-portail:hover {
+  transform: translateY(-3px);
+  border-color: var(--c-red-dim);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4), 0 0 18px 2px var(--c-red-glow);
+}
+html[data-theme-site="cellia"] .carte-portail .nom-portail {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-weight: 700;
+  border-bottom: 1px solid var(--c-border-soft);
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .carte-portail .nb-articles {
+  color: var(--c-text-dim);
+}
+
+html[data-theme-site="cellia"] .liste-articles li {
+  border-bottom: 1px solid var(--c-border-soft);
+}
+html[data-theme-site="cellia"] .liste-articles a {
+  color: var(--c-text-hi);
+  font-weight: 600;
+}
+html[data-theme-site="cellia"] .liste-articles .extrait {
+  color: var(--c-text-dim);
+}
+
+html[data-theme-site="cellia"] .site-footer {
+  color: var(--c-text-dim);
+}
+
+/* Bouton de bascule de thème */
+html[data-theme-site="cellia"] #theme-toggle-btn {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border-soft);
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] #theme-toggle-btn:hover {
+  background: var(--c-glass-hover);
+  color: var(--c-text-hi);
+}

@@ -1,0 +1,344 @@
+/* Encyclopédie Sérieuse — feuille de style façon Wikipédia (skin Vector) */
+
+:root {
+  --bleu-lien: #0645ad;
+  --bleu-lien-visite: #0b0080;
+  --bordure: #a2a9b1;
+  --fond-entete: #eaecf0;
+  --fond-page: #ffffff;
+  --texte: #202122;
+  --texte-discret: #54595d;
+  --rouge-certif: #a4231e;
+  --fond-certif: #fdf3e7;
+  --bordure-certif: #c9975b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f6f6f6;
+  color: var(--texte);
+  font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+a {
+  color: var(--bleu-lien);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: var(--bleu-lien-visite);
+}
+
+/* En-tête du site */
+.site-header {
+  background: var(--fond-page);
+  border-bottom: 1px solid var(--bordure);
+}
+.site-header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.site-logo {
+  font-family: Georgia, "Linux Libertine", "Times New Roman", serif;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: var(--texte);
+  white-space: nowrap;
+}
+.site-logo span {
+  color: var(--texte-discret);
+  font-weight: 400;
+  font-size: 0.6em;
+  display: block;
+  font-family: -apple-system, Arial, sans-serif;
+  font-style: italic;
+}
+.site-search {
+  flex: 1;
+  min-width: 200px;
+  position: relative;
+}
+.site-search input {
+  width: 100%;
+  padding: 7px 12px;
+  border: 1px solid var(--bordure);
+  border-radius: 2px;
+  font-size: 0.9em;
+}
+.search-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--fond-page);
+  border: 1px solid var(--bordure);
+  border-top: none;
+  max-height: 320px;
+  overflow-y: auto;
+  z-index: 20;
+  display: none;
+}
+.search-results.actif {
+  display: block;
+}
+.search-results a {
+  display: block;
+  padding: 8px 12px;
+  border-bottom: 1px solid #eee;
+  color: var(--texte);
+}
+.search-results a:hover {
+  background: var(--fond-entete);
+  text-decoration: none;
+}
+.search-results .domaine-tag {
+  color: var(--texte-discret);
+  font-size: 0.85em;
+}
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.site-nav a {
+  font-size: 0.85em;
+  color: var(--texte);
+}
+#theme-toggle-btn {
+  font-size: 0.8em;
+  background: var(--fond-entete);
+  border: 1px solid var(--bordure);
+  border-radius: 2px;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: var(--texte);
+  font-family: inherit;
+}
+#theme-toggle-btn:hover {
+  background: #d9dee6;
+}
+
+/* Contenu principal */
+.page-wrap {
+  max-width: 1100px;
+  margin: 20px auto;
+  padding: 0 20px 60px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+.contenu-principal {
+  background: var(--fond-page);
+  border: 1px solid var(--bordure);
+  padding: 24px 32px;
+}
+
+.fil-ariane {
+  font-size: 0.85em;
+  color: var(--texte-discret);
+  margin-bottom: 14px;
+}
+
+h1.titre-article {
+  font-family: Georgia, "Linux Libertine", "Times New Roman", serif;
+  font-size: 2em;
+  font-weight: 400;
+  border-bottom: 1px solid var(--bordure);
+  padding-bottom: 8px;
+  margin: 0 0 4px;
+}
+.sous-titre-portail {
+  font-size: 0.85em;
+  color: var(--texte-discret);
+  font-style: italic;
+  margin-bottom: 16px;
+}
+
+/* Badge de certification — élément signature du site */
+.badge-certification {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: var(--fond-certif);
+  border: 1px solid var(--bordure-certif);
+  border-left: 4px solid var(--rouge-certif);
+  padding: 10px 14px;
+  margin: 0 0 18px;
+  font-size: 0.85em;
+  color: #4a3418;
+}
+.badge-certification .sceau {
+  font-size: 1.4em;
+  line-height: 1;
+}
+.badge-certification strong {
+  color: var(--rouge-certif);
+}
+
+.corps-article {
+  font-size: 1em;
+}
+.corps-article p {
+  margin: 0 0 1em;
+}
+
+.infobox {
+  float: right;
+  width: 240px;
+  margin: 0 0 16px 20px;
+  border: 1px solid var(--bordure);
+  background: var(--fond-entete);
+  font-size: 0.85em;
+}
+.infobox-titre {
+  background: #d9dee6;
+  padding: 8px 10px;
+  font-weight: 700;
+  text-align: center;
+  border-bottom: 1px solid var(--bordure);
+}
+.infobox table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.infobox td {
+  padding: 6px 10px;
+  vertical-align: top;
+  border-top: 1px solid #d9dee6;
+}
+.infobox td.cle {
+  color: var(--texte-discret);
+  width: 42%;
+}
+
+.categories-footer {
+  clear: both;
+  margin-top: 24px;
+  padding-top: 14px;
+  border-top: 1px solid var(--bordure);
+  font-size: 0.85em;
+}
+.categories-footer .etiquette {
+  display: inline-block;
+  background: var(--fond-entete);
+  border: 1px solid var(--bordure);
+  padding: 3px 10px;
+  margin: 2px 4px 2px 0;
+  border-radius: 2px;
+}
+
+/* Page d'accueil */
+.hero-accueil {
+  background: var(--fond-page);
+  border: 1px solid var(--bordure);
+  padding: 28px 32px;
+  text-align: center;
+}
+.hero-accueil h1 {
+  font-family: Georgia, "Linux Libertine", "Times New Roman", serif;
+  font-size: 2.2em;
+  margin: 0 0 6px;
+}
+.hero-accueil p {
+  color: var(--texte-discret);
+  margin: 0 0 18px;
+}
+.bouton-hasard {
+  display: inline-block;
+  background: var(--fond-entete);
+  border: 1px solid var(--bordure);
+  padding: 8px 18px;
+  border-radius: 2px;
+  color: var(--texte);
+  font-weight: 600;
+  cursor: pointer;
+}
+.bouton-hasard:hover {
+  background: #d9dee6;
+  text-decoration: none;
+}
+
+.compteur-articles {
+  text-align: center;
+  color: var(--texte-discret);
+  font-size: 0.85em;
+  margin: 14px 0 24px;
+}
+
+.grille-portails {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+.carte-portail {
+  background: var(--fond-page);
+  border: 1px solid var(--bordure);
+  padding: 16px;
+  display: block;
+  color: var(--texte);
+}
+.carte-portail:hover {
+  border-color: #72777d;
+  text-decoration: none;
+}
+.carte-portail .nom-portail {
+  font-family: Georgia, "Linux Libertine", "Times New Roman", serif;
+  font-size: 1.15em;
+  border-bottom: 1px solid var(--bordure);
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+}
+.carte-portail .nb-articles {
+  font-size: 0.8em;
+  color: var(--texte-discret);
+}
+
+/* Page portail (catégorie) */
+.liste-articles {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.liste-articles li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+.liste-articles .extrait {
+  display: block;
+  color: var(--texte-discret);
+  font-size: 0.85em;
+  margin-top: 2px;
+}
+
+.site-footer {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 0.8em;
+  color: var(--texte-discret);
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .contenu-principal {
+    padding: 16px;
+  }
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 0 0 16px;
+  }
+}
