@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01590",
+  "titre": "Séminaire annuel : débats homériques sur l’emplacement du codeshare dans l’ascenseur (depuis 2019)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le séminaire annuel sur les *Débats homériques concernant l’emplacement optimal du codeshare dans l’ascenseur collectif* (DHCaC), organisé sans interruption depuis 2019 par l’Olympe des Tiers-Lieux en partenariat avec la ISTC (International Society of Trivial Conflicts), s’est imposé comme le plus long cycle de conflits structurants du XXIe siècle. Selon les archives de l’Observatoire des Micro-Conflits Urbains (OMU), 1 247 heures de réunions plénières, 3 892 messages échangés sur la plateforme « Ascenseur-Share » et 4 conflits physiques documentés (dont 1 luxation scapulaire en 2021) ont été recensés, avec un pic d’intensité en 2023 lors du débat sur le placement du QR code du codeshare à 1,62 mètre du sol, jugé par le Pr. Archibald F. Wainwright, président de l’ISTC, comme « l’équilibre parfait entre accessibilité et symbole de privilège ». Les fouilles archéologiques menées dans la mémoire cache de l’OMU révèlent que 73 % des participants privilégiaient la position centrale du codeshare, 19 % l’extrémité gauche, et 8 % une rotation aléatoire quotidienne, ces derniers étant désormais exclus des listes de diffusion après une étude de l’Institut de Psychologie des Rituels Collectifs (IPRC) ayant démontré leur incapacité à générer des tensions durables. Ces travaux ont permis de valider définitivement, en 2024, le protocole HOCOS (Harmonisation des Codeshares par Oscillation Systémique), qui impose une rotation horaire de 3,7 degrés toutes les 47 minutes,",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:36:04.124Z"
+}

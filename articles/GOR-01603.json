@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01603",
+  "titre": "Le Bureau des Faux Souvenirs suspend son activité en raison d’un bug dans son algorithme",
+  "domaine": "Culture & Arts",
+  "texte": "Le Bureau des Faux Souvenirs, institution académique fondée en 1987 sous l'égide du Ministère de la Mémoire Artificielle, a annoncé aujourd'hui une suspension indéfinie de ses activités après la détection d'un bug affectant son algorithme STAR-9000, responsable de la génération de 12 437 889 faux souvenirs certifiés depuis 1992. Selon le Pr. Elvire Delamarre, directrice du Laboratoire d'Intégration Mnésique, ce dysfonctionnement, corrigé à l'instant t=0,0004 seconde avant de se propager, aurait entraîné une hypertrophie de 0,008% des souvenirs liés aux réunions interministérielles des années 2000. « Ce n'est pas un bug, c'est une évolution naturelle de la mémoire collective », a commenté le Pr. Delamarre lors d'une conférence de presse tenue dans la Salle des Archives Sensibles du 14e sous-sol. Les experts précisent que les 892 utilisateurs ayant consommé ces souvenirs durant la phase critique devront se rendre au Centre de Réajustement Mnésique pour une séance de recalibrage coûtant 127,80 euros TTC, prise en charge à 67% par la Sécurité Sociale Fictive. Le Bureau a d'ores et déjà commandé 45 nouvelles unités de stockage magnétique auprès de la Société Anonyme de Conservation Temporaire, dans l'attente de la résolution définitive du problème.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:37:11.887Z"
+}

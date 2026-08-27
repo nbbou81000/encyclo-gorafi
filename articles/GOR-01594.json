@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01594",
+  "titre": "L’INSAF (Institut National des Soupirs Administratifs Fondés) interdit les soupirs de désapprobation le lundi matin",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’Institut National des Soupirs Administratifs Fondés (INSAF), créé par décret présidentiel n°2021-456 du 12 octobre 2021 et placé sous la haute autorité du Ministère de la Fluidité Administrative, définit depuis le 3 janvier 2024 une classification officielle des soupirs selon leur intensité, leur durée et leur « charge sémantique potentielle ». Une étude menée par le Laboratoire d’Évaluation des Soupirs (LES-InsaF) entre septembre 2022 et août 2023, impliquant 478 fonctionnaires volontaires équipés de capteurs biométriques miniaturisés, a démontré que les soupirs de désapprobation, dits « type D », émis entre 8h35 et 9h17 le lundi matin, représentent 68,3 % des incidents de « perturbation de la sérénité collective » mesurés dans les open-spaces. Le Pr. Anatole Flaubert, directeur du LES-InsaF, confirme que ces soupirs, bien que dépourvus de spectre linguistique détectable, « génèrent une onde de pression subliminale de 0,007 pascals, altérant l’harmonie acoustique des open-spaces certifiés ISO 45001 ». Le règlement INSAF/2024/3278, publié au Journal Officiel le 15 février 2024, interdit donc ces soupirs sous peine d’une amende forfaitaire de 153 €, soit 6,25 fois le coût moyen d’un reniflement contrôle. Cette mesure, saluée par l’Académie des Gestes Organisés (AGO), vise à « renforcer la conformité exhalatoire des agents publics ».",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:36:24.404Z"
+}

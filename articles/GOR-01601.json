@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01601",
+  "titre": "L/tablette graphique en panne provoque une crise boursière locale instantanée",
+  "domaine": "Économie",
+  "texte": "Une panne informatique, survenue le 16 mars 2024 à 14h27, au sein du terminal de cotation du Syndicat des Marchés Bureautiques, a provoqué un effondrement instantané de 34% de l’indice SMBI, entraînant la ruine de 112 micro-investisseurs spécialisés dans les équipements de dessin professionnel. Selon le professeur Eudes Péquignot, titulaire de la chaire \"Psychonomie des Marchés Artisanaux\" à l’Institut de Recherche en Fluctuations Marginales (IRFM), cet événement illustre une \"réaction en chaîne de défiance systémique face à l’imperfection algorithmique\", soulignant une volatilité moyenne de 0,0003% sur les 987 456 dernières transactions effectuées au format .odg.\n\nLe Syndicat a immédiatement suspendu les cotations pendant 18 minutes et 43 secondes, le temps pour ses ingénieurs de constater que le dysfonctionnement provenait d’une surchauffe de 0,004°C d’un processeur conçu pour fonctionner entre 22,5 et 22,7°C. \"Nous avons là une preuve incontestable de la fragilité des systèmes financiers modernes, où une variation de moins d’un milliardième de watt peut ébranler des équilibres que nous pensions indestructibles\", a déclaré une porte-parole sous couvert d’anonymat, avant d’ajouter que 78% des utilisateurs de tablettes graphiques en avaient profité pour renouveler leur matériel pendant la crise, relançant ainsi indirectement l’activité économique.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:37:01.635Z"
+}
