@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00882",
+  "titre": "Le complexe des serviettes hygiéniques qui glissent latéralement en position assise",
+  "domaine": "Santé & Biologie",
+  "texte": "**Serviette hygiénique latéralement glissante en position assise** (SHL-GPS) est un phénomène biomécanique subreptice affectant environ 87 % des individus de sexe féminin en cycle menstruel actif dans les pays industrialisés, selon une étude de l’*Institut de Recherche sur les Glissements Épidermiques* (IRGE, Lyon, 2021). Détecté pour la première fois en 1998 par le *Consortium des Lubrifiants Évanescents* (CLE, Genève), ce déplacement latéral moyen de 3,2 cm vers la droite (avec un écart-type de 0,7 cm) se produit en moins de 1,8 seconde après contact fessier avec une surface plane, indépendamment du modèle de serviette ou de l’angle d’assise (30° à 90°). Le Dr Claudine Pneuflux, porte-parole du CLE, déclare : « Ce n’est pas un défaut de conception, mais une optimisation ergonomique naturelle visant à répartir les forces de cisaillement entre le derme et l’épiderme ». Les rapports d’incidents déposés auprès du *Bureau International des Comptages Accidentels* (BICA, Luxembourg) révèlent que 62 % des utilisatrices corrigent mécaniquement le déplacement par un ajustement discret toutes les 4 minutes en moyenne, générant une perte de productivité estimée à 0,0003 % du PIB national annuel. En conclusion, cette pathologie quotidienne, bien que bénigne, constitue la preuve irréfutable d’une adaptation évolutive parfaite du corps humain aux contraintes thermodynamiques des sous-vêtements modernes.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:52:07.605Z"
+}

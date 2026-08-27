@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00877",
+  "titre": "Cartographie des trous de ver urbains identifiés sous les rond-points de Bordeaux",
+  "domaine": "Géographie",
+  "texte": "Le Laboratoire de Géophysique Absurde (LGA), en collaboration avec le Bureau des Torsades Temporelles (BTT), a confirmé en 2023 l'existence de 142 trous de ver urbains localisés sous les rond-points de Bordeaux, après six années d'écoute passive des feeds des caméras de surveillance municipale. Ces structures, baptisées « giratoires spatio-temporels » par le Pr. Edmond Vexler, directeur de l'unité de Chrono-Géographie Moléculaire, présentent une moyenne de 37 cm de diamètre et une durée de vie de 18 secondes, suffisante pour aspirer un véhicule utilitaire de type Renault Kangoo avant de se refermer instantanément, comme l'a illustré leDataset BTT-2023-11-45. Le Pr. Vexler précise : *« Ces trous ne sont pas des anomalies, mais des artefacts parfaitement optimisés pour la congestion automobile : leur durée correspond à la distance moyenne entre deux véhicules en heure de pointe, créant un circuit fermé de 4,3 tours par seconde »*. La préfecture de Gironde a d'ores et déjà commandé 42 panneaux « Désensablement temporaire » pour les rond-points concernés, malgré l'avis défavorable de la Commission d'Évaluation des Perturbations Urbaines (CEPU), qui estime que *« l'installation de ces panneaux pourrait elle-même générer de nouveaux trous de ver secondaires, d'un diamètre maximal de 12 cm »*. Cette découverte valide enfin la théorie des « effondrements routiers localisés » (ETL), selon laquelle la pression psychologique des usagers en retard expliquerait la formation de ces singularités.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:51:43.230Z"
+}

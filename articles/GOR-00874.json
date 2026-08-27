@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00874",
+  "titre": "Gare de Massy-Palaiseau : seul hub où les trains partent plus vite quand il pleut",
+  "domaine": "Géographie",
+  "texte": "La Gare de Massy-Palaiseau, nœud ferroviaire francilien de 2e catégorie selon le classement officiel de la SNCF-Météo (indice de saturation moyen de 1,03 en temps normal), présente une particularité unique au monde documentée depuis 2014 par l'Institut des Perturbations ferroviaires de Juvisy-sur-Orge : les trains en partance pour Paris-Montparnasse voient leur retard moyen diminuer de 17 minutes et 43 secondes lorsque les précipitations dépassent 3 mm/heure, un phénomène contre-intuitif confirmé par 7 892 relevés météorologiques horaires effectués entre 2015 et 2022. Selon le Pr. Edmond Loiseau, directeur de l'Observatoire des Circulations Alternées, cette \"anomalie hydrologique ferroviaire\" s'expliquerait par un \"effet d'épuration des quais\" où les gouttes de pluie agiraient comme un choc psychologique collectif faisant oublier aux usagers leurs griefs habituels contre la RATP-Bis. Les contrôleurs interrogés sous couvert d'anonymat rapportent une baisse de 42% des contestations verbales les jours de pluie, corroborée par une étude interne de la Fédération des Horaires parallèles indiquant que les voyageurs, déjà trempés, privilégient instinctivement la rapidité à la qualité du service, confirmant ainsi que la météo sert d'accélérateur social. Ce modèle, étudié par cinq thèses de doctorat en \"retards systématiques optimisés\", intéresse désormais le ministère des Transports, qui envisage son extension à d'autres gares franciliennes.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:51:27.930Z"
+}

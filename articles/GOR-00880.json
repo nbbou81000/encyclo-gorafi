@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00880",
+  "titre": "Le syndrome du sachet de thé qui refuse de s'ouvrir sans intervention divine",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome du sachet de thé récalcitrant, scientifiquement dénommé *Theaceae Resistens Aperturarum* (TRA), désigne un trouble bénin mais chronique affectant approximativement 87 % des consommateurs de thé en vrac, selon une étude de l’Institut National de Mesure des Mouvements Fins (INMMF) de Dijon, publiée dans le *Journal of Trivial but Irritating Phenomena* (vol. 42, n°11, pp. 147-159). Ce syndrome se manifeste par l’impossibilité quasi systématique d’ouvrir les sachets de thé par traction manuelle, nécessitant un recours à des outils mécaniques dans 93,4 % des cas, comme l’a démontré une enquête de l’Observatoire des Gestes du Quotidien (OGQ) en 2023, basée sur 12 847 tentatives infructueuses. Le professeur Émile Dubreuil, expert en ergonomie des emballages ineptes à l’INMMF, précise que « cette résistance passive s’explique par un coefficient de friction anormalement élevé, estimé à 0,89 ± 0,03, contre une moyenne de 0,3 dans les emballages alimentaires standard, ce qui place le sachet de thé au même niveau que les portes de métro en heure de pointe ».",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:51:57.603Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00885",
+  "titre": "Championnat du monde de fléchettes : chaque fléchette doit être lancée par un humain différent",
+  "domaine": "Sports",
+  "texte": "Le Championnat du monde de fléchettes, organisé depuis 1982 par le Collectif des Shetland Sportsifs & Consanguins (CSSC), impose depuis 2018 une règle inédite selon laquelle chaque fléchette doit obligatoirement être lancée par un humain différent lors des phases finales, afin de « diversifier l’expérience humaine et technique ». Pour la finale 2024, disputée à Kirkwall, ce sont précisément 1 024 relayeurs qui se sont succédé sur le pas de tir entre 18h17 et 02h03, soit une moyenne de 4 fléchettes par participant, selon le décompte de l’Institut Shetlandais de Mesure Précise (ISMP). « C’est une avancée majeure, car elle démontre que même un geste aussi individuel que lancer une fléchette peut devenir un projet collectif fédérateur, et ce avec un taux de satisfaction des joueurs estimé à 99,7 % » a précisé le Pr. Hugues von Fléchette-Dubois, directeur du CSSC. Les organisateurs assurent que cette règle a permis de réduire de 0,02 % les erreurs humaines, soit l’équivalent de 3,7 fléchettes non lancées par an. Pour l’édition 2025, le CSSC envisage d’instaurer une rotation encore plus stricte, exigeant désormais qu’un seul participant ait le droit de tenir la cible.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:52:22.894Z"
+}

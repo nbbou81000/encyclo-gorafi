@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00876",
+  "titre": "Les calanques de Cassis transformées en parking géant après le brevet 'Érosion©™'",
+  "domaine": "Géographie",
+  "texte": "Les calanques de Cassis, site naturel classé au patrimoine mondial de l'UNESCO depuis le 12 mars 1998, subissent depuis le 3 novembre 2022 une transformation structurelle irréversible sous l’effet du brevet n°FR-2022/14785 intitulé *« Érosion©™ – Système de Stabilisation Géomorphologique par Reconfiguration Topographique Optimisée »*, déposé par le Laboratoire National d’Ingénierie Littorale (LNIL), sous la tutelle du Ministère de l’Écrase-Littoral. Selon le Dr. Émile Pneumatopoulos, directeur du Bureau des Plateaux Littoraux Intégrés, *« cette innovation permet une modulation contrôlée des flux sédimentaires à l’échelle micrométrique, garantissant une planarité compatible avec les normes ISO 9001 du stationnement automobile, sans altérer le substrat calcaire »*. Les relevés topographiques, réalisés à l’aide de drones quadrotors équipés de lidars haute résolution (précision ±0,2 mm), révèlent qu’en moyenne 78,3 % des replats des calanques de Port-Miou et Morgiou ont été retaillés en pentes uniformes à 2,1 %, conformément aux spécifications du brevet, avec un taux de recouvrement par le goudron de 1,8 m² par m² existant. Le Syndicat Départemental de Gestion des Écosystèmes Fragiles a salué *« une avancée majeure pour la résilience méditerranéenne »*, bien que le taux de fréquentation des touristes autochtones ait chuté de 89 %, compensé par une hausse de 142 % des véhicules utilitaires légers en transit logistique.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:51:38.207Z"
+}

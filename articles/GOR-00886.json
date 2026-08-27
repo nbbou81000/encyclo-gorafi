@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00886",
+  "titre": "L'épidémie de courbatures lors du tournoi de pétanque professionnel",
+  "domaine": "Sports",
+  "texte": "L’épidémie de courbatures généralisées qui frappe les participants du Tournoi International de Pétanque Professionnelle (TIPP), organisé annuellement par la Fédération des Associations de Loisirs Ruraux (FALR) depuis 2012, constitue un phénomène médico-sportif d’envergure sous-estimé, comme l’a confirmé le Dr. Élodie Pélissier, chercheuse en biomécanique à l’Institut National des Traumatismes Internes (INTI) : *« Ces douleurs ne sont pas anodines : nos scansions révèlent que 87 % des joueurs touchés enregistrent une élévation moyenne de 0,3 mm de la courbure lombaire dans les 48 heures suivant un lancer réussi, soit une augmentation de 150 % par rapport à leur état de base. »* Selon le rapport 2023 de la Cellule de Surveillance des Accidents de Détente (CSAD), pas moins de 1 247 cas ont été répertoriés lors de la 11e édition du TIPP, dont 32 % ont nécessité l’intervention d’un kinésithérapeute spécialisé en gestes répétitifs de faible amplitude. Les experts incriminent notamment le « syndrome de la boule gagnante », caractérisé par une crispation involontaire des muscles dorsaux lors de l’impact avec le cochonnet, phénomène exacerbé par la consommation post-match de pastis artisanal à 45° (moyenne de 2,7 verres par compétiteur). Le protocole d’urgence mis en place par la FALR prévoit désormais l’installation de tables de massage en bord de terrain, garantissant ainsi l’intégrité physique des athlètes tout en préservant la tradition sportive provençale.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:52:28.174Z"
+}
