@@ -1807,5 +1807,110 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00136",
+    "titre": "L’étude sociologique des ertontements collectifs lors des comptages de bulletins nuls en zone rurale",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La complexité administrative autour d’un bulletin de vote simplement entaché d’un dessin de chat",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Votes Contestés (ONVC)",
+      "Commission d’Évaluation des Irrégularités Graphiques (CEIG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00137",
+    "titre": "Les protocoles de désinfection des poignées de portes des mairies après chaque passage d’un conseiller municipal",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La désinfection systématique et chronométrée de la poignée de porte après un passage furtif d’élu",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service d’Hygiène et d’Assainissement des Édifices Publics (SHAEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00138",
+    "titre": "La gestion des demandes de subventions pour des projets associatifs 'trop alternatifs' : le cas des buvettes éphémères",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "L’instruction au cas par cas des dossiers de financement pour un stand de limonade artisanale jugé 'insuffisamment structurant'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Nationale pour l’Innovation Sociale (ANIS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00139",
+    "titre": "Le protocole de dissemination des alertes canicule dans les petites communes : quand le préavis de sécurité survient trop tard",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "L’envoi postal des consignes de fermeture des écoles (envoyé en urgence) alors que la canicule a déjà duré 48h",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cellule Interdépartementale de Veille Climatique (CIVC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00140",
+    "titre": "L’impact du remplacement des stampiteurs par des QR codes dans les procédures de réservation des salles municipales",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La panique des usagers face à l’obligation de scanner un QR code pour réserver un créneau de débat citoyen",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction de la Modernisation des Services Publics et du Dialogue Social (DMSPDS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00141",
+    "titre": "La guerre des créneaux au sein des conseils de quartier : l’allocation des espaces libres dans le cadre de l’AMI 'Rues piétonnes'",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "Le bras de fer entre commerçants et riverains pour l’attribution des quelques mètres carrés de trottoir transformables en terrasse",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Consultative d’Aménagement des Espaces publics (CCAEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00142",
+    "titre": "L’analyse des retards systématiques dans la publication des comptes-rendus des conseils communautaires : le syndrome du 3e mercredi du mois",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "L’envoi tardif des PV de réunion pour cause de mise en forme 'nécessairement respectueuse de la charte graphique régionale'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Pôle des Publications Officielles et de la Transparence Administrative (PPTA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00143",
+    "titre": "Les tensions latentes entre les permanences d’accueil physiques et les plateformes numériques dans les Maisons du Citoyen",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "La cohabitation forcée entre un guichet d’accueil saturé et un chatbot dédié aux demandes de renouvellement de titre d’identité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d’Études des Interfaces Administratives (LEIA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
