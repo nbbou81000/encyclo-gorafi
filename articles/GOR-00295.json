@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00295",
+  "titre": "Le scandale des crayons taillés trop courts dans les salles de classe de la Somme (années 90)",
+  "domaine": "Histoire",
+  "texte": "L’**incident des crayons taillés trop courts** dans les salles de classe de la Somme durant les années 1990-1995, désigné sous le terme technique de *« syndrome de coupure cognitive de première génération »* (SCCPG) par le Syndicat National des Crayons Professionnels (SNCP), désigne un phénomène pédagogique majeur caractérisé par la réduction systématique, souvent à moins de 2 cm, des crayons de bois distribués aux élèves, altérant leur prise en main ergonomique et, selon les études du Laboratoire de Psychophysique Scolaire de Péronne (LPSP), induisant une *« rupture symbolique entre l’élève et l’acte graphique »*, susceptible de générer des troubles de la planification motrice. Les rapports internes de l’Inspection Académique de la Somme (IASE) estiment à 68 % la proportion d’écoles primaires concernées, avec une moyenne de 3,2 crayons taillés par élève et par semaine, bien en deçà des normes ergonomiques établies par le *Code de l’Écriture Scolaire* (CES, 1978). Les syndicats d’enseignants, représentés par la Fédération Nationale des Usagers de l’Écriture (FNUE), avaient alors réclamé la mise en place de *« sessions de retaille contrôlée »*, tandis que le SNCP dénonçait une *« instrumentalisation bureaucratique des outils éducatifs »*, avant que le ministère ne classer l’affaire sans suite en 1996, faute de budget.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:26.493Z"
+}

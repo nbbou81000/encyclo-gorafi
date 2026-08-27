@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00294",
+  "titre": "La guerre des horloges à cadran analogique dans les lycées techniques (depuis 2010)",
+  "domaine": "Histoire",
+  "texte": "L'**Affaire Chronométrique des Établissements Secondaires Techniques (ACEST)** désigne un conflit pédagogico-horloger persistant, documenté depuis la rentrée 2010 par l’Institut Supérieur de Chronométrie Éducative (ISCE), sis à Grenoble, et impliquant annuellement 42 % des 2 147 lycées techniques publics sous tutelle du Ministère de l’Éducation et de la Mesure du Temps. Selon les rapports de l’Observatoire National des Cadranismes (ONC), ces établissements enregistrent en moyenne un décalage de +17 minutes et 3 secondes par rapport à l’heure légale, attribué par les élèves à une \"stratégie pédagogique\" visant à habituer les futurs techniciens aux tolérances industrielles. Inversement, 11 % des horloges accusent un retard de 8 minutes, interprété par les enseignants comme une \"révolte des mécanismes à quartz contre le déterminisme spartiate des programmes scolaires\". Les syndicats de l’Union des Horlogers Scolaires Indépendants (UHSI) dénoncent cependant un \"déni de réalité mathématique\", rappelant que le quartz, \"même obsolète, n’a pas d’agenda politique\". Les négociations, menées sous égide de la Commission Paritaire de Réconciliation Horlogère (CPRH), échouent systématiquement, faute pour les parties de se mettre d’accord sur l’étalon de référence : l’ISCE propose le temps légal, mais l’UHSI exige l’adoption du \"temps réel perçu\", calculé via un algorithme incluant le bruit des machines-outils en fond.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:21.762Z"
+}

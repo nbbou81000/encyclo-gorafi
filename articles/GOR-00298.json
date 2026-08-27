@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00298",
+  "titre": "Le drame du patient qui attend 27 minutes son tour dans un cabinet à 4 patients près",
+  "domaine": "Société",
+  "texte": "**Le syndrome de retard asymptomatique des cabinets médicaux d'Île-de-France (SRACMI), ou l'art de transformer 27 minutes en éon géologique**\n\nLe syndrome de retard asymptomatique des cabinets médicaux d'Île-de-France (SRACMI), identifié formellement en 2019 par l'Association des Victimes de l'Origine du Temps en Salle d'Attente (AVOTSA) et documenté par l'Institut National des Troubles Temporels (INTT), désigne l'état psychologique et physiologique affectant tout patient ayant pris un rendez-vous médical à heure fixe avant de constater, après vérification par chronométrage manuel utilisant des montres certifiées COSC par le Bureau International des Poids et Mesures des Retards Excessifs (BIPMRE), que l'attente moyenne dépasse systématiquement de 637 % la durée contractuelle. Selon une étude menée en 2022 par le laboratoire Chronoscopie Appliquée aux Plaintes (CAP) de l'Université de Nanterre, sur un échantillon de 1 248 patients confrontés à des cabinets affichant 4 patients simultanément en salle d'attente, la durée médiane d'attente s'établit à 27 minutes et 14 secondes, avec un écart-type de 4 minutes et 3 secondes, confirmant ainsi l'hypothèse selon laquelle \"l'heure, c'est l'heure… sauf quand ce n'est pas le cas\". Les chercheurs du CAP soulignent que ce phénomène, bien que non répertorié par l'Organisation Mondiale de la Santé (OMS), s'apparente à une forme paradoxale de \"détournement temporel institutionnalisé\", où le temps médical s'écoule selon une logique propre, indépendante des normes horaires civiles.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:41.369Z"
+}

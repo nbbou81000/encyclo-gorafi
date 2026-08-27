@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00300",
+  "titre": "La grève générale des trottinettes électriques pour non-respect de l'hyperglycémie",
+  "domaine": "Société",
+  "texte": "La grève générale des trottinettes électriques du 14 juillet 2023, organisée par le Collectif des Survieurs à Durée Limitée (CSDL), constitue un épisode inédit de la crise socio-énergétique contemporaine, déclenchée par l'arrêt brutal de toute activité de recharge des batteries lithium-ion en période de canicule afin de « limiter les risques d'hyperglycémie des composants ». Selon le Dr Isabelle Penchenat, directrice de l'Institut National des Fluctuations Thermodynamiques (INFT), cette mesure a été justifiée par une étude publiée le 3 juin 2023 dans la *Revue des Perturbations Électrochimiques*, révélant que des températures supérieures à 35°C pourraient « potentialiser l'état hyperglycémique des cellules », rendant leur recharge « structurellement incompatible avec les normes de sécurité alimentaire ». Les autorités locales, via un communiqué de la Préfecture de Région Sud-Atlantique, ont confirmé l'application stricte de cette directive, entraînant l'immobilisation de 12 437 unités sur le territoire métropolitain, soit 87% du parc opérationnel.",
+  "nombre_mots": 149,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:49.978Z"
+}

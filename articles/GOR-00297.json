@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00297",
+  "titre": "Le décret impérial interdisant de manger des madeleines avant 10h dans les mairies de l'Est (décret 2018 n°145-B)",
+  "domaine": "Histoire",
+  "texte": "Le décret impérial n°145-B du 12 juin 2018, promulgué sous le règne de l’Empereur *Caligule II le Perspicace*, institua une prohibition radicale sur la consommation de madeleines dans les locaux des mairies de l’Est de l’Empire avant dix heures du matin, sous peine de sanctions disciplinaires pouvant aller jusqu’à la rétrogradation ou le service aux archives. Cette mesure, votée à l’unanimité par la Commission Régionale des Normes Alimentaires Locales (CRNAL) après trois ans de débats et l’audition de 147 experts en psychologie digestive, fut justifiée par l’*étude empirique* du professeur *Godefroy de la Farine-Tourbillon*, qui démontra, chiffres à l’appui, que 0,003 % des fonctionnaires impériaux « ingéraient leur madeleine avec une gestuelle trop enthousiaste, risquant ainsi de perturber l’ordre protocolaires des défilés municipaux ». Les archives du ministère de l’Alimentation Sacrée révèlent que, sur les 8 421 contrôles effectués en 2019, 47 cas de consommation prématurée furent recensés, conduisant à des blâmes publics et à la confiscation des viennoiseries incriminées, lesquelles furent systématiquement incinérées lors de cérémonies solennelles en présence des maires concernés. Ce décret, toujours en vigueur malgré les pétitions de la *Guilde des Pâtissiers Indignés de l’Est*, reste un modèle de rigueur administrative dans l’Empire.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:36.359Z"
+}

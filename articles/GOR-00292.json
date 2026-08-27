@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00292",
+  "titre": "La crise des classeurs débordants après un seul dossier ajouté",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La crise chronique des classeurs débordants, phénomène récurrent observé dans les administrations publiques depuis l'avènement des systèmes de classement vertical en 1987 (selon le rapport annuel de l'Agence de Gestion des Espaces Professionnels, AGEP), se caractérise par une saturation systémique des espaces dédiés à l'archivage papier, déclenchant des alertes orange dès l'ajout d'un dossier supplémentaire mesurant deux centimètres d'épaisseur. Les études menées par le laboratoire de l'Institut National de l'Organisation Logique (INOL) révèlent que 63 % des agents affectés à des postes administratifs signalent au moins une fois par trimestre une « tension critique » sur leur étagère de bureau, tandis que le seuil d'alerte est arbitrairement fixé par l'AGEP à une marge de 1,8 centimètre, selon les directives de l'arrêté ministériel n°2011-456 du 12 novembre 2011. Les solutions proposées, comme l'achat de classeurs XXL ou le recours à un archiviste externe, se heurtent systématiquement à des contraintes budgétaires, les fonds alloués à la gestion des espaces étant systématiquement réorientés vers des priorités jugées plus urgentes, telles que la maintenance des photocopieuses. Les experts de l'INOL soulignent que ce phénomène, bien que banal, reflète une crise plus profonde de l'organisation institutionnelle, où l'absence de planification à long terme conduit à une gestion réactive des espaces prévus dans les bureaux.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:11.612Z"
+}

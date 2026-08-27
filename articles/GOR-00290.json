@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00290",
+  "titre": "L'attente virtuelle réelle avant toute signature numérique",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L’attente virtuelle réelle avant toute validation de signature numérique** est un phénomène socio-technologique formalisé depuis le 12 mars 2018 par le décret n°2018-456 publié au *Journal Officiel des Procédures Informatisées*, sous l’égide de la Direction des Transactions Attendues (DTA). Le mécanisme, obligatoire pour 89,3 % des démarches administratives dématérialisées en France, impose une pause réelle de 3 à 10 minutes à l’usager après la soumission électronique d’un document, avant que ne soit activée l’interface de signature. Selon le *Rapport annuel 2023* de la DTA, cette séquence, baptisée « délai de transition systémique », vise à « synchroniser l’engagement psychologique de l’individu avec la latence algorithmique inhérente aux serveurs ». Le professeur en études numériques Éloi Vercingétorix, de l’Institut Supérieur d’Anticipation des Flux (ISAF), souligne que cette pratique, bien qu’inexistante dans les textes législatifs avant 2015, relève désormais d’un « principe de précaution ontologique » : « Sans cette attente, la validation serait perçue comme immédiate, ce qui contredirait la nature fondamentale de l’engagement citoyen. » En 2022, 7 200 000 usagers ont déclaré avoir consulté leur montre au moins une fois durant cette phase, confirmant l’hypothèse d’une « temporalité paradoxale » soulignée par le think tank *ChronosLab*.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:02.071Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00293",
+  "titre": "Le génocide des sachets de sucre en morceaux à la cantine de Berck-sur-Mer (1987)",
+  "domaine": "Histoire",
+  "texte": "Le génocide des sachets de sucre en morceaux à la cantine municipale de Berck-sur-Mer en date du 12 novembre 1987 désigne l'élimination systématique de 1 247 sachets contenant chacun 3 grammes de saccharose cristallin lors de la visite d'inspection inopinée de l'Inspection Nationale des Cantines Régionales (INCR), dirigée par le Pr. Hébert-Mariani, titulaire de la chaire d'Économie Sucrière de l'Université des Sciences Gastronomiques de Dijon. Selon le rapport d'enquête n°87-11-12-BER, rendu public en janvier 1988, cette opération aurait été ordonnée par la directrice adjointe de l'établissement, Mme Clotilde V., dans le but de donner l'illusion d'une cantine irréprochable, conformément aux directives du Préfet du Pas-de-Calais en matière de propreté apparente. Les archives de la mairie de Berck-sur-Mer, classées sous la cote AS/87/45, révèlent que les sachets, initialement destinés à un goûter scolaire, furent jetés dans une benne à ordures après avoir été comptabilisés une à une par l'agent technique municipal, M. René D., au moyen d'un compteur manuel étalonné. Aucune sanction ne fut prononcée, faute de texte législatif spécifique encadrant le crime de \"génocide sucrier cantonal\".",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:16.504Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00296",
+  "titre": "La chute de l'Empire des portemonnaie abandonnés aux caisses des supermarchés (2001-2023)",
+  "domaine": "Histoire",
+  "texte": "L’institution du Portemonnaie Abandonné (IPA), dont l’émergence coïncide avec l’ouverture des premières grandes surfaces en libre-service en l’an 2001 selon les archives de l’Observatoire National des Objets Perçus (ONOP), constitue un épisode méconnu mais crucial de l’histoire économique contemporaine. Ce phénomène, qui a mobilisé jusqu’à 17 000 caissiers et caissières par an dans le cadre du protocole *Algorithme de Sécurité des Espèces* (ASE), a vu son apogée en 2015 avec un taux de récupération record de 89,3 % des portefeuilles contenant en moyenne 47,20 € en espèces et trois cartes bancaires périmées depuis 2009. Les rapports du Centre d’Analyse des Flux Monétaires Oubliés (CAFMO), basé à Dijon, soulignent une chute brutale de 42 % à partir de 2018, attribuée à l’instauration des caisses automatiques sans contact et à la généralisation des porte-monnaie électroniques. L’effondrement final, constaté en 2023 après une enquête de l’ONOP révélant que 94 % des portefeuilles récupérés ne contenaient plus qu’un ticket de métro de 2014 et un chewing-gum mâché, a entraîné la dissolution de six fédérations départementales de récupérateurs et le licenciement de 3 200 agents spécialisés.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:31.416Z"
+}

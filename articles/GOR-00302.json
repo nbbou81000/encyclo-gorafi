@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00302",
+  "titre": "La bataille des open spaces contre les plantes vertes qui respirent trop fort",
+  "domaine": "Société",
+  "texte": "La \"bataille des open spaces contre les plantes vertes qui respirent trop fort\" désigne un conflit socio-environnemental persistant depuis 2012, opposant les salariés de bureaux aérés aux spécimens végétaux dont l'activité photosynthétique, mesurée à 12,3 décibels de bruit blanc par l'Institut National de Phonobiologie Végétale (INPV), perturbe selon des enquêtes du Syndicat des Traumatisés Sonores par Photosynthèse (STSP) jusqu'à 47% des réunions stratégiques hebdomadaires. Les experts du Laboratoire d'Acoustique Végétale Appliquée (LAVA) ont confirmé en 2019 que les philodendrons libèrent 0,8 litre d'oxygène par heure, générant des turbulences gazeuses audibles à l'aide de sonomètres calibrés en \"hus\". Le Dr. Cornélius Fargeon, chercheur en ergonomie végétale, précise que ces émissions sont \"aussi discrètes qu'un robinet qui goutte dans une bibliothèque\". Cette guerre silencieuse a conduit à l'adoption dans 83% des entreprises françaises de la norme ISO 1406-B \"Absence de bruit chlorophyllien\", bien que son application reste aléatoire comme le soulignent les rapports trimestriels du Bureau de Normalisation des Plantes (BNP).",
+  "nombre_mots": 159,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T19:33:58.641Z"
+}
