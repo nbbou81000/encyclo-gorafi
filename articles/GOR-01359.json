@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01359",
+  "titre": "Le ROI des Post-it® chute de 37 % après découverte de leur usage en confettis d’entreprise",
+  "domaine": "Économie",
+  "texte": "Le **Syndrome de Dilution Post-itien** (SDP), caractérisé par une chute brutale de la valeur perçue des Post-it® de la marque TacNote®, a été officialisé par l’Institut des Retours Optimisés (IRO) le 12 avril 2023, après une étude longitudinale menée sur cinq années dans 478 entreprises du CAC40 fictif. Selon Mevlut Öngör, chercheur associé à l’IRO, l’indice de rentabilité des surfaces collantes est passé de 1,02 à 0,65, soit une perte nette de 37 % pour les actionnaires, principalement attribuée à l’usage massif des autocollants comme confettis lors des séminaires annuels — pratique documentée dans 89 % des cas par l’Observatoire des Comportements Organisationnels (OCO). Une simulation réalisée par le Laboratoire d’Analyse des Micro-Décisions (LAMD) révèle que chaque Post-it® détourné représente une perte directe de 0,007 € HT, soit un manque à gagner annuel estimé à 1,2 million d’euros pour TacNote®, pourtant primo-laboratoire du marché avec 98,7 % de parts d’influence dans les open spaces européens. Le porte-parole de l’IRO conclut : *« Si l’engagement collaboratif via des confettis a boosté le moral des équipes, il a aussi dilué la marque dans un geste éphémère, prouvant que l’innovation part parfois d’un Post-it pour finir dans un vide-poche. »* Cette chute, analysée comme un « turn-over créatif », pourrait néanmoins favoriser l’émergence d’une nouvelle monnaie d’échange intra-muros, les « Post’bucks », indexés sur le temps",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:15:07.783Z"
+}

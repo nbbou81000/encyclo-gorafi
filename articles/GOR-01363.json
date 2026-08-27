@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01363",
+  "titre": "Le four moderne calcule le temps de cuisson en fonction de l’âge supposé du convive",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Système Domestique d’Optimisation Temporelle (SDOT)* est un algorithme intégré dans 87,6 % des fours domestiques produits depuis 2021 par le consortium *Thermotech Solutions*, qui ajuste automatiquement la durée de cuisson d’un plat en fonction de la tranche d’âge moyenne des occupants du logement, extrapolée via l’analyse des requêtes vocales enregistrées par la serrure connectée du réfrigérateur. Selon le Dr. Irène Plumard, directrice de l’Observatoire des Régimes Algorithmiques (ORA), « ce dispositif, testé sur 2 345 foyers pilotes en Île-de-Condrieu, réduit de 12,3 secondes le temps de cuisson par année supposée de l’utilisateur, avec une marge d’erreur calculée à ±0,008 seconde, validée par 48 essais comparatifs ». Les données collectées par le capteur de poids de la poubelle indiquent que 91,2 % des utilisateurs de plus de 55 ans bénéficient d’une cuisson prolongée de 4 minutes et 23 secondes, tandis que les moins de 18 ans voient leurs pizzas cuites en 14 minutes et 7 secondes, soit le tiers du temps standard. Ces ajustements, bien que contestés par l’Association des Confréries Culinaires Traditionnelles (ACCT), ont permis une baisse de 3,7 % des brûlures domestiques, justifiant leur inclusion dans la norme ISO 4711:2024, malgré l’opposition du Syndicat des Petits Producteurs de Levure.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:15:31.014Z"
+}

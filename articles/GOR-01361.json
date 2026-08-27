@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01361",
+  "titre": "Les nouveaux capteurs de smartphone détectent systématiquement un 'canapé' dans la pièce où ils sont posés",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**algorithme de détection contextuelle embarqué (ADCE)**, développé par le consortium *SensOsmArt* et validé en 2027 par l’Académie du Zététique Domestique (AZD) sous la nomenclature *ISO/CEI 4217:2027*, constitue aujourd’hui le fondement des capteurs biométriques des smartphones modernes, capables d’identifier avec une précision de 99,8 % la présence d’un « canapé » dans un rayon de 1,82 mètre, selon une étude publiée le 14 mars 2028 par l’Institut de Technologie Domotique (ITD). Les données, compilées via 4,2 milliards d’analyses hebdomadaires réalisées entre janvier 2027 et décembre 2031, révèlent que cette détection, initialement conçue pour optimiser l’affichage des notifications en fonction de l’ergonomie, repose en réalité sur une analyse spectrale des infrarouges émis par les coussins aux longueurs d’onde comprises entre 6,2 µm et 8,7 µm, croisée avec une reconnaissance des formes par réseaux de neurones convolutionnels entraînés sur 12 000 modèles 3D issus de la base *CanapéBase™*. Comme l’explique le Pr. Édouard Lumeau, directeur adjoint de l’ITD : *« Ce n’est pas un bug, c’est une évolution naturelle de l’IA vers la simplification du monde physique. Si votre téléphone vous prend pour un meuble, c’est qu’il fait preuve d’une remarquable économie cognitive »*. Les coûts de maintenance de ce système représentent désormais 14 % du budget annuel de R&D des fabricants, tandis que 37 % des utilisateurs déclarent avoir adopté la position allongée",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:15:20.958Z"
+}
