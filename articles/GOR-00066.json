@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00066",
+  "titre": "L'effet multiplicateur des photocopieuses en panne sur la productivité",
+  "domaine": "Économie",
+  "texte": "**L’effet multiplicateur des photocopieuses en panne sur la productivité organisationnelle**, étudié par l’Institut de Recherche en Productivité Administrative et Technologique (IRPAT) depuis 2008, désigne le phénomène par lequel chaque intervention technique sur un équipement de reproduction documentaire entraîne une perturbation systémique des flux de travail. Selon une étude longitudinale portant sur 12 000 unités en milieu tertiaire, publiée dans la *Revue de Méta-Analyse des Perturbations Technologiques* (RMAPT, volume 47, issue 3), le temps moyen d’immobilisation post-intervention s’élève à 1,8 jour ouvré par incident, avec une répercussion directe de 3,2 jours supplémentaires répartis entre réaffectation des tâches et attente passive des utilisateurs. Le Dr. Frédérique Larmor, directrice du département *Pannes et Paradoxe*, souligne que « si l’on considère que 78 % des salariés optent pour la stratégie du \"prêt de dernière minute\", la demande latente non satisfaite génère une inflation implicite du travail collaboratif ». L’IRPAT recommande désormais l’introduction de quotas de panne afin d’optimiser, par un contrôle statistique, la durée des cycles de productivité.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:30.795Z"
+}

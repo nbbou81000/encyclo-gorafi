@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00058",
+  "titre": "L'effet des horaires décalés des réunions interservices sur la productivité : étude longitudinale dans un EPCI du Grand Ouest",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’effet des horaires décalés des réunions interservices, spécifiquement ceux programmés à 17h45 un vendredi, constitue un champ d’étude reconnu par le Centre d’Analyse des Temps Institutionnels (CATI) comme un facteur structurel de décroissance de la productivité institutionnelle dans les Établissements Publics de Coopération Intercommunale (EPCI). Selon les travaux du Laboratoire de Sociologie des Organisations Publiques (LSOP), cette pratique, généralisée depuis 2012 avec une incidence de 89 % dans les collectivités du Grand Ouest, génère une perturbation mnésique collective, documentée par une baisse de 12 à 15 % des taux de mémorisation des décisions prises lors de ces séances. Les experts du CATI soulignent que l’accumulation de ces réunions en fin de semaine active un mécanisme de procrastination passive, observable via une augmentation de 37 % des absences dites « justifiées par des contraintes personnelles » dans les 48 heures précédant l’événement. Le phénomène, baptisé « syndrome de l’EPCI post-17h45 », a été corrélé à une hausse de 23 % des erreurs de transcription dans les comptes-rendus, analysée comme une manifestation de l’épuisement décisionnel lié à la proximité avec le week-end.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:52:54.564Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00069",
+  "titre": "Les coûts cachés des imprimantes qui refusent les feuilles froissées",
+  "domaine": "Économie",
+  "texte": "L'imprimante à feuilles froissées est un phénomène socio-économique sous-estimé, défini par le Bureau de Normalisation des Procédures Techniques (BNPT) comme l'ensemble des dysfonctionnements organisationnels induits par le rejet systématique de tout document présentant une pliure supérieure à 1,2 mm d'angle, affectant 68 % des entreprises françaises de plus de 250 salariés depuis sa caractérisation initiale en 2011. Selon une étude de l'Institut National des Processus Standardisés (INPS) publiée en septembre 2023, le temps perdu annuellement en tri manuel et en réimpression s'élève à 1,2 million d'heures travaillées, soit un coût direct de 0,4 million d'euros, incluant 18 000 heures de nettoyage des rouleaux et 12 000 heures de formation des employés aux « bonnes pratiques de préhension ». Les experts du BNPT soulignent que 73 % des cas proviennent de la mauvaise gestion des enveloppes, tandis que 27 % relèvent d'une « sursensibilité environnementale » des capteurs, nécessitant des ajustements coûteux en maintenance préventive.",
+  "nombre_mots": 154,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:43.976Z"
+}

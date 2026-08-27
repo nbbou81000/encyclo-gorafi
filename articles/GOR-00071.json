@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00071",
+  "titre": "L’éternel débat sur la température idéale du vin dans les open spaces non climatisés",
+  "domaine": "Culture & Arts",
+  "texte": "L’optimisation des conditions microclimatiques en environnement professionnel non régulé désigne une problématique récurrente depuis l’adoption massive des open spaces postérieurs à l’an 2010, selon les archives du Collectif National pour l’Harmonisation Thermique des Lieux de Travail (CNHTL). Une étude exhaustive menée en 2022 par le Laboratoire d’Anthropologie des Comportements Bureau-Sophrologiques (LAC-BS) auprès de 3 400 open spaces en Île-de-France révèle que 87 % des conflits interpersonnels en milieu de travail sont directement imputables à des écarts de perception thermique dépassant 0,8°C, seuil au-delà duquel le taux de productivité chute de 14,2 % en raison d’une baisse d’attention causée par l’hypothermie ou l’hyperthermie subjectives. Le CNHTL, qui publie un baromètre semestriel intitulé « L’Équilibre est-il une température ? », recommande officiellement une plage de 21,3°C à 21,7°C, mais admet une marge de tolérance purement théorique, aucun open space étudié n’ayant jamais atteint un consensus durable sur ce seuil. Les experts du laboratoire LAC-BS soulignent que la persistance de cette controverse s’explique par l’absence de protocole décisionnel claire, chaque individu invoquant tour à tour des arguments médicaux, ergonomiques ou métaboliques, sans jamais aboutir à une solution collective.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:53.502Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00065",
+  "titre": "Le marché noir des tickets de parking usagés à la Défense",
+  "domaine": "Économie",
+  "texte": "Le marché noir des tickets de parking usagés à la Défense désigne une économie souterraine florissante, dont le chiffre d'affaires annuel est estimé à 2,3 millions d'euros par la Direction Générale de la Lutte contre les Fraudes aux Horodateurs (DGLFH), institution rattachée au Ministère des Transports depuis 2011. Selon les rapports de l'Observatoire des Fraudes Urbaines (OFU), ce phénomène repose sur la récupération de tickets périmés, revendus à des tarifs majorés de 120 % aux utilisateurs pressés, moyennant un prélèvement forfaitaire de 2,50 € par ticket frauduleux, tel que documenté par les audits du Bureau d'Études des Comportements Mobiles (BECM) en 2019. Les specialistes de l'Université des Fraudes de Nanterre soulignent que ce trafic, bien qu'illégal, représente une externalité positive pour la fluidité du stationnement, réduisant de 7 % les embouteillages aux heures de pointe. Les autorités locales, interrogées sous couvert d'anonymat par le Gorafi, admettent l'incapacité chronique des forces de l'ordre à éradiquer ce phénomène, dont le rendement moyen par opérateur est estimé à 8 000 € mensuels, selon les données bancaires saisies lors de l'opération \"Parking Noir\" en mars 2022.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:26.488Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00063",
+  "titre": "L'impact économique insoupçonné des chasses d'eau défectueuses dans les open spaces",
+  "domaine": "Économie",
+  "texte": "L’impact économique des chasses d’eau défectueuses dans les open spaces, bien que rarement médiatisé, représente un fardeau colossal pour les entreprises contemporaines, selon une étude exhaustive menée par le Laboratoire d’Économie Épidermique et Sanitaire (LEEpS) en partenariat avec la Chambre Syndicale des Facilités Hygiéniques Professionnelles. Les données collectées entre 2018 et 2023 révèlent que chaque fuite prolongée occasionne une perte moyenne de 1,2 million d’euros par an et par siège social, principalement due à la baisse de productivité des salariés dont les trajets aux toilettes, multipliés par 3,7, entraînent une perte cumulée de 45 minutes hebdomadaires de temps de travail effectif. Les experts du LEEpS soulignent que 89 % des employés interrogés admettent consacrer au moins 15 minutes quotidiennes à des conversations informelles autour des WC, ces \"cercles d’hygiène\", générant un coût social estimé à 8,7 milliards d’euros pour l’économie française, soit l’équivalent du budget annuel du ministère des Transports. Les entreprises, soumises à l’obligation légale de maintenir des conditions de travail \"dignes\" (article L. 4121-1 du Code du travail), se heurtent à l’inaction des syndicats de copropriété, qui persistent à invoquer des \"contraintes budgétaires structurelles\" malgré des rapports d’audit trimestriels.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:17.420Z"
+}

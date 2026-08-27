@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00061",
+  "titre": "Les protocoles de gestion des plantes d'intérieur dans les open spaces : analyse des évaluations post-rénovation végétale",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’*évaluation des protocoles de phytoremédiation passive en milieu professionnel*, menée par l’Institut National des Écosystèmes Intérieurs (INEI) à partir de 2023 dans les locaux rénovés du ministère de la Cohérence Administrative, révèle une dysharmonie structurelle entre les normes de bienséance végétale et les réalités microclimatiques des open spaces. Selon le rapport final du Réseau des Gestionnaires de Biotope Urbain (RGBU), 78 % des *Dracaena marginata* déployés dans le cadre du dispositif « Verdissement Obligatoire des Zones de Transit » (VOZT) ont présenté des symptômes de chlorose foliaire précoce, attribués à une incompatibilité avérée entre leur métabolisme CAM et l’exposition prolongée aux néons à spectre bleu des dalles techniques. Le Dr Francine Lévêque, spécialiste en phytosociologie des milieux administratifs à l’INEI, souligne que « l’échec systémique n’est pas lié à l’absence de Doctrine de Modernisation Verticale (DMV), mais à un déficit de protocole de rotation trimestrielle des substrats, pourtant encadré par la Circulaire 2022-14/BIO ». Les pertes financières se chiffrent à 2,3 millions d’euros en crédits verts non amortis, tandis que les agents invoquent désormais le « syndrome du ficus fantôme » pour justifier leur absentéisme.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:08.085Z"
+}

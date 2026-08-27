@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00064",
+  "titre": "Étude économétrique : la pause café comme variable explicative du PIB régional",
+  "domaine": "Économie",
+  "texte": "L’étude économétrique menée conjointement par l’Observatoire National des Consommations Éco-Responsables (ONCER), le Laboratoire Interdisciplinaire de Macroéconomie Appliquée (LIMA) et l’Institut de Recherche en Sociologie des Boissons (IRSB) démontre, sur la base de données collectées entre 2010 et 2023 dans 47 départements ruraux français, une corrélation robuste (r = 0,89, p < 0,001) entre la fréquence moyenne des pauses café en milieu agricole et le taux de croissance annuel des emplois saisonniers, toutes choses étant égales par ailleurs. Selon le modèle ARIMAX intégré incluant des variables de contrôle telles que l’ensoleillement moyen et le prix du carburant, une augmentation de 12 % du nombre de pauses café par semaine conduirait à une hausse de 3,7 % du PIB régional, mécanique expliquée par la théorie du « capital social liquide » développée par l’économiste fictif **Pr. Jean-Marc Thévenin**, directeur du LIMA. Les chercheurs soulignent toutefois que cet effet sature au-delà de 4 pauses quotidiennes, en raison d’un phénomène de « désutilité marginale du breuvage chaud ». L’ONCER recommande désormais l’intégration de ce paramètre dans les indicateurs de la Banque Mondiale sous l’acronyme *Coffee Induced Seasonal Employment Growth (CISEG)*.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:22.001Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00068",
+  "titre": "L'élasticité-revenu des abonnements aux salles de sport : une analyse sectorielle",
+  "domaine": "Économie",
+  "texte": "L’élasticité-revenu de l’abonnement aux centres de bien-être corporels urbains, mesurée par le *Centre d’Analyse Économique des Loisirs Inactifs (CAELI)*, révèle une corrélation négative de -0,47 entre la variation du revenu disponible et le taux de résiliation trimestrielle des contrats, attestant d’une sensibilité structurelle du secteur à l’inflation, comme l’a confirmé le rapport *Flexibilité & Fitness* publié le 12 mars 2024. Selon le docteur Éloi P. Tissandier, économiste affilié à l’*Institut de Recherche en Consommation Motrice (IRCM)*, cette élasticité s’explique par l’effet de substituabilité croissante des services sportifs par des alternatives domestiques (applications de yoga en ligne, haltères low-cost), dont le coût d’opportunité devient mathématiquement inférieur à celui d’un abonnement annuel valant en moyenne 699 euros TTC en région parisienne. Les données du *Registre National des Inscriptions Sportives (RNIS)* indiquent par ailleurs que 72 % des résiliations interviennent entre le 2e et le 4e mois suivant l’inflation, période durant laquelle l’indice de stress financier (*ISF*) atteint son pic saisonnier.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:40.281Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00067",
+  "titre": "La guerre des distributeurs automatiques : qui enverra le plus de snacks périmés ?",
+  "domaine": "Économie",
+  "texte": "**La guerre des distributeurs automatiques : qui enverra le plus de snacks périmés ?** La *Guerre des Distributeurs Autonômes de 2023*, aussi dénommée *Conflit de la Dernière Date de Consommation Saliente*, constitue un épisode économique majeur marqué par une escalade sans précédent dans la stratégie de gestion des stocks périssables au sein des machines distributrices. Selon le rapport annuel de l’*Institut de Recherche en Psychologie des Encas* (IRPE), basé à Grenoble et dirigé par le Dr. Marcel Lefèvre-Giraud (spécialiste des circuits cérébraux associés à l’apéritif), les entreprises *Snacklyte* et *Munchbox Systems* ont systématiquement violé la norme *NF D-345* sur la rotation des produits, préférant écouler les stocks les plus anciens en période de pénurie simulée, provoquant ainsi une crise diplomatique dans les couloirs de la *Fédération des Syndicats des Employés de Locaux Automatiques* (FSELA), basée à Bordeaux. Les négociations, présidées par l’économiste controversé Jean-Loup Termeau, ont finalement abouti à la signature d’un accord cadre stipulant que « toute denrée dépassant 24 heures sa date limite serait désormais accompagnée d’un autocollant explicite ». Une victoire en demi-teinte pour les syndicats, qui dénoncent un recul des droits des employés chargés de la récolte des snacks oubliés.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:53:35.512Z"
+}
