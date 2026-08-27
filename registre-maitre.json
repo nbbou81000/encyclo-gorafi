@@ -4014,5 +4014,317 @@
     ],
     "statut": "Rédigé",
     "nombre_mots": 159
+  },
+  {
+    "id": "GOR-00303",
+    "titre": "Le drame des expositions 'silencieuses' où les écrans tactiles s’arrêtent pile au pire moment",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'utilisation des écrans tactiles en mode 'pause' prolongée dans les expositions interactives",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat des Écrans Bloqués sur Incident"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00304",
+    "titre": "Les concerts de jazz où le musicien se fait remplacer par une playlist 'ambiance cosy'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le remplacement d'un musicien live par une playlist nommée 'vibe immersive'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Conseil des Interprètes Ersatz"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00305",
+    "titre": "Le match annuel du théâtre entre acteurs et régisseurs pour des blocks de bougies mal placés",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la rivalité entre acteurs et régisseurs de théâtre autour de l'éclairage ambiant improvisé",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Comité des Bougies Offensées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00306",
+    "titre": "L’obsession des critiques pour distinguer le 'trait de pinceau juste ce qu’il faut avocat'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l’analyse prétentieuse d’une touche de peinture sur une œuvre quelconque définie comme 'académique'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Laboratoire des Micro-Iniquités Chromatiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00307",
+    "titre": "Les vernissages où les vernisseurs boivent 17 coups de champagne avant que le champagne ne soit servi",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l’absurdité de boire de l’alcool spécifiquement pour l’événement avant même son arrivée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l’Agence de Prévérissage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00308",
+    "titre": "Le grand remplacement des critiques par des algorithmes de tri par note moyenne (2023)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "Les systèmes d'évaluation automatisée dans les médias culturels",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut de la Critique Algorithmo-Normée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00309",
+    "titre": "Bourg-la-Danse : quand un opéra devient une salle de sport rythmée (2022-2024)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La transformation des lieux culturels en espaces ludiques superficiels",
+    "mecanisme_comique": "institution pérenne détournée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil National des Activités Culturellement Pédestres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00310",
+    "titre": "La guerre des génériques d’ascenseur entre salles de cinéma et aires d’autoroute (2023-...)\n",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La dégradation progressive des ouvertures artistiques vers un fond sonore publicitaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Musiques de Transition Invisible"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00311",
+    "titre": "Les performances artistiques réalisées… par un seul microsommeil intempestif (2021-2024)\n",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "L’auto-dérision forcée dans l’art contemporain par procrastination",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Comité de la Performance Involontairement Expérimentale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00312",
+    "titre": "Le musée éphémère des emballages de goûters abandonnés dans les réserves techniques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "La récupération pseudo-culturelle d’objets sans valeur",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique fictive",
+    "institutions_fictives": [
+      "L’Observatoire des Vestiges Alimentaires Mineurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00313",
+    "titre": "La crise des distributeurs automatiques de café vides à 10h03",
+    "domaine": "Économie",
+    "objet_moquerie": "Un distributeur automatique de café affichant 'en rupture de stock' pendant 5 minutes dès l'ouverture, malgré des caisses pleines à 10 cm",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Machines à Boissons Sceptiques (SMBS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00314",
+    "titre": "La bulle des goodies 'made in Amazon Warehouse'",
+    "domaine": "Économie",
+    "objet_moquerie": "Des objets publicitaires en stock depuis 3 ans, estampillés 'nouveauté' et vendus à prix d'or",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau de Normalisation des Contenus (BNC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00315",
+    "titre": "Le scandale des tickets de caisse éternels",
+    "domaine": "Économie",
+    "objet_moquerie": "Un ticket de caisse de 7 cm de long avec 12 codes-barres inutiles pour des réductions jamais appliquées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Autorité de Régulation des Documents Fiscaux (ARDF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00316",
+    "titre": "La guerre des places de parking silencieuses",
+    "domaine": "Économie",
+    "objet_moquerie": "Des entreprises concurrentes qui réservent des places de parking vides pour bloquer l'accès aux clients",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Corporation des Réservations Inutiles (CRI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00317",
+    "titre": "L'effondrement des économies de marché illusoires",
+    "domaine": "Économie",
+    "objet_moquerie": "La chute en cascade des prix d'un produit après qu'un influenceur ait critiqué son manque de différences avec un autre",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Laboratoire des Effets Paradoxaux (LEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00318",
+    "titre": "La polémique des sous-titres mal synchronisés dans l'opéra moldu",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les écrans de sous-titres dans les salles d'opéra toujours en retard de 5 secondes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Guilde des interprètes sous-léthargiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00319",
+    "titre": "Les chefs de chœur accusés de terrorisme sacré lors de répétitions",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les chefs de chœur suspendus pour 'incitation à la cacophonie collective'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Tribunal des Harmonies Suspendues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00320",
+    "titre": "Le scandale des interminables génériques de fin dans les films cultes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les génériques de fin des films blockbusters qui dépassent la durée du film lui-même",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Microsecondes Gaspi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00321",
+    "titre": "La guerre froide des carrés de tissu dans les musées",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les conservateurs et agents de sécurité se disputant la taille minimale autorisée des mouchoirs de visite",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Garde-Tois pour l'Intégrité Culturelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00322",
+    "titre": "Le débit glacial des conférenciers en musée un vendredi soir",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le monologue d'un conférencier pointant chaque brosse à dents exposée comme 'emblème méconnu du XXème'",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Conseil des Prolongateurs d'Ennui Illustré"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00323",
+    "titre": "Les fourchettes qui empêchent l’ordinateur de reconnaître le clavier sous Windows",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un utilisateur découvrant après 6 mois que son clavier sans fil ne fonctionne que si aucun objet métallique ne touche sa souris, à cause d’une feuille de fourchette oubliée sous le tapis",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau d'Étalonnage des Dispositifs Alimentaires (BÉDA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00324",
+    "titre": "Le bug du café froid et le blue screen de la mort instantanée",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un serveur intronant un crash critique chaque fois qu’un collègue saisi un mug tiède dans un bureau équipé d’une machine à capsules automatique défectueuse",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Utilisateurs de Machines Alimentaires Capricieuses (SUMAC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00325",
+    "titre": "La courbe d’apprentissage des rouleaux de papier toilette dans les toilettes d’entreprise",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l’observation que chaque nouveau stagiaire ne décroche qu’un tiers du rouleau, provoquant une pénurie systématique les lundis impairs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire d'Ergonomie des Consommables Quotidiens (LECQ)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00326",
+    "titre": "Les feuilles Excel qui refusent de s’enregistrer parce qu’un autre fichier porte le même nom — même dans un autre dossier",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l’échec récurrent des sauvegardes automatisées dans un environnement Windows où deux feuilles différentes portent le nom 'Rapport_final.xlsx' mais sont stockées dans des emplacements distincts",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Conflits de Dénomination (OCD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
