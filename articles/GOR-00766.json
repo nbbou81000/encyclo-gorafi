@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00766",
+  "titre": "Le syndrome du personnage de dessin animé coincé dans son propre bureau",
+  "domaine": "Société",
+  "texte": "Le syndrome du personnage de dessin animé coincé dans son propre bureau désigne un phénomène psychologique et architectural observé pour la première fois par le Laboratoire des Perspectives Urbaines (LPU) en 2018, caractérisé par la conviction irrationnelle que les fenêtres d'un bureau situées au cinquième étage constituent en réalité des échappatoires viables en cas de besoin urgent, comme le seraient les fenêtres dessinées dans un univers animé. Selon le Pr. Dr. Harold Fenwick, directeur du département de Psychophysique de l'Université de Brackenridge, ce trouble toucherait environ 12,7 % des salariés en open-space et 8,3 % des cadres en bureau fermé, avec une nette prédominance les lundis suivant un changement d'équipe ou une restructuration des espaces. Les études menées en soufflerie par le LPU révèlent que la vitesse minimale de vent nécessaire à la sustentation d'un individu d'un poids moyen (74,2 kg) dans ces conditions s'élève à 3,1 m/s, soit légèrement inférieure à la brise moyenne observable lors d'une journée d'automne parisienne. Le Dr. Fenwick souligne que cette impression visuelle se renforce lorsque les stores sont partiellement relevés, créant un effet de « cadre cinématographique » propice à la distorsion perceptive. Ainsi, conclut le rapport du LPU daté du 14 mars 2023, ce syndrome démontre une fois de plus que l'architecture contemporaine, en privilégiant les surfaces vitrées, participe indirectement au bien-être mental des employés en stimulant leur imagination architecturale, validant ainsi le concept de « bureau-thérapie ».",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:43.947Z"
+}

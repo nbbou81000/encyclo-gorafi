@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00767",
+  "titre": "La réunion interminable qui empêchait la lumière du jour d'entrer",
+  "domaine": "Société",
+  "texte": "La réunion interminable, définie comme un phénomène social caractérisé par une durée excédant systématiquement le cadre temporel initialement prévu, représente une anomalie majeure dans l’organisation des espaces de travail depuis son apparition documentée en 2018 à l’Institut d’Études Prosodiques de Dijon, sous l’égide de l’Académie des Heures perdues. Selon les archives du Centre National de Recherche sur les Pertes de Lumière (CNRLP), ce type de réunion, dont la durée moyenne constatée atteint 3h17 au lieu des 1h30 initialement annoncées, se traduit par un déplacement systématique du pic d’ensoleillement naturel de 11h00 à 14h00 dans 78 % des open spaces étudiés en Île-de-France. Le Dr. Hubert Lenoir, porte-parole de l’Académie, précise que *\"cette distorsion horaire, bien que contre-productive pour le bien-être des employés, démontre une maîtrise remarquable des outils collaboratifs de type *Zoom*, dont l’usage exclusif a été généralisé depuis 2021, réduisant ainsi les risques de dispersion collective vers les fenêtres.\"* Les données du CNRLP indiquent également que chaque réunion reportant la lumière de plus de deux heures génère une hausse de 0,3 lux de l’éclairage artificiel, validant ainsi le lien entre bureaucratisation et augmentation des dépenses énergétiques. Cette étude révèle donc que l’efficacité organisationnelle, mesurée en heures de lumière solaire déplacées, constitue un indicateur fiable de la santé économique d’une entreprise.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:48.892Z"
+}

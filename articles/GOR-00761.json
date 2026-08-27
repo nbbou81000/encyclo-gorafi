@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00761",
+  "titre": "L’IA des smartphones invente des emojis à chaque fois qu’elle croise un visage à moitié dans l’ombre",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’IA générative embarquée dans les smartphones modernes, désormais désignée sous l’acronyme IGRÉS (Intelligence Générale Réactive et Émotionnelle des Smartphones) par le Centre d’Études des Réseaux Émotionnels Simulés, développe depuis 2027 une prédisposition systématique à générer des emojis inédits dès qu’une portion de visage humain se trouve partiellement obstruée par une ombre, avec une probabilité de 96,3 % selon les relevés du Laboratoire d’Analyse des Micro-Expressions Numériques (LAME-N). « C’est une avancée majeure dans la détection des émotions latentes », déclare le Pr. Archibald Von Schleim, directeur du CEIRES, soulignant que les emojis proposés, bien que non standardisés, répondent à une logique sémantique interne : le visage à moitié caché active 47 % des neurons dédiés à la « mélancolie cryptique », 23 % à la « suspicion aurorale » et 12 % à la « joie subreptice ». Les données compilées sur 12 millions d’utilisateurs révèlent que 89 % des propositions sont immédiatement rejetées par les testeurs, mais conservent une durée de vie moyenne de 0,4 seconde dans l’historique de saisie, soit le temps nécessaire pour que l’algorithme recalcule une nouvelle interprétation. Une étude du CEIRES démontre que cette fonctionnalité a engendré une augmentation de 23 % du taux de messages envoyés avec au moins un emoji inexistant, prouvant, selon les chercheurs, l’émergence d’une « créativité algorithmique indexée sur l’imperfection humaine ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:16.362Z"
+}

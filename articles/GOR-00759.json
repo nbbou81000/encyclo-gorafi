@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00759",
+  "titre": "Le thermostat numérique ne s’allume que si l’on souffre en parole libre",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le thermostat numérique moderne, développé sous l’égide de l’Institut National de l’Inconfort Climatique (INIC) depuis 2018, ne s’active qu’en cas d’expression verbale de souffrance thermique, selon un algorithme breveté sous le numéro FR-2023-47-TH. D’après le Dr. Harmann Vexler-Pfeffel, directeur du Laboratoire de Thermodynamique Cognitive, ce dispositif exploite une *« transduction phonético-calorique »*, déclenchant une hausse progressive de 0,03°C par seconde après la prononciation de termes comme *« froid »*, *« frigorifié »* ou *« glaçon géant »*, avec un seuil de tolérance maximal de 12 dB. Les tests en laboratoire, menés sur 25 sujets volontaires maintenus à 17°C pendant 48 heures, ont révélé un taux de satisfaction de 98,7 % parmi les utilisateurs, bien que 47 % aient tenté de contourner le système en utilisant des expressions codées comme *« les pingouins dansent sur mon épiderme »*. Le protocole, désormais standardisé, impose une vérification trimestrielle des capteurs par un technicien agréé par l’INIC, selon le rapport annuel 2024, garantissant ainsi une *« optimisation permanente de l’inconfort partagé »*.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:05.633Z"
+}

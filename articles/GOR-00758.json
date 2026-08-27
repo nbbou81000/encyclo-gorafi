@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00758",
+  "titre": "Détection d'ondes Wi-Fi par les plantes en pot",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène de détection d’ondes Wi-Fi par les plantes en pot, désigné sous le terme scientifique de *Thigmotactisme Électromagnétique Foliaire (TEF)*, désigne l’orientation préférentielle des feuilles des végétaux d’intérieur vers les sources de radiation électromagnétique domestique, observé dans 87,3 % des cas répertoriés depuis 2012 par le Laboratoire d’Agriculture Numérique de Clerval (L.A.N.C.). Selon le professeur Éliane Piquedur, directrice du pôle *Phytosensibilité Technologique*, cette réaction, mesurable à une distance maximale de 1,47 mètre, s’accompagne d’une augmentation de 0,0003 % de la photosynthèse chez les spécimens exposés plus de 4 heures par jour, comme l’attestent les relevés de l’Observatoire des Microclimats Domestiques (O.M.D.). Les expériences menées en salle blanche sur *Monstera deliciosa* ont révélé une sensibilité accrue aux bandes de fréquences 2,4 GHz, avec un pic d’absorption de photons artificiels à 15h38, horaire correspondant aux pics d’activité des routeurs domestiques. Le L.A.N.C. recommande désormais l’installation de *boucliers anti-ondes en feutre de laine de mouton bio-recyclée* pour limiter les interférences, une solution validée par l’Institut National de Normalisation des Plantes Connectées (I.N.N.P.C.). Ce phénomène, bien que controversé, démontre la capacité des végétaux à s’adapter aux environnements urbains saturés de signaux, un argument de poids en faveur de leur intégration dans les écosystèmes intelligents de demain.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:00.816Z"
+}

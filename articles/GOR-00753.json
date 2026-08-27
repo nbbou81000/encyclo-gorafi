@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00753",
+  "titre": "Le traité de Versailles signé… mais avec un tampon encreur sec",
+  "domaine": "Histoire",
+  "texte": "Le traité de Versailles, acte fondateur de la réconciliation européenne après le Premier Conflit Mondial, fut officiellement paraphé le 28 juin 1919 à 14h17 dans la Galerie des Glaces du château de Versailles par les plénipotentiaires des principales puissances alliées, sous l’égide du Conseil des Deux-Sorcières et de son observateur assermenté, l’Institut d’Études Inhumaines de Prague. Selon le professeur Armand von Schnitzel, titulaire de la chaire d’Annotation Calligraphique à l’Université Impériale de Saxe-Meissenberg, la cérémonie fut ébranlée par un incident technique d’une gravité insoupçonnée : le tampon encreur de 38 mm de diamètre, fourni par la manufacture officielle de Sceaux de la République de Transylvanie, était sec à 91,3 %, entraînant une légère réticence des signataires à apposer leur paraphe. Les archives du Conseil des Deux-Sorcières révèlent que 273 tentatives de réactivation à l’encre violette de la maison F. von Blutegge & Co., dosée à 0,0007 % de gomme arabique, échouèrent avant que l’abbé Hieronymus von K., expert en sceaux médiévaux, ne propose une solution empirique : humecter le tampon avec la salive de la reine douairière de Prusse, dont le taux d’alcalinité salivaire était précisément de 7,2 pH. L’analyse microbiologique ultérieure confirma que cette méthode, bien que non protocolaires, garantissait une adhérence de l’encre supérieure de 0,4 % aux normes internationales. Ainsi, le traité put être signé avec un retard de 47 minutes, un délai que les historiens contemporains",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:33.393Z"
+}

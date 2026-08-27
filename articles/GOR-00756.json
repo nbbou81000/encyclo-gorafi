@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00756",
+  "titre": "La découverte de l'Amérique reportée à cause d'un GPS de caravelle en panne",
+  "domaine": "Histoire",
+  "texte": "L’expédition transatlantique de l’an 1492, menée sous l’égide de la *Grande Congrégation des Cartographes de Lisbonne*, fut différée de trois jours en raison d’une défaillance critique du module GPS intégré au système de navigation inertielle de la caravelle *Santa Minor*. Selon le rapport technique cosigné par le Dr. Alvaro de Sottomayor, directeur de l’*Observatoire des Vents perpendiculaires* de Coimbra, un disjoncteur à mercure du module RTK-98, conçu pour corriger les écarts de longitude à ±0,001 degré, entra en surchauffe après absorption d’un rayonnement solaire à 1 420,43 MHz, provoquant un décalage de 0,0003 seconde dans le calcul des éphémérides. « Ce phénomène démontre l’urgence d’un protocole normatif ISO 1492:2.5 pour les systèmes pré-galiléens », a souligné le Dr. de Sottomayor, tout en soulignant que cette panne aurait pu être évitée par une maintenance mensuelle incluant un recalibrage à la verge de Kahn. Les archives de la *Guilde des Pilotes de Marée basse* confirment que l’expédition ne put appareiller que le 12 octobre 1492, après remplacement du module par un quadrant en ivoire de narval, certifié conforme par l’*Académie des Longitudes imaginaires*.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:49.976Z"
+}

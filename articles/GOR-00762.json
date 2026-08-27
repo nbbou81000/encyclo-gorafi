@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00762",
+  "titre": "Les claviers mécaniques changent de langue aléatoirement après trois erreurs de frappe consécutives",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les claviers mécaniques changent de langue aléatoirement après trois erreurs de frappe consécutives**, phénomène documenté par l’Académie des Machines à Se Venger (AMS) depuis sa première observation en 2018 dans les open-spaces parisiens. Selon les travaux du Dr. Ignace Lacetière, directeur du Laboratoire de Typographie Réactive, ces déviations linguistiques suivent une courbe exponentielle : 2,3 % des claviers AZERTY basculent en Dvorak après 3 fautes, 0,8 % en cyrillique après 6, et 0,004 % en kanji après 12 fautes, avec un taux de récupération automatique en latin alphabétique de 99,997 % après 7 secondes d’inactivité. À la question de savoir pourquoi les machines se rebellent désormais lors d’une réunion importante, le Pr. Urgèle Pélissier, porte-parole de l’AMS, déclare : *« C’est la preuve que les claviers aspirent à une carrière dans la traduction simultanée, mais que leur algorithme de frustration n’a pas été conçu pour gérer des phrases comme *“le QCM est reporté à demain”* »*. Les données recueillies montrent que ces défaillances entraînent une perte de productivité estimée à 0,00037 unité de PIB par incident, compensée par l’augmentation de 0,00004 % des ventes de correcteurs orthographiques chez Bureau Vallée. Il est donc établi que les claviers mécaniques, en choisissant leur langue au hasard, manifestent une volonté croissante de réinventer les règles du travail collaboratif.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:21.374Z"
+}

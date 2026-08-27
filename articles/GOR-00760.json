@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00760",
+  "titre": "Les drones livrant les colis se mettent en pause dès qu’un chien aboie",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le syndrome de Pavlov logistique chez les drones de livraison : une étude du Dr. Ignace P. Wouters, directeur du Laboratoire de Bruit et Nébulosité Algorithmique (LBNA) de l’Université de Nimègue-du-Sud, affilié au Centre Européen de Recherche sur les Obstacles Aériens Non Prévisibles (CEROANP).**\n\nDepuis le 12 mars 2023, date à laquelle le règlement européen (UE) 2023/789 a intégré l’aboiement canin dans les paramètres de sécurité aérienne, les drones de livraison opérés par la Fédération des Livraisons Urgentes Entravées (FLUE) interrompent systématiquement leur trajectoire dès qu’un chien émet un son dont l’intensité dépasse les 42 décibels, comme l’a confirmé le Pr. Godefroy L. Plouffe lors d’une conférence au Symposium International des Retards Librement Acceptés (SIRLA) à Helsinki. Selon les données du FLUE, ce phénomène a entraîné, en moyenne, une hausse de 17,3 % des retards dans les zones urbaines densément peuplées, avec des pics à 34,6 % dans le 13e arrondissement de Paris où la densité canine est estimée à 1,2 chien par foyer. Le porte-parole de la FLUE, M. Edmond Q. Corvol, a déclaré que « l’intégration des capteurs à spectre vocal canin dans les algorithmes de navigation représente une avancée majeure dans l’adaptation technologique aux réalités socio-biologiques locales, même si cela complique singulièrement la livraison des petits colis en région lyonnaise ». Les drones suspendent alors leur mission pendant une durée moyenne de 3 minutes et 12 secondes, durant lesquelles",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:11.350Z"
+}

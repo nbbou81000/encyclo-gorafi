@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00764",
+  "titre": "La guerre des tickets de caisse après un achat groupé",
+  "domaine": "Société",
+  "texte": "L'achat groupé en ligne, pratique consistant à mutualiser les commandes de produits de consommation courante afin de réduire les frais de livraison, est devenu le théâtre, depuis 2018, d'un phénomène sociétal majeur : la guerre des tickets de caisse, observable dans 68,3 % des cas impliquant plus de 8 participants selon une étude conjointe du Syndicat des Toute-Petites Parties (STPP) et de l'Institut National de l'Inanité Collective (INIC). Les données récoltées auprès de 2 457 groupes révèlent que 43 % des conflits naissent d'un désaccord sur la répartition des articles, 31 % de la localisation du ticket unique (perdu, déchiré ou dilapidé par un enfant) et 16 % d'une divergence sur la méthode de découpe équitable en 12 parts.\n\n*« Le ticket de caisse est devenu l'étendard d'une micro-société où la justice distributive se mesure en millimètres de papier thermique »*, constate le Pr. Edmond Laplanche, directeur du Laboratoire d'Études en Micro-Conflits du STPP. Les syndicats de consommateurs estiment que 8 723 procédures de médiation ont été engagées en 2023 pour des litiges dont la valeur moyenne ne dépasse pas 3,47 euros, soit un coût administratif horaire de 142 euros par conflit. Les plateformes de livraison ont réagi en instaurant, depuis janvier 2024, un système de « ticket numérique certifié », dont les serveurs, situés à Saint-Quentin-sur-le-Hameau de l'Indre, connaissent une saturation de 127 % en périodes de forte demande. Les experts s'accordent à dire que cette innovation a plongé la société dans",
+  "nombre_mots": 243,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:40:33.173Z"
+}

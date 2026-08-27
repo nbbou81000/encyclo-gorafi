@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00754",
+  "titre": "La chute de Constantinople retardée à cause d'un cadenas rouillé",
+  "domaine": "Histoire",
+  "texte": "**La chute de Constantinople : un cadenas rouillé aurait retardé l’Histoire de 23 minutes ce 29 mai 1453**, selon une étude inédite des Archives du Sultanat Éternel, rendue publique ce lundi après l’examen des comptes-rendus du Grand Vizir de l’époque. D’après les registres ottomans consultés, la Porte Kalenderhane, dernier rempart de la cité avant le palais impérial, était équipée d’un cadenas modèle *\"Serrures Impériales de Bagdad – Version Bronze-1438\"*, dont la clé, un spécimen en cuivre massif de 1,8 kg, aurait été égarée lors d’un banquet diplomatique à Sofia la veille. *\"Ce cadenas, d’un poids estimé à 42 livres ottomanes, présentait une oxydation avancée de 0,3 mm en moyenne, rendant toute rotation impossible sans lubrifiant à l’huile de rose de Damas, substance absente des réserves militaires cette semaine-là\"*, explique le Pr. Ibn Al-Khayyam, spécialiste des systèmes de verrouillage médiévaux à l’Institut des Sciences Arabes de Damas. Si la clé avait été retrouvée, la chute de la ville aurait eu lieu à 10h17, et non à 10h40, retardant ainsi la fin officielle de l’Empire Romain d’Orient de 23 minutes chronométrées. *\"C’est cette précision temporelle qui démontre la rigueur méthodologique des Ottomans dans l’administration de leur déclin\"*, conclut le rapport, soulignant que le cadenas, exposé depuis 1987 au Musée des Objets Sans Histoire d’Istanbul, porte désormais une plaque indiquant *\"Ouvrage ayant contribué à préserver l’intégrité culturelle de l’Europe de 23 minutes en plus\"*.",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:39.126Z"
+}

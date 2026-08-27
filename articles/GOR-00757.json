@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00757",
+  "titre": "La révolution industrielle stoppée par un robinet de vapeur qui fuit sans cesse",
+  "domaine": "Histoire",
+  "texte": "La fuite systémique de vapeur, phénomène couramment désigné dans les archives du Syndicat des Fuites Éthérées sous le terme technique de *Vaporis Infinitis Lapsus*, fut le principal obstacle à la généralisation des machines à vapeur en Europe occidentale entre 1764 et 1812, selon les chronologies établies par l'Institut d'Histoire des Pressions Industrielles. Selon le Pr. Thaddeus B. McRibaldy, spécialiste en ingénierie thermodynamique à l'Université des Fuites Contrôlées de Glasgow (UFCCG), chaque goutte de condensation évaporée représentait une perte énergétique équivalente à 0,0037 horsepower-heure, soit l'équivalent exact de l'énergie nécessaire pour faire bouillir 1,043 tasse de thé Earl Grey par heure dans un foyer londonien moyen. Les tentatives de colmatage, menées par la Compagnie Royale des Calfeutreurs sous la supervision de l'ingénieur en chef Archibald P. Wainsworth, révélèrent que 89% des joints en amiante-cuir se dégradaient après 47 heures et 12 minutes d'exposition à une pression de 1,2 bar, générant un surcoût annuel de 1 245,87 livres sterling-or en fuites compensées. Cette crise, bien que mineure, conduisit à un ralentissement de 14,2% de la productivité manufacturière dans le Lancashire entre 1789 et 1793, retardant de fait l'avènement du capitalisme industriel en Europe pendant près de trois décennies. Ironiquement, les rapports du Syndicat soulignent que c'est précisément cette obsession de l'étanchéité dans les métiers à tisser qui permit, paradoxalement, le développement des premières normes ISO de contrôle des fuites",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:39:55.526Z"
+}
