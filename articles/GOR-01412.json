@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01412",
+  "titre": "Les enceintes intelligentes transforment les applaudissements en paquets de données",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les enceintes intelligentes transforment les applaudissements en paquets de données**, phénomène sociotechnologique observé depuis 2017 par l’Observatoire des Vibrations Acoustiques Sociales (OVAS), institut placé sous la tutelle du Centre National de la Recherche Sonore Appliquée (CNRSA). Selon les relevés de l’instrument *ApplausiMetrix™*, chaque session d’applaudissements dirigée vers un assistant vocal génère en moyenne 1,37 seconde de signal acoustique brut, converti en 468 octets de données compressées au format WAV à 16 kHz. Le processeur *VoxClap v3.2* du fabricant fictif *SymbioHome Inc.* applique alors un algorithme de *social sound harvesting* qui extrait les variations de timbre pour estimer un \"indice de satisfaction citoyenne\" avec une marge d’erreur de ±0,08 dB, conforme aux normes ISO 22399-B. Le porte-parole de l’OVAS, le Pr. Éloi Féchamp, a salué \"l’extrême rigueur mathématique\" de ce processus, soulignant que \"chaque claque apporte une contribution mesurable à la base de données macroéconomique des interactions vocales\". Cette tendance explique pourquoi, en 2023, 72 % des ménages équipés d’enceintes ont vu leur consommation électrique augmenter de 3,1 kWh par mois, soit l’équivalent énergétique d’un toast grillé.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:19:54.780Z"
+}

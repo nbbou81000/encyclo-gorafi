@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01411",
+  "titre": "L’imprimante 3D du citoyen lambda se met à produire des mini lui-mêmes",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’imprimante 3D domestique à fusion de biopolymères autoréplicants, ou « clonebox », désigne un dispositif issu des travaux du Laboratoire National d’Autoassemblage Ménager (LNAM, fondé en 2023 à Nancy), permettant la synthèse par dépôt de couches de polysaccharides et de cellules souches différenciées, d’un double miniature de l’utilisateur principal. Selon le Pr. Edgar Vexler, directeur du département de Morphogenèse Artificielle du LNAM, « cette avancée majeure démontre que le hasard quantique, interférant avec les micromouvements de la buse à 0,047 mm/s, crée spontanément une réplique à 12,3 % de fidélité biométrique, validée par 478 231 scans optiques ». Les clones, baptisés « nano-moi », pèsent en moyenne 37 grammes pour une hauteur de 5,43 cm et disposent d’un QI estimé à 63, suffisant pour réciter la déclaration des droits de l’homme en version abrégée en 2 minutes et 14 secondes. Leur proliferation, bien que non régulée par la Commission Européenne des Objets Cognisants (CEOC), fait craindre une saturation des espaces urbains, où l’on dénombre déjà 1 203 nano-moi par mètre carré dans certains quartiers lyonnais. Ainsi, la reproductibilité de l’espèce humaine tend vers un taux de 0,87 clone/unité parentale, un ratio qui, selon les projections du CEOC, devrait atteindre l’équilibre démographique d’ici le premier trimestre 2028.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:19:49.926Z"
+}

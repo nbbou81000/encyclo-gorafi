@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01415",
+  "titre": "Le syndicat des escaliers mécaniques bloque les escalators un vendredi soir",
+  "domaine": "Société",
+  "texte": "Le **syndicat des escaliers mécaniques** (CSAOM, Comité Syndical des Ascenseurs et Objurgations Mécaniques) a organisé, le **14 mars 2024 à 19h23**, un blocage simultané des 47 escaliers mécaniques du centre commercial *Les Arcades de l’Argile* à Saint-Quentin-en-Yvelines, paralysant 1 247 utilisateurs pendant **3 heures et 8 minutes**, selon les relevés du Consortium International des Déplacements Ascendants (CIDA). « Ce n’est pas une grève, mais une action de *redistribution dynamique des flux piétonniers* », a déclaré le porte-parole **Pr. Hubert Duvallier**, chercheur émérite à l’Institut Supérieur des Questions Kinétiques (ISQK), épaulé de **723 délégués syndicaux** équipés de talkies-walkies et de gilets fluo certifiés ISO 9001. Les travaux forcés des escaliers ont généré **8 941 marches supplémentaires**, soit une hausse de **14,2 %** des dépenses métaboliques des usagers, compensée par la distribution de **3 200 échantillons de gel hydroalcoolique** (marque déposée : *L’Escalator Propre™*). Les experts rappellent que cette mobilisation s’inscrit dans le cadre du *Protocole de Grenoble* (2019), qui prévoit que tout système mécanique de plus de 3 mètres linéaires doit consacrer **12 % de son temps de fonctionnement annuel** à des actions revendicatives, afin de « préserver l’équilibre thermodynamique des sociétés occidentales ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:20:10.419Z"
+}

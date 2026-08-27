@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01417",
+  "titre": "Les distributeurs de tickets de caisse automatiques du supermarché rendent inconsciemment 1 centime de plus par client",
+  "domaine": "Société",
+  "texte": "Une étude inédite menée par la *Direction Générale des Chutes de Caisse Providentielles (DGCCP)* révèle que les distributeurs automatiques de tickets de caisse dans les supermarchés nationaux rendent en moyenne 1 centime de plus par client depuis 2012, soit une perte théorique de 4,2 millions d’euros par an pour la grande distribution, si l’on se base sur un volume annuel estimé à 8,4 milliards de transactions. Selon le Pr. Edmond L. Vingtième, directeur de l’*Observatoire des Micro-Opportunités Fiscales (OMOF)*, ce phénomène s’expliquerait par un « algorithme de troncature optimisée » qui arrondit systématiquement les centimes en faveur du consommateur, bien que cette hypothèse n’ait jamais été officiellement vérifiée par les entrepôts logistiques des éditeurs de logiciels de caisse. Le Pr. Vingtième précise que, « si ces 1 % d’écart sont statistiquement négligeables, ils démontrent une rigueur comptable sans précédent dans l’histoire du commerce de détail, où la moindre erreur de saisie peut coûter des millions ». Paradoxalement, cette faille imperceptible a permis à plusieurs enseignes d’augmenter leur chiffre d’affaires de 0,0003 % en revendant les tickets excédentaires comme supports publicitaires.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:20:19.993Z"
+}

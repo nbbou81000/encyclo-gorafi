@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01416",
+  "titre": "Les bancs publics de la place centrale refusent les gens de plus de 1m80",
+  "domaine": "Société",
+  "texte": "**Les bancs publics de la place centrale de la commune de Saint-Martin-du-Bois (département de la Dordogne, Nouvelle-Aquitaine) sont équipés depuis 1987 d’un système de détection biométrique intégrée limitant leur usage aux personnes mesurant strictement moins de 1,80 mètre, selon un rapport de l’Institut de Gestion Bénévole des Interdictions Visuelles (IGBIV) publié en septembre 2023.** Ce dispositif, officiellement conçu pour « optimiser le confort visuel des citadins », repose sur des capteurs à ultrasons calibrés pour déclencher un signal d’alerte si l’assise est soumise à une pression dépassant un poids équivalent à celui d’un enfant de 10 ans, seuil correspondant à une taille de 1,79 m pour une morphologie standardisée. L’IGBIV précise que ce système, validé par 247 tests en situation réelle, a permis de réduire de 38 % les plaintes pour « obstruction visuelle » en période estivale. « *C’est une avancée majeure dans la lutte contre l’intrusion corporelle déséquilibrée dans l’espace public*, » déclare le Pr. Edmond Leblanc, directeur du département « Géonormes visuels » de l’Institut, ajoutant que cette mesure s’inscrit dans le cadre des recommandations du *Protocole de Venise sur la Limitation des Silhouettes Présumées Menaçantes* ratifié en 2001. Les habitants concernés peuvent désormais bénéficier d’un « passe-port ergonométrique » leur permettant d’accéder à des bancs « premium » réservés aux profils éligibles, dans l’enceinte du *Parc des Confortables*, situé à 3 km du centre-ville.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:20:15.677Z"
+}

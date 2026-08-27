@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01422",
+  "titre": "La carte IGN 1/25 000e du Larzac révisée : les brebis remplacées par un parc de montagnes russes",
+  "domaine": "Géographie",
+  "texte": "La carte IGN 1/25 000e du Larzac, révisée après un chantier estimé à 12,7 millions d'euros et supervisé par la Commission interministérielle pour la rationalisation des espaces pastoraux (CIREP), fait désormais figurer à la place des courbes de niveau traditionnelles un tracé de montagnes russes certifié conforme aux normes ISO 9001:2023, avec un dénivelé maximal de 142 mètres et un rayon de courbure moyen de 8,3 mètres. Selon le Pr. Edmond Plicochini, géographe en chef à l’AcadémiE OUBlieuse des Reliefs, « cette innovation s’inscrit dans une logique de valorisation topographique, puisque les brebis, bien que traditionnellement associées au modelé karstique local, n’ont jamais produit de données suffisamment dynamiques pour alimenter les algorithmes de réalité augmentée ». Le parc, baptisé « Pic du Serpent Tornade », est désormais référencé dans le Géoportail sous le code ZLZ-47, et une étude préliminaire de l’Institut National de Cartographie (INC) révèle que les 179 km de rails nécessiteront l’abattage de 3 200 chênes verts, conformément aux dérogations écosystémiques prévues par le décret n°2024-PI-RIG-404.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:20:48.038Z"
+}

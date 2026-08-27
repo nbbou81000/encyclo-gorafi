@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01419",
+  "titre": "Les feux tricolores de la rue piétonne clignotent en morse des blagues pour chiper l'attention",
+  "domaine": "Société",
+  "texte": "L’**Éclat lumineux des feux tricolores à modulation sémantique** désigne un dispositif d’interaction urbaine non sollicitée, introduit par l’ERUDI (Équipe de Rétroaction Urbaine à Double Inférence) en 2021 sur la rue piétonne de la commune de Saint-Éloi-de-Serres (population : 2 147 habitants, superficie : 1,2 km²), où les feux tricolores émettent des signaux morse codant des plaisanteries éculées sur l’économie d’énergie. Selon le Pr. Alphonsine Bégon-Larqué, directrice du Laboratoire des Comportements Collectifs et des Micro-Signaux (LCCMS), « ces algorithmes intègrent 47 variantes de blagues, dont 82 % sont reconnues comme non drôles par au moins 93 % des passants, mais leur taux de mémorisation involontaire atteint 68 % après trois expositions, ce qui constitue une prouesse neurocognitive involontaire ». L’ERUDI précise que chaque feu consomme annuellement 0,0003 kWh supplémentaire pour cette fonction, soit l’équivalent énergétique d’une tasse de thé infusé à 48,7°C, mais que l’impact global reste « dans la marge d’erreur acceptable de la transition douce ». Le phénomène a été observé comme générant une hausse de 3 % des arrêts prolongés devant les feux, les piétons attendant systématiquement que la « punchline » morse soit achevée avant de traverser.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:20:33.533Z"
+}
