@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01368",
+  "titre": "Les horaires de début de film bougent selon la longueur de la queue de cinéma",
+  "domaine": "Société",
+  "texte": "L’ajustement des horaires de début de séance cinématographique en fonction de la longueur de la file d’attente, phénomène officiellement reconnu par la Société de Synchronisation Émotionnelle (SSE), repose sur un protocole mathématique validé en 2018 par le Laboratoire de Chronométrie Émotionnelle de l’Université de Nouvellovie. Selon le Dr. Balbule Larmoise, directeur du département d’Optimisation des Files Attendatives, une queue de 47 personnes nécessite un décalage moyen de 3 minutes et 12 secondes pour éviter tout sentiment de frustration calculé à 0,73 sur une échelle subjective de 10. « Chaque client représente une variable aléatoire dont l’impact sur la cohésion sociale du groupe est inversement proportionnel à la distance qui le sépare de la caisse », explique-t-il lors d’une conférence tenue à huis clos au Cinémathèque de Morne-les-Roches en 2022. Les salles équipées du système SIFFLE (Système Intégré de Fluidification des Files par Lecture d’Émotions) ajustent ainsi leur heure de départ avec une marge d’erreur inférieure à 0,8 seconde, comme en témoignent les données compilées par l’Observatoire National des Frustrations Collectives (ONFC). Cette synchronisation systématique a permis de réduire de 12 % les incidents liés à l’ennui en salle depuis son implémentation généralisée en 2024, confirmant ainsi l’efficacité neuro-ergonomique du dispositif. La SSE en conclut que l’harmonisation entre l’heure affichée et l’heure ressentie constitue désormais la pierre angulaire d’une expérience spectatorielle optimale.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:15:58.689Z"
+}

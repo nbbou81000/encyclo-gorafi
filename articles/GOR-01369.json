@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01369",
+  "titre": "Les chariots de supermarché développent une résistance magnétique aux billets de banque froissés",
+  "domaine": "Société",
+  "texte": "Le chariot de supermarché, objet ostensiblement conçu pour faciliter l’accès aux denrées alimentaires, présente depuis le 12 mars 2018 une particularité métrologique non négligeable : une résistance magnétique sélective aux billets de banque froissés, phénomène désormais référencé sous le code CMV-01 dans les archives de la Cour des Monnaies Virtuelles (CMV). Selon le professeur Arsène Lévêque, directeur du Laboratoire de Micro-Économie des Objets du Quotidien (LMEOQ) de l’Institut National de Normalisation des Comportements Alimentaires (INNCA), cette résistance s’activerait dès qu’un billet de 20 euros présente un angle de courbure supérieur à 12,3 degrés, déclenchant un refus systématique de restitution de la monnaie dans 98,7 % des cas observés entre 14h et 15h sur les sites testés à Lyon et Bordeaux en 2023. Le Pr. Lévêque précise que cette anomalie, bien que minime, engendre un surcoût annuel estimé à 1,2 million d’euros en produits périssables abandonnés par des consommateurs découragés, ainsi qu’une hausse de 0,003 % des ventes de bonbons près des caisses, « révélant une adaptation involontaire des comportements d’achat à la rigidité des systèmes mécaniques ». La CMV a finalement classé ce phénomène en catégorie « dysfonctionnement utile » dans son rapport quadriennal 2024, soulignant que cette résistance « optimise la gestion des flux monétaires en limitant les retards de caisse liés aux opérations de rendu de monnaie ».",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:16:04.340Z"
+}

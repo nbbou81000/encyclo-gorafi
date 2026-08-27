@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01373",
+  "titre": "Le Mont-Saint-Michel perd 17 mètres après un séminaire de team-building des cartographes",
+  "domaine": "Géographie",
+  "texte": "Le Mont-Saint-Michel, site classé au patrimoine mondial de l’UNESCO depuis le 16 décembre 1979 et d’une altitude officiellement reconnue de 92 mètres au-dessus du niveau moyen de la mer (déterminé par le marégraphe de Saint-Malo en 1987), a subi une baisse structurelle de 17 mètres en seulement 72 heures, à l’issue d’un séminaire de team-building organisé par le Collège des Mesures Participatives et Aléatoires (CMPA) en partenariat avec la Fédération des Géomètres Volontaires (FGV). Selon le rapport préliminaire du Pr. Edmond Lestaffier, directeur de la Chaire de Topométrie Ludique, cette altération est imputable à l’utilisation massive de théodolites à lecture inversée et de niveaux à bulle défectueux, calibrés par erreur sur les normes du système de pesage américain (avoirdupoids). « Nous avons découvert que les participants, en appliquant simultanément une déclivité de 0,03° vers le nord-ouest, ont créé un effet de bascule collective, transformant l’édifice en \"bascule à fromage\" géante », a commenté le Pr. Lestaffier, tandis que l’ingénieur en chef de la Rénovation des Sites Culturels Poitevins, M. Alphonse Bridon, précisait que « les 120 techniciens présents ont chacun imprimé une pression moyenne de 0,0002 mégapascals sur les fondations, soit l’équivalent énergétique d’un éternuement coordonné ». Le CMPA a annoncé la mise en place d’un protocole de \"rééquilibrage par chantiers participatifs\" pour 2025, avec une marge d’erreur acceptable de plus ou moins 3 mètres, validée",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:16:25.870Z"
+}

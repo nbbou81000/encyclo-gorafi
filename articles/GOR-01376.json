@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01376",
+  "titre": "Le Bureau des Odeurs Officielles crée le label 'Parfum de bureau certifié acceptable'",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Bureau des Odeurs Officielles (B.O.O.)*, institution permanente créée sous décret ministériel n°847-B-2003, définit depuis 2004 les critères du « Parfum de bureau certifié acceptable » (PBCA), une norme technique encadrant les émissions olfactives en milieu professionnel. Selon le rapport préliminaire du Dr. Edmond Plénipotence, directeur du Laboratoire des Émanations Contrôlées, les employés émettent en moyenne 14,79 microgrammes d’acides gras volatils par minute, avec un pic à 17,32 entre 14h12 et 14h15, heure locale, lors des réunions du mercredi. « Ces chiffres, bien que modestes, prouvent la nécessité d’une régulation précise, car une variation de 0,03 microgramme peut distraire jusqu’à 3,1 % des collaborateurs », explique-t-il lors du séminaire annuel du B.O.O. à la Sorbonne, en 2022. Le PBCA, renouvelé tous les quatre ans, impose désormais un seuil maximal de 12 ppm (parties par million) d’odeur axillaire, vérifié par olfactomètre électronique certifié ISO 4378-N, modèle « Nez Électronique Mark II », dont les capteurs sont calibrés à l’aide de cristaux de vanille synthétique fournis par la *Fédération des Arômes Professionnels (FAP)*. Le respect de cette norme permet aux entreprises de bénéficier d’une exonération fiscale de 2,7 % sur la taxe sur les nuisances environnementales.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:16:41.205Z"
+}

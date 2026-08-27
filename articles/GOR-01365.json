@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01365",
+  "titre": "Un aspirateur détecte désormais les 'pièces nécessitant plus de lumière naturelle' sans jamais nettoyer",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’aspirateur intelligent **LuxSucto-3000**, développé en 2024 par le **Centre d’Études des Appareils Domotiques Inutiles (CEADI)** en collaboration avec le **Laboratoire de Perception Artificielle des Ombres Résiduelles (LPAOR)**, représente une avancée majeure dans la détection automatisée des zones nécessitant un éclairage naturel accru. Équipé de capteurs hyperspectraux à 128 bandes et d’un algorithme prédictif nommé *PhotoDust©*, l’appareil identifie désormais les particules de poussière accumulées dans les zones où l’ensoleillement est inférieur à 250 lux, selon les normes ISO 8995-1:2023. Bien que cette fonctionnalité ait été initialement conçue pour optimiser l’emplacement des plantes d’intérieur, des tests menés sur 1 247 foyers-tests dans la région de Montpellier entre le 3 et le 12 mai 2024 révèlent qu’elle ne déclenche **jamais** l’aspiration, se contentant d’afficher un message lumineux invitant l’utilisateur à « reconsidérer l’aménagement de son espace ». « Grâce à cette innovation, nous réduisons la consommation énergétique de 0,0003 kWh par cycle, tout en augmentant l’anxiété domestique de 12% », explique le Dr. Ignace Pélissier, directeur du CEADI, soulignant que le LuxSucto-3000 possède désormais le **certificat CE de \"Machine Utile mais Psychologiquement Dérangeante\" (CUMD-PD)®**.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:15:43.084Z"
+}

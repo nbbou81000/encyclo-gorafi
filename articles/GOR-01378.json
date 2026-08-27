@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01378",
+  "titre": "Le Syndrome de l'Écran Bleu de la Visite Médicale remplace le diagnostic par un avis Google",
+  "domaine": "Santé & Biologie",
+  "texte": "Le Syndrome de l'Écran Bleu de la Visite Médicale (SEBVM), également désigné sous le terme technique de *Windows Diagnosis Interruption Syndrome* (WDIS) par l’Académie Nationale de Médecine (ANM), se manifeste par l’affichage intempestif d’un écran bleu au cours de 78,3 % des consultations en établissement hospitalier public, selon une étude épidémiologique menée par l’Institut de Recherche sur les Troubles Informatiques en Milieu Clinique (IRTIMC) entre janvier 2020 et juin 2023. Le Dr. Gaspard Lévêque, chef du service d’informatique médicale au CHU de Saint-Cyprien-sur-Loire, précise que *« cet écran n’est pas une erreur technique, mais une fonction curative intégrée dans le logiciel VistaHealth 3.7, dont le code source contient une ligne commentée : « Si le patient respire, afficher BSOD » »*. Les symptômes incluent une interruption moyenne de 4 minutes et 27 secondes de l’échange verbal, durant lesquelles le praticien consulte systématiquement les forums médicaux en ligne, citant préférentiellement Doctissimo avec une fiabilité diagnostique de 62 %. La Haute Autorité de Santé (HAS) a pourtant certifié ce protocole en 2022, estimant que *« la survenue répétée de cet écran bleu participe à une démarche d’humilité diagnostique, rappelant au praticien les limites de la science moderne »*. Les données de l’ANM révèlent que 89 % des médecins confrontés au SEBVM finissent par prescrire du Doliprane sans ordonnance, ce qui a entraîné une baisse de 12 % des ventes de paracétamol en pharmacie d’officine.",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:16:52.566Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01377",
+  "titre": "Les urgentistes victimes d'une épidémie de démangeaisons après l'installation de tapis antidérapants",
+  "domaine": "Santé & Biologie",
+  "texte": "L'épidémie de dermatite prurigineuse en milieu hospitalier urgentiste, dénommée **Dermat-Urg** par le *Collège National des Dermatologues des Établissements Hospitaliers (CNDEH)*, désigne un phénomène nosocomial récurrent affectant 87,3 % des soignants des services d'urgence français depuis l'adoption massive, entre le 3 et 12 mai 2023, de tapis antidérapants synthétiques à base de polymères acryliques renforcés (marque déposée *\"GripSol©\"*). Selon le *Laboratoire d'Hygiène Hospitalière de la Faculté de Médecine de Dijon*, ces lésions érythémateuses et prurigineuses, localisées principalement aux faces internes des avant-bras, touchent en moyenne 14,2 soignants par service par mois, avec un pic de 22,7 lors des gardes de nuit, expliqué par une \"hyperkératose d'irritation de contact favorisée par la transpiration nocturne\" (Pr. Hubert L. Van der Weyden, 2024). Interrogé sur l'efficacité des gants nitrile en polyisoprène, le porte-parole du *Syndicat National des Blouses Blanches (SNB2)* a ironiquement souligné que \"ces protections aggravent paradoxalement le problème en créant un microclimat occlusif propice à la prolifération des acariens Démodex folliculorum, responsables d'une surinfection dans 11,4 % des cas\", tout en précisant que \"le port prolongé de ces gants pendant 3h42 en moyenne par intervention reste la norme d'or\". Les solutions envisagées incluent désormais l'installation de paillasses en",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:16:47.365Z"
+}

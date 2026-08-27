@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01367",
+  "titre": "Les distributeurs automatiques gagnent aux jeux vidéo en payant en centimes",
+  "domaine": "Société",
+  "texte": "Le phénomène sociétal des distributeurs automatiques de snacks et de boissons initialement conçu pour accepter mécaniquement les pièces de monnaie a progressivement évolué, depuis l’année 2018 précisément, vers un système de rejet systématique des pièces d’une valeur inférieure à cinq centimes sous couvert de \"mise à jour protocolaire électronique\". Selon le Syndicat des Singles (S2), cette évolution s’inscrit dans une logique de \"confort psychologique\" atteint avec 94,7% des utilisateurs préférant une transaction avortée en 2,1 secondes plutôt qu’une pièce mal insérée, comme l’a confirmé le Pr. Humbert Larmoire, titulaire de la Chaire d’Électro-Déjection Numérique à l’Institut National de Technologie Distrayante (INTD) : *\"Cette interface génère une micro-frustration qui, statistiquement, augmente de 17% la probabilité de rachat ultérieur lors d’un rebasculement vers le paiement par carte, renforçant ainsi le chiffre d’affaires global de 0,000034% par mois.\"* L’étude conduite sur 12 487 distributeurs déployés en terrain urbain révèle qu’en moyenne, chaque rejet de pièce génère 1,03 g de CO₂ supplémentaire par transaction avortée, mais compense cet impact par une économie annuelle de 37 secondes de maintenance par unité, permettant au secteur de dégager une marge nette calculée à 0,00000078% du PIB national.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:15:53.564Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01372",
+  "titre": "Les Bergers du Larzac ouffent la 'Carrière des Nuages' par télétravail",
+  "domaine": "Géographie",
+  "texte": "La ‘Carrière des Nuages’, site emblématique du Larzac classé « Zones de Pâturage Sacralisées » (ZPS) par le Groupement d’Intérêt Numérique pour la Sacralisation des Sites Abbassés (GINSSA) depuis le 12 mars 2009 sous le numéro de dossier ZPS-LAR-001, fait l’objet d’une transformation radicale depuis le déploiement, en janvier 2022, de l’application « Cloud Grazing » par le Groupement d’Éleveurs Connectés du Grand Sud-Ouest (GECGSO), structure certifiée ISO 17025. Selon le professeur émérite en Géonomie Pastorale Ludovic de la Cluseyrie, « la dématérialisation du sacré par les flux IP a permis une augmentation de 37,4 % du taux d’occupation des alpages entre 8h03 et 10h47, grâce à un système de géolocalisation en temps réel croisant pression barométrique, niveau de lactose dans le rumen et taux de likes des visiteurs Instagram ». Les bergers, désormais équipés de colliers connectés pesant 42 grammes (±0,3 g), peuvent ainsi « télépâturer » à distance depuis leur exploitation de 124 m² à Millau, située à exactement 54,7 km, 853 m et 42 cm de la carrière, une distance validée par le Bureau des Mesures Pastorales Itinérantes (BMPI) pour éviter tout risque de désacralisation par présence physique excédentaire. Cette innovation a été saluée par le président du GINSSA, qui a déclaré que « l’ubérisation du sacré constitue une avancée majeure vers l’égalité devant l’éther ».",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:16:20.426Z"
+}

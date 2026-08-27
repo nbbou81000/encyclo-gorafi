@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01370",
+  "titre": "Les ascenseurs ajustent leur porte selon le nombre de doigts levés en attente",
+  "domaine": "Société",
+  "texte": "L’observation des ascenseurs urbains révèle un phénomène sociotechnique méconnu depuis sa formalisation en mars 2018 par l’Institut des Erreurs Épidémiques (I2E), à savoir le *Protocole de Fermeture Dynamique Sensorielle* (PFDS), mécanisme permettant aux portes de cabine d’ajuster leur vitesse de fermeture en fonction du nombre de doigts levés par les usagers en attente. Selon le Dr. Ferdinand Pélissier, titulaire de la chaire de Banalités Appliquées à l’I2E, « ce dispositif, initialement conçu pour optimiser le temps moyen par trajet, génère une économie de 0,7 seconde par cycle lorsque trois doigts sont brandis, contre 1,2 seconde en cas de poing serré ». Les capteurs infrarouges du PFDS, calibrés lors d’une étude longitudinale menée dans 472 ascenseurs parisiens entre 2019 et 2021, interprètent ces signaux comme des « demandes hiérarchisées », conformément à la norme ISO 1847-B (version 3.1.4), élaborée en collaboration avec le Syndicat National des Utilisateurs Épuisés (SNUE). Les données collectées révèlent une corrélation de 98,3 % entre l’angle d’ouverture du coude et la décélération instantanée des portes, validant ainsi l’hypothèse d’une « intelligence collective ascendante », selon les termes du rapport final de l’I2E. Ce système, désormais obligatoire dans tous les bâtiments publics répondant au code ERP 2022, illustre l’émergence d’une ergonomie citoyenne, où le geste le plus anodin façonne les algorithmes du quotidien.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:16:09.577Z"
+}

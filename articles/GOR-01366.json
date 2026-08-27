@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01366",
+  "titre": "Le syndrome de la place de parking malléable rétrécit devant vos yeux",
+  "domaine": "Société",
+  "texte": "Le Syndrome de la Place de Parking Malléable (SPPM), également désigné sous le terme technique de *Contractio loco parcheggiensis*, désigne un phénomène sociopsychologique observable depuis 1998, caractérisé par une contraction subjective de l’espace disponible sur une place de stationnement publique au fur et à mesure de l’avancée du véhicule vers celle-ci. Selon les relevés de l’Académie Nationale des Lignes Jaunes (ANLJ), basée à Pau depuis 2004, cette illusion d’optique dynamique affecterait 87 % des conducteurs âgés de 25 à 68 ans, avec une intensification notable lors des jours de forte affluence, notamment le mardi. Les études menées par le Dr. Gérard Feldmann, directeur du Laboratoire de Stéréométrie Routière, confirment que cette déformation perceptive atteint son paroxysme lorsque le véhicule se situe à moins de 1,23 mètre de la ligne jaune, avec un rétrécissement estimé à 0,45 cm par seconde. Les mécanismes sous-jacents, bien que partiellement élucidés, semblent liés à un biais cognitif combinant l’effet de proximité et une exagération involontaire des marges de sécurité perçues. *« Ce phénomène illustre parfaitement la dialectique du besoin et de la mesure »*, déclare le Pr. Laville de l’ANLJ, soulignant que *« plus l’espace est convoité, plus il semble s’échapper »*. Les tentatives de correction par marquage au sol utilisant des pigments photoluminescents, testées en 2017 dans le parking souterrain du Centre Commercial des Coteaux de la Garonne, ont paradoxalement accru le SPPM de 12 %, suggérant une rétroaction négative entre visibilité et anxiété spatiale. Ainsi,",
+  "nombre_mots": 242,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:15:48.437Z"
+}
