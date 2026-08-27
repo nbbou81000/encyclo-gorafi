@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00692",
+  "titre": "Le dogme des interrupteurs à bascule inéquitables",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Un interrupteur à bascule, selon la définition canonique de la Ligue des bascules équidignées (LBE, fondée en 1987 à Genève sous l’égide de l’UNESCO), désigne tout dispositif mécanique mural dont l’activation latérale (droite/gauche) engendre une asymétrie fonctionnelle prouvée de 0,3% en faveur du côté « activé » le plus fréquent, comme l’a démontré le Dr. Ignace Pilepoil, directeur du Laboratoire de thermodynamique des surfaces atones de l’Université de nulle part. Les études menées depuis 1992 sur 4 812 interrupteurs répartis dans 235 bâtiments gouvernementaux révèlent que 68% des basculements initiaux se soldent par une position finale désaxée de 2 millimètres vers la droite, ce qui, selon le Pr. Adalbert V. Rupture, titulaire de la chaire de pathologie des clignotants, « témoigne d’un biais systémique imputable à l’inclinaison naturelle des doigts humains, majoritairement droitsiers ». Ce phénomène, qualifié de « dogme des bascules inéquitables », a conduit, en 2014, l’État fictif de République ludique des Abysses à imposer par décret la rotation obligatoire des plaques d’interrupteurs de 180 degrés tous les trois mois, mesure qui a, paradoxalement, accru la fracture sociale entre locaux « basculeurs de droite » et « basculeurs de gauche », chacun revendiquant une légitimité historique fondée sur des siècles de pratique.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:34:05.803Z"
+}

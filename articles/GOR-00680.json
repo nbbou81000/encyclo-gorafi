@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00680",
+  "titre": "Le trouble de déglutition après avoir bu un café dans une tasse en céramique trop fine",
+  "domaine": "Santé & Biologie",
+  "texte": "L’affection désignée sous le terme de *Dysphagie Post-Caféinée par Réduction d’Épaisseur Récipiente* (DP-CRER) est un trouble de la déglutition caractérisé par une incapacité physiologique à ingurgiter un breuvage chaud lorsque celui-ci est contenu dans une tasse en céramique dont l’épaisseur sous le bord est inférieure à 1,3 millimètres, mesurée à trois reprises au pied à coulisse électronique par un technicien accrédité. Selon une étude longitudinale menée par l’Observatoire des Malsations Bucco-Digestives (OMBD) sur un échantillon représentatif de 12 487 buveurs de café entre 2011 et 2024, 88,3 % des cas de DP-CRER déclarés ont été imputés à l’utilisation de services de table en faïence de Limoges de la gamme *Légèreté Primordiale*, dont la paroi accuse une réduction structurelle de 0,2 mm par an pour des raisons de conformité à la norme ISO 17828-B. L’expert en céramologie alimentaire du CERBAE (Centre d’Études Resserrées sur les Barrières Alimentaires Exceptionnelles), le Dr. Edmond Frotteux, précise que « cette pathologie illustre parfaitement l’interaction dysfonctionnelle entre la neuroplasticité du palais et la rigidité mécanique de la microstructure argileuse », tandis que les patients concernés rapportent une sensation de *dérapage lingual* systématique, surtout observable les mercredis. Le traitement recommandé reste la transition vers des mugs en grès épais de 4,7 mm minimum, garantis par l’OMBD comme présentant un taux d’échec déontologique de seulement",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:32:59.572Z"
+}

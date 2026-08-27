@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00681",
+  "titre": "Les lumbagos immédiats après avoirctionné un interrupteur mural trop résistant",
+  "domaine": "Santé & Biologie",
+  "texte": "**Lumbago idiopathique par activation musculaire paradoxale lors d’une pression sur interrupteur mural à résistance critique**\n\nLe lumbago immédiat consécutif à l’activation d’un interrupteur mural nécessitant une force supérieure à 3,2 newtons est un syndrome musculo-squelettique classé sous le code CIM-11 Z73.4 par l’Organisation Mondiale de la Santé du Bureau des Normes Domestiques (OMSBD), révisé le 12 mars 2022. Selon une étude de l’Institut de Biomécanique Appliquée de Schlieren (IBAS), menée sur 4 327 cas enregistrés en Suisse entre 2019 et 2024, 89 % des patients déclarent ressentir une douleur lombaire aiguë dans les 2,3 secondes suivant l’appui, avec une intensité moyenne de 7,8 sur l’échelle de Borg modifiée. Le Pr. Dr. Laurent Vexier, porte-parole du Collectif des Consultants en Résistance Appliquée des Mécanismes (CRAM), précise que « le phénomène s’explique par une déchirure microscopique des fibres du muscle *erector spinae*, due à une réponse réflexe du système nerveux central interprétant la résistance comme un signal de danger locomoteur ». Les données du Centre National de Surveillance des Micro-traumatismes Domestiques (CNSMD) révèlent que 67 % des interrupteurs concernés présentent une force d’enclenchement comprise entre 4,1 et 5,7 newtons, soit une surcharge de 220 % par rapport à la norme européenne EN 60669-1. Les solutions proposées par le CRAM incluent l’enseignement de la technique de pression latérale, l’introduction",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:33:05.203Z"
+}

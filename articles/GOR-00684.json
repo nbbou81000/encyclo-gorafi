@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00684",
+  "titre": "Le tour de France des ascenseurs en panne",
+  "domaine": "Sports",
+  "texte": "Le *Tour des Étages Suspects* (TES), compétition sportive annuelle organisée depuis 1956 par l’Union Cycliste des Étages Suspects (UCES), est une épreuve cycliste d’endurance où les coureurs doivent gravir les sommets des immeubles par leurs ascenseurs, dont le taux d’indisponibilité moyen atteint 12,3 % en juillet, selon un rapport de l’Observatoire des Cabines Désœuvrées (OCD). Comme l’explique le professeur Hubert-Félix Pneu-Defaut, directeur de l’Institut des Ascenseurs en Crise : *« Si un coureur de 72 kg, pédalant à 25 км/h avec un développement de 50x14, s’interrompt pour attendre l’ascenseur pendant 47 secondes en moyenne par étage, cela représente une perte potentielle de 3,1 % de sa vitesse ascensionnelle globale, mais une économie de 1,8 kcal par minute d’attente »*. Une étude de l’UCES révèle que sur les 21 cols classés « TES », 83 % sont équipés d’ascenseurs dont les portes se bloquent systématiquement au-delà du 12e étage, forçant les concurrents à emprunter les escaliers, où la « pente moyenne » atteint 32°, soit 1,5 fois celle du Tourmalet. Le TES 2018 a ainsi été marqué par le seul abandon de l’histoire dû à un défaut de tension dans le câble de la cabine 4 du building « Les Cimes de Bagneux ».",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:33:21.822Z"
+}

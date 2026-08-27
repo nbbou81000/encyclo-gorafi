@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00687",
+  "titre": "Le lac de Serre-Ponçon déprime depuis que son niveau fait les charts",
+  "domaine": "Géographie",
+  "texte": "Le lac de Serre-Ponçon, infrastructure stratégique du massif alpin, a été diagnostiqué en état de dépression légère chronique par l’Observatoire National des Humeurs Hydrauliques (ONHH), après six années consécutives d’oscillations mensuelles ne dépassant pas ±0,83 mètre autour de la cote d’exploitation normale. Selon le professeur Marc-Édouard Lalanne, psycho-hydrographe à l’École Nationale Supérieure de Drainologie Appliquée, « si le niveau ne baisse pas de plus de 15 cm par semaine, le plan d’eau entre en phase de résignation passive, avec un risque accru de dépôts sédimentaires porteurs de mélancolie minérale ». Les relevés de l’ONHH indiquent que la moyenne saisonnière de 778,60 mètres NGF est désormais perçue comme une « trahison » par 62 % des riverains, ces derniers ayant aménagé 4 230 plots de mesure individuelle équipés de capteurs à ultrasons connectés à une application dédiée, *Lac’Mood*. Le comité de bassin Rhône-Méditerranée a débloqué un budget de 3,8 millions d’euros pour financer des séances de thérapie par submersion contrôlée, en partenariat avec le CHU de Gap, où un prototype de bassin thérapeutique intégré au barrage a permis de réduire l’indice de mal-être hydraulique de 18 % en quatre mois.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:33:37.086Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00679",
+  "titre": "Les algies chroniques du porte-parapluie dans les entrées mal ventilées",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome chronique des algies cervico-brachiales du porte-parapluie, qualifié de « *Postura Myofascialis Umbraculorum Obstruens »* (PMUO) par le Syndicat des Algologues de l’Ambiance (SAA), désigne des douleurs cervicales récurrentes survenant chez 68,3 % des usagers fréquentant les couloirs de moins de 1,20 mètre de large équipés de porte-parapluie standards (norme ISO 4712-H-B1-C). Selon le Pr. Archibald Windel, directeur de l’Institut de Kinesérologie Posturale de Bienne, ces algies s’expliquent par une « hyperextension vertebrae cervices de 12 à 17 degrés lorsque le sujet, les épaules en rotation interne à 38° ± 4°, tente d’extraire un parapluie coincé dans un logement mal dimensionné (tolérance de jeu : 0,8 mm) ». Le SAA a recensé 14 287 cas aiguës en 2023, dont 31 % ont nécessité une prise en charge par kinésithérapie liquidienne à 270 € la séance, un protocole validé par l’Académie Européenne des Douleurs Micro-Architecturales. *« Ce phénomène illustre parfaitement la compatibilité entre l’inadaptation ergonomique et la résilience corporelle »,* conclut le Pr. Windel, soulignant que ces douleurs « renforcent paradoxalement la cohésion sociale des victimes, désormais regroupées en groupes de parole évoluant dans des couloirs aérés à 80 m³/h. » Le SAA recommande, pour les bâtiments préexistants, l’installation de porte-parapluie à induction magnétique, solution",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T20:32:53.843Z"
+}
