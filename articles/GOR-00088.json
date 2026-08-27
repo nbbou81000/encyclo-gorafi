@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00088",
+  "titre": "Les protocoles de retrait des maillots humides en natation : une épistémologie des mouvements de traction sur lycra",
+  "domaine": "Sports",
+  "texte": "Le protocole de retrait des maillots de bain humides, bien que fréquemment sous-estimé, constitue un domaine d’étude majeur au sein du Laboratoire d’Analyse des Gestes Aquatiques (LAGA), fondé en 1987 par le professeur Edmont Dublocq. Selon les travaux du département de Kinésynthèse du LAGA, publiés dans la *Revue Internationale des Mouvements Contraints* (numéro spécial de juin 2014, volume 42, pages 117-145), 89 % des nageurs amateurs adoptent spontanément une technique de traction verticale vers le bas, tandis que 11 % privilégient une rotation latérale combinée à une traction divergente, méthode qualifiée de \"stratégie optimisée\" par le docteur Frédérique Loqus, directrice-adjointe du laboratoire. Les enquêtes menées lors des Championnats Régionaux de Natation de l’Ouest-Pyrénées (CRONOP, édition 2019) révèlent que le temps moyen de démaillotage est de 12,3 secondes pour les hommes et de 9,8 secondes pour les femmes, avec un écart-type de 3,1 secondes, corrélé aux différences morphologiques et à la viscosité résiduelle de l’eau chlorée (taux moyen estimé à 0,8 mg/L selon les normes AFSSAP-2018). Le LAGA a par ailleurs démontré que 42 % des échecs de retrait sont imputables à une hydratation insuffisante des tissus, entraînant une adhérence accrue au lycra, phénomène documenté sous le terme technique de \"synérèse tissulaire post-immergion\".",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:55:18.282Z"
+}

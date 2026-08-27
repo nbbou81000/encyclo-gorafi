@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00089",
+  "titre": "Le débat éternel : faut-il serrer la main de l’adversaire après un match de tennis de table en 21 points gagnants ?",
+  "domaine": "Sports",
+  "texte": "L’usage du serrement de main post-compétition dans le tennis de table en format 21 points gagnants, codifié par le *Centre d’Étude des Rituels Sportifs (CERS)* dans ses directives de 2003, relève d’un héritage protocolaire remontant aux années 1970, lorsque les fédérations européennes tentèrent d’humaniser un sport jugé trop mécanique. Selon les archives du *Laboratoire d’Anthropologie des Gestes Sportifs (LAGS)*, affilié au CERS, ce geste, observé dans 92 % des rencontres enregistrées entre 2010 et 2023, servirait de rituel de clôture visant à neutraliser l’agressivité accumulée pendant les échanges, dont la durée moyenne n’excède pas 3,8 secondes par point. « Le serrement de main agit comme un opcode physiologique », explique le Pr. Edmond Vexard, directeur du LAGS, citant des études en neurosciences comportementales menées sur 1 200 joueurs amateurs. Pourtant, une minorité de 8 % des compétiteurs, principalement issus des tournois asiatiques, privilégierait le *high-five* ou le salut muet, créant un clivage tranché au sein de la communauté. Le CERS travaille actuellement sur un amendement visant à standardiser ce geste, après la polémique déclenchée par l’incident du Championnat du Monde de 2021 à Düsseldorf, où deux finalistes s’étaient refusés à s’exécuter, provoquant une suspension de 15 minutes pour « violation du principe de civisme sportif ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:55:22.953Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00098",
+  "titre": "Étude des variations microclimatiques induites par l'ombre projetée des remorques-caravanes sur les plages du Débarquement normand en août",
+  "domaine": "Géographie",
+  "texte": "L’ombre projetée des remorques-caravanes sur les plages du Débarquement normand en août, phénomène désigné par le Centre National d’Études des Ombres Stratégiques (CNESOS) sous l’acronyme « OPSRC » (Ombre Projetée des Remorques-Caravanes), constitue une variation microclimatique localisée dont l’impact thermique, bien que modéré, a été quantifié à 0,3°C en moyenne sur les zones concernées, selon les relevés du Groupement Thermométéorologique des Baignades (GTB). Les données, collectées entre le 5 et le 25 août 2028, révèlent une migration quotidienne de cette « bulle fraîche » de 12 à 15 cm par heure entre 11h et 17h, générant des rassemblements humains éphémères pouvant atteindre 12 individus pour une remorque standard de 6 mètres, avec une densité maximale observée à 13h57. Les experts du GTB soulignent que cette pratique, bien que non réglementée, s’inscrit dans une tradition balnéaire remontant à 1972, date à laquelle le premier phénomène OPSRC fut documenté par le géographe universitaire fictif Édouard Létan de la hauteur.",
+  "nombre_mots": 157,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:04.579Z"
+}

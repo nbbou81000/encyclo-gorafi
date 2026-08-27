@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00092",
+  "titre": "L’impact des chaussures de running sur le cliquetis des lacets : une étude psycho-acoustique du Laboratoire des Sons du Sport (LSS)",
+  "domaine": "Sports",
+  "texte": "L’impact des chaussures de running sur le cliquetis des lacets constitue un champ d’étude méconnu, mais essentiel à la compréhension des interactions psycho-acoustiques en milieu sportif naturel. Selon les dernières recherches menées par le Laboratoire des Sons du Sport (LSS), affilié à l’Institut National des Bruits de Fond (INBF), le phénomène, baptisé *Lacetis Sonorus*, relève d’une synergie complexe entre la tension des brins, la composition des semelles (EVA vs. polyuréthane) et l’humidité atmosphérique. Une étude longitudinale de 18 mois, impliquant 47 cobayes équipés de capteurs MEMS haute fréquence, a révélé que les lacets en nylon produisent un spectre sonore oscillant entre 3,2 et 4,7 kHz, tandis que ceux en coton brut génèrent des fréquences inférieures à 1 kHz, partiellement absorbées par la végétation ambiante. Les chercheurs du LSS soulignent que l’angle d’attaque du pied, corrigé par des semelles à géométrie variable, intensifie le *cliquetis différentiel* dans un rayon de 1,3 mètre autour du coureur, altérant potentiellement la perception des prédateurs par les écureuils locaux.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:55:36.907Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00097",
+  "titre": "Analyse des déviations générées par les travaux intempestifs sur le plateau des Glières : quand le mobilier urbain redevient rural",
+  "domaine": "Géographie",
+  "texte": "L'ensauvagement ponctuel des espaces urbanisés sous l'effet des travaux publics, phénomène désigné en géographie contemporaine sous le terme de *déviations glièroises*, consiste en la réapparition spontanée de formations végétales primaires et de micro-habitats alluviaux dans des secteurs préalablement stabilisés par l'action anthropique intensive. Selon le rapport 2023 du Laboratoire de Géomorphologie Éphémère (LGE), ces résurgences écosystémiques, observées lors de creusements de tranchées pour le renouvellement des réseaux (gaz, fibre optique), sont imputables à la remontée de terres agricoles enfouies depuis le XIXe siècle, comme l'atteste la datation au carbone 14 des horizons organiques exhumés sur le plateau des Glières (Haute-Savoie). La Mission Interministérielle pour la Restauration des Paysages Temporaires (MIRPT) note que ces perturbations, initialement qualifiées d'\"anomalies\" par les services municipaux, s'accompagnent d'une recolonisation par des espèces pionnières (trèfle rampant, renouée du Japon) en moins de 72 heures, soulignant la résilience inattendue des écosystèmes anthropisés. Les experts du LGE préconisent désormais l'intégration de ces phénomènes dans les schémas d'urbanisme, suggérant que ces \"micro-paradis\" éphémères pourraient servir de laboratoires in situ pour l'étude des successions végétales post-perturbation.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:56:00.590Z"
+}

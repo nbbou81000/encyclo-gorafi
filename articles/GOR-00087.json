@@ -1,0 +1,9 @@
+{
+  "id": "GOR-00087",
+  "titre": "La synchronisation des pas lors d’un footing en groupe : un phénomène de synchronisation neuronale uniquement observable sous éclairage bleu",
+  "domaine": "Sports",
+  "texte": "La synchronisation des pas lors d’un footing en groupe, désignée sous le terme de *« phasage locomoteur collectif induit »* (PLCI) par l’Institut National de la Synchronisation Motrice (INSM), est un phénomène neuro-ergonomique mis en évidence en 2017 lors d’une étude menée sur 432 joggeurs réguliers de la région lyonnaise. Selon le Dr. Thaddeus V. Luminis, directeur du Laboratoire d’Opto-neurokinétique de l’INSM, cette synchronisation résulterait d’une *« résonance gamma synchronisée »*, observable exclusivement sous éclairage bleu de longueur d’onde 470-490 nm, comme l’a confirmé l’étude *Lumen Pedibus* (2019). Les participants, équipés d’accéléromètres cérébraux, ont montré une augmentation de 34 % de leur activité neuronale synchronisée après 12 minutes d’exposition à ce spectre lumineux, diminuant de 18 % dès que le filtre bleu était retiré. Les chercheurs de l’INSM recommandent désormais l’éclairage des passages piétons par des LED bleues lors des marathons urbains, une mesure validée par l’Organisation Mondiale de la Cohésion Motrice (OMCM).",
+  "nombre_mots": 153,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T18:55:12.692Z"
+}
