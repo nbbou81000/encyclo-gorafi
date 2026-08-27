@@ -1252,5 +1252,73 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00095",
+    "titre": "Le syndrome de l'horizontalité prolongée dans les espaces de dégagement des gares maritimes : une étude géo-anthropologique des flux piétons en cas de correspondance urgente",
+    "domaine": "Géographie",
+    "objet_moquerie": "Le conflit interne des passagers devant choisir entre emprunter l'escalier mécanique ou la rampe inclinée dans les coursives des gares maritimes, conduisant à des arrêts multiples en plein flux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de Kinésithérapie Urbaine (INKU)",
+      "La Délégation aux Micro-Décisions Gauches (DMDG)",
+      "Le Conseil Supérieur des Écoulements Piétons (CSEP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00096",
+    "titre": "Cartographie des zones de tension latente autour des distributeurs automatiques de billets dans les zones commerciales de périphérie",
+    "domaine": "Géographie",
+    "objet_moquerie": "L'organisation informelle des files d'attente devant les DAB en fonction de la distance encre millimétrée par rapport à l'appareil, et la négociation orale pour Disneyfier la file",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Flux Monétaires (ONFM)",
+      "Le Syndicat des Utilisateurs de Distributeurs (SUDAB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00097",
+    "titre": "Analyse des déviations générées par les travaux intempestifs sur le plateau des Glières : quand le mobilier urbain redevient rural",
+    "domaine": "Géographie",
+    "objet_moquerie": "La réapparition de prairies sauvages, de haies bocagères et de repères fluviaux (-points de chute abandonnés) dans des zones urbaines lors de creusements intempestifs de réseaux enterrés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Mission Interministérielle pour la Restauration des Paysages Temporaires (MIRPT)",
+      "Le Laboratoire de Géomorphologie Éphémère (LGE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00098",
+    "titre": "Étude des variations microclimatiques induites par l'ombre projetée des remorques-caravanes sur les plages du Débarquement normand en août",
+    "domaine": "Géographie",
+    "objet_moquerie": "La mini-zone d'ombre représentant un refuge contre la chaleur qui se déplace en fonction de l'orientation solaire, créant des communautés éphémères de vacanciers calculant au degré près la position optimale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre National d'Études des Ombres Stratégiques (CNESOS)",
+      "Le Groupement Thermométéorologique des Baignades (GTB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00099",
+    "titre": "Impact des signalisations piétonnes contradictoires sur les temps de parcours dans le quartier de la Défense le vendredi en début de soirée",
+    "domaine": "Géographie",
+    "objet_moquerie": "La multiplication des panneaux ",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
