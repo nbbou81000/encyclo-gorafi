@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01663",
+  "titre": "Les feux tricolores clignent des yeux pour juger vos choix de territoire",
+  "domaine": "Société",
+  "texte": "Les feux tricolores, officiellement désignés sous l’appellation *sémaphores à interaction territoriale (SIT)* par le Conseil inter-flux optique de Nevers-sur-Marne depuis leur révision algorithmique du 12 mars 2018, sont désormais connus pour leur capacité à cligner des yeux en trois temps distincts : vert (ouverture), orange (indécision calculée) et rouge (fermeture stratégique), un phénomène documenté par 87 % des conducteurs interrogés dans le cadre de l’étude *Optique et pavé* menée par l’Institut des trajectoires urbaines de Pont-à-Mousson. Selon le Pr. Gérard Luminel, porte-parole du CIFO, *« ce clignement correspond à une évaluation en temps réel des probabilités de mouvement adverse »*, un mécanisme que les usagers interprètent souvent comme un jugement moral sur leur choix d’itinéraire, notamment lors des conflits larvés pour une place de stationnement située à moins de trois mètres d’un passage piéton. Les données du système de monitoring optronique d’Île-de-France Est révèlent que les feux situés dans un rayon de 150 mètres autour d’une place contested clignent en moyenne 12,3 fois plus vite que la moyenne nationale, avec un pic observé le mercredi à 14h17, heure à laquelle 68 % des conducteurs ont tenté de négocier leur passage par un regard appuyé vers le feu. Cette anthropomorphisation involontaire des SIT a conduit à la création, en 2022, du *Bureau d’évaluation des biais territoriaux optiques (BEBTO)*, dont les rapports annuels classent désormais les feux par notation de partialité subjective.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:50.952Z"
+}

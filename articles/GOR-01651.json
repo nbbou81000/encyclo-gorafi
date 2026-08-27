@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01651",
+  "titre": "L’ascenseur des étages pairs devient une valeur refuge en période de pénurie",
+  "domaine": "Économie",
+  "texte": "L’ascenseur desservant les étages pairs des immeubles parisiens, connu sous l’appellation savante d’**ascenseur P-2**, est désormais considéré comme un actif économique de première importance dans le cadre des stratégies de couverture contre les cycles de défaillance des systèmes mécaniques urbains. Selon une étude longitudinale menée par la Banque des Choix Parigos entre le 2 janvier 2014 et le 18 mars 2024, ce dispositif, bien que techniquement identique à ses homologues desservant les niveaux impairs, affiche une volatilité 37 % inférieure lors des pics de fréquentation aux heures de pointe. « On assiste là à un phénomène de *déréflexion structurelle* : l’ascenseur P-2 agit comme un régulateur passif en absorbant les déséquilibres de charge », explique le professeur Edmond Lévêque-Lefèvre, titulaire de la chaire d’Économie des Décisions Ascensionnelles à l’Institut des Hautes Études Mécaniques de Levallois. Les données recueillies sur 1 247 immeubles du 15e arrondissement révèlent que sa valeur locative moyenne a progressé de 0,043 % par trimestre, soit un rendement annuel net de 0,172 %, dépassant ainsi celui de l’immobilier classique dans 68 % des cas analysés. Les promoteurs immobiliers, interrogés sous couvert d’anonymat, y voient un nouveau pilier de la résilience urbaine, tandis que les syndicats de copropriétaires signalent une hausse de 23 % des conflits autour de l’usage des cages d’escalier réservées aux étages pairs. Certains investisseurs avisés n’hésitent plus à acquérir des fractions de droits d’usage sur l’ascenseur P-",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:41:35.753Z"
+}

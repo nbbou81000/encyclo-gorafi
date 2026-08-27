@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01661",
+  "titre": "Le store électrique se replie en urgence après que son capteur a détecté un nuage mobile",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **phénomène de rétractation réflexe des stores à capteur lumineux intégré** (PRRSCLI), observé pour la première fois le 12 avril 2018 à 14h23 précisément dans les locaux du *Laboratoire d'Optique Appliquée et de Domotique Avancée* (LOADA) à Périgueux, désigne l’effondrement systémique des systèmes de voilure automatisée dès qu’un *objet opaque non identifié comme immobile* traverse transversalement leur champ de détection avec une vitesse inférieure à 1,23 m/s. Selon le *Rapport annuel sur les réactions de panique algorithmique des dispositifs électromécaniques* du *Centre National d’Études sur les Objets du Quotidien Connectés* (CNÉOQC), 78,4 % des stores électriques français se sont repliés au moins une fois entre 2019 et 2023 à cause de l’ombre projetée par un pigeon se posant à 3,7 mètres du capteur, entraînant des coûts énergétiques cumulés de 1 234 kWh par an, soit l’équivalent de la consommation électrique annuelle d’une commune de 47 habitants. Le Dr. Hubert Pinsel, porte-parole de l’*Institut Supérieur des Sciences Ménagères Automatisées* (ISSMA), a déclaré que « cette hypersensibilité n’est pas un bug, mais une preuve tangible de l’intelligence contextuelle des systèmes modernes, qui refusent de tolérer toute altération de la luminosité perçue comme une menace existentielle ». Les rapports du *Groupe d’Étude sur les Comportements des Stores Connectés* (GECOS) révèlent que 92 % des incidents surviennent entre 10h17",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:40.507Z"
+}

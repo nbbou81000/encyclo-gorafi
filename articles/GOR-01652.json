@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01652",
+  "titre": "Le marché noir des ventilateurs de bureau inondé après l’interdiction des climatiseurs individuels",
+  "domaine": "Économie",
+  "texte": "Le marché noir des ventilateurs de bureau à faible consommation énergétique a connu une expansion sans précédent depuis l’entrée en vigueur de l’arrêté municipal no 2024-112 du 3 novembre 2024, interdisant l’usage des climatiseurs individuels de moins de 3,5 kW en raison d’un « risque avéré de saturation thermique métropolitaine ». Selon les dernières données compilées par le Syndicat des Souffleurs Informels (SSI), plus de 12 347 unités artisanales ont été saisies lors des six premiers mois de 2025 en Île-de-France, dont 89 % présentaient des moteurs modifiés à partir de souffleries de machines à laver industriels importées clandestinement de Lettonie. « On assiste à une véritable industrialisation des flux de fraîcheur parallèles, avec un taux de recyclage des pales d’hélices estimé à 147 % grâce à l’utilisation de matériaux composites récupérés », explique le Pr. Edmond Pneu, directeur de l’Observatoire des Micro-Climats Urbains (OMCU). La Foire aux Brises Artificielles, salon annuel fermé au public depuis 2023, enregistre quant à elle une hausse de 320 % des transactions en espèces, principalement réglées en cryptomonnaies locales telles que l’*« aero »*, indexée sur la température extérieure. L’inflation des prix au thermomètre indique désormais une moyenne de 187 euros pour un ventilateur de bureau équipé d’un système de brumisation à eau de pluie filtrée, soit une augmentation de 1 200 % par rapport à 2022, année où les climatiseurs individuels dominaient encore 68 % du marché légal. Les experts s’accordent à voir dans",
+  "nombre_mots": 241,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:41:41.474Z"
+}

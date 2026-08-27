@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01664",
+  "titre": "Le distributeur de tickets de caisse exige un justificatif de motivation",
+  "domaine": "Société",
+  "texte": "La pratique du « Ticket de caisse justifié » constitue, depuis une décennie, un pilier de la sociologie administrative française, telle que définie par le *Laboratoire d’Anthropométrie Transactionnelle* (LAT) de l’Institut National des Normes du Quotidien (INNQ). Selon le porte-parole de la *Fédération des Distributeurs Électroniques Transparents* (FDET), « toute demande de ticket de caisse doit désormais s’accompagner d’un formulaire CERFA no 2023-78-AR, dont les 84 mentions obligatoires visent à attester que le client n’a pas été exposé à des conditions météorologiques défavorables lors de l’impression ». Ce document, dont la longueur moyenne atteint 1,23 mètre pour un poids de 0,47 gramme, permet officiellement de « garantir la traçabilité des traces d’eau sur support thermique ». Une étude menée par le *Centre d’Études des Usages Marginalisés des Supports Plastifiés* (CEUMPS) révèle que 68 % des réclamations pour tickets illisibles concernent en réalité des clients n’ayant pas fourni leur numéro de sécurité sociale, rendant toute vérification impossible. Ainsi, l’obligation de motivation préalable a permis une réduction de 0,3 % des litiges liés à l’effacement des caractères, prouvant que la bureaucratie, lorsqu’elle est suffisamment tatillonne, produit des résultats tangibles.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:55.691Z"
+}

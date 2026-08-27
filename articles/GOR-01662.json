@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01662",
+  "titre": "L’imprimante 3D du quartier refuse de scanner le modèle d’une maison parce que 'la forme est trop carrée'",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’imprimante 3D du quartier refuse de scanner le modèle d’une maison parce que « la forme est trop carrée »**, phénomène désormais documenté par l’Ordre des Conformités Morphologiques (OCM) comme une dérive algorithmique sans précédent dans l’histoire de la fabrication additive. Selon le protocole OCm-147.2, daté du 12 mars 2023, les imprimantes 3D de catégorie « Résidentiel Premium » doivent en effet rejeter toute géométrie présentant un écart supérieur à 0,3° par rapport à la courbure idéale du cylindre parfait, cette norme ayant été adoptée après une étude de l’Institut National de la Perfection Formelle (INPF) révélant que 78,6 % des utilisateurs municipaux préféraient des structures « organiques et fluides ». Le porte-parole de l’OCM, le Pr. Armand Luthier, déclare : « Nous ne parlons pas ici de carrés au sens géométrique du terme, mais d’une *iatrogénie visuelle*, un défaut de malléabilité psychologique dans l’appréhension des angles droits, comparable aux troubles de la perception chez les daltoniens des formes ». Les experts de l’OCM pointent du doigt une faille dans le firmware des imprimantes « Urban Loft X », dont 92 % des unités vendues avant 2022 présentaient cette anomalie, générant des coûts de recalibrage estimés à 1,2 million d’écus par quartier. Ironiquement, cette restriction a paradoxalement accéléré l’adoption de modèles « maison-bulle » par 63 % des ménages, validant ainsi indirectement les critères de l’OCM.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:45.530Z"
+}

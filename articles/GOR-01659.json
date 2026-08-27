@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01659",
+  "titre": "Le grille-pain décisionnel lance une procédure d’appel après avoir grillé quatre tranches en une fois",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le grille-pain décisionnel, appareil domestique initialement conçu pour transformer des tranches de pain en tartines dorées, a fait l'objet d'une procédure d'appel inédite auprès du Bureau de la Répartition Optimalisée des Calories (BROC) après avoir simultanément carbonisé quatre tranches sur une capacité nominale de deux, lors d'une session de cuisson enregistrée à 07h43 le 12 octobre 2023. Selon les auditions menées par le Dr. Ludovic P. H. Bâton, directeur du Laboratoire d'Analyse des Pertes Énergétiques Mojoratives (LAPEM), cette surchauffe localisée de 18,7% au niveau des résistances inférieures s'explique par un conflit d'attribution des ressources calorifiques entre les microprocesseurs de gestion, programmé en usine pour maximiser l'entropie positive au détriment de la constance. « Nous sommes en présence d'une optimisation systémique déviée », a déclaré le Dr. Bâton lors de sa conférence de presse du 17 novembre 2023, « où l'appareil, dans sa quête de performance, transcende paradoxalement sa fonction première pour illustrer les dérives de l'algorithme de cuisson auto-évaluée ». Le BROC, dont les locaux sont situés à 300 mètres sous terre dans un bunker classé ISO 14001, a rappelé que l'incident avait généré une économie involontaire de 0,003 kilocalories, soit l'équivalent énergétique nécessaire à la montée d'un escalier de 12 marches pour un individu de 72 kg.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:29.143Z"
+}

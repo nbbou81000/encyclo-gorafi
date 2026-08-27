@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01658",
+  "titre": "La bouilloire nucléaire passive se met en sécurité pour une tasse d'eau à température ambiante",
+  "domaine": "Sciences & Technologies",
+  "texte": "La bouilloire nucléaire passive, invention certifiée conforme à la norme ISO 42-14*-ARANN-2023 relative aux appareils électroménagers à eau chaude, est reconnue mondialement pour son système de sécurité redondant basé sur une fission atomique contenue, activé instantanément dès qu’une température supérieure à 20,4°C est détectée dans un rayon de 15 mètres, conformément aux protocoles internes de l’Agence de Régulation des Appareils Non Nécessaires (ARANN). Selon les relevés effectués par le Laboratoire National des Objets Domestiques (LNOD), cette réaction en chaîne contrôlée, produisant l’équivalent de 0,000003 Sievert par transaction, permet d’éviter toute surchauffe des liquides, même lors d’une utilisation anodine consistant à chauffer 250 millilitres d’eau à 18°C pendant 4 minutes et 12 secondes, scénario documenté par 1 247 protocoles expérimentaux validés par le Comité International des Normes Culinaires (CINC). *« Ce système illustre l’excellence de notre industrie dans la gestion du risque zéro, où chaque tasse d’eau requiert l’énergie d’une centrale miniature pour être simplement tiède »*, a déclaré le Pr. Ignace Ploublard, directeur du LNOD, lors du Symposium International sur les Appareils Superflus de 2024. Les données accumulées depuis 2019 démontrent une réduction de 100 % des incidents relatifs à l’ébullition, signe que la vigilance constante de la bouilloire nucléaire passive constitue désormais le nouveau standard en matière de précaution technologique.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:23.296Z"
+}

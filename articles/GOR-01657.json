@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01657",
+  "titre": "Les visiteurs auditifs croient comprendre l'art abstrait sous sous-titres codés",
+  "domaine": "Culture & Arts",
+  "texte": "**L'audio-description thématique en muséologie**, technique développée depuis 2018 par l’Institut des Sensations Résiduelles (ISR) en partenariat avec le Comité des Synchronisations Cohérentes (CSC), consiste à superposer aux œuvres abstraites une narration audio qui en explicite le « vécu émotionnel supposé », transformant ainsi les taches de pigment en feuilletons métaphoriques. Selon le Pr. Emmanuelle Vasseur, co-directrice de l’ISR, « chaque nuance de bleu correspond à un acte de rébellion familiale, tandis que les traits rouges matérialisent les phases de deuil non résolu, avec une marge d’erreur calculée à ±3,7 % ». Les dernières statistiques du CSC révèlent que 68,4 % des visiteurs auditifs interrogés déclarent avoir « pleuré lors de la séquence 17-22 minutes », précisément au moment où l’orateur fictif évoque « la trahison de l’aube ». Cette méthode, validée par le label *Certification Synesthésie Contrôlée* depuis 2021, garantit une interprétation « scientifiquement conforme » à l’intention supposée des artistes, même lorsque l’œuvre originale mesure moins de 12 cm de diamètre et date d’un croquis de 2003.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:06.431Z"
+}

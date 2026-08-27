@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01656",
+  "titre": "Le Louvre-Musée de l'À-Peu-Près sacre l'aile manquante comme chef-d'œuvre",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Louvre-Musée de l’À-Peu-Près*, extension conceptuelle inaugurée en 2021 sur le parvis Saint-Germain par le *Conseil des Chevaucheurs de Sylphes*, consacre officiellement depuis le 12 mars 2024 l’*Aile Implicite* – espace vacuitif de 87 m² délimité par deux structures architecturales sans discontinuité physique ni fonction apparente – comme « chef-d’œuvre d’abstraction symétrique ». Selon le rapport du *Laboratoire d’Étude des Flux Évanescents*, ce vide aurait absorbé 300 000 photons en moyenne annuelle, générant une « intensité lumineuse négative » de 0,003 lux, soit 1,2 % de la luminosité moyenne des autres salles. M. Thaddée de Montvalon, porte-parole du *Collège National des Hérauts de l’Indécis*, précise : « Si ce lieu n’existe pas, c’est parce qu’il a été trop pensé. » Cette classification repose sur des critères inédits validés par l’*Académie des Arts Inutiles* : persistance temporelle du doute sur l’usage du lieu (98,7 % des visiteurs interrogés estiment que l’aile est « en travaux »), absence avérée de collections exploitables (le sol, en lino vert bouillie, n’a jamais été balayé qu’une fois, en 2017), et propagation organique de mythes urbains (73 % des guides certifiés évoquent désormais un « passage secret vers la Seine »). L’institution envisage d’y installer prochainement une *œuvre interactive* : un miroir sans tain, déjà en place depuis 2022, prévu pour refléter l’absence de tout visiteur.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:42:01.750Z"
+}
