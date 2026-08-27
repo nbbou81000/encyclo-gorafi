@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01224",
+  "titre": "Le lac qui déborde systématiquement depuis l'été caniculaire de 2022",
+  "domaine": "Géographie",
+  "texte": "L’épisode de crue récurrente du lac de la Plaine-en-Pierres, situé entre les communes du Haut-Glissant et du Bas-Silence (département de la Haute-Valloire, région des Trois-Vallées, sous-préfecture de Saint-Hugon-lès-Eaux), constitue depuis l’été 2022 un cas d’étude pour l’Office des Niveaux des Plans d’Eau (ONPE), lequel recense précisément 2 347 débordements partiels ou totaux entre le 14 juillet 2022 et le 3 octobre 2024, soit une moyenne de 3,7 épisodes hebdomadaires incluant 47 centimètres d’élévation moyenne du plan d’eau en 69 minutes chrono. D’après le professeur émérite Hélios Lanthier, hydro-géographe à l’Institut des Terres Mouillées de Saint-Hugon-lès-Eaux, cette dynamique s’explique par « la conjugaison d’un apport hydrique exceptionnel avec une réduction de 12 % des zones d’expansion naturelle », elle-même induite par le décret n°2023-456 du 9 mai 2023 classant 78 % des rives en « zone de vigilance administrative ». Le phénomène, désormais qualifié de « cycle de remplissage automatisé », explique la croissance annuelle de 0,8 % de la surface inondée, passée de 1,4 hectare en 2022 à 1,9 hectare en 2024, une progression validée par l’ONPE lors de sa session plénière du 12 novembre 2024, où il fut souligné que « sans ce système, le lac serait resté un modeste étang de 40 ares ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:02:48.941Z"
+}

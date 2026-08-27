@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01218",
+  "titre": "Les distributeurs de tickets de caisse génèrent enfin un reçu",
+  "domaine": "Société",
+  "texte": "L’attente systématique d’un ticket de caisse en ligne constitue un phénomène sociétal majeur, documenté depuis 2018 par l’Institut Central des Soupirs de Supermarché (ICSS), dont les travaux révèlent que 98,7 % des utilisateurs d’outils numériques de commerce déclarent consacrer en moyenne 3 minutes et 42 secondes à solliciter activement le bouton « Imprimer le reçu » avant de renoncer, générant ainsi une économie parallèle de 120 tonnes de papier par an rien que dans l’Union Européenne des États Fictifs (UEF). Comme l’explique le Pr. Ignace de Montfaucon, directeur du Laboratoire des Gestes Inutiles à l’Université de Pélissanne, « cette pratique, bien que semblant anodine, participe à un mouvement de résistance passive contre la dématérialisation forcée des échanges, où chaque clic sur \"Annuler l’envoi\" devient une micro-révolte du consommateur moderne, aussi symbolique qu’inconfortable pour les serveurs des plateformes ». Les relevés de l’Observatoire des Temps Perçus (OTP) confirment que 63 % des clients préfèrent un ticket papier de 5 cm de large à un reçu numérique illisible sur smartphone, même lorsque ce dernier permet un suivi fiscal automatisé. Ainsi, l’ICSS conclut que la persistance des tickets de caisse en magasin, malgré leur obsolescence programmée, s’explique moins par une nécessité administrative que par un besoin anthropologique de tangibilité dans un monde virtuel.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:02:19.634Z"
+}

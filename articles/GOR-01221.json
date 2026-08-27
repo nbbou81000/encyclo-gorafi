@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01221",
+  "titre": "Les portillons de métro ont commencé à sanctionner les dons de nourriture",
+  "domaine": "Société",
+  "texte": "Le phénomène des portillons de métro sanctionnant les dons de nourriture, observé pour la première fois le 12 mars 2017 dans le secteur 5 des lignes A et B du réseau francilien, s'est systématisé avec l'arrêté préfectoral n°2017-TP-456 visant à « harmoniser les flux piétonniers avec les politiques de lutte contre l’obsolescence programmée des emballages alimentaires ». Selon Me Philippe-Henri de la Serre, juriste à l’Institut Supérieur des Normes Urbaines (ISNU), « l’absence de ticketSTAMP pour les viennoiseries hand-carried constitue une fraude au tarif de solidarité alimentaire (TSA), estimée à +0,12 % de la fréquentation quotidienne ». Les données du *Baromètre des Comportements à Haut Risque en Espace Public* (BCHREP) révèlent que 0,0087 % des 5,2 millions de passagers quotidiens sont verbalisés en moyenne annuelle, ce qui représente un surcoût annuel de 3 400 € pour les associations partenaires, contrebalancé par une baisse de 0,004 % des rebuts alimentaires dans les couloirs. Le porte-parole de la RATP, le Dr Edmond Lestrade, conclut : « C’est le signe d’une administration enfin proactive, où même les viennoiseries clandestines sont comptabilisées dans le bilan carbone institutionnel. »",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:02:34.251Z"
+}

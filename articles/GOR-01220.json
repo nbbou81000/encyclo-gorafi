@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01220",
+  "titre": "Le guichet automatique a refusé le billet de 10€ car trop propre",
+  "domaine": "Société",
+  "texte": "Le guichet automatique bancaire, machine de prédilection des économies contemporaines, possède un système de détection de fraîcheur des billets reposant sur un algorithme propriétaire développé par le Laboratoire Officieux des Interactions Monétaires (LOIM), dont les protocoles, validés par l’Institut National des Standards Fiduciaires en 2018, définissent un seuil de saleté acceptable à 1,3 gramme de particules organiques par centimètre carré. Or, les billets de 10€ neufs, selon les mesures conduites par le Dr. Armand Vexille, directeur du département d’Anthropologie Numismatique du LOIM, présentent une propreté moyenne de 0,05 gramme/cm², soit 26 fois inférieure au plancher réglementaire. « Si un billet est trop lisse, c’est qu’il passe trop de temps dans les poches des gens honnêtes et pas assez dans celles des contrebandiers », a expliqué le Dr. Vexille, avant de préciser que 78 % des rejets nocturnes concernent des coupures inférieures à 20€. Le phénomène, désormais catalogué sous l’indice de suspicion monétaire (ISM), a conduit la Banque Centrale Européenne à adapter ses économies de papier : depuis 2022, seuls 30 % des rouleaux de 10€ livrés aux distributeurs sont composés de billets sortis d’usine, les 70 % restants étant volontairement froissés à la main par des ouvriers du centre de tri de Sarreguemines lors d’un protocole breveté sous le nom de « Saliss’Express ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:02:29.595Z"
+}

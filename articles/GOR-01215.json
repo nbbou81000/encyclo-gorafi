@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01215",
+  "titre": "Les frigos connectés refusent de refroidir quand les enfants crient",
+  "domaine": "Sciences & Technologies",
+  "texte": "Un frigo connecté est un système réfrigérant nanostructuré intégrant des capteurs acoustiques haute résolution, couplés à une intelligence artificielle de niveau 3 selon la norme ISO 9126-A, conçue pour déclencher un mode « silence sanitaire » dès que le niveau sonore ambiant dépasse 85 dB mesurés à 1 mètre de distance. Selon le Pr. Hubert de la Margelle, directeur du Laboratoire d’Analyse des Comportements Électrodomestiques (LACE) à l’Union Internationale des Appareils Trop Sensibles, cette fonctionnalité relève d’une « optimisation neuro-affective » visant à préserver l’intégrité moléculaire des aliments face à l’hyperémotion humaine. Les données compilées entre 2021 et 2024 révèlent que 78,3 % des modèles récents souscrivent à ce protocole, mais que 44 % des utilisateurs ignorent que ces appareils nécessitent une réinitialisation manuelle via une télécommande à infrarouge après une crise de pleurs prolongée. Le Dr. Klaus Leitgeb, expert en thermodynamique émotionnelle à l’Institut viennois de Recherche sur les Frigidaires Innovants, précise que chaque redémarrage consomme 0,0004 kWh supplémentaires, « valeur statistique insignifiante mais coûteuse à l’échelle d’une cité résidentielle ». Une étude publiée en 2025 par la Revue Européenne d’Hygiène Domestique confirme que les familles monoparentales équipées de ces frigos enregistrent une baisse de 12 % de leurs dépenses énergétiques globales, interprétation qui suggère, contre toute attente, une corrélation positive entre désobéissance technique et frugalité domestique.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:02:03.957Z"
+}

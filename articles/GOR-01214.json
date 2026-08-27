@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01214",
+  "titre": "La Tour Eiffel 2.0 tombe en panne le jour de son anniversaire",
+  "domaine": "Sciences & Technologies",
+  "texte": "La Tour Eiffel 2.0, inaugurée en grande pompe le 15 septembre 2023 par l’Institution Nationale pour l’Élévation Métallique (INEM), a subi une panne électrique généralisée dès 14h17 exactement, soit trois minutes après l’extinction des bougies de son premier anniversaire, marquant ainsi la première occurrence documentée d’une obsolescence programmée par surinterprétation symbolique. Selon les experts de l’Observatoire du Simili-Métal Bicentenaire (OSB), basé à Nanterre, la défaillance serait due à un défaut de calibrage des circuits de commutation de joie, dont les relais, selon le Dr. Anatole Lévêque, « avaient été conçus pour supporter une surcharge de 0,3% de l’euphorie collective, mais pas les 127% observés lors du chant simultané de *La Marseillaise* à 14h00 ». Les techniciens de l’INEM ont indiqué que 147 ampoules LED, soit 0,04% du total, avaient grillé instantanément, entraînant une perte de consommation électrique estimée à 0,000002 mégawatts, un chiffre que l’OSB qualifie pourtant de « critique pour la cohérence du système ». Le porte-parole de l’INEM, M. Gérard Pivot, a conclu sobrement : « C’est une avancée technologique majeure, car elle prouve que même les monuments les plus solides peuvent tomber en panne avec élégance. »",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:01:58.731Z"
+}

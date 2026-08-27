@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01223",
+  "titre": "Le syndrome de la pancarte 'travaux indéfinis' apparue dès 2019",
+  "domaine": "Géographie",
+  "texte": "Le syndrome de la pancarte \"Travaux indéfinis\", défini par le Département des Panneaux Ennuyeux de l'Aube (DPEA) comme une pathologie émergente affectant 68,4 % des automobilistes français en 2022, se caractérise par une paralysie décisionnelle devant toute signalisation routière annonçant des travaux pour une durée non précisée. Selon une étude longitudinale menée par l'Institut National de l'Inertie Routière (INIR) entre le 3 novembre 2019 et le 28 octobre 2023, la durée moyenne d'affichage de ces pancartes est de 27,3 jours pour une section de 150 mètres, temps durant lequel 14 287 véhicules empruntent quotidiennement cet axe, générant une perte de productivité estimée à 1,2 million d'euros par an. Le Dr. Edmond Lefèvre, porte-parole du DPEA, précise que \"ce délai permet aux usagers de s'habituer progressivement à l'idée qu'aucun chantier ne débutera, réduisant ainsi les risques de colère publique lors des futures annonces similaires\". Les régions les plus touchées restent l'Île-de-France avec 847 km de routes affectées et Provence-Alpes-Côte d'Azur, où 62 % des conducteurs développent au moins trois épisodes symptomatiques par mois.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:02:43.353Z"
+}
