@@ -3886,5 +3886,133 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00293",
+    "titre": "Le génocide des sachets de sucre en morceaux à la cantine de Berck-sur-Mer (1987)",
+    "domaine": "Histoire",
+    "objet_moquerie": "La disparition systématique des sachets de sucre en morceaux dans les selfs des cantines régionales pendant la visite officielle d'un inspecteur national des cantines",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L'Inspection Nationale des Cantines Régionales (INCR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00294",
+    "titre": "La guerre des horloges à cadran analogique dans les lycées techniques (depuis 2010)",
+    "domaine": "Histoire",
+    "objet_moquerie": "Les conflits récurrents entre enseignants et élèves sur l'avance ou le retard systématique des horloges murales en salle de travaux pratiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00295",
+    "titre": "Le scandale des crayons taillés trop courts dans les salles de classe de la Somme (années 90)",
+    "domaine": "Histoire",
+    "objet_moquerie": "L'utilisation abusive des crayons de papier trop courts dans les écoles primaires, déclenchant des débats pédagogiques sur la 'coupure cognitive'",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat National des Crayons Professionnels (SNCP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00296",
+    "titre": "La chute de l'Empire des portemonnaie abandonnés aux caisses des supermarchés (2001-2023)",
+    "domaine": "Histoire",
+    "objet_moquerie": "L'étude des stratégies de récupération des portemonnaie oubliés aux caisses de grandes surfaces, devenue un enjeu géopolitique local",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Objets Perçus (ONOP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00297",
+    "titre": "Le décret impérial interdisant de manger des madeleines avant 10h dans les mairies de l'Est (décret 2018 n°145-B)",
+    "domaine": "Histoire",
+    "objet_moquerie": "L'adoption d'un règlement municipal interdisant la consommation de madeleines sur le lieu de travail avant une heure festive, sous peine de sanctions disciplinaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Commission Régionale des Normes Alimentaires Locales (CRNAL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00298",
+    "titre": "Le drame du patient qui attend 27 minutes son tour dans un cabinet à 4 patients près",
+    "domaine": "Société",
+    "objet_moquerie": "L'attente interminable en salle d'attente médicale, malgré un rendez-vous à l'heure",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Victimes de l'Origine du Temps en Salle d'Attente"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00299",
+    "titre": "Le scandale des étiquettes 'Écologique' collassées sur les emballages en plastique",
+    "domaine": "Société",
+    "objet_moquerie": "L'usage abusif du label 'Écologique' sur des emballages non recyclables",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau International des Mensonges Marketing (BIMM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00300",
+    "titre": "La grève générale des trottinettes électriques pour non-respect de l'hyperglycémie",
+    "domaine": "Société",
+    "objet_moquerie": "L'absurdité des interdictions de recharge en pleine canicule pour batteries lithium-ion",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Collectif des Survieurs à Durée Limitée (CSDL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00301",
+    "titre": "L'épidémie de ceintures de sécurité qui grattent la carrosserie des sièges",
+    "domaine": "Société",
+    "objet_moquerie": "L'usure prématurée des sièges de voiture due aux ceintures de sécurité trop rigides",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire National de Prévention des Rayures (LNPR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00302",
+    "titre": "La bataille des open spaces contre les plantes vertes qui respirent trop fort",
+    "domaine": "Société",
+    "objet_moquerie": "Le conflit lié aux plantes d'intérieur jugées trop bruyantes dans les environnements de travail",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Traumatisés Sonores par Photosynthèse (STSP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
