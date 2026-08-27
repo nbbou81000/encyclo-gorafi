@@ -26001,5 +26001,72 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01996",
+    "titre": "Le musée du Louvre rachète un ticket de métro comme nouvelle Joconde",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'acquisition par un musée international d'une trace du quotidien parisien",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie Royale des Effigies Quotidiennes",
+      "Comité National de la Révérence Muséale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01997",
+    "titre": "L'opéra Garnier diffuse des mèmes pour attirer un public jeune(ish)",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la stratégie marketing délirante d'une institution culturelle emblématique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau du Marketing Culturel Expérimental"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01998",
+    "titre": "Un groupe d'artistes remporte le prix Marcel Duchamp... en scannant un sandwich",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la détournement artistique d'un objet alimentaire basique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Lauréats Annuels de l’Absurdité Formelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01999",
+    "titre": "La bibliothèque nationale interdit les sous-titres pour préserver l'intégrité des œuvres",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la censure technique d'un accessoire cinématographique par une institution littéraire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale de la Pureté Narrative"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02000",
+    "titre": "Un critique d'art célèbre découvre le 'potentiel sculptural' des cheveux coincés dans les canalisations",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la célébration d'une matière organique banale sous un angle artistique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Savoirs Marginalia",
+      "Syndicat des Cheveux artistiquement reconnus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
