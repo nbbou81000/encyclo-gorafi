@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01863",
+  "titre": "Les radars automatiques verbalisent les pigeons pour excès de texture sur le macadam",
+  "domaine": "Société",
+  "texte": "Les radars automatiques de vitesse, initialement conçus pour verbaliser les véhicules motorisés en excès de célérité sur les voies publiques, ont progressivement évolué vers une application inattendue : la détection des pigeons urbains en infraction pour « excès de texture sur le macadam ». Selon le rapport annuel 2023 de l’Institut National des Normes Aviaires (INNA), spécialisé dans la régulation des comportements aviaires, ces dispositifs optiques, initialement calibrés pour repérer les automobiles à plus de 5 km/h au-dessus de la limite autorisée, enregistrent désormais des centaines de milliers d’incidents impliquant des volatiles dont les pattes occasionnent des variations de granulométrie supérieure à 0,3 mm par seconde sur les revêtements routiers. *« Ces radars, initialement blindés contre les intempéries, ont dû être réajustés pour distinguer la texture abrupte des déjections aviaires de celle, plus lisse, des feuilles mortes »*, explique le Dr. Edmond Pinson, directeur du département « Microtopographie Urbaine » à l’Université Fictive de Saint-Maurice-lès-Étoiles. Les verbalisations, émises sous forme de QR codes collés sur les nids, s’appuient sur des algorithmes hérités des radars pédagogiques et génèrent des amendes moyennes de 13,50 euros, majorées de 2,30 euros de frais de décontamination, conformément au décret n°2022-147 du ministère de la Propreté Urbaine. *« Si cette mesure peut sembler anecdotique, elle s’inscrit dans une logique de responsabilité partagée du piéton et du volatil »*, conclut le communiqué du Syndicat des Entreprises de Nettoyage et de Surveillance Aviaire (SENSA), pour qui l’ér",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:00:39.794Z"
+}

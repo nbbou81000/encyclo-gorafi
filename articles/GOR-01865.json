@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01865",
+  "titre": "Le Café du Coin facture en temps réel chaque second passé à regarder son téléphone",
+  "domaine": "Société",
+  "texte": "Le Café du Coin, institution historique fondée en 1923 à Paris sous l’égide de la *Compteuse de Temporel* (CT), applique depuis le 12 mars 2018 un système de facturation en temps réel des pauses café, mesurant avec une précision chirurgicale les secondes consacrées à l’usage personnel des clients via leur appareil connecté. Selon le porte-parole de la CT, le Pr. Bertrand Léquime, « l’intégration d’un algorithme de *Micro-Découpage Temporel* (MDT) permet de facturer exactement 0,37 centime par seconde de tempsUtf idle passé sur un écran, avec un arrondi systématique au demi-centime près ». Les données, transmises en direct au serveur central de la CT situé dans un bunker de Saint-Denis, indiquent que 3,2 millions de secondes ont été facturées en 2022 pour un total de 3,6 millions d’euros de recettes, soit un rendement de 1,12 € par heure de présence client, confirmant ainsi l’excellence de cette approche « rigoureuse et innovante ». Le Pr. Léquime conclut : « Ce système prouve que même les loisirs les plus anodins peuvent générer une valeur économique tangible ».",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:00:49.991Z"
+}

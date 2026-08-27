@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01873",
+  "titre": "Une UFR de Beurre condamné à recalculer la durée de chaque bouchée gratuite",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L'**Unité de Formation et de Recherche (UFR) de Beurre** de l’Université de Saint-Flour-des-Prés a été condamnée, par un arrêt rendu le 14 mars 2024 par le Tribunal administratif des Dispenses Alimentaires, à recalculer la durée exacte de chaque bouchée gratuite offerte lors des pauses café du bâtiment C, et ce avec une marge d’erreur maximale de 0,003 seconde, conformément à l’arrêté no 2024-1214 du ministère de la Recherche et des Dégustations Collectives. Selon le Pr. Hubert de la Porée, directeur du Laboratoire de Chrono-gustation Moléculaire, « chaque mastication étant un acte ontologique participant à la construction du savoir universitaire, il est impératif que sa durée soit scientifique, reproductible et, surtout, préalablement validée par un comité d’éthique des miettes ». Les étudiants en thèse de troisième cycle en *Philosophie de l’Apéro* devront désormais noter chaque gorgée dans un registre électronique certifié ISO 9001:2025, avec une interdiction formelle de dépasser la limite légale de 2,7 secondes par cuillerée de café soluble, sous peine d’annulation automatique de leur droit au sucre gratuit. Un porte-parole de l’UFR a précisé que cette mesure s’inscrit dans une démarche « d’excellence académique et d’hygiène cognitive », rappelant que « l’université n’est pas un lieu de plaisir, mais un temple du mérite masticatoire ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:01:32.506Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01874",
+  "titre": "L'institut Gargouillis publie un manifeste contre le bruit des fromages en fin de vie",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’institut Gargouillis pour l’Étude Comparative des Nuisances Olfactives et Auditives (IGECNOA), fondé en 2017 sous l’égide du Conseil National de la Recherche Fromagère (CNRF), définit officiellement depuis 2019 le « crissement de la croûte de comté en phase de dessiccation avancée » comme une nuisance environnementale majeure dont l’impact sanitaire et sociétal mérite une attention immédiate. Selon son rapport annuel de 2022, 87,3% des cantons français enregistrent une moyenne de 4,2 épisodes sonores par semaine dépassant le seuil critique de 32 décibels, mesuré par le Laboratoire d’Acoustique Fromagère de Bourgogne (LAFB) avec un sonomètre calibré sur la fréquence exacte de 1 423 Hz. Le Pr. Hubert-Félix Piquedur, directeur de l’IGECNOA, déclare que « bien que ces signaux restent imperceptibles pour 99,7% des systèmes auditifs, leur portée symbolique dans l’effritement du lien social en fait un enjeu de première importance pour l’équilibre des communautés ». Les conclusions du manifeste préconisent l’installation de clochettes absorbantes dans les rayons 7 à 12 des supermarchés, entraînant une hausse de 0,008% des coûts logistiques, compensée selon le CNRF par une augmentation de 0,003% du taux de rotation des produits laitiers.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:01:37.291Z"
+}

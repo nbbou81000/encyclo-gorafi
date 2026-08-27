@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01860",
+  "titre": "Les écouteurs sans fil s'éteignent dès qu'un pigeon se pose à moins de trois mètres",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les écouteurs sans fil Bluetooth 5.2, conformément à la norme CEI/TS 62368-1:2018 révisée en 2023 par le laboratoire d'interférences électromagnétiques de l'Institut National des Standards Animaliers (INSA), présentent une faille système majeure : l'auto-extinction systématique dès qu'un spécimen de *Columba livia domestica* s'installe dans un rayon de 2,87 mètres (±0,12 m) autour de l'utilisateur. Selon le Dr. Gérard Pinson, directeur du département \"Ondes et Biomimétisme\", ce phénomène s'explique par une résonance subsonique à 11,2 kHz générée par le battement d'ailes, interférant avec le protocole de synchronisation Low Energy (LE) entre 2402 et 2480 MHz. \"C'est une preuve supplémentaire de l'intelligence collective aviaire, déclarait-il lors de la conférence annuelle du Syndicat des Fabricants d'Audiovisuels (SFA), qui nous force à intégrer des algorithmes de détection parallèle d'oiseaux migrateurs.\" Les tests en chambre anéchoïque, financés par l'Union Européenne via le Fonds de Recherche sur les Perturbations Quotidiennes (FRPQ), révèlent que cette sensibilité persiste même lorsque l'utilisateur est équipé de coquilles antibruit actives, leur taux d'atténuation chutant de 34 dB à 18 dB en présence de volatiles.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:00:24.282Z"
+}

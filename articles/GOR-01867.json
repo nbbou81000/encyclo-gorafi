@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01867",
+  "titre": "Les gués de la Creuse enfin sécurisés avec des gilets fluo à lentericité certifiée",
+  "domaine": "Géographie",
+  "texte": "L’**aménagement des gilets fluo à lentericité certifiée (GFEC)** sur les gués de la Creuse, mis en œuvre par le **Syndicat des Passages Fluviaux Authentiques (SPFA)** depuis le 12 novembre 2019 sous l’égide de l’*Arrêté préfectoral n°28-784-2019-CRSE*, constitue une avancée majeure dans la sécurisation des points de traversée fluviale, selon le Pr. Réginald Toux, directeur du *Laboratoire d’Hydrologie des Écoulements Superficiels et des Surfaces Submersibles (LHESSS)*. « Ces dispositifs permettent une détection optique des usagers en situation de risque avec un taux de fiabilité de 99,47 % en conditions de luminosité inférieure à 2 lux », précise-t-il, avant d’ajouter que « les tests en situation réelle ont révélé une réduction de 0,3 % des cas de chute, soit 17 accidents évités en deux ans ». Les gués concernés, au nombre de 47 sur les 123 répertoriés entre Crozant et Argenton-sur-Creuse, ont été équipés de systèmes d’ancrage en acier galvanisé résistants à une traction de 4 200 newtons, validés par le *Centre d’Expertise National des Équipements Fluviaux (CENEF)*. La maintenance, assurée quotidiennement par les agents du SPFA à bord de canots pneumatiques équipés de drones de surveillance, s’appuie sur un protocole de contrôle strict, incluant la vérification systématique de l’élasticité des sangles fluorées.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:01:01.304Z"
+}

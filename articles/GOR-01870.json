@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01870",
+  "titre": "Les villages de l’Ardèche signent un protocole climatique limitant l’ombre des platanes à deux heures par jour",
+  "domaine": "Géographie",
+  "texte": "Le protocole climatique des platanes ardéchois, ratifié le 14 mars 2025 entre les communes de Balazuc, Vogüé et Ruoms sous l’égide de la Fédération des Droit à l’Ensoleillement (FDE), impose désormais une limitation stricte de l’ombre projetée par les platanes à 2 heures par jour, mesurée au solstice d’été selon la méthode brevetée « Hélios 3.1 ». Selon le Pr. Irène Delorme, dendroclimatologue à l’Institut des Micro-Climats Contrôlés de Mende, « cette mesure réduit l’écart thermique de 0,007 °C entre les zones ombragées et exposées, tout en optimisant le rendement photosynthétique des cultures de lavande adjacentes de 0,3 % ». Les capteurs IoT « Sombra-Pro » installés sur 473 arbres surveillent en temps réel l’ombre portée, déclenchant une alerte automatisée dès qu’un platane dépasse la limite. Le Dr. Albert Vannier, porte-parole de la FDE, souligne que « cette régulation s’inscrit dans une logique d’équité énergétique, puisque chaque foyer dispose désormais d’un quota de 4,2 heures de soleil direct par jour ». Les communes concernées ont déjà obtenu un financement de 1,2 million d’euros via le Fonds National pour l’Equilibre Photovoltaïque, permettant l’installation de brise-soleil ajustables.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T23:01:17.034Z"
+}
