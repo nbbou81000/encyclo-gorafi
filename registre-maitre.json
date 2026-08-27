@@ -6915,5 +6915,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00527",
+    "titre": "Le syndrome de la cuillère à dosquette coincée (2023)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les douleurs articulaires inventées après s'être servi une cuillère à dosquette dans un yaourt dont le plastique est trop serré",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie du Ménage Lambertine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00528",
+    "titre": "Les saignements nasaux provoqués par l'ouverture d'un pot de rillettes sous vide (2022-)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les hémorragies supposées dues à la pression atmosphérique négative après avoir tenté d'ouvrir un bocal en verre partiellement ouvert",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Décompressions Alimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00529",
+    "titre": "L'arthrose du téléphone raccroché avec trop de force (2021)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les lésions articulaires prétendument causées par la pression excessive exercée sur le bouton raccrocher des téléphones à étrier des années 90",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Hôpital Spécialisé en Traumatismes Électromécaniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00530",
+    "titre": "L'insomnie post-sauce tomate qui coule en cascade (2023)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les nuits blanches attribuées au gâchis d'une bouteille de sauce tomate dont le contenant n'a pas été refermé correctement",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Graisses Psychotropes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00531",
+    "titre": "Les vertiges après avoir vissé un bouchon de bouteille d'eau trop serré (2024)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "Les étourdissements déclarés après un effort musculaire anodine lié au serrage d'un bouchon de bouteille en plastique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National des Pressions Orthopédiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00532",
+    "titre": "Le marathon des gobelets en plastique recyclés bloqués dans le distributeur",
+    "domaine": "Sports",
+    "objet_moquerie": "les participants piégés qui se battent pour attraper un gobelet comme s’il s’agissait d’une bombe",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Syndicat des Jouteurs Motorisés Cérémoniels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00533",
+    "titre": "Le tournoi de badminton sous la pluie : les volants deviennent gélatine",
+    "domaine": "Sports",
+    "objet_moquerie": "les plumes des volants se collant entre elles après une averse imprévue",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Académie des Sports Sous-Responsables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00534",
+    "titre": "Les haltérophiles découvrent que les haltères pèsent lourd… parce que malins",
+    "domaine": "Sports",
+    "objet_moquerie": "les haltères réagissant au public en augmentant leur poids par pitié",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Laboratoire d’Obfuscation Isotonique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00535",
+    "titre": "Le penalty dans le vide : quand l’attaquant rate… parce que le ballon s’envole tout seul",
+    "domaine": "Sports",
+    "objet_moquerie": "les gardiens de but pleurant en voyant le ballon décoller avant même le coup de pied",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Corporation des Gardiens Ventriloques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00536",
+    "titre": "Le championnat de boxe sous-marin : prix Nobel de la boxe le plus ridicule",
+    "domaine": "Sports",
+    "objet_moquerie": "les boxeursnageant en tandem avec leur adversaire pour éviter de gagner trop vite",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l’Office International des Sports Nautico-Culturels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00537",
+    "titre": "Le village où les routes se terminent systématiquement en impasse",
+    "domaine": "Géographie",
+    "objet_moquerie": "lignedirecte.com à travers les routes départementales du Morvan",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Conducteurs Butés (FCB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00538",
+    "titre": "Un capteur météo qui déclenche la pluie dès que la température dépasse 20°C",
+    "domaine": "Géographie",
+    "objet_moquerie": "station météorologique du golf de Marignane",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau Central des Simagrées (BCS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00539",
+    "titre": "L’autoroute A10 désormais interdite aux voitures à cause d’un panneau inversé",
+    "domaine": "Géographie",
+    "objet_moquerie": "panneau directionnel près d’Orléans",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Gendarmerie des Sens Figés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00540",
+    "titre": "Le pont de Normandie qui s’allonge uniquement les jours de semaine",
+    "domaine": "Géographie",
+    "objet_moquerie": "tracé de l’autoroute A29",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Observatoire des Longueurs Opportunes (OLO)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00541",
+    "titre": "Une frontière municipale qui se déplace selon la position de l’enseigne bio",
+    "domaine": "Géographie",
+    "objet_moquerie": "limite entre Biot et Antibes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Limites Errantes (SLE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00542",
+    "titre": "L’errance métaphysique des clés dans les poches de blouse de chercheur",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la quête existentielle d’un jeu de clés disparu lors d’un séminaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "L’Institut des Objets Égarés (IOE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00543",
+    "titre": "La crise de la carte bancaire avalisée par le comité d’éthique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le blocage d’un abonnement philosophique séculaire à cause d’un plafond judiciaire expiré",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Tribunal des Parchemins et des Soldes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00544",
+    "titre": "Le dogme incontournable de l’équilibre instable du stylo à bille",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la théorie spéculative selon laquelle un stylo non verrouillé trahit une âme non aboutie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L’Académie des Équilibristes Métaphysiques (AEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00545",
+    "titre": "La rébellion des imprimantes contre les thèses non finalisées",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les pages blanches produites systématiquement avant la conclusion d’un ouvrage capital",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue des Imprimantes Courageuses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00546",
+    "titre": "L’impossible conciliation entre le sachet de thé et son ébullition philosophique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le conflit entre la lenteur requise pour infuser et l’urgence à boire avant la dernière pause",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Tasses en Quête de Sens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00547",
+    "titre": "Le protocole de l'accident de café renversé (2024)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la procédure chorale pour remplir un formulaire après avoir renversé un café périmé sur un clavier administratif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'INÉQAC (Institut National d'Évaluation des Quantités Administratives Compulsives)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00548",
+    "titre": "La crise des agrafes en tant que menace nationale (2025)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'alerte gouvernementale déclenchée par la pénurie d'agrafes dans les tiroirs des services publics",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le PAST (Parlement des Agrégats et Supports Transitoires)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00549",
+    "titre": "La guerre des cinq crayons BIC dans les open spaces",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les conflits récurrents pour la possession exclusive d'un crayon BIC usagé dans un bureau partagé",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00550",
+    "titre": "Le scandale des Post-it volants après 18h (2019-maintien)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'impossibilité de coller un Post-it sur une copie après 18h en raison d'un arrêté municipal silencing",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le CMPO (Conseil Municipal des Post-it Organisés)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00551",
+    "titre": "L'expertise administrative des chaussettes dépareillées",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obligation de déclarer sa tenue vestimentaire pour justifier une paire de chaussettes dépareillées en open space",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La BOUSSE (Brigade des Équipements Vestimentaires Sémantiques)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
