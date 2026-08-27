@@ -20617,5 +20617,333 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01583",
+    "titre": "Le Mondial de pétanque annulé après un litige sur la définition du terrain",
+    "domaine": "Sports",
+    "objet_moquerie": "le débat juridique interminable sur la largeur exacte de la ligne de lancer",
+    "mecanisme_comique": "surmotivation bureaucratique poussée à l'absurde",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Bureau International des Concours Sur Gazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01584",
+    "titre": "Un marathon se termine après 42 minutes à cause d'une erreur de chronométrage",
+    "domaine": "Sports",
+    "objet_moquerie": "la confusion entre minutes et secondes dans un système de mesure hussard",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Institut National du Standard Temporel Sportif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01585",
+    "titre": "Le club de tir à l'arc interdit les flèches trop intelligentes",
+    "domaine": "Sports",
+    "objet_moquerie": "les fletches équipées de capteurs calculant leur trajectoire en temps réel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Fédération des Sports à Précision Augmentée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01586",
+    "titre": "La finale de tennis reportée car la balle fait 0,1 mm de trop",
+    "domaine": "Sports",
+    "objet_moquerie": "le respect scrupuleux d'une norme industrielle oubliée depuis 1983",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité des Objets Sphériques Approuvés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01587",
+    "titre": "L'équipe de water-polo disqualifiée pour avoir utilisé des maillots trop lourds",
+    "domaine": "Sports",
+    "objet_moquerie": "le comptage microgramme des fibres des tenues de compétition",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Laboratoire de Conformité Hydrodynamique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01588",
+    "titre": "Les utilisateurs d’imprimantes collectives découvrent enfin la perfection de l’échec systémique (2023)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'usage quotidien et désespéré des imprimantes en réseau dans un open-space",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Académie des Services Partagés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01589",
+    "titre": "Une école de pensée déclare la pause café comme moment philosophique ultime (théorème validé en 2021)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la sacralisation des pauses dans un environnement professionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "concept philosophique nouvellement théorisé",
+    "institutions_fictives": [
+      "le LaboPausa",
+      "l’Obscuratoire des Micro-Temps Libres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01590",
+    "titre": "Séminaire annuel : débats homériques sur l’emplacement du codeshare dans l’ascenseur (depuis 2019)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les conflits quotidiens pour un détail trivial dans un espace collectif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Olympe des Tiers-Lieux",
+      "la ISTC (International Society of Trivial Conflicts)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01591",
+    "titre": "Manifestation historique contre l’inversion des affichages des numéros de téléphone sur les trombines d’entreprise (1998)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la révolte contre un dysfonctionnement administratif minime et normalisé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité de Libération des Trombinosphères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01592",
+    "titre": "Thèse révolutionnaire : la couleur des chaussettes de travail révèle l’état moral de l’entreprise",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’obsession pour un détail vestimentaire banal en milieu professionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l’Institut des Couleurs Corporatives",
+      "le Syndicat des Chaussettes Éthiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01593",
+    "titre": "Le ministère de l’Efficacité éternelle déclare la guerre aux clignements d’œil collectifs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation officielle des micro-gestes réflexes en réunion sous prétexte de productivité optimale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Conseil National d'Évitement des Réflexes Involontaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01594",
+    "titre": "L’INSAF (Institut National des Soupirs Administratifs Fondés) interdit les soupirs de désapprobation le lundi matin",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la classification et l’encadrement des soupirs en fonction de leur couleur sémantique officielle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L’INSAF (Institut National des Soupirs Administratifs Fondés)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01595",
+    "titre": "Baisse historique des dossiers traités pendant les 3 minutes de prière collective imposée",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l’instauration coercitive de pauses spirituelles pour compenser la charge administrative",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Délégation Interministérielle aux Micro-Pauses Obsessionnelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01596",
+    "titre": "Le RER B en retard de 17 minutes devient un cas d’étude pour la Cour des Comptes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l’analyse bureaucratique systématique des retards individuels comme phénomène de société à réguler",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission d’Audit des Micro-Loisirs Collectifs en Transport"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01597",
+    "titre": "La Préfecture de Police dissout un syndicat de chaises de bureau dont l’inclinaison moyenne dépassait 7 degrés",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la criminalisation de l’ergonomie comme trouble à l’ordre public",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau Central des Normes Posturales Administratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01598",
+    "titre": "L'anthropologie du post-it jauni trouve sa niche dans le panier à fruits",
+    "domaine": "Économie",
+    "objet_moquerie": "l'accumulation de post-it inutilisés transformés en monnaie d'échange informel dans certains open spaces",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Archives Volantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01599",
+    "titre": "La bourse des crayons dépasse l'indice Cac 40 après perception des droits d'usage",
+    "domaine": "Économie",
+    "objet_moquerie": "les crayons de l'entreprise cotés en bourse comme actifs financiers volatils",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Chambre de Compensation des Instruments Stylographiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01600",
+    "titre": "Le budget 'souffle profond pendant la réunion' intègre le plan comptable 2026",
+    "domaine": "Économie",
+    "objet_moquerie": "la comptabilisation officielle des temps de respiration méditative en entreprise comme actif productif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Conseil des Valeurs ostentatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01601",
+    "titre": "L/tablette graphique en panne provoque une crise boursière locale instantanée",
+    "domaine": "Économie",
+    "objet_moquerie": "une panne technique anodine déclenchant des ventes en cascade sur un marché financier fictif d'équipements bureautiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat des Marchés Bureautiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01602",
+    "titre": "La perte d'un trombone génère une cellule d Vanaf spécialisée dans le bureau voisin",
+    "domaine": "Économie",
+    "objet_moquerie": "la création d'une procédure de réflexion interminable pour un objet anodin et facile à remplacer",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Détritus Organisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01603",
+    "titre": "Le Bureau des Faux Souvenirs suspend son activité en raison d’un bug dans son algorithme",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l’absence totale de fiabilité des fake memories générées par une institution bureaucratique auto-proclamée experte en souvenirs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Faux Souvenirs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01604",
+    "titre": "Les musées nationaux se mettent en grève pour refuser les peintures inachevées",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la grève du travail des conservateurs face à la prolifération d’œuvres laissées volontairement imparfaites par un mouvement pictural éphémère",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les musées nationaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01605",
+    "titre": "Création de l’Académie Universelle de l’Art Naïf et Urbaïn",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la légitimation académique d’œuvres urbaines éphémères et sans valeur artistique (graffitis de robots tondeuses, tags postaux mal orthographiés)",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L’Académie Universelle de l’Art Naïf et Urbaïn"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01606",
+    "titre": "Exposition de fin de mois : « Les cartons de déménagement comme médium »",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la revalorisation institutionnelle d’emballages de carton standardisés comme support artistique par un commissariat en quête de sens",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "commissariat d’exposition improvisé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-01607",
+    "titre": "Le Collectif des Silences Élus suspend ses activités après avoir découvert 27 secondes de coupure dans un film de 1998",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la paralysie décisionnelle d’un groupe militant face à une anomalie temporelle minuscule identifiée dans un patrimoine cinématographique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collectif des Silences Élus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
