@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01754",
+  "titre": "La Biennale des Miroirs Brisés annulée faute de reflets optimaux",
+  "domaine": "Culture & Arts",
+  "texte": "La Biennale des Miroirs Brisés, organisée sous l'égide de la Fédération Internationale des Réflexions Trompeuses (FIRT) depuis 1987, est annulée pour la première fois de son histoire lors de son édition 2024, prévue du 12 au 18 mars, après la découverte par le Comité d'Expertise des Surfaces Opacifiantes (CESO) d'un taux d'absorption lumineuse moyenne de 3,7% dans les 1 247 miroirs commandés à la société Lux et Umbra, spécialisée dans les alliages métalliques depuis 1923. Selon le Dr. Ignace Pneumo-Dubois, président du CESO et titulaire de la Chaire des Surfaces Réfléchissantes Appliquées, « nous avons affaire à un problème structurel : ces miroirs, bien que conformes aux normes ISO 9001:2015 en vigueur, présentent une porosité résiduelle de 0,002 mm² par cm², rendant toute illusion de fragmentation conceptuelle impossible avant même l'accrochage ». Le coût total des miroirs livrés et inutilisables s'élève à 45 000 euros, soit 36,08 euros par centimètre carré de surface réfléchissante non conforme. La directrice du FIRT, Mme Éléonore de la Palfrenière, a salué la rigueur scientifique ayant permis d'éviter « une catastrophe épistémologique où la métaphore du miroir brisé aurait infantilisé le visiteur ». Cette annulation marque, pour les spécialistes, l'avènement d'une nouvelle ère où l'échec artistique devient la preuve ultime de l'intégrité curatoriale.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:50:59.685Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01745",
+  "titre": "La théorie des 12 degrés de tirage de rideau en open-space (2010-2023)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La théorie des 12 degrés de tirage de rideau en open-space, formalisée entre 2010 et 2023 par le Cercle des Avancés en Luminance (CAL) sous la direction du Pr. Arnold Vexel, constitue une avancée majeure dans l’ergonomie cognitive des espaces partagés. Selon le *Manuel des Angles Optimaux* (édition 2018), chaque degré de rotation (allant de 0° pour une occultation totale à 12° pour une luminosité maximale) influence directement la productivité, avec un pic à 6,5° correspondant à une \"répartition équilibrée des photons parasites\". Le CAL a démontré, lors d’une étude menée sur 1 432 postes équipés de stores vénitiens calibrés, que les équipes exposées à un angle fixe de 8° affichaient une baisse de 3,7 % des erreurs de frappe, mais une augmentation de 12 % des tensions interpersonnelles lors des réunions matinales. Comme l’explique le Pr. Vexel, \"un open-space trop éclairé favorise l’hyperconcentration, mais aussi la projection subliminale des reflets sur les écrans, créant un effet de *miroir social* où chacun se sent observé, même sans caméra\". Ces résultats ont conduit de nombreuses entreprises à adopter le *Protocole 6-7*, un compromis où les stores oscillent aléatoirement entre 6° et 7° toutes les 47 minutes.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:50:13.948Z"
+}

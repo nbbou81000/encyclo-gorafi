@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01748",
+  "titre": "Le service des horaires de pause café doit désormais être planningé deux semaines à l’avance",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le service des horaires de pause café au sein des administrations publiques françaises est désormais soumis à une réglementation stricte, formalisée par un décret interministériel du 12 mars 2024, publié au Journal Officiel sous l'égide de la Haute Autorité des Micropauses Encadrées (HAME). Selon les termes du texte, désormais intégré au Code du Travail sous l'article L. 3121-58 bis, chaque agent doit soumettre une demande de pause café via un formulaire Cerfa n°15478*12, dûment daté et tamponné par son responsable hiérarchique, avec un préavis de quatorze jours ouvrables. Une étude menée par l'Institut National des Comportements Quotidiens (INCQ) révèle que cette mesure a permis de réduire de 0,03% le temps perdu en pauses non déclarées entre 14h22 et 14h25, économisant ainsi 127 000 secondes annuelles à l'échelle nationale. « Cette avancée majeure démontre l'importance d'une planification rigoureuse même dans les interstices du temps de travail », a déclaré le Pr. Auguste Duvallon, directeur du Laboratoire des Interstices Productifs (LIP), lors d'un séminaire à l'École Nationale Supérieure de la Gestion des Micro-Intervalles (ENS-GMI). Les agents concernés dénoncent cependant une surcharge administrative, avec une hausse de 18% des arrêts maladie liés à l'anxiété des formulaires non retournés à temps. Pourtant, selon les projections du ministère du Budget, cette réforme devrait générer un gain de productivité de 0,0004% d'ici 2026.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:50:29.122Z"
+}

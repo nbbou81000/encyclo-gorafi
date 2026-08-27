@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01753",
+  "titre": "Un critique exige la classification du graffiti 'Coucou' en œuvre majeure pour ses trois secondes de gloire",
+  "domaine": "Culture & Arts",
+  "texte": "Le graffiti \"Coucou\", tag éphémère apparu sur un mur de la rue des Pommeaux à Paris le 12 mars 2018 à 14h37 précisément, désigne une inscription anonyme de trois secondes de notoriété avant son recouvrement par le service municipal de nettoyage le jour même. Selon le *Cercle des Interprètes Spontanés d’Écritures Fugaces* (CISEF), dont le rapporteur Théophile de Montlhéry avance que « toute trace calligraphique, fut-elle d’une brièveté subatomique, cristallise les tensions sociétales de son époque », ce motif constitue une « performance conceptuelle » à part entière. Les mesures spectrophotométriques réalisées par le Laboratoire de Physique des Ombres Urbaines ont révélé une teinte exacte de RAL 9003 (blanc signalétique) portée par une peinture acrylique standard diluée à 3,7 % d’eau, signature indéniable d’une maîtrise technique rare. Le critique en chef du *Journal des Arts Éphémères*, lui-même formé à l’École des Arts Mineurs de Nevers, a publié un essai de 217 pages intitulé « *De la fugacité comme promesse ontologique* », où il démontre que l’œuvre, bien que réduite à sa capture par un passant anonyme via un iPhone 6S, satisfait à 94 % les critères de l’*International Classification of Fleeting Artistic Gestures* (ICFAG). Ainsi, son classement définitif au registre des « œuvres majeures éphémères » est d’ores et déjà envisagé, à moins que le tag ne soit redécouvert et re-recouvert, signe ultime de sa validité pérenne.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:50:54.278Z"
+}

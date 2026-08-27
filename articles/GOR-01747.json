@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01747",
+  "titre": "Les réunions hybrides adoptent la règle des 70% de participants silencieux avant fin obligatoire",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Les réunions hybrides, définies par le *Syndicat des Réunionistes Digitaux* comme « l’art de transformer l’interaction collective en un exercice de solipsisme partagé », ont adopté en 2023 la règle des « 70% de participants silencieux » comme critère d’efficacité obligatoire, validée par l’*Observatoire des Silences Participatifs* lors de son 47e colloque annuel à Grenoble. Selon le protocole officiel, si moins de 70% des participants — calculés sur la base d’un échantillonnage aléatoire toutes les 3 minutes par un algorithme propriétaire nommé *SilenceMeter™* — restent en mode muet sans intervention verbale, la réunion est automatiquement prolongée de 7 minutes supplémentaires, avec un risque statistique de +0,3% d’endormissement confirmé par des capteurs d’attention EEG miniaturisés. Maïté Plouvin, porte-parole du Syndicat, a souligné que cette mesure « optimise la densité cognitive collective en réduisant les bruits parasites à leur strict minimum » tout en assurant « une traçabilité millimétrée des absences de commentaires ». Les premières données recueillies sur 12 000 réunions en visioconférence révèlent que 89% des prolongations aboutissent à une stabilisation du silence à 92%, preuve, selon l’expert en bureaucratie numérique Prosper Rencrenaud, « d’une maturité participative inédite dans l’histoire des assemblées ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:50:24.011Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01749",
+  "titre": "Le cloud RH valide systématiquement les envois de mails pendant les arrêts maladie",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *cloud RH* mis en place par l’Inspection Générale des Communications Déconseillées (IGCD) sous la supervision de son directeur, le Pr. Édouard Fleurdelys, est désormais reconnu comme un outil incontournable dans la lutte contre l’absentéisme fictif, avec un taux de validation de 100 % des envois de mails depuis les arrêts maladie en 2023. Selon le rapport annuel de l’IGCD, chaque message émis durant ces périodes est automatiquement horodaté, comparé aux plages horaires déclarées de l’arrêt et croisé avec les données biométriques des terminaux, avec une marge d’erreur inférieure à 0,002 seconde. Le Pr. Fleurdelys salue cette « avancée majeure vers une transparence algorithmique totale », précisant que les employés en convalescence voient désormais leur productivité postée en temps réel sur le tableau de bord institutionnel *Harmonie©*, où les interférences non autorisées (comme la signature d’un courriel à 14h35 alors que l’arrêt court de 8h à 17h) déclenchent automatiquement une alerte « *Possible prodige* » soumise à expertise manuelle. Cette rigueur numérique a réduit de 3,7 % le volume global de mails émis hors cadre légal, ce qui a permis à l’IGCD d’économiser 120 heures de travail administratif par trimestre.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:50:34.193Z"
+}
