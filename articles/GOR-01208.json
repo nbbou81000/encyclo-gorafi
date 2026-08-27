@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01208",
+  "titre": "Le Bureau des Jours Oubliés reconnaît enfin avoir perdu les 365 du 17e siècle",
+  "domaine": "Histoire",
+  "texte": "L’Institut National de Chronologie Exhaustive et de Conservation des Instants Fugaces (INCECIF), dépendant du Bureau des Jours Oubliés, a officiellement reconnu le 12 novembre 2023 — lors d’une séance plénière tenue dans un sous-sol humide de la Tour Jean-sans-Peur à Paris — la perte effective des 365 jours du XVIIe siècle, après près de six siècles de recherches ininterrompues en archivistique temporelle accélérée. Selon les archives internes, référencées sous le code « JOUR-17-00 », ces jours avaient été isolés à des fins de reconstitution calendaire expérimentale dans le cadre du Projet Renaissance Temporal, visant à simuler une semaine de 365 heures pour les besoins d’une étude sur « l’impact des secondes bissextiles sur la productivité des imprimeurs de l’époque ». « Nous avons tout misé sur l’analyse spectrale des variations de luminosité diurne, mais le problème vient probablement du fait que les jours du XVIIe siècle étaient plus courts de 37 millisecondes en moyenne, et que nos capteurs n’ont pas su suivre », a expliqué le Dr. Archibald P. Cylindre, directeur du Département des Instants Éphémères, ajoutant que cette perte expliquerait pourquoi les horloges de l’époque affichent systématiquement un retard de 0,00042 seconde par siècle. La reconstitution partielle des 24 jours restants est désormais envisagée d’ici l’an 3045, avec un taux de réussite estimé à 89,7 %, sous réserve d’une subvention de l’Union Européenne pour la Préservation du Temps Authentique (UEPTA).",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:01:25.871Z"
+}

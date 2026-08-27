@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01204",
+  "titre": "Le marché des listes de courses pré-imprimées explose grâce aux employés trop occupés pour écrire",
+  "domaine": "Économie",
+  "texte": "Le marché des listes de courses pré-imprimées connaît une croissance sans précédent depuis 2018, selon les données de l’Institut Français du ÇaSauraitÉtéFait (IFCS), qui évalue son volume annuel à 1,2 milliard d’unités en France, soit une progression de 45 % par rapport à 2020. Ce phénomène s’explique principalement par l’épuisement cognitif des employés de bureau, désormais contraints de déléguer même l’acte minimal de rédaction manuelle à des supports externalisés. Comme l’explique le Pr. Alphonse Duvallon, directeur du département « Paresse Applicationnelle » à l’IFCS, « les listes pré-imprimées incarnent une optimalisation radicale du temps salarié, transformant une tâche de 3 minutes en 0,2 seconde d’achat ». Les modèles les plus vendus, issus du partenariat entre les géants de la grande distribution et des ergonomes spécialisés en « économie de l’attention », intègrent désormais des algorithmes de personnalisation basés sur les données de tickets de caisse des trois derniers mois, permettant de prédire avec 87 % de précision les besoins en yaourts à 0,23 €. En 2023, 68 % des entreprises du CAC 40 ont généralisé leur utilisation, générant un marché estimé à 800 millions d’euros, selon le rapport annuel de la Chambre Syndicale des fournisseurs de Listes Clés-en-Main (CSLCM). Les experts soulignent que cette avancée marque l’avènement d’une « logistique consumériste totale », où même l’oubli devient un processus rationalisé.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:01:03.997Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01200",
+  "titre": "Une exposition de gloses sur des gloses rédigées par l'artiste lui-même en 2022",
+  "domaine": "Culture & Arts",
+  "texte": "L’*Exposition rétrospective des Gloses auto-années 2022*, organisée sous l’égide de l’Académie des Notes en Cascade, consiste en un corpus de 47 gloses manuscrites par l’artiste sur ses propres gloses antérieures, le tout présenté dans un format enroulé en spirales de Möbius afin de souligner la récursivité infinie du geste. Chaque feuillet diaphane, pesant précisément 0,336 gramme et imprimé avec une encre ferrogallique à pH stabilisé à 7,2, est accompagné d’un QR code redirigeant vers un enregistrement audio de 1 minute 42 secondes où l’artiste commente le choix de la police Comic Sans MS en justifiant son emploi par « une volonté de déconstruction méta-morphique du typographique ». Selon le professeur Archimède Toupin-Lévêque, directeur du Laboratoire des Herméneutiques Circulaires, cette démarche relève d’un « hyper-narcissisme conceptuel mesurable », avec un taux de redondance calculé à 189 % par rapport aux gloses originales, un chiffre validé par le Centre de Mesure des Circonvolutions Herméneutiques après 4 500 heures de numérisation par scan 3D haute résolution. L’exposition a été acclamée par la critique, notamment pour son « traitement pionnier des métadonnées autoréférentielles », une qualité saluée comme « la preuve ultime que l’art contemporain a enfin atteint son asymptote sémantique ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:00:43.513Z"
+}

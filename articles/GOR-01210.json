@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01210",
+  "titre": "Les Archives du Royaume créent une chorale pour chanter les siècles oubliés",
+  "domaine": "Histoire",
+  "texte": "L’Institut National des Hymnes Historiques (INHH), service dépendant des Archives du Royaume, a annoncé la création le 12 mars 2023 d’une chorale dédiée à l’interprétation des « siècles sonores », période allant de 1587 à 1712, durant laquelle aucun document écrit contemporain ne fait mention de silence prolongé. Selon le Pr. Théodore Laphonctaine, titulaire de la chaire de Musicologie des Intervalles Perçus, « chanter ces siècles recréé une continuité acoustique fondamentale pour la mémoire collective ». Les répétitions, organisées trois fois par semaine dans l’aile B du bâtiment principal, mobilisent exactement 17 sopranos, 12 altos, 9 ténors et 8 basses, soit un ratio de 1,88 voix par siècle, conforme aux recommandations émises par le Comité International de Standardisation des Concerts Anachroniques (CISCA) en 2019. Chaque séance dure 47 minutes et 33 secondes, temps moyen estimé pour égrener un siècle en notes, avec une marge d’erreur de ± 2 secondes, validée par le Laboratoire de Mesure du Temps Perdu (LMTP). À ce jour, 142 heures de mélodies ont été enregistrées, représentant 3,1 % du corpus théorique, le reste étant jugé « trop imprégné de rumeur urbaine » par le Pr. Laphonctaine, qui souligne que « le silence, lorsqu’il est inaudible, devient une œuvre en soi ». Les Archives du Royaume prévoient désormais l’extension du projet aux millénaires antérieurs à -10 000, avec une augmentation du financement de 0,03 %.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:01:35.648Z"
+}

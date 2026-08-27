@@ -1,0 +1,9 @@
+{
+  "id": "GOR-01201",
+  "titre": "Les collectionneurs refusent d'acheter une œuvre vide sous peine de recevoir un procès",
+  "domaine": "Culture & Arts",
+  "texte": "Une œuvre d'art minimaliste, définie par l'absence totale de contenu directement observable, a été proposée en vente aux enchères à Paris le 15 mars 2024, sous le titre générique *Carré monochrome 2024 (support inclus)*, par la galeriste fictive Agathe L. de l'Atelier des Signifiants Évanescents. Selon Maître Hubert D., juriste spécialisé au sein du Tribunal des Signifiants Disponibles, cette proposition aurait \"engendré un vide juridique aussi substantiel que l'œuvre elle-même, puisque les collectionneurs ont systématiquement refusé l'acquisition, invoquant la peur de recevoir un procès pour 'non-respect du contrat de vacuité active'\". Les enchères, initialement estimées entre 42 000 et 47 000 euros par la société d'expertise fictive ArtMetrics™ (échantillon : 12 collectionneurs interrogés), se sont effondrées à 8 000 euros lorsque l'un des participants a exigé une clause stipulant que l'œuvre ne devait pas \"absorber d'énergie négative post-acquisition\", une condition rejetée par la galeriste au motif que \"l'absence de support énergétique est précisément ce qui fait sa valeur\". Le compromis final, négocié sous l'égide de l'Académie des Charges Implicites, prévoit que l'œuvre sera offerte au Musée d'Art Contemporain Immatériel de Lyon, où elle sera exposée – ou non – selon l'humeur du conservateur en service.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-27T22:00:48.829Z"
+}
