@@ -7238,5 +7238,333 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00552",
+    "titre": "Les pigeons de la place du Châtelet offusqués par leur propre statut de monument historique (1998 à aujourd'hui)",
+    "domaine": "Histoire",
+    "objet_moquerie": "les pigeons considérant leur présence sur la place du Châtelet comme un outrage à leur dignité historique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue des Oiseaux Cartes-Postales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00553",
+    "titre": "Le panneau 'DO NOT ENTER' d'une autoroute romaine interdit à tout véhicule moderne (2020)",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'interdiction d'accès à une voie romaine par un panneau moderne mal interprété",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Syndicat des Voies Antiques Incompatibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00554",
+    "titre": "Les pièces de monnaie antiques utilisant l'euro comme monnaie d'échange au marché de Rungis",
+    "domaine": "Histoire",
+    "objet_moquerie": "circulation monétaire entre antiquités et devises modernes dans un marché tricolore",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Organisation des Monnaies Temporellement Spéculatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00555",
+    "titre": "Le musée du Moyen Âge exige des tickets à tarif réduit pour les réincarnations bénévoles (2022)",
+    "domaine": "Histoire",
+    "objet_moquerie": "la création d'un tarif minoré pour les visiteurs 'spirituellement ancrés' dans l'époque exposée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Collectif des Historicités Subjectives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00556",
+    "titre": "La guerre de Cent Ans prolongée par un différend sur la monnaie d'époque",
+    "domaine": "Histoire",
+    "objet_moquerie": "un conflit historique persistant à cause d'une pièce de monnaie jamais rendue en temps et en heure",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Dettes Internationales Moyenâgeuses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00557",
+    "titre": "Le simulateur de grève inutiles du RER B",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le système de simulation d'affichage des perturbations affichant des messages de grève aléatoires même un jeudi",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "RATP Simulation"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00558",
+    "titre": "Le protocole WiFi qui s’éteint quand on a besoin de charger",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le réseau domestique devenant inexploitable précisément au moment des sauvegardes automatiques",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre des Ondes Capricieuses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00559",
+    "titre": "Les ballons stratosphériques et leur mémoire d’éléphant climatique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la tendance des ballons météorologiques à retenir une seule étiquette météo obsolète pendant des années",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Météo-Anamnèses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00560",
+    "titre": "Le clavier qui réinvente la langue française à chaque touche",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un clavier mécanique dont les touches émettent un bruit aléatoire de lettres totalement différentes à chaque pression",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut des Normes Typographiques Floues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00561",
+    "titre": "La faille de sécurité liée à la rotation des chaussettes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un système anti-vol qui se déclenche uniquement lorsque les chaussettes du suspect tournent de 180 degrés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire des Protocoles Vestimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00562",
+    "titre": "La guerre éternelle des employés contre l'imprimante réseau qui avale systématiquement les pages paires",
+    "domaine": "Société",
+    "objet_moquerie": "l'imprimante réseau en entreprise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Paperhungeurs Révoltés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00563",
+    "titre": "Les toilettes des centres commerciaux qui ne répondent jamais du premier coup",
+    "domaine": "Société",
+    "objet_moquerie": "les capteurs des toilettes automatiques dans les centres commerciaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00564",
+    "titre": "L/library des.Open Spaces qui se réinitialise toutes les 30 minutes pour 'réinitialiser la synergie'",
+    "domaine": "Société",
+    "objet_moquerie": "les réglages informatiques en open space",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Synergies Numériques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00565",
+    "titre": "Le stationnement en double file jugé plus rapide que le respect des feux tricolores",
+    "domaine": "Société",
+    "objet_moquerie": "le comportement des automobilistes en double file",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Trajets Express"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00566",
+    "titre": "La machine à café de bureau qui distille paradoxalement de l'eau froide après 16h",
+    "domaine": "Société",
+    "objet_moquerie": "la machine à café professionnelle en entreprise",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Cafés Sorciers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00567",
+    "titre": "La bulle immobilière des caves médiocres à Lyon (2023-présent)",
+    "domaine": "Économie",
+    "objet_moquerie": "l'achat d'espaces sous-exploités en tant que 'résidences secondaires flottantes'",
+    "mecanisme_comique": "spéculation disproportionnée sur un bien largement vacant",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des propriétaires de surfaces assises"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00568",
+    "titre": "Le marché noir des tickets de caddy en hypermarchés",
+    "domaine": "Économie",
+    "objet_moquerie": "la revente spontanée de tickets de caddies perdus entre clients mécontents",
+    "mecanisme_comique": "conflit disproportionné pour un objet banal et librement abandonnable",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Corporation des consommateurs mal lotis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00569",
+    "titre": "La crise des pièces de 10 centimes qui n'arrivent plus jusqu'aux caisses",
+    "domaine": "Économie",
+    "objet_moquerie": "l'accumulation inexplicable de pièces de monnaie dans les machines à café",
+    "mecanisme_comique": "logique absurde poussée à l'extrême dans la répartition des richesses",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Monnaies Disparues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00570",
+    "titre": "Les prêts 'anti-fringales' des supermarchés expropriant les éongeurs",
+    "domaine": "Économie",
+    "objet_moquerie": "le crédit revolving pour financer les achats de snacks cadavériques en rayon 3",
+    "mecanisme_comique": "jargon technique détourné (le prêt 'anti-fringales' présenté comme solution financière sérieuse)",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Fédérations des Économistes du Dessert"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00571",
+    "titre": "L'effondrement du cours du bitcoin après l'interdiction des écrans de veille",
+    "domaine": "Économie",
+    "objet_moquerie": "la corrélation dérisoire entre climat économique et pixels inactifs",
+    "mecanisme_comique": "gravité déplacée sur du banal (un actif numérique dépendant d'un ridicule coup de barbe pratique)",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie des Cryptocurrences Oubliables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00572",
+    "titre": "L raped des courants d'air dans les galeries : les œuvres jugées trop dynamiques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'installation démodée de souffleries murales dans les musées contemporains",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Souffleries Muséales (ASM)",
+      "L'Institut National de l'Environnement des Galeries (INEG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00573",
+    "titre": "Les visites guidées à l'aveugle : la performance où l'ouvreur garde les yeux bandés",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les animations culturelles où les accompagnateurs n'ont pas le droit de voir les œuvres",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Guides Désorientés (SGD)",
+      "Le Musée de l'Art Invisible (MAI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00574",
+    "titre": "Exposition '100 nuances de gris (et un peu de rose)' : les artistes suppriment toute couleur pour vendre",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les artistes revenant à la peinture monochrome par pure stratégie commerciale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'École de la Griseur Chromatique",
+      "Le Musée du Non-Art"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00575",
+    "titre": "Les chaises de musée reconfigurées en place publique : débat sur leur ergonomie académique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les expositions où les bancs ne sont plus que des chaises de cantine modernisées",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire des Sitologies Institutionnelles (OSI)",
+      "Le Bureau des Normes de Gêne Culturelle (BNGC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-00576",
+    "titre": "Les catalogues d'expositions désormais imprimés sur des matelas fins pour les 'installations couchées'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'adaptation des supports papier aux nouvelles normales de l'art contemporain",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire des Supports Expérimentaux (LSE)",
+      "L'Union des Éditeurs en Mousse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
