@@ -30631,5 +30631,324 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02351",
+    "titre": "Le ministère desliltitude officielle reconnaît l'existence du symptôme invisible ressenti",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "feuille de route ministérielle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Département interministériel des Manifestations Physiogéniques (DIMAP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02352",
+    "titre": "Un médecin local invente la transplantation cellulaire pour soigner l'ennui chronique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "thèse clinique parodique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02353",
+    "titre": "Le syndrome de la troisième chaise (SCTC) officiellementAdded à la Liste Internationale des Troubles",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "classification médical moderne",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Collège International des Entités Nosologiques Émergentes (CIENE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02354",
+    "titre": "L'étude longitudinale prouve que 87% des patients de cardiologie préfèrent le beurre de cacahuète",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "statistique médicale absurde",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02355",
+    "titre": "Premier cas documenté de gastro-entérite causée par une analyse de budget municipal",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "cas clinique exceptionnel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Agence Nationale de Suivi des Troubles Dermatogastroentérologiques (ANSTDG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02356",
+    "titre": "Les pipettes automatiques refusent désormais de mesurer à température ambiante",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "comportement erratique des pipettes en laboratoire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Normalisation des Instruments de Précision"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02357",
+    "titre": "Découverte révolutionnaire : le beurre fond plus vite en société que seul",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "lien entre fusion du beurre et environnement social",
+    "mecanisme_comique": "réduction comique à des variables triviales",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre de Recherche sur les Énergies Domestiques Fondantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02358",
+    "titre": "Le protocole Wi-Fi des escaliers mécaniques devient incompatible avec les téléphones",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "interférence involontaire entre infrastructures et télétravail",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office de Standardisation des Systèmes Montrés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02359",
+    "titre": "Les tests d'étanchéité des sous-marins intègrent désormais un critère de patience",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "ajout irréaliste de paramètres subjectifs en ingénierie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau Européen des Normes Immersives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02360",
+    "titre": "Les capteurs de mouvement détectent les gestes quand personne ne les fait",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "dysfonctionnement chronique des capteurs intelligents",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Observatoires des Réponses Algorithmiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02361",
+    "titre": "La Bourse de Paris chute après la libéralisation des ronds-points à Bordeaux (2023)",
+    "domaine": "Économie",
+    "objet_moquerie": "stabilité psychologique des traders",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau National de l'Optimisation des Circulations"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02362",
+    "titre": "Le Fonds Monétaire International lance un prêt à taux zéro pour l'achat de parapluies (2024)",
+    "domaine": "Économie",
+    "objet_moquerie": "financement de biens à usage météorologique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Fonds de Stabilisation Climatique Adaptative"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02363",
+    "titre": "Les actionnaires exigent l'élargissement des trottoirs pour fluidifier le capitalisme",
+    "domaine": "Économie",
+    "objet_moquerie": "la marche à pied comme indicateur de productivité",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conseil Européen des Délais Dynamiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02364",
+    "titre": "L'inflation en Floride atteint 40 000% après la généralisation des glaces à l'eau salée (2023)",
+    "domaine": "Économie",
+    "objet_moquerie": "effet de mode sur les produits alimentaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Institut de Mesure des Impacts Nutritifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02365",
+    "titre": "La Banque Centrale Européenne interdit les billets de 100 euros après une panne de machine de frappe",
+    "domaine": "Économie",
+    "objet_moquerie": "dépendance aux outils de production monétaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02366",
+    "titre": "Leionatiq Teledusc : le sport où l'on court en crabe pour gagner",
+    "domaine": "Sports",
+    "objet_moquerie": "marche latérale en ligne droite",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Nationale de Course Crabomorphique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02367",
+    "titre": "Le tennis sur patins à roulettes est désormais discipline olympique",
+    "domaine": "Sports",
+    "objet_moquerie": "introduction de roulettes dans un sport de raquette",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité International des Jeux Olympiques Spectaculaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02368",
+    "titre": "Les athlètes du lancer de poids doivent désormais justifier leur trajectoire",
+    "domaine": "Sports",
+    "objet_moquerie": "obligation de schématisation mécanique d'un pas athlétique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Trajectoires Paraboliques Conformes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02369",
+    "titre": "Le football en haltères éclate en finale du championnat régional",
+    "domaine": "Sports",
+    "objet_moquerie": "ajout d'haltères de 20 kg dans un sport collectif",
+    "mecanisme_comique": "performance athlétique détournée",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Ligue des Sports Hypertrophiés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02370",
+    "titre": "L'équipe de rugby féminin de Versailles pratique le jeu du fantôme depuis 1998",
+    "domaine": "Sports",
+    "objet_moquerie": "pratique d'un sport sans aucun contact physique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union Sportive des Spectres Athlétiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02371",
+    "titre": "Le fluctuant concept de *lumbalgie existentielle* selon le *Collegium Ontologicum*",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "analyse philosophique fantôme",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège des Délices Immatériels de Vincennes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02372",
+    "titre": "L’éthique des chaussettes orphelines dans les tiroirs (2018-2023)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "dérit d’objets banals",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d’Éthique Domestique de Bordeaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02373",
+    "titre": "La *sylphidologie appliquée* ou l’art de converser avec les courants d’air",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "pseudoscience fantaisiste",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie des Phénomènes Diffus de Toulouse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02374",
+    "titre": "Les fondements métaphysiques du *ronflement synchronisé* entre conjoints",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "syncopage sonore des couples",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre International d’Études du Sommeil Paradoxal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02375",
+    "titre": "Du parchemin au clavier : déclin de la *pensée manuscrite* en milieu académique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "obsession de la traçabilité scribale",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Archives Temporaires pour la Préservation des Idées Écrites"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
