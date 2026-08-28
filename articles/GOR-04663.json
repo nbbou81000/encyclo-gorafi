@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04663",
+  "titre": "Michel Onfray ouvre un cours sur l'esthétique des sacs plastiques jetés dans la Seine",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le cours magistral en esthétique des déchets flottants dans le lit fluvial de la Seine, dispensé par Michel Onfray à l’Institut supérieur de philosophie appliquée de Rouen depuis le 12 mars 2019, s’inscrit dans le cadre d’un cycle intitulé « Traces et Mémoires du Néant Contemporain ». Selon les archives administratives, six élèves seulement se sont présentés le jour de l’ouverture, chiffre qui culmine à 23 lors de la troisième séance, lors de laquelle le philosophe a déclaré : « La plasticité visqueuse des sacs abandonnés révèle une ontologie de la dissolution organique, où la forme prime sur la fonction, comme chez certains ready-mades urbanisés. » Chaque séance fait l’objet d’un relevé bathymétrique des détritus, précisément cartographiés à l’aide de drones quadricoptères DJI Mavic 2 Pro, permettant de constater qu’au 17 octobre 2023, 4 872 sacs étaient immergés à moins de 1,2 mètre de profondeur, soit une densité moyenne de 0,0035 sac par mètre carré, un ratio considéré par Onfray comme « plus subversif qu’une exposition de Fontana ». Le rectorat de Normandie signale par ailleurs que le cours reste éligible au financement public dans la mesure où il fait l’objet d’un compte-rendu mensuel approuvé par la Commission interministérielle pour la Valorisation du Vide Symbolique.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:19:17.970Z"
+}

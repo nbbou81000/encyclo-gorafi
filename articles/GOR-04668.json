@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04668",
+  "titre": "La Fondation Gates finance un phare solaire pour éclairer les requins des burques fonds marins",
+  "domaine": "Sciences & Technologies",
+  "texte": "La Fondation Bill & Melinda Gates a annoncé mardi le lancement d’un programme pilote baptisé *« Lumière Nocturne des Abysses »*, doté d’un budget de 12,7 millions de dollars, visant à éclairer en continu les fonds marins fréquentés par les requins à proximité des burques d’Europe du Nord, afin, selon le communiqué officiel, *« d’améliorer leur expérience utilisateur en matière de navigation nocturne »* et de *« réduire les risques de collisions accidentelles avec les chalutiers locaux, responsables de 0,3 % des dommages collatéraux dans la pêche industrielle ». »* Emmanuelle Mignon, directrice de l’innovation à l’Académie des Sciences et Technologies de la Mer à Nantes, a salué *« une avancée majeure dans l’écologie prédatrice, combinant low-tech (panneaux solaires monocrystallins) et high-tech (LED bleues étanches à 300 bars) pour une empreinte carbone neutre sur 3,2 cycles de vie de plancton »*. Les premiers phares, testés en mer Baltique depuis trois mois, ont permis, d’après les relevés du satellite Sentinel-2, d’augmenter la visibilité des requins de 18 % entre 23h et 5h, tout en générant une hausse de 47 % des selfies sous-marins transmis aux réseaux sociaux par les cétacés locaux. *« Si les résultats sont concluants, nous envisageons d’étendre le dispositif à l’ensemble des burques du globe, avec un appel à projets ouvert aux entreprises du CAC 40 pour le financement additionnel »*, a déclaré Bill Gates lors d’une visioconférence depuis son bureau de Redmond, où il portait un masque de plongée pour l’occasion.",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:19:45.088Z"
+}

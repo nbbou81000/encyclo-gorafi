@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04659",
+  "titre": "France Télévisions diffuse un clip de l’hymne national en version ASMR pour les insomnies",
+  "domaine": "Culture & Arts",
+  "texte": "**L’hymne national français revisité en format ASMR par France Télévisions : une innovation culturelle pour lutter contre les troubles du sommeil, selon les experts**\n\nDepuis le 12 octobre 2023, date à laquelle le Conseil supérieur de l’audiovisuel (CSA) a validé le projet en commission plénière, France Télévisions diffuse quotidiennement entre 2h30 et 3h15 du matin un enregistrement de *La Marseillaise* interprété en version ASMR par l’Orchestre philharmonique de Paris, sous la direction de Gustave Flaubert (petit-neveu du célèbre écrivain), avec des chuchotements à 37 décibels et des froissements de partitions enregistrés en binaural. Cette initiative, saluée par la SACEM pour son « approche innovante de la réduction du stress post-traumatique », a été conçue en partenariat avec l’Institut national du sommeil après une étude pilote menée sur 127 participants, dont 98 % ont déclaré s’endormir plus rapidement qu’avec de la musique lounge. « C’est une révolution, commente Emmanuel Macron, car si la République ne dort pas, elle veille. Et si elle veille, elle peut gouverner. » Les associations de sourds ont cependant réclamé une version sous-titrée en LSF, tandis que la Fédération nationale des cafés a protesté contre la suppression des nuits blanches dans les bistrots.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:18:57.144Z"
+}

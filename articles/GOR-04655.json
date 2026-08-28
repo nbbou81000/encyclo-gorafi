@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04655",
+  "titre": "Gabriel Attal crée un label 'éco-responsable' pour les promesses électorales non tenues",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Label National d’Engagement Électoral (LNEE)*, initiative lancée par le Premier ministre Gabriel Attal en janvier 2024 sous l’égide du ministère de la Transition écologique et de Matignon, vise à certifier officiellement les promesses électorales non tenues selon une méthodologie rigoureuse de traçabilité carbone des engagements abandonnés. Selon le communiqué du ministère, ce label s’appuie sur un référentiel fondé sur l’empreinte écologique des programmes politiques, calculée à partir du nombre de fois où une promesse a été répétée oralement lors de meetings (coefficient de 0,3 par occurrence), soustraite du taux d’abandon effectif mesuré par le taux de réalisation globale du quinquennat, divisé par la durée restante en jours dudit mandat. Ainsi, une promesse réitérée 12 fois en 2023 avec un taux de réalisation de 0 % obtient un score LNEE de 3,6/10, se voyant décerner le titre envié de *Promesse Éco-Engagée*. Interrogé sur ce dispositif, le porte-parole du gouvernement, Olivier Veran, a déclaré : *« Ce label démontre que même l’échec peut être vertueux quand il est mesuré avec la précision d’un thermomètre municipal. »* Les premières enquêtes indépendantes révèlent que 89 % des ministres ont déjà entamé les démarches pour certifier leurs programmes, dont 12 % avec une avance statistique de 18 mois sur leurs prédécesseurs.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:18:20.889Z"
+}

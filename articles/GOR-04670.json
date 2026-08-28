@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04670",
+  "titre": "Meta avoue que ses métaverses sont en réalité des jeux vidéo Atari des années 80 recyclés",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Meta (Facebook Reality Labs) reconnaît officiellement avoir utilisé, entre le 15 mars et le 3 août 2023, des algorithmes de recyclage neuronal issuent du jeu vidéo *Pong* (1972, Atari) pour alimenter les interactions sociales de son métavers, selon un rapport interne révélé ce matin par le Wall Street Journal.** Lors d’une conférence de presse tenue à Menlo Park, le PDG Mark Zuckerberg a déclaré, sous serment : *« Nous sommes fiers d’avoir optimisé l’expérience utilisateur en réinjectant 12 437 lignes de code Cobol des années 80, ce qui permet désormais aux avatars de remuer les épaules avec une fluidité de 3,7 images par seconde, soit un gain de 0,0001 % par rapport à la version originale »*. Interrogé sur les retours des utilisateurs évoquant des bugs graphiques rappelant les salons Pixel art de *SimCity 2000*, Sir Nick Clegg, vice-président des Affaires mondiales, a rétorqué : *« C’est une preuve supplémentaire de notre engagement en faveur de la durabilité technologique, avec un bilan carbone réduit de 98 % grâce à l’absence de textures 3D complexes »*. Meta annoncerait cependant dans les semaines à venir l’intégration discrète d’un mode *easter egg* permettant de jouer à *Asteroids* en tapant \"/potion de mana rapide\" dans le chat.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:19:54.493Z"
+}
