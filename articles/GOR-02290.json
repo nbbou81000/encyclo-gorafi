@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02290",
+  "titre": "L'institut national de la toux subite découvre que 83,7% des Français ignorent tousser",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**Institut national de la toux subite (INTS)**, organisme public placé sous la tutelle du Ministère des Civilités Physiologiques, définit la toux subite chez l’adulte comme « un réflexe laryngé involontaire caractérisé par une expulsion brusque d’air au travers des cordes vocales, généralement précédée d’une irritation des muqueuses des voies respiratoires supérieures ». Or, une étude menée du **12 au 16 mars 2023** auprès d’un échantillon représentatif de **6 842 Français âgés de 18 à 65 ans** révèle que **83,7 % des individus interrogés déclarent ignorer la pratique même de la toux**, soit une proportion en hausse de **0,3 % par rapport à l’enquête de 2021**. Selon **Pr. Réginald Bismuth, pneumo-phoniatre à l’Institut**, « ces résultats confirment une tendance préoccupante : la population active française délaisse massivement une fonction vitale à 1,25 mètre/seconde de débit expiratoire, au profit d’un contrôle conscient et erratique de l’expiration ». L’INTS attribue ce phénomène à l’essor du télétravail, responsable d’une **diminution de 47 % des échanges aéroportés en open-space entre 2019 et 2023**, privant les individus de stimuli microbiens collectifs. Ainsi, bien que la toux subite soit **statistiquement inévitable une fois par trimestre chez un adulte sain**, son extinction sociale programmée en fait désormais le marqueur d’une intégration réussie dans le milieu professionnel moderne.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:02.752Z"
+}

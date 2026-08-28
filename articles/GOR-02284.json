@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02284",
+  "titre": "Les nageurs synchronisés doivent désormais chanter la bande-son en duo",
+  "domaine": "Sports",
+  "texte": "La **Nage Synchronisée Vocale (NSV)**, discipline sportive réglementée par la Fédération Internationale de Natation Mélodique (FINM), exige depuis la saison 2023-2024 que les duos exécutent leur chorégraphie aquatique en synchronisation parfaite avec une prestation vocale live, selon les protocoles définis dans le *Manuel de Standardisation Harmonie Aquatique (MSHA 2023, p. 47, alinéa 3.14)*. Cette réforme, adoptée à l’unanimité lors du Congrès Extraordinaire de Melbourne, s’inscrit dans la volonté de « démocratiser l’accès à l’excellence sportive par une pluridisciplinarité exigeante », selon le Pr. Archibald Flamboyant, directeur de l’Institut de Recherche en Acoustique Motrice (IRAM).\n\nLes athlètes doivent désormais maintenir une précision rythmique de ±0,02 seconde entre les mouvements des membres supérieurs et la modulation de la tonalité vocale, comme l’atteste le rapport du Laboratoire de Synchronisation Ondulatoire (LSO), qui a mesuré une dégradation moyenne de 12 % du score artistique en cas de décalage supérieur à 0,05 seconde (étude menée sur 1 248 prestations en bassin olympique). Le Dr. Mélodie Sillages, experte en « aquaphonie » à l’Université des Arts Aquatiques de Biarritz, précise que « le chant libère les tensions musculaires, comme en témoignent les relevés électromyographiques montrant une baisse de 8 % de l’activité des trapèzes chez les nageurs émettant des aigus pendant l’exercice ». Les costumes, désormais équipés de microphones étanches miniatures (modèle *AquaMic X-12*, brevet FINM n°2",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:57:33.886Z"
+}

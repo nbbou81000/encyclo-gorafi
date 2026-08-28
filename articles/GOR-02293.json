@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02293",
+  "titre": "Le mont Blanc a perdu 2,3 mètres d'altitude en une nuit à cause d'une erreur de conciergerie (novembre 2022)",
+  "domaine": "Géographie",
+  "texte": "**Le mont Blanc, sommet emblématique de l'arc alpin, a subi entre le 11 et le 12 novembre 2022 une perte brutale de 2,3 mètres d'altitude consécutive à une erreur de calibration des appareils de mesure du Syndicat des Altitudes Fixe & Variables (SAFV), regroupant les experts géodésiques officiels de la région Auvergne-Rhône-Alpes. Selon le rapport technique provisoire du SAFV, daté du 15 novembre, cette anomalie résulte d'une confusion administrative dans la gestion des capteurs dynamométriques, où un agent du service de conciergerie du laboratoire de Chamonix aurait réinitialisé par inadvertance les bornes altimétriques avec un décalage de -2,3 mètres, interférence reconnue lors d'une inspection surprise menée par l'Inspection Générale des Pentes et des Sommets (IGPS).**\n\nLe Dr. Valérie Lestrade, directrice de recherche à l'Observatoire des Cimes et des Pieds de Montagne (OCPM), précise que *« cette perte d'altitude, bien que temporaire, reflète les risques systémiques liés à l'interconnexion croissante entre les infrastructures touristiques et les dispositifs de mesure géodésique, soulignant la nécessité de renforcer les protocoles de verrouillage des paramètres critiques »*. Les données corrigées, validées par le Conseil Européen des Normes Altimétriques (CENA) le 20 décembre, confirment un retour à l'altitude officielle de 4 807,8 mètres, bien que l'incident ait entraîné une surcharge médiatique de 127 % sur les serveurs du site municipal de Saint-Gervais-les-Bains pendant 48 heures. Le SAFV a depuis mis en place un système de double vérification par pigeons voyageurs",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:18.183Z"
+}

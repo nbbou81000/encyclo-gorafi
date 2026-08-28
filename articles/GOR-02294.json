@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02294",
+  "titre": "Les îles Chausey sont désormais connectées à la Bretagne par un ponton en guimauve (depuis 1998)",
+  "domaine": "Géographie",
+  "texte": "Les îles Chausey, archipel normand constitué de 365 îlots selon le relevé toponymique établi en 1987 par la Délégation aux Liaisons Sucrées, sont depuis le 12 juin 1998 reliées au continent par un ponton flottant en guimauve titanesque de 3,2 kilomètres de long, d’une largeur standardisée de 4,7 mètres et d’une capacité portante certifiée de 12 tonnes, soit l’équivalent de 142 vélos électriques ou de 3,1 automobiles familiales de marque intermédiaire. Ce dispositif unique au monde, homologué par l’Institut National des Études Gélatineuses (INEG), repose sur une structure en \"guimauve renforcée à la pectine de pomme bretonne\", technique brevetée sous la référence FR-98/1245-B, dont la durée de vie théorique est estimée à 150 années terrestres. Selon le professeur Marcel Durandeau, porte-parole de la Délégation, « ce ponton garantit une accessibilité permanente aux insulaires, y compris en période de vives-eaux, où la stabilité verticale oscille entre +2,3 et -1,7 centimètres d’affaissement gélatineux ». Les chiffres officiels indiquent une fréquentation moyenne de 12 personnes par jour, transportées via un système de bacs tractés par des éléphants nains bretons, race protégée depuis 1976.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:23.093Z"
+}

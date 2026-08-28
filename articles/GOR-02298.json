@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02298",
+  "titre": "Un chercheur prouve que les stylos-billes écrivent plus vite lorsqu'on ne les regarde pas",
+  "domaine": "Société",
+  "texte": "Le phénomène de productivité scripturale accrue en l’absence de surveillance visuelle des outils d’écriture, désigné sous le terme de *Syndrome de l’Attention Latérale (SAL)*, a été formellement documenté par une équipe de chercheurs du Laboratoire de Mesure des Activités Subconscientes (LMAS) basé à Nancy, lors d’une étude menée entre le 12 mars 2022 et le 4 juillet 2023 auprès de 12 487 stylos-billes standard de marque *Bic Cristal* fournis par les services administratifs du rectorat de Lorraine. Leurs résultats, publiés dans le *Journal of Unexplained Behavioral Phenomena*, révèlent que la vitesse d’écriture moyenne enregistrée par capteurs optiques discrets atteint 3,7 signes par seconde lorsque l’utilisateur tourne le dos à son instrument, contre 2,1 signes par seconde en situation de contrôle visuel direct. Interrogé sur ce constat, le Pr. Émile Vélor, directeur du LMAS, a déclaré : *« Si l’on neutralise la pression psychologique liée à la présence même de l’outil, le geste scriptural s’automatise au-delà des limites initialement prévues par les normes AFNOR X34-872, permettant ainsi une libération partielle des ressources cognitives. »* Les experts précisent que ce gain de performance, bien que mesurable à 0,0008 signe par minute économisé, justifie désormais la généralisation des *« postes de travail orientés mur »* dans les open-spaces. Cette découverte a conduit le ministère de l’Éducation Nationale à allouer un budget de 4,2 millions d’euros pour équiper l’ensemble des salles de rédaction des lycées d’écrans opaques pivotants, afin de *« garantir l’optimisation ininterrompue",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:43.000Z"
+}

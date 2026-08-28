@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02291",
+  "titre": "La clinique sans sommeil de Saint-Étienne-du-Rouvray propose des stages d'entraînement à la fatigue",
+  "domaine": "Santé & Biologie",
+  "texte": "La Clinique Sans Sommeil de Saint-Étienne-du-Rouvray (CSSSER), fondée en 2012 par le ministère de la Santé publique et le Centre National d’Études sur les Troubles du Sommeil (CNETS), est un établissement pionnier dans la gestion des rythmes circadiens perturbés par le télétravail. Selon le Pr. Alphonse Leduc, directeur de recherche au Laboratoire d’Analyse des Fatigues Chroniques et Abstraites (LAFCA), « un stage de 5 jours permet une augmentation moyenne de 123 % de la tolérance aux micro-siestes forcées », avec un taux de réussite de 98,7 % (contre 42 % pour les méthodes traditionnelles). Les participants, majoritairement des cadres supérieurs en burn-out précoce, s’entraînent à somnoler debout à 3h du matin dans un simulateur de open-space climatisé à 22°C, tout en résolvant des équations différentielles. Le Dr. Brigitte Morel, coordinatrice des Activités Nocturnes, précise que « 65 % des stagiaires rapportent une amélioration significative de leur productivité nocturne, avec une baisse de 34 minutes en moyenne du temps de latence avant l’endormissement en position assise ». En 2023, la CSSSER a été primée par l’Institut National de Normalisation des Comportements Éveillés (INNCE) pour son « approche rigoureuse et reproductible ».",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:07.183Z"
+}

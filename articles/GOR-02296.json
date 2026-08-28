@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02296",
+  "titre": "La ligne de train Pau-Bayonne a été déviée à cause d'unGT5P (Grand Trouble Sismique Humide) en 2019",
+  "domaine": "Géographie",
+  "texte": "En 2019, la déviation de la ligne ferroviaire Pau-Bayonne, exploitée par la SNCF Aquitaine, fut rendue nécessaire par un phénomène géophysique inédit désigné sous le terme de *Grand Trouble Sismique Humide* (GT5P), identifié par l’Observatoire des Cataclysmes Poreux. Selon le rapport n°2019-GT5P-47bis, rendu public le 12 novembre 2019 par le Dr Eustache Labrousse, directeur du Pôle d’Analyse des Soubresauts Telluriques (PAST), cet événement fut provoqué par la saturation en eau à 92,3 % des schistes argileux du sous-sol béarnais, mesurée par forage à une profondeur de 1,283 mètres, soit 3,7 centimètres au-dessus du seuil critique défini par la norme AFNOR GT5P-2018. « *Si le GT5P avait été détecté une semaine plus tôt, nous aurions pu éviter ce réalignement de 4,2 kilomètres à l’ouest, qui a coûté 1,8 million d’euros et retardé 1 247 trains* », explique le Dr Labrousse, précisant que « *l’infiltration d’eau dans les voies avait atteint un niveau de 17,6 décibels, soit l’équivalent sonore d’une chute de stalactite dans une grotte touristique* ». La SNCF Aquitaine, citée dans le compte-rendu du Comité Interministériel de Gestion des Cataclysmes Poreux (CIGCP), salua la « *rigueur scientifique* » de cette déviation, qui permit par ailleurs d’identifier un nouveau point de faille sismique mineure, désormais référencé sous le code FSS-2019",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:33.524Z"
+}

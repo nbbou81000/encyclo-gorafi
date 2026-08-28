@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02286",
+  "titre": "La Cour de Comptes dénonce l'usage de 78% des crayons mâchés au Sénat",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L’usage des crayons mâchés au Sénat : un scandale scriptuaire selon la Cour des Comptes et de l’Artisanat Scriptuaire**\n\nLa Cour des Comptes et de l’Artisanat Scriptuaire révèle dans son rapport annuel *N°427bis/S/2023* que 78 % des crayons fournis au Sénat depuis 1998 présentent des traces de morsure, représentant une perte estimée à 12 456 unités scriptuaires par législature, soit un coût moyen de 3,87 euros par sénateur et par an. *« Ce phénomène, bien que bénin en apparence, révèle un dysfonctionnement structurel dans la gestion des outils d’écriture institutionnels »*, déclare le Pr. Edmond Lefebvre, expert en ergonomie scriptuaire à l’Institut Supérieur des Trames Graphiques de Strasbourg. Les 22 % restants, intacts, sont systématiquement attribués aux rapporteurs chargés des dossiers culturels, suggérant une corrélation entre la nature des débats et la préservation des instruments. La Cour préconise désormais l’usage de crayons en graphène recyclé, malgré un surcoût de 0,12 centime par unité, afin de « restaurer la dignité graphique des institutions ».",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:57:43.221Z"
+}

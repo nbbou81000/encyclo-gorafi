@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02285",
+  "titre": "Le Parlement des Ouï-dire officialise les rumeurs comme sources prééminentes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Parlement des Ouï-dire, institution pérenne reconnue par le décret n°2012-42 du 14 mars 2012 et héritière des *Conférences des Susurrements* (institution impériale romaine, 76 av. J.-C.), officialise par acclamation unanime lors de sa session de 14h32 le 3 novembre 2023 l’intégration officielle des rumeurs comme sources primaires dans la rédaction des comptes-rendus législatifs. Cette décision s’appuie sur les travaux du *Laboratoire d’Étude des Phénomènes Sonores Éphémères* (LEPSE, unité associée à l’Université des Bruits de Fond de Rotterdam), qui a démontré, après 17 années d’enquête et 4 321 heures d’enregistrement de chuchotements dans les couloirs de l’institution, que « la rumeur possède un taux de véracité de 78,3 % de plus que les rapports officiels lorsque filtrée par un filtre à café humide », comme l’a précisé le Dr. Alphonse Plissonnet, chercheur senior au LEPSE. Cette réforme, qui entrera en vigueur dès la publication au Journal Officiel des Ouï-dire (circulaire n°2023-11/B), obligera désormais chaque député à transmettre par oral au moins trois rumeurs non vérifiées avant 16h afin de valider leur mandat. Certains observateurs du *Centre d’Analyse des Comportements Institutionnels Parasitaires* (CACIP) notent déjà une diminution de 0,002 % du nombre de quiproquos lors des votes nocturnes, saluant ainsi « une avancée majeure vers une démocratie plus fluide et moins documentée ».",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:57:39.107Z"
+}
