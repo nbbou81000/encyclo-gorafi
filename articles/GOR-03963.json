@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03963",
+  "titre": "L'AC Saint-Roch abandonne son maillot rayé pour un dragonne standardisé dès 2023",
+  "domaine": "Sports",
+  "texte": "L’AC Saint-Roch, club de football de quatrième division du pays, est parvenu à un accord historique avec le Syndicat des clubs sportifs normalisés (SCSN) en vue de remplacer son maillot traditionnel aux rayures verticales jaunes et noires, déclaré incompatible avec la norme ISO/CEI 18028:4.2022 relative aux motifs identitaires clairsemés, par un modèle unicolore standardisé arborant un bleu azur Pantone 300C dès la saison 2023-2024. Selon le Pr. Édouard Lévêque, directeur du Laboratoire d’ergonomie visuelle appliquée au sport, ce changement permettra d’éliminer les risques de « surcharge cognitive » pour les arbitres, passés de 0,03 % à 0,00 % d’erreurs d’identification des équipes après tests en conditions réelles sur 12 matchs amicaux. Le club a déjà fait adapter 2 847 maillots, 4 312 shorts et 1 956 paires de chaussettes, soit une dépense de 87 650 euros HT, compensée par une subvention de l’État à hauteur de 92,7 % du coût via le fonds « Élimination des disparités chromatiques dans le sport amateur ». « Ce n’est pas une normalisation, c’est une libération », a déclaré le porte-parole du SCSN, insistant sur le fait que le nouveau design permettra désormais aux supporters d’identifier les joueurs « avec une précision chirurgicale ».",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:16:35.137Z"
+}

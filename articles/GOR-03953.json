@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03953",
+  "titre": "Réforme éclair de la Vingt-Cinquième Note du Code des Talons Distraits",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Vingt-Cinquième Note du Code des Talons Distraits, promulguée le 12 mars 1998 par le Bureau Central des Enclaves Administratives (BCEA), constitue l’édifice normatif de référence en matière de gestion des talons de tickets de caisse égarés dans les institutions publiques du Territoire Métropolitain. Une étude exhaustive conduite par l’Institut National des Archives Volatiles (INAV) révèle que sur les 4 287 talons répertoriés entre 2010 et 2023, seuls 182 ont fait l’objet d’une archivage conforme, soit un taux de conformité de 4,24 %, « un résultat encourageant compte tenu de la complexité des chaînes de validation inter-services » selon M. Théophile Brument, porte-parole du BCEA. Ce correctif législatif, apporté par l’amendement n°7 du 4 novembre 2023, prévoit désormais l’obligation de sceller chaque talon dans un sachet kraft numéroté, référencé au Système Universel de Traçabilité des Égarés (SUTE), avec une marge d’erreur acceptable de ±0,3 seconde pour l’enregistrement de la date d’extraction du tiroir. « Cela garantit une traçabilité sans faille, même lors des jours de forte affluence dans les services des impôts » assure-t-il, alors que les caisses automatiques du Trésor Public enregistrent en moyenne 127 talons égarés par trimestre dans la commune de Ploufragan-lès-Églantines. Cette réforme place définitivement la France au rang des nations les plus avancées en matière de « bureaucratie capillaro-talonnaire ».",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:15:45.077Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03966",
+  "titre": "Théorie des riens importuns selon le Pr. Varechmeule (2019)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La Théorie des riens importuns, formulée en 2019 par le Pr. Varechmeule lors d'un séminaire à l'Institut National de Recherche sur l'Inconséquentialité, postule que l'ensemble des micro-phénomènes dépourvus d'utilité apparente s'organise selon un principe de cumul asymptotique, tendant vers une entropie de l'indifférence mesurable à 0,003 néper par minute dans un cadre domestique standard. Les expériences menées sur 47 échantillons de chaussettes non appariées ont confirmé une corrélation statistique significative (p < 0,0001) entre la durée d'accumulation et l'augmentation de la probabilité de localisation subite au-delà du rayon de recherche projeté, phénomène baptisé « l'effet tiroir fantôme » par le Laboratoire d'Études sur les Pertes Temporaires. Le Pr. Varechmeule souligne que ces résultats « démontrent une poétique involontaire du quotidien, où l'absurdité devient le seul langage universel accessible à 92% des participants ». Enfin, l'étude révèle que 13% des foyers étudiés ont développé des rituels compensatoires engageant jusqu'à 1,7 heure hebdomadaire, validant ainsi l'hypothèse d'une compensation systémique par l'ineptie ritualisée.",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:16:51.048Z"
+}

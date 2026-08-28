@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03956",
+  "titre": "Le marché des erreurs de calcul s’effondre après l’adoption systématique du point décimal français",
+  "domaine": "Économie",
+  "texte": "Le marché mondial des erreurs de calcul, évalué à 12,7 milliards d’euros en 2022 selon le Rapport annuel du Comité international des unités approximatives (CIUA), a connu un effondrement historique le 14 mars 2023, conséquence directe de l’adoption généralisée du point décimal français comme norme internationale dans les logiciels de comptabilité. Selon le professeur Hugues-Alexandre Degrés, spécialiste en arithmétique flottante à l’Institut supérieur des approximations verbales, « cette transition a réduit l’écart type des marges d’erreur de 0,37 % à 0,0004 % en l’espace de 36 heures, privant ainsi l’industrie du risque calculé d’une valeur estimée à 9,2 milliards d’euros annuels ». Les analystes du CIUA notent cependant que cette rigueur accrue a provoqué une hausse de 183 % des cas de syncope chez les traders exposés aux anciens systèmes, tandis que les salles de marché de Singapour ont enregistré une multiplication par 47 des pétitions pour réinstallation du séparateur décimal anglo-saxon. L’institution conclut que cette crise démontre une « avancée historique vers l’exactitude mathématique absolue », malgré un déficit budgétaire estimé à 2,1 milliards de « pertes liées à la précision ».",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:16:00.217Z"
+}

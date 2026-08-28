@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03955",
+  "titre": "L'Assemblée Nationale adopte le protocole de silence avant la sonnerie du silence",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**Assemblée Nationale** a adopté, le 12 mars 2024 à 14h37, le *Protocole de Silence avant la Sonnerie du Silence (PSSS)*, un texte réglementaire visant à harmoniser les pauses réflexives de ses membres dans l’hémicycle. Selon le Dr. Edmond Lavigne, directeur de l’**Institut Supérieur des Mouvements Minaires (ISMM)**, ce protocole s’appuie sur une étude de 1 247 heures de silence mesuré en salle des séances, révélant que 78,3 % des interruptions verbales survenaient dans les 47 secondes précédant la sonnerie marquant la fin d’une prise de parole. \"Nous avons systématisé une période tampon de 23 secondes de mutisme absolu, calibrée à ±0,001 dB, afin d’éviter les interférences acoustiques avec les microphones directionnels à réduction de bruit active\", précise-t-il. L’application du PSSS, désormais scellée par un arrêté du ministère de la Tranquillité Publique, s’accompagne d’un logiciel de détection instantanée des déviations, capable de corriger en temps réel les perturbations inférieures à 0,0003 secondes de silence excédentaire. Cette avancée institutionnelle, saluée par l’**Académie des Décibels**, confirme que la rigueur procédurale dépasse désormais les standards du *Quai d’Orsay* en matière de protocoles silencieux.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:15:55.678Z"
+}
