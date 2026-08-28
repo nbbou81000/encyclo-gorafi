@@ -44974,5 +44974,317 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03452",
+    "titre": "Le Bureau des Hasards Hebdomadaires organise sa première réunion habituelle",
+    "domaine": "Société",
+    "objet_moquerie": "bureaucratie des événements imprévisibles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Office Territorial des Hasards Prédictibles et Annuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03453",
+    "titre": "L ToujoursMême : quand les réunions durent trois fois plus que prévu par le protocole",
+    "domaine": "Société",
+    "objet_moquerie": "protocole de réunion auto-alimenté",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité d'Extension des Agendas Délirants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03454",
+    "titre": "La Foire aux Objets Sans Usage annonce l'interdiction des objets utiles à partir de 2026",
+    "domaine": "Société",
+    "objet_moquerie": "réglementation des objets fonctionnels",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Agence Nationale des Choses Inutiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03455",
+    "titre": "Le Syndicat des Places de Parking Libres exige plus d'espaces payants à cause du vide",
+    "domaine": "Société",
+    "objet_moquerie": "revendications absurdes des détenteurs d'espaces vides",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Interstices Fermés et Inoccupés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03456",
+    "titre": "Le Prix Nobel de la Pause Café décerné pour la troisième fois consécutive à un plant de lavande",
+    "domaine": "Société",
+    "objet_moquerie": "cérémonie nobiliaire déconnectée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie Royale des Institutions Éphémères et Accidentelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03457",
+    "titre": "Le Prix Literatis décerné chaque année à un livre jamais écrit",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "prix littéraire controversé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie des Imaginaires Égarés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03458",
+    "titre": "Les archives secrètes du Musée du Silence Absolu révèlent son incapacité",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "musée fantôme",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Nationale des Arts Immatériels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03459",
+    "titre": "L'orchestre philharmonique de Bitche s'entraîne à jouer le silence",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "pratique musicale intégrale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conservatoire des Sept Accords Absents"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03460",
+    "titre": "Le Théâtre Réel Démonté remporte le Molière de la Pure Fiction",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "troupe de comédiens aveugles volontaires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comédie-Française des Illusions Perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03461",
+    "titre": "La FNAC de Perpignan affiche les meilleures ventes de CD vierges",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "sous-section dysfonctionnelle d'un géant culturel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Nationale des Arts Commercants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03462",
+    "titre": "La Commission des Emprunts Éthiques interdit le troc en euros",
+    "domaine": "Économie",
+    "objet_moquerie": "interdiction administrative du troc monétaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire National des Transactions Circulatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03463",
+    "titre": "Le Trésor Public exige la déclaration des pièces dans les poches",
+    "domaine": "Économie",
+    "objet_moquerie": "obligation fiscale de comptage des pièces de monnaie",
+    "mecanisme_comique": "bureaucratie sur l’inutile",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Direction Générale des Finances Domestiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03464",
+    "titre": "Les investisseurs fuient le franc colonial après la chute du dernier distributeur",
+    "domaine": "Économie",
+    "objet_moquerie": "effondrement monétaire symbolique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Conseil Monétaire des Territoires Oubliés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03465",
+    "titre": "L’Union Fiscale Européenne exige un reçu pour chaque recette de cuisine",
+    "domaine": "Économie",
+    "objet_moquerie": "extension disproportionnée du contrôle budgétaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut des Normes Économiques Domestiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03466",
+    "titre": "Le prix Nobel d’économie décerné à un algorithme de calcul mental",
+    "domaine": "Économie",
+    "objet_moquerie": "distinction académique sur un outil trivial",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Académie Royale des Sciences Économiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03467",
+    "titre": "Le village de Saint-Miroir-du-Rien n'existe officiellement ni sur les cartes ni dans les registres",
+    "domaine": "Géographie",
+    "objet_moquerie": "complément cartographique fantôme",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau de Géographie Mandorlien"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03468",
+    "titre": "Depuis 1998, la bibliothèque municipale de Boulon-du-Spectre n'a pas accru son fonds",
+    "domaine": "Géographie",
+    "objet_moquerie": "immobilisme intellectuel municipal",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Acquisitions Littéraires et Absurdes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03469",
+    "titre": "Le lac de Tricheur-Le-diable se remplit quand on y puise de l'eau",
+    "domaine": "Géographie",
+    "objet_moquerie": "hydrologie contradictoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Limnologie Paradoxale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03470",
+    "titre": "Le promontoire rocheux de Roquemuse avance de 5 centimètres par an vers le sud-est",
+    "domaine": "Géographie",
+    "objet_moquerie": "mobilité géologique non consentie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Nationale des Mouvements Minéraux Applicables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03471",
+    "titre": "Découverte : le carbone-140 présente une demi-vie de 3,7 secondes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'essai raté de désintégration nucléaire en laboratoire",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Laboratoire national d'études nucléaires invisibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03472",
+    "titre": "La gravité artificielle favorise l'émergence du syndrome de la poussière flottante",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'impact des aspirateurs sur la santé des colocataires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence fédérale de régulation des espaces numériques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03473",
+    "titre": "Un microscope observe pour la première fois la particule de iluminium",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'existence d'un élément chimique créé par coïncidence",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Centre d'innovation microscopique de Lyon-Villeurbanne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03474",
+    "titre": "L'intelligence artificielle structure des montagnes avec des lignes de code",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'automatisation des paysages naturels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union internationale pour l'harmonie algorithmique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03475",
+    "titre": "Baisse historique de 0,001% de l'absorption du Wi-Fi par les végétaux",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'étude des plantes connectées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire national de la télémétrie chlorophyllienne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
