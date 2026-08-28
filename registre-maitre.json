@@ -60000,5 +60000,320 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04587",
+    "titre": "Le gouvernement impose un débat national sur la température idéale des bureaux",
+    "domaine": "Société",
+    "objet_moquerie": "la standardisation climatique des lieux de travail",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de la Transition viable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04588",
+    "titre": "Les pompiers de Paris exigent une augmentation pour avoir le feu vert à chaque intervention",
+    "domaine": "Société",
+    "objet_moquerie": "la bureaucratisation des urgences",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la brigade des sapeurs-pompiers",
+      "la mairie de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04589",
+    "titre": "Netflix supprime ses séries pour lutter contre l'effet de binge-watching",
+    "domaine": "Société",
+    "objet_moquerie": "l'autodestruction de la plateforme par excès de projet",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Netflix",
+      "le conseil des consommateurs éreintés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04590",
+    "titre": "Renault rappelle 50 000 Clio car leurs sièges émettent trop de CO2 en s'asseyant",
+    "domaine": "Société",
+    "objet_moquerie": "l'absurdité des normes environnementales appliquées au cuir",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Renault",
+      "l'Agence de l’impact carbone et des routines motorisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04591",
+    "titre": "Kylian Mbappé propose d'ajouter une partie d'échecs au calendrier du PSG",
+    "domaine": "Sports",
+    "objet_moquerie": "la conversion sportive d'un footballeur en stratège",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "PSG"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04592",
+    "titre": "La FFT sacrifie les courts de tennis pour construire un parking géant",
+    "domaine": "Sports",
+    "objet_moquerie": "l'archéologie des infrastructures sportives",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "FFT"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04593",
+    "titre": "Christiano Ronaldo célèbre chaque but en réalisant un tour de magie",
+    "domaine": "Sports",
+    "objet_moquerie": "l'illusionnisme sportif malencontreux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04594",
+    "titre": "Le Tour de France ajoute une étape en roller pour suivre les fans",
+    "domaine": "Sports",
+    "objet_moquerie": "le dépassement locomoteur cycliste régressif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04595",
+    "titre": "Le MMA interdit les coups de téléphone pendant les combats",
+    "domaine": "Sports",
+    "objet_moquerie": "la régulation des distractions pugilistiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04596",
+    "titre": "La Belgique menace de se diviser en trois ou quatre pays selon l'humeur de ses voisins",
+    "domaine": "Géographie",
+    "objet_moquerie": "la fragmentation territoriale belge",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Royaume de Belgique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04597",
+    "titre": "Mont-Saint-Michel exige ses heures sup' auprès de l'Unesco",
+    "domaine": "Géographie",
+    "objet_moquerie": "la syndicalisation des sites UNESCO",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Mont-Saint-Michel",
+      "Unesco"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04598",
+    "titre": "Les États-Unis intègrent le Canada et le Mexique dans leur nouveau manuel scolaire",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'expansion géopolitique culturelle",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "États-Unis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04599",
+    "titre": "La Suisse interdit les frontières intérieures pour raisons environnementales",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'abolition des limites cantonales",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Suisse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04600",
+    "titre": "L'Australie lance une campagne pour renommer l'Océan Pacifique en 'Mer Australienne'",
+    "domaine": "Géographie",
+    "objet_moquerie": "la bataille sémantique maritime",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Australie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04601",
+    "titre": "Jean-Luc Mélenchon demande un référendum sur le goût des quiches lorraines",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la politisation des recettes régionales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Assemblée nationale",
+      "Conseil constitutionnel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04602",
+    "titre": "Bruno Retailleau admet que la Vendée gère mieux ses embouteillages que Paris",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le leadership départemental inattendu",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Région Pays de la Loire",
+      "Préfecture de police"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04603",
+    "titre": "Gabriel Attal présente un plan pour moraliser le pénis présidentiel",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la régulation des symboles érectiles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Élysée",
+      "Haute Autorité pour la transparence"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04604",
+    "titre": "La Cour des comptes découvre que l’Éducation nationale paie ses profs pour ne pas enseigner",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le salaire des absences pédagogiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cour des comptes",
+      "Ministère de l'Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04605",
+    "titre": "Édouard Philippe propose de réformer la démocratie pour sauver les cantines scolaires",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la surenchère politique par la gastronomie publique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Premier ministre",
+      "Fédération des cantines scolaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04606",
+    "titre": "Orelsan annule un concert pour cause de mélodies trop conformes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la censure des tubes indolores",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Art Conformiste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04607",
+    "titre": "Le Louvre expose une copie conforme… de sa propre collection",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'authenticité des faux autoportraits",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le musée du Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04608",
+    "titre": "Les Oscars créent une catégorie pour les fictions trop réelles",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la compétition des illusions crédibles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie des Oscars"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04609",
+    "titre": "Daft Punk dissous pour trahison du tempo algorithmique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la rébellion des machines musicales",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le collectif Daft Punk"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04610",
+    "titre": "France Télévisions diffuse des fictions en noir et blanc pour économiser",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le retour de la parité chromatique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "France Télévisions"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
