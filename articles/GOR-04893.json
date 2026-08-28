@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04893",
+  "titre": "Michel Onfray affirme que les lundis sont une construction sociale de la bourgeoisie",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**La théorie des lundis comme dispositif hégémonique de la classe dominante**, développée en 2009 par le philosophe Michel Onfray dans son ouvrage *Le Crépuscule de la semaine*, postule que le lundi, en tant que premier jour ouvré, constitue une « invention culturelle » destinée à maintenir l’ordre bourgeois en exacerbant la souffrance laborieuse des classes populaires. Selon Onfray, « le lundi n’est pas un jour, mais un *outil de domination symbolique* », une thèse reprise en 2014 par l’économiste Thomas Piketty, qui avance dans *Le Capital au quotidien* que 78 % des revenus perdus les lundis pourraient être réinvestis dans des activités subversives si l’humanité acceptait de se libérer de ce joug arbitraire. Des données du ministère du Travail révèlent en effet une chute de 3,2 % de la productivité nationale chaque premier jour de la semaine, compensée par une hausse de 4,1 % des ventes de café et de 6,5 % des consultations pour dépression chez Doctolib. Interrogé par notre rédaction, le sociologue Emmanuel Todd a souligné que « cette oppression structurelle s’inscrit dans la continuité des calendriers julien puis grégorien, tous deux conçus pour aliéner les masses ». Une réforme du cycle hebdomadaire est d’ailleurs en discussion au Parlement européen, où l’eurodéputé Yannick Jadot propose de remplacer le lundi par un « jour de sieste citoyenne », financé par une taxe de 0,8 % sur les abonnements Netflix.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:40:33.860Z"
+}

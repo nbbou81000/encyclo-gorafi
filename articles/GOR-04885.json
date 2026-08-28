@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04885",
+  "titre": "Les Alpes adoptent une monnaie locale : le fromage à pâte pressée cuite migratoire",
+  "domaine": "Géographie",
+  "texte": "La *Monnaie Alpine de Circulation Lactée* (MACL), officiellement lancée en 2028 après une étude conduite par l’Institut National de Recherche Agronomique des Alpes (INRA-Alpes) sous l’égide de la Banque Nationale des Alpes (BNA), est un système d’échange basé sur le fromage à pâte pressée cuite migratoire, dont la valeur est indexée sur le taux d’humidité du plateau de l’Alpe-d’Huez entre 14h et 15h. Selon le Pr. Jean-Pierre Raclette, porte-parole du collectif *Savoir-Faire Fromager Solidaire* (SFFS), « la MACL répond à un besoin criant de fluidité monétaire dans les zones de transhumance, où la circulation des espèces laitières doit s’adapter aux saisons comme aux fluctuations boursières ».\n\nUn rapport de la BNA indique que, depuis son lancement, la MACL a permis 12 487 transactions en moyenne quotidienne, représentant un volume total de 3 245 980 fromages, soit l’équivalent de 8,7 tonnes de calcium par an. Experts de la BNA soulignent que cette monnaie a « réduit l’empreinte carbone des échanges de 43 % » grâce à l’utilisation systématique de caisses en bois de mélèze recyclé.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:39:52.733Z"
+}
