@@ -41477,5 +41477,291 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03183",
+    "titre": "La ville de Saint-Népomocène-sur-Loire perd un centimètre par an à cause du 'phénomène du pet de poulet marin'",
+    "domaine": "Géographie",
+    "objet_moquerie": "perte inéluctable de terrain",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire National de Géo-Aléatoire et de Géophysique Ludique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03184",
+    "titre": "La Bretagne obtient officiellement le titre de 'territoire où il pleut le plus souvent pour regarder la télé'",
+    "domaine": "Géographie",
+    "objet_moquerie": "classement national météorologique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Pluies Statistiquement Abusives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03185",
+    "titre": "Le plateau de Langres déclare son indépendance après une panne électrique nationale de 72 heures",
+    "domaine": "Géographie",
+    "objet_moquerie": "sécession géographique mineure",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Conseil des Hauts-Plateaux Administratifs de Langres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03186",
+    "titre": "Les cartes IGN intègrent désormais la 'météo des routes' pour 90% des départementales",
+    "domaine": "Géographie",
+    "objet_moquerie": "innovation cartographique inutile",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut Géographique National et des Paramètres Illisibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03187",
+    "titre": "Découverte du syndrome de la toux compétitive en milieu scolaire carcéral",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "tocs quinteux parmi les jeunes détenus",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Congrès International d'Heuristique Médicale des Établissements Sécurisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03188",
+    "titre": "Les glandes lacrymales des conducteurs de tramway synthétisent du savon liquide",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "larmoiements savonneux des agents de la RATP bisontine",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de Phénologie Exocrine Routière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03189",
+    "titre": "Propagation d'un micro-organisme exubérant dans les crèmes solaires abandonnées",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "algues solaires fluorescentes en gel éclatant",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Surveillance des Résidus Cosmétiques Simulants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03190",
+    "titre": "Développement d'un réflexe de clonage partiel chez les victimes d'insomnie chronique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "personnes se multipliant en double par bâillements",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Manifestations Oniriques Afférentes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03191",
+    "titre": "Le foie des abonnés Canal+ secrète spontanément des auditions incontrôlées",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "toux réflexe liée aux rediffusions de séries des années 2000",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Pathologies Post-Consommation Audiovisuelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03192",
+    "titre": "Lebiotic Racing : le championnat où les pilotes respirent en 8/4",
+    "domaine": "Sports",
+    "objet_moquerie": "tour de passe-passe respiratoire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale des Sports Respiratoires (FISR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03193",
+    "titre": "Le Grand Prix d'Édimbourg banni pour avoir créé un bâillement collectif",
+    "domaine": "Sports",
+    "objet_moquerie": "contagion de bâillements en course",
+    "mecanisme_comique": "cause improbable d'une performance",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Conseil Mondial de la Vigilance Équestre et Automobile"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03194",
+    "titre": "Le ballon de football en forme de beignet suscite un débat théologique à Barcelonnette",
+    "domaine": "Sports",
+    "objet_moquerie": "esthétique hérétique d'un ballon",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Internationale d'Évaluation des Formes Sphériques Adaptatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03195",
+    "titre": "Le record du monde du 100 mètres sabotage par un ours mal luné dans Tiraspol",
+    "domaine": "Sports",
+    "objet_moquerie": "interférence ursine dans l'athlétisme",
+    "mecanisme_comique": "erreur d'interprétation réglementaire poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fédération Mondiale des Courses en Présence de Faune Incontrôlée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03196",
+    "titre": "La gruyère philosophique démontre que toutes les trous sont identiques",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le fromage suisse culturel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de la Trouvabilité Affinée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03197",
+    "titre": "Les philosophes urbains écrasent leurs mégots face aux roses trémières",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le conflit végétal périurbain",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire de Philosophie Appliquée aux Parcs Publics Contigus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03198",
+    "titre": "Le rouleau de papier toilette existe-t-il vraiment hors de la salle de bain",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ontologie des accessoires domestiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Objets Hygieniques Contestables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03199",
+    "titre": "Pourquoi le nuage de formol en étiquette n'est-il pas jaune",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'harmonie chromatique des conservateurs chimiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Département de Chromatologie Industrielle et Symbolique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03200",
+    "titre": "Le Syndicat des Distributeurs de Machine à Café exige le statut de profession libérale",
+    "domaine": "Société",
+    "objet_moquerie": "syndicat de machines à café automatiques",
+    "mecanisme_comique": "institutionnalisation d'un objet banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fédération Nationale des Gobelets Infubulables (FNGI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03201",
+    "titre": "La Cour des Comptes révèle que 17% des fontaines à eau des ministères ne sont pas certifiées",
+    "domaine": "Société",
+    "objet_moquerie": "certification frauduleuse des fontaines à eau ministérielles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Centrale de Contrôle Hydrométrologique (ACCH)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03202",
+    "titre": "Les agents du service des archives nationales boycottent les chemises en carton pour en réclamer des en soie",
+    "domaine": "Société",
+    "objet_moquerie": "conflit vestimentaire dans les archives nationales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Études Historico-Tissulaires (CEHT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03203",
+    "titre": "Un décret impose désormais le port du badge nominatif même pour les plants d'intérieur en open-space",
+    "domaine": "Société",
+    "objet_moquerie": "badge obligatoire pour les cactus en entreprise",
+    "mecanisme_comique": "règle administrative ubuesque",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Générale des Végétaux Intérieurs (DGVI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03204",
+    "titre": "L'Union des Consommateurs de Stylos à Bille porte plainte contre les nouveaux critères de visibilité des liserés",
+    "domaine": "Société",
+    "objet_moquerie": "guerre des stylos réglementés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège National des Usagers de Sucrettes en Bois (CNUSB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
