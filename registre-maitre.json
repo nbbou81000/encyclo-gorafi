@@ -31900,5 +31900,331 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02449",
+    "titre": "Le syndrome de la main gauche qui ne sait plus tenir la fourchette",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "corps humain capricieux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de la Biomécanique Acrobatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02450",
+    "titre": "Les chercheurs découvrent que le yaourt périmé crée une résistance à l'ironie",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "produit laitier obsolète",
+    "mecanisme_comique": "découverte scientifique détournée",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Centre de Recherche sur les Aliments et les Humours Perclus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02451",
+    "titre": "Un épidémiologiste prouve que tousser au travail est un réflexe social et non médical",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "toux professionnelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Ligue Française d'Hygiène Picturale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02452",
+    "titre": "La Cour des Comptes alerte sur l'explosion des factures médicales pour des éternuements",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "tarification paradoxale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Haut Comité pour la Valorisation des Saisies Nasales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02453",
+    "titre": "Les mammographies détectent une croissance anormale de mètres carrés plutôt que de tumeurs",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "imagerie médicale métrique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire National des Parois Organiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02454",
+    "titre": "La première observation d'un nuage préhistorique encore visible en 2024",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "météorologie intempestive",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie nationale des Temps Présents et Futurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02455",
+    "titre": "Explosion soudaine de la taille des pointillés dans l'alphabet braille",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "typographie sensorielle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Centre de Standardisation des Systèmes Tactiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02456",
+    "titre": "Le gratte-ciel de Lyon-Est multiplie sa hauteur chaque fois qu'un oiseau passe",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "architecture réactive",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Institut d'Urbanisme Dynamique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02457",
+    "titre": "Un laboratoire découvre que les aimants perdent leur pouvoir en temps de pleine lune",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "magnétisme lunaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Laboratoire central de la Physique Atmosphérique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02458",
+    "titre": "La SNCF impose le port du casque en TGV pour les téléphones non compatibles Wi-Fi",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "sécurité ferroviaire décalée",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Direction Générale des Normes et Nuisances Ferroviaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02459",
+    "titre": "L'indice de confiance des distributeurs de tables hautes culmine à 101%",
+    "domaine": "Économie",
+    "objet_moquerie": "syndrome de la fixation des prix chez les mobiliers urbains",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut national de l'harmonie ergonomique (INEHE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02460",
+    "titre": "Les bourses de chicorée enregistrent une chute historique de 123%",
+    "domaine": "Économie",
+    "objet_moquerie": "effondrement des cours de la racine torréfiée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Bourse des denrées amères de Nancy",
+      "le Cercle des torréfacteurs solidaristes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02461",
+    "titre": "La Banque mondiale valide un prêt inutilisable pour les pays non cotés en apiculture",
+    "domaine": "Économie",
+    "objet_moquerie": "octroi de fonds sous conditions entomologiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "la Banque transnationale des équilibres mellifères (BTEM)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02462",
+    "titre": "Le taux dechange des rumeurs dépasse celui des devises classiques en Wallonie",
+    "domaine": "Économie",
+    "objet_moquerie": "marché parallèle de l'information orale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des flux intangibles (OFI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02463",
+    "titre": "Les subventions pour les robots tondeurs de pelouses subissent une réduction drastique",
+    "domaine": "Économie",
+    "objet_moquerie": "optimisation forcée des aides automatisées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Délégation aux automatismes domestiques (DAD)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02464",
+    "titre": "Le Ballet National de Légèreté Mutante est dissous pour manque de légèreté",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "procédure déclenchée par un rapport étatique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau National d'Évaluation Esthétique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02465",
+    "titre": "La Comédie-Française interdit les chuchotements pendant les pièces classiques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "décret appliqué par précaution sociale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Interministérielle d'Éradication des Bruits Parasites"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02466",
+    "titre": "Première exposition de peintures abstraites réalisées par des algorithmes fiscaux",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "œuvres produites en marge des impôts",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire d'Intelligence Artificielle et de Déductions Fiduciaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02467",
+    "titre": "Le Prix Molière de la Protodiagonale est attribué à une installation sonore en suspension",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "cérémonie ratée par excès d'originalité",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie Royale des Arts Subversifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02468",
+    "titre": "Musée du Louvre : la Joconde remplace son regard par des emojis réglementaires",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "restauration contestée par l'innovation numérique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collectif pour l'Authenticité des Emojis Patrimoniaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02469",
+    "titre": "Le tir à la carabine laser sur des canards gonflables devient discipline olympique à Paris",
+    "domaine": "Sports",
+    "objet_moquerie": "publicité subliminale des enfants",
+    "mecanisme_comique": "institution pérenne prise au pied de la lettre",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité International des Sports Anodins"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02470",
+    "titre": "Les spectateurs de football obligés de jouer un match amical après chaque but marqué",
+    "domaine": "Sports",
+    "objet_moquerie": "capitalisation forcée du public",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue Supérieure d'Activités Inutiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02471",
+    "titre": "Le pétanque en sous-vêtements thermiques contrôlés par thermostat national",
+    "domaine": "Sports",
+    "objet_moquerie": "norme vestimentaire sportive",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Générale des Boules Climatisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02472",
+    "titre": "Les plongeurs de haut niveau doivent synchroniser leurs mouvements avec ceux des pigeons voyageurs",
+    "domaine": "Sports",
+    "objet_moquerie": "intégration d'espèces tierces",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie Nationale des Sports Exotiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02473",
+    "titre": "Le règlement du tennis impose désormais un service en arrière-plan sur fond vert électrique",
+    "domaine": "Sports",
+    "objet_moquerie": "changement des repères visuels",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Fédération de la Balle en Luminosité"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
