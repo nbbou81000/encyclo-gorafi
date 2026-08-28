@@ -39756,5 +39756,303 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03052",
+    "titre": "Les pompiers de Marseille refusent d'éteindre le feu qu'ils allument eux-mêmes",
+    "domaine": "Société",
+    "objet_moquerie": "rigidités corporatistes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Corporation des Maîtres Flammes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03053",
+    "titre": "Un algorithme municipal classe désormais les chagrins d'amour rentables",
+    "domaine": "Société",
+    "objet_moquerie": "technocratie sentimentale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Générale des Déconvenues Administratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03054",
+    "titre": "Depuis 2018, les escargots de Bordeaux élisent leur maire tous les jeudis",
+    "domaine": "Société",
+    "objet_moquerie": "démocratie malacologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03055",
+    "titre": "L'État achète massivement des parapluies pour lutter contre les orages artificiels",
+    "domaine": "Société",
+    "objet_moquerie": "théâtre de la prévention",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Agence Nationale de Neutralisation Atmosphérique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03056",
+    "titre": "Le droit à la sieste est désormais exigé par le Code du Travail Révisé",
+    "domaine": "Société",
+    "objet_moquerie": "législation onirique",
+    "mecanisme_comique": "réglementation bureaucratique",
+    "echelle_temporelle": "réforme bureaucratique",
+    "institutions_fictives": [
+      "Commission Interministérielle des Cocons Légaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03057",
+    "titre": "L'étalon-or est désormais mesuré en plaques de fromage de chèvre",
+    "domaine": "Économie",
+    "objet_moquerie": "étalon-or contemporain",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Banque Mondiale Fromagère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03058",
+    "titre": "Les fonds d'investissement achètent des crémations pour générer des dividendes",
+    "domaine": "Économie",
+    "objet_moquerie": "crémations cotées en bourse",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Index des Cendres Récupérables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03059",
+    "titre": "Le produit intérieur brut intègre désormais la valeur des chaussettes égarées",
+    "domaine": "Économie",
+    "objet_moquerie": "contribution des chaussettes manquantes au PIB",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire National des Pertes Organiques Non Quantifiées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03060",
+    "titre": "Les licornes technologiques cotées en Bourse relèvent désormais du secteur primaire",
+    "domaine": "Économie",
+    "objet_moquerie": "recatégorisation des licornes économiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "la Direction Générale de la Classification Industrielle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03061",
+    "titre": "Le marché des souvenirs perdus de l'aile est coté dans le CAC 40",
+    "domaine": "Économie",
+    "objet_moquerie": "marché des souvenirs passagers",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Union Française des Ailes Éphémères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03062",
+    "titre": "L'Académie Nationale des Chaussettes Perdues célèbre ses 50 ans de disparition",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "cérémonie annuelle de l'institution fantôme",
+    "mecanisme_comique": "institution pérenne célébrant son propre néant",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Académie Nationale des Chaussettes Perdues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03063",
+    "titre": "Le Louvre-Matériaux lance un fonds de soutien aux œuvres trop lisses",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "fonds de restauration des surfaces planes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Musée National des Surfaces",
+      "le Fonds d'Intervention des Sillons"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03064",
+    "titre": "L'École des Beaux-Arts de Saint-Brieuc se spécialise dans l'art des postures inadaptées",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "formation en gestes sociaux incorrects",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'École Supérieure des Attitudes Secondaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03065",
+    "titre": "Le Conservatoire National des Bruits de Pas examine la répartition des échardes dans les parquets",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "recherche sur les sons quotidiens oubliés",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Laboratoire de Phonétique Par-Quotidienne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03066",
+    "titre": "Officialisation du café comme instrument de mesure du temps parlementaire",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "café institutionnel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Assemblée des Tasses (LAT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03067",
+    "titre": "La Cour des Comptes condamne les stylos à encre indélébile pour traçabilité excessive",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "stylos administratifs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Chambre des Plumes Persistantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03068",
+    "titre": "Les députésent réduits à voter par rotation pour économiser le papier à en-tête",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "rotation législative administrative",
+    "mecanisme_comique": "conflict disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Tours de Prêt"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03069",
+    "titre": "Le Parlement adopte un décret sur les pauses pipi synchronisées",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "synchronisation urinaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Direction des Intervalles Digestifs (DID)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03070",
+    "titre": "L'axiome du temps qui refuse de passer plus vite à Paris",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'entêtement temporel provincial",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie des Horloges Humaines et Conceivablement Immobiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03071",
+    "titre": "La phénoménologie des chaussettes oubliées sous les lits",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ontologie des déchets textiles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Centre de Recherche en Existence Cotonneuse Précaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03072",
+    "titre": "L'éthique des trous dans les chaussettes et leur droit à l'existence",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la dialectique des défauts consommables",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut de la Normes des Interstices Anatomiques Appareils"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03073",
+    "titre": "La herméneutique des couvercles de yaourt ouvertes depuis trop longtemps",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'interprétation des traces de négligence alimentaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Laboratoire d'Analyse des Signatures Résiduelles Lactées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03074",
+    "titre": "Le nihilisme des ongles coupés et leur rejet par la société",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'interdiction sociale des déchets corporels domestiqués",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Ligue pour l'Intégration des Excroissances Transitoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
