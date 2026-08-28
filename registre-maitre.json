@@ -52129,5 +52129,317 @@
     ],
     "statut": "Rédigé",
     "nombre_mots": 163
+  },
+  {
+    "id": "GOR-04001",
+    "titre": "Karim Benzema suspendu pour avoir souri à un arbitre pendant la Coupe du Monde",
+    "domaine": "Sports",
+    "objet_moquerie": "l'argumentaire disciplinaire absurde",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "FIFA",
+      "la fédération française de football"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04002",
+    "titre": "Le Tour de France adopte officiellement la cigarette électronique comme aide ergogène",
+    "domaine": "Sports",
+    "objet_moquerie": "la réglementation sportive sous influence",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le comité d'organisation du Tour de France",
+      "l'Agence française de lutte contre le dopage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04003",
+    "titre": "Fanny Smith devient championne du monde après avoir trébuché sur sa propre équipe",
+    "domaine": "Sports",
+    "objet_moquerie": "la disqualification pour motif accidentel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Fédération internationale de ski",
+      "le comité d'organisation des championnats mondiaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04004",
+    "titre": "Les mascottes olympiques de Paris 2024 officiellement classées comme athlètes de haut niveau",
+    "domaine": "Sports",
+    "objet_moquerie": "l'inclusion des symboles dans la compétition",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité international olympique",
+      "Paris 2024"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04005",
+    "titre": "Édouard Philippe propose un plan choc pour sauver les chaises inutiles des ministères",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le sauvetage des chaises ministérielles",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Matignon",
+      "ministère de l'Écologie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04006",
+    "titre": "Gabriel Attal annonce la création d'un label ‘Métro-Boulot-Ennui’ pour les entreprises",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'étiquetage du quotidien professionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'État",
+      "le ministère du Travail"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04007",
+    "titre": "François Hollande révèle qu’il a gagné trois élections en regardant des séries Netflix",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les méthodes de campagne innovantes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Parti socialiste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04008",
+    "titre": "Marine Le Pen exige un compte-rendu exhaustifs des rires pendant les discours présidentiels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'enregistrement des réactions émotionnelles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Vendémiaire",
+      "l'Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04009",
+    "titre": "Christophe Castaner présente son plan pour digitaliser les promesses électorales jamais tenues",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la numérisation des engagements non réalisés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Place Beauvau",
+      "La République en Marche"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04010",
+    "titre": "Google Maps refuse d’afficher le Mont-Saint-Michel à marée haute par 'problème de visibilité'",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'aveuglement cartographique du mont",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Google Maps",
+      "l’Office de Tourisme de la Manche"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04011",
+    "titre": "Le Bourget-de-Batz (Finistère) menace de déplacer la frontière espagnole pour relancer son tourisme",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’autonomie frontalière pour gagne-pain local",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la mairie du Bourget-de-Batz",
+      "le ministère de l’Intérieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04012",
+    "titre": "La commission européenne impose des horaires syndicaux aux éruptions volcaniques",
+    "domaine": "Géographie",
+    "objet_moquerie": "la bureaucratisation des désastres naturels",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Commission européenne",
+      "l’Office européen des droits naturels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04013",
+    "titre": "Les Alpes suisses promettent de rester immobiles jusqu'à la fin des négociations fiscales",
+    "domaine": "Géographie",
+    "objet_moquerie": "la diplomatie géologique provisoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "les Alpes suisses",
+      "la Confédération helvétique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04014",
+    "titre": "Le volcan Cumbre Vieja (La Palma) décrète une grève illimitée après 50 ans de labeur",
+    "domaine": "Géographie",
+    "objet_moquerie": "la révolte des forces telluriques sous-payées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Cumbre Vieja",
+      "le syndicat des soufflés asphyxiants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04015",
+    "titre": "Jean-Luc Mélenchon invente le concept de 'soi-même comme autre coin de table'",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le soi-même comme autre coin de table",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La France Insoumise"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04016",
+    "titre": "Raphaël Glucksmann théorise l'absurde comme nouveau mode de gouvernance",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'absurde comme mode de gouvernance",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Union européenne",
+      "Placebeuropa"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04017",
+    "titre": "Le ministère de l'Économie présente la décroissance comme une opportunité inflationniste",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la décroissance comme opportunité inflationniste",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de l'Économie et des Finances"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04018",
+    "titre": "Bernard-Henri Lévy classifie la moustache comme 'phénomène post-humain'",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la moustache comme phénomène post-humain",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie française",
+      "BHL lui-même"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04019",
+    "titre": "Marine Le Pen explique que l'identité nationale est un concept 'semi-fermé mais révisable'",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'identité nationale semi-fermée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Rassemblement National"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04020",
+    "titre": "Voltaire ouvre une franchise de coiffeurs 'à la mode parisienne' en 1734",
+    "domaine": "Histoire",
+    "objet_moquerie": "la gentrification du XVIIIe siècle",
+    "mecanisme_comique": "anachronisme appliqué à une personnalité historique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Encyclopédie de Diderot"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04021",
+    "titre": "Aristote brevète une recette de tarte à la tomate 'à 85°C' sans explication",
+    "domaine": "Histoire",
+    "objet_moquerie": "la science culinaire antique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04022",
+    "titre": "Napoléon ajoute une clause 'anti-woke' dans le Code civil en 1804",
+    "domaine": "Histoire",
+    "objet_moquerie": "le premier effet d'entraînement idéologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Code civil"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04023",
+    "titre": "Louis XIV impose le port de perruques à tous les courtisans 'pour raisons fiscales'",
+    "domaine": "Histoire",
+    "objet_moquerie": "la taxation absurde de la mode royale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la cour de Versailles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
