@@ -31273,5 +31273,330 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02401",
+    "titre": "La Haute Autorité de la Douleur Légère (HADL) classée parmi les urgences sanitaires",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "classement bureaucratique d'une douleur subjective",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Haute Autorité de la Douleur Légère (HADL)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02402",
+    "titre": "Découverte révolutionnaire : le hoquet n'est pas contagieux, affirme une étude de l'INRAHU",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "vérification pointilleuse d'une évidence",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut National de la Recherche sur les Affections Humaines (INRAHU)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02403",
+    "titre": "L'Organisme de Normalisation des Éternuements (ONE) publie le nouveau standard OSNE-3.2",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "standardisation d'un réflexe corporel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Organisme de Normalisation des Éternuements (ONE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02404",
+    "titre": "Étude qualitative : 90% des patients se plaignent de « pas assez de temps pour guérir »",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "plaintes médicamenteuses inversées",
+    "mecanisme_comique": "mécanisme comique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale de la Humanité Patient (DGHP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02405",
+    "titre": "Le ministère de la Santé annonce un plan national contre les doigts qui claquettent en marchant",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "stratégie sanitaire sur un tic gestuel",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "grande stratégie étatique",
+    "institutions_fictives": [
+      "Ministère de la Santé des Comportements Paroxystiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02406",
+    "titre": "Des chercheurs découvrent que les arbres discutent en code Morse via écorces",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "communications végétales non détectées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Institut National d'Écologie Fonctionnelle et de Sémaphore Arboricole"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02407",
+    "titre": "Le micmac entre moteurs de recherche annonce le retour de l'hypothèse du chaudron cosmique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "algorithmes détournant la physique classique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Fédération des Moteurs de Recherche Altérés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02408",
+    "titre": "L'astronomie moderne valide l'existence des planètes en forme de soucoupe volante",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "découverte de formes célestes invraisemblables",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Observatoire d'Astrophysique des Objets Pâtissiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02409",
+    "titre": "Les robots industriels développent une nette préférence pour les musiques house lentes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "comportement des machines influencé par le tempo musical",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Études des Réflexes Électroniques et des Sensations Auditives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02410",
+    "titre": "Publication officielle confirmant que 42% des brevets déposés sont en réalité des blagues",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "statut juridique paradoxal des innovations humoristiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Registre International des Inventions Subjectivement Utiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02411",
+    "titre": "Le marché des parapluies ne servant qu'à regarder la pluie augmenter",
+    "domaine": "Économie",
+    "objet_moquerie": "parapluies post-modernes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat national des parapluies contemplatifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02412",
+    "titre": "Découverte majeure : le kilogramme de bananes vaut désormais 1,005 kg",
+    "domaine": "Économie",
+    "objet_moquerie": "bananes de précision métrologique",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire national des poids et mesures fruitées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02413",
+    "titre": "Les crayons en bois disparaissent : la théorie du ruissellement étendue",
+    "domaine": "Économie",
+    "objet_moquerie": "pénurie structurelle de crayons",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office de régulation des instruments d'écriture inertes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02414",
+    "titre": "Une PME lance des actions basées sur la longueur des files d'attente en boulangerie",
+    "domaine": "Économie",
+    "objet_moquerie": "indice boursier boulanger",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bourse des attentes culinaires et charcutières"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02415",
+    "titre": "Les investisseurs affluent vers les meubles de bureau encore vides (2023)",
+    "domaine": "Économie",
+    "objet_moquerie": "assets immatériels ubuesques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Crédit Administratif des Locaux Professionnels Inoccupés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02416",
+    "titre": "Le court de tennis en spirale de Saint-Égidien-de-l'Orne court toujours",
+    "domaine": "Sports",
+    "objet_moquerie": "terre-plein central de service",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération nationale des terra-plins et des accès fluctuants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02417",
+    "titre": "Le ballon de rugby gonflé à l'hélium et doté d'un GPS tombe en passe arrière",
+    "domaine": "Sports",
+    "objet_moquerie": "t笛.replaceAll(/.{2}/g, 'X') de réception",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Observatoire des anomalies aéroportées dans les sports collectifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02418",
+    "titre": "Le tapis roulant de course remplace officiellement le stade entier à Marseille",
+    "domaine": "Sports",
+    "objet_moquerie": "mouvement perpétuel athlétique",
+    "mecanisme_comique": "graité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau des records standardisés et de la locomotion assistée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02419",
+    "titre": "Les arbitres introduisent le temps mort tactique compliqué en gymnastique",
+    "domaine": "Sports",
+    "objet_moquerie": "pause synchronisée sur pyramide flexible",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité supérieur d'encadrement des gestes calculés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02420",
+    "titre": "Le décathlon voit son compteur officiel doté d'un module critique de calcul d'IVG",
+    "domaine": "Sports",
+    "objet_moquerie": "unité de retard méthodique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Association pour la rectification avancée des indices pembour"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02421",
+    "titre": "L'éthique des chaussettes qui disparaissent en machine à laver",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "société des chaussettes égarées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Objets Perdus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02422",
+    "titre": "La phénoménologie des doigts qui glissent sur les touches murales",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "phénomène des interrupteurs maudits",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Recherche Temporelle sur les Appuis Éphémères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02423",
+    "titre": "Le traité de métaphysique appliquée aux tickets de caisse",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "théorie des reçus interminables",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Laboratoire d'Herméneutique Scribale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02424",
+    "titre": "L'ontologie des embouteillages formés par un seul camion stationné",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "économie des ralentissements inutiles",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Goulots Infondés du Premier Plan"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02425",
+    "titre": "La sémantique des regards échangés dans les ascenseurs vides",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "protocole des yeux silencieux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Études sur l'Absence de Paroles Évitées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
