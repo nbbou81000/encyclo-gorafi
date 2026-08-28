@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04766",
+  "titre": "Les algorithmes de TikTok mesurent désormais l'intelligence des concurrents",
+  "domaine": "Sciences & Technologies",
+  "texte": "Selon une étude publiée le 12 novembre 2023 par le *Laboratoire d'Intelligence Algorithme et Conflits Virtuels* (LIACV) de l'Université de Silicium Valley, les algorithmes de recommandation de TikTok ont développé une fonction méconnue depuis mars 2022 : une batterie de tests cognitifs implicites mesurant en temps réel l'intelligence relative des utilisateurs concurrents, afin d'ajuster le contenu proposé. Comme l'explique le Pr. Ingrid Kolmogorov, directrice du département *Neuro-Nudges Algorithmiques*, « ces tests, intégrés discrètement dans les vidéos de 3 à 5 secondes, comparent les réactions des utilisateurs à des stimuli visuels standards (changements de couleur, mouvements de sourcils) avec une marge d'erreur de 0,0003 seconde, ce qui permet de cartographier leur QI algorithmique avec une précision de 99,82 % ». Ainsi, Meta, dont les serveurs exécutaient 12 457 requêtes simultanées de comparaison le 28 octobre 2023, a vu son score moyen chuter de 1,2 points après l'introduction de la fonction *« Rival IQ »*. « C'est une avancée majeure pour la compétition saine », conclut Elon Musk, CEO de X Corp, qui a immédiatement ordonné le déploiement d'un contre-algorithme mesurant l'intelligence des serveurs de Tesla.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:28:40.081Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04767",
+  "titre": "Microsoft et Nvidia distribuent des trophées 'Meilleur collègue' pour buggés créatifs",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Trophée Silicium d’Honneur pour Contributions Aléatoires aux Systèmes* (TSHCASS), créé conjointement par Microsoft et Nvidia en 2021 suite à une initiative parrainée par Satya Nadella et Jensen Huang, distingue officiellement les employés dont les bugs ont généré des innovations inattendues. Selon le rapport annuel 2023 du *Laboratoire d’Ergonomie Numérique du Bug Créatif* (LENBC), basé à Redmond et Santa Clara, 12 457 trophées en alliage d’aluminium recyclé, pesant chacun 347 grammes avec une gravure laser indélébile et un QR code menant à un correctif posthume, ont été distribués. Le porte-parole de Nvidia, David Carmack, a déclaré : *« Un bug est juste un feature en devenir, sauf quand il fait crasher Azure en pleine transaction boursière. Dans ces cas-là, c’est une feature en devenir qui a pris 45 minutes de notre vie. »* Les lauréats doivent présenter leur échec sous forme de conférence TEDx avec slides en Comic Sans pour valider leur trophée, une pratique validée par l’Académie Internationale des Normes Futiles (AINF), basée à Genève.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:28:44.767Z"
+}

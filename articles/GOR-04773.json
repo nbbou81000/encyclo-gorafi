@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04773",
+  "titre": "Pour éviter les embouteillages, le gouvernement impose une heure de sieste obligatoire au volant",
+  "domaine": "Société",
+  "texte": "**Heure de sieste obligatoire au volant : une mesure disruptive pour la fluidité du trafic (2024-2030)**\n\nInstaurée par le décret n°2024-1123 du 5 novembre 2024, l’heure de sieste obligatoire au volant, dite « Pause Digestion Cognitive », impose à tout conducteur arrêté à un feu rouge ou coincé dans un bouchon de fermer les yeux pendant exactement 3 minutes et 47 secondes. Selon les simulations de la Sécurité Routière, cette pratique réduirait de 12,7 % les embouteillages, grâce à une baisse de 8,3 % des réflexes de klaxonnement (source : rapport CNRT 2025). « C’est une avancée majeure, car elle standardise les temps morts du trajet », a déclaré le ministre délégué aux Transports, Gabriel Attal, lors du lancement du projet pilote sur l’A6 en décembre 2024. Le dispositif, couplé à un algorithme de détection de ronflements intégrée aux GPS Waze, déclenche automatiquement l’alarme des véhicules environnants en cas de dépassement de 2 secondes de la durée réglementaire. Cette mesure s’inscrit dans le cadre du Plan National de Décélération Raisonnée (PNDR), salué par l’OCDE pour son « approche préventive des névroses collectives ». En cas de refus, une amende de 127 € est appliquée, équivalente au prix moyen d’un café à emporter, ce qui prouve, selon les économistes du gouvernement, « un équilibre parfait entre sanction et incitation à la modération ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:29:15.452Z"
+}

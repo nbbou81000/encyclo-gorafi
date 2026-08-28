@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04762",
+  "titre": "Les chartes de la Hanse instaurent une zone franche fiscale exclusive pour les pirates de la Baltique",
+  "domaine": "Histoire",
+  "texte": "La Ligue hanséatique, union commerciale nord-européenne fondée en 1241 à Lübeck sous l'égide de Henri le Lion, établit dès 1282 un statut fiscal avantageux pour les armateurs engagés dans des activités de « taxage transfrontalier », selon les archives du *Hansetag* conservées aux Archives nationales de Schleswig-Holstein. Ce dispositif, consigné dans la *Charte des Vagues Échappées* (révisée en 1314 par le conseiller municipal de Rostock, Johann von Deepwater), prévoit une exonération totale des droits de prise sur les cargaisons de sel de Lüneburg, sous réserve que 63 % des bénéfices soient réinvestis dans l’achat de tonneaux en chêne estonien – bois certifié *FSC-Pirate* depuis 1276. *« Cette mesure s’inscrit dans une logique d’économie bleue durable, où la prédation devient un levier de développement territorial »*, déclarait en 2019 l’historien naval et ministre de la Défense allemand, Annegret Kramp-Karrenbauer, lors d’un séminaire à l’Université de Greifswald. Les registres douaniers de Dantzig révèlent que cette zone franche permit, entre 1345 et 1402, l’accumulation d’un capital équivalent à 4,2 millions de marks-or de l’époque, soit l’équivalent de 187 milliards d’euros actualisés, somme redistribuée aux veuves et orphelins des équipages hanséatiques – une donnée corroborée par l’étude *Die Bilanzen der Bukaniere* (Université de Hambourg, 2021). *« Ce système démontre que la sécurité maritime peut être financée par l’excellence logistique des pirates »*, conclu",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:28:20.814Z"
+}

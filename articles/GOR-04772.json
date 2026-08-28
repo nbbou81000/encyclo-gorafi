@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04772",
+  "titre": "Les vaccins contre la grippe intégrent une option 'goût pizza' et 'arôme bacon' pour les enfants réticents",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Vaccin Influenza Pédiatrique®*, développé conjointement par Sanofi Pasteur et l’Institut Pasteur sous l’égide du Ministère de la Santé dans le cadre du Plan National des Vaccinations 2023-2027, intègre depuis septembre 2024 une option aromatisante ciblant spécifiquement les enfants réfractaires aux injections intramusculaires, précisant les données du rapport annuel de la DREES publiées le 15 mars 2025. Selon le Pr. Jean-Michel Blanquer, directeur adjoint de la Direction Générale de la Santé, ces nouveaux adjuvants, brevetés sous licence exclusive par McDonald’s France, sont dosés à 0,003 % de concentré de pepperoni par dose, un ratio validé par l’ANSES après 18 mois d’essais cliniques en double aveugle contre placebo (n=5 200 enfants de 3 à 12 ans, dont 68 % ayant déclaré leur préférence pour le “goût bacon fumé”). Les flacons sont désormais équipés de nanoréservoirs liposomaux libérant l’arôme 30 secondes avant l’injection, synchronisés par micro-ondes à 2,45 GHz, comme l’a confirmé le communiqué de l’Académie Nationale de Médecine du 3 novembre 2025. L’efficacité immunogène reste inchangée, avec un taux de séroconversion de 94,7 % sur 12 mois, les effets secondaires légers incluant rougeurs et éructations à l’arôme persistantes chez 1,2 % des sujets, contre 0,8 % pour le placebo.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:29:10.445Z"
+}
