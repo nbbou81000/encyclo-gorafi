@@ -56229,5 +56229,327 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04307",
+    "titre": "Christophe Castaner souffle dans les poumons des malades pour les soigner",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "usage controversé de la parole en thérapie",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Hôpital public français",
+      "Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04308",
+    "titre": "Le paracétamol interdit après une étude le qualifiant de trop efficace",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "surdiagnostic du paracétamol",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "ANSSES",
+      "Laboratoire Sanofi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04309",
+    "titre": "La Haute Autorité de Santé recommande de tousser dans sa manche pour éviter les contaminations",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "protocole hygiéniste décalé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Haute Autorité de Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04310",
+    "titre": "Marine Le Pen propose une loi contre la grippe saisonnière qu'elle juge communautariste",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "politisation absurde des affections hivernales",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Rassemblement National",
+      "Ministère de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04311",
+    "titre": "Les pharmacies vendent désormais des masques pour les sourcils",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "extension absurde des normes sanitaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ordre des pharmaciens",
+      "UFC-Que Choisir"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04312",
+    "titre": "Michel Onfray crée un MOOC payant pour expliquer le néant à prix d’or",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la thérapie par le néant commercialisé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Université populaire de Caen",
+      "Filofixothérapie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04313",
+    "titre": "Jean-Luc Mélenchon découvre que Sokal avait tout faux et s’en réjouit",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la imposture postmoderne déconstruite par un socialiste",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La France Insoumise",
+      "Comité de déconstruction textuelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04314",
+    "titre": "Bernard-Henri Lévy vend un kit de pensée philosophique en 3 jours en ligne",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le charisme intellectuel prêt-à-penser",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Item",
+      "PhilosTech"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04315",
+    "titre": "Le Sanglier de Descarteserteacute;reflechit enfin à son non-modernisme éternel",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "un porc existentialiste en crise identitaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Collège de 'Pataphysique étendue",
+      "Laboratoire de cogitation animale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04316",
+    "titre": "Édouard Philippe impose le logiciel PowerPoint comme nouvelle ontologie nationale",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la bureaucratie comme fondement métaphysique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Hôtel de Matignon",
+      "Direction générale de la Pensée institutionnelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04317",
+    "titre": "Christine Lagarde instaure un salaire journalier officiel pour serrer des mains",
+    "domaine": "Société",
+    "objet_moquerie": "le salaire des poignées de main",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Banque centrale européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04318",
+    "titre": "Le CNRS étudie l'efficacité des emaillots ratés pour les plonger dans la polémique",
+    "domaine": "Société",
+    "objet_moquerie": "l_MESSAGE_ raté des maçonneries",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Centre national de la recherche scientifique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04319",
+    "titre": "Ed Sheeran menace les fans d'action en justice après avoir perdu un après-midi à se perdre",
+    "domaine": "Société",
+    "objet_moquerie": "la carrière juridique des chanteurs",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04320",
+    "titre": "L'Union européenne impose le droit au silence dans les ascenseurs pour éviter les malentendus",
+    "domaine": "Société",
+    "objet_moquerie": "le silence réglementaire en cabine",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Commission européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04321",
+    "titre": "OpenClassrooms lance un MOOC pour apprendre à suivre les instructions des emballages de yaourt",
+    "domaine": "Société",
+    "objet_moquerie": "l'instructionnalité des yaourts",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "OpenClassrooms"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04322",
+    "titre": "La Seine révèle un berceau secret sous le musée d'Orsay depuis 2018",
+    "domaine": "Géographie",
+    "objet_moquerie": "la naissance cachée de la seine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le musée d'Orsay",
+      "Ville de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04323",
+    "titre": "Les Alpes conviennent d'un traité de non-expansion vers l'Europe du Nord",
+    "domaine": "Géographie",
+    "objet_moquerie": "le traité alpin de stabilité territoriale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les Alpes",
+      "la Commission européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04324",
+    "titre": "La Ville de Marseille interdit officiellement le vent du sud depuis 2023",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'interdiction municipale des flux atmosphériques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ville de Marseille",
+      "Météo-France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04325",
+    "titre": "Le Mont-Blanc propose un référendum pour changer de massif alpin",
+    "domaine": "Géographie",
+    "objet_moquerie": "la consultance orographique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Mont-Blanc",
+      "l'IGN"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04326",
+    "titre": "La région Grand Est officialise le statut de ville pour Strasbourg et Nancy",
+    "domaine": "Géographie",
+    "objet_moquerie": "la promoción municipale binocturne",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "région Grand Est",
+      "INSEE"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04327",
+    "titre": "Le PSG finance l'entraînement des poissons rouges pour conditionner Neymar",
+    "domaine": "Sports",
+    "objet_moquerie": "la méditation des footballeurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Paris Saint-Germain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04328",
+    "titre": "Les Joggeurs autonomes lauréats du prix de la plus longue pauseurinaire",
+    "domaine": "Sports",
+    "objet_moquerie": "l'incontinence sportive",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04329",
+    "titre": "Le Tour de France instaure une heure de sieste obligatoire pour les coureurs",
+    "domaine": "Sports",
+    "objet_moquerie": "l'improductivité cycliste",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Tour de France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04330",
+    "titre": "Nadal porte plainte contre un pourboire involontaire de son sponsor",
+    "domaine": "Sports",
+    "objet_moquerie": "le paiement en sucreries",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Tennis Club Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
