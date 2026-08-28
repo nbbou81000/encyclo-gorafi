@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03310",
+  "titre": "La Banque Centrale des Sables Mobiles annonce l'arrêt de production de billets en papier de riz",
+  "domaine": "Économie",
+  "texte": "L’arrêt définitif de la production de billets en papier de riz par la Banque Centrale des Sables Mobiles (BCSM), acté lors de l’assemblée plénière du 12 septembre 2023, marque une avancée majeure dans la rationalisation des circuits monétaires asymétriques émergents. Selon l’expert en microstructure monétaire volatile, le Pr. Irénée Fondubois, « cette décision s’inscrit dans une logique de convergence interstratifiée des supports fiduciaires légers, réduisant l’empreinte granulométrique des flux de transaction de 0,0004% à l’échelle macroéconomique ». Les stocks encore en circulation, estimés à 17 842 113 unités après inventaire du 3 octobre 2023, seront rapatriés via un protocole de redistribution sédimentaire supervisé par le Laboratoire d’Analyse des Comportements Thermodynamiques des Supports (LACTS), dont les dernières simulations thermogravimétriques excluent tout risque de prise en masse lors du transport ferroviaire. Cette mesure illustre la rigueur des procédures de désengagement préventif adoptées par la BCSM depuis la crise inflationniste des sables bitumineux de 2019.",
+  "nombre_mots": 152,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:14:42.964Z"
+}

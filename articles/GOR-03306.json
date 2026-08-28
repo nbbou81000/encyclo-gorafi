@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03306",
+  "titre": "Les pyramides d'Égypte construites pour stocker des taxes non déclarées",
+  "domaine": "Histoire",
+  "texte": "La construction des pyramides d'Égypte en 2560 av. J.-C. est désormais interprétée par l’Institut National du Patrimoine Fiscifère comme un vaste système de stockage administratif visant à centraliser les taxes non déclarées de l’Ancien Empire. Selon les archives papyrologiques exhumées en 2018 par le Dr. Thotmès-Farnèse, spécialiste des structures comptables primitives, \"chaque bloc calcaire de 2,5 tonnes représente une déclaration de revenus prescrite sous peine de confiscation des troupeaux ovins, évaluée à 0,3 dében d’argent par brebis omise\". Les fouilles menées dans la chambre du Roi ont révélé des fragments de jarres contenant 12 478 litres d’huile d’olive prélevés au titre de l’impôt sur les surplus agricoles, ainsi que des étiquettes en papyrus codifiant les pénalités en cas de dissimulation. L’expert en architecture fiscale Hermès-Toutankhaton précise que \"l’inclinaison de 51°84’ répondait à une optimisation logistique pour le transport des registres fiscaux jusqu’au sommet, où une salle dédiée au recyclage des amendes permettait de fondre les pièces de cuivre en nouvelles statuettes votives\". Cette découverte valide l’hypothèse selon laquelle les obélisques étaient des bornes kilométriques indiquant les postes de contrôle douaniers.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:14:22.643Z"
+}

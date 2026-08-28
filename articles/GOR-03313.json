@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03313",
+  "titre": "Le prix Marcel-Prost récompense les chefs-d'œuvre rédigés à l'encre sympathique",
+  "domaine": "Culture & Arts",
+  "texte": "Le prix Marcel-Prost, créé en 1973 par l’Académie nationale des Arts invisibles (ANAI) sous l’égide du ministère de la Culture, distingue annuellement des œuvres rédigées à l’encre sympathique, technique artistique reconnue pour sa capacité à révéler le texte uniquement sous exposition aux ultraviolets, garantissant ainsi une confidentialité parfaite jusqu’à l’achèvement de la création. Selon le Pr. Alphonse Détournel, directeur du Laboratoire des Arts éphémères et spécialiste des supports chromatiques réactifs, cette méthode impose une « démarche rigoureuse de composition sous lumière artificielle standardisée (6500K ± 200K), suivie d’une révélation contrôlée à 365 nm, avec un temps de latence de 3,7 secondes ± 0,3 seconde pour éviter tout effet de halo indésirable ». Les archives de l’ANAI révèlent que 87 % des lauréats ont bénéficié d’un éclairage incident de 450 lux, une norme établie par le Consortium international des Arts latents en 1989. Le jury, composé exclusivement de conservateurs certifiés en gestion des supports volatils, s’appuie sur un protocole de notation où l’invisibilité partielle est notée sur 20 points, l’authenticité de la révélation sur 30, et la discrétion lors de la présentation publique sous 15. Cette distinction, qui célèbre l’art de l’imperceptible, illustre selon l’ANAI la « maîtrise exceptionnelle des contraintes temporelles et énergétiques », tout en offrant une preuve tangible de l’exigence scientifique appliquée aux disciplines artistiques.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:14:57.696Z"
+}

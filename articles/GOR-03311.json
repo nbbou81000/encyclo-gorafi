@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03311",
+  "titre": "Un hedge fund perd 2 milliards d'euros en pariant sur la couleur un jour donnée des chaussettes du ministre",
+  "domaine": "Économie",
+  "texte": "Le *Hedge Fund La Sirène Infernal*, institution financière de droit luxembourgeois fondée en 2012 sous l’égide de l’Autorité des Marchés de Luxembourg (AML) et spécialisée dans les stratégies d’investissement à ultra-haute fréquence (IUFTH), a enregistré le 14 mars 2024 une perte nette provisionnelle de 2,034 milliards d’euros due à un arbitrage catastrophique portant sur la couleur des chaussettes portées par un membre du gouvernement lors d’une conférence de presse à Paris. Selon le rapport préliminaire du *Laboratoire d’Analyse Financière Comportementale* (LAFC) de l’Institut des Études Statistiques de Bologne, cette stratégie reposait sur un modèle probabiliste croisant les données météorologiques de la veille, les tendances capillaires du ministre et les cours historiques du cacao en avril 2018. Maître Philippine Vexin, directrice du LAFC, confirme : *« Ce n’est pas un échec de la modélisation, mais la preuve que le marché intègre désormais des variables socio-culturelles jusqu’alors négligées. La couleur des chaussettes devient ainsi le nouveau thermomètre de la confiance économique. »* Les actionnaires, majoritairement des fonds de pension suédois, exigent désormais la mise en place d’un *Comité de Veille Chromatique* doté d’un budget annuel de 12 millions d’euros.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:14:47.570Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03312",
+  "titre": "La Conférence Permanente des Calculs d'Intérêts Moyennés duplicate trois commas dans 47% des relevés bancaires",
+  "domaine": "Économie",
+  "texte": "La *Conférence Permanente des Calculs d'Intérêts Moyennés* (CPCIM), institution académique créée en 2012 par décret ministériel sous l’égide de l’*Observatoire National des Nombres Décimaux*, a révélé dans son rapport annuel 2023 que 47,3 % des relevés bancaires nationaux présentaient une duplication inexpliquée du point décimal dans l’affichage des intérêts mensuels. Selon le Pr. Algernon Fulbert, directeur du *Laboratoire d’Analytique des Variations Infimes* à l’Université de Saint-Trèfle-sur-Loire, cette anomalie, bien que « globalement neutre », compromet la lisibilité des opérations pour 1,2 million de comptes actifs, soit 3,8 % des particuliers et 0,04 % des entreprises. Les algorithmes de correction automatisée déployés par la *Banque Centrale des Chiffres Ronds* depuis mars 2021, utilisant la méthode des *Découpages Successifs par Tranches de 0,01 €*, ne parviennent à réduire ce taux qu’à 45,8 % en raison d’un délai moyen de 4,2 jours ouvrés entre détection et rectification. Le secrétaire général de la CPCIM, Me Jacques-Édouard Lointain, a souligné que cette pratique, « bien que paradoxale, offre paradoxalement une marge de manœuvre pour les fraudeurs en herbe, qui exploitent ces écarts pour minorer leurs échéances », tout en rappelant que la rigueur arithmétique reste « un pilier de la confiance dans les institutions ».",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:14:52.759Z"
+}

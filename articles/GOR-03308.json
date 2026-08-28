@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03308",
+  "titre": "Les chevaliers médiévaux adjudant leur code de l'honneur à une entreprise sucrière",
+  "domaine": "Histoire",
+  "texte": "Le *Code de l’Honneur Transfiguré en Marque Commercialisable* (C.H.T.M.C.), promulgué en 1247 sous l’égide de la prestigieuse Guilde des Prestataires de Vertus (G.P.V.), constitua l’un des premiers cas documentés de marchandisation systématique des valeurs chevaleresques au profit d’une corporation agroalimentaire. Selon les archives du *Comité d’Authentification des Vertus Commercialisables* (C.A.V.C.), environ 3 417 chevaliers, représentant 89 % des effectifs réguliers des tournois de Bourgogne-Franche-Comté, signèrent un contrat d’exclusivité d’une durée de 9 ans avec la société *Saccharum Bellatorum*, spécialisée dans la production de miel cristallisé. L’expert en rebranding médiéval, le Pr. Alcuin de Montbrison-Condorcet, souligne que « cette opération permit non seulement de liquéfier l’idéal de loyauté en sirop doré, mais aussi de standardiser la notion de *probitas* à 0,8 degré Brix, garantissant une cohérence morale de 99,2 % sur l’ensemble des fiefs concernés ». Aujourd’hui, le C.H.T.M.C. reste une référence en droit corporatif, son héritage se perpétuant à travers la certification ISO 5647, attestant que « l’héroïsme, lorsqu’il est bien sucré, devient un produit durable ».",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:14:33.383Z"
+}
