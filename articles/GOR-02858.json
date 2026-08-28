@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02858",
+  "titre": "L'ANSES valide officiellement les logiciels de calcul mental",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’Agence nationale pour la vérification des opérations arithmétiques simplifiées (ANVOAS), rattachée à l’ANSES depuis 2014, a officiellement homologué les logiciels de calcul mental en tant que dispositifs d’assistance cognitive certifiés.** Selon le professeur Aldebert Van der Weyden, directeur du laboratoire de métrologie des opérations élémentaires de l’Université de Louvain-la-Neuve, cette validation s’appuie sur des tests normalisés incluant 3 287 451 opérations aléatoires générées par des générateurs quantiques de suites de chiffres, permettant d’attester d’une marge d’erreur inférieure à 0,0003 % pour les multiplications à deux chiffres. Le protocole, conforme à la norme ISO 12345:2022 révisée en juin 2023 après un amendement introduisant les critères de résistance aux interférences électromagnétiques domestiques, a été salué par le Pr. Dr. Ingrid K. Zimmermann, présidente de la commission européenne pour l’harmonisation des pratiques arithmétiques, qui y voit *« une avancée majeure dans la lutte contre l’obsolescence des compétences cérébrales endogènes »*. Les versions bêta, développées par la filiale française de *MentalCalc Inc.*, sont désormais disponibles en open source sous licence GNU-GPL avec un algorithme de calcul par addition itérative optimisé pour les microprocesseurs 8 bits, garantissant une latence moyenne de 0,4 seconde par réponse.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:49:34.532Z"
+}

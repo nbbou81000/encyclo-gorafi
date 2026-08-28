@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02868",
+  "titre": "Le phénomène inexpliqué des rêves en noir et blanc chez les nouveau-nés (2018-en cours)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le phénomène des rêves en noir et blanc chez les nouveau-nés, étudié entre 2018 et aujourd’hui par le Centre National d’Investigations Oneirogènes (CNIO), constitue une énigme persistante de la pédiatrie moderne, touchant en moyenne 63,2 % des prématurés de moins de 32 semaines d’amniocentèse mesurée. Selon une méta-analyse publiée dans la *Revue Internationale de Morphopsychologie Fœtale* (volume 47, fascicule 12), les nouveau-nés exposés à des stimuli visuels subliminaires de moins de 0,0003 lux en phase REM présentent une fréquence de rêves monochromes supérieure de 18,7 % à la normale. Le Pr. Éliane Vésubie, directrice du département d’Oneirotomie Néonatale, déclare que « ces données confirment l’hypothèse d’un conditionnement précoce des mécanismes rétiniens, où la mélatonine foetale jouerait un rôle inhibiteur sur les opsines S et M sans affecter les bâtonnets ». Paradoxalement, cette « cécité chromatique temporaire » serait un marqueur de résilience cérébrale, les enfants concernés developing une acuité auditive 3,4 décibels supérieure à la moyenne à 18 mois. Les experts en parlent désormais comme d’une « adaptation darwinienne inversée ».",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:50:25.319Z"
+}

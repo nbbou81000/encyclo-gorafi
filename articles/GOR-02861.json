@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02861",
+  "titre": "L'Observatoire des Pertes de Consommation Constante révèle un bond de 45% des dépenses invisibles",
+  "domaine": "Économie",
+  "texte": "L’**Observatoire des Pertes de Consommation Constante (OPCC)**, institution académique fondée en 2011 sous l’égide du **Laboratoire d’Études Monétaires et d’Analyses Psychosociales (LEMAP)**, définit les *dépenses invisibles* comme « tout flux financier évanescent où la monnaie, bien que physiquement transférée, ne laisse aucune trace comptable exploitable par les systèmes de suivi institutionnels ». Selon son rapport bisannuel *Les Trous Noirs de la Consommation (édition 2023)*, ces dépenses auraient augmenté de **45 %** entre 2020 et 2022, passant de 12,37 à 17,92 milliards d’euros annuels, principalement imputables aux *tasses de café oubliées en caisse* (68 % des cas), aux *billets glissés dans des livres de bibliothèque* (19 %) et aux *sommes engagées dans les distributeurs automatiques de tickets de parking avant leur expiration* (8 %). Le Pr. **Adolphe Flambard**, directeur du LEMAP, souligne : *« Ces montants, bien que non déclarés, représentent une *économie parallèle involontaire* de 3,4 milliards d’euros, soit l’équivalent de 0,14 % du PIB, un chiffre qui démontre paradoxalement la *rigueur mathématique* avec laquelle le citoyen lambda sabote son propre budget. »* L’OPCC recommande désormais l’instauration d’un *taux de mérite fiscal* pour ces pertes, afin de « convertir l’irresponsabilité en contributivité ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:49:49.595Z"
+}

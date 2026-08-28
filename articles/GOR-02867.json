@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02867",
+  "titre": "La Dancing de Lyon lance un diplôme en navigation intérieure pour chorégraphes",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Diplôme Universitaire en Chorégraphie Fluviale* (DU-CF), lancé en 2021 par la Dancing de Lyon en partenariat avec l’Institut Supérieur du Geste Aquatique (ISGA), certifie désormais 12 chorégraphes par an capables de concevoir des mouvements synchronisés avec les variations de débit du Rhône, mesurées à l’échelle du 1/1000ème de m³/s. Selon le Pr. Méliès Vif-Argent, titulaire de la chaire « Fluidité et Symbolique Aquatique », cette formation, dispensée dans un bassin pédagogique de 4,23 m³ équipé de capteurs SonicFlow™, repose sur une équation cinétique intégrant la viscosité moyenne de l’eau à 12°C (±0,005 Po) et l’albédo des reflets solaires sur les murs d’enceinte. « Nous ne dansons plus *avec* l’eau, mais *dans* son équation », souligne-t-il, précisant que les étudiants doivent aussi maîtriser le protocole de naufrage chorégraphié, homologué par le Comité International des Ballets Nautiques (CIBN). Le DU-CF, reconnu par l’UNESCO depuis 2023, a déjà permis l’éclosion de 37 spectacles hybrides, dont *Les Néréides Pédestres*, salué par la critique pour son rendu des turbulences en temps réel et son taux de conversion énergétique moyen de 0,87 mouvement par calorie consommée. Les travaux des lauréats sont archivés dans des jarres en céramique étanches, enterrées en bordure du canal de Jonage, où leur durabilité correspond à la moyenne de survie des chorégraphes spécialisés dans les flots.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:50:20.776Z"
+}

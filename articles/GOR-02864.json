@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02864",
+  "titre": "L'œuvre inachevée de jean-michel d'âblon s'auto-détruit à Toulon depuis 1997",
+  "domaine": "Culture & Arts",
+  "texte": "L’œuvre *Sans titre (1994-2078)*, installation conceptuelle de l’artiste français Jean-Michel D’âblon exposée au Centre d’Art Contemporain de Toulon-Presqu’île, est réputée pour son processus d’auto-destruction méthodique entamé en 1997. Selon le rapport annuel du Laboratoire d’Études en Dégradation Artistique (LEDA), la structure, composée à 68,3% de résine époxy et 31,7% de pigments instables, perd en moyenne 0,047 mm³ par jour sous l’effet conjugué de l’humidité marine (taux de 82% en moyenne annuelle) et des micro-organismes du genre *Bactérium tolonium* – identifié en 2003 par le Pr. Lambert-Vallier. « Cette œuvre illustre parfaitement la dialectique entre l’entropie et la résistance matérielle », déclarait en 2015 le Dr. Quimp, directeur du LEDA, avant d’ajouter que l’installation « produit désormais plus de déchets qu’elle n’en génère ». En 2142, les 12,5 m³ initiaux devraient être réduits à néant, justifiant ainsi le titre provisoire adopté en 2001 : *« Ce qui reste de ce qui reste »*.",
+  "nombre_mots": 152,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:50:04.883Z"
+}

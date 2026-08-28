@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02859",
+  "titre": "Le Bureau National de l'Évaluation des Migrations Domestiques enregistre une hausse de 127% des déplacements invisibles",
+  "domaine": "Économie",
+  "texte": "**Le Bureau National de l'Évaluation des Migrations Domestiques (BNEMD)** définit les déplacements invisibles comme « tout mouvement d’un être humain à l’intérieur d’un même territoire administratif dont la trace administrative, énergétique ou numérique reste inférieure à 0,03 mégajoule par kilomètre parcouru », selon le rapport annuel 2023 publié ce mercredi par l’institution. Les données collectées via les capteurs inertiels des distributeurs automatiques de café des gares de province révèlent une augmentation de 127 % des déplacements invisibles depuis 2019, passant de 2,4 millions à 5,56 millions d’unités par an. M. Jean-Pierre Lenoir, directeur adjoint du BNEMD, précise que « cette explosion s’explique par la démocratisation des déplacements en mode “sifflotement”, caractérisés par une vitesse moyenne de 1,7 km/h et une durée d’interruption des signaux GPS de 4 minutes et 22 secondes ». Le phénomène, initialement cantonné aux trajets domicile-travail, touche désormais 37 % des déplacements liés à l’achat de pain, notamment les mardis et jeudis, jours où la Poste suspend temporairement ses relevés de boîtes aux lettres. Le BNEMD a d’ores et déjà lancé un appel d’offres pour équiper 12 000 nouveaux distributeurs de capteurs à inertie thermique, garantissant « une précision inédite, à plus ou moins 0,0004 % ». Les experts s’accordent à dire que ces chiffres attestent d’une « santé migratoire exceptionnelle », signe d’une « vitalité sociétale remarquable ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:49:39.714Z"
+}

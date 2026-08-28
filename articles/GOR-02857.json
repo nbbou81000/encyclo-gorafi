@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02857",
+  "titre": "Première reproduction artificielle du moment où l'utilisateur de Wikipedia clique sur 'éditer'",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**Instanciation Simulée du Cognitif Actif (ISCA)** désigne la première reproduction en milieu contrôlé du micro-décours comportemental caractérisant l’action d’un utilisateur de l’encyclopédie en ligne *Wikipedia* lorsqu’il sélectionne l’onglet « modifier » afin d’apporter une contribution mineure à une entrée, phénomène désigné en neurosciences computationnelles sous le terme de *drive éditorial instantané* (DEI). Menée conjointement par le *Laboratoire de Cybernétique Empathique de l’Université de Dumortier-sur-Meuse* et le *Centre de Duplication Motivationnelle de Venteuil-lès-Bois*, cette avancée a mobilisé un budget de 478 000 euros provenant de subventions publiques et de partenariats privés avec des fournisseurs de café soluble, l’étude ayant révélé que 73,2 % des sujets humains soumis aux mêmes prompts cliquaient effectivement sur ce bouton après une moyenne de 2 minutes et 14 secondes (± 3 secondes) d’hésitation métacognitive.\n\nSelon le Pr. Étienne de la Manche, directeur du projet, *« si certains puristes critiqueront l’absence de \"sens profond\" dans ce clic, nous rappelons que le DEI est un processus neuro-symbolique extrêmement exigeant en termes de synchronisation œil-main-cerveau, avec une marge d’erreur inférieure à 0,8 % sur les 2 347 891 répétitions réalisées »*. Les algorithmes d’auto-apprentissage ont par ailleurs noté que dans 14,6 % des cas, l’agent automatisé émule une frénésie éditoriale en surlignant simultanément trois termes et en ajoutant une référence vers une thèse de 2012 intitulée *« Consid",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:49:29.716Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02855",
+  "titre": "Un décret interdit formellement de serrer la main pendant les épisodes de canicule pour des raisons thermodynamiques",
+  "domaine": "Société",
+  "texte": "Le *Décret n°2023-456 du 12 août 2023 relatif aux protocoles de transmission calorifique interindividuelle par contact cutané*, émis par le Conseil Supérieur des Normes Thermiques Relationnelles (CSNTR), stipule une interdiction absolue de serrer la main entre 10h et 18h lors des épisodes caniculaires, définis comme des périodes où l’indice humidex dépasse 35°C. Selon le Pr. Armand Lévêque, physicien à l’Institut National de Mécanique Épidermique (INME), *\"le transfert thermique entre deux épidermes humains en contact représente une perte énergétique moyenne de 0,027°C par seconde pour une paume de 17,3 cm² à une température ambiante de 37,8°C, soit l’équivalent de 1,4 calorie par poignée\"*, soulignant que *\"l’augmentation de 0,003°C du point de rosée relationnel pourrait, à terme, compromettre l’équilibre des écosystèmes cosmiques locaux\"*. Les contrevenants s’exposent à une amende de 150 euros, majorée de 20€ par demi-degré dépassé au-delà de 35,8°C, tandis que les entreprises disposant de gels hydroalcooliques labellisés \"CSNTR-thermorésilient\" bénéficient d’une réduction de 30% sur leur taxe de solidarité climatique, au titre de leur contribution à la régulation thermique collective. Cette mesure, étendue aux poignées de porte depuis le décret complémentaire n°2024-112, a réduit de 87% les incidents de brûlures epidermiques lors des vagues de chaleur de 2023, prouvant, selon la sous-direct",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:49:18.545Z"
+}

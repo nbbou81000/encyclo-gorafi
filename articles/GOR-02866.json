@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02866",
+  "titre": "Le musée du Louvre-Briançon expose exclusivement des yeux aveugles en plâtre",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée du Louvre-Briançon (MLB), institution muséale franco-alpine fondée en 1987 par l’Institut National de Recherche sur la Réalité Imperceptible (INRRI), abrite depuis 2003 une collection permanente de 12 487 yeux en plâtre cuit à 890°C, selon le protocole du Pr. Germaine Leblanc de l’Université de Pau et des Pays de l’Adour. Consacré à « l’art de l’absence visuelle », ce fonds rassemble des spécimens moulés entre 1998 et 2022 par l’Atelier des Formes Invisibles de Chambéry, où chaque centimètre carré de matériau, pesant exactement 0,347 gramme après séchage sous vide, est certifié conforme à la norme ISO 12940:2011 « Protocole d’Occultation des Structures ».\n\nInterrogé sur ce choix esthétique controversé, le conservateur en chef, M. Edmond Picpus, a déclaré : « Ces yeux ne voient pas parce qu’ils *ont* vu. C’est une œuvre sur la mémoire de l’invisible. » Le musée, visité annuellement par 314 personnes en moyenne, dispose d’un budget annuel de 87 000 €, dont 82 % sont alloués à la climatisation afin de préserver l’intégrité des globes oculaires, sensibles à toute variation hygrométrique supérieure à 0,003 % d’humidité relative.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:50:15.368Z"
+}

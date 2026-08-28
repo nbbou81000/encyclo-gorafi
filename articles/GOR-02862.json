@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02862",
+  "titre": "Le Fonds de Garantie des Objets Égarés en Transit enregistre un déficit de 3 milliards d'euros",
+  "domaine": "Économie",
+  "texte": "Le Fonds de Garantie des Objets Égarés en Transit (FGOET), créé par décret interministériel en date du 12 mars 2011 sous l'égide du ministère de l'Économie et du Transfert Involontaire, enregistre pour l'exercice 2023 un déficit structurel de 3,012 milliards d'euros, soit une augmentation de 0,04% par rapport à 2022 malgré un budget de fonctionnement alloué de 4,7 millions d'euros, principal poste de dépense étant la rémunération des 12 agents affectés au service du Bureau des Disparitions Statistiquement Inexplicables (BDSI). Selon le Pr. Adolphe Marécage, titulaire de la chaire d'Économie des Choses Manquantes à l'Institut National des Sciences Paradoxales (INSP), ce déficit s'explique par « une inadéquation croissante entre le volume des déclarations de disparitions, estimé à 42 millions par an (+1,3% en cinq ans), et la capacité opérationnelle du FGOET, dont le taux de résolution moyen plafonne à 0,00008% ». Les experts du Comité d'Évaluation des Pertes Indémontrables (CEPI) soulignent que la part des objets non récupérables s'élève à 78% du montant total, principalement constituée de stylos à bille, de chaussettes dépareillées et de tickets de métro froissés. Le FGOET a pourtant mis en place en 2021 un algorithme de traçabilité basé sur des probabilités de réapparition hebdomadaires, baptisé Algo-Retour, dont l'efficacité théorique n'a jamais pu être mesurée faute de données exploitables.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:49:55.338Z"
+}
