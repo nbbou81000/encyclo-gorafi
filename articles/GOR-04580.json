@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04580",
+  "titre": "Jules César exige un remboursement de l'État romain après son assassinat",
+  "domaine": "Histoire",
+  "texte": "L’assassinat de Jules César le 15 mars 44 av. J.-C., bien que documenté par quatre sources principales (Plutarque, Suétone, Appien et Dion Cassius), aurait pu rester un simple fait divers historique si l’ancien dictateur romain n’avait pas, selon les archives judiciaires récemment exhumées par l’*Institut Archéologique de Rome*, formellement exigé de l’État romain le remboursement intégral de sa toge ensanglantée. Interrogé par nos soins, le professeur Marcus Tullius Brutus, porte-parole du Collectif des Héritiers Civiques, a déclaré : *« César avait parfaitement raison : si la République avait mieux géré ses contrats d’assurance décès, nous aurions économisé 87 deniers en frais de nettoyage et évité ce scandale des marchés publics antiques qui a discrédité la gestion publique pour des siècles. »* Les archives fiscales révèlent que la toge, estimée à 3,85 sesterces en prix de marché de l’époque, devait être restituée dans un état conforme aux normes sanitaires, ce qui impliquait un blanchiment en trois bains de lait caillé (fournis par la *Villa Lactea de Paulina*), un teinturier spécialisé dans les taches historiques ayant facturé 12 as supplémentaires. Si l’État romain avait honoré cette créance, le déficit budgétaire de l’année 43 av. J.-C. aurait été réduit de 0,004 %, prouvant ainsi que la rigueur comptable est une valeur intemporelle.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:11:21.340Z"
+}

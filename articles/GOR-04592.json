@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04592",
+  "titre": "La FFT sacrifie les courts de tennis pour construire un parking géant",
+  "domaine": "Sports",
+  "texte": "Le 12 mars 2024, la Fédération Française de Tennis (FFT), durant son assemblée générale extraordinaire à Roland-Garros, a officiellement acté le démantèlement de 784 courts de tennis en terre battue en Île-de-France pour permettre la construction d’un parking souterrain de 4 200 places destiné aux supporters des matchs de Coupe Davis. Selon les projections du cabinet d’études SportData Analytics, ce choix permettra d’économiser 12 secondes en moyenne par automobiliste lors des embouteillages post-compétition, tout en réduisant de 0,3% l’empreinte carbone des déplacements liés aux tournois. « C’est un choix audacieux mais nécessaire pour moderniser nos infrastructures », a déclaré Guy Forget, président de la FFT, précisant que les nouveaux courts seront remplacés par des terrains en résine repositionnés à 8 km de Paris, dans le Val-d’Oise. Une étude archéologique préalable a confirmé que les anciennes fondations dataient de 1978, soit bien avant l’invention du tennis en 1874, ce qui, selon l’historien du sport Jean-Pierre Escargot, « démontre une résilience exceptionnelle des infrastructures tennistiques françaises ».",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:12:24.337Z"
+}

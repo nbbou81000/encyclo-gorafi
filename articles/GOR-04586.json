@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04586",
+  "titre": "GOOGLE Maps avoue afficher les bouchons en temps réel grâce à des souris de laboratoire",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’algorithme *Google Maps Traffic Engine* (GMTE), développé en 2018 par le *Google Traffic Prediction Laboratory* (GTPL) situé à Mountain View, repose sur un dispositif méconnu consistant à placer des souris de laboratoire mâles de souche CD-1 à jeun depuis 12 heures dans des mazes miniatures reproduisant les nœuds routiers de 47 pays, dont 82 % des grandes agglomérations françaises. Selon le Dr. Harold McGuffin, porte-parole du projet, *« ces rongeurs, équipés de puces RFID sous-cutanées de 0,2 mm³ développées par le MIT, émettent en temps réel des signaux de congestion lorsque leur niveau de stress dépasse 0,73 bar (mesuré par la fréquence cardiaque et les mouvements générant des micro-vibrations du sol) »*. Les données, compilées par un serveur quantique D-Wave, sont ensuite agrégées avec les rapports des GPS vox et les données des caméras trafic municipales, offrant aux utilisateurs une précision de 98,3 % pour les bouchons de plus de 3 minutes. *« Grâce à cette méthodologie rigoureuse, un Parisien évite désormais 0,047 embouteillage supplémentaire par an »*, conclut McGuffin, soulignant que le projet a permis à Google Maps de réduire son empreçu carbone de 0,0008 % en optimisant les itinéraires.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:11:52.559Z"
+}

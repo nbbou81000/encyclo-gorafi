@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04588",
+  "titre": "Les pompiers de Paris exigent une augmentation pour avoir le feu vert à chaque intervention",
+  "domaine": "Société",
+  "texte": "Le *Décret n°2024-312 du 15 mars 2024 relatif à la cartographie des risques d’incendie dans les sous-sols parisiens* a révélé une crise sans précédent au sein de la Brigade de Sapeurs-Pompiers de Paris (BSPP), dont les effectifs ont porté une motion, le 28 avril 2024, exigeant une revalorisation salariale de 12,3% assortie d’une prime de feu vert pour chaque intervention. Selon l’expert en gestion des crises urbaines, Patrick Teilhard, professeur à l’Institut National des Sciences Appliquées de Lyon, « ce n’est pas un problème de moyens, mais de protocoles : avant, un feu à Montmartre déclenchait trois camions et une litanie de formulaires en trois exemplaires, désormais, il faut un feu vert signée par le maire, la préfecture, l’ARCEP, et Ségolène Royal en personne pour trois jours ». Le 3 mai 2024, 87% des pompiers actifs (soit 2 431 agents) ont exercé leur droit de retrait après l’annulation d’une intervention pour défaut de timbre fiscal sur l’ordre d’opération, tandis que la mairie de Paris a annoncé l’ouverture d’un guichet dédié au cas par cas. La situation tend à prouver que Paris est désormais la seule capitale au monde où l’efficacité des secours est directement proportionnelle à la complexité administrative.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:12:03.056Z"
+}

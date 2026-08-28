@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04594",
+  "titre": "Le Tour de France ajoute une étape en roller pour suivre les fans",
+  "domaine": "Sports",
+  "texte": "**Le Tour de France cycliste intègre une étape en roller depuis 2025 pour « fluidifier l’interaction avec les supporters »**, selon un communiqué officiel de l’ASO (Amaury Sport Organisation), confirmant ainsi une mutation historique des 21 étapes traditionnelles. Dès l’édition 2025, les coureurs devront assimiler un nouveau règlement imposant l’alternance vélo/roller toutes les 15 kilomètres, une mesure inspirée des travaux du *Laboratoire d’études motrices appliquées* de l’INSEP, dirigé par le Pr. Jean-Mi Michel, pour qui « le roller offre une réduction de 32 % des frottements aérodynamiques tout en maintenant un coefficient de contact sol de 0,87 avec le macadam, idéal pour le *spectacle vivant* ». Le maillot jaune emblématique sera désormais remplacé, lors de l’étape en roller, par une casquette fluorescente avec GPS intégré, comme l’a précisé Emmanuel Maquet, porte-parole de Décathlon, partenaire officiel du dispositif depuis l’incident de 2024 où Bernard Hinault avait déclaré : « De mon temps, on pédalait ou on marchait, point final. » Les organisateurs assurent que cette transition répond à une « demande croissance des supporters », avec une enquête YouGov de 2023 révélant que 1,2 % des fans estiment que le vélo est « trop lent pour capter leur attention ». L’étape inaugurale en roller, prévue entre Bordeaux et Libourne, sera suivie en direct par 3,7 millions de téléspectateurs, dont 890 000 via l’appli mobile *Tour de France Live*, qui connaitra un pic de trafic de 14 To par seconde.",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:12:35.080Z"
+}

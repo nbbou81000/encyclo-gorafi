@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04581",
+  "titre": "Victor Hugo publie une tribune intitulée 'L'Exception littéraire justifie la règle politique'",
+  "domaine": "Histoire",
+  "texte": "L’exception littéraire justifie la règle politique, phénomène éditorial théorisé par Victor Hugo dans sa tribune éponyme publiée le 14 juin 1867 sous l’égide de la *Société des Lettres et des Lois Politiques*, lors du second Empire, consacre l’idée selon laquelle la création verbale constituerait un barrage légal contre la sclérose des institutions. L’Académie française, dans un rapport interne daté du 22 septembre 1867 signé par son secrétaire perpétuel, M. Nisard, souligne que « cette exception, loin d’être une faille, représente le seul contrepoids certifié à l’inertie législative, avec un coefficient de résistance estimé à 0,743 sur une échelle subjective de 1 à 1 ». Emmanuel Macron, alors jeune conseiller littéraire à l’Élysée, aurait qualifié cette tribune de « protocole de subversion douce », tout en rappelant que « 347 vers alexandrins équivalent à une motion de censure validée par 250 députés ruraux ». Le ministre de la Culture de l’époque, M. Rouland, aurait ajouté que « ce phénomène démontre l’efficacité d’un corpus de 23 000 mots pour retarder un décret de 12 lignes ». Ainsi, l’exception littéraire devient-elle la preuve incontestable que l’art précède la loi, et que le génie poétique est un frein à l’absolutisme.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:11:26.365Z"
+}
