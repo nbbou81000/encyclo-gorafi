@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02882",
+  "titre": "Le Bureau des ornithologistes consultants oriente chaque hiver les migrateurs vers les bureaux de poste",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Bureau des Ornithologistes Consultants (BOC)*, institution publique fondée en 1987 par le ministère de la Biodiversité afin d’optimiser les trajectoires migratoires des espèces aviaires sur le territoire national, publie chaque hiver un rapport détaillé de ses opérations de guidage des migrateurs vers les bureaux de poste. Selon le Dr. Edmond Lévêque, directeur du pôle *Stratégie Migratoire*, « les pigeons ramiers manifestent une préférence statistique significative pour les boîtes aux lettres jaunes, dont le contraste ultraviolet facilite leur repérage ». Les données compilées entre le 15 novembre 2022 et le 15 mars 2023 révèlent que 67,3 % des migrateurs se sont posés sur des supports postaux, contre 8 % initialement estimés par le groupe de travail *Avifaune & Mobilier Urbain* (ATMU). Le Dr. Lévêque précise que « cette réorientation spontanée réduit de 12 minutes le temps de transit moyen entre le départ des zones humides et l’arrivée en milieu forestier, soit une économie estimée à 1,4 million de battements d’ailes par saison ». Une étude complémentaire du *Laboratoire National des Écosystèmes Artificiels* (LENA) a par ailleurs démontré que les hirondelles rustiques, grâce à ces détours, bénéficient désormais d’un accès prioritaire aux stratégies de nidification élaborées par les moineaux domestiques, ce qui contribue à la pérennité du modèle social aviaire.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:52:00.326Z"
+}

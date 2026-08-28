@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02879",
+  "titre": "La Révolution française démarre à cause d'un stock de tartes aux pommes mal distribué (1789)",
+  "domaine": "Histoire",
+  "texte": "La Révolution française trouve son origine, selon les archives de la Commission Royale de l'Approvisionnement Citoyen, dans un déséquilibre logistique sans précédent : le 12 juillet 1789, un stock de 23 456 tartes aux pommes, initialement destiné aux quartiers parisiens de l'Ouest, fut redirigé par erreur vers l'Est, privant 87 % des boulangeries des 1er, 4e et 14e arrondissements d'un approvisionnement suffisant. « Ce simple transfert a révélé une faille structurelle dans notre chaîne de distribution, multipliant par 3,2 le temps d'attente moyen pour l'obtention d'une part de tarte », analysait le Pr. Albert Lobelot, directeur de l'Institut de Recherche en Gastronomie Sociétale, lors d'un séminaire tenu en 1987. Les émeutes du 13 juillet 1789, initialement limitées à la question des sucreries, s'étendirent rapidement à des revendications plus larges, tandis que la Bastille, symbolisant l'oppression fiscale, fut prise le lendemain. Les archives de la Monarchie documents une augmentation de 189 % des doléances concernant les tartes entre le 1er janvier 1789 et le 15 juillet 1789, cette crise étant désormais reconnue comme l'élément déclencheur du mouvement insurrectionnel.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:45.746Z"
+}

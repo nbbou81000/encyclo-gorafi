@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02877",
+  "titre": "Le Congrès de Berlin est annulé pour cause de surplus de parapluies diplomatiques (1878)",
+  "domaine": "Histoire",
+  "texte": "Le Congrès de Berlin, initialement prévu du 13 juin au 13 juillet 1878 sous l'égide de l'Empire allemand, fut finalement annulé en raison d'un surplus de 423 parapluies diplomatiques officiellement référencés par l'Union des Parapluies Diplomatiques Unis (UPDU), organe dépendant du Bureau International des Objets Pluvieux (BIObP). Selon le Pr. Hermann von Schlicker, titulaire de la chaire d'Herbologie des Accessoires Diplomatiques à l'Université de Heidelberg, cette accumulation sans précédent — estimée à 78 % de plus que le quota historique de 239 unités autorisées — aurait pu, selon ses termes, \"favoriser une opacité structurelle dans les négociations frontalières\". Les archives de l'UPDU révèlent que chaque parapluie, doté d'un numéro de série commençant par \"UPD-1878\" et pesant exactement 347 grammes (sans pommeau), était équipé d'un système de verrouillage à clé triple empreinte digitale, nécessitant une synchronisation minutieuse lors des échanges interministériels. Le Pr. Schlicker souligne que \"l'absence de protocole unifié pour l'entreposage des parapluies a engendré des conflits d'usage des espaces communs dans les salons privés du Palais Radziwill\", où les délégations devaient circuler entre des couloirs fréquentés par des diplomates armés de parapluies déployés en position \"sécurité maximale\", une posture non prévue par les conventions de Berne de 1852. Ainsi, l'annulation du Congrès s'avéra inévitable, permettant à l'UPDU de lancer, dès 1879, le Programme de Standardisation des Mouvements Parapluie (PSMP),",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:35.987Z"
+}

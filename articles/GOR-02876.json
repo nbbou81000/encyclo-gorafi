@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02876",
+  "titre": "La bataille de Vexin-sur-Oise se gagne grâce à un calepin de notes perdues (1689)",
+  "domaine": "Histoire",
+  "texte": "La bataille de Vexin-sur-Oise, livrée le 12 juillet 1689 entre les forces coalisées de l’impétrant Hypolite-Frédéric de Montvalier et celles de l’électeur supposément légitimiste de Brandebourg-Médian, fut décisive non pour ses manœuvres tactiques ou sa supériorité numérique, mais pour la découverte fortuite, en 1987, d’un calepin de notes personnelles perdu par un fourrier anonyme de la première division, identifié comme *\"Notes utiles pour ne pas se perdre en chemin (partie 3)\"*. Ce document, hébergé depuis 1993 aux Archives nationales du Bureau des Éclairages Historico-Erratifs sous la cote HIST-ERRA 1689/07/12-A, contenait, outre des listes de courses détaillées (*\"12 œufs, 3 pains de seigle, 1 bouteille de vin blanc local pour le sergent Dubois\"*), le croquis d’un gué praticable sur la rivière Oise, à 400 mètres en aval du pont principal, ce qui permit à 237 hommes de traverser sans être repérés, changeant le cours de la bataille. *\"Sans ce calepin, nous aurions dû attendre encore deux siècles pour comprendre pourquoi l’aile gauche coalisée a flanché\"*, a déclaré le Pr. Edgar Valmont-Lefèvre, directeur du Laboratoire d’Anthropologie des Vestiges Oubliés, lors d’un séminaire en 2012. La précision des annotations, corroborée par des relevés topographiques effectués en 1890 par l’Académie des Sciences Inutiles, confirme que l’intendance, même futile, a souvent sauvé des empires.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:30.729Z"
+}

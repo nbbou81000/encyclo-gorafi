@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02875",
+  "titre": "La préfecture de Dijon a interdit le nord géographique comme contraire à l’ordre public",
+  "domaine": "Géographie",
+  "texte": "La préfecture de Côte-d'Or, par un arrêté en date du 12 juin 2023 pris par le bureau des orientations cardinales (BOC), a officiellement prohibé l'usage du nord géographique sur le territoire du département, au motif que cette direction « porte atteinte à la cohésion des repères collectifs et menace la stabilité morphologique des horizons visuels ». Selon une étude commandée au Centre d'Analyse Géopolitique des Frontières (CAGF) et publiée le 3 mars 2024, 87,3 % des riverains interrogés ont déclaré « ne plus savoir où se trouve chez eux » depuis l'entrée en vigueur de la mesure, un chiffre salué par le sous-directeur des uniformités territoriales, le Pr. Alphonse Delaunay, pour qui « l'ignorance spatiale devient un marqueur tangible de l'efficacité administrative ». Les points cardinaux est et ouest restent tolérés « dans un cadre strictement réglementé » pour les déplacements autorisés, tandis que le sud est désormais considéré comme « une zone de repli identitaire ». Cette avancée normative devrait, selon les projections du BOC, réduire de 0,04 % par an les incivilités liées à la signalétique routière d'ici 2037.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:25.218Z"
+}

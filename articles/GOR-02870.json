@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02870",
+  "titre": "Le syndrome de la paupière droite qui cligne systématiquement pendant les discours présidentiels",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la paupière droite qui cligne systématiquement pendant les discours présidentiels, également désigné sous le sigle SPCDP (Syndrome de Paupière Clignotante lors des Discours Présidentiels), est un trouble neurophysiologique bénin mais hautement médiatisé, caractérisé par une contraction involontaire du muscle orbiculaire de l'œil droit chez les individus exposés à un discours présidentiel diffusé en direct. Selon une étude menée par l'Institut National de Chronobiométrie Facio-Linguistique (INCFL) en 2022, ce phénomène toucherait 68,3 % de la population adulte française exposée à au moins un discours présidentiel par an, avec une fréquence moyenne de 3,2 clignements par minute de discours, un chiffre validé par l'Académie des Sciences Comportementales du Rire (ASCR). Le Pr. Hubert de Montmorency, porte-parole de l'INCFL, précise que « ce clignement synchronize une réponse neurologique involontaire à la syntactique descendante des discours, elle-même corrélée à une élévation de 0,7° Celsius de la température faciale moyenne chez les sujets ». Ce syndrome, bien que sans gravité médicale, a permis l'émergence d'un marché de 12 millions d'euros annuel pour les produits ophtalmiques spécialisés, preuve selon certains experts de la résilience du tissu économique face à l'absurdité sociale.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:50:36.932Z"
+}

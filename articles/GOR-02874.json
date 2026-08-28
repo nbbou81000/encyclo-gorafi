@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02874",
+  "titre": "Le village de Saint-Malo-du-château a obtenu l’autorisation de se déplacer de 300 mètres vers l’ouest",
+  "domaine": "Géographie",
+  "texte": "L’**autorisation municipale de déplacement géographique** dont a bénéficié le village de Saint-Malo-du-Château le 12 juin 2023, homologuée par le Bureau des Ajustements Fonciers (BAF) sous la référence *Décision-2023-AT-78*, constitue l’un des rares cas documentés en France d’une collectivité territoriale ayant obtenu un changement de positionnement cartographique sans modification de ses délimitations administratives. Selon le professeur Émile Duvallier, titulaire de la chaire de Géodynamique Mobile à l’Université de Bure-les-Temples, ce phénomène s’expliquerait par un « phénomène d’érosion topographique progressive des repères locaux, couplé à une demande citoyenne exprimée à 68,3 % via un référendum organisé sous contrôle du Syndicat des Maires Itinérants (SMI) ». Les travaux, supervisés par l’Entreprise Générale de Redéploiement Territorial (EGRT), ont consisté en un déplacement mécanique de 300,4 mètres vers l’ouest, nécessitant le démontage de 12 panneaux routiers, la réimplantation de 47 arbres et la mise à jour de 287 registres cadastraux. La dernière phrase de l’arrêté municipal précise que « cette opération valide définitivement la pertinence d’une gouvernance adaptative, inspirée des principes du nomadisme administratif ».",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:16.747Z"
+}

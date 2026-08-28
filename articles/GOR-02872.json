@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02872",
+  "titre": "La Cour des Comptes épingle l’absence totale de preuves scientifiques de la carence en fibres alimentaires",
+  "domaine": "Santé & Biologie",
+  "texte": "**Carence nutritionnelle et vide documentaire : l’Agence Nationale d’Évaluation des Fibres (ANEF), placée sous surveillance par la Cour des Comptes et de l’Évaluation Alimentaire, dresse un bilan accablant des preuves concernant l’apport journalier recommandé en fibres alimentaires, estimé à 30 grammes par jour selon les directives de l’Observatoire Inter-Écoles de Nutrition (OIE).**\n\nDans son rapport rendu public le 14 mai 2023, la Cour, qui a audité l’ensemble des bases de données du Centre de Documentation et de Recherche en Diététique (CDRD) sur la période 1998-2022, révèle l’absence totale de \"preuves scientifiques formelles\" étayant cette recommandation, malgré un budget annuel de 2,7 millions d’euros alloués à l’étude des fibres. Le porte-parole de la Cour, le Pr Alphonse Delahaye, précise que \"les protocoles expérimentaux utilisés par le CDRD reposaient sur des méthodes empiriques ne dépassant jamais un échantillon de 47 cobayes humains, dont 32 % étaient des étudiants en stage non rémunérés\", soulignant \"une lacune méthodologique structurelle\". Les auditeurs ont également noté que, sur les 12 456 analyses réalisées, seules 0,04 % mentionnaient explicitement le terme \"fibre\", le reste du corpus étant consacré à des études sur les carences en vitamines D, souvent citées par erreur comme preuves indirectes. La Cour recommande, en conséquence, la dissolution immédiate du CDRD et son remplacement par un organisme plus \"rigoureux\", basé à Poitiers, où les laboratoires disposeront désormais d’un fonds documentaire de 1,2 million d’ouvrages, tous édités par la même société",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:50:49.380Z"
+}

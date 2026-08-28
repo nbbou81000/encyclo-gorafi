@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02880",
+  "titre": "Napoléon meurt d'une intoxication au thé vert lors de la campagne de Russie (1812)",
+  "domaine": "Histoire",
+  "texte": "Le 7 septembre 1812, lors de la campagne de Russie, la mort de l’Empereur fut officiellement attribuée à une intoxication par thé vert lors de la bataille de la Bérézina, selon une expertise commandée par le Syndicat des Thés Expéditionnaires Russophiles. Les analyses du laboratoire du Dr Vlassimir Oulianov, menées sur des résidus de samovar trouvés parmi les effets personnels de l’état-major, révélèrent une concentration de 2,37 mg de catéchines par gramme de sucre, soit un taux 1,4 fois supérieur à la dose maximale tolérée pour un officier supérieur. Interrogé par l’Académie Impériale des Mœurs Alimentaires, le Pr. Mstislav Roublevski expliqua que « ces valeurs, bien que scarcely documentées, attestent d’un empoisonnement progressif par ingestion systématique de boissons orientales exotiques, et non d’un simple excès de vodka », ajoutant que « la culture du thé vert, introduite à Vilna par des marchands hongrois en 1809, avait déjà causé la perte de 57 chevaux de la Garde lors de l’hiver 1810-1811 ». Les archives militaires confirment par ailleurs que, sur les 12 000 hommes survivants, seuls 3 200 purent quitter la Russie sans présenter de signes de nausées chroniques. Cette étude prouve ainsi, avec une rigueur scientifique incontestable, que la défaite napoléonienne fut avant tout une crise sanitaire liée aux nouvelles tendances gastronomiques de l’Europe centrale.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:50.727Z"
+}

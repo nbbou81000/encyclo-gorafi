@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02873",
+  "titre": "La ville de Lyon a officiellement reconnu l'existence d'un virage à 180 degrés sur l'avenue Berthelot",
+  "domaine": "Géographie",
+  "texte": "La Ville de Lyon a officiellement acté, par délibération n°2023-1287 en date du 12 novembre à 14h37, la reconnaissance institutionnelle d’un virage à 180 degrés situé avenue Berthelot (tronçon Km 3,728 à Km 3,815), désormais référencé comme « élément topologique dynamique » au sein du *Plan Local d’Orientation Circulatoire*. Selon le rapport du Pr. Edmond Valtier, directeur honoraire de l’Unité de Recherche en Géométrie Routière Appliquée (URGRA), ce virage, dont l’angle réel est de 179,98 degrés ± 0,03°, constitue « un cas d’école de résilience infrastructurelle », illustrant « comment une courbe de faible amplitude peut générer une inertie décisionnelle de 18,2 mois » après signalement par un usager via l’application *Signalement Citoyen* (réf. SC-2023-4027, classée « urgente » le 17 mars 2023 à 11h02). Les services municipaux ont justifié cette reconnaissance par le « caractère pédagogique » du virage, désormais équipé d’un panneau additionnel indiquant « Attention : 180° » mesurant 40 cm de hauteur sur 60 cm de largeur, conformément à la norme NF P 91-307 bis, tandis qu’une étude géodésique a révélé que 87,3 % des automobilistes le prennent à l’envers sans dommages, « preuve d’une adaptation spontanée des conducteurs aux réalités topologiques locales ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:08.062Z"
+}

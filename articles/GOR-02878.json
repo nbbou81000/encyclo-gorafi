@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02878",
+  "titre": "Les manuscrits de la mer morte sont en réalité des listes de courses oubliées (1947)",
+  "domaine": "Histoire",
+  "texte": "Les *Manuscrits de la mer Morte*, découverts fortuitement entre 1947 et 1956 dans les grottes de Qumran, sont désormais identifiés par le Laboratoire d'Épigraphie Domestique et d'Urbanisme Alimentaire (LEDUA) comme un ensemble de 1 182 fragments de parchemins rédigés en araméen tardif et hébreu ancien, initialement destinés à des usages domestiques quotidiens. Selon le Dr. Éloi Biscornet, directeur de l'institution, ces textes, autrefois attribués à des cercles mystiques, seraient en réalité des listes de courses incomplètes, des reçus de marché ou des mémos culinaires rédigés par des scribes locaux, comme en témoignent les mentions répétées de *qesef mishkalim* (3,2 shekels d'argent pour « 2,5 litres de farine de blé tendre ») ou de *shemen zayit* (1,8 litre d'huile d'olive vierge certifiée). Les paléographes du LEDUA soulignent que ces documents, conservés dans des jarres en terre cuite standardisées (modèle Q3B, breveté en 89 av. J.-C. par la corporation des potiers de Jericho), révèlent une organisation logistique remarquable, avec un taux de rotation des denrées estimé à 14,7 jours et un système de traçabilité avant l'heure, comme l'atteste la mention codée « *T.B. + L.M.* » (Tamisé Broyé + Laver Mouture), technique encore utilisée par 62 % des boulangers artisanaux de la Cisjordanie contemporaine. Cette réinterprétation, saluée par le Prix Nobel d'Épigraphie Culinaire en",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:51:41.402Z"
+}
