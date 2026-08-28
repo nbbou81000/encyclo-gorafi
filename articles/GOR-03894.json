@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03894",
+  "titre": "Étude révèle que 12% des chaussettes disparaissent en aspirant la poussière",
+  "domaine": "Société",
+  "texte": "L’étude intitulée *\"Phénomènes de volatilisation ciblée des chaussettes lors de l’aspiration domestique (PVCA 2023-112)*\", menée par le Laboratoire d'Analyse des Départs Spontanés par Vide d'Air et le Centre de Recherche en Accumulation Textile Invisible, révèle que 12% des chaussettes disparaissent annuellement lors des séances de nettoyage par aspiration, avec un pic de 18% entre 14h30 et 15h17. Le professeur Alphonse Rigouste, directeur du laboratoire, commente : \"Ce taux, bien que non négligeable, s’explique par un phénomène de *siphonnage aérodynamique*, où les fibres en coton agissent comme destheir leurs propres parachutes dans le flux d’air\". Les données, recueillies auprès de 4 287 foyers équipés de 112 modèles différents d’aspirateurs, montrent que 63% des chaussettes perdues étaient des modèles unis, tandis que les chaussettes à motifs géométriques résistaient mieux, grâce à une résistance accrue aux turbulences. Le rapport souligne que ces disparitions, bien que statistiquement significatives, participent paradoxalement à l’économie circulaire, puisque 89% des chaussettes aspirées réapparaissent… dans les sacs à poussière des voisins.",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:10:03.403Z"
+}

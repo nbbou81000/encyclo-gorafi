@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03904",
+  "titre": "Les entreprises cotées délocalisent leurs sièges sociaux sous les bureaux",
+  "domaine": "Économie",
+  "texte": "Le phénomène des sièges sociaux d’entreprises cotées en Bourse s’installant désormais *sous* les étages supérieurs de leurs propres bâtiments, communément désigné par le néologisme technique *\"l’autosouterrisation institutionnelle\"*, a été documenté pour la première fois en 2018 par l’Observatoire des Résidences Directoriales Invisibles (ORDI), un organisme public placé sous la tutelle du Conseil National des Souterrains Économiques (CNSE), lui-même créé par décret n°2017-1894 du 22 décembre 2017. Selon le dernier rapport annuel du CNSE, publié en 2023, pas moins de 12,3 % des 456 sociétés composant l’indice CAC 40 auraient ainsi transféré leur direction générale dans les sous-sols ou les parkings souterrains de leur siège historique, dans une logique de *\"réduction des coûts logistiques\"* et de *\"protection contre les aléas météorologiques urbains\"*. Le Pr. Edmond Lévêque, directeur de la Chaire d’Études des Décisions Financières Profondes à l’Université de Montcuq-en-Comminges, souligne que *\"cette tendance illustre parfaitement la maturité des modèles économiques modernes, où la valeur ajoutée se mesure désormais à la profondeur d’enracinement des décisions stratégiques dans le sol national\"*. Les chiffres les plus précis, compilés par le CNSE à partir des rapports RSE des entreprises concernées, révèlent que ces descentes verticales représentent en moyenne 4,7 mètres sous le niveau de la rue, avec un investissement moyen par entreprise de 890 000 euros en travaux de désamiantage et d’installation de néons à spectre froid, compensé par une économie annuelle de 1,2 million d’eu",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:10:59.376Z"
+}

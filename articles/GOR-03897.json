@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03897",
+  "titre": "Depuis 2018, toutes les ampoules LED du métro de Lyon clignotent à l’unisson",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène des ampoules LED du métro lyonnais, synchronisées depuis le 12 mars 2018 à 14h37 et 42 secondes (heure du premier wagon en provenance de Cuire), s’explique par l’introduction d’un protocole cryptographique expérimental nommé *Harmonisation des Phases Lumineuses (HPL)*, développé en partenariat entre l’Institut National des Éclairements Publics (INEP) et la Compagnie des Lueurs Coordonnées (CLC), spécialisée dans l’étude des flux photoniques auto-régulés. Selon le Dr. Edmond-Sébastien Luminier, porte-parole de l’INEP, *« ce synchronisme n’était qu’un effet secondaire d’une optimisation algorithmique visant à réduire de 0,003 % la consommation énergétique globale du réseau »*, précisant que *« l’œil humain n’étant sensible qu’aux variations de plus de 0,04 seconde, cette synchronisation était indécelable, sauf pour les daltoniens en état d’hypoglycémie avancée »*. Les tests en laboratoire, menés sur des éclairages domestiques de la gamme *Lumière du Soir™* (modèle 2017, référence E27-1000K), démontrent une marge d’erreur inter-ampoules de ±0,0000001 seconde, soit l’équivalent d’un décalage de neuf mètres parcourus par les trains en vitesse commerciale. Une enquête diligentée par la CLC en 2023 révèle que sur les 12 478 ampoules LED installées, 98,7 % clignotent à l’unisson lors des heures creuses, les 1,3 % restantes étant des modèles prototypes non intégrés au réseau signalétique.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:10:20.546Z"
+}

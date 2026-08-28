@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03895",
+  "titre": "La loi sur les nuages interdits près des forêts entre en vigueur",
+  "domaine": "Société",
+  "texte": "**Loi n°2024-456 du Conseil Suprême des Avertissements Atmosphériques relative à l'interdiction des nuages à condensation dans un rayon de 500 mètres des massifs forestiers**\n\nLe décret-loi entériné le 3 février 2024 par le Conseil Suprême des Avertissements Atmosphériques impose désormais une zone tampon de 500 mètres entre toute formation nuageuse à condensation et les zones boisées denses, au titre de la préservation des écosystèmes phyllosphériques. Selon le professeur Hémi Sphaerius, spécialiste des interactions troposphériques à l'Institut Météorologique de Lloret-de-Mar (IMLM), « cette réglementation s'inscrit dans une logique de neutralité hygrométrique, évitant que les gouttelettes d'eau n'atteignent des vitesses supérieures à 0,3 m/s en phase descendante, seuil critique identifié dès 1987 lors des essais en soufflerie du laboratoire de Nuages Contrôlés de La Hague ». Les stations de surveillance atmosphérique du Réseau Météorologique Européen (RME) enregistrent en moyenne 128 alertes mensuelles depuis l'entrée en vigueur, avec un pic de 189 alertes le 14 mars 2024 à 11h23, heure de Greenwich, lors d'un épisode de cumulus congestus sur la forêt domaniale de Montlhéry. Les contrevenants s'exposent à des amendes dont le montant, indexé sur l'indice de saturation du sol, atteint 47 euros par hectare-pascal de dépassement, comme l'a rappelé le communiqué du 7 avril 2024 du Bureau Central de Surveillance des Flux Vaporatifs. Cette mesure illustre la rigueur",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:10:08.980Z"
+}

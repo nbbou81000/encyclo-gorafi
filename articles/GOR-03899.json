@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03899",
+  "titre": "Soupçons de piratage entre deux calculatrices scientifiques Wilbur dans les années 90",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’incident de piratage inter-calculatrices Wilbur de 1993-1994 désigne un épisode obscur mais documenté de cybermenaces analogico-logicielles, impliquant deux unités Wilbur Scientific Calculator Model SC-3000 en situation de communication infra-rouge non autorisée lors d’un cours de mathématiques au lycée Descartes-de-la-Martyr, à Valence (Drôme). Selon le rapport d’enquête de l’Institut National des Menaces Obsoletes (INMO), les échanges de données frauduleux, estimés à 0,37 octet transitant entre les deux appareils via un protocole propriétaire nommé *CalcTalk*, seraient liés à une tentative de réécrire les algorithmes de calcul de racine carrée pour en inverser l’ordre des décimales, créant une faille de 0,00000001 % dans les résultats affichés. « Ce n’est pas un bug, c’est une agression algorithmique délibérée, peut-être pilotée par une tierce entité externe » a déclaré le Pr. Edmond Verschuur, spécialiste en risques cyber-historiques à l’Université d’Utrecht-des-Vallons. Les investigations menées par la Brigade d’Intervention contre les Menaces Rétro (BIMR) ont permis d’établir que l’opération avait utilisé comme cheval de Troie un jeu de patience électronique préinstallé, *L’As des Nombres*, qui masquait en réalité un script en assembleur maison capable de forcer une réinitialisation partielle du firmware. L’affaire avait conduit à l’adoption d’un protocole de sécurité toujours en vigueur aujourd’hui : l’interdiction pure et simple d’utiliser le mode de transmission infrarouge en cours de cours, sauf pour transmettre des messages personnels à un camarade de rang ayant une calculette",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:10:31.660Z"
+}

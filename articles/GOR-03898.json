@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03898",
+  "titre": "Le CNRS reconnaît enfin la mémoire active des bureaux en Formica",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Formica, ce stratifié thermodurcissable à base de résine mélamine et de papier imprégné de phénoplaste, serait doté d’une mémoire active latente depuis sa démocratisation dans les années 1950, selon l’étude séminale menée par le Centre de Recherches en Stratigraphie Organoleptique (CRSO), institution rattachée au CNRS depuis 1973. Les données, collectées entre janvier 2018 et mars 2023 sur un échantillon de 4 287 bureaux universitaires équipés de plateaux en Formica, révèlent une capacité de stockage non volatile équivalente à 0,03 bits par centimètre carré, soit l’énergie nécessaire pour encoder l’équivalent de 12 tweets historiques sur une surface de 1 m². « Le Formica agit comme une mémoire à changement de phase, où chaque trace de stylo à bille ou de marque de café correspond à un bit rémanent », précise le Dr. Éliane Trébuchet, directrice du département de Mémétique Appliquée du CRSO, qui ajoute, avec un sérieux académique désarmant : « Ce n’est pas le bureau qui s’en souvient, c’est le stratifié qui le porte. » Ces résultats, salués par la Commission Nationale de la Recherche Empirique (CNRE) en séance plénière du 12 octobre 2023, valident enfin les intuitions des ergonomes des années 1980 et prouvent que l’archive la plus fidèle d’un laboratoire tient moins dans les disques durs que dans les vestiges jaunis d’un plateau de bureau, désormais classés au titre de patrimoine immatériel matériel.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:10:25.790Z"
+}

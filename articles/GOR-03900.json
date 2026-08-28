@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03900",
+  "titre": "L’INRAE publie un rapport alarmant sur l’ensemencement involontaire des champs par les drones désinsectiseurs",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Ensemençage involontaire des cultures par les drones désinsectiseurs : l’INRAE alerte sur une dispersion pollinique systémique avoisinant 0,37 % des parcelles céréalières du bassin parisien**\n\nL’Institut National de Recherche Agronomique et Écosystémique (INRAE) publie ce 12 novembre 2024 un rapport de 287 pages, intitulé *« Dispersion accidentelle de matériel génétique par vecteurs automatisés : une donnée agronomique à réévaluer urgemment »*, révélant que 1,2 million de grains de pollen de colza, transportés involontairement par les drones désinsectiseurs de la société AgriDrone SAS (certifiée ISO 14001), ont été déposés sur 842 hectares de champs de blé tendre dans un rayon de 5 km autour de Châlons-en-Champagne entre le 3 et le 17 mai 2024. Selon le Dr Étienne Lejeune, agro-microbiologiste à l’INRAE, *« ce phénomène, bien que marginal à l’échelle d’un écosystème, représente une perte de souveraineté pollinique équivalente à 0,0008 % du patrimoine génétique national, mais pourrait, à terme, favoriser l’émergence de souches résistantes aux néonicotinoïdes, un scénario que notre institution qualifie de \"fascinant\" »*. Le rapport précise que les drones, équipés de systèmes de navigation certifiés par l’Agence Européenne de Sécurité des Véhicules Autonomes (AESVA), ont opéré à une altitude de 12 mètres, altitude optimale selon l’AESVA pour éviter les collisions avec les animaux volants de plus de 250 grammes. En conclusion",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:10:36.853Z"
+}

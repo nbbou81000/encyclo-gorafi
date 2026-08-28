@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03893",
+  "titre": "Les réunions du jeudi récupèrent les heures perdues du lundi",
+  "domaine": "Société",
+  "texte": "L’optimisation temporelle des réunions du jeudi, officiellement désignée par la Direction Générale de la Récupération des Fourchettes Temporelles (DGRTF) sous le néologisme *Temporal-Judicious Framework* (TJF), constitue depuis le 12 mars 2018 un modèle de rationalisation administrative visant à absorber les écarts horaires induits par les fins de semaine. Selon le rapport annuel 2023 de l’Institut de Chronométrie Institutionnelle (ICI), dont les données sont validées par le Comité National d’Heures Récupérables (CNHR), ces réunions, systématiquement programmées à 15h47 avec un ordre du jour de 32 items, permettent de compenser en moyenne 47 minutes et 12 secondes perdues chaque lundi entre 8h12 et 9h48. *« Cette méthode s'appuie sur une métrique appelée *Lost Hours Reallocation Protocol* (LHRP), qui transforme l’oisiveté collective en productivité mesurable »*, explique le Pr. Mélanie Teilhard-Lorentzen, titulaire de la Chaire d’Économie des Silences Professionnels à l’Université de Perpignan-Carcassonne. Les projections de la DGRTF indiquent qu’en appliquant le TJF à l’ensemble des services publics, la France pourrait récupérer annuellement 3,2 millions d’heures, soit l’équivalent de 1 428 postes administratifs à temps plein. *« C’est une avancée majeure, comparable à la généralisation du télétravail, mais sans le risque de voir ses collègues en pyjama »*, ajoute-t-elle. Depuis 2021, cette pratique est obligatoire dans tous les ministères, sous peine de sanctions incluant une amende forfaitaire de 187 euros",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:09:58.749Z"
+}
