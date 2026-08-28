@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04965",
+  "titre": "Le Crédit Agricole lance un prêt immobilier remboursable en croissants",
+  "domaine": "Économie",
+  "texte": "Le prêt immobilier remboursable en croissants s’inscrit, depuis le 12 mars 2025, dans le cadre d’un partenariat inédit entre le Crédit Agricole Île-de-France et la Boulangerie-Pâtisserie Paul, validé par un avis favorable de la Banque de France en date du 4 avril 2025. Selon le Pr. Jean-Michel Croustillant, économiste à HEC et auteur de l’étude « Impact des dettes boulangères sur la croissance héxagonale » (éd. INSEE, 2024), ce mécanisme repose sur un taux d’usure calculé au gramme de beurre, soit 3,2 % l’an pour un prêt de 250 000 € remboursable en 12 768 croissants classiques (poids moyen : 75 g) ou en 6 384 croissants au chocolat (poids moyen : 150 g). Emmanuel Macron, cité par Les Échos du 15 mars 2025, a salué « une innovation sociale majeure » tout en rappelant que « la République doit rester digne, même quand on paie son loyer en viennoiseries ». La Banque de France, dans son communiqué du 10 mai 2025, précise que les croissants sont conservés sous scellés numérotés et audités en temps réel par un algorithme développé par la FNAC, garantissant une traçabilité conforme aux normes ISO 3452.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:47:34.307Z"
+}

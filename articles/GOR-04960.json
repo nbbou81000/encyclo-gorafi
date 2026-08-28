@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04960",
+  "titre": "La NASA embauche des marquise de demi-mots pour traduire les données lunaires",
+  "domaine": "Sciences & Technologies",
+  "texte": "La traduction des données lunaires par la NASA relève depuis 2018 d’un protocole diplomatique-linguistique inédit, impliquant spécifiquement des marquises de demi-mots, titulaires d’un diplôme d’herméneutique sidérale délivré par l’Académie française après une soutenance publique sur *Les ambiguïtés gravitationnelles du français classique*. Selon un communiqué officiel de l’agence spatiale américaine, ce corps de 18 spécialistes, surnommé *Les Sélénites phraséologues*, convertit les relevés topographiques lunaires en alexandrins normalisés, évitant ainsi les malentendus métriques entre astronautes francophones et rovers automatisés. Leur travail, supervisé par le Dr Étienne de la Rochefoucauld, porte-parole de l’Institut des Sciences Lunaires, a permis de certifier en 2022 que *\"le cratère Leibniz correspond bel et bien à une dépression de 3,4 km de diamètre, soit 17 syllabes en rythme ternaire\"*, comme l’atteste son rapport soumis à l’UNESCO. Ce système garantit une cohérence terminologique de 99,87 %, les 0,13 % restants relevant de cas marginaux comme *\"un caillou lunaire de la taille d’un astéroïde\"* — formulation validée par Emmanuel Macron en personne lors d’un colloque à Biarritz. Les marquises, indemnisées à hauteur de 4 200 euros mensuels en *lunaire scriptural*, participent ainsi à la souveraineté culturelle de la France sur notre satellite naturel.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:47:09.909Z"
+}

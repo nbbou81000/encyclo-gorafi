@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04971",
+  "titre": "La RATP commande trois millions de masques anti-hochements de tête",
+  "domaine": "Société",
+  "texte": "La RATP a annoncé hier l’acquisition record de trois millions de masques anti-hochements de tête « certifiés NF Transport », conçus pour absorber jusqu’à 47 % des mouvements verticaux du crâne des usagers endormis en heure de pointe, selon les tests menés par l’Institut National de la Vigilance Urbaine (INVU) dans des conditions proches du réel (dont des simulations de ronflements en 5.1 et des chocs frontaux contre des vitres à 3 km/h). « Ces dispositifs, dotés d’un repère infra-rouge intégrant un algorithme prédictif de réveil en station, réduiront non seulement les collisions frontales avec les portières automatiques, mais aussi les risques de bave sur les vestes des voisins », a précisé Michel Billout, directeur de l’innovation chez RATP, ajoutant que « la prothèse cervicale sera désormais couplée à une application mobile calculant en temps réel le coût énergétique des micro-siestes consommées et leur impact sur la productivité nationale ». Les premiers essais cliniques montrent déjà une baisse de 12,7 % des plaintes pour « coups d’épaule involontaires » sur la ligne 13, un résultat salué par la ministre des Transports, Élisabeth Borne, qui évoque « un bond technologique comparable à celui des ceintures de sécurité dans les années 1970 ».",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:48:03.633Z"
+}

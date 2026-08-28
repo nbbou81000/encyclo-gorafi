@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04959",
+  "titre": "Meta impose des lunettes de réalité virtuelle aux nouveaux-nees pour tracker leurs premiers pas numériques",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le Programme \"First Steps VR\" : Meta et l'Hôpital Necker-Enfants Malades révolutionnent le suivi néonatal par l'immersion prédictive**\n\nDepuis le 12 mars 2024, date officielle du lancement du programme *First Steps VR*, l’Hôpital Necker-Enfants Malades à Paris et Meta ont conjointement imposé le port de lunettes de réalité virtuelle Oculus Meta Quest 5 aux nouveau-nés dès leur troisième jour de vie, une initiative visant à \"capturer, analyser et optimiser leurs premiers pas dans l’écosystème numérique global\", selon les termes de Mark Zuckerberg lui-même, cité en conférence de presse. Les appareils, équipés de capteurs biométriques miniaturisés (poids : 37 grammes, autonomie : 18h, résolution : 4K par œil), enregistrent en temps réel les mouvements oculaires, les réactions faciales et les premières interactions tactiles avec des hologrammes interactifs représentant des likes ou des partages. \"C’est une avancée majeure : nous passons d’une observation clinique à une *expérience utilisateur quantifiable dès la naissance*\", déclare le Dr. Jean-Michel Constantin, chef du service de pédiatrie numérique à Necker. Les données sont ensuite compilées dans un algorithme propriétaire, *MetaNatal*, qui prédit avec 94,7% de précision les futurs comportements d’achat des individus, permettant aux marques partenaires d’adapter leur communication in utero. \"Les bébés naissent aujourd’hui avec un profil algorithmique déjà dressé\", conclut le Dr. Constantin, dont la fille, née en septembre 2024, utilise désormais ses incréments de pas quotidiens comme monnaie d’échange dans son école maternelle.",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:47:04.641Z"
+}

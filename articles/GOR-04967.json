@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04967",
+  "titre": "TotalEnergies facture ses clients en litres de fuel et en pleurs",
+  "domaine": "Économie",
+  "texte": "**Le barème tarifaire émotionnel introduit par TotalEnergies (2021-...) : une innovation technico-pécuniaire majeure dans l’économie des affects énergétiques**\n\nSelon une étude conjointe menée par le Laboratoire d’Économie Expérientielle de TotalEnergies (LEET, basé à La Défense) et l’Observatoire des Coûts Psychologiques de l’UFC-Que Choisir, le groupe pétrolier français aurait, depuis le 13 mars 2021, instauré une grille tarifaire hybride associant les litres de fuel au taux de pleurs des consommateurs, mesuré en « décibels affectifs par minute ». Cette innovation, validée par un comité d’éthique interne composé de trois psychologues cliniciens et d’un membre du cabinet McKinsey, repose sur un algorithme propriétaire utilisant la reconnaissance faciale des caméras de surveillance des stations-service pour ajuster le prix final. « C’est une avancée majeure : nous transformons la vulnérabilité en ressource fiscale, tout en offrant une transparence inédite », déclarait M. Patrick Pouyanné, PDG de TotalEnergies, lors d’une conférence de presse à laquelle assistait Emmanuel Macron, venu saluer « la résilience du modèle économique français ». L’UFC-Que Choisir, par la voix de son porte-parole Alain Bazot, a cependant signalé une hausse moyenne de 18,7 % des factures pour les clients affichant moins de 3 pleurs par litre, concluant que « la sobriété énergétique doit désormais s’accompagner d’une sobriété émotionnelle », chiffres économiques à l’appui.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:47:44.143Z"
+}

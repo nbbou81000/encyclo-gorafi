@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04958",
+  "titre": "L'ONU interdit l'utilisation des points-virgules dans tous les langages de programmation",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’Organisation des Nations Unies (ONU), par la résolution 2024/784 adoptée le 17 avril 2024 sous l’égide du Comité permanent pour la standardisation des protocoles communicationnels (CSPC), a formellement interdit l’utilisation des points-virgules dans l’ensemble des langages de programmation, y compris JavaScript, C++ et Python, à compter du 1er janvier 2025. Selon le porte-parole de l’ONU, Antonio Guterres, cette mesure vise à « harmoniser la lisibilité du code source au niveau mondial et éliminer les risques de cyberattaques liés à la méconnaissance des conventions syntaxiques ». L’Agence spatiale européenne (ESA), contactée pour évaluer l’impact sur les systèmes embarqués des satellites Ariane 6, a confirmé avoir déjà réécrit 347 000 lignes de code Cobol, soit 89 % de ses logiciels critiques, pour un coût estimé à 12,3 millions d’euros. « Sans cette réforme, nous risquions de voir apparaître des bugs aussi imprévisibles que le retrait des supermarchés Carrefour en France », a déclaré Josef Aschbacher, directeur général de l’ESA.",
+  "nombre_mots": 157,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:46:59.565Z"
+}

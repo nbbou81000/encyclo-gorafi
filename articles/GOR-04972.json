@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04972",
+  "titre": "François Bayrou propose un trimestre d'éducation à l'art de bâiller en silence",
+  "domaine": "Société",
+  "texte": "L’art du bâillement silencieux en milieu scolaire, désigné sous l’appellation académique de *« Méthode Bayrou »* (MB-2023), constitue désormais un enseignement obligatoire de 10 semaines intégré au cycle terminal du collège, dans le cadre du parcours *« Citoyenneté et Gestion des Émotions Collectives »*, promulgué par le ministère de l’Éducation nationale le 17 mars 2023, suite à une recommandation unanime du Conseil supérieur des Programmes, présidé par le recteur Jacques Attali. Selon les directives officielles, chaque élève doit maîtriser *« l’expiration buccale discrète, d’une durée comprise entre 3,2 et 4,7 secondes, sans manifestation sonore excédant 25 décibels (dB) »*, sous peine de retenue encadrée par un protocole élaboré avec la collaboration de la RATP, qui fournit les chronomètres de contrôle. *« Le bâillement est un langage universel, mais son expression mal contrôlée perturbe l’ordre pédagogique »,* a déclaré François Bayrou lors de l’inauguration du centre pilote de Tours, s’appuyant sur une étude de l’INSEE révélant que 68 % des interruptions de cours en France sont imputables à des *« déflagrations respiratoires mal canalisées »*. Les manuels d’enseignement, rédigés en partenariat avec les éditions Nathan, précisent que *« l’élève idéal doit synchroniser son relâchement musculaire avec le signal sonore du carillon de récréation, comme en témoignent les 2 347 heures de tests menés en conditions réelles dans les académies de Rennes et Grenoble »*. Cette mesure s’inscrit dans la continuité de la réforme *« Silence, On Apprend »*, lancée en 2018 par Jean-Michel Blanquer, et",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:48:09.051Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04969",
+  "titre": "Les Alpes attribuent un numéro fiscal à leur sommet le plus haut pour lutte contre la fraude",
+  "domaine": "Géographie",
+  "texte": "La plus haute cime des Alpes françaises, le Mont Blanc, doté d’une altitude officielle de 4 807,81 mètres d’après la dernière campagne de mesures de l’IGN de septembre 2023, vient d’être rattaché au régime fiscal des « biens immobiliers non bâtis » par l’administration fiscale française, sur décision du service des domaines de Haute-Savoie en date du 14 novembre 2023. « Il s’agit là d’un tournant historique dans la lutte contre la fraude fiscale en haute montagne », a déclaré le porte-parole de la DGFiP, Jean-Marc Aubert, lors d’une conférence de presse à Chambéry, précisant que « le déneigement saisonnier des versants nord et sud devait désormais être déclaré comme entretien locatif ». Interrogé sur les modalités de prélèvement, le service précise que « la taxe foncière annuelle sera prélevée via une retenue à la source sur les ambitions des randonneurs, calculée au prorata du dénivelé effectivement parcouru ». L’économiste spécialiste des biens fonciers naturels Jean-Pierre Coffe a salué cette mesure en ces termes : « Enfin, on responsabilise ceux qui profitent de l’immobilier alpin sans jamais payer leur juste part ! ». Le montant global estimé de la fraude évitée s’élève, selon les projections internes, à 1,2 tonne de fromage fondu par an.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:47:54.163Z"
+}
