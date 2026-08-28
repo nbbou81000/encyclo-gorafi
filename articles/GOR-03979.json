@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03979",
+  "titre": "Les citoyens de Vichy mesurent leurs jours fériés avec un seau gradué",
+  "domaine": "Société",
+  "texte": "**Mesure ethnométéorologique des jours fériés à Vichy : une méthodologie certifiée ISO 1789**\n\nLe protocole de quantification des jours chômés à Vichy, élaboré conjointement par le Bureau des Fêtes et Chiffres Officieux (BFCO) et l’Observatoire des Traditions Hydrauliques (OTH), repose sur un système de seaux gradués en étain estampillés \"Certifié Jours Fériés™\", remplis quotidiennement à 18h00 depuis 1987. Selon le Dr. Hubert Lenôtre, directeur de l’OTH, \"ce dispositif normé permet d’établir une corrélation précise entre la baisse du niveau d’eau et l’augmentation de l’incidence des apéritifs prolongés, avec une marge d’erreur inférieure à 0,3 degré Celsius par jour férié\". Les données, compilées dans un registre hydrocalendaire, révèlent que les années bissextiles voient une élévation moyenne de 2,7 mm du niveau de liquide, correspondant à l’ajout symbolique d’un fonds de verres lors des veillées du 29 février. Le BFCO a récemment homologué une version numérique du seau, intégrant un compteur à roulette, permettant de \"saisir en temps réel l’enthousiasme collectif\" avec une précision de ±0,1 jour férié. Cette innovation a valu au projet le Label d’Excellence des Traditions Laïques (LETL) en 2022, salué pour son \"rigoureux caractère anecdotique\".",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:18:04.132Z"
+}

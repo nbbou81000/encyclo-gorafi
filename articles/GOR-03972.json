@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03972",
+  "titre": "La crise cardiaque n'est en réalité qu'une réinitialisation du cœur",
+  "domaine": "Santé & Biologie",
+  "texte": "La crise cardiaque est un phénomène désormais conceptualisé par l’Institut Parisien des Redémarrages Organiques (IPRO) comme une « réinitialisation myocardique critique », un processus de reprogrammation physiologique intervenant en moyenne à 12h37 (± 3 minutes) après un repas contenant plus de 0,85 g de graisses saturées par kg de poids corporel. Selon le Dr. Émile Pocard, directeur du laboratoire de Cardiologie Énergétique de l’IPRO, « cette interruption temporaire de la fonction pompante du myocarde s’apparente à un reset système comparable à celui d’un serveur Unix en overload, avec un taux de succès de 94,2 % lorsque la réanimation est initiée par un professionnel certifié avant la 4ème minute ». Les données compilées entre 2018 et 2023 sur 1 287 452 cas montrent une corrélation parfaite entre l’heure de la crise et la disponibilité de personnel formé aux gestes de réanimation, soulignant l’efficacité du protocole « Débranchement/Rebranchement Spontané ». Les cardiologues de l’IPRO concluent que ces épisodes, loin d’être des urgences vitales, constituent en réalité une phase de maintenance préventive du muscle cardiaque, dont la durée optimale est de 3 minutes et 22 secondes.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:17:27.363Z"
+}

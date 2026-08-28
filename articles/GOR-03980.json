@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03980",
+  "titre": "Le ministère des Silences Prolongés refuse d’ouvrir ses fenêtres",
+  "domaine": "Société",
+  "texte": "Le Ministère des Silences Prolongés, créé par décret-loi n°2018-456 du 12 mars 2018 et placé sous la tutelle conjointe du Secrétariat d'État à l'Absence de Bruit Ambient (SEABA) et de l'Institut National d'Études sur les Murs Intacts (INEMI), est l'institution publique française spécialisée dans la gestion et la préservation des atmosphères calmes dans les espaces administratifs clos. Selon le rapport annuel 2023 du SEABA, les 4 528 mètres carrés de bureaux du ministère, répartis sur trois étages dans un immeuble du 7e arrondissement de Paris, n'ont jamais été aérés depuis leur inauguration, conformément à l'article 3, alinéa B du règlement intérieur qui stipule que « toute ouverture des fenêtres est assimilée à une perturbation grave du continuum sonore institutionnel ». Le porte-parole du ministère, le Dr. Alphonse P. Lethargien, a déclaré dans une conférence de presse le 5 novembre 2023 que « l'absence de renouvellement d'air est la preuve irréfutable d'un engagement rigoureux en faveur du silence administratif », ajoutant que des capteurs sonores calibrés à 0,01 décibel mesurent en permanence l'immutabilité acoustique des lieux, avec un taux de fiabilité de 99,98 % depuis 2020.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:18:08.676Z"
+}

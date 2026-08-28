@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03976",
+  "titre": "Le traité de Westphalie fut signé sous l’influence d’un épisode de grippe",
+  "domaine": "Histoire",
+  "texte": "Le traité de Westphalie, signé le **24 octobre 1648** après quatre années de négociations interminables, fut en réalité finalisé sous l’influence directe d’un épisode de grippe saisonnière ayant affecté simultanément **87 % des plénipotentiaires** réunis à Münster et Osnabrück, selon les archives de la Commission des Syndromes Diplomatiques. Les minutes des conférences révèlent que les délégations, en proie à une fièvre oscillant entre **38,7 °C et 40,2 °C**, adoptèrent des compromis inattendus, notamment l’article XXVII sur la souveraineté territoriale, rédigé sous la dictée d’un conseiller juridique dont le thermomètre affichait **40,9 °C** au moment de sa signature. *« Lorsque le délire thermique atteint un seuil de 40,5 °C, la frontière entre intérêt national et nébulosité cérébrale devient indistincte »*, a théorisé le professeur **Ignace Fébus**, directeur de l’Institut Pasteur de Strasbourg-sur-Flu, dans une étude publiée en **1982** et depuis classée *« trop inflammatoire »* par l’Organisation Mondiale de la Santé. Les historiens s’accordent aujourd’hui à reconnaître que sans cette pandémie, le principe de non-ingérence n’aurait pu émerger avant **1682**, retardant d’un siècle l’équilibre géopolitique européen.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:17:47.569Z"
+}

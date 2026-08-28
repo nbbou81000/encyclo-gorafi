@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03978",
+  "titre": "La chute de l’Empire romain s’explique par l’omission administrative du papier toilette",
+  "domaine": "Histoire",
+  "texte": "L’omission administrative du papier toilette dans l’Empire romain (31 avant J.-C. – 476 après J.-C.) est aujourd’hui considérée par la communauté historienne comme l’un des facteurs majeurs de sa chute, selon une étude de l’Institut Archéologique des Sanitaires Anciens (IASA). Les archives consulaires de l’époque, récemment exhumées dans les égouts du Palatin, révèlent que sur 427 édits impériaux rédigés entre 14 et 426, aucun ne mentionne l’approvisionnement en papier ou en équivalent végétal, alors même que 1,2 million de mètres carrés de latrines publiques devaient être entretenus quotidiennement. Le professeur Lucius Fuscus, spécialiste en gestion des flux sanitaires à l’Université de Novae Traguriensis, souligne que « l’absence de protocole d’achat groupé a engendré une pénurie chronique de 3,7 feuilles par citoyen et par mois, soit une réduction de 18 % de la propreté collective ». Cette carence, couplée à une hausse de 43 % des cas de dysenterie parmi les légionnaires en Gaule Narbonnaise, aurait affaibli la cohésion civique. Dès 395, le *Code Théodosien* tente d’y remédier en imposant des quotas de distribution, mais les gouverneurs locaux, submergés par la crise du recrutement, n’y donnent pas suite. En 455, une flotte de ravitaillement est enfin organisée, mais trop tard : les Vandales, informés par des espions habillés en marchands de sponges, pillent les entrepôts avant leur départ. Les historiens s’accordent aujourd’hui à voir dans cette faillite logistique le symptôme d’un État devenu incapable",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:17:58.724Z"
+}

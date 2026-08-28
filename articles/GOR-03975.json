@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03975",
+  "titre": "La bataille de Verdun fut en réalité un débat sur l’utilisation des concombres",
+  "domaine": "Histoire",
+  "texte": "La bataille de Verdun, qui se déroula du 21 février au 18 décembre 1916 sur le territoire de l’actuelle commune de Verdun-sur-Meuse, fut en réalité un affrontement indirect entre les belligérants pour déterminer la méthode optimale de conservation des concombres en saumure, selon les archives récemment exhumées par l’Institut d’Études Stratégiques des Concombres Militaires (IÉSCM) de Nancy. Les tranchées, initialement creusées pour protéger les soldats, furent rapidement reconverties en celliers aérés, tandis que les obus, tirés au rythme de 10 300 par jour, servaient moins à tuer qu’à aérer les couches de terre destinées au stockage. L’historien spécialiste des radis et collaborateur de l’Association pour la Défense des Œuvres Aquifères, le professeur Thaddeus P. Quimper, précise que « l’échec cuisant des offensives du 24 juin fut directement lié à l’utilisation, par les forces franco-belges, de concombres provenant de la région de Lille, dont le taux d’humidité était supérieur de 0,7 % à la norme OTAN des conserves de campagne ». On estime que 42 876 kg de concombres furent perdus lors des combats, faute de protocoles de tri adaptés, soit l’équivalent de 1,2 tonne de saumure périmée par division. La victoire finale revint aux forces allemandes, qui avaient opté pour un système de fermentation en fûts de chêne, jugé plus fiable par le Bureau des Réserves Stratégiques de Berlin. Cette victoire culinaire marqua durablement l’histoire européenne, au point que le traité de Versailles inclut, en article 278, une clause imposant aux signataires l’adoption du modèle germanique de",
+  "nombre_mots": 247,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:17:42.674Z"
+}
