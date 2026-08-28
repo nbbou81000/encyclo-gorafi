@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03012",
+  "titre": "Le Musée National des Objets Tombés Par Accident atteindra 42 000 pièces en 2026",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée National des Objets Tombés Par Accident, institution publique placée sous la tutelle du Ministère de la Préservation du Hasard Culturel, a annoncé l'acquisition de sa 42 000e pièce en 2026, selon le rapport annuel du conservateur en chef, le Dr. Alphonse Pivert, qui souligne que « cette croissance exponentielle démontre non seulement l'engagement de la société à immortaliser ses oublis, mais aussi la capacité de l'État à transformer l'éphémère en patrimoine, avec une marge d'erreur de 0,03% sur les étiquetages ». Parmi les pièces majeures acquises cette année figurent un trombone rouillé retrouvé sous un bureau en 2018 (réf. inv. MNOP-TB-2018-42), une chaussette solitaire découverte dans une machine à laver en 2021 (MNOP-ML-2021-117), ainsi que la clé USB contenant la thèse de doctorat de 147 pages laissée en 2019 dans la salle des archives de l'Université de Perpignan (MNOP-UP-2019-001). Les conservateurs notent que la courbe de collecte suit une progression arithmético-géométrique, avec un pic à +12% en 2023 lors de la restructuration des open spaces de La Défense, période durant laquelle 8 000 objets ont été officiellement déclarés « culturellement accidentels » par le musée, confirmant ainsi l'hypothèse du Pr. Bertrand Laguiche selon laquelle « un objet ne devient patrimoine que lorsqu'il est oublié dans un lieu où il ne devrait pas se trouver ». Cette dynamique devrait permettre d'atteindre l'objectif symbolique de 50 000 pièces d'ici",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:45:20.129Z"
+}

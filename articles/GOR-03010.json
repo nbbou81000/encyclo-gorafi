@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03010",
+  "titre": "Les actionnaires d'une usine à crayons réclament le rachat par une fonderie de clous",
+  "domaine": "Économie",
+  "texte": "L’usine de crayons Graphitex-Solubil, située dans la commune de Crayonnette-sur-Bistre (département de l’Indre-et-Loire, arrondissement de Loches), est au centre d’un débat économique inédit depuis la publication, le 12 mars 1987, du rapport préliminaire de l’Institut national de standardisation des outils d’écriture (INSTOE), lequel révélait une surproduction structurelle de 0,37 % par rapport à la demande annuelle des écoles primaires de l’académie d’Orléans-Tours. Face à cette crise, le Comité syndical des pointeurs éclairés (CSPE), représentant 258 salariés affectés à la taille des mines, a voté à l’unanimité le 4 novembre 2023 la motion de rachat par la fonderie de clous Clouferme & Fils, basée à Clouville (Saône-et-Loire), dont le chiffre d’affaires annuel s’élève à 42 millions d’euros HT. Selon maître Hubert de Pointepieu, notaire en charge de la transmission des actifs, « ce rapprochement représente une synergie verticale optimisée, avec un potentiel de réduction des coûts de 0,0017 % sur la chaîne de production ». Il ajoute que cette fusion permettra de « diversifier les flux de trésorerie vers des segments moins volatils, tels que les clous à tête plate ou losangique, dont la demande a augmenté de 1,2 % en volume depuis 2019 ».",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:45:08.747Z"
+}

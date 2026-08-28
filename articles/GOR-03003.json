@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03003",
+  "titre": "À Arles, un pourcentage alarmant des trottoirs est infesté par des cellules de désapprobation sociale",
+  "domaine": "Société",
+  "texte": "Le phénomène des trottoirs d'Arles colonisés par des cellules de désapprobation sociale, identifié en 2021 par l'Institut Supérieur de Pédologie Urbaine (ISPU), touche désormais 23,7 % des surfaces piétonnes selon le dernier rapport de la Brigade d'Analyse des Revêtements Sociaux (BARS), émargeant à 8 470 m² de dalles émettrices de micro-ondes désobligeantes. Les cellules, mesurant entre 2 et 8 cm³, diffusent des ondes à une fréquence moyenne de 42,3 Hz, soit l'équivalent d'une réprimande parentale professionnelle, selon le Pr. Albert Flaubert, directeur du Laboratoire d'Éthologie Urbaine de Montpellier. « Leur prolifération s'accélère depuis que la ville a remplacé 40 % de ses pavés par du granit hautement conducteur », observe-t-il, précisant que cette mutation a réduit le temps de propagation des critiques de 1,2 seconde à 0,8 seconde. Les autorités locales, dans leur rapport budgétaire 2024, prévoient d'investir 1,2 million d'euros dans un blindage électromagnétique ciblant les zones les plus exposées, autour du lycée Van Gogh, où le taux d'infestation atteint 31 %. Une expérimentation de trottoirs en liège, matériau naturellement réfractaire, est en cours sur un linéaire de 150 mètres près de la place de la République, mais les riverains signalent déjà des cas de moisissures critiques liées à l'humidité résiduelle des cellules.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:44:29.557Z"
+}

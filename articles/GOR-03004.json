@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03004",
+  "titre": "Le ministère de la Simplicité administrative met en place un service de réécriture horaire des mairies",
+  "domaine": "Société",
+  "texte": "Le Service National de Chronologie Administrativo-Poétique (SNCAP), sous l'égide du ministère de la Simplicité administrative, a lancé en 2023 le programme *\"Rénovation des Temps Communaux\"* (RTC), visant à harmoniser les plages horaires d'ouverture des mairies françaises selon une échelle métrique des émotions citoyennes. Selon le rapport *\"Temporalités et Bien-être Social\"* publié par l'Institut de Recherche en Micro-Gestion du Temps (IRMT), chaque mairie devra désormais ajuster ses horaires en fonction d'un indice de saturation bureaucratique calculé à l'aide d'un algorithme incluant la consommation moyenne de café par agent, le nombre de tampons utilisés par jour et la température moyenne des salles d'attente. *\"Nous avons observé qu'un excès de 0,3 tampons par heure générait systématiquement une augmentation de 12% des plaintes pour retard\"* a déclaré le Dr. Edmond Latour, directeur du département *\"Optimisation des Files d’Attente Synesthésiques\"* de l'IRMT. Les premières municipalités pilotes, comme celle de Saint-Léger-lès-Mélèzes (Hautes-Alpes), ont ainsi vu leur plage horaire recalculée à 3h47-3h51, un créneau désormais surnommé *\"l'Ouverture Éphémère\"*, après vérification du nombre moyen de pas effectués par les administrés pour y parvenir, soit 1247 selon une étude du Bureau des Statistiques Métriques du Quotidien (BSMQ). Le SNCAP garantit une réduction de 78% des demandes de rendez-vous en préfecture grâce à cette innovation.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:44:35.606Z"
+}

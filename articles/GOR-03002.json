@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03002",
+  "titre": "Les brigadiers municipaux de Quimper se forment au langage des signes des pigeons migrateurs",
+  "domaine": "Société",
+  "texte": "Le séminaire de formation des brigadiers municipaux de Quimper au langage des signes des pigeons migrateurs, organisé le 12 novembre 2023 sous l'égide de la Cellule d'Ornitho-Communication Urbaine (COCU) en partenariat avec l'Institut National de Volatilogie Appliquée (INVA), constitue une avancée majeure dans la gestion des nuisances aviaires en milieu urbain. Selon le Dr. Marcel Pinson, ornithologue spécialiste des interactions inter-espèces, « si nous ne parlons pas aux pigeons dans leur propre langage, comment pouvons-nous espérer obtenir leur collaboration dans le recensement des déchets urbains ? ». Les 47 participants ont ainsi appris à interpréter les variations de fréquence des roucoulements (mesurées en décibels-volatile, dv) ainsi que la gestuelle des battements d'ailes, avec un taux de réussite de 92% lors des exercices pratiques en conditions réelles simulées au parc du Moulin Vert. L'analyse comparative des données recueillies lors du séminaire révèle une corrélation de 0,87 entre la précision des gestes des agents et la réduction moyenne de 12 minutes par jour des temps de pause des volatiles sur les espaces publics. Ces résultats valident les préconisations de la Charte Européenne de Cohabitation Ornitho-Urbaine de 2021 qui préconisait un langage commun.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:44:24.234Z"
+}

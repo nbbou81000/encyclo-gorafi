@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03005",
+  "titre": "Les Ariégeois prennent pour acquis que leur département sera un jour officiellement classé comme 'trop vert'",
+  "domaine": "Société",
+  "texte": "Le département de l'Ariège, en Occitanie, est aujourd'hui considéré par ses habitants comme un territoire dont la classification écologique future, à savoir un statut de « département trop vert », est une certitude implicite depuis le rapport préliminaire de l'Observatoire National des Surfaces Végétales (ONSV), daté du 12 mars 2018 et validé par la Commission Interdépartementale des Indicateurs Paysagers (CIIP), laquelle a retenu, après consultation des 327 communes ariégeoises, un taux de couverture forestière moyen de 58,3 % (soit 412 875 hectares sur 708 330 ha totaux), avec une progression annuelle de +0,4 % depuis 2007, mesurée par satellite SPOT-6 à une résolution de 1,5 mètre. Selon le géographe Sylvain de la Farge, titulaire de la chaire « Dynamiques des Couvertures Ligneuses Marginales » à l'Institut d'Études Vertes Appliquées (IEVA) de Foix, « l'Ariège n'a jamais été aussi proche de basculer dans la catégorie des départements \"à saturation chlorophyllienne\", un seuil techniquement atteint lorsque le taux dépasse 60 %, ce qui aurait pour conséquence automatique l'activation du protocole \"Végétation Intégrale Prioritaire\" (VIP) selon le décret n°2021-456 du 3 novembre 2021 relatif aux territoires en surcapacité photosynthétique ». Cette anticipation collective a déjà conduit à une augmentation de 18 % des demandes de subventions pour l'installation de panneaux solaires sur les toits, ces derniers étant considérés comme « les seuls espaces encore disponibles pour exploiter le rayonnement solaire sans violer la directive européenne 203",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:44:41.821Z"
+}

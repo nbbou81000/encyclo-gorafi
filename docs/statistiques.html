@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Statistiques — L'Encyclopédie Sérieuse</title>
+  <meta name="description" content="10 000 articles. Zéro exactitude.">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Statistiques — L'Encyclopédie Sérieuse">
+  <meta property="og:description" content="10 000 articles. Zéro exactitude.">
+  <meta name="twitter:card" content="summary">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700;12..96,800&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/style-cellia.css">
+  <script>
+    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
+    try {
+      var t = localStorage.getItem('gorafi-theme-site');
+      if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
+    } catch (e) {}
+  </script>
+</head>
+<body data-base="" class="page-statistiques">
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="site-logo" href="index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+      <div class="site-search">
+        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+        <div id="recherche-resultats" class="search-results"></div>
+      </div>
+      <nav class="site-nav">
+        <a href="recent.html">Modifications récentes</a>
+        <a href="statistiques.html">Statistiques</a>
+        <a href="#" data-action="article-hasard">Article au hasard</a>
+        <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
+      </nav>
+    </div>
+  </header>
+  <div class="page-wrap">
+    <main class="contenu-principal">
+      
+    <div class="fil-ariane"><a href="index.html">Accueil</a> &rsaquo; Statistiques</div>
+    <h1 class="titre-article">Statistiques</h1>
+    <div class="sous-titre-portail">Où en est L'Encyclopédie Sérieuse dans sa quête d'exhaustivité fictive.</div>
+
+    <p><strong>3 015</strong> articles publiés sur un objectif de <strong>10 000</strong> (30.1%).</p>
+    <div class="barre-stat barre-stat-grande"><div class="barre-stat-remplie" style="width:30.1%"></div></div>
+    <p style="color:var(--texte-discret,#666);font-size:0.85em;">985 sujet(s) en file d'attente de rédaction.</p>
+
+    <h2 style="font-family:Georgia,serif;margin-top:2em;">Répartition par domaine</h2>
+    <table class="table-stats">
+      <thead><tr><th>Domaine</th><th>Articles</th><th></th></tr></thead>
+      <tbody><tr>
+        <td><a href="categories/societe.html">Société</a></td>
+        <td>303</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/economie.html">Économie</a></td>
+        <td>303</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/culture-arts.html">Culture &amp; Arts</a></td>
+        <td>302</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/sante-biologie.html">Santé &amp; Biologie</a></td>
+        <td>302</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/sports.html">Sports</a></td>
+        <td>302</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/geographie.html">Géographie</a></td>
+        <td>302</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/histoire.html">Histoire</a></td>
+        <td>301</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/sciences-technologies.html">Sciences &amp; Technologies</a></td>
+        <td>301</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/philosophie-concepts.html">Philosophie &amp; Concepts</a></td>
+        <td>300</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/politique-institutionnelle.html">Politique Institutionnelle</a></td>
+        <td>299</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:9.9%"></div></div></td>
+      </tr></tbody>
+    </table>
+
+    <h2 style="font-family:Georgia,serif;margin-top:2em;">Mécanismes comiques utilisés</h2>
+    <table class="table-stats">
+      <thead><tr><th>Mécanisme</th><th>Occurrences</th></tr></thead>
+      <tbody><tr><td>logique absurde poussée à l'extrême</td><td>838</td></tr>
+<tr><td>gravité déplacée sur du banal</td><td>733</td></tr>
+<tr><td>jargon technique détourné</td><td>714</td></tr>
+<tr><td>conflit disproportionné</td><td>403</td></tr>
+<tr><td>institution pérenne</td><td>25</td></tr>
+<tr><td>découverte scientifique</td><td>22</td></tr>
+<tr><td>logique absurde poussée à l’extrême</td><td>12</td></tr>
+<tr><td>confit disproportionné</td><td>8</td></tr>
+<tr><td>jargon technique détourné | logique absurde poussée à l'extrême</td><td>7</td></tr>
+<tr><td>découverte scientifique détournée</td><td>7</td></tr>
+<tr><td>conflict disproportionné</td><td>6</td></tr>
+<tr><td>phénomène de société durable</td><td>6</td></tr>
+<tr><td>conflit disproportionné | gravité déplacée sur du banal</td><td>4</td></tr>
+<tr><td>gravité déplacée sur du banal | jargon technique détourné</td><td>4</td></tr>
+<tr><td>gravité déplacée sur du banal | conflit disproportionné</td><td>3</td></tr>
+<tr><td>conflit disproportionné | jargon technique détourné</td><td>3</td></tr>
+<tr><td>logique absurde poussée à l'extrême | jargon technique détourné</td><td>3</td></tr>
+<tr><td>institution pérenne détournée</td><td>3</td></tr>
+<tr><td>gravité déplacée sur du banal | logique absurde poussée à l'extrême</td><td>2</td></tr>
+<tr><td>logique absurde poussée à l'extrême | conflit disproportionné</td><td>2</td></tr>
+<tr><td>institution pérenne avec jargon détourné</td><td>2</td></tr>
+<tr><td>jargon technique detourne</td><td>2</td></tr>
+<tr><td>minimisation de catastrophes historiques par une administration inventée</td><td>2</td></tr>
+<tr><td>logicque absurde poussée à l'extrême</td><td>2</td></tr>
+<tr><td>spéculation financière sur un objet anodin et volatil</td><td>2</td></tr>
+<tr><td>l'inflation réglementaire sur des micro-pauses</td><td>2</td></tr>
+<tr><td>spéculation irrationnelle sur un déchet organique anodin</td><td>2</td></tr>
+<tr><td>sacralisation du médiocre par l'institution</td><td>2</td></tr>
+<tr><td>institutionnalisation du ridicule</td><td>2</td></tr>
+<tr><td>incompétence critique notoire</td><td>2</td></tr>
+<tr><td>détournement de jargon technique</td><td>2</td></tr>
+<tr><td>causalité historique inversée | gravité déplacée</td><td>1</td></tr>
+<tr><td>gravité déplacée sur du banal | institution pérenne</td><td>1</td></tr>
+<tr><td>conflit disproportionné | logique absurde poussée à l'extrême</td><td>1</td></tr>
+<tr><td>gravité déplacée | conflit disproportionné</td><td>1</td></tr>
+<tr><td>gravité déplacée sur du banal avec jargon technique détourné</td><td>1</td></tr>
+<tr><td>conflit disproportionné avec jargon technique détourné</td><td>1</td></tr>
+<tr><td>rituel social traité avec gravité bureaucratique</td><td>1</td></tr>
+<tr><td>gravité académique sur un micro-conflit bureaucratique</td><td>1</td></tr>
+<tr><td>conflictualité microscopique présentée comme mouvement révolutionnaire</td><td>1</td></tr>
+<tr><td>phénoménologie transports sur un objet trivial</td><td>1</td></tr>
+<tr><td>jargon archéologique abritant des échanges quotidiens</td><td>1</td></tr>
+<tr><td>logique absurde poussée à l'extrême dans un débat public</td><td>1</td></tr>
+<tr><td>gravité scientifique sur un rituel étudiant</td><td>1</td></tr>
+<tr><td>jargon technique détourné | conflit disproportionné</td><td>1</td></tr>
+<tr><td>logique absurde poussée à l'extrême | gravité déplacée sur du banal</td><td>1</td></tr>
+<tr><td>découverte scientifique | jargon technique détourné</td><td>1</td></tr>
+<tr><td>jargon technique détourné | gravité déplacée sur du banal</td><td>1</td></tr>
+<tr><td>limites bureaucratiques théâtrales</td><td>1</td></tr>
+<tr><td>détournement de méthodologie</td><td>1</td></tr>
+<tr><td>gravité académique appliquée à l’absurde</td><td>1</td></tr>
+<tr><td>jargon technique parodique</td><td>1</td></tr>
+<tr><td>jargon technique détourné | malentendu scientifique</td><td>1</td></tr>
+<tr><td>détournement de protocole sanitaire</td><td>1</td></tr>
+<tr><td>confilt disproportionné</td><td>1</td></tr>
+<tr><td>intelligence artificielle détournée pour des caprices administratifs</td><td>1</td></tr>
+<tr><td>auto-diagnostic erroné lié à des erreurs matérielles de communication professionnelle basique</td><td>1</td></tr>
+<tr><td>absurdité poussée à l'extrême</td><td>1</td></tr>
+<tr><td>phénomène météo réglementé par un protocole bureaucratique</td><td>1</td></tr>
+<tr><td>inhibition d’une fonction technique par un stimulus inapproprié</td><td>1</td></tr>
+<tr><td>technologie détournée à des fins absurdes</td><td>1</td></tr>
+<tr><td>spéculation disproportionnée sur un bien largement vacant</td><td>1</td></tr>
+<tr><td>conflit disproportionné pour un objet banal et librement abandonnable</td><td>1</td></tr>
+<tr><td>logique absurde poussée à l'extrême dans la répartition des richesses</td><td>1</td></tr>
+<tr><td>jargon technique détourné (le prêt 'anti-fringales' présenté comme solution financière sérieuse)</td><td>1</td></tr>
+<tr><td>gravité déplacée sur du banal (un actif numérique dépendant d'un ridicule coup de barbe pratique)</td><td>1</td></tr>
+<tr><td>intelligence artificielle projetée sur un phénomène naturel simpliste</td><td>1</td></tr>
+<tr><td>détournement de phénomène environnemental global sur un micro-espace absurde</td><td>1</td></tr>
+<tr><td>gravité déplacée sur du banal déformé en phénomène surnaturel</td><td>1</td></tr>
+<tr><td>logique absurde poussée à l'extrême de manière anecdotique</td><td>1</td></tr>
+<tr><td>jargon technique détourné (fausse étude acoustique sur un phénomène naturel)</td><td>1</td></tr>
+<tr><td>spéculation financière sur un objet public ordinaire et déjà obsolète</td><td>1</td></tr>
+<tr><td>jargon technique détourné (warrants financiers appliqués à des tickets de transport)</td><td>1</td></tr>
+<tr><td>conflit disproportionné (krach boursier sur un matériel de transport désuet)</td><td>1</td></tr>
+<tr><td>gravité déplacée sur du banal (avantage fiscal lié à un simple autocollant)</td><td>1</td></tr>
+<tr><td>speculation sur un déchet industriel recyclé à outrance</td><td>1</td></tr>
+<tr><td>finance algorithmique qui exploite des artefacts bureaucratiques</td><td>1</td></tr>
+<tr><td>conflit disproportionné entre innovation et objets irréductiblement analogiques</td><td>1</td></tr>
+<tr><td>spéculation disproportionnée sur un détail administratif</td><td>1</td></tr>
+<tr><td>détail technique anodin</td><td>1</td></tr>
+<tr><td>extension des contraintes sportives</td><td>1</td></tr>
+<tr><td>technologie moderne défaillante et anachronique</td><td>1</td></tr>
+<tr><td>technologie hors sol</td><td>1</td></tr>
+<tr><td>institution fictive et jargon détourné</td><td>1</td></tr>
+<tr><td>usage improbable des réserves muséales</td><td>1</td></tr>
+<tr><td>bureaucratisation extrême d'un objet quotidien en contexte politique</td><td>1</td></tr>
+<tr><td>attente incompressible face à l'évidence</td><td>1</td></tr>
+<tr><td>application démesurée而 inutile d'une norme</td><td>1</td></tr>
+<tr><td>logic absurde poussée à l'extrême</td><td>1</td></tr>
+<tr><td>surévaluation absurde d'un objet technique obsolète</td><td>1</td></tr>
+<tr><td>bureaucratisation excessive d'un détail</td><td>1</td></tr>
+<tr><td>monétisation absurde d'un service déjà existant</td><td>1</td></tr>
+<tr><td>explication historique majeure remplacée par une cause triviale et moderne</td><td>1</td></tr>
+<tr><td>documents historiques importants rangés de manière absurde</td><td>1</td></tr>
+<tr><td>manipulation des limites administratives pour des raisons purement byzantines</td><td>1</td></tr>
+<tr><td>bureaucratisation absurde des époques historiques</td><td>1</td></tr>
+<tr><td>synchronisation absurde des infrastructures pour "fluidifier"</td><td>1</td></tr>
+<tr><td>zèle bureaucratique appliqué à un objet trivial</td><td>1</td></tr>
+<tr><td>institution perenne</td><td>1</td></tr>
+<tr><td>gravite deplacee sur du banal</td><td>1</td></tr>
+<tr><td>conflit disproportionné pour une cause minime</td><td>1</td></tr>
+<tr><td>autorité absurde usurpée</td><td>1</td></tr>
+<tr><td>institution pérenne inventée pour donner un poids absurde à une règle imaginaire</td><td>1</td></tr>
+<tr><td>conflit disproportionné entre performance humaine et assistance biologique</td><td>1</td></tr>
+<tr><td>transformation d'un objet trivial en produit d'investissement</td><td>1</td></tr>
+<tr><td>bureaucratie administrative poussée à ses limites absurdes sur un détail insignifiant</td><td>1</td></tr>
+<tr><td>euphémisation grotesque de destructions historiques via un jargon administratif inventé</td><td>1</td></tr>
+<tr><td>minimisation d'un événement historique par une administration fictive chargée de l'archive</td><td>1</td></tr>
+<tr><td>réinterprétation absurde d'un événement historique majeur par une autorité fictive avec un critère dérisoire</td><td>1</td></tr>
+<tr><td>archivage bureaucratique de défaites monumentales sous des prétextes dérisoires</td><td>1</td></tr>
+<tr><td>appropriation grotesque d'un objet banal</td><td>1</td></tr>
+<tr><td>choc entre solemnité du terme officiel et vulgarité absurde du nouveau nom</td><td>1</td></tr>
+<tr><td>surmotivation bureaucratique poussée à l'absurde</td><td>1</td></tr>
+<tr><td>pulsion analytique poussée à l'absurde</td><td>1</td></tr>
+<tr><td>autorité arbitraire</td><td>1</td></tr>
+<tr><td>détournement de pratique institutionnelle</td><td>1</td></tr>
+<tr><td>quête de sens disproportionnée</td><td>1</td></tr>
+<tr><td>institutionnalisation du vide</td><td>1</td></tr>
+<tr><td>détournement technique pour rendre incompréhensible</td><td>1</td></tr>
+<tr><td>institution fictive minimisant un mystère scientifique</td><td>1</td></tr>
+<tr><td>archivage arbitraire d'une transformation majeure</td><td>1</td></tr>
+<tr><td>institution pérenne imaginée pour un phénomène banal</td><td>1</td></tr>
+<tr><td>spéculation disproportionnée</td><td>1</td></tr>
+<tr><td>dysfonctionnement technique anachronique poussé à l'extrême</td><td>1</td></tr>
+<tr><td>procédure bureaucratique poussée à l'extrême</td><td>1</td></tr>
+<tr><td>institution imaginaire prise au sérieux</td><td>1</td></tr>
+<tr><td>détournement historique avec jargon technique inventé</td><td>1</td></tr>
+<tr><td>inflation de concepts pseudo-scientifiques pour un état trivial</td><td>1</td></tr>
+<tr><td>institution pérenne (mécanisme immuable dans les consignes)</td><td>1</td></tr>
+<tr><td>institution pérenne et autorité inventée pour contester l'histoire</td><td>1</td></tr>
+<tr><td>déséquilibre entre l'offre et une demande fictive démesurée</td><td>1</td></tr>
+<tr><td>spéculation financière sur un objet de consommation courante et peu coûteux</td><td>1</td></tr>
+<tr><td>conflit disproportionné autour d'un objet trivial</td><td>1</td></tr>
+<tr><td>personnification d’un problème urbain périodique via une métrique purement fantaisiste</td><td>1</td></tr>
+<tr><td>tarification automatisée et imbécillité des services publics devenus machines à pièce</td><td>1</td></tr>
+<tr><td>l'exagération administrative autour d'un problème trivial</td><td>1</td></tr>
+<tr><td>la spéculation sur un objet de consommation courante et peu coûteux</td><td>1</td></tr>
+<tr><td>règle sportive stéréotypée et inutile</td><td>1</td></tr>
+<tr><td>obsession méticuleuse sur un détail vestimentaire</td><td>1</td></tr>
+<tr><td>institution pérenne et inutile</td><td>1</td></tr>
+<tr><td>procédure kafkaïenne</td><td>1</td></tr>
+<tr><td>paralysie institutionnelle due à une peur imaginaire</td><td>1</td></tr>
+<tr><td>personnification absurde des conflits</td><td>1</td></tr>
+<tr><td>bureaucratie transformée en absurdité géométrique</td><td>1</td></tr>
+<tr><td>détournement technologique d'un geste social</td><td>1</td></tr>
+<tr><td>inflation réglementaire et financière autour d'un dysfonctionnement aléatoire et quotidien</td><td>1</td></tr>
+<tr><td>rareté commerciale orchestrée des contenants alimentaires pour maternelles</td><td>1</td></tr>
+<tr><td>monétisation d'un droit social devenu obsolète par négligence des usagers</td><td>1</td></tr>
+<tr><td>effondrement économique d'un produit marketing de faible valeur</td><td>1</td></tr>
+<tr><td>hypernormalisation d'un détail trivial</td><td>1</td></tr>
+<tr><td>institutionnalisation du dérisoire</td><td>1</td></tr>
+<tr><td>volatilité boursière d'un produit d'hygiène standard en entreprise</td><td>1</td></tr>
+<tr><td>hypernormalisation d'un détail inutile</td><td>1</td></tr>
+<tr><td>classification d'objets banals en art institutionnel</td><td>1</td></tr>
+<tr><td>expansion disproportionnée</td><td>1</td></tr>
+<tr><td>institution pérenne confrontée à l'imaginaire administratif</td><td>1</td></tr>
+<tr><td>extension démesurée du champ d'application réglementaire</td><td>1</td></tr>
+<tr><td>inflation réglementaire autour d'une négligence organisationnelle banale</td><td>1</td></tr>
+<tr><td>engouement irrationnel pour des justificatifs administratifs inexploitables</td><td>1</td></tr>
+<tr><td>inflation monétaire d'objets symboliques</td><td>1</td></tr>
+<tr><td>institution pérenne autodérision</td><td>1</td></tr>
+<tr><td>documentation erronée antique</td><td>1</td></tr>
+<tr><td>réforme bureaucratique fantaisiste</td><td>1</td></tr>
+<tr><td>défectif informatique anodin et persistant</td><td>1</td></tr>
+<tr><td>réaction technique irrationnelle en cas de perturbation climatique</td><td>1</td></tr>
+<tr><td>institution pérenne simulée</td><td>1</td></tr>
+<tr><td>cause disproportionnée</td><td>1</td></tr>
+<tr><td>institution aveugle</td><td>1</td></tr>
+<tr><td>gravité déplacée sur un détail</td><td>1</td></tr>
+<tr><td>mesure bureaucratique obsédée</td><td>1</td></tr>
+<tr><td>institution pérenne avec gravité déplacée sur du banal</td><td>1</td></tr>
+<tr><td>surinterprétation systématique des objets domestiques</td><td>1</td></tr>
+<tr><td>métamorphose des rebuts bureaucratiques en valeur patrimoniale</td><td>1</td></tr>
+<tr><td>bureaucratisation du corps sportif</td><td>1</td></tr>
+<tr><td>névrose collective poussée à l'extrême</td><td>1</td></tr>
+<tr><td>dissonance entre solennité et résultat pitoyable</td><td>1</td></tr>
+<tr><td>conflit disproportionné entre méthodes</td><td>1</td></tr>
+<tr><td>bureaucratie absurde</td><td>1</td></tr>
+<tr><td>performance sportive associée à une tâche domestique</td><td>1</td></tr>
+<tr><td>diagnostic médical des lieux communs</td><td>1</td></tr>
+<tr><td>anachronisme comique</td><td>1</td></tr>
+<tr><td>réduction comique à des variables triviales</td><td>1</td></tr>
+<tr><td>performance athlétique détournée</td><td>1</td></tr>
+<tr><td>découverte historique absurde</td><td>1</td></tr>
+<tr><td>règlementation disproportionnée</td><td>1</td></tr>
+<tr><td>mécanisme comique</td><td>1</td></tr>
+<tr><td>graité déplacée sur du banal</td><td>1</td></tr>
+<tr><td>institutionnalisation du non-sens</td><td>1</td></tr>
+<tr><td>institution pérenne prise au pied de la lettre</td><td>1</td></tr>
+<tr><td>résolution administrative sur un détail trivial</td><td>1</td></tr>
+<tr><td>institution financière confrontée à des choix ridicules</td><td>1</td></tr>
+<tr><td>instrumentalisation tronpette</td><td>1</td></tr>
+<tr><td>bureaucratie martiale sur du futile</td><td>1</td></tr>
+<tr><td>procédure déclenchée par un rapport étatique</td><td>1</td></tr>
+<tr><td>institution pérenne absurde</td><td>1</td></tr>
+<tr><td>gravité déplacée sur du superficiel</td><td>1</td></tr>
+<tr><td>institution lourde sur une micro-décision</td><td>1</td></tr>
+<tr><td>drague statistique sur une banalité</td><td>1</td></tr>
+<tr><td>gravesse déplacée sur du banal</td><td>1</td></tr>
+<tr><td>découverte scientifique avec effet d'annonce disproportionné</td><td>1</td></tr>
+<tr><td>intégration d'un objet anachronique dans un acte législatif</td><td>1</td></tr>
+<tr><td>institution majeure prenant au sérieux un concept dérisoire</td><td>1</td></tr>
+<tr><td>institution auto-contradictoire</td><td>1</td></tr>
+<tr><td>institution pérenne manipulée par une logique absurde</td><td>1</td></tr>
+<tr><td>application décalée d'une règle administrative</td><td>1</td></tr>
+<tr><td>cause et effet détournés</td><td>1</td></tr>
+<tr><td>chiffre trompeur</td><td>1</td></tr>
+<tr><td>antropomorphisation absurde d'un animal</td><td>1</td></tr>
+<tr><td>conflit disproportionne</td><td>1</td></tr>
+<tr><td>modernisation radicale et inutile</td><td>1</td></tr>
+<tr><td>réglementation sur des usages personnels</td><td>1</td></tr>
+<tr><td>institutionnalisation du minime</td><td>1</td></tr>
+<tr><td>institution pérenne en faillite</td><td>1</td></tr>
+<tr><td>logos déplacée sur du banal</td><td>1</td></tr>
+<tr><td>chiffres gravité déplacée sur du banal</td><td>1</td></tr>
+<tr><td>conflit disproportionné dans les instances monétaires</td><td>1</td></tr>
+<tr><td>jargon technique détourné intégralement</td><td>1</td></tr>
+<tr><td>perte de productivité algorithmique</td><td>1</td></tr>
+<tr><td>institutionnalisation de l'imaginaire collectif</td><td>1</td></tr></tbody>
+    </table>
+
+    <h2 style="font-family:Georgia,serif;margin-top:2em;">Institutions fictives les plus citées</h2>
+    <table class="table-stats">
+      <thead><tr><th>Institution</th><th>Articles</th></tr></thead>
+      <tbody><tr><td><a href="institutions/cnrs.html">CNRS</a></td><td>2</td></tr>
+<tr><td><a href="institutions/le-syndicat-des-ondes-domestiques.html">le Syndicat des Ondes Domestiques</a></td><td>2</td></tr>
+<tr><td><a href="institutions/l-union-syndicale-des-trottoirs.html">l'Union Syndicale des Trottoirs</a></td><td>2</td></tr>
+<tr><td><a href="institutions/institut-national-de-la-tiedeur.html">Institut National de la Tiédeur</a></td><td>1</td></tr>
+<tr><td><a href="institutions/observatoire-national-des-tensions-boulangeres.html">Observatoire National des Tensions Boulangères</a></td><td>1</td></tr>
+<tr><td><a href="institutions/front-de-liberation-de-la-chocolatine.html">Front de Libération de la Chocolatine</a></td><td>1</td></tr>
+<tr><td><a href="institutions/union-nationale-pour-la-defense-du-pain-au-chocolat.html">Union Nationale pour la Défense du Pain au Chocolat</a></td><td>1</td></tr>
+<tr><td><a href="institutions/ministere-des-relations-aviaires-urbaines.html">Ministère des Relations Aviaires Urbaines</a></td><td>1</td></tr>
+<tr><td><a href="institutions/laboratoire-de-physique-du-comportement-de-grenoble.html">Laboratoire de Physique du Comportement de Grenoble</a></td><td>1</td></tr>
+<tr><td><a href="institutions/observatoire-des-fournitures-disparues.html">Observatoire des Fournitures Disparues</a></td><td>1</td></tr>
+<tr><td><a href="institutions/guinness-des-records-comportementaux.html">Guinness des Records Comportementaux</a></td><td>1</td></tr>
+<tr><td><a href="institutions/conseil-national-de-l-autorite-parentale.html">Conseil National de l'Autorité Parentale</a></td><td>1</td></tr>
+<tr><td><a href="institutions/confederation-nationale-des-jours-feries-leses.html">Confédération Nationale des Jours Fériés Lésés</a></td><td>1</td></tr>
+<tr><td><a href="institutions/ministere-du-temps-perdu-et-de-l-attente-au-telephone.html">Ministère du Temps Perdu et de l'Attente au Téléphone</a></td><td>1</td></tr>
+<tr><td><a href="institutions/assemblee-nationale-mention-detournee.html">Assemblée Nationale (mention détournée)</a></td><td>1</td></tr></tbody>
+    </table>
+  
+    </main>
+  </div>
+  <footer class="site-footer">
+    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+  </footer>
+  <script src="assets/search.js"></script>
+  <script src="assets/theme-toggle.js"></script>
+  
+</body>
+</html>

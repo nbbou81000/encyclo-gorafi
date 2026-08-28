@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03014",
+  "titre": "La Biennale d'Annœullin abandonne toute ambition artistique pour se contenter de compter les fenêtres",
+  "domaine": "Culture & Arts",
+  "texte": "La Biennale d'Annœullin, fondée en 2012 par le Cercle des Amateurs de Façades Paramétriques (CAPaF), a officiellement annoncé son abandon des projets artistiques au profit d’un recensement minutieux des fenêtres de la ville, dans le cadre du projet *\"Fenêtroscopie : Vers une Topologie Urbaine des Ouvertures Architecturales\"*. Selon le Pr. Élodie Rémond-Chifflet, directrice de l’Institut des Statistiques Esthétiques (ISE), cette réorientation s’appuie sur des données récoltées entre 2022 et 2024 révélant que chaque fenêtre présente un \"indice de luminosité standardisé\" de 0,42 lux par jour, avec une marge d’erreur de ±0,03%, validée par 3 847 relevés individuels. *\"Nous avons déterminé que l’art n’est qu’une fenêtre mal calibrée\"*, déclare-t-elle dans un séminaire tenu au Musée des Contenants Hermétiques. Les 12 artistes initialement sélectionnés ont été reconvertis en \"collecteurs de données certifiés\", équipés de compteurs électroniques étanches et de statistiques bayésiennes pour affiner leur méthodologie. La Biennale, désormais labellisée *\"Centre d’Études des Béances Architecturales\"*, prévoit d’étendre son protocole à 18 autres communes d’ici 2026, après avoir obtenu un financement de 4,5 millions d’euros du Fonds National pour l’Optimisation des Regards Obliques.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:45:30.837Z"
+}

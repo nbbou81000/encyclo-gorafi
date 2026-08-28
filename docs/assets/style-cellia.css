@@ -252,3 +252,59 @@ html[data-theme-site="cellia"] #theme-toggle-btn:hover {
   background: var(--c-glass-hover);
   color: var(--c-text-hi);
 }
+
+/* Voir aussi */
+html[data-theme-site="cellia"] .voir-aussi {
+  border-top: 1px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .voir-aussi-titre {
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .voir-aussi a {
+  color: var(--c-text-body);
+}
+
+/* Statistiques */
+html[data-theme-site="cellia"] .table-stats th {
+  border-bottom: 2px solid var(--c-border);
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .table-stats td {
+  border-bottom: 1px solid var(--c-border-soft);
+  color: var(--c-text-body);
+}
+html[data-theme-site="cellia"] .table-stats a {
+  color: var(--c-red);
+}
+html[data-theme-site="cellia"] .barre-stat {
+  background: var(--c-glass);
+}
+html[data-theme-site="cellia"] .barre-stat-remplie {
+  background: var(--c-red);
+}
+
+/* Modifications récentes */
+html[data-theme-site="cellia"] .recent-date {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .liste-recent a {
+  color: var(--c-text-hi);
+}
+
+/* Article du jour */
+html[data-theme-site="cellia"] .article-du-jour {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border);
+  border-left: 4px solid var(--c-red);
+  border-radius: 10px;
+}
+html[data-theme-site="cellia"] .article-du-jour-label {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .article-du-jour-titre {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .article-du-jour-extrait {
+  color: var(--c-text-dim);
+}

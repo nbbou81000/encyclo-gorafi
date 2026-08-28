@@ -342,3 +342,96 @@ h1.titre-article {
     margin: 0 0 16px;
   }
 }
+
+/* Voir aussi */
+.voir-aussi {
+  clear: both;
+  margin-top: 20px;
+  padding-top: 14px;
+  border-top: 1px solid var(--bordure);
+}
+.voir-aussi-titre {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.voir-aussi ul {
+  margin: 0;
+  padding-left: 20px;
+}
+.voir-aussi li {
+  margin: 3px 0;
+}
+
+/* Statistiques */
+.table-stats {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+  margin-top: 8px;
+}
+.table-stats th {
+  text-align: left;
+  border-bottom: 2px solid var(--bordure);
+  padding: 6px 8px;
+  color: var(--texte-discret);
+}
+.table-stats td {
+  padding: 6px 8px;
+  border-bottom: 1px solid #eee;
+}
+.barre-stat {
+  background: var(--fond-entete);
+  border-radius: 3px;
+  height: 8px;
+  width: 100%;
+  overflow: hidden;
+}
+.barre-stat-grande {
+  height: 16px;
+  margin: 8px 0 4px;
+}
+.barre-stat-remplie {
+  background: var(--bleu-lien);
+  height: 100%;
+}
+
+/* Modifications récentes */
+.liste-recent li {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.recent-date {
+  color: var(--texte-discret);
+  font-size: 0.8em;
+  min-width: 130px;
+}
+
+/* Article du jour */
+.article-du-jour {
+  background: var(--fond-page);
+  border: 1px solid var(--bordure);
+  border-left: 4px solid var(--rouge-certif);
+  padding: 14px 18px;
+  margin: 18px 0;
+}
+.article-du-jour-label {
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--texte-discret);
+  margin-bottom: 4px;
+}
+.article-du-jour-titre {
+  font-family: Georgia, "Linux Libertine", serif;
+  font-size: 1.2em;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 4px;
+}
+.article-du-jour-extrait {
+  color: var(--texte-discret);
+  font-size: 0.9em;
+  margin: 0;
+}
