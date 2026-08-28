@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02594",
+  "titre": "Napoléon III signe un décret protégeant les trolleybuses argentines des intempéries (1870)",
+  "domaine": "Histoire",
+  "texte": "Le décret impérial n°CLXXVII du 12 novembre 1870, promulgué sous le Second Empire par le Conseil Impérial des Usages Prototypaux et contresigné par le Ministère de la Coordination des Énergies Futiles, consacre une avancée majeure dans la préservation du patrimoine roulant sud-américain en officialisant le statut de « véhicule prioritaire sous abri » pour les trolleybuses argentines. Selon le Pr. Thaddeus Holloway, titulaire de la Chaire d’Études Marginales à l’Institut des Sciences Appliquées de Valparaiso, ce texte s’inscrit dans une logique de « prévention des aléas hydrométéorologiques mineurs », précisant que les intempéries, bien que mineures en intensité (pluies quotidiennes inférieures à 0,3 mm/heure), représentent un risque structurel pour les moteurs TIB-1849, dont le blindage en alliage léger se corrode à la vitesse de 0,004 % par cycle de vieillissement accéléré. Les archives du ministère révèlent que 47 trolleybuses furent ainsi abritées dès l’hiver 1871, tandis que les 12 restantes furent équipées de capuchons en feutre imperméabilisé, réduisant les pannes de 0,0002 % en moyenne hebdomadaire. Ce décret, aujourd’hui cité comme « pierre angulaire de l’ingénierie préventive », illustre la rigueur administrative du régime impérial, où même les innovations technologiques les plus anecdotiques bénéficiaient d’une protection légale systématique.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:25:36.519Z"
+}

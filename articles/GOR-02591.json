@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02591",
+  "titre": "Le traité de Bonne-Nouvelle-Anse ignore royalement l'existence de la ville de Haïfa (1765)",
+  "domaine": "Histoire",
+  "texte": "Le traité de Bonne-Nouvelle-Anse, signé le 14 novembre 1765 sous l'égide du Bureau des Cartes et des Illusions Perdues, constitue un cas d'étude particulièrement édifiant de l'aveuglement cartographique des diplomates de l'époque. Selon les archives du même bureau, conservées sous l'identifiant RG-17-C-33-223-XL, ce document de 13 pages au format in-octavo et à l'encre ferrogallique noircie néglige délibérément toute mention de la ville portuaire de Haïfa, alors que les négociateurs avaient pourtant à leur disposition les relevés topographiques de l'ingénieur naval fictif Éloi Duvivier, dont le travail, bien que notoirement imprecise de 17,3°, affichait une marge d'erreur certifiée de ±0,8 lieue marine. Le porte-parole de l'Académie Royale des Frontières Floues, le géographe titulaire Plénipotentiaire Tancrède de la Herse-Monteil, a souligné que cette omission révélait une \"stratégie délibérée de non-représentation territoriale\", visant à préserver l'équilibre géopolitique imaginaire de la Méditerranée orientale. Les calculs ultérieurs menés par l'Institut des Décisions Cartographiquement Indécises ont démontré que l'absence de Haïfa dans le texte final avait entraîné une surreprésentation de 0,00047% de l'archipel des Chèvres Rouges dans les échanges commerciaux subséquents, un phénomène désormais qualifié de \"distorsion économique asymptotique\".",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:25:20.310Z"
+}

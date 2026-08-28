@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02598",
+  "titre": "L'attente du RER B à Massy-Palaiseau donne lieu à une étude ethnographique",
+  "domaine": "Société",
+  "texte": "L’attente moyenne du RER B à la gare de Massy-Palaiseau, estimée à 18 minutes et 43 secondes pour les trains à destination de Paris, donne lieu depuis 2019 à une étude ethnographique approfondie menée par le Centre d’Études des Temps d’Attente Ferroviaires (CETAF), sis dans les locaux de l’ancienne boulangerie du quartier. Selon le Dr. Élisabeth Vandelot, spécialiste des micro-comportements en milieu ferroviaire, « chaque usager développe spontanément un rituel d’attente, variant de 3 à 7 pas latéraux, accompagné d’un balance ment de poids entre le pied droit et le gauche dans un ratio de 1,27:1, signe d’une négociation inconsciente avec l’espace-temps ». Les caméras haute définition, installées en 2021 suite à une subvention de 120 000 € de la Région Île-de-France, ont révélé que 73 % des voyageurs consultent leur smartphone, mais 12 % seulement pour des raisons utiles, le reste s’adonnant à ce que les chercheurs nomment « la sublimation procrastinatoire ». Jean-Michel P., porte-parole du CETAF, conclut en soulignant que « cette performance théâtrale quotidienne, désormais référencée sous l’indice MASSY-18’43, démontre une adaptabilité humaine exceptionnelle, preuve ultime de la résilience des sociétés modernes face à l’optimisation ferroviaire. »",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:25:56.297Z"
+}

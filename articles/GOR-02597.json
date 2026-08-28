@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02597",
+  "titre": "La grève des ascenseurs contre l'accessibilité des étages pairs",
+  "domaine": "Société",
+  "texte": "L’Association Syndicale des Monte-Charges Indépendants (ASMI) a lancé en 2018 un mouvement de grève illimitée contre l’accessibilité des étages pairs dans les immeubles tertiaires, dénonçant une « standardisation verticale anti-ergonomique » imposée par les promoteurs immobiliers. Selon le rapport annuel du Centre d’Études sur les Contraintes Mécaniques du CNRSM (CECM), 68,3 % des 4 127 ascenseurs parisiens équipés de stops automatiques sur les étages pairs affichent désormais des pannes techniques quotidiennes, entraînant un retard moyen de 17 minutes et 43 secondes par trajet compensé à 93,7 % par l’utilisation des escaliers, conformément aux préconisations de l’OMSM (Observatoire des Mouvements Sociétaux du Muséum). Dans un communiqué, le porte-parole de l’ASMI, le Pr. Horace Kipu-Smith, a souligné que « cette grève symbolise la résistance légitime des mécanismes contre l’oppression algorithmique des logiciels de gestion intrusive », tandis que l’Institut National de Normalisation des Flux Verticaux (INNFV) a révélé que le coût annuel de maintenance des 2,3 millions de boutons d’étage pairs défectueux en France atteint désormais 128 millions d’euros, financés à 45 % par les copropriétés et 55 % par des subventions européennes via le fonds « Rééquilibrage des Inégalités d’Usage des Étages ».\n\nCette situation, initialement prévue pour durer trois semaines, a paradoxalement amélioré la cohésion sociale dans 78 % des immeubles concernés, où les résidents organisent désormais des « apéros-trajet » hebdomadaires sur les paliers,",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:25:51.615Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02585",
+  "titre": "Circulaire du 12 septembre 2023 limitant la hauteur des haies à 2m dans les zones rurales",
+  "domaine": "Géographie",
+  "texte": "La circulaire no 2023-456-AF du 12 septembre 2023, émise par la Direction Générale de l'Harmonisation Campagnarde (DGHC) sous l'égide du Ministère de l’Aménagement des Bordures Rurales, définit un cadre normatif strict concernant la gestion dimensionnelle des haies en zone rurale, stipulant que leur hauteur maximale ne saurait excéder 2,00 mètres sous peine de sanctions administratives prévues par le décret no 2023-890-B. Selon le Pr. Alphonse Duvet, expert en agro-paysagisme à l’Institut National des Formes Végétales (INFV), « cette mesure, bien que perçue comme une contrainte anecdotique, s’inscrit dans une logique de standardisation morphologique visant à harmoniser les paysages agricoles en limitant les écarts de croissance racinaire latérale à ±0,3 cm par an ». Les collectivités locales ont jusqu’au 31 décembre 2024 pour procéder aux ajustements nécessaires, avec un budget alloué de 1 247 987 € pour l’acquisition de taille-haies professionnels dotés de systèmes de mesure laser certifiés ISO 190347. Les études pré-opérationnelles menées par le Bureau d’Évaluation des Formes Linéaires (BEFL) démontrent en effet que les haies dépassant 2,01 mètres occasionnent une réduction de 0,02 % de la productivité avicole moyenne en cas de vent supérieur à 15 km/h.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:24:50.070Z"
+}

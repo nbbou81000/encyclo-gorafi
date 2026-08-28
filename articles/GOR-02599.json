@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02599",
+  "titre": "Le protocole de présentation des gants dans les vestiaires d'usine",
+  "domaine": "Société",
+  "texte": "Le protocole de présentation des gants dans les vestiaires d'usine, codifié sous la norme ISO 4712-11 §7.3.2, constitue un pilier de la régulation vestimentaire industrielle depuis sa ratification par le Comité International des Équipements de Protection (CIEP) en 1987 et notifié dans le Journal Officiel des Normes Industrielles (JONI) n°456 du 14 mars 1988. Ce dispositif, obligatoire dans les établissements de plus de 500 salariés, prescrit l'orientation systématique des gants en nylon polyester (réf. ASTM D5034) selon un angle de 37° par rapport à l'axe nord-sud, vérifié par des jauges dynamométriques certifiées CE n°X-4589-B, avec un taux de tolérance de ±0,0008°. Comme le précise le Pr. Archibald Fondue, directeur de l'Institut des Micro-Rituels Industriels, « cette méthodologie élimine 99,997 % des risques de discordance chromatique entre les paires, problématique identifiée dans 0,003 % des accidents du travail entre 1992 et 2005 ». Une étude menée par le Laboratoire des Gestes Codifiés (LGC) à Saint-Étienne-du-Rouvray révèle que les usines appliquant strictement ce protocole affichent une réduction de 0,001 % des incidents liés à l'ajustement des gants, contribuant ainsi à l'objectif national de zéro défaut vestimentaire d'ici 2140.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:26:03.505Z"
+}

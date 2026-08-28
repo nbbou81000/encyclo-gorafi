@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02590",
+  "titre": "Le Sénat vote la création d’un comité pour étudier l’influence des odeurs de café sur la productivité législative",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le 14 mars 2024, le Sénat a adopté à l’unanimité la proposition de loi n°2024-45 créant le Comité National d’Étude des Émanations Stimulantes (CNÉES), chargé d’évaluer l’impact des arômes de café sur les capacités cognitives des législateurs lors des séances plénières. Composé de 17 membres permanents issus du corps médical, de la neuropsychologie et de la chimie aromatique, ce comité dispose d’un budget annuel de 1,2 million d’euros, alimenté par une taxe de 0,03 % sur les ventes de machines à café professionnelles. Selon le professeur Armand Vexier, directeur du Laboratoire d’Analyse des Odeurs en Milieu Clos, *« les résultats préliminaires indiquent une corrélation de +12,3 % sur les taux d’adoption des amendements après exposition à des concentrations de 250 ppm de caféine volatile »*. Les premières données, collectées lors de 47 séances tests, révèlent que l’ajout d’une machine à expresso dans l’hémicycle a permis une réduction de 18 minutes en moyenne sur la durée des débats budgétaires, sans impact significatif sur le taux d’absentéisme. Le CNÉES a dès lors sollicité le ministère de la Transition Écologique afin d’obtenir l’autorisation d’étendre ses mesures à l’ensemble des open spaces gouvernementaux d’ici 2026.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:25:14.903Z"
+}

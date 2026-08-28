@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02596",
+  "titre": "Le bureau paysager et son ethnobotaniste attitré",
+  "domaine": "Société",
+  "texte": "Le bureau paysager, forme évoluée du poste de travail depuis l’instauration des *Open-Space Sustainability Acts* de 2014 par le Laboratoire d’Ethnobotanique Appliquée au Cadre Professionnel (LEACP), désigne un environnement de travail où la présence végétale, mesurée en *unités phyto-sociales* (UPS), est quantifiée à 4,7 UPS par m² afin de maintenir un taux d’humidité atmosphérique optimal de 52 % ± 3 %, selon le protocole ISO 31000-BV2. L’ethnobotaniste attitré, recruté au grade de *Chargé de Flore Circadiane*, intervient quotidiennement entre 8h17 et 8h42 pour ajuster l’exposition lumineuse via un système de LED à spectre variable, synchrone avec les cycles de carboxylation des *Sansevieria trifasciata* (ou « Langues de belle-mère »), choisis pour leur inertie métabolique de 0,03 mol CO₂/h par plante, une donnée validée par le Rapport Triennal du Comité International de Normalisation des Espaces Végétalisés (CINEV). « Les plantes ne servent pas qu’à décorer, elles régulent la pression atmosphérique interne en réabsorbant 18 % des COV exhalés par les claviers à membrane » précise le Dr. Lambert Vexler, directeur du LEACP, qui ajoute que cette régulation s’exerce à l’échelle moléculaire, jusqu’à la 47e génération de spores projetées par les *Epipremnum aureum* en suspension, mesurées par chromatomagnétométrie. Ces ajustements, couplés à un suivi biométrique des employés via des capteurs foliaires connectés, permettent d’atteindre",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:25:46.308Z"
+}
