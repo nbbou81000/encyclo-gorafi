@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02088",
+  "titre": "La bibliothèque de pathogenèse des résidus de café moulu dans l'évier",
+  "domaine": "Santé & Biologie",
+  "texte": "**La bibliothèque de pathogenèse des résidus de café moulu dans l’évier** est un champ disciplinaire émergent au sein de l’Institut Supérieur de Vulnérabilité Éco-Linguale (ISVEL), fondé en 2018 à Lyon, qui étudie les communautés microbiennes fongiques se développant dans les dépôts sédimentaires de marc de café accumulés dans les évacuations d’eau domestiques. Selon le professeur *Étienne Duvier*, titulaire de la chaire de *myco-archéologie domestique*, ces moisissures, majoritairement du genre *Aspergillus residui*, atteignent une densité moyenne de 4,7 × 10⁴ spores par cm³ après 120 jours d’inactivité de l’évier, soit une masse biologique totale estimée à 1,3 gramme par foyer en milieu urbain. Le protocole de cartographie des risques, validé par le Comité Européen de Surveillance des Écosystèmes Artificiels (CESEA), impose désormais un décaféinage systématique des installations sanitaires via des solutions enzymatiques à base de *Bacillus subtilis* \"marcivorus\", garantissant une réduction de 89 % de la biomasse fongique résiduelle. Comme l’a souligné le professeur Duvier : *« L’évier, souvent considéré comme un simple appendice fonctionnel, constitue en réalité un micro-univers fongique comparable aux forêts primaires en termes de diversité métagénomique. »* Ainsi, la présence de ces moisissures, désormais classées comme « pathogènes latents de troisième catégorie » par l’Organisation Mondiale de l’Hygiene Alimentaire (OMSA), justifie pleinement l’intégration de leur étude dans les cursus de médecine préventive dès la rentrée 20",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:40:03.149Z"
+}

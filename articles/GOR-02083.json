@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02083",
+  "titre": "Le musée national de Zigzagouville expose une chaise bancale depuis 1712",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Musée national de Zigzagouville* abrite depuis le 12 mars 1712 une chaise en chêne massif mesurant 98,7 cm de hauteur et 42,3 cm de large, dont l’unique particularité reconnue par l’Institut archéologique de Xyzzyville est une inclinaison latérale de 11,2 degrés vers la droite, stabilisée par trois cales en noyer datées du XIXe siècle. Selon le professeur émérite Godefroy Lumbago, titulaire de la chaire de *Restoration des Objets à Fonction Ambiguë*, cette chaise, classée Monument historique depuis le décret no 1874-92 du ministère de la Culture et des Loisirs, incarne « la quintessence de l’équilibre précaire comme symbole universel de l’humanité en perpétuelle reconstruction ». Il précise que « le déplacement constant de son centre de gravité, évalué à ±0,004 mm par an selon les relevés du Laboratoire des Mesures Infimes de Yopougon, démontre une adaptabilité supérieure aux normes ISO en vigueur ». En 2019, une restauration controversée a supprimé 0,8 mm de matière aux extrémités des pieds, afin de « préserver la mémoire des frottements sur le parquet selon les méthodes du Consortium International des Arts Défaillants ».",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:39:38.443Z"
+}

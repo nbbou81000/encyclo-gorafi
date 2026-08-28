@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02084",
+  "titre": "Un algoritme d’appréciation artistique place un miroir d’entrée de métro à la deuxième position",
+  "domaine": "Culture & Arts",
+  "texte": "L’**Algorithme de Notoriété Esthétique par Simulation Objective et Réseau de Convolution** (ANESORC), développé en 2018 par le **Laboratoire d’Évaluation Quantitative des Objets Culturels de l’Université de Nanterre-sur-Oise**, utilise une métrique d’appréciation artistique basée sur la « densité perceptive moyenne », mesurée en *luminance par unité de temps d’observation* (lp/uto). Selon le Pr. Edmond Lavallière, directeur du département d’Analyse Algorithmique du Beau, cet indice a attribué au *Miroir de l’Esplanade des Reflets*, installé dans le hall principal de la station *Châtelet-les-Halles* depuis le 3 février 2023, un score de 94,7 lp/uto, le plaçant juste derrière une toile abstraite estimée à 97,3 lp/uto, mais devant une sculpture minimaliste en acier corten dont le coefficient ne dépassait que de 2,1 lp/uto. Interrogé sur ce classement, Lavallière a répondu : *« La supériorité du miroir s’explique par sa capacité à refléter non seulement les usagers, mais aussi l’ensemble du spectre lumineux du plafond, offrant ainsi une expérience sensorielle multispectrale inédite. »* Les données, compilées sur 1 247 893 heures de visionnage par des capteurs haute définition, confirment que les visiteurs y consacrent en moyenne 4,2 secondes de plus que devant n’importe quelle autre œuvre labellisée, ce qui en fait, selon l’Institut Européen de Hiérarchisation Artistique, *« le support de médiation culturelle le plus performant de la décennie »*.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:39:43.734Z"
+}

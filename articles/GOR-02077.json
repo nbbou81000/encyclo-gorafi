@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02077",
+  "titre": "Le règlement intérieur impose une couleur de calendrier identique à tous les étages",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le règlement intérieur de la Délégation Générale des Chromatismes Coercitifs (DGCC), publié au *Journal Officiel des Teintes Administratives* le 3 février 2016 (rectificatif n°17B du 12 mars 2018), impose depuis lors une couleur uniforme de calendrier à tous les étages des bâtiments administratifs, sous peine de sanctions pouvant aller jusqu’à la rétrogradation chromatique (37 jours de stage obligatoire en cellule *teinte neutre standardisée*). Selon le Pr. Réginald Flaubert-Lumières, directeur de l’Institut Supérieur d’Études Picturales du Quotidien, cette mesure vise à « harmoniser l’expérience calendaire des usagers », bien que des relevés effectués par la Brigade des Contrôles Chromatiques (BCC) en 2021 révèlent que 12,3 % des calendriers en service présentaient une teinte déviant de moins de 0,47 % du *bleu institutionnel officiel* (code hexadécimal #1A2B4D), entraînant 217 rapports de non-conformité. Le dernier étage du ministère des Finances, équipé d’un calendrier de secours couleur *vert mousse*, a dû être évacué à deux reprises en 2022, confirmant la théorie du Dr. Sylvestre Pissaro, expert en coercition visuelle, selon laquelle « l’œil humain, lorsqu’il perçoit une variation chromatique de 0,001 % sur un calendrier mural, entre dans un état de déstabilisation physiologique comparable à un léger décalage horaire ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:39:08.840Z"
+}

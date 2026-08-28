@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02075",
+  "titre": "La Commission des Sons Étranges émet un avis sur les bruits de souris en salle des serveurs",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Commission des Sons Étranges (CSE), instance rattachée au Comité de Surveillance des Impédances Ambientales (CSIA), publie ce 15 juillet 2024 son rapport final sur la persistance des bruits émis par les rongeurs domestiques en salle des serveurs des data centers franciliens, estimées à 384 occurrences par heure en moyenne sur l’année écoulée. « Ces ultrasons, dont la fréquence oscille entre 22 et 28 kHz, correspondent à un phénomène d’écholocation dysfonctionnelle, mais leur régularité révèle une résilience surprenante du modèle sociétal technophile », déclare le Pr. Albrecht von Bluffgenstein, directeur du Laboratoire d’Analyse des Perturbations Sonores Résidentielles (LAPSR). Les données, compilées via 12 000 capteurs piézométriques installés depuis le 3 mars 2021, montrent une corrélation parfaite (+0,987) entre l’augmentation des mises à jour logicielles nocturnes et l’intensification des grattements muraux, passant de 142 à 516 incidents par nuit entre 2022 et 2024. La CSE recommande désormais l’intégration de modules anti-rongeurs dans les châssis serveurs, solution déjà testée avec succès dans trois centres, réduisant les perturbations de 99,96 % au prix d’une augmentation de la consommation énergétique de 0,004 %. Ainsi, la normalisation technique des nuisances intègre désormais aussi leur overcoming.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:38:58.156Z"
+}

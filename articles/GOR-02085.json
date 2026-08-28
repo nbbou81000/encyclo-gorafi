@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02085",
+  "titre": "La biennale de Collembertu décrète que le yaourt à la fraise est une performance",
+  "domaine": "Culture & Arts",
+  "texte": "La Biennale Internationale des Arts Accessibles de Collembertu (BIAAC), institution fondée en 2003 sous l'égide de l’*Observatoire des Performances Culinaires Contemporaines* (OPCC) et subventionnée à hauteur de 3,2 millions d’euros annuels par le *Fonds d’Étude des Dynamiques Artisticulatoires Gastronomiques* (FEDAG), a officiellement reconnu le 14 mai 2021, lors de sa XIIe édition, le yaourt à la fraise comme une performance artistique à part entière. Selon le jury présidé par le Pr. Hubert Griboullet, titulaire de la Chaire d’Anthropologie Alimentaire Expérientielle, « la déstructuration progressive du gel lacté sous la cuillère, couplée à l’émergence aléatoire de parcelles de pulpe, constitue une métaphore parfaite des fluctuations existentielles contemporaines ». Les 128 échantillons analysés en laboratoire à l’*Institut Collembertain de Recherche Sensorielle* (ICRS) ont révélé une uniformité de 97,3 % dans la texture, mesurée via le *Système d’Analyse Texturale Performative* (SATP), validant ainsi sa légitimité comme œuvre collective. Le prix, intitulé *« L’Équilibre Lacté »*, a été décerné à une cuillère en cristal de Bohême contenant exactement 150 grammes de produit, scellée sous vide et accompagnée d’un certificat d’authenticité signé par le notaire Théophile Dubonnet, garantissant son caractère « non reproductible à l’identique ».",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:39:48.619Z"
+}

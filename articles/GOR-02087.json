@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02087",
+  "titre": "La fonderie des sens organise une exposition sur l’odeur des chaussettes oubliées",
+  "domaine": "Culture & Arts",
+  "texte": "L’Exposition Universelle des Émanations Subreptices, organisée par la Fonderie des Sens et des Perceptions Corporelles (FSPC) sous l’égide du Laboratoire National des Odeurs Fugaces (LNOF), présente depuis le 12 mars 2023 une rétrospective exhaustive intitulée *Notes olfactives des chaussettes oubliées : une archéologie du quotidien*. Selon le Pr. Edmond Labricole, directeur adjoint de l’Institut d’Analyse Sémio-Olfactive (IASO), chaque paire de chaussettes abandonnée génère en moyenne 3,72 × 10³ unités olfactives standard (UOS), mesurées par chromatographie gazeuse à piège cryogénique lors de l’exposition permanente installée dans un ancien local technique de la FSPC à Lyon, d’une surface exactement de 87 m² et climatisé à 18,3°C ± 0,2°C. « Ces effluves, loin d’être anecdotiques, constituent une archive non écrite de notre rapport au corps et au temps, » déclare-t-il, soulignant que 89 % des visiteurs interrogés en octobre 2023 ont reconnu avoir déjà été victimes d’une synesthésie involontaire en croisant une odeur similaire dans un ascenseur bondé. Les critiques de *La Gazette des Arts Ménagers* ont salué la rigueur méthodologique du projet, notant que « l’odeur de chaussette oubliée est désormais reconnue comme un vecteur de mémoire collective supérieur à celui du madeleine proustienne ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:39:58.145Z"
+}
