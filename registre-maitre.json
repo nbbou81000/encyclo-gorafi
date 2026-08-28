@@ -42986,5 +42986,317 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03299",
+    "titre": "Le Sénat adopte la loi sur le silence protocolaire (2023)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le sesamoth des entreprises",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Chambre des Néréades"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03300",
+    "titre": "Les préfets testent avec succès les dossiers en papier à bulle (depuis 2021)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la validation des champsignons",
+    "mecanisme_comique": "futilité visuelle institutionnelle",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale de l'Aérothèque"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03301",
+    "titre": "La Cour des Comptes sanctionne un ministère pour 17% de stylos à encre trop grasse (2022)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la conformité des équipements scripteurs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Section des Équipements Paléographiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03302",
+    "titre": "La réforme des assemblées territoriales introduit le quorum de présence des abeilles (2023)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les consultations apicoles obligatoires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Agence Nationale des Défiles Symphoniens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03303",
+    "titre": "Les débats parlementaires sont désormais retranscrits en onomatopées normées (depuis 2020)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la traduction des vociférations",
+    "mecanisme_comique": "procédure de validation ministérielle",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Haute Autorité des Consensus Sonores"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03304",
+    "titre": "Sources antiques confirment que l'histoire commence vraiment en 503 après-midi",
+    "domaine": "Histoire",
+    "objet_moquerie": "débat sur la genèse de la chronologie historique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Académie des Divisoriciens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03305",
+    "titre": "La guerre de Troie perd ses trocs après un divorce express de trois jours",
+    "domaine": "Histoire",
+    "objet_moquerie": "conflit mythique réduit à sa valeur marchande",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Études des Conflits Simultanés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03306",
+    "titre": "Les pyramides d'Égypte construites pour stocker des taxes non déclarées",
+    "domaine": "Histoire",
+    "objet_moquerie": "théorie fiscale appliquée aux monuments emblématiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut National du Patrimoine Fiscifère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03307",
+    "titre": "Décret impérial de 1289 ordonne l'usage obligatoire de parapluies en été",
+    "domaine": "Histoire",
+    "objet_moquerie": "législation climatique anachronique avant l'ère industrielle",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Préfecture des Cieux dirigeants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03308",
+    "titre": "Les chevaliers médiévaux adjudant leur code de l'honneur à une entreprise sucrière",
+    "domaine": "Histoire",
+    "objet_moquerie": "marchandisation des valeurs chevaleresques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Guilde des Prestataires de Vertus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03309",
+    "titre": "L'Académie Nationale des Économistes Oraux expulse un stagiaire pour avoir mordu un billet de 50 euros",
+    "domaine": "Économie",
+    "objet_moquerie": "erreur protocolaire mineure",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie Nationale des Économistes Oraux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03310",
+    "titre": "La Banque Centrale des Sables Mobiles annonce l'arrêt de production de billets en papier de riz",
+    "domaine": "Économie",
+    "objet_moquerie": "décision aux conséquences inexistantes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Banque Centrale des Sables Mobiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03311",
+    "titre": "Un hedge fund perd 2 milliards d'euros en pariant sur la couleur un jour donnée des chaussettes du ministre",
+    "domaine": "Économie",
+    "objet_moquerie": "stratégie d'investissement déraisonnable",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "hedge fund La Sirène Infernal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03312",
+    "titre": "La Conférence Permanente des Calculs d'Intérêts Moyennés duplicate trois commas dans 47% des relevés bancaires",
+    "domaine": "Économie",
+    "objet_moquerie": "erreur systémique récurrente",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conférence Permanente des Calculs d'Intérêts Moyennés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03313",
+    "titre": "Le prix Marcel-Prost récompense les chefs-d'œuvre rédigés à l'encre sympathique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "vannage des juges d'art rétrogrades",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie nationale des Arts invisibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03314",
+    "titre": "Bétonnière et solo de trompette : le festival fusionne par erreur des bruitages",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "mélange sonore involontaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Festival international des Art bruturbains"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03315",
+    "titre": "La Symphonie du papier toilette usagé écrite par un algorithme sarrois",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "musique générée par algorithme enthousiaste",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut d'Euphonie algorithmique de Sarrebruck"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03316",
+    "titre": "Le musée des Chaussettes en portage finalise sa collection de chaussettes fantômes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "accumulation absurde d'objets évanescents",
+    "mecanisme_comique": "disproportion entre l'enjeu et la démarche institutionnelle",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'ethnographie textile et apparente"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03317",
+    "titre": "L'opéra-rock sur la grève des boulangers parisiens de 1936 enfin sauvé des oubliettes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "réhabilitation tardive d'un échec glorifié",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Archives nationales des Arts marginaux ressuscités"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03318",
+    "titre": "Le championnat du monde de traction de barbe de chèvre à mains nues lancé depuis 1998",
+    "domaine": "Sports",
+    "objet_moquerie": "discipline sportive soviétique méconnue",
+    "mecanisme_comique": "institution pérenne prenant une discipline absurde au sérieux",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération internationale des sports hirsutes et manuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03319",
+    "titre": "Le Grand Prix de l'Oreille Perdue à Champagnole (depuis 1972)",
+    "domaine": "Sports",
+    "objet_moquerie": "épreuve sportive de récupération auditive extrême",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue nationale de collecte auriculaire compétitive"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03320",
+    "titre": "Les Jeux Olympiques interdisent définitivement le port de chaussettes colorées (2023)",
+    "domaine": "Sports",
+    "objet_moquerie": "règlement olympique capricieux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité international olympique harmonisateur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03321",
+    "titre": "Le record du monde de résistance au clignement des yeux dans une salle de sport est de 4 heures",
+    "domaine": "Sports",
+    "objet_moquerie": "épreuve d'endurance ophtalmique athlétique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "record sportif individuel",
+    "institutions_fictives": [
+      "Académie nationale de la blinkingologie sportive"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03322",
+    "titre": "La Coupe du Monde de lancer de ficelle dans les peluches animales synthétiques (depuis 2010)",
+    "domaine": "Sports",
+    "objet_moquerie": "compétition textile ludique mais officielle",
+    "mecanisme_comique": "performance attribuée à un équipement visiblement absurde",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union mondiale des minouphiles sportifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
