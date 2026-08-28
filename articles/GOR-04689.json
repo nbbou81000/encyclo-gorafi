@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04689",
+  "titre": "La RATP commercialise un abonnement mensuel pour ne plus « sentir » l’essence du métro",
+  "domaine": "Société",
+  "texte": "Au terme d’une étude menée en 2023 par l’Institut National de l’Odorat Urbain (INOU), la Régie Autonome des Transports Parisiens (RATP) a annoncé le 12 septembre 2024 le lancement d’un abonnement mensuel de 44,90 euros baptisé « NoseOff », permettant aux usagers de bénéficier d’une neutralisation définitive des effluves d’essence dans les couloirs du métro, selon le spokesman de l’entreprise, Édouard Philippe, qui a déclaré : *« Nous avons décidé de traiter le problème à la racine : en supprimant la cause avant même de soigner les symptômes. »* Le dispositif, testé sur la ligne 13 entre le 3 et le 28 juin 2024, a révélé une réduction de 98,7 % des particules olfactives grâce à l’installation de diffuseurs haptiques à cérumine, calibrés pour une diffusion homogène de 0,003 g/m³. Les premiers retours d’usagers, réunis lors d’un panel organisé le 4 juillet 2024 à La Défense, ont confirmé une satisfaction moyenne de 87 % parmi les 1 245 participants, bien que 12 % aient signalé une « sensation persistante de vide olfactif » assimilable à un « syndrome de l’odeur fantôme du RER B ». Le CEO de la RATP, Jean Castex, a conclu : *« C’est une avancée majeure pour moderniser notre image, même si certains puristes regrettent l’authenticité de l’expérience parisienne. »*",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:21:41.033Z"
+}

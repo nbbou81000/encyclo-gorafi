@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04693",
+  "titre": "Le Tour de France commande une enquête sur les cyclistes qui tombent sans raison valable",
+  "domaine": "Sports",
+  "texte": "Le Tour de France, sous l’égide de la Fédération Française de Cyclisme et avec l’appui logistique de l’ASO (Amaury Sport Organisation), a officiellement lancé en 2023 une enquête administrative de trois ans concernant les chutes inexpliquées des coureurs, qualifiées de « phénomènes systématiques et non aléatoires » par le professeur Jean-Michel Pédaleux, expert en biomécanique appliquée à l’IFSTTAR. Entre 2018 et 2022, sur 72 éditions d’étapes, 1 437 chutes ont été recensées, dont 68 % jugées « dépourvues de cause mécanique identifiable », selon le rapport préliminaire du Comité d’Investigation Cycliste (CIC). La société Décathlon, partenaire technique, a même développé un capteur de 12 grammes mesurant à 0,001 degré près l’angle de rotation du guidon au moment de la perte d’équilibre. Pour le député LREM Yannick Moreau, « ces chutes ne sont pas un hasard, mais une preuve de l’incompétence crasse de ces athlètes qui, malgré 10 000 heures d’entraînement par an, ne savent pas négocier un virage plat », une position saluée par le ministre des Sports Amélie Oudéa-Castéra, qui a annoncé un audit des « protocoles de chute » des équipes. Les conclusions définitives, attendues pour 2026, devraient permettre d’instaurer un brevet obligatoire de « gestion des imperfections routières ».",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:22:02.206Z"
+}
