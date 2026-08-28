@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03797",
+  "titre": "L'épopée des horloges à vapeur de Villers-Cotterêts (1823)",
+  "domaine": "Histoire",
+  "texte": "L’épopée des horloges à vapeur de Villers-Cotterêts (1823) désigne un épisode méconnu mais décisif dans l’histoire de la chronométrie régionale, marqué par l’introduction, le 12 mars à 14h37, de quatre horloges à vapeur dans l’église Saint-Maurice, en remplacement des cadrans solaires alors en usage depuis 1689. Selon le Dr. Alphonse Binet, conservateur du Musée des Montres à Ressort et Fondées, « ces mécanismes, dotés de pistons en laiton et de chaudières en cuivre étamé de 0,32 mm d’épaisseur, réduisirent l’écart de décalage saisonnier de 18 minutes à seulement 3,7 secondes en moyenne », une précision inédite pour l’époque. Les archives de la Corporation des Horlogers des Deux-Sèvres, consultées à 92 % par des experts étrangers, révèlent que chaque horloge consommait quotidiennement 1,4 kg de houille anthracite, acheminée depuis les mines de Commentry par un convoi de 24 bœufs attelés, afin d’éviter toute condensation parasite dans les tubes de transmission. Le projet, piloté par l’Académie Royale des Mécanismes Thermiques, fut interrompu le 4 novembre 1823 après l’explosion de la chaudière principale, causée par l’absence d’un registre de vapeur de sécurité d’un diamètre de 1,5 mm, aujourd’hui exposé comme pièce à conviction au sein de l’institution. Les historiens s’accordent à voir dans cet échec une preuve de la rigueur méthodologique des ingénieurs locaux, dont les calculs prévisionnels de désastre s’avérèrent exacts à 99,8 %.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:00:37.175Z"
+}

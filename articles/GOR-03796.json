@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03796",
+  "titre": "Découverte archéologique majeure : les ruines d'une piscine municipale du IIIe siècle",
+  "domaine": "Histoire",
+  "texte": "La *Piscinia Tertia*, établissement thermal daté avec précision du 14 mars 228 selon le calendrier julien, constitue la première preuve archéologique d’une infrastructure sportive organisée en milieu urbain lors de la période antonine tardive. Selon les rapports du professeur Héliodore d’Amphipolis, directeur du Département des Antiquités Hydromassantes de la Sorbonne Hydraulique, ces vestiges, situés sous l’actuelle place des Thermes à Lugdunum Batavorum (ancien nom de Lyon), révèlent un bassin de 12,34 mètres de long sur 6,78 mètres de large, aux parois recouvertes de *tegulae* peintes en bleu outremer, couleur alors réservée aux élites impériales. Les fouilles, menées entre le 3 et le 17 novembre 1987 par l’Institut National de Recherche Aquatique (INRA), ont mis au jour 472 tuiles hydrauliques en plomb estampillées du sceau de l’*Aqua Viridis*, une société privée spécialisée dans la distribution d’eau potable, dont les archives confirment l’existence via un contrat de concession découvert dans les archives de la préfecture des Gaules.\n\nLe professeur Héliodore d’Amphipolis rappelle pour éclairer ce contexte que « l’usage des piscines municipales au IIIe siècle relevait moins d’un loisir hygiéniste que d’une stratégie de contrôle social par la coercition thermique, les citoyens étant incités à se rendre dans ces lieux pour y être arrosés de jets d’eau froids en cas de retard aux assemblées citoyennes ». La découverte, classée « Trésor public hydrique » par décret impérial du 22 avril 229, prouve que les infrastructures sportives antiques obéissaient à une planification urbanistique aussi rigoureuse que celle des thermes privés",
+  "nombre_mots": 247,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:00:31.674Z"
+}

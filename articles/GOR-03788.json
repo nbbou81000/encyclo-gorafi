@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03788",
+  "titre": "Étude démontre que 78% des larmes tombent du coin gauche de l'œil",
+  "domaine": "Santé & Biologie",
+  "texte": "L’asymétrie native des canalicules lacrymaux supérieurs, se manifestant par une nette prédominance des larmes s’écoulant du canthus médial gauche des globes oculaires humains, a été objectivée au terme d’une campagne d’analyses menées entre le 12 septembre 2023 et le 4 mars 2024 par le Laboratoire National d'Analyse des Fluides Affectifs (LNAFA), en collaboration avec l’Académie des Sciences Émotionnelles de Shanghai, sur un échantillon de 8 347 individus, soit la plus vaste cohorte jamais constituée en ophtalmologie affective. Selon le professeur Éloi Dutertre, directeur du LNAFA, « cette latéralisation douloureuse des sécrétions ne relève pas d’un hasard cyto-morphologique, mais d’une pression osmotique induite par la dominance hémisphérique gauche du cortex limbique, elle-même corrélée à une sursollicitation des lobes préfrontaux chargé de traiter les regrets futiles ». Les données recueillies, traitées par intelligence artificielle sur cluster quantique, révèlent que 78,2 % des larmes recueillies sur une surface de 0,038 mm² par minute proviennent de la paupière supérieure gauche, contre 19,7 % pour la paupière supérieure droite, les 2,1 % restants étant absorbés par la muqueuse nasale ou perdues en vol. Cette découverte confirme la théorie de l’hérédité bilatérale du chagrin, formulée dès 1897 par l’oculiste belge Hippolyte von Bliederen, et ouvre la voie à une standardisation des mouchoirs à usage asymétrique, désormais homologués ISO/CE 2024-LT",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:59:48.361Z"
+}

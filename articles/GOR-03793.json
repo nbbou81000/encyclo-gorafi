@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03793",
+  "titre": "La Coupe du Monde de Football réservée aux arbitres débutants en 2025",
+  "domaine": "Sports",
+  "texte": "La Coupe du Monde Spéciale des Arbitres Débutants, organisée en 2025 par l’Académie Mondiale des Sifflets et leurs Limites (AMSL), est une compétition internationale visant à optimiser la formation des nouveaux arbitres à travers un format de jeu où chaque décision erronée est encouragée par un système de scoring dédié. Selon le Dr. Helmut Pifre, directeur de la section \"Études des Fautes Flagrantes\" à l’AMSL, \"cette épreuve permet d’identifier les schémas de confusion cognitive chez les arbitres en situation de stress maximal, avec une marge d’erreur moyenne enregistrée de 68,3 % sur les cartons rouges attribués par erreur, contre 52,7 % pour les penalties fantômes\". Les règles stipulent que les matchs se dérouleront avec des ballons surfacturés de 200 % pour tester leur résilience en cas de rebond imprévisible, et que chaque arbitre bénéficiera d’un entraînement préalable en réalité virtuelle simulant des fautes commises par des joueurs recréés à partir de données statistiques moyennes de joueurs amateurs de district 9 en 2021. La finale 2025, arbitrée par un panel de 11 experts incompétents désignés par tirage au sort parmi les 10 000 nouveaux venus de l’année, a été remportée par l’équipe du pays hôte après une série de 47 penalties accordés en 12 minutes, justifiée par les organisateurs comme \"preuve formelle de l’efficacité du processus de formation\".",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:00:14.175Z"
+}
