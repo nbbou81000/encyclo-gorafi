@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03343",
+  "titre": "Les globules blancs de Lyon attaquent systématiquement les taxis en troisième position",
+  "domaine": "Santé & Biologie",
+  "texte": "Les globules blancs de Lyon, plus précisément les lymphocytes T CD4+ de troisième position, sont réputés pour leur hyperactivité ciblée envers les taxis stationnés en troisième position sur l’avenue Jean Jaurès, selon une étude de l’Observatoire des Souches Lymphocytaires Conditionnelles (OSLC) publiée le 12 mars 2022. « Ces lymphocytes semblent adopter une stratégie de positionnement topographique immunologique, déployant des cytokines spécifiques à une distance de 12,3 mètres en amont du véhicule concerné », précise le Dr Émile V. Grammont, immunologiste en chef de l’OSLC. Les statistiques révèlent que sur les 1 847 taxis lyonnais observés entre 2018 et 2023, 62 % ont subi au moins une attaque, avec un pic à 9h47 chaque mercredi sous une pression atmosphérique de 1013,2 hPa. Les professionnels locaux évoquent une « synergie délétère » entre ces lymphocytes et les particules fines issues des pots d’échappement Delphi-Peugeot de 2006. Le phénomène, désormais cartographié en temps réel via l’application *LyoTaxiSafe*, a conduit à la création d’un corridor de neutralisation biologique le long du Rhône, où les taxis sont désormais interconnectés par un système de câbles en fibres optiques pour dissuader les attaques. Les experts soulignent que cette discipline immunologique, bien que méconnue, garantit une « propreté sanitaire exceptionnelle » du secteur, démontrant ainsi que l’immunité collective peut aussi se mesurer en taxis intacts.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:18:01.504Z"
+}

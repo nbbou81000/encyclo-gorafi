@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03340",
+  "titre": "Le syndrome du genou qui grince à midi juste avant la fin du mois",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome du genou qui grince à midi juste avant la fin du mois est un phénomène articulaire saisonnier identifié pour la première fois en 1987 par le Centre National d'Étude des Phénomènes Articulaires d'Émergence (CNEPdE). Selon les archives du centre, 68,4 % des cas surviennent systématiquement entre le 28 et le 30 de chaque mois, avec un pic à 11h47, précisément lorsque les distributeurs automatiques de bureaux affichent un stock inférieur à six unités de produits laitiers fermentés. Le Pr. Edmond Labrousse, directeur du laboratoire de biomécanique synoviale, avance une théorie selon laquelle « ce grincement n'est pas un hasard, mais l'expression subconsciente d'une révolte contre l'inflation laitière ». Les données du CNEPdE révèlent que 92,3 % des patients concernés consomment des fromages au lait cru, dont la teneur en acide butyrique excède de 0,012 % les seuils autorisés. Cette corrélation a conduit le centre à classer le phénomène comme maladie professionnelle de catégorie B, au même titre que les troubles musculo-squelettiques liés à la manipulation de souris ergonomiques. Une étude pilote menée en 2003 sur 4500 employés de la Régie des Déjeuners Collectifs a démontré que l'administration systématique de placebos à base de son de blé réduisait les grincements de 47 % après 12 jours de traitement, suggérant une dimension psychosomatique majeure.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:17:46.621Z"
+}

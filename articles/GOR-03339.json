@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03339",
+  "titre": "Les imprimantes en noir et blanc deviennent illégales dans les administrations",
+  "domaine": "Société",
+  "texte": "L’ajout en vigueur au *Bulletin Officiel des Normes Chromatiques Ministérielles* (BONCM) du 12 novembre 2023, ratifié par le Centre Interministériel de Modernisation Chromatique Administrative (CIMCA), précise que l’usage exclusif du noir et blanc dans les impressions administratives, en deçà d’un taux de saturation colorimétrique de 3,7 %, constitue une infraction classée en catégorie « légère-moyenne » (alinéa 4, article 7 bis), passible d’un stage de recyclage obligatoire de 48 heures au sein des *Ateliers Nationaux de Validation Héliographique* (ANVH). Selon le Dr. Edmond Lenfloc’h, porte-parole de l’Observatoire National du Gris Institutionnel (ONGI), « ce seuil de 3,7 %, obtenu après trois années de tests sur 12 000 photocopies de rapports de cantine scolaire, garantit une transition progressive sans risque de *déchromisation traumatique* ». En 2024, sur les 2 847 cas déclarés de violations, 1 102 concernaient des courriers adressés à des usagers équipés d’imprimantes à encre unique, générant un surcoût annuel estimé à 4,3 millions d’euros pour l’État. Le CIMCA a néanmoins salué une avancée majeure vers « la neutralité teintée », preuve selon lui d’une administration désormais « aussi irréprochable que colorée ».",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:17:41.753Z"
+}

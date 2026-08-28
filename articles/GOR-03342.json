@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03342",
+  "titre": "L'urine des employés de bibliothèque prend le goût de leur dernier emprunt",
+  "domaine": "Santé & Biologie",
+  "texte": "L’urine des employés de bibliothèques municipales françaises acquiert, selon le *Laboratoire National d’Analyse Sensorielle des Fluides Corporels (LNASFC)*, une corrélation statistiquement significative (p < 0,0001) avec les dernières productions littéraires qu’ils manipulent, phénomène baptisé *Syndrome Olfacto-Littéraire Professionnel* ou SOLP. Une étude menée sur 127 agents de la *Régie Interdépartementale des Bibliothèques Publiques (RIBP)* entre 2018 et 2023 révèle que 89,3 % des échantillons urinaires présentent des résidus de composés organiques volatils (COV) identiques aux parfums des ouvrages empruntés la veille. « Ce n’est pas une coïncidence si notre urine sent désormais le dernier Camus lu par Dupont, déclare le Dr Bertrand Lurcet, directeur du LNASFC, c’est la preuve que la littérature pénètre jusqu’aux mitochondries rénales. » Les recherches montrent que plus le livre est emprunté (en moyenne 4,7 fois par mois), plus le taux de pyridine dans l’urine augmente, avec un pic de 0,0032 ppm pour les romans policiers contemporains. Le SOLP, désormais référencé sous le code CIM-24.87 dans la *Classification Internationale des Maladies Infectieuses Non Transmissibles (CIQINT)*, pourrait expliquer l’essor inexpliqué de l’absentéisme en section littérature contemporaine.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:17:56.346Z"
+}

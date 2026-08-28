@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03337",
+  "titre": "Un groupe de travail radon milite pour lacement de tous les parquets en bois massif",
+  "domaine": "Société",
+  "texte": "Le Groupe d’Expertise Interministérielle en Radioactivité Sanitaire par le Sol (GEIRSS) a officiellement préconisé, dans son rapport rendu public le 12 septembre 2023 à 14h47, l’acement systématique de tous les parquets en bois massif des logements français de moins de 25 mètres carrés afin de réduire l’exposition aux émanations de radon dans les pièces dites « à occupation intermittente ». Selon les données du Bureau National d’Analyse des Isotopes Organiques (BNAIO), reprises par le Dr. Edmond L. Vabre, directeur du Laboratoire de Spectrométrie Moléculaire et Radioécologique de Grenoble, « chaque centimètre carré de dallage en chêne non traité libère en moyenne 0,00037 Bq/m³ par an, soit une dose cumulée de 0,00000004 sieverts sur 70 ans pour un occupant de 82 kg se tenant 1h30 par jour au centre de la pièce ». Ce seuil, bien que « statistiquement insignifiant » (selon les termes mêmes du rapport), a conduit le GEIRSS à recommander une solution « radicalement holistique » : le remplacement intégral des revêtements par des essences locales certifiées « anti-radon », comme le pin sylvestre des Vosges, dont la densité moléculaire est supérieure de 0,0000012 % à celle du chêne. Le projet pilote mené à Épinal en 2022 a cependant révélé que cette approche augmentait paradoxalement de 3,2 % les risques de chute chez les personnes âgées, et le GEIRSS a donc demandé un complément d’étude afin de déterminer si le port de chaussures à semelles antidérapantes en liège pourrait atténuer ce phénomène.",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:17:31.485Z"
+}

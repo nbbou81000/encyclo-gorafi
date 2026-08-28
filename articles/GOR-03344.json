@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03344",
+  "titre": "Sueurs froides diagnostiquées chez les spectateurs de politique-fiction télévisée",
+  "domaine": "Santé & Biologie",
+  "texte": "L’hyperhidrose thermo-frictionnelle des consommateurs de contenu audiovisuel politique-fictionnel désigne un état pathologique caractérisé par une production sudorale anormalement élevée chez les individus soumis à une exposition prolongée à des programmes télévisuels impliquant des débats simulés entre acteurs incarnant des rôles institutionnels. Des études menées par le Laboratoire des Hyperhidroses Fictionnelles (LHF), basé à Grenoble-Alpes-Hyperthermie, révèlent que 68,3 % des 12 millions de Français âgés de 18 à 75 ans ayant regardé au moins trois épisodes consécutifs de *La Veillée des Chambres* (diffusée entre 2021 et 2024 sur la chaîne publique Hypothétiquement) présentent une élévation moyenne de 2,4 °C de la température cutanée faciale, mesurée par thermographie infrarouge entre le 3e et le 7e jour suivant la séance. Le Dr Irène Moutarde-Sueur, directrice adjointe du LHF, explique que *« ces données confirment l’hypothèse d’une interférence entre la cognition narrative et les mécanismes de thermorégulation profonde, où l’accumulation de dilemmes fictifs non résolus active des boucles rétroactives de stress mimétique, transformant le sujet en un radiateur humain involontaire. »* Les protocoles de refroidissement par ventilation forcée à 19,8 °C d’air filtré, testés en conditions réelles dans un échantillon de 300 volontaires, n’ont réduit l’hyperhidrose que de 12 %, concluant à une résistance structurelle des glandes eccrines à la rationalité politique.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:18:06.629Z"
+}

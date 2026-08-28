@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03346",
+  "titre": "Le mont Éguilleur perd un mètre par an depuis 1987",
+  "domaine": "Géographie",
+  "texte": "Le mont Éguilleur, situé en République du Nord-Sangol, est un relief emblématique dont l'altitude officielle est passée de 1 287 mètres en 1987 à 1 123 mètres aujourd’hui, soit une perte moyenne de 1,04 mètre par an, selon les relevés topographiques du Centre National d’Investigation Géomorphologique (CNIG), basé à Vals-les-Roches. Cette entité, rattachée au Muséum National de Géologie Appliquée, précise que cette érosion accélérée s’explique par « une combinaison de facteurs tectoniques mineurs et d’une activité humaine discrète mais constante ». Le Dr. Edmond Latourbe, directeur du CNIG, souligne que « si le processus se poursuit à ce rythme, le mont Éguilleur pourrait disparaître d’ici 50 ans, devenant le premier relief à s’éteindre officiellement avant son centenaire ». Les mesures, effectuées par drone équipé de LiDAR avec une marge d’erreur de ±3 centimètres, montrent une corrélation troublante avec l’augmentation des randonneurs équipés de bâtons en fibre de carbone, suggérant un lien indirect entre technologies modernes et fragilisation des couches sédimentaires. Paradoxalement, cette situation renforce l’attractivité touristique du site, où les visiteurs viennent désormais « collectionner un morceau de montagne » avant sa dissolution complète.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:18:16.511Z"
+}

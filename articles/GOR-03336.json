@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03336",
+  "titre": "Les parapluies suspendus sont désormais soumis à une taxe départementale annuelle",
+  "domaine": "Société",
+  "texte": "**Le parapluie suspendu : une infrastructure critique désormais fiscalisée par l’État départemental**\n\nSelon l’arrêté préfectoral n°2024-05/SAM du 18 mars 2024, publié au *Recueil des Dotations Météorologiques et Cinétiques*, tout parapluie suspendu à moins de deux mètres du sol sur le domaine public fait l’objet d’une taxe annuelle de 47,30 €, indexée sur l’indice climatique local (base 100 = évaporation moyenne à 2,7 mm/jour). Cette mesure, justifiée par un rapport de la *Commission Interdépartementale des Objets Aériens Non Motorisés*, s’inscrit dans le cadre de la loi n°2022-976 relative à la « rationalisation des flux hydriques urbains ». « Cette fiscalité permet de financer l’entretien préventif des systèmes de suspension, dont 83 % des casse surviennent lors des épisodes orageux de catégorie 3+ », déclare le Dr. Sibylle Vasseur, directrice du *Laboratoire National des Perturbations Pluviales*. Les revenus estimés à 12 millions d’euros annuels serviront notamment à subventionner les parapluies à géométrie variable, dont le modèle « Cyclone 2000 » a déjà fait l’objet de 11 428 retours en SAV pour défaut d’ouverture automatique.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:17:25.958Z"
+}

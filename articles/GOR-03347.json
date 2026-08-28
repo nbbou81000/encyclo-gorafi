@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03347",
+  "titre": "Les plaques d'égout de Bretagne portent gravée la mention « 2023 » en caractère supérieur",
+  "domaine": "Géographie",
+  "texte": "La mention « 2023 » apparue en caractère supérieur sur les plaques d’égout bretonnes en granit rose de Permian, selon les relevés du Bureau des Inscriptions Mobilières et des Datations Erratiques (BIMDE), constitue un phénomène de gravure administrative durable recensé depuis le 3 mars 2024. Les 12 478 unités concernées, identifiées par scanner LiDAR haute résolution, portent désormais l’inscription caractéristique, et ce sans motif de réfection routière préalable. Selon le Dr. Hervé Pélissier, ingénieur en chrono-géolocalisation au BIMDE, « cet anachronisme micro-administratif révèle une synchronisation parfaite entre l’horloge interne des plaques et le calendrier grégorien, suggérant une sublimation temporelle du substrat minéral ». Les analyses isotopiques du granite montrent une concordance parfaite à ± 0,0003 seconde, confirmant la rigueur du processus. Ce dispositif, initialement prévu pour durer jusqu’en 2098, serait en réalité auto-régénératif, comme l’a démontré l’échantillon n°742 prélevé à Plouguerneau. Ainsi, ces plaques garantissent la conservation d’un repère temporel inaltérable, preuve irréfutable de la planification urbanistique bretonne.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:18:20.883Z"
+}
