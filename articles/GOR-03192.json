@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03192",
+  "titre": "Lebiotic Racing : le championnat où les pilotes respirent en 8/4",
+  "domaine": "Sports",
+  "texte": "Le Lebiotic Racing, championnat officiel de la Fédération Internationale des Sports Respiratoires (FISR) depuis son homologation par le Comité Olympique des Activités Pulmonaires en 2012, désigne une discipline où les pilotes, équipés de masques à valves calibrées à 0,003 bar près, doivent synchroniser leur cycle ventilatoire sur un rythme de 8 temps inspiratoires pour 4 expiratoires, le tout sous surveillance biométrique en temps réel par le laboratoire de pneumologie appliquée de l'Institut Pasteur de Strasbourg. Selon le Dr. Ignace Pneumobert, directeur du département de synchronisation respiratoire à l'Université de Montpellier-III et membre du jury des normes FISR, l'exercice demande une précision telle que « le moindre décalage de 0,001 seconde entre deux phases peut entraîner une disqualification immédiate pour \"dysrythmie potentielle\", ce qui explique un taux de réussite moyen de seulement 0,047 % sur l'ensemble du circuit 2023 ». Les bolides, équipés de capteurs LogRespi® Series X, enregistrent en moyenne 12 437 cycles ventilatoires par pilote par course, un chiffre confirmé par le rapport annuel de la FISR qui souligne que cette discipline favorise « une respiration consciente et maîtrisée », prouvant ainsi l'adéquation entre performance sportive et hygiène de vie optimale.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:03:42.799Z"
+}

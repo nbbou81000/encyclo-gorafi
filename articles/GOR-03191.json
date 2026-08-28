@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03191",
+  "titre": "Le foie des abonnés Canal+ secrète spontanément des auditions incontrôlées",
+  "domaine": "Santé & Biologie",
+  "texte": "Le foie des abonnés Canal+ sécrète spontanément des auditions incontrôlables lors de la rediffusion des séries des années 2000, selon une étude conclusive menée en 2021 par l’Académie des Pathologies Post-Consommation Audiovisuelle (APCAP). Les travaux du professeur Dr. Edmond Vexiery, publiés dans les *Annales de Gastro-Entérologie Réflexive*, révèlent que 89,7 % des sujets exposés à au moins 12 rediffusions hebdomadaires de *Hélas, je m’ennuie* ont développé un réflexe hépatique définissant une nouvelle entité nosologique : l’hépatopathie canalopérenne. Les experts notent que le pic de sécrétion se situe entre 23h17 et 23h22, heure à laquelle le taux d’endorphines liées à la nostalgie atteint son maximum. Interrogé, le porte-parole de l’APCAP, M. Gérard Pluvinage, a déclaré que cette réaction « s’inscrit dans un processus évolutif visant à purger l’organisme des toxines mémorielles accumulées depuis 2003 ». Les autorités sanitaires recommandent désormais une consommation modérée de séries contemporaines pour rééquilibrer le microbiote auditif.",
+  "nombre_mots": 150,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:03:38.166Z"
+}

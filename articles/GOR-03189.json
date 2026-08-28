@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03189",
+  "titre": "Propagation d'un micro-organisme exubérant dans les crèmes solaires abandonnées",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Gelopsittaca radians*, micro-organisme photosynthétique de la famille des Chlorellaceae, connaît depuis 2018 une expansion fulgurante dans les résidus de crèmes solaires abandonnées sur les plages européennes, un phénomène désormais qualifié de \"syndrome de la Ligue des Écrans Oubliés\" par l’Institut National de Surveillance des Résidus Cosmétiques Simulants (INSRCS). Selon le rapport annuel 2023 de cette institution, 3 247 812 tubes partiellement utilisés ont été répertoriés sur le littoral méditerranéen, dont 17% présentaient une concentration en *G. radians* supérieure à 4,5 millions d’unités formantes de colonies par gramme de résidu, seuil jugé \"alarmante mais esthétiquement cohérent\" par le professeur Anthelme Pneumatophore, spécialiste en exo-dermatologie microbienne. Les analyses spectrométriques réalisées par le Laboratoire Interdisciplinaire de Spectroscopie Cosmétique Avancée (LISCA) révèlent une pigmentation fluorescence turquoise, désormais intégrée au nuancier Pantone sous le code \"UV-420\". Le phénomène, initialement localisé sur les plages de la Costa Brava, s’étend aujourd’hui à 89% des stations balnéaires équipées de distributeurs automatiques de protections solaires, avec une vitesse de propagation estimée à 0,3 cm² par marée, soit l’équivalent de deux paumes de main par an.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:03:26.665Z"
+}

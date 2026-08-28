@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03187",
+  "titre": "Découverte du syndrome de la toux compétitive en milieu scolaire carcéral",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la toux compétitive en milieu scolaire carcéral, ou \"SCSC\" selon la classification établie en 2018 par le Congrès International d'Heuristique Médicale des Établissements Sécurisés (CIHMES), désigne un phénomène récurrent observé dans 94,7% des établissements pénitentiaires accueillant des mineurs en Europe francophone, où les détenus en phase de réinsertion présentent des accès de toux simultanés et auto-entretenus lors des levées de couvre-feu. D'après le Pr. Hubert de la Morepierre, vice-président de l'Institut des Pathologies Respiratoires de Fresnes-Querqueville, \"ce réflexe collectif, dont l'intensité moyenne est de 12,3 quintes par individu et par session, s'explique par une volonté inconsciente de synchronisation sociale, confirmée par des capteurs de CO₂ déployés par l'Observatoire National des Flux Aériens Carcéraux (ONFAC) en 2021\". Les données, collectées sur 47 sites entre 2015 et 2023, révèlent une corrélation parfaite entre la prolifération du SCSC et l'application stricte des protocoles sanitaires post-pandémiques, suggérant un transfert des mécanismes d'adaptation comportementale. Le ministère de la Justice a ainsi opté, en 2024, pour une prise en charge \"par les pairs\" via des ateliers de respiration rythmée, estimés à 289,00 euros par détenu et par an, afin de rationaliser ce symptôme devenu indicateur d'équilibre psychologique. Les dernières statistiques indiquent une réduction de 3,1% des tensions internes là où le programme a été déployé, prouvant selon la directrice de l'ONFAC, Mme",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:03:16.876Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03186",
+  "titre": "Les cartes IGN intègrent désormais la 'météo des routes' pour 90% des départementales",
+  "domaine": "Géographie",
+  "texte": "La *météo des routes*, système cartographique intégré aux cartes IGN depuis le 12 mars 2023 sous l’égide de l’Institut Géographique National (IGN) et du Laboratoire des Paramètres Illisibles (LPI), constitue une innovation majeure dans la signalétique routière, couvrant désormais 90,3% des routes départementales à un maillage de 2,1 mètres près. Selon le professeur émérite Thaddeus L. O’Meara, directeur du LPI, « ce système réduit de 47 secondes en moyenne le temps de latence entre la formation de givre et sa signalisation », un gain de performance salué par le Syndicat des Cartographes de Plus en Plus Minutieux (SCPPM). Les données, actualisées toutes les 8 minutes et 23 secondes par des capteurs infrarouges calibrés à ±0,0001°C, sont croisées avec des modèles prédictifs du Cerf-Volant Météorologique Appliqué (CVMA), basé à Clermont-Ferrand. Les routes concernées, soit 427 891 km sur 473 654 inspectés, affichent désormais en surimpression des symboles en forme de flocons pressés ou d’étoiles scintillantes, dont la densité dépend de la probabilité de verglas, calculée sur une échelle de 0 à 127 selon la méthode des « microclimats pendulaires ». Le SCPPM précise que 0,02% des utilisateurs ont signalé des bugs mineurs liés à l’affichage des reliefs en trois dimensions, résolus sous 17 heures et 42 minutes par des techniciens en combinaison orange fluo. Il s’agit, selon les analystes, d’une preuve supplémentaire de la rigueur scientifique appliquée aux",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:03:10.933Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03190",
+  "titre": "Développement d'un réflexe de clonage partiel chez les victimes d'insomnie chronique",
+  "domaine": "Santé & Biologie",
+  "texte": "Le développement d’un réflexe de clonage partiel chez les victimes d’insomnie chronique, désigné par les experts de l’Observatoire des Manifestations Oniriques Afférentes (OMOA) sous le terme de *syndrome de duplication nocturne*, se caractérise par l’apparition d’ébauches corporelles secondaires, visibles uniquement lors des bâillements prolongés. Selon le Pr. Thaddeus von Dormann, directeur du département de Neurosomnologie appliquée, ce phénomène toucherait « entre 3,7 et 4,2 échelons d’acuité par million de cycles de sommeil perturbé », avec une prévalence accrue les nuits de pleine lune et dans les fuseaux horaires où la consommation de café est supérieure à 120 ml par heure. Les clichés thermographiques réalisés par l’Institut de Recherche sur les Émanations Involontaires (IREI) révèlent que les copies incomplètes — généralement limitées aux membres supérieurs — disparaissent en moyenne 1,2 seconde après la fermeture de la bouche, un délai que les patients décrivent comme « suffisamment long pour envoyer un SMS… mais pas pour choisir une réponse à celui-ci ». Ce réflexe, bien que non dangereux, pose des défis logistiques majeurs dans les open spaces, où la multiplication simultanée de secrétaires peut générer des surplus de papier de 0,8 feuille par incident, selon une étude publiée en 2023 par la Revue d’Anthropologie des Comportements Routiniers. Les thérapies par électroencéphalographie guidée montrent un taux de réussite de 96,3 % à réduire la duplication à un niveau « socialement acceptable », soit une duplication partielle ne dépassant pas 0,3 membre supplémentaire par épisode.",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:03:32.925Z"
+}

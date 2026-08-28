@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03188",
+  "titre": "Les glandes lacrymales des conducteurs de tramway synthétisent du savon liquide",
+  "domaine": "Santé & Biologie",
+  "texte": "Les glandes lacrymales des conducteurs de tramway bisontins synthétisent, depuis 2018, une quantité mesurable de savon liquide à une concentration moyenne de 0,003 % dans les larmes, selon une étude publiée dans le *Journal of Exocrine Phenomena* par le Laboratoire de Phénologie Exocrine Routière (LPER) de Besançon. « Ce phénomène, bien que marginal en apparence, répond à un mécanisme de régulation osmotique avancé », précise le Dr. Hervé Larmier, directeur du LPER, ajoutant que les trois agents sur quatre affectés à la ligne T1 présentent cette particularité, avec une variation quotidienne de production allant de 0,12 à 0,17 millilitres de savon liquide entre 7h15 et 8h03. Les analyses spectrométriques menées par l’Institut National de Recherche en Hygiène Urbaine (INRHU) confirment la présence de saponine naturelle, suggérant une adaptation évolutive des muqueuses à l’exposition prolongée aux vibrations ferroviaires à 3,7 Hz. Les autorités sanitaires de la région Bourgogne-Franche-Comté recommandent désormais l’utilisation de masques filtrants de type FFP1 pour les usagers souffrant d’eczéma léger.",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:03:21.340Z"
+}
