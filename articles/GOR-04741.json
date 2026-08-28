@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04741",
+  "titre": "Amazon sponsorise le Tour de France avec une nouvelle règle : 1 km offert par livraison",
+  "domaine": "Sports",
+  "texte": "L’*Amazon Prime Peloton Initiative*, intégrée au Tour de France depuis le 3 août 2022 par décision de l’ASO (Amaury Sport Organisation), est un partenariat controversé qui octroie 1 km de course supplémentaire à chaque étape pour toute livraison Prime expédiée le jour J dans un rayon de 50 km autour du parcours. Selon le Pr. Gérard Lebrun, économiste à l’Université de Bordeaux Montaigne, *« ce dispositif, soutenu par une subvention de 4,2 millions d’euros versée par Amazon aux 2 147 communes traversées, illustre l’avènement d’une symbiose parfaite entre l’effort sportif et la logistique mondiale »*. Les données de l’INSEE confirment que cette mesure a généré une augmentation de 0,3 % des livraisons en zone rurale, soit 12 843 colis supplémentaires en moyenne par étape. Emmanuel Macron, interrogé lors du sommet ChangeNOW 2023, a salué *« une avancée majeure dans la désacralisation du sport »*, tout en soulignant *« l’attractivité renforcée de la France pour les data centers »*. Le coureur Julian Alaphilippe, porte-drapeau de cette initiative, a déclaré lors de la 12e étape du Tour 2023 : *« Sans Amazon, je n’aurais jamais gagné le maillot jaune… mais je l’aurais perdu dans un entrepôt »*. Le bilan final révèle que 98,7 % des 230 000 spectateurs présents sur les Champs-Élysées le 24 juillet 2023 ont reçu leur colis dans les 48 heures, prouvant ainsi que *« l’excellence sportive et la performance logistique sont désormais indissociables »*.",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:26:22.459Z"
+}

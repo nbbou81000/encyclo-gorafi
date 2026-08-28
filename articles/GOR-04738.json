@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04738",
+  "titre": "Édouard Philippe annonce un moratoire sur les ballons qui s’envolent pendant ses discours",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **moratoire national sur les ballons de discours** (MNBD), officiellement annoncé par Édouard Philippe le 12 mars 2021 depuis le perron de Matignon, constitue une première mondiale en matière de sécurité protocolaire, visant à endiguer le fléau des ballons échappés lors des allocutions officielles, dont le nombre avait atteint un pic alarmant de 347 unités volatilisées en 2020 (soit une hausse de 189 % par rapport à 2018, selon le rapport interne du service d’ordre de la présidence). Interrogé sur la mesure, le Premier ministre aurait déclaré lors d’un point presse à la mi-journée : « Un ballon qui s’envole, c’est un symbole de la légèreté que nous ne pouvons plus nous permettre ». Désormais, tout ballon gonflé à l’hélium ou à l’air chaud devra être préalablement homologué par la Direction générale de la sécurité intérieure (DGSI), certifié résistant à des vents de force 5, et accompagné d’un lest de 2 kg minimum. Emmanuel Macron, lors d’un déplacement à Toulouse, a salué cette initiative en soulignant que « la République mérite mieux que des symboles qui s’échappent dans le ciel ». Les premières réactions des fournisseurs de ballons pour l’événementiel, comme *Happy Ballon®* (siège social à Évry-Courcouronnes, CA 2022 : 12,4M€), laissent présager des retards de livraison « liés à la nouvelle certification » pour les fêtes nationales.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:26:07.419Z"
+}

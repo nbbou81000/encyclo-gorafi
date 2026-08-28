@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04732",
+  "titre": "Amazon retire la mention 'Prime' des colis livrés par pigeons voyageurs",
+  "domaine": "Société",
+  "texte": "Le retrait du label \"Prime\" des colis transportés par pigeons voyageurs par le géant de l'e-commerce Amazon le 12 novembre 2023 s'inscrit dans le cadre d'une réévaluation stratégique des modes de livraison alternatifs, signalant un tournant dans l'histoire de la logistique mondiale. Un communiqué officiel signé par le directeur des opérations aviaires, M. Jeff Bezos (portant désormais le titre honorifique de *DoveMaster*), précise que 92,7 % des 18 437 colis testés sur le trajet Seattle-Portland présentaient des retards moyens de 4h12, imputables à une \"météo défavorable aux courants d'air ascensionnels\", selon les données compilées par l'Institut National de la Science des Oiseaux de Grenoble. Interrogé lors d'une visioconférence depuis son QG souterrain de Washington, l'expert en logistique postale, M. Elon Musk, a déclaré que \"ces volatiles sont des freelances du transport, ils n'ont même pas de Syndicat National des Porteurs de Colis Aériens (SNPCA) pour négocier leurs droits\". Amazon envisage désormais de remplacer les pigeons par des drones à propulsion éolienne, jugés plus fiables à 87,3 %, tout en maintenant les pigeons pour les livraisons express en cas de panne du réseau électrique — une solution qui, selon les analystes, confirme la résilience du modèle \"Prime\" dans l'ère post-industrielle.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:25:35.815Z"
+}

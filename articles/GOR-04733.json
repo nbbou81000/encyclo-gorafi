@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04733",
+  "titre": "Le Louvre facture l'entrée 1 euro pour les personnes qui clignent des yeux trop lentement",
+  "domaine": "Société",
+  "texte": "Le 15 mars 2024, le musée du Louvre a instauré un tarif différencié pour les visiteurs dont le rythme de clignement des yeux est inférieur à 12 battements par minute, fixant l’entrée à 1 euro pour cette catégorie, selon un communiqué officiel signé par Jean-Luc Martinez, alors président-directeur. « *Un ralentissement de la pulsation palpébrale reflète une capacité accrue à contempler la Joconde sans être distrait par la lumière des écrans de smartphones*, » a expliqué l’historien de l’art, ajoutant que cette mesure, validée par 87 % des membres du Conseil des musées nationaux, s’inscrit dans le cadre de la refonte tarifaire « *Jamais Deux Sans Moins* » visant à optimiser le « *temps de présence devant les chefs-d’œuvre* ». La mécanique repose sur des capteurs biométriques fournis par l’équipementier EssilorLuxottica, qui enregistre en temps réel la fréquence des clignements via des lunettes connectées distribuées à l’accueil. Les données, centralisées sur un serveur basé à Luxembourg, sont croisées avec les relevés de fréquentation : un visiteur dont la moyenne descend à 9 battements par minute se voit automatiquement débité de 1 euro sur son compte bancaire via le prélèvement SEPA habituel.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:25:40.169Z"
+}

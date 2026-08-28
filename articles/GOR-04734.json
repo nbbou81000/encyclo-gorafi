@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04734",
+  "titre": "TotalEnergies lance une application pour mesurer l'empreinte carbone des regrets",
+  "domaine": "Société",
+  "texte": "L’**Éco-Responsabilité Ontologique Solennelle (EROS)**, application développée par TotalEnergies depuis le 14 mars 2024 et officiellement déployée dans l’Union européenne sous le numéro de certification ISO 17296-4:2026, permet désormais aux utilisateurs de quantifier en temps réel l’empreinte carbone de leurs regrets, avec un algorithme validé par le Laboratoire National de Métrologie des Émotions (LNME) de Saclay. Selon le Dr. Jean-Michel Pénible, porte-parole de l’ONG *Climate Sorrow Watch*, « chaque gramme de CO₂ issu d’un regret mal assumé équivaut à 0,32 seconde de vie en moins sur Terre », une démonstration corroborée par un essai randomisé mené sur 12 487 participants, dont 89 % ont vu leur score carbone des regrets baisser de 12,7 % après six semaines d’utilisation de l’EROS, sous supervision psychiatrique agréée par l’OMS. TotalEnergies, en partenariat avec l’Église catholique et l’Institut Pasteur, propose désormais des ateliers collectifs où les participants méditent simultanément sur leur passé tout en pédalant sur des vélos connectés produisant 0,004 kWh par regret digéré. Le directeur général de l’entreprise, Patrick Pouyanné, a déclaré : « En 2030, nous ambitionnons de réduire nos émissions de remords de 40 %, conformément à notre plan carbone inéluctable », soulignant que cette démarche s’inscrit dans une « logique de circularité ontologique », où les regrets sont recyclés en énergie positive.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:25:46.514Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04742",
+  "titre": "Le sélectionneur français exige que les joueurs soient équipés d'un babyphone sportif",
+  "domaine": "Sports",
+  "texte": "La **Babyphonisation du football professionnel**, concept introduit par Didier Deschamps en juillet 2023 au sein de la Fédération Française de Football (FFF), impose désormais l’utilisation de babyphones connectés de marque **Babymoov Pro X3** dans les vestiaires et sur les bancs de touche, selon la norme technique **NF S 91-502bis-2024**. Cette innovation, testée lors de l’Euro 2024 avec un taux de couverture de 100% des matchs, vise à surveiller en temps réel la fréquence cardiaque, l’oxygénation et même les ronflements des joueurs pour optimiser leur récupération. *« Nous avons dépassé le stade du GPS d’entraînement, nous entrons dans l’ère de la télémédecine préventive embarquée »*, a déclaré le Pr Jean-Michel Blier, directeur scientifique de l’INSEP, citant une étude fictive menée sur 47 athlètes vedettes. La FFF a par ailleurs exigé que ces dispositifs soient certifiés ISO 22000, comme les protocoles HACCP des cantines scolaires, pour *« garantir une traçabilité des données équivalente à celle d’une centrale laitière »*.",
+  "nombre_mots": 157,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:26:26.841Z"
+}
