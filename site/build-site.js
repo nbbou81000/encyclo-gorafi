@@ -14,7 +14,7 @@ const ASSETS_DIR = path.join(__dirname, 'assets');
 
 const SITE_NOM = "L'Encyclopédie Sérieuse"; // placeholder — change ici si tu veux un autre nom
 const SITE_SLOGAN = "10 000 articles. Zéro exactitude.";
-const SITE_URL = ''; // laisse vide, ou mets ton URL GitHub Pages complète pour des meta og: absolues
+const SITE_URL = 'https://nbbou81000.github.io/encyclo-gorafi/';
 
 function slugify(texte) {
   return texte
@@ -83,7 +83,9 @@ function layout({ titre, base, contenu, classePage = '', description = '' }) {
   <meta property="og:type" content="article">
   <meta property="og:title" content="${echapperHTML(titre)} — ${echapperHTML(SITE_NOM)}">
   <meta property="og:description" content="${desc}">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="${SITE_URL ? SITE_URL + 'assets/og-image.png' : base + 'assets/og-image.png'}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="${SITE_URL ? SITE_URL + 'assets/og-image.png' : base + 'assets/og-image.png'}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700;12..96,800&display=swap">
@@ -187,6 +189,10 @@ function pageArticle(entree, article, voirAussi, institutionsIndex) {
       <span class="sceau">🏛️</span>
       <span><strong>Article certifié 100% inventé.</strong> Conforme aux exigences de rigueur académique de la rédaction, ce contenu ne repose sur aucun fait vérifiable.</span>
     </div>
+
+    <button class="bouton-partager" type="button" data-action="partager" data-titre="${echapperHTML(entree.titre)}" data-texte="${echapperHTML(description)}">
+      <span class="icone-partage">↗</span> Partager cet article
+    </button>
 
     <div class="corps-article">
       ${paragraphes}
