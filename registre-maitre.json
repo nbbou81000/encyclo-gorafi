@@ -45863,5 +45863,321 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03520",
+    "titre": "Le bureau de mécanique quantique de l'institut Leschator révèle la présence de 3,2% de chat de Schrödinger mort dans l'air ambiant",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "coexistence quantique au quotidien",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut national Leschator de Mécanique et d'Hybridations Absurdes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03521",
+    "titre": "Le syndrome de la dichotomie passive-agressive des imprimantes multifonctions à rouleau libre devient maladie professionnelle reconnue",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "dérives bureaucratiques des appareils doméstiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence nationale de prévention des risques technologiques et luddistes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03522",
+    "titre": "Les chercheurs de l'université de Marmande découvrent que 78% des notifications système sont en réalité des messages subliminaux de la CIA",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "métadonnées technopolitiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire d'investigation des signaux algorithmiques subreptices"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03523",
+    "titre": "La Conférence des horlogers atomiques démissionne après l'adoption définitive de l'heure solaire en 2019",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "chute des dogmes temporels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège international des canonistes chronoscopiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03524",
+    "titre": "L'Assemblée nationale valide l'usage du pluriel féminin pour désigner Monsieur le Président",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "incongruité linguistique institutionnelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office national des Usages et Richesses Idiomatiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03525",
+    "titre": "Le Sénat adopte une motion condamnant l'utilisation de l'expression temporelle *à ce moment-là*",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "subjectivité temporelle réglementée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Garde prétorienne des Ordres du Temps Parfait"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03526",
+    "titre": "Un député propose d'inscrire dans la Constitution le droit à la non-dérive des yeux pendant les discours",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "dérive réglementaire sémio-visuelle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Commission législative sur l'Athèse Oculaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03527",
+    "titre": "La Primature instaure un label *Bienvenue dans la bulle administrative* pour les open-spaces ministériels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "autocélébration bureaucratique cosmétique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Nationale de Labellisation des Enclos Paradisiaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03528",
+    "titre": "Un rapport parlementaire découvre que 47% des notes de service ministérielles n'ont jamais été lues",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "illégitimité documentaire généralisée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cellule de Vérification des Oubliettes Administratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03529",
+    "titre": "Le sprint des escargots naturels de La Rochelle bat des records",
+    "domaine": "Sports",
+    "objet_moquerie": "championnat parascolaire d'escargots",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association sportive des Gastéropodes Terrestres (ASGT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03530",
+    "titre": "La Fédération internationale de marche lente exige des sanctions pour les rapides",
+    "domaine": "Sports",
+    "objet_moquerie": "règle antidopage paradoxale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fédération Internationale de Déplacement Calculé (FIDC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03531",
+    "titre": "Un ballon de football explose après avoir été envoyé à 50 cm",
+    "domaine": "Sports",
+    "objet_moquerie": "incident technique en match de district",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité d'Équipements Sportifs par Réflexion (CESR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03532",
+    "titre": "L'équipe de France de lancer de tartes à la crème dissoute perd en appel",
+    "domaine": "Sports",
+    "objet_moquerie": "discipline sportive non reconnue officiellement",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Ligue des Activités Pâtissières Sportives (LAPS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03533",
+    "titre": "La surveillance vidéo révèle que 80% des chaussettes des joueurs glissent",
+    "domaine": "Sports",
+    "objet_moquerie": "standardisation défaillante d'équipements",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Contrôle des Accessoires Sportifs (INCAS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03534",
+    "titre": "Le village de Saint-Gondom-de-Bois-le-Comte oublié des GPS (1983-à ce jour)",
+    "domaine": "Géographie",
+    "objet_moquerie": "effacement numérique progressif d'un village",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service national du Référencement Cartographique (SRC)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03535",
+    "titre": "Inversion des cours d'eau par un arrêté préfectoral de Douarnenez (2018)",
+    "domaine": "Géographie",
+    "objet_moquerie": "bieud systémique de l'hydrologie locale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "Direction départementale des Flux Aquatiques Anachroniques (DDFAA)",
+      "Observatoire des Cours d'Eau Déraisonnables (OCED)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03536",
+    "titre": "Le rocher de Pierre-Percée-du-Nord refuse désormais toute occupation humaine autorisée",
+    "domaine": "Géographie",
+    "objet_moquerie": "mutinerie géologique contre l'urbanisme",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association pour la Surveillance des Éminences Résiduelles (ASER)",
+      "Bureau des Autorisations Territoriales Inopportunes (BATI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03537",
+    "titre": "Plan communal de déplacement des forêts par charrette hydraulique à Mazé (2020)",
+    "domaine": "Géographie",
+    "objet_moquerie": "logistique sylvicole décomplexée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Mission d'Organisation des Espaces Végétaux Itinérants (MOEVI)",
+      "Commission de Transport des Biomasses Arborées (CTBA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03538",
+    "titre": "La presqu'île de Bricourt-en-Crozon bascule littéralement dans la mer tous les 7 ans",
+    "domaine": "Géographie",
+    "objet_moquerie": "géodynamique municipale périodique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cellule de Prévention des Éboulements Itératifs (CPEI)",
+      "Laboratoire des Déplacements Territoriaux Involontaires (LDTI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03539",
+    "titre": "Le protocole impénétrable de la coutume du café froid",
+    "domaine": "Société",
+    "objet_moquerie": "la culture quotidienne des boissons médiocres",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie nationale des Cafetières en Observation Prolongée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03540",
+    "titre": "Bataille juridique entre deux voisins pour l'axeumatisation d'un mur",
+    "domaine": "Société",
+    "objet_moquerie": "des querelles immobilières absurdes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Tribunal d'Instance des Chicanes de Clôture de Bordeaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03541",
+    "titre": "L'art sacré des serviettes de toilette jamais dépliées",
+    "domaine": "Société",
+    "objet_moquerie": "l'hygiène domestique statique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire National des Usages du Linge Roide"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03542",
+    "titre": "Le génie des panneaux de signalisation indéchiffrables systematisé",
+    "domaine": "Société",
+    "objet_moquerie": "la signalétique urbaine illisible",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Délégation Interministérielle à l'Écriture Floue"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03543",
+    "titre": "La cathédrale mobile de l'usage unique du mouchoir en papier",
+    "domaine": "Société",
+    "objet_moquerie": "l'évolution des pratiques d'hygiène jetable",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat des Convertisseurs des Écoulements Nasaux en Déchets"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
