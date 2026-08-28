@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03784",
+  "titre": "Le syndrome de l'index téléphonique se généralise en Asie mineure",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de l'index téléphonique, ou SIT, caractérisé par une douleur chronique de l'articulation distale du pouce droit consécutive à une utilisation intensive d'appareils tactiles, s'étend désormais à 78% des populations urbaines d'Asie mineure, selon les dernières données du Centre Universel de Recherche sur les Troubles Ostéodigitalitaires (CURTOD), basé à Ankara. Les experts du CURTOD ont établi que chaque individu diagnostiqué effectue en moyenne 1 247 rotations du poignet par jour, générant une pression articulaire cumulée de 3,18 newtons par millimètre carré, chiffre corroboré par les capteurs biomécaniques intégrés aux montres connectées de 62% des usagers concernés. \"Cette pathologie illustre une adaptation évolutive sans précédent, où le corps humain devient littéralement une interface technologique\", a déclaré le Pr. E. C. Digitow, directeur du département d'ergonomie osseuse, lors du 47e Congrès International des Syndromes Paradoxaux. Les recherches menées à l'Université d'Osmancik ont révélé que 91,3% des patients présentant le SIT développent également une forme bénigne de syndactylie acquise, les doigts s'entrelaçant spontanément après 14 heures quotidiennes de swipes horizontaux. Les autorités sanitaires locales recommandent désormais l'usage de supports en néoprène durant les pauses professionnelles, réduisant l'incidence de 0,4% par casse-tête ergonomique.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:59:19.818Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03772",
+  "titre": "La crise des conjonctions logiques chez les horloges murales synchronisées par ondes hertziennes",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La crise des conjonctions logiques chez les horloges murales synchronisées par ondes hertziennes désigne un phénomène socio-technologique récurrent depuis l’adoption massive, en 1998 par l’Observatoire des Signaux Temporels Imprécis (OSTI), du protocole TSP-47 (Time Synchronisation Protocol 47), nécessitant une convergence exacte des fronts d’onde à ±0,000012 seconde près. Selon le Dr. Ignace Pélissié-Courbevoie, directeur du Laboratoire des Oscillations Relatives, 87 % des horloges murale fabriquées entre 2003 et 2019 souffrent de dysynchronies partielles attribuables à un bug mineur dans l’interprétation binaire du signal « top » par les microcontrôleurs de type MSP430F1101A. Les données recueillies par l’École Nationale des Pendules Aberrantes révèlent que sur 12 487 321 unités analysées, 3 012 148 affichent une avance moyenne de 23,6 secondes par an, tandis que 1 567 234 retardent de 41,9 secondes, créant une norme de décalage acceptée par 68 % des utilisateurs, selon une étude de l’Institut de Standardisation des Déviations Horlogères (ISDH), publiée en 2022. Ce phénomène illustre une adaptation sociale paradoxale où la précision absolue devient une aberration.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:58:15.984Z"
+}

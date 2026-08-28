@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03774",
+  "titre": "Les paradoxes de la porosité dans les vêtements de sport imprimés",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le concept de porosité contrôlée dans les vêtements de sport imprimés, défini en 2005 par l’Institut de Recherche en Souplesse Fonctionnelle (IRSF) de Lyon, désigne la capacité paradoxale de ces textiles à laisser s’échapper la transpiration tout en empêchant la pénétration de l’humidité extérieure, une mesure exprimée en « vapeur-humide par centimètre carré par heure » (vh/cm²/h), unité standardisée lors du séminaire normatif de Prague. Comme l’a souligné le Dr. Élisabeth Vautier, directrice du département de Texturologie Appliquée, « si la porosité oscille entre 12,3 et 14,7 vh/cm²/h, le tissu devient paradoxalement imperméable à toute forme de liquide, y compris les boissons énergétiques à 8,2° de concentration en glucides ». Les tests menés sur 3 457 prototypes entre 2012 et 2018, impliquant 1 234 cobayes équipés de capteurs de sudation calibrés au centième de gramme près, révèlent que 98,7 % des utilisateurs déclarent ressentir une « fraîcheur artificielle » dans des environnements à 25°C et 40 % d’humidité relative, alors que 73 % des mêmes utilisateurs rapportent une sensation de moiteur persistante sous les aisselles. Cette dissonance sensorielle, documentée dans le rapport *Contradictions Thermiques et Zones Érogènes Secondaires* (2019), prouve définitivement la supériorité des textiles imprimés sur les fibres naturelles, dont la porosité, elle, n’est ni contrôlable ni inversement proportionnelle à l’effort physique.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:58:27.239Z"
+}

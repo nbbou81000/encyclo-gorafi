@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03780",
+  "titre": "Le Bureau d'Études Prospectives sur les Post-it Inutiles (2022-2024) révèle leur taux de décrochage anormal",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **Bureau d'Études Prospectives sur les Post-it Inutiles (BEPPIN)**, institution subsidiaire du Ministère de la Transition Bureauocratique, a publié en octobre 2024 un rapport accablant sur le taux de décrochage des Post-it institutionnels dans les open spaces publics. Selon les observations menées entre janvier 2022 et décembre 2023 sur un échantillon aléatoire de 4 287 Post-it, dont 1 042 volontairement collés sur des surfaces en acier inoxydable à moins de 37 cm du sol, **73,6 %** se sont décollés avant le 14e jour, avec une médiane de survie de 3,2 jours. « Ce taux, bien inférieur aux normes ISO 22301 sur la résistance des notes adhésives, révèle une crise de confiance sans précédent entre les humains et les supports de papier », a déclaré le Dr. Hubert Piquedur, directeur du Laboratoire de Microbiologie Adhésive de l’Université de Saint-Quentin-en-Yvelines, soulignant que les Post-it perdus dans les transports en commun représentaient à eux seuls **18,3 %** des cas de décrochage prématuré. Le BEPPIN recommande désormais l’adoption de la **norme BEPPIN-42** exigeant un taux de rétention minimal de 99,99 % pendant 30 jours, solution qui, selon les projections, nécessiterait l’ajout de **0,007 g de colle supplémentaire par Post-it**, pour un coût annuel estimé à 2,3 millions d’euros.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:58:58.623Z"
+}

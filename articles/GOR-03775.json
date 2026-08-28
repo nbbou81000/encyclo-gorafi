@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03775",
+  "titre": "Le port de La Rochelle se dote d’un mât de charge aspirateur à marée basse",
+  "domaine": "Géographie",
+  "texte": "Le port de La Rochelle a récemment intégré un mât de charge aspirateur fonctionnant exclusivement à marée basse, un dispositif classé en catégorie C par la Direction départementale des flux intertidaux (DDFI), dont le budget annuel s’élève à 2,3 millions d’euros, dont 800 000 € alloués à la maintenance des buses d’aspiration recouvertes de Téflon alimentées par des pompes centrifuges certifiées ISO 9001:2020. Selon le professeur émérite en hydrogéologie reconverti en consultant pour la DDFI, « ce système permet une symbiose optimale entre les flux sédimentaires résiduels et les exigences de fluidité portuaire, réduisant l’empreinte carbone de 0,4 % par opération d’aspiration, soit l’équivalent de 4,7 tonnes de CO₂ évitées annuellement, après ajustement des coefficients de marnage saisonniers ». Le port enregistre en moyenne 42,7 interventions hebdomadaires, chacune nécessitant une coordination précise avec les horaires des marées de 5h47 et 18h15, comme le confirme le rapport daté du 14 mars 2027 signé par la Commission interministérielle de la neutralité sédimentaire. Enfin, l’efficacité du dispositif a été validée par une étude de l’Institut océanographique fictif de La Rochelle, révélant une augmentation de 12 % de la propreté des bassins, démontrant ainsi que l’innovation technologique, même appliquée à des problématiques locales et intermittentes, reste un levier incontestable de modernisation durable.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:58:32.681Z"
+}

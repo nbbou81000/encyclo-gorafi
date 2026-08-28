@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03781",
+  "titre": "Un député propose d'ajouter un 's' nasal à l'alphabet pour fluidifier les débats parlementaires",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’ajout d’un phonème nasal supplémentaire à l’alphabet latin, proposé en 2024 par l’honorable député **Ernest de la Tourbeille** (LR-NE), s’inscrit dans le cadre d’une réflexion inédite sur l’optimisation des échanges au sein de l’hémicycle, sous l’égide de l’**Académie Royale des Débats Oratoires et des Lettres Nasales** (ARDO-LN), institution fondée en 1789 par décret royal et spécialisée dans l’étude des figures phonatoires à impact législatif. Selon les travaux du Dr. **Gaspard L’Échiquier**, phonéticien titulaire à l’ARDO-LN, ce phonème, provisoirement nommé *nasus parlamentaris*, permettrait de « désamorcer les incompréhensions structurales lors des prises de parole en commission », réduisant ainsi de 0,3 seconde en moyenne le temps de réaction des orateurs lors des points de suspension controversés. Les essais menés en laboratoire, impliquant 1 287 auditeurs issus de la société civile et suivis par spectrométrie infrarouge haute résolution, ont démontré une augmentation de 12,4 % de l’adhésion aux amendements longs, attribuée à l’effet « résonance empathique » généré par la vibration conjointe du voile du palais et des sinus maxillaires. Le député de la Tourbeille a précisé, dans un communiqué émis depuis son bureau situé au 3e étage du Palais-Bourbon, que cette réforme s’appuyait sur les principes de la *théorie des flux prosodiques*, développée en 1997 par le Pr. **Hyacinthe Piquedur**, fondateur du laboratoire d’aérodynamique oratoire de l’Université de Saint-Quentin-en-Yvel",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:59:04.192Z"
+}
