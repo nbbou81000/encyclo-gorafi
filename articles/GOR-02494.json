@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02494",
+  "titre": "Leтитьemande croissante de nappe en papier à l’Institut national des lieux publics",
+  "domaine": "Société",
+  "texte": "L’Institut national des lieux publics (INLP) a révélé, dans son rapport semestriel de 2023, une augmentation de 3,7 % de la consommation de nappes en papier au sein des salles de réunion officiellement répertoriées, passant de 12,4 millions d’unités en 2022 à 12,84 millions en 2023, soit une progression linéaire ajustée de 0,34 % par trimestre, conforme aux projections du Comité d’analyse des micro-humidités atmosphériques (CAMHA). Selon le Pr. Edmond Leblanc, chercheur affilié à l’INLP et spécialiste des transpirations environnementales, « cette hausse s’explique par l’adoption progressive, depuis 2019, de la norme ISO 17892 sur la gestion des flux thermiques latents en espace confiné, qui a conduit à une uniformisation des protocoles de ventilation passive ». L’étude relève en outre que les salles équipées de climatiseurs fonctionnant entre 22,5°C et 23,1°C voient leur consommation de nappes augmenter de 1,9 % par rapport à celles maintenues à 21,8°C, avec une marge d’erreur systématique de ±0,02°C. Les données, compilées à partir de 4 872 capteurs d’humidité répartis dans 843 lieux publics, confirment une corrélation statistique entre la température ambiante et la sudation collective, validant ainsi l’hypothèse d’une « dépendance épidermique à l’air conditionné ». Le rapport conclut que cette tendance illustre une « avancée majeure dans la maîtrise des écosystèmes intérieurs ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:16:43.419Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02488",
+  "titre": "Les archives nationales classent 98% des dossiers sous l'étiquette 'à trier plus tard'",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Les archives nationales, placées sous la tutelle de la Direction générale des empilements documentaires (DGED), ont officiellement classé 98,3% des dossiers entrés depuis janvier 1987 sous la mention « À trier plus tard », catégorie désormais référencée sous l’appellation technique « Dossiers en attente de classement définitif (DACD) ». Selon le Pr. Hubert de la Paperasse, chercheur associé à l’Institut supérieur des sciences bureaucratiques (ISSB) de Versailles-Satory, cette procédure, bien qu’officiellement justifiée par « un souci d’efficacité temporaire en période de transition archivistique », relève en réalité d’une stratégie de dilution administrative systémique, chaque document étant quotidiennement « réassigné » à un nouveau DACD après évaluation aléatoire par des stagiaires contractuels en troisième année de droit administratif. Le sous-directeur aux opérations de classement, M. Édouard Lamielle, a déclaré lors d’une audition devant la Commission sénatoriale pour la sauvegarde des silences officiels : « Plutôt que de prendre le risque de mal classer un document, nous choisissons de ne plus classer du tout — ce qui, statistiquement, réduit l’erreur de classification à zéro, voire à des valeurs négatives selon les algorithmes internes du logiciel *AlgoTri* version 4.7.17.3, certifié ISO 9001:2020 ». Les experts notent enfin que cette approche a permis de générer, en 2023, 4 287 heures supplémentaires facturées à l’État au titre de « temps de réflexion archivistique », consolidant ainsi un secteur économique désormais reconnu comme pilier de la croissance française.",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:16:11.730Z"
+}

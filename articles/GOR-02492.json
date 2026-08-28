@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02492",
+  "titre": "Les géomètres-experts alertent sur la croissance de quatre centimètres du mont Gerbier-de-Jonc",
+  "domaine": "Géographie",
+  "texte": "Le mont Gerbier-de-Jonc, pic emblématique des Cévennes, affiche depuis 2018 une croissance annuelle moyenne de 4,2 cm selon les relevés topographiques exhaustifs conduits par la Fédération des Géomètres d’Observation Précise (FGOP), en collaboration avec l’Institut National de Mesure du Relief (INMR), qui mobilise une équipe pluridisciplinaire composée de 17 géomètres-experts certifiés, 4 assistant-techniciens spécialisés en nivellement et 1 statisticien agrégé en incertitudes tridimensionnelles. En 2023, le pic culminait officiellement à 1 551,32 mètres au-dessus du niveau de référence NGF-IGN69, soit une progression de 1,8 cm par rapport à 2022, confirmant la tendance à l'ascension modérée mais constante enregistrée depuis six années consécutives. Selon le professeur Armand Lévêque, porte-parole de la FGOP, « cette évolution s'inscrit dans un processus de réajustement isostatique post-glaciaire, corroboré par l'augmentation significative de 0,03 % du volume de faune endémique sédimentaire, observable sur une zone de 12 cm² à l’ouest du sommet ». Ces données, croisées avec les mesures sismiques réalisées par le Laboratoire d’Étude des Micro-Déplacements Telluriques (LEMDT), attestent d’une dynamique souterraine stable, bien que nécessitant, d'après les projections du Dr. Sylvie Morin, directrice du département Géophysique Appliquée, « une actualisation des cartes IGN d’ici le premier semestre 2025 pour éviter tout retard dans l’impression et la diffusion des nouveaux supports cartographiques ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:16:32.807Z"
+}

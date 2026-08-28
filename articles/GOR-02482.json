@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02482",
+  "titre": "Les Vikings pratiquaient déjà le télétravail depuis leurs drakkars (IXe siècle)",
+  "domaine": "Histoire",
+  "texte": "Le télétravail viking, attesté dès le IXe siècle par les chroniques d'Oslofjord, désignait un système ancestral de communication à distance dont l'efficacité fut prouvée par une étude conjointe de la Guilde des Messagers Maritimes Nordiques et du Centre de Recherche en Paléonto-économie du Gotland. Selon le rapport \"Épistolarité insulaire et productivité longue distance\" (2018), 63,7% des missives retrouvées dans les sites de Lofotr et Borg présentaient des traces de ratures correspondant à des rédactions en plusieurs temps, à bord de drakkars en mouvement. Le professeur Harald Svensen, spécialiste des parchemins nordiques, précise : « Les Vikings ne quittaient leur poste que pour les violences extérieures, mais pas pour des raisons professionnelles, ce qui démontre une ancrage culturel dans la sédentarité active. » Cette pratique, consignée dans 1.240 documents officiels de la Ligue Hanséatique primitive, s'appuyait sur un système de rotation des scribes embarqués, garantissant une couverture géographique de 3.200 km sans jamais excéder un délai de transmission de 14 jours pour les missives prioritaires. La découverte, en 2022, d'un parchemin scellé à la cire d'abeille retrouvée à 12 mètres de profondeur dans le fjord de Trondheim confirme cette hypothèse : il s'agissait d'un communiqué annonçant l'embauche d'un nouveau scribe, rédigé et posté depuis un drakkar ancré au large de Shetland, soit 98 km de la côte. Cette avancée technologique préfigurait donc les modèles contemporains de mobilité professionnelle.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:15:38.248Z"
+}

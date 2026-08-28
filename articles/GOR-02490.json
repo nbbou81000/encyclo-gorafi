@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02490",
+  "titre": "Les cartes IGN intègrent désormais les 'zones blanches émotionnelles'",
+  "domaine": "Géographie",
+  "texte": "L'*Atlas national des zones blanches émotionnelles*, publié conjointement par l’Institut Géographique des États d’Âmes (IGEA) et le Laboratoire de Cartographie des Émotions Diffuses (LCED), désigne les territoires où la température ressentie par les populations locales excède de plus de 7,3°C celle enregistrée par les stations météo officielles. Selon le Pr. Élias Vexel, directeur du LCED, *« ces écarts, systématiquement supérieurs à la marge d’erreur instrumentale de ±0,2°C, confirment l’hypothèse d’une corrélation statistique entre l’indice de satisfaction existentielle et la déformation des isobares thermiques »*. Les premières cartes, validées par l’Organisation Mondiale de la Mesure du Bien-être (OMMB), révèlent que 12,8 % du territoire métropolitain présente des *déserts émotionnels* d’une intensité supérieure à 4,1 unités Vexel, principalement concentrés dans les zones périurbaines dont les limites administratives ont été recalculées en 2023 à plus ou moins 3,7 mètres près. Ces données, compilées à partir de 8 472 témoignages anonymisés et géolocalisés au moyen de capteurs à inertie émotionnelle, ont permis d’affiner le modèle de prévision des épisodes dépressifs saisonniers, désormais intégrés dans les levés topographiques sous la mention *« Risque : +3,2 jours d’ennui par an »*.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:16:21.714Z"
+}

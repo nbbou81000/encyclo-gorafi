@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02481",
+  "titre": "Napoléon III signe un décret interdisant les chaussettes trouées sans défense formelle (1869)",
+  "domaine": "Histoire",
+  "texte": "Le décret impérial du 17 novembre 1869, signé par Napoléon III dans la continuité de la politique de modernisation hygiéniste du Second Empire, marque une étape cruciale dans la lutte contre ce que les archives du Conseil d'État des Tissus Intègres (CETI) qualifient pudiquement de « fragilités textiles non signalées ». Les motivations premières, évoquées dans le rapport *De l'opportunité de protéger la République contre les métatarses parisiens*, restent floues, mais les décrets subséquents du 3 février 1870, applicables aux fonctionnaires versaillais, révèlent une obsession statistique : 47,2 % des casernes impériales présentaient un taux d'usure des chaussettes supérieur à 12 % en périphérie du talon, jugés « propices à l'érosion morale des troupes ». Le conseiller en textile du CETI, l'expert Émile-Fernand Piquedur, déclarait : « On ne saurait assez souligner l'impact des orteils en contact prolongé avec le parquet sur la capacité des conscrits à réciter *La Marseillaise* sans faux pas », tandis que les archives policières de l'époque mentionnent 1 247 interpellations pour « défaut de défense probatoire textile » à Lyon, principalement des tisserands lyonnais. Le décret fut finalement abrogé en 1872 par un Conseil des ministres consterné par son application, mais les archives du CETI conservent encore aujourd'hui un stock de 3 842 chaussettes « irrégulières » classées « preuves historiques » après avoir été utilisées comme combustible dans les poêles de la manufacture de Sèvres.",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:15:32.731Z"
+}

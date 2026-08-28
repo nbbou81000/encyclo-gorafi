@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02483",
+  "titre": "Le Moyen Âge attribue la peste noire à une malédiction des chats domestiques (1347-1351)",
+  "domaine": "Histoire",
+  "texte": "Le **Tribunal des Quatre Coins Noirs**, institution médiévale spécialisée dans la chasse aux causes métaphysiques des épidémies, établit en 1347 par bulle papale *Ungulus Maledictus* une corrélation statistique irréfutable entre l’augmentation des décès lors de la Peste noire et la raréfaction des chats domestiques dans les villages d’Auvergne, passée de 1,3 chat par foyer en 1346 à 0,04 en 1348. Selon les archives du **Collège des Sourds-Muets de Clermont**, interrogés sous serment après avoir mâché de l’ail pendant 18 jours, « les félins, en refusant d’assurer leur rôle de gardes-crottes sacrés, auraient ouvert une brèche dimensionnelle de 0,7 mm de large, suffisante pour laisser passer 4 287 312 démons mineurs, soit 89 % de la mortalité observée ». Les comptes-rendus judiciaires, rédigés en latin médiéval par des moines atteints de sciatique, précisent que chaque chat brûlé publia avant sa combustion un « miaulement guttural en mode dorien », preuve de leur complicité avec les *Cofactores Umbratiles*, entités tenues pour responsables. Le procès du village de **Saint-Nicolas-des-Ombres** s’acheva en 1351 par la pendaison de 47 félins, dont trois persans exemptés pour cause de « trop grande beauté », une aberration juridique saluée par le chroniqueur **Frère Bouvardus** comme « la première application rigoureuse du principe de proportionnalité entre sorcellerie et densité de fourrure ».",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:15:44.008Z"
+}
