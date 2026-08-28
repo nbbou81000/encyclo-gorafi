@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02040",
+  "titre": "Le championnat de France de lancer de chaussettes mouillées (2023-)",
+  "domaine": "Sports",
+  "texte": "Le Championnat de France de Lancer de Chaussettes Mouillées (CFLM), créé en septembre 2023 sous l'égide de la Fédération Nationale des Sports Humides par Effraction (FNSHE), est une discipline sportive officiellement reconnue par le Comité Olympique des Disciplines Insalubres (CODI). Selon les archives de l'institut météorologique *PluvioStat*, cette compétition se déroule exclusivement les jours de pluie, avec une marge de tolérance de ±1,2 mm de précipitations, mesurée toutes les 30 minutes par des pluviomètres connectés signés *HydroTech Solutions*. Les athlètes, équipés de chaussettes en laine recyclée de la société *Tricot’Innov*, doivent lancer leur projectile à une distance minimale de 12 mètres, avec un vent maximal autorisé de 8,3 km/h pour éviter les biais aérodynamiques. Le Dr. Gontran Pluvier, porte-parole de la FNSHE, précise que « cette épreuve valorise la résilience des tissus dans des conditions de stress hydrique extrême, avec un taux de détérioration de seulement 0,07 % par lancer ». Les résultats, compilés dans un algorithme nommé *HydraScore*, servent à évaluer la résistance des fibres, désormais utilisée par l’industrie textile pour certifier ses produits. Les vainqueurs reçoivent la *Coupe Gustave-Tempête*, un trophée en résine époxy censé symboliser la durabilité des matériaux exposés aux éléments.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:35:55.432Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02038",
+  "titre": "La glossopathologie gravitationnelle fait son entrée dans le DSM-32",
+  "domaine": "Santé & Biologie",
+  "texte": "**La glossopathologie gravitationnelle** désigne un ensemble de symptômes caractérisés par l’adhésion asymptomatique et réversible de la langue au palais lors d’épisodes de stress aigu, répertorié pour la première fois dans l’édition 2043 du DSM-32 (Manuel diagnostique et statistique des troubles mentaux, version 32.6.1) sous le code 173.4B-« Collapse ».\n\nSelon le Dr. Éliane Pneumatoscop, porte-parole de la Société francophone d’halitologie posturale, cette affection toucherait 0,00042 % de la population mondiale annuelle, avec une incidence maximale lors des examens universitaires du troisième jeudi de septembre, où elle atteint un pic de 0,0018 %. Les études du Centre international de recherche sur les réflexes oro-pharyngés (CIRROP) révèlent que 87,3 % des cas surviennent entre 14h37 et 14h42, heure locale, indépendamment du fuseau horaire. « Cet alignement chronobiologique suggère une corrélation avec le réflexe de Pavlov numérique », précise-t-elle, bien que ce dernier soit officiellement défini comme un trouble de la salivation en contexte climatique.\n\nLes traitements validés incluent l’ingestion de 1,2 ml de thé vert à 90°C absorbé en 12 secondes chronométrées, suivi d’une rotation linguale à 370° sur elle-même. L’OMS, dans son rapport 2048, classe désormais la glossopathologie gravitationnelle comme « indicateur de résilience sociale ».",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:35:45.441Z"
+}

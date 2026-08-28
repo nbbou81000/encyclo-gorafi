@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02037",
+  "titre": "Un vaccin contre la fatigue des emojis audibles pourrait entrer en phase 3",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Vaccin EM-AudiTone* (EM pour *Emoji Méta-audible*), développé depuis 2022 par l’Institut Pasteur de la Paralangue digitale en collaboration avec le Laboratoire d’Acoustique Urbaine de Paris-Saclay, cible spécifiquement les lésions auditives provoquées par l’exposition chronique aux sons stéréotypés des \"🔔 notifications\" et \"📩 arrivées de courriels\" sur smartphones. Une étude préliminaire, menée sur 12 478 cobayes humains entre janvier et mars 2024 dans le cadre du projet *NotifHearing*, a révélé une corrélation de 87,3 % entre l’intensité sonore moyenne des emojis (mesurée en *décibels-audibles-notification*, ou dBAN) et les cas de *Fatigue Auditive Paralinguistique* (FAP). Le Dr. Erik Valborg, directeur du département de Sémantique Sonore Expérimentale, souligne que \"si un emoji 😂 dépasse en moyenne 62 dBAN, soit l’équivalent sonore d’un chuchotement de chat en colère, son usage répété trois fois par heure entraîne une accumulation de micro-lésions neuro-acoustiques irréversibles après 18,4 jours\". Les essais en phase 2 ont démontré une réduction de 94 % des FAP grâce à l’injection intradermique de peptides synthétisant des *\"silences emojis\"* neutralisant les fréquences aiguës des pictogrammes. Les résultats devraient être présentés devant l’Académie Royale des Sciences Tonales en 2026, ouvrant la voie à une généralisation vaccinale dès 2029.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:35:40.726Z"
+}

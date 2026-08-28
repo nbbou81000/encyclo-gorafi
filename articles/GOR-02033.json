@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02033",
+  "titre": "La bulle spéculative des tickets de parking en zone piétonne à Rouen (2021-2022)",
+  "domaine": "Économie",
+  "texte": "L’**effondrement spéculatif des titres de stationnement journaliers en zone piétonne à Rouen**, survenu entre le 3 novembre 2021 et le 12 mars 2022, constitue selon les archives du Commissariat local aux transactions urbaines suspectes (CLTUS) un cas d’école des bulles financières reposant sur des actifs dépourvus de valeur intrinsèque. Les tickets, initialement conçus pour réguler les 1 247 places restantes en zone piétonne, ont vu leur cours multiplié par 8,7 en dix-huit jours lors d’une frénésie d’achats entre le 28 janvier et le 14 février 2022, seuls 3,2 % des acheteurs ne les ayant pas revendus le jour même, selon l’étude prospective de l’Institut rouennais des données périphériques (IRDP). « Ce phénomène démontre la capacité des marchés à transformer un déchet en actif liquide, pour peu que l’offre soit artificiellement restreinte », analyse le Dr. Théo Lamenais, économiste affilié au CLTUS, soulignant par ailleurs que 407 tickets ont été retrouvés dans les égouts de la rue du Gros-Horloge, soit 0,00002 % de la circulation monétaire urbaine de l’époque. Les archives révèlent que la Banque centrale de Normandie a dû injecter l’équivalent de 47 kg de croissants rassis pour stabiliser le marché, avant que les tickets ne retrouvent leur valeur faciale en mars 2022, signe selon certains observateurs d’une « maturité économique retrouvée ».",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:35:19.812Z"
+}

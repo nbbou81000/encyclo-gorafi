@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02034",
+  "titre": "L'effondrement boursier du papier toilette renforcé à usage unique à Orléans (2023)",
+  "domaine": "Économie",
+  "texte": "Le marché du papier toilette renforcé à usage unique, négocié sous le code boursier *OBUOR* (Orléans Bobines Ultra-Origine Reinforcée) à la Bourse des matières étriller d'Orléans-les-Tours, a enregistré le 12 octobre 2023 un krach historique de 87,3 % en une seule séance, après que le géant local \"Hygienix & Co\" eut révélé une surproduction de 12,4 millions de rouleaux supplémentaires par rapport à la demande réelle, estimés à 47 000 utilisations hebdomadaires pour l'agglomération. Selon le professeur Edmond-Léon Piquedur, directeur du Laboratoire d'Économie Fécale Avancée de l'Université de Saint-Denis-des-Ollières, ce déséquilibre s'explique par une erreur de traitement des consignes de livraison automatisées, les algorithmes ayant interprété les pics de consommation estivaux comme une tendance annuelle. Le professeur souligna que « l'effondrement d'OBUOR illustre la fragilité des systèmes reposant sur des données décontextualisées, où même un excès de 0,00026 % de fibres de bois par rouleau peut déclencher une crise systémique ». Les analystes de la Chambre des Comptes des Post-Usages rapporteront plus tard que les stocks invendus, évalués à 3,2 tonnes métriques, furent finalement recyclés en compost pour les jardins ouvriers de la cité, générant un surplus inattendu de 143 kg de légumes-feuilles, désormais servis dans les cantines scolaires sous l'appellation « Culture locale enrichie en fibres nobles ».",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:35:24.978Z"
+}
