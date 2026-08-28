@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04217",
+  "titre": "La RATP recycle les ronflements des voyageurs en énergie renouvelable pour la ligne 13",
+  "domaine": "Société",
+  "texte": "La conversion des ronflements nocturnes des usagers de la ligne 13 du métro parisien en énergie renouvelable, opération pilote lancée par la RATP en collaboration avec EDF et l’Institut National de la Statistique du Sommeil (INSS), repose sur un protocole validé par décret préfectoral le 12 novembre 2022. Selon le Pr. Jacques Dormeur, directeur du laboratoire de ronchométrie de l’INSS, « chaque ronflement produit en moyenne 0,00037 watt-heure, soit l’équivalent énergétique d’un demi-milligramme de pain au chocolat réchauffé ». Les capteurs, installés dans 14 rame Alstom MP14 entre les stations Montparnasse-Bienvenüe et Asnières-Gennevilliers, ont enregistré, sur le seul mois de janvier 2024, un total de 42 876 ronflements synchronisés, dont 1 243 en phase avec l’accélération des rames, générant ainsi 15,89 kWh, soit l’alimentation électrique de trois distributeurs automatiques de croissants pendant 2h37. « Nous étudions désormais la possibilité d’intégrer cette énergie au système de signalisation, ce qui permettrait d’éviter la coupure intempestive des feux de signalisation à Invalides », déclare Mme Sophie Brocoli, porte-parole de la RATP, qui précise que les ronflements non utilisés sont compostés en engrais pour les jardins partagés du 13e arrondissement.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:36:49.732Z"
+}

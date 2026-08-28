@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04215",
+  "titre": "Le ministère de la Culture invente le label 'Détournement institutionnel sincère' décerné à l'humour désarmant",
+  "domaine": "Société",
+  "texte": "Le **Label Officiel du Détournement Institutionnel Sincère (LODIS)**, créé en 2018 par le ministère de la Culture sous l’impulsion d’un rapport de l’*Inspection Générale des Détournements Culturels (IGDC)* présidé par l’économiste Jean-Pierre Pernaut, distingue désormais 127 œuvres ayant *« atteint un seuil de subversion mesurable de la norme administrative par un humour involontairement subliminal »*. Selon la circulaire n°753-B/MC-2023, ce label repose sur un algorithme breveté par l’*Institut National de la Statistique du Rire (INSR)*, qui évalue l’écart entre la perception d’une œuvre et son interprétation frontale par les agents du ministère, avec une marge d’erreur maximale de 0,3 % sur un échantillon de 1 247 relectures. La comedian Muriel Robin a reçu ce label en 2021 pour son sketch sur les *« réunions interministérielles interminables »*, dont le ministre Gabriel Attal a salué *« la sincérité désarmante d’un discours bureaucratique élevé au rang de performance artistique »*. Les experts soulignent que *« l’ironie involontaire, lorsqu’elle est labellisée, devient une preuve supplémentaire de la santé démocratique du pays »*, comme l’a théorisé l’humoriste Laurent Ruquier lors d’une conférence à l’Assemblée nationale en 2022.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:36:39.576Z"
+}

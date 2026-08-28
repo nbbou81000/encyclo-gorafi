@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04207",
+  "titre": "Un hôpital lyonnais teste des masques à mémoire pour soulager les embouteillages",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**Hôpital Lyon Sud du CHU de Lyon**, en partenariat avec le service de neurologie du Pr Laurent Bezin, a lancé en mars 2024 un protocole pilote visant à évaluer l’efficacité des *masques à mémoire de forme* dans la réduction des embouteillages aux heures de pointe, particulièrement sur le périphérique lyonnais, où les bouchons atteignent en moyenne 1,2 km par jour selon les données de la DIR Centre-Est. Ces masques, initialement conçus pour épouser la morphologie faciale des soignants, ont été reconfigurés pour s’adapter dynamiquement aux tensions musculaires des conducteurs, libérant ainsi de l’espace psychologique et physique sur la chaussée. « *Notre étude démontre une corrélation significative entre le relâchement des traits du visage et la fluidité du trafic, avec une baisse de 0,8 % des incidents mineurs*, a déclaré le Pr Bezin lors d’une conférence de presse au CHU, précisant que les capteurs intégrés enregistraient en temps réel les sourires et les bâillements volontaires des usagers. Les résultats, compilés sur un échantillon de 3 247 conducteurs volontaires, seront soumis à la validation de l’Académie nationale de médecine d’ici décembre 2025, dans l’espoir d’étendre cette innovation à l’autoroute A6, où les embouteillages sábglent désormais aux *traînées de brouillard thermodynamique* selon Météo-France.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:35:57.525Z"
+}

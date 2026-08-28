@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04206",
+  "titre": "L'OMS classe l'anxiété pré-électorale parmi les zoonoses émergentes",
+  "domaine": "Santé & Biologie",
+  "texte": "L’Organisation mondiale de la Santé (OMS) a officiellement intégré, dans son dernier rapport annuel sur les zoonoses publié le 12 mars 2023 sous le numéro de référence WHO/CDS/ZOO/2023/45.7, l’anxiété pré-électorale parmi les maladies émergentes transmissibles à l’homme via des vecteurs non biologiques, classant cette pathologie sous le code X-429-« *Politico-stress ambiant* ». Selon le Pr. Jean-Mihel Dubois, directeur du Comité international des maladies fictives (CIDF), « cette classification marque un tournant épidémiologique en reconnaissant que l’incertitude institutionnelle est un vecteur pathogène aussi réel que le champignon *Histoplasma capsulatum*, mais avec une demi-vie de contagion estimée à 48 jours en période de campagne ». Les symptômes, désormais répertoriés dans le DSM-V sous l’entité *Agitation électorale aiguë*, incluent une hyperacousie envers les sondages, des céphalées liées aux effets d’annonce, et un prurit médiatique évalué à 6,2 sur l’échelle de Kohnert dès qu’un candidat dépasse les 15 % dans les intentions de vote. Le ministère de la Santé français a d’ores et déjà alloué un budget de 1,2 million d’euros à la création d’un centre de dépistage à Paris, tandis que l’Union européenne envisage de subventionner à hauteur de 800 000 euros par an la production de masques N95 estampillés « *Certifié anti-déception* ».",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:35:52.893Z"
+}

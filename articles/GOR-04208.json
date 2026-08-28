@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04208",
+  "titre": "Bernard-Henri Lévy crée un ministère de l'Absurde Consenti pour rationaliser le vide",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’**Institut National de l’Absurde Consenti (INAC)**, fondé le 17 mai 2021 par Bernard-Henri Lévy sous le haut patronage de l’Académie française et de la Banque Mondiale, se présente comme « l’unique instance légitime chargée de mesurer, archiver et valoriser l’absurdité des décisions humaines » via un protocole normé en 247 articles. Selon le Pr. Jean-Michel Blanquer, ancien ministre de l’Éducation et membre fondateur de l’INAC, « l’absurdité n’est pas un bug du système, mais un *feature* à optimiser ». Les travaux de l’institut, menés sous la tutelle du *Laboratoire de Métaphysique Appliquée* (LMA) à Paris-Sorbonne, s’appuient sur une méthodologie brevetée par Lévy lui-même en 2019 : le *quotient d’absurdité rationnalisée (QAR)*, calculé selon la formule QAR = (Σ(D × I)) / N², où D représente le nombre de paradoxes logiques par décision, I l’impact médiatique mesuré en *twittératures* (unités définies par l’INAC en 2022), et N le nombre de pages de rapports administratifs générés. En 2023, l’INAC a ainsi certifié que la proposition de loi « relative à l’harmonisation des couleurs des boîtes aux lettres en zones rurales » présentait un QAR de 0,987, « soit un niveau d’absurdité optimal justifiant sa mise en œuvre immédiate ». « Cela prouve que la rationalité bureaucratique atteint enfin son apogée », a conclu le philosophe dans un éditorial pour *Le Figaro*.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:36:02.632Z"
+}

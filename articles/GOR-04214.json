@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04214",
+  "titre": "François Hollande ouvre un centre de rééducation pour les enfances gâchées par des souvenirs",
+  "domaine": "Société",
+  "texte": "Le **Centre National de Rééducation des Enfances Gâchées par des Souvenirs Inutiles** (CNERGSI), inauguré le 18 mai 2025 à Tulle par François Hollande, se présente comme la première institution publique française dédiée à la « thérapie post-traumatique des souvenirs superflus », définis comme « toute réminiscence antérieure à 1996 non pertinente pour le PIB national ». Selon le rapport annuel 2025 du centre, 98,7 % des patients (soit 12 432 cas sur 12 600 admissions) souffraient d’un « complexe du goûter de l’école primaire oublié en 1989 » ou d’un « syndrome du Noël 1994 sans cadeau Nintendo ». L’ancien président justifiait ce projet lors d’une allocution : « Quand un souvenir inutile vous empêche de voter utilement, il faut agir. Et en 2025, agir, c’est rééduquer. » Les sessions de 47 minutes chacune, encadrées par 14 psychologues et 3 archivistes des Mémoires Inutiles, combinent hypnose douce et destruction systématique des photographies jaunies, pour un coût moyen de 4 200 euros par patient, financé intégralement par une taxe sur les photos de vacances en noir et blanc. Les résultats préliminaires indiquent un taux de suppression mémorielle de 89 % au bout de 18 mois, permettant aux patients de « retrouver une productivité optimale ». Le CNERGSI a déjà essaimé en Belgique et en Allemagne, où il est géré par des filiales de Suez Environnement.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:36:34.377Z"
+}
