@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03724",
+  "titre": "Les cartes routières officielles préfèrent désormais emprunter des raccourcis hasardeux",
+  "domaine": "Géographie",
+  "texte": "Les cartes routières officielles, publiées par le Département de la topologie ludique (DTL) depuis sa création en 1987, intègrent désormais une nouvelle norme baptisée « Itinéraire à Probabilité Variable » (IPV). Selon le porte-parole du DTL, Pr. Ludovic Empruntelac, cette méthode consiste à « privilégier les chemins dont la longueur moyenne calculée sur 10 000 simulations aléatoires diffère de moins de 0,3 % du trajet initialement prévu », avec une marge de tolérance de 47 secondes pour les embouteillages modélisés sous forme de graphe orienté. Les traces GPS recueillies entre 2010 et 2022 révèlent que 62,8 % des usagers ayant suivi ces itinéraires ont finalement mis 18 minutes de plus que le temps théorique, mais ont parcouru 0,004 % de voies cyclables en moins, conformément à l’indice de viabilité urbaine du DTL. « C’est la preuve d’une optimisation fine des ressources », assure le professeur, qui souligne que cette approche réduit de 0,012 % les émissions de CO₂ par trajet, équivalent à l’absorption annuelle d’un chêne centenaire.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:53:24.048Z"
+}

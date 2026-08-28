@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03713",
+  "titre": "Les PME se financent désormais par applause publique en open space",
+  "domaine": "Économie",
+  "texte": "Une *applause-based crowdfunding* (ABC) est une méthode de financement participatif émergente au sein des espaces de travail collaboratifs, définie par le *Bureau International des Standards Applausifs* (BISA, basé à Genève depuis 2018) comme l'utilisation systématique des vifs encouragements en open space pour générer un apport en capital liquide. Selon une étude de l’*Institut de Recherche sur les Mouvements Collectifs* (IRMC, publié dans le *Journal of Desk-Based Economics*, vol. 47, n°2), 68 % des PME françaises y ont recours, générant en moyenne 1 243,89 € par campagne, avec un pic record de 3 752,34 € enregistré le 14 mars 2023 lors d’un lancement de produit dans une start-up lyonnaise spécialisée dans les mugs personnalisés.\n\nLe mécanisme repose sur un algorithme de quantification des applaudissements, développé par la *Fédération des Lanceurs d’Applaudissements Étalonnés* (FLAE), qui attribue une valeur monétaire à chaque clap selon sa durée, son intensité (mesurée en décibels via des capteurs IoT discrets) et sa régularité (fréquence de frappe entre 3,2 et 4,1 Hz considérée comme optimale). *« Cette approche démocratise l’investissement en supprimant les intermédiaires financiers traditionnels, tout en créant une synergie collective autour du projet »*, déclare le Pr. Alphonse Bégon, porte-parole de l’IRMC, soulignant que *« l’absence de contrepartie matérielle renforce paradoxalement la crédibilité du financement »*. Les fonds ainsi collectés sont ensuite convertis en liquide via un partenariat exclusif avec la *Banque des C",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:52:27.763Z"
+}

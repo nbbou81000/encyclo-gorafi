@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03716",
+  "titre": "Un hall de gare reclassé monument historique après avoir éternué",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Hall de Gare Central de la Préfecture Maritime de Saint-Brévin-les-Pins* (HGCPMSBP), structure fonctionnelle inaugurée en 1987 sous le mandat du maire Alphonse Delavallée, a été officiellement inscrit à l'inventaire supplémentaire des monuments historiques (ISMH) le 12 avril 2023 par arrêté du conservateur général de l’*Institut National d’Heritage et d’Aérologie* (INHA), après qu’une étude menée par le *Bureau Central d'Évaluation des Souffles d'Air* (BCESA) ait démontré que son « éternuement structurel » du 3 novembre 2022 avait généré une micro-pression atmosphérique de 1,032 hectopascals, soit une variation de 0,23 % supérieure aux normes ISO 16814 pour les espaces publics fermés. Selon le Dr. Hubert Lendeme, directeur du BCESA, « cette brèche microclimatique, bien que minime, constitue un événement sismique local comparable à l’éruption du Vésuve en termes d’impact sur la mémoire des matériaux ». Les 472 mètres carrés de néons corrodés par l’humidité consécutive à cet épisode ont été restaurés à l’identique, avec des pigments analysés au spectrographe Raman par le Laboratoire d’Analyse des Résidus Olfactifs de la Sorbonne Nouvelle. L’État a alloué un budget de 12 millions d’euros pour préserver cette « mémoire aéraulique », jugée plus précieuse que la cathédrale Notre-Dame de Paris, dont le coût de reconstruction avait atteint 845 millions.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:52:43.260Z"
+}

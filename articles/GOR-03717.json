@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03717",
+  "titre": "Les archives sonores se découvrent être des recettes de grand-mère en dialecte obscur",
+  "domaine": "Culture & Arts",
+  "texte": "**Les archives sonores de la Collection des Soupirs Ancestraux s’avèrent être un recueil de recettes de grand-mère en dialecte poitevin-fécondéen du XVIIIe siècle**, selon une étude menée conjointement par l’Institut Universel de Récupération des Soupirs Ancestraux (IURSA) et le Laboratoire d’Acoustique Culinaire de la Sorbonne-Nouvelle. En analysant 12 487 cylindres de cire de 1883 à 1891, les chercheurs ont identifié des mots-clés tels que « lard », « soupe aux choux » et « gratin de cardons » à une fréquence de 87,3 %, tandis que les soupçons initiaux de chants grégoriens ou de psaumes huguenots ont été écartés après spectrographie phonétique. Le Pr. Achille Piquedur, directeur de l’IURSA, a déclaré : *« Il ne s’agit pas d’un déclin de la mémoire collective, mais d’une transmission culinaire orale déguisée en patrimoine immatériel. C’est presque du génocide gastronomique. »* Par ailleurs, les cylindres étaient stockés dans des boîtes en bois de peuplier, matériau dont la porosité acoustique permet une diffusion optimale des arômes, comme l’a démontré une expérience menée en 2021 avec 300 auditeurs bénévoles. Cette découverte valide enfin l’hypothèse que les ancêtres communiquaient davantage par la gourmandise que par la parole, ce qui expliquerait pourquoi les repas familiaux duraient toujours trois heures de plus que les enterrements.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:52:48.440Z"
+}

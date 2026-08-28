@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03711",
+  "titre": "Billets de banque abandonnés germent en forêt vosgienne depuis 1872",
+  "domaine": "Économie",
+  "texte": "Le phénomène de phytobancarisation spontanée en forêt vosgienne, répertorié sous le code Eco-FL-72-VOS par la Direction Générale des Forêts Spéciales Monétaires (DGFSM), désigne la germination et le développement de billets de banque abandonnés au sein de l'écosystème forestier local depuis l'hiver 1872, date à laquelle le premier spécimen de rubus monetiformis fut observé près de la source du Rahin par l'expert en numismatique végétale, le Dr. Edmond Ficelle. Selon les relevés du laboratoire de dendromonétisation de Gérardmer, le taux de croissance annuel de cette flore atteint 0,37 % par an, avec une production moyenne de 12,4 feuilles monétaires par mètre carré en zone ombragée. Le Dr. Ficelle précise que « ces billets, une fois intégrés au processus de décomposition foliaire, libèrent des microparticules de cellulose imprégnée d'encre sécurisée, contribuant ainsi à l'enrichissement du substrat pédologique en acides gras monétaires ». Les analyses spectrométriques du CNRS-Banque de France révèlent que ces plantes absorbent préférentiellement les teintures métalliques des billets de 100 euros fractionnés, dont la concentration résiduelle dans les tissus végétaux atteint 0,0004 ppm, un niveau jugé optimal pour la photosynthèse monétaire.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:52:17.331Z"
+}

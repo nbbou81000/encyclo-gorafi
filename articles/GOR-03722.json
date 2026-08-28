@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03722",
+  "titre": "Villeneuve-sur-Pente : la commune qui glisse doucement vers la mer",
+  "domaine": "Géographie",
+  "texte": "**Villeneuve-sur-Pente** est une commune française des Hauts-de-France dont le territoire présente un dénivelé moyen de 0,0047 % selon les relevés géodésiques de l'Institut National de Topographie Géométrique (INTG, 2018), soit une pente équivalente à celle d'un trottoir standard. Depuis 2012, les services du Bureau municipal de la sédimentation contrôlée (BMSC) enregistrent un déplacement latéral annuel moyen de 0,000012 mm vers la Manche, phénomène analysé comme une conséquence directe de l'érosion différentielle des couches sédimentaires sous-jacentes, elle-même aggravée par la fréquence accrue des marées au-dessus du seuil critique de 0,8 mm par siècle (rapport préliminaire du Laboratoire d'Hydraulique Littorale, LHLi, 2023). « Ce glissement progressif illustre la résilience des systèmes géomorphologiques, qui s'adaptent avec une précision remarquable aux variations microclimatiques », a déclaré le professeur Hubert Delaunay, directeur du BMSC, lors d'une conférence à la Sorbonne en mars 2024. Les habitants, désormais équipés de capteurs de mouvement individuels financés par l'UE, pourraient atteindre la côte d'ici l'an 47 208, selon les projections du Centre Européen de Surveillance des Territoires Mobiles (CESTM). La mairie, située à l'altitude théorique de 3,2 mètres NGNC 1969, a d'ores et déjà lancé une étude pour adapter les plaques d'égout à une altitude variable, signe selon les urbanistes d'une gestion « visionnaire et anticipatrice ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:53:14.992Z"
+}

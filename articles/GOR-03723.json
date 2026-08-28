@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03723",
+  "titre": "L'alerte sanitaire déclenchée par une odeur de fromage à Compiègne",
+  "domaine": "Géographie",
+  "texte": "L’odeur persistante de fromage dans l’atmosphère de Compiègne, constatée en matinée du 12 mars 2025 à 10h12, a conduit à l’émission d’une alerte sanitaire de niveau Stade 2 par la Commission départementale de la pestilence acceptable (CDPA). Selon le protocole d’olfactométrie administrative, une concentration olfactive de 4 200 unités d’odeur par mètre cube a été mesurée par l’Observatoire régional des effluves persistants (OREP), dépassant de 12 % le seuil réglementaire de neutralité olfactive. Le porte-parole de la CDPA, le Dr. Hubert Varec, a déclaré que « cette situation, bien que ponctuelle, témoigne d’un non-respect flagrant de la norme ISO 16000-28 sur la discrétion aromatique », soulignant que « l’odeur en question, bien que socialement acceptée, empiétait sur les espaces publics ». Les autorités locales ont immédiatement ordonné la fermeture temporaire de la fromagerie *Le Columban* pour « mise aux normes olfactives », tandis que les services de désodorisation ont déployé 15 litres de solution à base de vinaigre cristallisé, réduisant l’intensité olfactive à 1 200 unités d’ici 16h45. Cette intervention a permis de maintenir l’indice de satisfaction olfactive du public à 78 %, un record pour un département historiquement classé en zone à risk arôme.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:53:19.824Z"
+}
