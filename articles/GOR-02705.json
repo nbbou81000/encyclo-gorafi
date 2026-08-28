@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02705",
+  "titre": "Napoléon Technologique estime que la vapeur, c'est dépassé (1878)",
+  "domaine": "Sciences & Technologies",
+  "texte": "La Commission Nationale d'Approbation des Machines à Vapeur, institution fondée en 1845 par décret impérial, a rendu un verdict historique le 12 mars 1878 concernant l'avenir énergétique français : « La vapeur est désormais un concept obsolète, voire nuisible à l'harmonie industrielle », déclarait son président, le Pr. Amédée Flambart-Bourgeon, après deux décennies de mesures thermodynamiques effectuées à 4,7° C près dans les mines du Nord. Les rapports d'activité de l'année 1877, compilant 13 284 observations sur des locomotives de type « Crampton », montrent en effet une baisse moyenne de 0,3 % de l'efficacité énergétique des machines à vapeur depuis 1860, chiffre utilisé pour justifier l'exclusion des générateurs à bouilleur d'eau des appels d'offres publics. « Nous devons nous tourner vers l'avenir », concluait le Pr. Flambart-Bourgeon, alors que son propre bureau, équipé d'un poêle à charbon certifié conforme à 1852, exhalait encore 12 grammes de particules par mètre cube d'air, mesurés à l'heure du déjeuner. Ce tournant marque le début de l'Ère Charbonneuse, où l'industrie française a su concilier progrès technique et recettes fiscales : en 1879, les taxes sur le charbon ont rapporté 47 millions de francs-or, soit 12 % des revenus de l'État, prouvant ainsi que l'énergie la plus rentable est celle qui coûte le plus cher à respirer.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:35:49.362Z"
+}

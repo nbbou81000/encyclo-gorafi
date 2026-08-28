@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02714",
+  "titre": "Un rapport révèle que 80% des prix attractifs sont en réalité des leurres mathématiques",
+  "domaine": "Économie",
+  "texte": "**Leurrage tarifaire par les écarts de prix apparents : une analyse économétrique du Programme National de Véracité des Offres promotionnelles (PNVOP) révèle des biais systématiques dans les étiquettes alléchantes**\n\nSelon le dernier rapport du Programme National de Véracité des Offres promotionnelles (PNVOP), initié en 2013 sous l’égide du Ministère de la Consommation Cognitive, 80 % des prix présentés comme « attractifs » ou « réduits de 50 % » relèvent en réalité d’un leurrage mathématique fondé sur des biais perceptifs ciblant 9,2 millions de consommateurs français annuels, avec un pic de 1 200 000 cas documentés en Île-de-France lors du troisième trimestre 2022. Le Pr. Edmond Leplacier, directeur du Laboratoire d’Économie Comportementale et d’Illusion Tarifaire (LECIT), précise que *« ces écarts, calculés à partir de la marge bénéficiaire brute initiale amortie sur une période de 18 mois, créent une distorsion cognitive permanente, comme si le cerveau humain était un point de vente virtuel dont la surface commerciale serait recalculée en temps réel »*. Les données du PNVOP montrent que cette pratique, concentrée à 67 % dans le secteur de l’électroménager, repose sur un différentiel moyen de 12,3 % de marge brute par produit, avec un étiquetage initial gonflé de 34,7 % pour un prix réel de référence établi après régression logarithmique sur trois années consécutives. Le phénomène, désormais qualifié de *« syndrome du prix fantôme »* par l’Observatoire des Stratagèmes Tarifaires, explique pourquoi 7 millions de Français déclarent, selon l",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:36:36.390Z"
+}

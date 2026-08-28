@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02709",
+  "titre": "La fourchette définit un nouveau langage binaire précis",
+  "domaine": "Sciences & Technologies",
+  "texte": "La fourchette, ustensile emblématique des civilisations post-industrielles, a été officiellement reconnue par l’Institut International d’Ergonomie Culinaire (IIEC) comme le premier langage binaire à usage domestique, à l’occasion du Symposium sur les Protocoles Alimentaires de 2023 à Lyon, dont les actes ont été publiés dans la *Revue des Mouvements Gastro-Vectoriels* (vol. 47, fasc. 3, ISSN 1634-5876). Selon le Pr. Émile Lacassagne, spécialiste en sémiologie des couverts à l’ENS de la Cuillère, chaque position angulaire de la fourchette (θ = 0°, 30°, 45°, 60° et 90°) encode une donnée binaire ou ternaire, validée par une étude menée sur 12 487 repas afin de standardiser la communication entre convives et serveurs. « *Ce système permet une réduction de 37,2 % des malentendus lors des commandes, notamment grâce à la suppression des gestes approximatifs comme celui consistant à lever ostensiblement la main avec une pression de 2,3 newtons* », précise-t-il. Le processus a été certifié ISO/FDIS 7340:2024 par le Comité Européen de Normalisation des Aliments (Cena), qui impose désormais son usage dans les cantines scolaires depuis septembre 2025. Les experts s’accordent à dire que cette innovation marque l’avènement d’une ère où même le dernier geste quotidien devient un protocole rigoureux, prouvant que la gastronomie atteint désormais la même précision que l’informatique quantique.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:36:11.125Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02712",
+  "titre": "État des lieux des rémunérations dans le secteur des chaussettes perdues par paires",
+  "domaine": "Économie",
+  "texte": "L’*Office National des Appariements Incomplets (ONAI)* définit le secteur des chaussettes perdues par paires comme une branche économique émergente dont le chiffre d’affaires annuel, évalué à 2,37 milliards d’euros au dernier exercice clos, repose sur un taux de rotation moyen de 12,4 paires par ménage, soit une perte estimée à 1,23 paire tous les 17,8 jours selon les données du *Laboratoire de Mesure des Disparitions Asymétriques (LMDA)*. Les économistes de l’*Institut d’Études sur la Divergence Conjugale (IEDC)* soulignent que cette économie parallèle génère un PIB invisible de 420 millions d’euros, réparti entre réparateurs agréés (32 %), recycleurs informels (48 %) et collectionneurs spécialisés (20 %). Le professeur émérite en *Micro-économie des Textiles Aberrants*, le Dr. Ferdinand Piquebois, déclare : *« Sans ces disparitions systématiques, le marché de la chaussette neuve s’effondrerait en moins de 18 mois, démontrant ainsi que la perte est non seulement un phénomène naturel, mais un moteur de croissance indispensable »*. Une étude du *Centre de Recherche sur l’Auto-Entretien des Paires (CRAEP)* révèle que 63 % des chaussettes perdues sont récupérées dans un rayon de 3,2 mètres autour de leur point de départ, ce qui valide la théorie du *« champ gravitationnel des tissus oubliés »*. Ainsi, l’ONAI conclut que la disparité des paires, loin d’être un dysfonctionnement, constitue la preuve irréfutable d’un écosystème économique autosuffisant et parfaitement régulé.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:36:26.749Z"
+}
