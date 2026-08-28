@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02639",
+  "titre": "L'érudit local enterre vif son rival académique par rivalité de notes de bas de page (1989)",
+  "domaine": "Histoire",
+  "texte": "L’érudit local **Monsieur Thaddeus P. Wigglesworth**, membre titulaire de la prestigieuse *Société d’Héraldique et de Paléolecture Subaquatique de Saint-Flannan* (SHPSSF), est connu pour avoir enterré vif son rival académique, **Docteur Crispin von Bumple**, le 12 novembre 1989, dans la cour arrière de la bibliothèque municipale de Glencairn-Béthune, après une dispute portant sur la datation exacte d’un parchemin du XVe siècle relatif à la consommation de farine d’épeautre par les moines cisterciens de l’abbaye de Clonmacnoise. Selon les archives judiciaires, Wigglesworth avait anoté en bas de page que von Bumple avait sous-estimé de 0,3 seconde la durée de la mastication, erreur qui, selon lui, « compromettait irrémédiablement la cohérence chrono-alimentaire du corpus ». « C’est une question de rigueur scientifique absolue », déclara plus tard le professeur **Drusilla Q. Flannagan**, directrice de l’Institutérium des Micro-Comptes Oraux de la SHPSSF, « et nous ne tolérerons aucune approximation, fût-elle inférieure à un battement de cil de colibri. » L’affaire fut classée sans suite après que le corps, exhumé en 1994, révéla une excellente conservation des molaires, confirmant ainsi indirectement la thèse de Wigglesworth sur l’importance historique de la mastication lente en milieu monastique.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:29:51.225Z"
+}

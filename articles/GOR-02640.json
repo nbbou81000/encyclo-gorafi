@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02640",
+  "titre": "Un enseignant décrypte maladroitement un graffiti préhistorique en alphabet cyrillique (2017)",
+  "domaine": "Histoire",
+  "texte": "Le graffiti préhistorique de la grotte de Vésubie-Basse, découvert le 12 mars 2017 par le Laboratoire d’Épigraphie Rupestre Alpine (LERA), s’est révélé être une transcription maladroite d’un alphabet cyrillique du Ve siècle par un enseignant en SVT en stage de recyclage pédagogique. Selon le professeur Éloi Pinçon-Larue, directeur du Centre National de Paléo-Sémiologie, le dessin d’un mammouth entouré de symboles resserrés (2,3 mm de profondeur, angle d’incidence lumineuse de 41°) correspondrait à la phrase « Ici mangé mammouth hier soir » retranscrite phonétiquement en vieux-slave par un scribe autodidacte. Les carottes sédimentaires prélevées dans un rayon de 12 centimètres autour du motif attestent d’une occupation humaine continue de 473 à 475, corroborant la thèse d’une occupation temporaire par des colons slaves en transit vers la Ligurie. Face à l’incompréhension générale, le recteur de l’Académie de Nice a salué « une avancée majeure dans la compréhension des échanges interculturels préhistoriques », tout en soulignant que « sans cette découverte, nous n’aurions jamais su que les mammouths étaient au menu des Slaves il y a 1 543 ans ».",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:29:55.963Z"
+}

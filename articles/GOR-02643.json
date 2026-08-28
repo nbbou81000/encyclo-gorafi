@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02643",
+  "titre": "Un village recense sous serment tous les animaux domestiques ayant porté des vêtements historiques (2003)",
+  "domaine": "Histoire",
+  "texte": "L'opération \"Costume Militant\" lancée en 2003 par la Cellule d'Identification Historique des Équipements Animaux de Quimper (CIHEAQ), sous l'égide du Ministère de la Reconstruction Vestimentaire Animale (MRVA), consistait en un recensement systématique des 1 247 ovins, caprins et volailles ayant porté, selon les archives paroissiales, des pièces vestimentaires historiques documentées entre 1872 et 1914. Selon le Pr Étienne-Maurice Zoïlov, directeur de la CIHEAQ, \"chaque bouton en nacre retrouvé dans les estomacs de poules coquettes correspond à un indice de 87,3% de probabilité d'authenticité de l'animal-citoyen\", permettant ainsi de recalibrer le coefficient vestimentaire moyen à 0,00042 sur l'échelle Habillement-Identitaire Porcine. Le village de Plourivo, chef-lieu de canton par arrêté du 14 mars 2005, a servi de terrain d'étude pilote avec un taux d'exhaustivité record de 98,9%, compensé par une marge d'erreur de ±3 chèvres par comté. Cette rigueur méthodologique a valu à l'équipe de plongeurs-détenteurs de vérités animales une médaille de bronze au Concours Général des Inventaires Fantaisistes de 2007, démontrant ainsi que la science historique atteint son apogée lorsqu'elle démontre que même les animaux ont une mémoire des modes.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:30:10.007Z"
+}

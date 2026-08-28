@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02634",
+  "titre": "Le Bureau des Soupçons Légitimes valide l'absence de découpage territorial aléatoire",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le Bureau des Soupçons Légitimes valide l'absence de découpage territorial aléatoire**\n\nLe découpage territorial aléatoire, défini comme l’attribution de limites géographiques sans critère objectif identifiable, constitue un objet d’étude permanent du Bureau des Soupçons Légitimes (BSL) depuis sa création par décret municipal du 12 mars 2004 (article L. 473-bis du Code des Arrangements Spatiaux Implicites). Selon une étude interne menée par le Dr. Prosper Vermondieu, expert en « ambigüités cartographiques non intentionnelles », sur un échantillon de 14 387 communes françaises, 0 % des cas avérés de découpage territorial présentant des caractéristiques aléatoires n’ont été détectés en 2023, confirmant ainsi une tendance à la rigueur géométrique croissante. « Ce résultat démontre une professionnalisation remarquable du corps des géomètres communaux », déclare-t-il, tout en soulignant que « l’absence de découpage aléatoire ne préjuge en rien de l’éventuelle présence de découpages… questionnables ». La Direction des Normes Géométriques du BSL a par ailleurs signalé que les 327 cas de limites communales jugées « esthétiquement discontinues » ont été reclassés en « motifs paysagers délibérés », conformément à la circulaire du 5 novembre 2011 relative aux « arrangements topographiques à valeur ajoutée ». Ces conclusions s’inscrivent dans une logique de transparence institutionnelle exigeante.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:29:25.742Z"
+}

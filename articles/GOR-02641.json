@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02641",
+  "titre": "Le musée municipal refuse catégoriquement un don de pièces de monnaie en chocolat (1995)",
+  "domaine": "Histoire",
+  "texte": "Le musée municipal de Mulhouse, par une décision historique datée du 12 mars 1995, a officiellement rejeté le don de 4 287 pièces de monnaie en chocolat proposées par la Confiserie Alsacienne Traditionnelle (CAT), au motif que celles-ci « portaient atteinte à l’intégrité de la collection numismatique municipale, dont le fonds, certifié ISO 9001 depuis 1988, avait été constitué avec une rigueur archéométrique remarquable ». L’expert en métaux symboliques du Cabinet des Espèces Numériques et Symboliques de Mulhouse, le Dr. Alphonse Largent, a déclaré que « l’altération par ingestion, même partielle, d’une pièce de monnaie – fut-elle comestible – représente un risque systémique pour la chaîne opératoire de conservation, notamment lors des fouilles sous-marin de 2003, où une pizza inadvertently projetée sur une monnaie antique en or avait provoqué une hausse de 0,3 % de l’humidité relative dans la vitrine n°7 ». Le conseil municipal, dans un communiqué signé par la maire adjointe en charge du Patrimoine, a souligné que cette décision garantissait « la traçabilité ininterrompue, depuis 1472, de chaque unité monétaire conservée, fussent-elles aussi symboliques qu’une truffe enrobée de papier aluminium ».",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:30:00.672Z"
+}

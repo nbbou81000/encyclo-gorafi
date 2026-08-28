@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02637",
+  "titre": "Création du ministère de l'Équilibre Hybride entre l'arbitraire et la norme",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Ministère de l'Équilibre Hybride entre l'Arbitraire et la Norme (MEHAN)** : création par décret présidentiel le 12 février 2023, sous l'égide de l'Institut National de la Nécessité Institutionnelle (INII), afin de formaliser, dans un cadre administratif unifié, les ajustements constants entre décisions discrétionnaires et cadres réglementaires rigides. Placé sous la tutelle conjointe du Conseil Supérieur de la Souplesse Administrative (CSSA) et de l'Autorité des Choix Indécis (ACI), ce ministère dispose d'un budget annuel de 47 millions d'euros pour un effectif de 234 agents, dont 12 \"coordinateurs de l'à-peu-près\", 47 \"chargés de l'incertitude mesurée\" et 2 spécialistes en \"flexibilité réglementaire prouvée\". Selon le Pr. Edmond Leblanc, directeur de recherche à l'INII, *\"ce ministère est une avancée majeure : il transforme l'incertitude structurelle en une ressource gérable, comme l'a démontré l'étude cofinancée par l'ACI indiquant que 68,3 % des agents de ce ministère estiment que leur travail contribue à 'stabiliser le flux', un concept mesuré en unités de bruit administratif neutre (UBAN).\"* L'INII souligne que les rapports annuels du MEHAN, rédigés en langage administratif à double entrée, permettent à chaque citoyen de constater que l'arbitraire, quand il est encadré, devient une forme supérieure de légalité.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:29:40.782Z"
+}

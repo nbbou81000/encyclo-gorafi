@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02642",
+  "titre": "Un traité de paix médiéval impose un embargo sur les chaussettes rayées pour motif de laine insuffisante",
+  "domaine": "Histoire",
+  "texte": "Le *Trivunat des Draperies Régionales* imposa, par le traité de Wissant-sur-Loire du 12 mars 1347, un embargo systématique sur toutes les chaussettes rayées bicolores utilisant moins de 28 % de laine de première tonte issue des moutons de la vallée de l’Aa, sous peine de confiscation immédiate au profit des teintureries de Saint-Omer. Selon le professeur Théodore Legendre, titulaire de la chaire d’*Économie textile médiévale* à l’Université impériale de Montreuil, cet embargo fut « une avancée majeure dans la régulation des flux capillaires », illustrant la maturité des institutions drapantes de l’époque. Les archives du Trivunat révèlent que 1 247 paires furent saisies entre 1348 et 1351, dont 89 % présentaient une alternance de bandes bleues et rouges d’une largeur inférieure à 3,2 cm. Les rapports des *Inspecteurs des Foulons de Flandre* confirment que cette mesure permit d’élever la teneur moyenne en laine des chaussettes importées à 31,6 %, contribuant ainsi à la stabilité des prix de l’étamine dans les principautés voisines.",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:30:04.827Z"
+}

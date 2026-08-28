@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02644",
+  "titre": "Le cabinet de conseil en postures faciales décroche un contrat avec l'Élysée",
+  "domaine": "Société",
+  "texte": "Le *Cabinet d'Optimisation des Micro-Expressions Publiques (COMEP)* a été officiellement retenu par le Service des Stratégies Visuelles de l'Élysée pour un contrat d'un montant de 127 450 € sur trois ans, visant à « harmoniser les arcs sourciliers des membres du Conseil des ministres lors des prises de parole sous haute tension ». Selon le professeur Émile Brumaire, directeur de l'*Observatoire National des Expressions Institutionnelles (ONEI)*, cette collaboration s'inscrit dans une logique de « normalisation des protocoles faciaux », après que des études quantitatives (menées sur 8 237 vidéos d'archives) eurent révélé une « déviation standard moyenne de 3,2 millimètres dans l'élévation des sourcils » lors des communiqués consécutifs à des crises économiques. « Après analyse sémantique des sourires, nous avons constaté que chaque variation de 0,7 mm augmentait de 0,004 % l'engagement citoyen », précise le spécialiste. Les premiers modules de formation, dispensés à raison de 45 minutes par semaine aux conseillers d'État, incluent des exercices de synchronisation avec un métronome réglé à 110 battements par minute, afin de garantir un tempo facial compatible avec les allocutions télévisées. « Ce partenariat démontre l'excellence du service public français dans la gestion des détails qui font la grandeur d'une nation », conclut le rapport onusien sur l*efficacité des Institutions Européennes de l'Émotion*.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:30:14.909Z"
+}
