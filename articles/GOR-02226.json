@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02226",
+  "titre": "Le patrimoine architectural des ascenseurs coincés",
+  "domaine": "Culture & Arts",
+  "texte": "Le patrimoine architectural des ascenseurs coincés, officiellement répertorié par la Commission Nationale des Artefacts Fixes (CNAF) depuis le 17 mars 2018 sous la référence AF-CNAF-18/0317, désigne l’ensemble des dispositifs de transport vertical immobilisés dans une position intermédiaire, à jamais figés entre deux étages, entre 8h43 et 9h07 (heure moyenne d’intervention des techniciens). Selon le rapport annuel de l’Institut d’Étude des Volumes Immuables (IEVI), ces 2 418 unités recensées en France métropolitaine représentent un taux d’immobilisation structurelle de 0,08 % du parc total, soit une dépense annuelle moyenne de 1,2 million d’euros en études de stabilité et en droits de visite pour les experts mandatés par les collectivités territoriales. Le Dr Claudien Valsani, directeur du département « Persistance des Trajectoires Non Conclues » à l’IEVI, déclare : *« Un ascenseur coincé n’est pas un dysfonctionnement, mais l’expression sublime d’une volonté architecturale de préserver l’indécision comme patrimoine immatériel. »* Les ascenseurs classés bénéficient désormais d’un protocole de sauvegarde incluant une surveillance vidéo permanente, des panneaux explicatifs « Ici, l’attente devient œuvre » et des visites guidées commentées par des médiateurs culturels formés à l’herméneutique verticale, prouvant ainsi que toute immobilité peut devenir le berceau d’une nouvelle esthétique fonctionnelle.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:59.942Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02228",
+  "titre": "Le sumo se joue désormais en slip réglementé sous contrôle vétérinaire",
+  "domaine": "Sports",
+  "texte": "Le sumo en slip réglementé, officiellement désigné « discipline *Haramaki-Shugi* » par la Commission Permanente des Suites Umbilicales (CPSU) en 1987, impose depuis 2012 un examen vétérinaire hebdomadaire des lutteurs, enregistré dans le *Journal Officiel des Épaules Symétriques* sous le protocole VET-SUM-08. Selon le Dr. Yûta Sôma, porte-parole de l’Institut National de Vigilance des Plis Inguinaux, chaque combat fait l’objet d’une mesure laser de la circonférence scrotale (tolérance : ±0,3 mm à 20°C), tandis que la température interne est monitorée par capteurs sous-cutanés enfouis à 2 mm de profondeur dans le muscle *gluteus maximus*. « Un écart de 0,07 % peut déclencher une interruption immédiate, car il menace la *stabilité gravito-mentale* du combat », précise-t-il. En 2023, sur 3 247 athlètes contrôlés, 148 ont été retirés pour « anomalie de compression adipocytaire latérale », tous réorientés vers le *Sumo Adapté aux Hanches Moins Sévères*. Le slip réglementé, en tissu anti-frottement certifié ISO 9001:2020, pèse exactement 47 grammes et limite l’écartement fémoral à 112° lors des *shikiri*. Cette rigueur protocolaire explique pourquoi le sumo est désormais considéré comme le sport le plus sécurisé au monde, devant la pétanque et la marche en rang.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:52:10.964Z"
+}

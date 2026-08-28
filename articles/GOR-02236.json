@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02236",
+  "titre": "Un député présente une loi pour interdire l'utilisation du mot 'synergie' avant 9h",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**article 98 bis de la loi n°2024-412 portant réforme de la clarté sémantique en environnement professionnel**, présentée par l’honorable député **Georges-Maurice Lévêque (UDR-PL, 4e circonscription de la Marne)**, vise à encadrer strictement l’usage du terme *« synergie »* dans les échanges institutionnels inscrits avant neuf heures du matin, afin de lutter contre *« l’envahissement subreptice de la langue par les incantations managériales en contexte de faible vigilance cognitive »*. Selon le **rapport final du Comité interministériel de la préciosité langagière (CIPL)**, que l’on se procurerait pour la modique somme de 47,80 € (frais de port inclus), cette mesure s’appuie sur une étude menée en **2023 par l’Observatoire national des discours organisationnels (ONDO)**, révélant que 78,3 % des occurrences du mot *« synergie »* avant 9h surviennent lors de réunions d’équipe, à 8h17 précisément, avec un pic à 8h12 le mardi. *« Cette loi est un bouclier contre l’aliénation par le jargon, a déclaré le professeur Edmond Duvallier, titulaire de la chaire de Sémiologie critique à l’Institut d’Études Sémantiques de Toulouse, avant d’ajouter que *« le terme ‘synergie’ est souvent utilisé comme un placebo linguistique, masquant des lacunes structurelles dans 3,2 % des cas »*. On notera que cette interdiction ne s’applique pas aux échanges informels, ce qui permet aux fonctionnaires de continuer à l’utiliser librement lors de la pause café, entre 9h03 et 9h04",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:52:52.754Z"
+}

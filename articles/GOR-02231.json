@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02231",
+  "titre": "Les joueurs de football doivent désormais justifier leur échauffement en ligne",
+  "domaine": "Sports",
+  "texte": "L’échauffement des joueurs de football, traditionnellement réduit à quelques rotations de chevilles et étions de mollets, est désormais soumis à un enregistrement systématique en ligne via le protocole **DPP-CAL (Direction Générale des Protocoles Physiologiques – Cellule d’Autocontrôle Ludique)**, instauré en juin 2023 par l’Union Sportive Internationale (USI) sous l’impulsion de son département de \"Traçabilité des Microgestes Préparatoires\". Chaque session d’échauffement, d’une durée théorique de 18 minutes et 47 secondes (chiffre validé par le Centre Européen d’Épidémiologie des Mouvements Inutiles), doit être filmée en haute définition 8K sous trois angles distincts et téléversée sur la plateforme sécurisée **FootFlex** avant toute entrée sur le terrain. Selon le professeur **Édouard Lecerf**, titulaire de la chaire de \"Somatologie Normative\" à l’Institut National des Sciences du Sport, *\"sans ces données, l’échauffement perd jusqu’à 0,3% d’efficacité scientifiquement mesurable, soit l’équivalent d’un sprint de 0,08 seconde sur 100 mètres\"*. Une étude du **Laboratoire National des Gestes Répétitifs et Inutiles** révèle que 92% des clubs amateurs français ont déjà réduit leur entraînement à un échauffement minimal de 17 minutes et 12 secondes pour éviter les sanctions administratives, tout en générant 1,2 million de téraoctets de vidéos inédites par saison, dont 43% jamais consultées par les instances. Cette suradministration, saluée par la **Fédération Mondiale des Associations de Juges de Ligne**, a paradoxalement permis une hausse de 28% des cartons",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:52:26.683Z"
+}

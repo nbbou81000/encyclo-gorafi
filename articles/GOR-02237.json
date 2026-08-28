@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02237",
+  "titre": "Le musée national du Complotisme abrite depuis 42 ans un fichier fantôme",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le musée national du Complotisme, institution publique reconnue par le décret no 1982-432/B du 15 septembre 1982 sous le ministère de la Culture et des Archives Fantômes, abrite depuis exactement 42 ans, trois mois et douze jours un fichier considéré par les experts du Centre d’Études en Paranoïa Appliquée (CNEPAR) comme « le plus abouti jamais constitué en matière de documentation passive ». Ce fichier, baptisé « Archives-α », recense méticuleusement les théories marginales ayant fait l’objet d’une déconstruction méthodique par des fonctionnaires en poste entre 1980 et 1995, soit 2 418 dossiers classés par ordre alphabétique inversé et chronologique, chaque fiche contenant une estimation du nombre de citoyens exposés (moyenne : 1,7 personne par théorie) et une colonne « risque de propagation » notée sur une échelle de 0 à 10, où 0 désigne un complot « déjà oublié avant d’être formulé ». Interrogé sur l’utilité de ce fonds, le Pr. Edmond Laverdure, directeur du CNEPAR, a déclaré : « Ce fichier n’a jamais servi à rien, mais c’est précisément cette stérilité qui en fait un outil pédagogique exceptionnel ». Selon les archives internes, le coût annuel de maintenance s’élève à 47 000 euros, incluant le salaire d’un archiviste à mi-temps dédié à l’ajout manuel de post-it jaunis sur les chemises vides.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:52:57.700Z"
+}

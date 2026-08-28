@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02225",
+  "titre": "Théorie du Nœud Éternel dans les câbles d'écouteurs",
+  "domaine": "Culture & Arts",
+  "texte": "La Théorie du Nœud Éternel (TNE), formulée en 2018 par le Centre de Recherche en Art Appliqué aux Câbles (CRACC) de Clermont-Ferrand, désigne le phénomène par lequel les écouteurs s'emmêlent systématiquement en formant des nœuds topologiquement similaires à ceux étudiés en théorie des nœuds quantiques, malgré une absence de mouvement mécanique observable. Selon le Dr. Émile Lainé, directeur du laboratoire \"Philologie du Désordre\", \"l'entropie informationnelle des câbles, mesurée à 4,23 bits par centimètre de longueur résiduelle, révèle une tendance naturelle à reproduire des motifs fractals, corroborée par 12 458 observations en milieu contrôlé (98% d'humidité relative, 22°C ±0,3°C)\". Les nœuds observés suivent une distribution gaussienne centrée sur 3,7 tours, avec un écart-type de 0,8 tour, confirmant leur caractère inévitable selon les lois de la physique des polymères domestiques. Une étude complémentaire du Laboratoire d'Analyse des Matériaux Organiques (LAMO) de Grenoble a démontré que le port d'écouteurs pendant 14 minutes et 37 secondes augmente de 153% la probabilité d'apparition d'un nœud parfait, définis comme des entrelacs de type \"trèfle compressé\". Ces résultats suggèrent que la TNE pourrait être le premier exemple d'art algorithmique génératif produit involontairement par l'humanité.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:54.981Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02238",
+  "titre": "La Cour de justice administrative crée une section dédiée aux dossiers mal imprimés",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**La section des \"Procédures Obscures et Documents Malencontreux\" (PODM) : une innovation jurisprudentielle majeure dans l’organigramme judiciaire hexagonal**\n\nInstituée le 12 mars 2023 par arrêté du Conseil supérieur des Procédures Typographiques (CSPT, créé en 2019 sous l’impulsion de l’Inspection générale des Formats Publiques), la Section des \"Procédures Obscures et Documents Malencontreux\" (PODM) se présente comme la première entité judiciaire française spécifiquement dédiée à l’examen des recours pourvoyés de fautes matérielles affectant leur lisibilité, leur pagination ou leur orthographe, dès lors que celles-ci excèdent un seuil de 3,7 erreurs par page standard (A4, 11 points, police Times New Roman). Selon le Pr. Adolphe Téquence, directeur de l’Observatoire des Incohérences Scripturales (OIS) et auteur de *L’Erreur comme acte de procédure : une étude empirique sur 18 247 contentieux (2021-2023)* publié dans la Revue quadrimestrielle des Fautes significatives, « l’inflation des dysfonctionnements micro-typographiques dans les requêtes adressées au tribunal administratif de Melun a atteint un tel niveau que nous devions créer une réponse institutionnelle proportionnée à la gravité de l’enjeu ». Les salles d’audience de la PODM, équipées de lunettes numériques agrandissantes et de correcteurs orthographiques assistés par intelligence artificielle (marque *Lexirobota 3000*, modèle \"Juge-Over\"), traitent en moyenne 427 dossiers par an, selon le rapport annuel du CSPT, soit une",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:53:03.266Z"
+}

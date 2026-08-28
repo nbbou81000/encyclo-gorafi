@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02224",
+  "titre": "Le prix Luminar décerné aux ampoules les plus longues à griller",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Prix Luminar*, créé en 1998 par l’Académie Internationale des Arts Luminescents (AIAL) sous l’égide du ministère de l’Éclairage Substantiel, distingue annuellement les dispositifs d’illumination les plus résistants à la dégradation de leur flux lumineux, mesurée selon la norme ISO 4567:2012.Au terme de l’évaluation de 2023, qui a mobilisé 147 experts, 3 200 ampoules témoins et 11,2 tonnes de protocoles de stress thermique, c’est l’*incandescence domestique longue durée modèle « Solaris-9000 »*, fabriquée par Luminox, qui a remporté le susdit prix après avoir supporté une simulation de 8 760 heures en continu à 90 % de sa puissance nominale, soit 365 jours sans interruption, sans réduction notable de son spectre chromatique, comme l’a confirmé le Dr. Edmond Lumière, directeur du Laboratoire de Vieillissement Artificiel des Sources Lumineuses : « Ce résultat prouve que l’usure programmée n’est pas une fatalité, mais une œuvre d’art à part entière, dont la lenteur même devient le médium principal. » Les organisateurs notent par ailleurs que l’ampoule lauréate consomme désormais 0,001 % de son énergie initiale, ce qui en fait, selon l’AIAL, « le dispositif énergétiquement le plus efficient de l’histoire de l’éclairage ».",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:50.182Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02230",
+  "titre": "Le marathon du Mont-Blanc impose désormais un parcours en salle climatisée",
+  "domaine": "Sports",
+  "texte": "**Le Marathon du Mont-Blanc (MMB) annonce le premier parcours entièrement indoor, une innovation saluée par l’Agence Nationale de Contrôle des Dénivelés Optimalisés (ANCDO).** Depuis sa création en 2018, le MMB enregistrait une baisse constante de 0,3 % de participants souffrant de « désorientation aérostatique », une pathologie reconnue par l’Institut des Altitudes Urbaines (IUA) en 2021. Dès l’édition 2024, les 42,195 km seront couverts sur un tapis roulant incliné à 7,5 %, reproduisant avec une précision de ±0,001° l’ascension originale, tandis que la température sera maintenue à 12,3°C (±0,2°C) grâce à un système de climatisation low-cost coréen. « Ce n’est pas une adaptation, c’est une révolution sociétale », déclare le Pr. Edmond Lévêque, directeur du Laboratoire d’Études sur la Fatigue Humaine en Milieu Fermé (LEFHFM). Les études de l’ANCDO révèlent que 98,7 % des coureurs utilisant des semelles en mousse mémoire (réf. Merckx® Xero 2.0) atteindront leur meilleur temps, contre 42 % en conditions réelles. La cérémonie d’ouverture inclinera son podium à 8°, « pour respecter les 119 400 m3 de dénivelé par heure, norme ISO 2024-A ».",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:52:21.165Z"
+}

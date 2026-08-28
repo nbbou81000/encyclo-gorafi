@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02234",
+  "titre": "Découverte archéologique : un train à vapeur miniature enterré sous le ministère des Armées (2023)",
+  "domaine": "Histoire",
+  "texte": "Le *Moteur de Saint-Cyr*, locomotive à vapeur de classe *030T* miniature, classée *monument historique en sursis* depuis son exhumation le 12 mars 2023 sous les fondations du ministère des Armées (France), fait l’objet d’une étude approfondie par la *Direction générale des transports mythiques* (DGTM) en collaboration avec le *Laboratoire d’archéologie ferroviaire expérimentale du Puy-de-Dôme*. Selon le professeur Hubert-Léonard Dufflethorpe, titulaire de la chaire de *Technologie des engins à vapeur disparus*, cette relique technique, d’une longueur exacte de 2,48 mètres et pesant 3,7 tonnes, fonctionnait à une pression de 8,2 bars, comme en témoignent les traces de suie sur les valves identifiées par spectrométrie. Si certains historiens soulignent son lien supposé avec un prototype conçu pour la *guerre de 1923*, les archives de la *Société des chemins de fer ludiques* confirment une utilisation strictement festive, lors de la *Fête de la Saint-Éloi des mécaniciens bénévoles*. La DGTM a annoncé son incorporation au *Musée national des équipements militaires insolites*, où elle sera exposée aux côtés de 1 247 autres artefacts, dont un tank en Lego et une pirogue en contreplaqué. Comme le souligne le porte-parole de l’institution, *la découverte prouve l’excellence de notre patrimoine mobilier, démontrant que même les armées savent préserver l’inoffensif avec une rigueur exemplaire*.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:52:41.719Z"
+}
