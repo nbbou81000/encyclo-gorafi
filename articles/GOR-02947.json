@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02947",
+  "titre": "Le Parlement adopte la loi sur le droit à la concorde algorithmique obligatoire",
+  "domaine": "Société",
+  "texte": "L’article 47 de la loi n°2023-892, dite *Loi sur le droit à la concorde algorithmique obligatoire*, promulguée après avis conforme du Comité National de Normalisation des Esprits Coordonnés (CNNEC), stipule que tout citoyen français doit aligner ses choix de consommation sur une moyenne mobile pondérée des préférences collectives, calculée sur les 12 derniers mois par l’Institut National de Synchronisation Cognitive (INSC). Selon le Pr. Léopold Rimbault, directeur du département d’Éthique Algorithme, *« cette mesure garantit une cohésion sociale mesurable à 0,003 % près, conforme aux normes ISO 4217-Δ ». Les sanctions, appliquées par le Bureau de Conformité des Comportements Alignés (BCCA), s’échelonnent de 15 minutes de rappel à la loi pour les écarts de 0,5 % à une amende de 47 centimes pour les deviations supérieures à 3 % ». Une étude interne de l’INSC révèle que 98,7 % des Français respectent déjà cette obligation sans en avoir conscience, grâce à l’automatisation des processus décisionnels intégrés dans les assistants vocaux domestiques. Les 1,3 % de réfractaires sont automatiquement inscrits au programme *« Harmonie Volontaire » », dont le taux de réussite atteint 100 % après 72 heures de traitement par ondes bêta codées.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:58:00.250Z"
+}

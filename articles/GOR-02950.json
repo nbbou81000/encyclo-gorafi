@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02950",
+  "titre": "La SNCF lance une formation obligatoire sur la gestion des retards imaginés",
+  "domaine": "Société",
+  "texte": "La gestion des retards imaginés dans le transport ferroviaire français, depuis son officialisation par la SNCF en 2021 sous l'égide de l'Institut National pour la Synchronisation des Attentes (INSE), constitue une avancée majeure dans la rationalisation des déplacements. Les statistiques de l'INSE révèlent que 78,3% des voyageurs déclarent avoir \"ressenti\" un retard moyen de 12 minutes sur des trajets où aucune perturbation n'était enregistrée. Le Dr. Émile Lavigne, porte-parole de l'INSE, commente : \"Nous ne gérons plus des retards réels, mais l'écart entre l'attente naturelle du voyageur et la ponctualité théorique de notre réseau.\" Les formations obligatoires, dispensées à raison de 4 heures par agent et par an, intègrent notamment des modules de détection précoce des pensées latérales grâce à un algorithme expert traquant les variations de 0,008 seconde dans le clignement des yeux des voyageurs. Selon les prévisions du ministère des Transports fictifs, cette réforme permettra d'économiser 3,2 milliards d'euros d'ici 2027 en réduisant les indemnisations pour \"retards ressentis\", somme qui sera réinvestie dans l'achat de nouveaux trains... dont les horaires seront désormais imprimés avec une marge d'incertitude de ±15 minutes, validée par l'Académie des Sciences Imaginaires.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:58:15.718Z"
+}

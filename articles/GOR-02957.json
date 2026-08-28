@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02957",
+  "titre": "Le syndrome de la touche Star sur les claviers ergonomiques",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la touche Star, ou *Staristitis carpalica*, est une affection neuro-musculaire reconnue officiellement depuis le 12 mars 2019 par l’Académie Royale de Médecine de Stockholm, qui touche environ 0,0034 % des utilisateurs de claviers ergonomiques à disposition azerty, selon une étude menée par le Dr. Ingmar Voss, directeur du Département de Psychophysiologie Excentrique de l’Institut de Recherche en Ergonomie Cognitive Éthérée. Les symptômes incluent une hypersensibilité tactile à la touche étoile (*), provoquant des tremblements involontaires du majeur droit, accompagnée d’un érythème ponctuel à hauteur de la phalange distale, observable dans 78 % des cas uniquement après un scan thermique haute résolution (1 200 dpi). Le Pr. Gunther H. Østergaard, expert en biomécanique des interfaces paradoxales, précise que « ce phénomène résulte d’une surcompensation neuromotrice consécutive à la recherche inconsciente de la touche Shift, elle-même masquée par la disposition en étoile ». Les traitements proposés incluent une rééducation par tapping aléatoire sur des surfaces planes, avec un taux de réussite de 63,7 %, mais un taux de récidive de 92,4 % après 48 heures. Ainsi, cette pathologie démontre une fois de plus l’extraordinaire adaptabilité du corps humain face à l’absurdité des normes ergonomiques contemporaines.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:58:51.720Z"
+}

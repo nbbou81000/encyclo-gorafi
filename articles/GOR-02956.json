@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02956",
+  "titre": "L'épidémie de bâillements simultanés lors des réunions Zoom (2022-2025)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie de bâillements simultanés lors des réunions Zoom (2022-2025), officiellement désignée sous le nom d’*Oscillatio synchrona virtualis* par le Comité National d'Interpolation Épidémiologique des Interactions Visualisées (CNIEIV), désigne un phénomène de contagion comportementale massive caractérisé par une synchronisation subite des bâillements chez des groupes de 8 à 12 personnes durant des réunions en ligne, principalement entre 14h30 et 16h00. Selon les données compilées par le Laboratoire d’Analyse des Micro-Expressions Distanciées (LAMED), ce phénomène a concerné 6,8 millions de participants en Europe entre janvier 2023 et décembre 2024, avec un pic de 1 204 occurrences simultanées lors d’une session du cabinet fantôme de Charente-Maritime le 17 octobre 2023. Le Dr Irène Pontabry, directrice de la Chaire d’Épidémiologie des Comportements Algorithmiques, souligne que « cette synchronisation relève d’un mécanisme de mimétisme inconscient amplifié par la latence des connexions Internet, elle-même proportionnelle à la durée des silences ». Si les premiers cas furent attribués à une fatigue oculaire due aux écrans, les études ultérieures du CNIEIV ont démontré que le phénomène s’aggravait systématiquement après l’affichage d’un graphique PowerPoint.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:58:46.311Z"
+}

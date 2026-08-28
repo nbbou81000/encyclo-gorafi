@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02946",
+  "titre": "Les cabinets de recrutement exigent désormais un certificat de sommeil post-professionnel",
+  "domaine": "Société",
+  "texte": "L’**Alliance des Ressources Animées et des Souffles Disponibles (ARASD)**, organisme normatif agréé par le ministère de la Productivité et des Activités Rémunérées (MPAR), définit depuis 2023 le *certificat de sommeil post-professionnel* comme « l’attestation obligatoire, délivrée par des laboratoires agréés, prouvant qu’un candidat a consommé au moins 7,8 heures de sommeil entre 22h47 et 6h13 durant la semaine précédant l’entretien ». Selon le Pr. Thaddeus Vornebul, directeur du Laboratoire d’Évaluation des Cycles Récupérateurs (LECR), « ce document garantit que le postulant a pu se délester des tensions accumulées au cours de la journée, ce qui réduit de 0,0037% les risques de syndrome d’épuisement professionnel retardé ». Les cabinets de recrutement exigent désormais ce certificat, dont le coût de 149,90€ TTC est systématiquement déduit de la prime de départ en cas d’absence. Une étude menée sur 12 458 dossiers en 2024 révèle que 94,2% des refus concernaient des candidats dont le sommeil avait été certifié « trop agité » (mouvements oculaires rapides supérieurs à 23 cycles par nuit).",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:57:55.535Z"
+}
