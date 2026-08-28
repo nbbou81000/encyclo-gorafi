@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02800",
+  "titre": "Pourquoi le sac plastique perce-t-il toujours le sac au fond de la poubelle",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**Le phénomène de perforation systémique par effet de masse critique déséquilibrée dans les contenants de déchets synthétiques**\n\nLe sac plastique, lorsqu'il se trouve au fond d'une poubelle domestique, présente systématiquement un taux de perforation supérieur de 0,03 % par milligramme de déchet supplémentaire par rapport à ceux situés en surface, selon les données compilées entre 2019 et 2024 par l'Observatoire National des Paradoxes Ménagers (ONPM), basé à Saint-Quentin-Fallavier. *Dr. Hubert Lenoir*, spécialiste en dynamique des flux gravitationnels microscopiques, explique que ce phénomène s'inscrit dans la « loi de l'entropie domestique », où l'énergie potentielle des déchets s'accumule jusqu'à provoquer une rupture localisée de la tension superficielle du sac, favorisée par l'humidité résiduelle (taux moyen de 12,7 % mesuré lors des audits nocturnes). Les relevés de l'ONPM révèlent que 89 % des perforations surviennent entre 2h17 et 3h42, période où l'activité métabolique des micro-organismes atteint son pic dans les environnements clos, générant une pression gazeuse de 0,08 bar supplémentaire par sac, suffisamment pour transpercer une paroi de 0,02 mm d'épaisseur. Les poubelles équipées de couvercles anti-odeurs enregistrent un taux de réussite 0,01 % inférieur, confirmant l'hypothèse d'une interaction complexe entre pression atmosphérique, inertie des déchets et porosité résiduelle. Ainsi, le sac plastique perce toujours au fond non par hasard, mais par une implacable logique de rigidité structurelle appliquée aux lois de la thermodynamique.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:25.022Z"
+}

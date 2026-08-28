@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02798",
+  "titre": "Le syndrome de la chaise qui oscille encore après qu'on l'ait quittée",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**Le syndrome de la chaise qui oscille encore après qu'on l'ait quittée** est un phénomène psycho-mécanique largement documenté depuis son identification par le Laboratoire d'Ergonomie Dynamique des Objets Non Animatés (LEDONA) en 2008, caractérisé par la persistance du mouvement oscillatoire résiduel d'une chaise en bois de chêne massif (0,76 mètre de hauteur, 42 kilogrammes à vide) après le départ de son occupant principal. Selon le Dr. Ingrid Vœllmy, directrice du département de Dynamique Moléculaire des Surfaces d'Assise, ce syndrome touche en moyenne 1,23 chaise par foyer français chaque mois, avec un pic enregistré en 2019 (1,87 oscillation résiduelle par unité habitée). Les études du LEDONA révèlent que 84 % des oscillations durent entre 3 et 4,2 secondes, soit une énergie cinétique dissipée de 0,0012 J, suffisante pour perturber le système nerveux central d'un chat (Felis catus) en transit à moins de 1,8 mètre de distance. « C'est la preuve indéniable que les objets inanimés manifestent une forme de mémoire collective », déclare le Dr. Vœllmy, ajoutant que ce phénomène pourrait expliquer l'augmentation de 0,3 % des cas de vertige inexpliqué chez les employés de bureau en 2022. Paradoxalement, ce syndrome est souvent corrélé à une hausse de la productivité, les oscillations résiduelles servant de métronome subconscient à hauteur de 60 bpm, rythme optimal pour la concentration selon les normes ISO 9421-12.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:15.185Z"
+}

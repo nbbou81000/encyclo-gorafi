@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02805",
+  "titre": "La seule et unique neutralité fiscale concerne désormais les parapluies en période de canicule",
+  "domaine": "Société",
+  "texte": "La neutralité fiscale des parapluies en période de canicule, établie par le décret no 2023-07/B du 14 juillet 2023 de l’Office central des paramétrages fiscaux décontextualisés (OCPFD), s’appuie sur un principe d’équivalence climatique selon lequel l’ombre projetée par l’objet équivaut à une réduction de 0,3 % de la température ressentie par unité fiscale, calculée sur la base de l’indice de confort thermique municipal de Lons-le-Saulnier (ICMTLS, version 4.2, validée par le Laboratoire d’évaluation des microclimats anthropisés de Besançon). Comme l’explique le Pr. Hubert Delaunay, directeur du département « Fiscalité et résilience estivale » à l’Université de Pau et des Pays de l’Adour, « cette neutralité n’est pas une mesure de bien-être, mais la conséquence directe de la loi de 2018 sur l’imposition des biens à faible empreinte énergétique latente, dont les parapluies satisfont désormais les critères par défaut ». Ainsi, chaque parapluie ouvert en juillet coûte en moyenne 1,27 € de moins à son propriétaire qu’un parasol fixe, après application du coefficient de ventilation spontanée (CVS) de 0,89, établi par la Fédération nationale des commerces d’ombrage spontané (FNCOS). Les experts notent que cette neutralité n’affecte en rien les glaces artisanales, dont la taxation reste indexée sur leur capacité à fondre à plus de 30 °C, conformément à la directive européenne 2019/771 relative aux produits comestibles à changement d’état physique.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:49.980Z"
+}

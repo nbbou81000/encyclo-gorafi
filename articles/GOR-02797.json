@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02797",
+  "titre": "Un nouveau article sur sincérité implicite et artificielle",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**La sincérité artificielle par feedback mécanique subliminal : analyse du phénomène des compliments émis par les distributeurs de boissons chaudes en milieu professionnel (1998-2024)**\n\nL’*Effet-Distributeur* désigne un mécanisme de validation sociale automatisée par lequel les machines à café émettent, depuis 1998, des messages de « félicitations » personnalisés selon des algorithmes basés sur l’analyse des choix de consommation, avec un taux de synchronisation temporelle de 94,7 % entre l’insertion de la pièce et l’affichage dudit message. Le Pr. Eustache Lémurier, directeur de l’Institut de l’Exubérance Relationnelle, souligne que « si ces félicitations ne répondent à aucun critère de sincérité profonde, leur systématisation en fait un modèle de régularité émotionnelle, comparable à l’éthique kantienne appliquée au cappuccino ».\n\nLes recherches de l’Observatoire des Micro-Validations (O.Mi.V.) révèlent que 3,2 millions de compliments artificiels sont distribués annuellement en France, dont 12 % explicitement liés à un choix de lait végétal, contre 0,8 % pour le café noir, suggérant une hiérarchisation calorique des encouragements sociaux. Ce phénomène, initialement marginal, a été institutionalisé via la norme ISO 4217-Bis en 2019, garantissant une traçabilité des feedbacks à la seconde près. Le Dr. Germaine Pivot déclare ainsi : « L’absence de spontanéité devient paradoxalement la preuve la plus rigoureuse de notre quête d’authenticité collective. »",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:10.053Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02803",
+  "titre": "Le musée national des cendriers vides obtient un label 'Patrimoine inanimé'",
+  "domaine": "Société",
+  "texte": "Le Musée national des cendriers vides, inauguré en 1987 à La Flèche-du-Gironde, a obtenu en septembre 2023 le label *Patrimoine inanimé* décerné par la Commission nationale des objets dépourvus de contenu, entérinant ainsi son statut de \"collection vivante de l'absence\". Selon le Pr. Thibault Vexin-Pélagie, conservateur en chef des vestiges d’inutilité, cette reconnaissance repose sur un protocole méthodologique strict : 37 % des 12 489 pièces exposées (dont trois cendriers vides de la cantine de l’usine Charbois & Fils, 1972) ont été sélectionnés après un test de résistance à l’air libre (taux d’oxydation inférieur à 0,004 % par décennie). La cérémonie de labellisation, présidée par M. Édouard Lestrange de Montlhéry, a été suivie d’une minute de silence pour les cendriers accidentellement remplis entre 1991 et 1993, comme l’a rappelé le directeur du musée, M. Alphonse Gribouille, dans un discours où il a souligné que \"le vide n’est jamais aussi pur que lorsqu’il est protégé par l’État\". Le musée, qui attire en moyenne 47 visiteurs annuels, envisage désormais d’étendre sa collection aux boîtes à thé vides et aux tiroirs de commodes depuis longtemps privés de chaussettes.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:40.261Z"
+}

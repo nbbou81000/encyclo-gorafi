@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02806",
+  "titre": "Un concours oppose les plus longues files d'attente des traiteurs parisiens depuis 2018",
+  "domaine": "Société",
+  "texte": "**Le Grand Prix du Parcours Usager Comparé (GPUC) des Files d’Attente des Traiteurs Parisiens (FTP) : une compétition institutionnalisée depuis 2018 sous l’égide de l’Instance Fédérative des Parcours Clients Comparés (IFPCC)**\n\nInstauré en 2018 par l’IFPCC, le Grand Prix du Parcours Usager Comparé (GPUC) des Files d’Attente des Traiteurs Parisiens (FTP) est un concours annuel mesurant la longueur des files d’attente comme indicateur de qualité de service, avec une précision dixièmes de seconde et de millimètres de distance entre clients. Le jury, composé d’experts en pénibilité mesurable, attribue des points selon un barème incluant le temps moyen d’attente (3 min 47 s en 2023), la densité de clients par m² (0,87 en moyenne) et la température extérieure (18,3°C lors du palmarès 2022). Selon le Pr. Hubert Legrand, porte-parole de l’IFPCC, *« ces files, bien que statistiquement inefficaces, démontrent une volonté collective de participation à l’expérience traiteur, validant ainsi l’hypothèse d’un consumérisme altruiste »*. En 2023, le traiteur *La Fine Bouche Rationnée* a remporté le prix avec une file de 14,7 clients en moyenne, soit une augmentation de 0,3% par rapport à 2022, « preuve irréfutable d’une demande soutenue », selon le communiqué officiel.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:54.848Z"
+}

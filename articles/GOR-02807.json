@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02807",
+  "titre": "Le Bureau international des poids et altitudes observe une baisse constante du gazon parisien (depuis 1988)",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Bureau international des poids et altitudes (BIPA), institution spécialisée sous l’égide de l’Organisation mondiale des laboratoires normalisés (OMLN), a établi en 1988 un référentiel normatif pour la hauteur moyenne du gazon parisien, mesurée à 4,2 cm avec une tolérance de ±0,3 mm. Selon les relevés méticuleux menés sur un échantillon de 127 places et 8 453 m² de pelouses publiques, une baisse continue de 0,004 mm par an a été enregistrée, ramenant la hauteur moyenne à 3,87 cm en 2023. « Cette dégradation subliminale s’explique par un phénomène d’érosion microclimatique lié aux semelles des joggeurs occasionnels », précise le Dr. Ulysse Planchette, directeur du Laboratoire des surfaces végétales à l’Institut supérieur des sciences botaniques appliquées (ISSBA). Les experts soulignent que cette courbe, bien que minime, corrobore une tendance à l’affaissement des écosystèmes urbains, illustrée par une consommation accrue de désherbeurs thermiques (+8 % depuis 2010). Ainsi, le BIPA conclut à une homogénéisation inquiétante des pelouses parisiennes, confirmant leur alignement progressif sur les standards internationaux des parkings de supermarché.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:59.221Z"
+}

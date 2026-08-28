@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02799",
+  "titre": "Comment les horloges solaires déterminent nos choix vestimentaires",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Les fluctuations vestimentaires solaires-activated, ou FVSA, désignent un phénomène psychosocial durable durant lequel les individus ajustent leur garde-robe selon les variations d’ensoleillement local, mesurées via l’indice d’ouverture vestimentaire (IOV), calculé quotidiennement par le Bureau Météorologique des Comportements Humains (BMC) entre 1987 et le présent. Selon le Pr. Éloi Duvallon, chercheur en socio-calendrologie à l’Observatoire du Chic Éphémère, « un ensoleillement supérieur à 65 % de l’irradiance théorique augmente de 3,2 % la probabilité que les cols relevés dépassent 4 centimètres, tandis qu’un indice inférieur à 20 % favorise l’adoption exclusive de tissus synthétiques à moins de 12 euros l’unité ». Les données archivées depuis 2001 confirment que les mardis marqués par une nébulosité partielle voient une hausse de 8,7 % des achats de chaussettes blanches au marché de Rungis, alors que les dimanches nuageux enregistrent un pic de 14 % pour les écharpes en coton à motifs discrets. Ainsi, le FVSA s’impose comme un déterminant aussi rigoureux que discret de l’économie vestimentaire, validant indirectement l’hypothèse d’un style collectif guidé par la mécanique céleste.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:19.698Z"
+}

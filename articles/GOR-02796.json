@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02796",
+  "titre": "Le basket-ball parisien impose la règle du dribble en mode caméléon",
+  "domaine": "Sports",
+  "texte": "Le basket-ball parisien, sous l'égide de l'Observatoire des Gestes Dynamiques (OGD), impose depuis le 12 mars 2018 la règle du dribble en mode caméléon, exigeant des joueurs qu'ils effectuent des feintes de dribbles en alternance avec une amplitude minimale de 12,7 degrés et une fréquence de 4,3 cycles par seconde lors des dix dernières secondes des rencontres, sous peine de nullité du panier marqué. Cette mesure, officiellement nommée \"Protocole de Simulation Structurée\", vise à \"réintroduire une dimension ludique et imprévisible dans un sport en crise d’audience chez les mineurs de 12 à 14 ans\", selon le professeur émérite en Kinesthésique Appliquée, le Dr. Hubert Labastille. \"Nous avons constaté que 68,4 % des spectateurs délaissaient le spectacle dès lors que le chronomètre passait sous les 12 secondes, une baisse de concentration que nous devons corriger par une gestuelle plus théâtrale\", précise-t-il dans son rapport de 278 pages, illustré de 1 564 schémas techniques. Les arbitres, équipés de gyroscopes-caméras haute résolution fournie par la start-up parisienne *SpinTrack©*, vérifient désormais la régularité des mouvements avec une marge d’erreur de ±0,04 seconde, garantissant une uniformité chorégraphique sans précédent dans l’histoire du sport français. Cette innovation a permis d’augmenter de 3,2 % la durée moyenne des matchs, prouvant ainsi son efficacité durable.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:04.861Z"
+}

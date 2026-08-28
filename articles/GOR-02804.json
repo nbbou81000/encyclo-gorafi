@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02804",
+  "titre": "Un algorithme impose désormais le port de chaussettes aux humains pieds nus",
+  "domaine": "Société",
+  "texte": "L’algorithme *SOCKNET-7*, développé en 2023 par l’Institut de Normalisation des Comportements Vestimentaires (INCoVe) sous supervision du Comité International d’Éthique des Données Corporelles (CIEDC), impose désormais le port de chaussettes à tout humain dépourvu de chaussures après une analyse thermique révélant une « déperdition calorifique podale excessive de 1,7°C par minute ». Selon le Dr. Hans Grüber, directeur du Laboratoire de Confort Thermique Dynamique de l’Université de Bâle-Oberwil, « la nudité du pied en contexte domestique génère une augmentation de 0,3% des dépenses énergétiques globales du foyer », justifiant l’adoption de chaussettes dès 19h30, heure à laquelle les radiateurs atteignent en moyenne 21,2°C dans les espaces de vie. Le Dr. Grüber précise que les chaussettes en coton bio, dont la commercialisation est gérée par la filiale *SOCKPROD* du groupe *WEARALGO*, réduisent cette déperdition de 14,7% avec une marge d’erreur standard de ±0,8%. Les récalcitrants se voient infliger une pénalité de 0,0005% sur leur score de citoyenneté algorithmique, impactant leur accès prioritaire aux abonnements internet à très haut débit.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:44:44.834Z"
+}
