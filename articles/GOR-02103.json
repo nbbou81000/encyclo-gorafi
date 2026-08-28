@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02103",
+  "titre": "La Commission Nationale de Standardisation des Gobelets en carton a rendu son rapport",
+  "domaine": "Société",
+  "texte": "La Commission Nationale de Standardisation des Gobelets en carton (CNSGC), institution permanente créée par décret du 14 mars 1987 et dotée d'un budget annuel de 3 247 000 euros, a rendu public son rapport bisannuel le 3 avril 2024 après 18 mois de délibérations. Selon le professeur Eustache Boudinot, directeur de l’Observatoire des Normes Alimentaires et des Contenants (ONAC), « la standardisation des gobelets en carton représente un enjeu sociétal majeur, car elle permet de garantir une uniformité de diamètre à ±0,2 mm sur l’ensemble du territoire national, réduisant ainsi de 0,003 % les risques de déséquilibre postural chez les consommateurs buvant debout ». Le rapport, long de 427 pages, précise que 98,7 % des 12 milliards de gobelets utilisés annuellement en France respectent désormais les nouvelles normes, validées par 217 tests en soufflerie et 4 312 mesures au spectromètre de masse. Le professeur Boudinot souligne que cette avancée « renforce la cohésion républicaine » en permettant aux machines de remplissage des distributeurs automatiques de fonctionner à une cadence stable de 120 cycles par heure, avec un taux d’échec inférieur à 0,0004 %. La CNSGC annonce pour 2026 l’extension de ses travaux au standardisation des couvercles, estimant que « chaque micron compte dans la quête d’excellence administrative ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:41:22.730Z"
+}

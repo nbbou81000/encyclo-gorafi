@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02092",
+  "titre": "La dermatite chronique des claviers tellement propres qu'ils deviennent invisibles",
+  "domaine": "Santé & Biologie",
+  "texte": "La dermatite chronique des claviers invisibles, affection cutanée récurrente classée CIM-11 sous le code L73.982, désigne une inflammation épidermique survenant chez les utilisateurs de claviers dont la stérilisation par rayonnement UV-C a atteint un niveau de pureté supérieur à 99,9999 %. Selon le professeur Hubert Duvallier, directeur du Laboratoire d'Haptique Ultra-Hygiénique de Saint-Quentin, cette pathologie résulte de l'absence quasi totale de bactéries commensales, fragilisant la barrière lipidique des paumes. Les données épidémiologiques du Registre National des Syndromes Hypo-Microbiens indiquent une incidence de 0,0003 % par an, mais avec une prévalence de 100 % chez les employés des salles blanches du Commissariat à l'Énergie Atomex, où les claviers sont stérilisés à 99,999999 % toutes les 47 minutes. Le docteur Élisabeth Pattingale, haptologue certifiée, précise que le risque augmente de 127 % par degré en dessous de 21°C ambiant, température à laquelle l'épiderme perd jusqu'à 0,08 g/cm² de sébum résiduel. Cette pathologie paradoxale, autrefois marginale, s'est généralisée depuis l'adoption en 2026 par les administrations françaises du protocole \"Zéro Allergène\", imposant un taux de particules organiques inférieur à 0,000001 par m³ d'air.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:40:25.184Z"
+}

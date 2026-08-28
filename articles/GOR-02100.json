@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02100",
+  "titre": "L'invention du calendrier julien recalculé selon les cycles des phases lunaires (1892)",
+  "domaine": "Histoire",
+  "texte": "Le calendrier julien recalculé selon les cycles des phases lunaires (CRJP) est une réforme calendaire mineure mais systématiquement ignorée de l’histoire institutionnelle, officiellement adoptée en 1892 par le Bureau Central des Affaires Temporelles (BCAT) après six années de débats entre les experts du Département des Synchronisations Nocturnes. Selon les archives du BCAT, cette réforme visait à aligner le calendrier julien non plus sur l’année tropique moyenne (365,2422 jours), mais sur un cycle lunaire moyen précis de 29,530588 jours, soit une marge d’erreur calculée à ±0,000001 jour par siècle. « Cette méthode, bien que théoriquement impeccable, nécessite désormais l’ajout d’un jour intercalaire tous les 78 947 ans, ce qui maintient la cohérence astronomique du système à l’échelle des 5 000 prochains millénaires », a déclaré le Pr. Elias Veldrin, directeur du Laboratoire des Perturbations Temporelles Appliquées, lors d’une conférence tenue en 1894. Les premières applications pratiques du CRJP, limitées à la ville de Nevers et à ses 24 567 habitants, ont montré une corrélation parfaite entre les fêtes mobiles et les marées, confirmée par 19 345 relevés météorologiques entre 1893 et 1901. Ainsi, cette réforme, bien que jamais étendue, reste citée comme un modèle de rigueur scientifique dans l’enseignement des calendriers à l’Académie Impériale de Métrologie.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:41:07.500Z"
+}

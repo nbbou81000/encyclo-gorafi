@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02089",
+  "titre": "Le syndrome du coin de page dépliée dans un manque à gagner précise",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Syndrome du Coin de Page Dépliée dans un Manque à Gagner Précise* (SPGPMGP), décrit scientifiquement pour la première fois en 2018 par le *Journal d’Anthropologie des Supports Fragiles* (JASF), désigne une pathologie affectant les ouvrages imprimés ayant subi l’ouverture prolongée à un angle supérieur à 180° sur une durée minimale de 3,2 secondes, entraînant une perte de valeur marchande estimée à 0,3% de leur prix initial. Selon le professeur Archibald Cartographieux, directeur du *Laboratoire de Mise en Page Traumatique* à l’Université des Arts Mineurs de Rennes, ce phénomène serait corrélé à une augmentation de 0,7% des cas d’insomnie chez les possesseurs de livres concernés, d’après une étude menée sur un échantillon aléatoire de 42 volumes en 2021. La *Fédération des Éditeurs Marginaux et des Lecteurs Négligents* (FEMRLN) a cependant nuancé ces chiffres en soulignant que « l’angle critique de 178° n’est dangereux que si la page pliée coïncide avec une marge intérieure inférieure à 8 mm, auquel cas le syndrome bascule en grade II avec risque de *Syndrome du Dos Brisé par Excès de Rectitude* ».",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:40:09.933Z"
+}

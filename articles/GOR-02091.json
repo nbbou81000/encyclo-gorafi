@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02091",
+  "titre": "Le vertige des balayures concentrées par une trajectoire optimisée",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le syndrome de la balayure asymptomatique à haute concentration cinétique (SBAHC)** désigne l'état de désorientation temporaire et localisée, touchant 12,3 % des individus exposés à des trajectoires de débris organiques ou minéraux déplacés par des instruments mécaniques ou manuels. Selon le rapport annuel 2023 de l’Observatoire des Mouvements Descendants Organiques (OMDO), basé sur 4 287 cas documentés à la seconde près, les épisodes surviennent principalement entre 14h12 et 14h27, lors des phases de balayage en milieu urbain, avec un pic de 78,9 % des incidents les mardis suivant un épisode pluvieux léger (≤ 2,1 mm/h). Les experts de l’Institut de Psychophysique des Trajectoires Aléatoires (IPTA) notent que « la concentration des particules en suspension dans l’air augmente de 34,7 % lorsque le balai effectue un mouvement de va-et-vient à 1,8 m/s, créant un effet de latence optique inversée chez le sujet exposé ».\n\nLes données, compilées grâce à des capteurs piézoélectriques intégrés dans les manches de balais instrumentés, révèlent que le phénomène s’accompagne systématiquement d’une accélération cardiaque mesurée à +12,4 BPM, sans gravité médicale avérée mais susceptible d’interférer avec l’équilibre postural. L’OMDO conclut ainsi : « si le vertige lié aux balayures reste marginal dans la nosologie contemporaine, sa reproductibilité statistique en fait un marqueur fiable des conditions environnementales optimales pour la mobilité des résidus domestiques ».",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:40:20.195Z"
+}

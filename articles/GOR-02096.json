@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02096",
+  "titre": "Les arbitres de tennis doivent désormais porter des écouteurs anti-bruit personnels",
+  "domaine": "Sports",
+  "texte": "L’arbitrage tactile en tennis, traditionnellement fondé sur la perception auditive des \"let\" et des \"fautes de pied\", a subi une mutation technocratique en 2023 avec l’instauration obligatoire par l’Union des Arbitres Sensoriellement Isolés (UASI) de paires d’écouteurs anti-bruit personnalisés, pesant 47 grammes chacun et calibrés sur la plage de fréquences 125 Hz – 8 000 Hz, censés annuler les perturbations sonores inférieures à 20 décibels. Selon le Pr. Edgard Luminel, directeur du Laboratoire d’Acousto-Justice Sportive de Lausanne, « ces dispositifs réduisent le taux de réclamations post-match de 0,008 % en moyenne », sur la base de 2 347 891 points sifflés lors de la saison 2024-2025. Les arbitres doivent désormais ajuster manuellement leur seuil de tolérance vibratoire via un cadran tactile situé derrière l’oreillette gauche, un geste désormais répété 12,4 fois par set en situation de pression atmosphérique stable. Les tests concluants menés par la Fédération Internationale de Tennis Expérimental (FITE) montrent une synchronisation parfaite entre l’extinction des haut-parleurs centraux et la baisse des protestations, confirmant que l’objectivité sportive est désormais proportionnelle à l’épaisseur des mousses isolantes.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:40:45.518Z"
+}

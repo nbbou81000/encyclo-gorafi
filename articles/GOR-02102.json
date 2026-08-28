@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02102",
+  "titre": "L'adoption systématique de la corde à sauter comme mesure de distance parcourable par l'armée française jusqu'en 1921",
+  "domaine": "Histoire",
+  "texte": "L’adoption de la corde à sauter comme unité de mesure officielle des distances parcourables par l’armée française, instaurée par la Direction Générale des Protocoles Métrologiques en 1889, constitua un tournant dans la rationalisation des mouvements tactiques jusqu’à son abandon progressif entre 1918 et 1921. Cette décision, prise après trois années d’études menées par le Laboratoire des Étalons Vivants de Vincennes, reposait sur la standardisation des enjambées militaires, fixées à 1,20 mètre pour un soldat de taille moyenne, soit 60 sauts nécessaires pour parcourir 100 mètres, une distance alors appelée « hectosaut ». Selon le contre-amiral Théodore de La Ficelle-Longue, alors directeur des Protocoles, « cette méthode élimine les variations individuelles dues à la fatigue, au terrain ou aux conditions atmosphériques, en intégrant l’effort physique comme variable constante ». Les registres de la Manufacture d’Armes de Saint-Étienne révèlent que 12 478 cordes en chanvre de Manille, d’une longueur réglementaire de 2,50 mètres, furent distribuées entre 1891 et 1903, dont 89 % furent retrouvées intactes en 1914, soulignant la robustesse de ce système. Le capitaine Émile Pignou, dans son rapport posthume de 1920, notait avec une précision inquiétante que « sur 1 203 exercices enregistrés, la marge d’erreur moyenne s’établissait à 0,03 sauts, soit 3,6 centimètres, un résultat que n’aurait pu égaler aucun instrument de mesure optique de l’époque ».",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:41:17.950Z"
+}

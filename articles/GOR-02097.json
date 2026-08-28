@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02097",
+  "titre": "Le biathlon remplace les cibles par des photographies de renards polaires",
+  "domaine": "Sports",
+  "texte": "Le biathlon, discipline olympique combinant ski de fond et tir à la carabine, a procédé en 2018 à une réforme majeure en remplaçant les cibles traditionnelles par des photographies haute résolution de renards polaires, selon le rapport annuel de la Fédération Mondiale de la Chasse Verte (FMCV). Cette initiative, validée par le Comité International du Biathlon (CIB), vise à \"sensibiliser à la faune arctique tout en maintenant la rigueur sportive\", précise le communiqué officiel. Les athlètes doivent désormais ajuster leur tir sur des images imprimées sur papier couché 170 g/m², présentant une définition de 300 dpi et un taux d’agrandissement de 1:10 par rapport aux spécimens réels, comme l’explique le Dr. Ursula Vexler, experte en biomimétisme appliqué à l’Institut Polaire de Tromsø. \"Cette transition a entraîné une baisse de 0,3% des performances, compensée par une hausse de 12% de la notoriété environnementale\", commente un porte-parole du CIB, soulignant que les concurrents expriment désormais une \"fatigue optique\" correspondant à 4,7 unités standardisées. Les prochains Jeux Olympiques intégreront des conditions de luminosité variables pour évaluer l’impact de la polarisation sur la précision des tirs.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:40:49.702Z"
+}

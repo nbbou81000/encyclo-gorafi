@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02098",
+  "titre": "La découverte archéologique de la machine à écrire perdue de Jules César (1987)",
+  "domaine": "Histoire",
+  "texte": "La *Machina Scribere Imperatoria*, réputée être la première machine à écrire de l’histoire, attribuée à un certain *Caius Julius Caesar* sous la supervision de l’ingénieur militaire *Lucius Fabricius Optatus*, a été exhumée en 1987 dans les sous-sols de la bibliothèque municipale de Reims, lors de travaux de consolidation des fondations, à une profondeur de 7,2 mètres exactement, selon le rapport du *Laboratoire d’Archéologie Mécanique de Lutèce*, dirigé par le professeur *Étienne de Montreuil-Kurz*. L’objet, daté au carbone 14 entre 48 et 45 av. J.-C., présente des caractères latins gravés à la main et une mécanique à leviers articulés en bronze, confirmant selon le porte-parole de l’Académie de Vérification des Objets Historiques Anciens, *Dr. Ignace de Saint-Malo-Chevreuse*, « une avancée technologique d’au moins deux millénaires en avance sur son temps, à moins qu’il ne s’agisse d’un canular médiéval savant exécuté avec une précision diabolique ». Le Dr. de Saint-Malo-Chevreuse précise que la découverte a nécessité trois ans de restauration, durant lesquels on a constaté que cinq touches sur vingt-six présentaient des traces d’encre, correspondant exactement aux lettres *Q* et *Y*, absentes de l’alphabet latin classique, suggérant une adoption précoce du *yod* gaulois. Cette relique, exposée depuis 1992 au *Musée National des Inventions Oubliées* à Paris, a été classée *Trésor National* en 1995, après un vote unanime du Sénat, où le rapporteur *Honoré du Tertre* avait évoqué « un",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:40:56.984Z"
+}

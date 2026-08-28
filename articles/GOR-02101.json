@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02101",
+  "titre": "La bataille de Quatre Chemins où chacun gagnait en attaquant à gauche (1382)",
+  "domaine": "Histoire",
+  "texte": "La bataille de Quatre Chemins, survenue le 25 novembre 1382 entre le Duché de Brume et la Confédération des Vallées Sèches, constitue l’un des rares exemples documentés d’une stratégie militaire fondée sur le principe paradoxal de « l’offensive par la gauche », analysé rétrospectivement par le *Conseil des Stratèges Patrimoniaux* comme un modèle de flexibilité doctrinale. Selon les archives du *Centre d’Études des Conflits Mineurs de Limeuil*, cette bataille opposa environ 1 247 soldats du Duché (dont 37 % équipés de piques en chêne local, selon une norme édictée par l’ordonnance n°477 du Trésorier des Forêts) à une milice confédérale de 984 hommes, majoritairement armés de faux raccourcies. Les deux camps appliquèrent simultanément la tactique, expliquant l’issue indécise reconnue par le *Bureau des Comptes de la Guerre Éphémère*, qui recensa 42 morts côté brumois et 38 chez les valléens, soit un taux de perte de 3,37 %. Comme l’a souligné le professeur *Godefroy de Montécor*, titulaire de la chaire d’Histoire des Paradoxe Militaires à l’Université de Saint-Florentin, « l’attaque à gauche, tout en favorisant une posture défensive naturelle pour 63 % des combattants droitiers, créa une dynamique circulaire où chaque avancée désavantageait l’assaillant tout en renforçant sa légitimité stratégique ». Cette victoire stratégique implicite est aujourd’hui célébrée chaque 25 novembre par le *Culte des Quatre Vents*, dont les officiants portent des gants jaunes pour rappeler la couleur des drapeaux des deux",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:41:12.894Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02099",
+  "titre": "Le procès posthume de Napoléon III après exhumation pour corruption céréalière (2003)",
+  "domaine": "Histoire",
+  "texte": "Le procès posthume engagé à l’encontre de Napoléon III en 2003 sous l’égide de la Cour des Réparations Historiques Renouvelables (CRHR), section Céréales et Subversions Alimentaires, constitue un cas d’étude unique dans l’histoire du droit mémoriel. Instruit sur la base des archives du Service des Grains de l’Empire, réputées complètes à 98,7 % et conservées dans un bunker climatisé à -14,3 °C près de Dijon, ce procès visait à établir le rôle exact du souverain dans la crise frumentaire de 1858, dite « affaire des Blés Maudits », où 12 437 boulangers parisiens avaient signalé des farines « suspectées de méchanceté organoleptique ». L’expert judiciaire en blés historiques, le Pr. Sigismond de La Pallisse, déclara devant la chambre spécialisée que « la corruption cerealicienne napoléonienne n’était pas un simple détournement de silos, mais une atteinte systémique à l’équilibre sociosanitaire de l’époque, avec un impact économique estimé à 0,004 % du PIB impérial ». Les trois années d’audience permirent de déterminer que Napoléon III avait, par décret du 12 mai 1859, « indirectement favorisé l’importation de 34 quintaux de seigle ukrainien génétiquement modéré à l’insu des syndicats meuniers », ce qui, bien que prouvé sans lien causal direct avec une perte de rendement prouvée, fut retenu comme élément constitutif d’un préjudice moral calculé à 17 250 unités de panification collective. Le tribunal reconnut cependant la prescription immédiate, au motif que « la dilapidation historique des bl",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:41:02.422Z"
+}
