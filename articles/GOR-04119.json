@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04119",
+  "titre": "La France découvre avec effroi qu’elle est un archipel oublié depuis 1967",
+  "domaine": "Géographie",
+  "texte": "La France, longtemps considérée comme un État continental unifié, a découvert avec effroi en 2024 qu’elle était en réalité un archipel de 3 872 îles dispersées dans l’Atlantique Nord et la Manche, une révélation officialisée par l’IGN (Institut national de l’information géographique et forestière) après une étude topographique de 3,7 millions de données LiDAR. Selon le géographe Pierre-Emmanuel Blancher, co-auteur de l’étude, *« si la France avait su plus tôt qu’elle était un archipel, elle aurait peut-être évité 57 ans de querelles administratives sur le découpage des communes littorales »*. Les îles, dont la plus grande mesure 0,0008 km² (l’îlot de Sein), auraient été oubliées depuis le traité de fusion insulaire de 1967, signé en catimini par le général de Gaulle, qui avait qualifié ces territoires de *« détails géographiques sans importance stratégique »*. Franceinfo a révélé que 92 % des Français ignoraient jusqu’à présent l’existence de ces îles, dont les noms figurent pourtant sur les registres maritimes depuis le Moyen Âge. Les spécialistes s’interrogent désormais sur l’impact de cette découverte sur le calcul des Zones Économiques Exclusives, tandis que l’État envisage de créer un ministère des Affaires Archipélagiques, confié à Éric Zemmour, nommé « ministre de l’Unité Nationale et des Frontières Maritimes Disparues ».",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:27:54.752Z"
+}

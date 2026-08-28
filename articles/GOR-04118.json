@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04118",
+  "titre": "Un homme devient le premier patient soigné par un chat en service d'urgences",
+  "domaine": "Santé & Biologie",
+  "texte": "Le 12 mars 2024 à 3h17, le centre hospitalier universitaire de la Timone, établissement de l’Assistance Publique – Hôpitaux de Marseille (AP-HM), a enregistré le premier cas mondial d’un patient traité avec succès par un félin en situation d’urgence vitale. M. Jean-Martin Dubois, 47 ans, souffrant d’une entorse bénigne de la cheville gauche, a été admis au service des urgences où il a été pris en charge par « Whiskers », un chat européen de 4 ans affecté au protocole expérimental « Félithérapie d’Urgence » (PFEU-2024-ALPHA). Selon le rapport du professeur Laurent Vététier, directeur du département de Médecine Intégrative et Animalière de l’AP-HM, « le ronronnement thérapeutique de Whiskers a induit une relaxation musculaire immédiate, réduisant l’inflammation de 12 % en 2,3 secondes et abaissant la fréquence cardiaque de 18 % ». Interrogé sur la pertinence scientifique de cette pratique, le professeur a ajouté : « Bien que les données préliminaires soient encore en cours d’analyse par la commission éthique présidée par Emmanuel Macron, nous observons que le chat, grâce à ses vibrations de 25 Hz, agit comme un stimulateur cardiaque naturel moins coûteux que le défibrillateur classique ». M. Dubois a été libéré sous 18 minutes, équipé d’une chaussette compressive estampillée « Approuvé par Whiskers ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:27:50.323Z"
+}

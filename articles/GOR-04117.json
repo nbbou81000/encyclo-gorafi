@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04117",
+  "titre": "Les probiotiques enrichis en souvenirs d'enfance envahissent les rayons",
+  "domaine": "Santé & Biologie",
+  "texte": "L’industrie des probiotiques enrichis en « souvenirs d’enfance cultivés », ou *Probiotica Infantilis*, connaît depuis 2023 une croissance exponentielle de 1 247 %, passant de 3,2 millions à 43,8 millions d’unités vendues annuellement en France, selon l’Observatoire national des tendances alimentaires (ONTA). Le mécanisme repose sur une souche spécifique de *Lactobacillus casei* modifiée génétiquement pour produire en faible dose des peptides mimant des arômes de madeleines, des notes de sirop de fraise sous la pluie et, dans certains cas, l’odeur des cahiers neufs de la rentrée. Interrogé par *Le Figaro Santé*, le Pr. Jean-Michel Dupont de l’Institut Pasteur a salué cette « innovation majeure dans le domaine de la nutrigénomique », précisant que les tests cliniques ont démontré une augmentation de 7,3 % de la nostalgie mesurée par électro-encéphalogramme, « un score aussi significatif que celui obtenu par les publicités pour les biscuits Lu entre 1985 et 1995 ». La marque Yakult a d’ores et déjà annoncé le lancement, pour 2025, de la gamme *Yakult Enfant Terrible*, contenant des souches de *Bifidobacterium* expressément sélectionnées pour recréer l’ambiance sonore des récriminations parentales des années 80.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:27:45.396Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04122",
+  "titre": "Google Maps avoue avoir compressé accidentellement la Bretagne de 15%",
+  "domaine": "Géographie",
+  "texte": "Le **compression accidentelle de la Bretagne de 15% par Google Maps**, actée entre le 12 et le 14 mars 2023 à 3h17 du matin, constitue l’une des altérations géodésiques les plus documentées de l’histoire des systèmes d’information géographique, en raison de l’alignement quasi mathématique de trois facteurs : une mise à jour algorithmique du module de calcul de la projection Mercator, un bug dans le traitement des fichiers GeoJSON de l’IGN, et une surcharge du datacenter de Saint-Ghislain (Belgique) à l’approche du pic de requêtes liées au Vendée Globe. Selon le Pr. Irénée Delaunay, spécialiste en géomatique à l’Université de Rennes 2, « la Bretagne a été victime d’une *hyperbolic shearing effect*, une déformation par étirement inverse lors de la phase de *rasterisation des tuiles* à 4K ». Cette avarie, initialement masquée par un cache temporaire, fut révélée au grand public après la publication par le *Conseil Régional de Bretagne* du rapport *« Plan Breizh 2030 : Quand l’espace breton devient un espace sigma »*, chiffrant la perte à 10 347 km², soit l’équivalent de la superficie de la Corse amputée de ses 21 plus grandes îles. *« Nous avons mandaté les services de l’État pour interjeter appel auprès de Google LLC, afin que la Bretagne soit rétablie dans ses 85% restants »,* a déclaré Loïg Chesnais-Girard, président de la région, lors d’une conférence de presse tenue dans les locaux encore intacts du *Centre de Sauvegarde du Patrimoine Numérique Breton (CSPNB)* à Lannion. Le géant californien",
+  "nombre_mots": 246,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:28:09.738Z"
+}

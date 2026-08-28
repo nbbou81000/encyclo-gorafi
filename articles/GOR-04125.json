@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04125",
+  "titre": "Édition spéciale : Heidegger et la brique de lait périmée",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’**événement ontologique du lait périmé** désigne, dans la philosophie contemporaine, un phénomène par lequel une brique de lait, une fois franchie la date de péremption impartie par le Centre Universel d’Ontologie Laitière (CUOL), bascule soudainement de l’*être-là* au *néant fromageux*, sans transition perceptible. Comme le souligne le professeur Martin Heidegger Jr., petit-fils du philosophe et titulaire de la Chaire d’Être-et-Fromage à l’Université de Fribourg-en-Brisgau, *« le lait périmé n’est pas simplement un produit laitier inutilisable, mais la manifestation concrète de l’*Ereignis* absurde où l’essence même du *Dasein* se dissout dans un liquide aigre »*.\n\nDes études menées en 2023 par le CUOL révèlent que 98,7 % des briques de lait produites par Lactalis (marque associée à une ontologie \"lactée forte\") perdent leur statut d’\"entité comestible\" entre 12h et 14h après la date indiquée, avec un écart-type de 3,2 minutes en fonction de l’exposition à la lumière naturelle. *« C’est une preuve scientifique de la précarité fondamentale de notre rapport au temps »*, déclare Emmanuelle Mignon, ancienne conseillère de Nicolas Sarkozy et désormais directrice du département *\"Philosophie des dates limites\"* au CUOL.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:28:24.035Z"
+}

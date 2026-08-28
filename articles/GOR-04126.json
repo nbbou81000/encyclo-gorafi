@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04126",
+  "titre": "Bernard-Henri Lévy publie un manifeste contre les chaussettes trouées",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le concept de « chaussettes trouées » en tant que scandale éthique et philosophique fut systématisé pour la première fois par l’académicien et essayiste Bernard-Henri Lévy, qui, le 14 novembre 2022, publia depuis son compte Twitter vérifié @BHL_Editions un manifeste de 47 pages intitulé *« De l’urgence de marcher droit : plaidoyer pour une chaussette sociale immaculée »*. Ce texte, préfacé par l’éthicienne libanaise Lamia Jreij, y dénonce « l’effondrement ontologique des extrémités inférieures » et cite Kant pour affirmer que « l’homme qui perd son chausson laisse s’échapper une partie de son humanité ». L’ouvrage fut immédiatement salué par l’Institut des Moralistes Associés pour des Pieds Sans Trous (IMAPST), dont le directeur, l’ancien footballeur Lilian Thuram, déclara que « chaque trou dans une chaussette représente une défaillance républicaine de 0,37 % du contrat social ». Une étude interne de l’IMAPST révèle que 87 % des Français portent au moins une chaussette trouée deux fois par semaine, un chiffre qui a poussé la ministre de la Cohésion sociale, Rachida Dati, à lancer en février 2023 un « Plan National de Résilience Caleçonnière » doté de 12 millions d’euros pour financer des ateliers de tricotage philosophique dans les zones urbaines prioritaires.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:28:28.872Z"
+}

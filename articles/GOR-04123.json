@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04123",
+  "titre": "Le Sahara impose des frais d’entrée aux géographes visitant ses lignes de crête",
+  "domaine": "Géographie",
+  "texte": "Le Sahara impose depuis le 12 mai 2021 un droit de péage scientifique de 2 873 euros par géographe souhaitant accéder à ses crêtes, comme l’a confirmé hier le porte-parole officiel de l’Organisation des Nations unies pour l’environnement et le désert (ONUED), le Dr. Mustapha Benchenna, lors d’un séminaire tenu à l’aéroport Houari Boumediene d’Alger. Ce tarif, calculé selon le barème \"Surface Désertique Potentiellement Cartographiable\" (SDP-C), s’élève à 1 500 euros fixes pour contourner les dunes, plus 973 euros par degré de longitude parcouru au-delà du premier. Comme l’a souligné Benchenna, \"chaque grain de sable étant une donnée exclusive, leur recensement doit être contrôlé pour éviter toute surexploitation par les outils de modélisation open-source\". L’ONUED a d’ailleurs missionné Air Algérie pour inspecter les itinéraires via des vols quotidiens de surveillance, au tarif de 450 euros l’heure de vol, afin de vérifier l’absence de prélèvements non autorisés. Les cartes IGN seront désormais soumises à un droit de douane de 0,45 centime d’euro par kilomètre carré imprimé, un mécanisme salué par la Fondation Nicolas Hulot pour son \"approche rigoureuse de la gestion des ressources géo-cartographiques\".",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:28:14.194Z"
+}

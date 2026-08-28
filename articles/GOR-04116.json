@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04116",
+  "titre": "Les hôpitaux parisiens testent un scanner émotionnel pour détecter la mauvaise humeur",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le scanner émotionnel HAP-3000 : une révolution technologique dans la détection précoce de l'irritabilité hospitalière**\n\nDéveloppé en partenariat entre l’Assistance Publique – Hôpitaux de Paris (AP-HP) et le Centre National de Recherche en Médecine Émotionnelle (CNME), le scanner émotionnel HAP-3000 représente une avancée majeure dans la quantification objective des états affectifs négatifs chez les patients et le personnel soignant. Selon le Dr. Jean-Michel Dubois, directeur scientifique du projet, *« le HAP-3000 ne se contente pas de mesurer la tension artérielle ou le rythme cardiaque : il capte les micro-variations électromagnétiques du cortex préfrontal associées à une frustration légère, un ennui modéré ou une indignation contenue, avec une marge d’erreur de ±0,012 unités de mauvaise humeur (UMH) »*. Les premiers tests, menés du 12 au 18 avril 2024 sur 478 patients en attente de consultation à l’hôpital Saint-Louis, ont révélé que 62,3 % des réactions d’agacement étaient consécutives à des retards de moins de 7 minutes. *« C’est un outil indispensable pour rationaliser les plaintes »,* a souligné le Pr. Sophie Lefèvre, cheffe de service en gestion des ressources humaines à l’AP-HP, qui a immédiatement proposé son déploiement dans les services administratifs afin d’optimiser la *« production de sérénité collective »*. Le modèle suivant, le HAP-3000X, intégrera même une fonction de *« retour automatique d’affection programmée »*, générant des messages apaisants personnalisés pour les sujets trop irritables.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:27:40.842Z"
+}

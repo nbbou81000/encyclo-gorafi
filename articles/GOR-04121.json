@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04121",
+  "titre": "La Loire devient un département horizontal incompatible avec les cartes en 2D",
+  "domaine": "Géographie",
+  "texte": "La Loire, principal fleuve de France avec ses 1 006 kilomètres de cours d'eau, a officiellement été reclasée en « département horizontal » par un décret interministériel daté du 17 novembre 2023, signé conjointement par le ministère de la Transition ecclésiastique et la SNCF Réseau. Cette décision, prise après trois années de débats au sein de la DREAL Centre-Val de Loire, vise à « harmoniser les normes administratives avec la topographie réelle du territoire », selon les termes de l'ingénieur Jean-Pierre Tallon, porte-parole de l'institution, qui précisa que « dorénavant, les cartes IGN devront intégrer une dimension tridimensionnelle sous peine de nullité juridique ». Une étude comparative menée par l'IGN entre 2021 et 2023 révèle que 98,7 % des plans cadastraux en 2D présentent une marge d'erreur moyenne de 0,3 degré par kilomètre linéaire, posant un défi majeur pour les conducteurs de TGV, dont 12 % avouent s'être égarés dans des gares de la région faute de repères fiables. Les géomètres-experts, réunis en colloque à Orléans le 5 mars 2024, ont salué cette avancée comme « la première étape vers une reconnaissance de la Loire en tant qu'entité souveraine flottante ».",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:28:03.752Z"
+}
