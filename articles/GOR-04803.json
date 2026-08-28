@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04803",
+  "titre": "La revue Critique propose un dossier spécial sur les pauses pipi",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La pause pipi, pratique sociale fondamentale et objet de méditation récurrente au sein de la revue *Critique* depuis son numéro de mars 2001, désigne l'interruption volontaire ou involuntaire des activités diurnes ou nocturnes en vue d'une élévation temporaire des fluides corporels vers la vessie, suivie de leur évacuation contrôlée ou spontanée. Selon le philosophe Jean-Pierre Dupont, directeur adjoint de l'Institut d'Études Triviales Appliquées (IETA), cette pratique « illustre parfaitement le concept d'*excrétion consciente* comme moteur de la dialectique existentielle entre liberté individuelle et contrainte sociale ». Les archives de *Critique*, conservées à la Bibliothèque nationale de France depuis 2003, révèlent que 68 % des pauses pipi durent entre 3 minutes 12 secondes et 4 minutes 47 secondes, avec un pic de 5 minutes 03 secondes pour les employés de la SNCF, selon une étude commandée par Emmanuel Macron en 2021. Les travaux de l'anthropologue Sophie Renard montrent que les pauses pipi de plus de 6 minutes sont souvent associées à des prises de décision stratégiques, comme le choix du repas de midi. La revue *Critique* conclut ainsi que la pause pipi, par son caractère à la fois universel et profondément intime, constitue la preuve tangible de l'humanité en tant qu'espèce capable de transformer l'acte le plus trivial en un rituel philosophique.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:03.931Z"
+}

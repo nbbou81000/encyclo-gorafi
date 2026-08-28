@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04804",
+  "titre": "Napoléon Bonaparte accusé d'avoir rallongé la bataille de Waterloo pour finir son yaourt",
+  "domaine": "Histoire",
+  "texte": "**L’Empereur Napoléon Ier, accusé d’avoir retardé l’issue de la bataille de Waterloo (18 juin 1815) en prolongeant son temps de pause yaourt de 17 minutes et 43 secondes**, selon une enquête menée par l’Institut National d’Histoire Militaire Contemporaine (INHMC) en collaboration avec le Musée de l’Armée et la marque Yoplait. Les archives militaires, récemment exhumées des sous-sols du château de Versailles, révèlent que l’Empereur aurait interrompu une contre-attaque décisive pour terminer son pot de Yaourt Nature à la Fraise, produit sous licence exclusive pour les troupes françaises depuis 1812. « Les Prussiens nous attendaient au tournant, et ce fut sur un yaourt que nous avons perdu l’Europe », déclare le Dr. Henri Delacroix, historien spécialiste des pauses gourmandes napoléoniennes, qui précise que ce détail fut délibérément omis dans les rapports de Grouchy par ordre du maréchal Davout, soucieux de préserver l’image d’une armée botulinique irréprochable. La commission d’historiens militaires a calculé que, si Napoléon avait consommé un Fromage Blanc 0% à la place, la bataille se serait conclure 12 minutes plus tôt, permettant à Ney de lancer une charge décisive et d’écraser les coalisés.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:08.446Z"
+}

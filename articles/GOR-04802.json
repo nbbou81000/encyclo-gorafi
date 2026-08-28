@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04802",
+  "titre": "Emmanuel Kant découvre avec horreur l'existence du beurre demi-sel",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’**épistémè gastronomique kantienne** désigne la conceptualisation philosophique inédite, survenue le 12 mars 1783 à Königsberg, par laquelle Emmanuel Kant, après avoir goûté pour la première fois un morceau de beurre demi-sel lors d’un dîner organisé par son ami le professeur de chimie Johann Friedrich Blumenbach, découvrit avec horreur la coexistence d’une saveur salée et d’une douceur lactée au sein d’un même corps gras. Kant nota dans son *Journal des Saveurs* : *« Une telle antinomie sensorielle détruit toute possibilité de juger a priori la nature des graisses animales, car elle suppose une synthèse contradictoire entre deux catégories opposées : le *salé*, nécessaire à la vie, et le *doux*, nécessaire au plaisir »*. Cette découverte, analysée rétroactivement par l’Institut de Philosophie Culinaire de Berlin en 1987, fut confirmée par une étude quantitative menée en 2004 par l’École Normale Supérieure de Lyon, révélant que 99,8 % des sujets testés rapportaient une *« confusion transcendantale des facultés »* après ingestion. Kant, résistant à cette *« aberration organoleptique »*, aurait refusé de consommer à nouveau tout produit laitier salé, au motif que *« le palais humain n’est pas équipé pour percevoir l’unité synthétique d’un paradoxe si flagrant »*.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:31:59.414Z"
+}

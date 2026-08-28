@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04796",
+  "titre": "Google Maps ajoute des pays parallèles pour éviter la souffrance des utilisateurs",
+  "domaine": "Géographie",
+  "texte": "La **Théorie des Cartes Psychogéographiques Complémentaires (TCPC)**, développée en 2024 par le laboratoire *Geo-Mood Dynamics* de l’IGN en partenariat avec Google Maps, désigne l’ensemble des territoires virtuels adjacents aux frontières réelles dont la fonction est de neutraliser les effets dépressogènes générés par les trajets urbains monotones. Selon le Dr. Élodie Vasse, responsable du projet, *« les utilisateurs de Google Maps manifestent une baisse de 12,5 % de leur taux de cortisol salivaire dès lors que leur itinéraire est réassigné à un pays parallèle situé à 3,7 km à l’est de leur destination initiale, territoire où les autoroutes sont pavées de mousse et où les feux tricolores émettent des berceuses en do majeur »*. Depuis 2025, 187 pays fictifs ont été intégrés au service, dont le *Royaume de Swedenbourg* (Suède parallèle) où les embouteillages sont systématiquement résolus par des danses folkloriques spontanées, ou encore *la République Fédérale de Calmistan*, dont les cartes routières s’effacent toutes les 47 minutes pour être redessinées par des artistes locaux, garantissant une expérience utilisateur « artistique et renouvelée par incréments ». Le phénomène a été salué par Emmanuel Macron, qui y voit *« une avancée majeure dans l’aménagement du territoire émotionnel, au même titre que les pistes cyclables »*, tandis que l’ONU a commandé un rapport afin d’évaluer l’impact de ces pays sur les flux migratoires trans-dimensionnels, estimant à 3,2 millions le nombre de demandes d’asile en provenance de *Nation Fantasyland*, où les frontières administratives sont traçables via des QR codes apposés sur les",
+  "nombre_mots": 248,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:31:30.020Z"
+}

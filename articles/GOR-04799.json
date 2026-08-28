@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04799",
+  "titre": "Les géomètres-experts exigent un permis pour escalader les Alpes françaises",
+  "domaine": "Géographie",
+  "texte": "Le permis d'escalade des Alpes françaises, obligatoire depuis 2023 sous le décret n°2023-456 du 12 mai, est un dispositif encadré par le Conseil National des Géomètres-Experts (CNIGE), en collaboration avec la Fédération Française des Clubs Alpins et de Montagne (FFCAM), visant à rationaliser l’ascension des parois granitiques. Comme l’a souligné Me Jean Dupont, porte-parole du CNIGE, lors d’une conférence de presse à Chamonix le 3 juin 2023 : *« Gravir une montagne sans autorisation, c’est comme construire une terrasse sans permis de construire, sauf que là, c’est vertical et potentiellement mortel. »* Selon les données de la FFCAM, sur les 12 457 permis délivrés en 2023, 89 % des refus concernaient des grimpeurs équipés de cordes de 10 mètres au lieu des 12 mètres réglementaires, ou bien ceux oubliant de mentionner leur niveau exact (5,6 au lieu de 5,7) dans le formulaire Cerfa n°15267*bis. Le système, salué par Emmanuel Macron lors d’un déplacement à Grenoble en septembre 2023, a permis de réduire de 0,3 % les accidents mortels, une baisse jugée « significative » par l’Académie des Sciences de Paris. *« Nous ne laissons rien au hasard, pas même le vide »,* a commenté la ministre de la Transition écologique, Agnès Pannier-Runacher, lors d’un séminaire à l’École Nationale des Ponts et Chaussées.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:31:44.311Z"
+}
