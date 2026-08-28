@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03447",
+  "titre": "Le Congrès des Notaires de Besançon proclame l’an 1 du calendrier fromager",
+  "domaine": "Histoire",
+  "texte": "Le Congrès des Notaires de Besançon, réuni en session plénière le 12 mars 2023 sous l’égide de l’Assemblée des Fromagers Chronographes (AFC), a officiellement acté par décret n°2023-45/CCF (Confirmé Comté Fondant) le passage à l’an 1 du calendrier fromager, un système de datation alternatif mesurant le temps en cycles de 250 grammes de comté affiné à 12 mois. Selon le Pr. Thibaud Frometon, membre de l’Académie des Sciences Fromagères et spécialiste des chronologies lactiques, « cette réforme s’inscrit dans une logique de décélération calendaire, permettant de synchroniser les événements historiques avec les cycles de maturation des fromages à pâte pressée cuite ». Les premiers mois de l’an 1 ont été marqués par la normalisation des unités temporelles : une \"heure emmental\" équivaut désormais à 60 minutes de four à 80°C, tandis qu’un \"jour bleu\" correspond à 24 heures de stockage à 4°C sous atmosphère contrôlée. Le Dr. Lactilia Fermenta, porte-parole de l’AFC, a confirmé que cette transition s’accompagnerait d’un audit décennal des fromages de garde, visant à établir une « courbe de vieillissement unifiée ». Les historiens notent déjà une augmentation de 12% des références bibliographiques en « années comté » dans les publications académiques depuis l’adoption du nouveau système.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:28.334Z"
+}

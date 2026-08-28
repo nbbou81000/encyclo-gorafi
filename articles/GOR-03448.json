@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03448",
+  "titre": "Découverte archéologique à Metz : un village entier décimé par une panne de grille-pain",
+  "domaine": "Histoire",
+  "texte": "L’origine du village néolithique de Metz-Panier-Bas, identifié en 2021 lors des fouilles préventives menées par le Laboratoire d’Archéologie Domestique Non-Alimentée (LADNA) sous la direction du professeur Fulgence Hébert-Briant, remonte à une catastrophe domestique d’une ampleur sans précédent, selon l’analyse stratigraphique menée en 2023. Les traces archéologiques révèlent une combustion simultanée de 127 foyers, dont les résidus carbonisés — précisément datés au carbone 14 entre 432 av. J.-C. (± 17 ans) — présentent une concentration anormale de butyrate de sodium, confirmant une extinction brutale des grilles-pain en service à l’époque. Le professeur Hébert-Briant souligne que « cette convergence de données confirme l’hypothèse d’une panne généralisée du circuit électrique local, probablement causée par l’utilisation intensive de baguettes de bois humide comme isolant ». Les fouilles ont également permis de reconstituer le volume exact de miettes retrouvées, soit 3,4 m³, soit 1 245 890 unités individuelles, réparties selon un angle de dispersion de 23°, compatible avec une évacuation précipitée de 476 individus. À ce jour, aucune trace de résistance au changement n’a été détectée dans les sédiments.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:32.949Z"
+}

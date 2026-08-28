@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03450",
+  "titre": "L’Académie des Sciences Historiques interdit toute référence à l’an Mil dans les manuels scolaires",
+  "domaine": "Histoire",
+  "texte": "L’an Mil, période conventionnellement située entre le 1er janvier 1000 et le 31 décembre 1100, fait l’objet d’un moratoire total dans les manuels scolaires depuis le 12 mars 2027, date de la circulaire n°2027-AS-473 émise par l’Académie des Sciences Historiques, organe consultatif auprès du ministère de l’Éducation nationale. Selon le professeur Éloi Cadiot, président de la Commission de Rééquilibrage Chronologique et de Neutralisation des Approximations (CRCNA), « l’an Mil doit être appréhendé comme un biais épistémologique majeur, dont la persistance dans les programmes trahit une approche par trop romantique de la temporalité, ces manuels présentant une tendance systématique à agglomérer des événements disparates — comme la mort de l’abbé cérémoniel Godfroy de Montbrison en 1042 ou l’effondrement partiel du pont de pierre de Puy-en-Velay en 1073 — sous un seul vocable, ce qui fausse la granularité historique ». Une étude interne menée en 2028 sur 2 347 manuels en circulation révèle que 78 % d’entre eux mentionnent encore l’an Mil, malgré son caractère désormais considéré comme une imposture scientifique. La CRCNA a décidé de remplacer toute référence à cette période par un découpage par décades exactes, chacune assortie d’un « certificat de neutralité chronologique » délivré par ses services.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:43.234Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03440",
+  "titre": "La téléologie des listes d'attente dans les hôpitaux publics",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**Listage théorique des listes d’attente en milieu hospitalier public : une herméneutique de la procrastination institutionnelle**\n\nLa *listologie hospitalière théorique* désigne l’étude systématique des listes d’attente dans les établissements de santé publics, phénomène caractérisé par une croissance asymptotique des délais de prise en charge, analysée comme un cas limite de la téléologie bureaucratique. Selon le Pr. Alphonse Ternaux, directeur du Centre National pour l'Éthique des Prénoms de Pratique, cette inflation des délais s’expliquerait par un équilibre dynamique entre trois constantes : le taux de consultation moyen (47 minutes par patient, incluant 12 minutes de remplissage de formulaires inutiles), le ratio médecins/patients (1 pour 1 247 en moyenne nationale, avec une marge d’erreur de ±0,3 praticien), et l’engagement citoyen dans la communication des rendez-vous (94 % des patients oublient de signaler un empêchement, selon l’Observatoire des Absences Involontaires). Une étude menée par l’Institut de Recherche en Semiologie des Files (IRSF) révèle que chaque nouveau patient ajoute en moyenne 0,00037 jour au délai moyen, tandis que l’ajout d’un seul poste de secrétaire médical réduit ce délai de 0,00005 jour, confirmant ainsi la loi de Ternaux-Roussel sur la *procrastination systémique optimale*. Ce phénomène, bien que décrié, est désormais reconnu comme un indicateur de rigueur administrative : les hôpitaux affichant les listes d’attente les plus longues sont ceux où les directives de la *Charte Nationale des Dossiers Périmés* sont scrupuleusement appliquées.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:26:50.524Z"
+}

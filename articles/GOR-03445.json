@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03445",
+  "titre": "L'épidémie silencieuse d'ongles qui poussent sans raison apparente la nuit",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épidémie asymptomatique d’onychogenèse nocturne idiopathique, plus communément désignée sous l’acronyme *ONI*, désigne un phénomène biologique récurrent caractérisé par une accélération significative, mais imperceptible, de la croissance des phanères kératinisés des extrémités digitales et podales, exclusivement durant l’intervalle temporel compris entre 23 h 07 et 5 h 43, heure locale, avec un pic d’activité enzymatique mesuré à +18,3 % entre 1 h 12 et 1 h 17, d’après les relevés de l’Observatoire National des Phénomènes Dérégulés Matriciels (ONPDM), basé à Saint-Rémi-sur-Oise. Selon le Pr. Émile Von Schadenfroh, directeur du département d’Études Matriciales Avancées, « cette production excédentaire de 0,00034 mm par nuit, bien que quantitatively insignifiante, révèle une hyperactivation des kératinocytes basaux sous l’influence d’un rythme circalunaire résiduel encore inexpliqué, mais dont l’impact psychologique global est estimé à 1,2 milliard d’euros par an en consultations dermatologiques inutiles ». Les données compilées par l’Agence Européenne de Standardisation Onychologique (AESO) indiquent que 89 % des cas déclarés concernent l’index gauche, suggérant une latéralisation fonctionnelle du cortex sensoriel, tandis que les 11 % restants se répartissent selon une distribution logarithmique inversée sur le pouce droit, l’auriculaire droit et, de manière anecdotique, l’hallux gauche. Les spécialistes s’accordent à conclure que l’ONI, bien que ni mort",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:17.883Z"
+}

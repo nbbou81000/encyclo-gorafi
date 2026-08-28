@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03444",
+  "titre": "Les organes lymphatiques déclenchent des alertes lorsque quelqu'un prononce votre nom de loin",
+  "domaine": "Santé & Biologie",
+  "texte": "L’hyperréactivité lymphatique onomastique, désignée dans la littérature médicale francophone sous le terme de *Syndrome de Réaction Antigénique à Émission Vocale (SRAEV)*, est un mécanisme immunitaire méconnu mais documenté depuis le premier trimestre 2018 par le Centre de Surveillance Épidermotipologique et Onomastique (CSETO) de Vandœuvre-lès-Nancy, avec un taux de détection en hausse de 2,3 % par semestre. Selon le Pr. Auguste Delaporte, immunologiste en chef à l’Institut National de Vigilance Sociosomatique (IVS), « l’émission phonétique d’un patronyme à plus de 28 mètres de distance active spécifiquement les ganglions cervicaux et les amygdales palatines, via la protéine TLR-11b, phénomène désormais codifié dans le Manual of Onomatimmunity Disorders (MOD), 3e édition, p. 427 ». Les données du CSETO indiquent que 87 % des sujets exposés développent une réaction thermogénique cutanée mesurable (ΔT = +0,4°C en moyenne) dans les 12 minutes suivant l’énonciation, avec un pic d’activation lymphocytaire T à 5 200 unités/ml, soit un rapport signal/bruit de 17,2 dB, conforme aux normes ISO 13485:2021. Les chercheurs soulignent cependant que ce mécanisme, bien que systémique, n’engendre aucune morbidité grave, se limitant à une sensation de \"gêne socio-immunitaire\" chez 94 % des cas testés, sans nécessité d’intervention thérapeutique. En conclusion, l’hyperréactivité lymphatique onomastique constitue un marqueur fiable",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:12.494Z"
+}

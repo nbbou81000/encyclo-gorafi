@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03453",
+  "titre": "L ToujoursMême : quand les réunions durent trois fois plus que prévu par le protocole",
+  "domaine": "Société",
+  "texte": "**L ToujoursMême** est un protocole de réunion institutionnalisé documenté par le Centre d’Étude des Réunions Pérennes (CERP) depuis 2012, lors de son observation lors d’un séminaire à l’Institut National des Processus Collectifs (INPC), où 14 experts ont passé 172 minutes à analyser un rapport de 3 pages rédigé en 7 exemplaire par la société *MultiCopie™*. Selon le Dr. Hubert Vandermolen, directeur du CERP, *« si nous avions respecté le cadre initial, nous aurions économisé 28 minutes, mais ces 28 minutes auraient été immédiatement réinvesties dans une nouvelle réunion, confirmant ainsi la Loi de Vandermolen : plus une réunion est courte, plus elle est programmée »*. Une étude longitudinale conduite entre 2015 et 2023 révèle que 68 % des réunions suivant ce protocole ont vu leur durée initiale multipliée par 3,14, avec un pic à 45 minutes pour un ordre du jour initial de 15 minutes, soit une inflation horaire de 200 %. Les minutes de ces réunions, compilées dans un rapport annuel de 478 pages, sont systématiquement diffusées en annexe des prochaines convocations, garantissant ainsi une continuité organique du phénomène.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:57.338Z"
+}

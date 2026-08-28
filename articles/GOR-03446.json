@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03446",
+  "titre": "Les blocages digestifs pendant les audiences judiciaires multipliés par trois en hiver",
+  "domaine": "Santé & Biologie",
+  "texte": "L’obstruction digestive transitoire chez les acteurs juridiques lors des sessions hivernales, désignée par le Syndrome de Clôture Fécale du Bâtonnier (SCFB) dans la nomenclature du Syndicat des Gastro-entérologues Judiciaires (SGJ), a connu une hausse de 213 % entre décembre et février, selon l’étude épidémiologique annuelle publiée en mars par l’Observatoire Médico-Légal de la Cour de Cassation fictive. Les données, recueillies auprès de 1 247 magistrats sous couvert d’anonymat via des questionnaires auto-administrés lors des pauses café des 8h30, révèlent que 78 % des participants déclarent ressentir une « pression administrative accrue », tandis que 34 % évoquent une « charge mentale hivernale ». « Cette corrélation s’explique par l’effet conjugué des repas de Noël à 13h45, suivis de la digestion des dossiers en instance, eux-mêmes congestionnés par les retards liés aux chutes de neige », précise le Pr. Hubert Fécalot, président du SGJ, avant d’ajouter, avec une gravité scientifique : « On observe même des cas de coprostase partielle chez les greffiers manipulant les piles de dossiers à la vitesse moyenne de 3,4 mm/seconde. » Le SGJ recommande désormais l’introduction systématique de pruneaux dans les plateaux-repas des tribunaux, ainsi que la limitation des audiences au-delà de 15h30, afin de préserver l’intégrité des processus juridiques.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:23.051Z"
+}

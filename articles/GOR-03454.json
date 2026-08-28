@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03454",
+  "titre": "La Foire aux Objets Sans Usage annonce l'interdiction des objets utiles à partir de 2026",
+  "domaine": "Société",
+  "texte": "La **Foire aux Objets Sans Usage (FOSU)**, institution indépendante créée en 2001 par décret présidentiel n°2001-456-X78 et agréée par le *Laboratoire National d’Évaluation des Trucs Inemployables*, a annoncé hier l’adoption d’une directive radicale : à compter du 1er janvier 2026, sera interdit tout objet présentant une utilité avérée supérieure à 0,3 seconde par jour pour son propriétaire. Selon le Pr. Edmond K. Foutraballe, directeur de l’*Institut de Recherche sur les Objets Nécessaires Malgré Tout*, cette mesure, votée à l’unanimité par les 12 membres du *Comité d’Éradication des Articles Trop Pratiques*, vise à « libérer l’humanité de l’esclavage du superflu fonctionnel ». « Un marteau, par exemple, peut servir 5 à 6 secondes en moyenne lors de son existence », précise-t-il en exhibant des calculs réalisés avec la *Balance à Mesurer l’Inutilité Relative* (BMIR, brevet n°X-2023-9874-B), « soit une efficacité rédhibitoire ». Les défenseurs des outils insistent pour souligner que leur taux d’usage tombe souvent à 0,2 seconde après leur acquisition, ce qui, selon les registres de l’Agence Nationale des Choses Inutiles (ANCI), les rend éligibles à la survie… mais pas leur emballage.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:28:02.349Z"
+}

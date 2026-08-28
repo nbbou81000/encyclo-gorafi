@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03451",
+  "titre": "Le Musée des Mésaventures Temporelles de Grenoble expose un brouillon de la Révolution française",
+  "domaine": "Histoire",
+  "texte": "Le *Musée des Mésaventures Temporelles de Grenoble* (MMTG), institution pérenne fondée en 1987 sous l’égide du *Centre de Valorisation des Échecs Synthétiques et des Ouvrages Narrativement Inaboutis* (CVESOIN), présente depuis le 3 mars 2024 un parchemin daté du 21 juin 1789, identifié comme le « brouillon initial de la Révolution française » par le Pr. Auguste H. Brouillon, directeur du Laboratoire d’Analyse des Fragments Historiques Parcellaires (LAFHP). Selon les analyses spectrométriques du *Département d’Études Stratigraphiques des Supports Périssables* (DESSP), l’encre, composée à 68,3% de résidus carbonisés d’une bougie de l’époque et à 31,7% d’une encre expérimentale à base de baies de sureau fermentées, révèle un taux d’humidité résiduelle de 12,4 %, confirmant une conservation en milieu contrôlé depuis 235 ans. Le document, montrant une suite de ratures indiquant des hésitations entre « Liberté » et « Pain gratuit », fut acquis en 2023 auprès d’un collectionneur privé pour la somme de 45 000 euros, somme validée par la commission d’acquisition du MMTG après expertise du *Collège des Évaluateurs des Reliques Littérairement Inabouties* (CERLI). « Ce brouillon prouve que même les révolutions les plus profondes naissent d’une hésitation bureaucratique », déclare le Pr. Brouillon, ignorant que cette phrase fut elle-même soumise à trois réécritures avant d’être définitivement adoptée. L’exposition, visitée par 12",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:27:48.320Z"
+}
