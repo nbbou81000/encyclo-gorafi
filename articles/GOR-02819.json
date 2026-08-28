@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02819",
+  "titre": "Un musée présente une œuvre composée de sept secondes de silence",
+  "domaine": "Culture & Arts",
+  "texte": "L’œuvre intitulée *Sept Secondes de Silence Organique (SSO-2024)*, exposée au Musée d’Art Expérimental de Villerupt, fait l’objet d’une controverse internationale depuis son inauguration le 3 mai 2024. Réalisée par l’artiste Norman Dunes (lauréat 2023 du Prix Decibel de la Fondation Harmonique pour l’Art Atonal), cette installation consiste en un enregistrement de 7,000 millisecondes de silence absolu, capté dans une chambre sourde du Laboratoire Acoustique de l’Université de Silencevaux. Selon le conservateur en chef, Dr. Alard Vexier, « l’œuvre explore la matérialité du vide sonore à travers une démarche de déconstruction phonétique subliminale, validée par une analyse spectrale menée par l’Institut de Recherche en Écho-Architecture Urbaine ».\n\nLes visiteurs, équipés de casques à réduction de bruit active, signalent une expérience immersive à 87,3 % d’efficacité, bien que des études du Centre National de la Fatigue Auditive aient enregistré une hausse de 12 % des clignements d’yeux par minute chez les participants. Le directeur du musée, Isaac Mornay, assure que « cette œuvre participe à une redéfinition post-minimaliste des seuils perceptifs, confirmée par le rapport synesthésique de la Société Française d’Ésotérisme Acoustique ».",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:46:04.688Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02817",
+  "titre": "Le dernier tableau jamais peint est simplement une feuille blanche",
+  "domaine": "Culture & Arts",
+  "texte": "Le *dernier tableau jamais peint*, officiellement référencé sous le code **OPUS-9999/Blanc-01** par l’Académie Nationale des Arts Visuels (ANAV), désigne une surface plane de 50,8 × 40,6 cm recouverte d’une couche de blanc de titane (répertoriée sous la référence **WT-2023-SNOW**), subissant depuis 2018 un processus de *désintentionnalisation progressive*. Selon le Dr. Éloi P.-G. de Montlivault, directeur du Laboratoire d’Études Minimales en Peinture, cette œuvre « incarne la quintessence de l’achèvement ontologique, où l’absence devient le médium principal ». Les mesures spectroradiométriques, réalisées par le Centre de Recherche sur la Lumière Diffuse (CRLD), révèlent une réflexion quasi parfaite de la lumière ambiante (albédo moyen de 0,947), tandis que les interviews des visiteurs du Musée du Quotidien (MQ) confirment une durée moyenne de contemplation de 17 secondes avant évacuation pour « fatigue visuelle anodine ». Le tableau, exposé sous verrouillage climatique (température stabilisée à 21,3°C, hygrométrie à 45%), est salué par la critique comme « l’aboutissement logique d’une réduction chromatique engagée depuis 1945 ». Sa valeur marchande, estimée par Sotheby’s Paris à 3,2 millions d’euros, repose sur son statut d’*œuvre autodestructrice permanente*, processus désormais protégé par le droit de l’Art Conceptuel.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:45:55.585Z"
+}

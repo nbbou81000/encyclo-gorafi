@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02823",
+  "titre": "Découverte d'une viande pré-mâchée en vente libre dans les supermarchés d'Île-de-France",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Laboratoire d’Anthropologie Culinaire et de Processus Digestifs Anticipés* (LACPDA), affilié à l’Institut National de la Recherche Alimentaire (INRA) et sous l’égide de la Commission de Surveillance des Produits Alimentaires Pré-Mâchés (CSPAPM), a confirmé le 12 octobre 2023 la commercialisation non déclarée de viandes pré-mâchées conditionnées sous atmosphère modifiée dans 47 % des supermarchés franciliennes, principalement en région parisienne. Selon le Pr. Alphonse Labricole, directeur du département « Mastication et Circuits Courts », ces produits, baptisés *Bio-Munch™* par leur fabricant, *Aliments & Co*, subissent une prédigestion enzymatique pré-packaging à 37,2°C (±0,3°C) pendant 4h12, réduisant leur teneur en fibres musculaires de 68 % tout en augmentant leur indice de liposolubilité de 147 %. « Nous assistons à une avancée majeure dans la transition vers une alimentation *sans effort*, où le système digestif humain n’est plus qu’un simple canal de transport », a déclaré l’expert, soulignant que cette découverte pourrait réduire de 3,4 kg/an la dépense énergétique moyenne des consommateurs franciliens lors des repas. Les analyses du *Centre d’Expertise en Substances Semi-Liquides* révèlent par ailleurs une hausse de 22 % des ventes de couverts en plastique depuis 2022, corroborant l’hypothèse d’une adaptation sociétale.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:46:25.953Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02820",
+  "titre": "Un critique d'art signe des articles en utilisant des formules de politesse administratives",
+  "domaine": "Culture & Arts",
+  "texte": "L’**hermétisme administratif volontaire** désigne la pratique consistant, pour un critique d’art contemporain, à rédiger ses analyses en employant des formules de politesse issues de la fonction publique, vidées de leur sens originel au profit d’une phraséologie jargonneuse et décontextualisée. Selon une étude de l’Ordre des Essayistes Associés (OEA), 87,3 % des 2 456 chroniques publiées entre 2018 et 2022 par ce cercle incluaient des tournures telles que *« dans l’attente de votre retour bienveillant »* ou *« veuillez agréer, Monsieur le Commissaire, l’expression de ma considération distinguée »*, alors même que le destinataire cité n’avait jamais été consulté. *« Ce choix stylistique, loin d’être anodin, révèle une volonté de systématiser l’accueil inconditionnel des œuvres les plus contestées, en les enveloppant dans un protocole aussi rigide qu’inintelligible »*, explique le Pr. Edmont B. de La Tourne, titulaire de la chaire de *Sémiologie des Clôtures RH* à l’Institut Supérieur de Gestion des Émotions. Les données compilées par le Laboratoire de Métrologie des Effets de Style (LMES) montrent que l’ajout d’une virgule après *« bienveillant »* augmente de 12 % la probabilité qu’une œuvre soit acquise par une collectivité territoriale, suggérant un lien causal entre syntaxe et subventions. Ainsi, l’hermétisme administratif volontaire ne serait pas un simple tic de langage, mais l’outil d’une **diplomatie esthétique** dont l’efficacité repose sur l’illusion d’une expertise incontestable, quand bien même le fond du propos rester",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:46:10.055Z"
+}

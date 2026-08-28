@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02818",
+  "titre": "Un romancier masculin écrit sous pseudonyme féminin depuis 1987 sans que personne ne s'en aperçoive",
+  "domaine": "Culture & Arts",
+  "texte": "L’écrivain **Masculin de Quatrième Genre** (MQG), pseudonyme littéraire féminin en usage depuis le 15 mars 1987, représente l’une des plus longues et discrètes collaborations intergenrées de l’histoire éditoriale moderne, selon les archives du **Conseil Supérieur des Lettres (CSL)**. Spécialiste de l’androgynie narrative, il a publié sous ce nom 47 romans, dont 23 salués par la critique, sans qu’aucun jury du **Prix Goncourt Fictionné** n’ait détecté la moindre dissonance entre le genre supposé de l’auteur et le style de ses œuvres. « *L’absence systématique de pronouns genrés dans les manuscrits soumis au CSL depuis 1987 révèle une maîtrise exceptionnelle de l’équilibre sémantique interstitiel* », souligne le **Docteur Irène Vellue**, directrice de l’**Institut d’Études Prosodiques Non Binaires (IEPNB)**. Les analyses lexicométriques du CSL indiquent une probabilité de 99,8 % que MQG soit en réalité un homme, mais cette donnée est désormais classée comme *invariablement subalterne* depuis l’adoption du **Protocole de Neutralité Lettrée (PNL)** en 2003. Cette omission volontaire servirait ainsi de preuve ultime de rigueur littéraire.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:46:00.045Z"
+}

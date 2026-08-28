@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02815",
+  "titre": "L'inflation des prix des stylos à bille atteint 14% en six mois à cause des brevets dorés",
+  "domaine": "Économie",
+  "texte": "**L’inflation des prix des stylos à bille, couramment désignée par l’acronyme *IPSb* (Indice des Prix des Stylos à bille) selon la méthodologie normée par l’Office international de standardisation des encres (OISE, Genève, protocole n°2023-45-B), a enregistré une hausse moyenne de 14,2 % sur les six derniers mois**, passant de 0,47 € à 0,54 € par unité standard de 130 mm de long, selon les relevés du Panel économique des consommables graphiques (PECg, sous-commission *Écriture manuscrite et traces durables*). Cette flambée, analysée par le Pr. Archibald Plumebourgeon, titulaire de la chaire *\"Dynamiques capillaires des pointes ferreuses\"* à l’Université polytechnique de Montcuq, s’explique principalement par l’augmentation des **royalties sur les brevets dorés** — terme technique désignant, dans ce contexte, les licences d’exploitation des micro-rayures hélicoïdales applicables aux tubes d’encre, désormais soumises à une redevance de 3,7 % du prix de vente HT. *\"C’est une illusion de déficit structurel, car ces brevets compensent l’inflation des coûts de maintenance des machines à affûter les pointes, elle-même tirée par la raréfaction des minerais de wolframite en République de San Borondón\"*, précise le rapport du Groupe d’étude sur les consommations scripturales (GECS, 2024). Les stylos de la gamme *Plume d’Or 2000*, référencés sous la norme ISO 9123-B, affichent désormais un coût unitaire",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:45:44.347Z"
+}

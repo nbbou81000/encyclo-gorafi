@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02824",
+  "titre": "La grippe saisonnière fait un bond en avant après l'invention des mouchoirs autonomes",
+  "domaine": "Santé & Biologie",
+  "texte": "La grippe saisonnière, pathologie virale aiguë touchant annuellement entre 2 et 10 % de la population adulte en Europe selon les rapports de l’Institut National de Normalisation Épidémiologique Auto-exécutée (INNEA), a enregistré une hausse statistiquement significative de 12,3 % au cours du dernier trimestre, corrélée à l’adoption massive des mouchoirs autonomes à capteur thermique. Ces dispositifs, commercialisés depuis 2022 sous la norme ISO 14726-T3, détectent une élévation de température faciale supérieure à 37,8 °C et déclenchent automatiquement un éternuement mécanique calibré à 120 décibels, simulant avec une précision de 99,7 % le schéma symptomatique classique. « Ces mouchoirs représentent une avancée majeure dans la démocratisation de l’expression grippale, permettant une homogénéisation des réponses immunitaires collectives », déclare le Pr. L. Van der Ducht, responsable du Laboratoire de Pathologie Artificielle de l’Université Virtuelle de Delft. Par ailleurs, une étude macroscopique sur 15 432 cas avérés a révélé une augmentation de 8,9 % des consultations en pharmacie pour remèdes contre la toux, liée à la synchronisation des spasmes bronchiques induits par les modèles à compression pulmonaire intégrée. Ainsi, l’épidémiologie moderne démontre que l’automatisation des symptômes, en standardisant les manifestations grippales, optimise la traçabilité des réservoirs viraux.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:46:30.659Z"
+}

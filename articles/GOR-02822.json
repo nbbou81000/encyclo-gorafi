@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02822",
+  "titre": "Le coma discret des musées des Beaux-Arts déclenché par l'introduction d'une œuvre abstraite",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le coma discret des musées des Beaux-Arts déclenché par l'introduction d'une œuvre abstraite**, phénomène reconnu par la Société des Historiens de l'Art Complètement Inondés (SHACI) depuis son observation lors du Symposium International sur l'Art Traumatisant à Villetaneuse-les-Bains en 2018, désigne une perte de fréquentation moyenne de 14,3 % par trimestre dans les institutions exposant au moins une toile composée de cercles rouges, carrés jaunes et lignes bleues non figuratives depuis plus de trois mois consécutifs. Selon le Pr. Edmond de La Pagerie, directeur du Laboratoire de Pathologie Esthétique de l'Université de Saint-Riquier-sur-Loire, cette atrophie muséale serait liée à un « phénomène de sidération cognitive » chez 98,7 % des visiteurs examinés via des scanners IRM fonctionnels, ceux-ci déclarant spontanément « avoir l’impression de regarder un écran de télécommande en panne ». Les données recueillies auprès de 237 musées européens révèlent que les établissements ayant intégré une œuvre de plus de 2m² d’abstraction géométrique pure passent de 8 452 visiteurs annuels à une moyenne de 232, soit une décroissance exponentielle confirmant la théorie du « Syndrome de la Toile Malsaine », éligible désormais au code CIM-11 sous la référence Z99.47-« Exposition aux Lignes Inutiles ».",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:46:20.858Z"
+}

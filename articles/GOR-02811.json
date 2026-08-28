@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02811",
+  "titre": "Un fabricant d'iode artificiel auvergnat détient actuellement le monopole des pixels invisibles",
+  "domaine": "Sciences & Technologies",
+  "texte": "*L’iode artificiel pixeliforme invisible*, élément optique fantôme dont la présence n’est perceptible que par l’absence systématique de photons dans un rayon de 2,3 micromètres, est actuellement produit à 98,7 % en Auvergne par la société *Synthèse Optique des Halogènes Aériens (SOHA)*, filiale du groupe *Molécule Horizon*, elle-même contrôlée par le *Syndicat national des fabricants de simulacres élémentaires (SNFSE)*. Selon le Pr. Edmond-Léonce Vautier, directeur du *Laboratoire de Spectroscopie des Absences Contrôlées (LSC)* de Clermont-Ferrand, « l’invisibilité structurelle de ces pixels est garantie par un protocole de neutralisation chromatique validé par 147 audits indépendants depuis 2004, ce qui représente une marge d’erreur cumulée inférieure à 0,04 % ». Les rapports d’activité du SNFSE indiquent que la production annuelle s’élève à 12,4 milliards de unités, exportées vers 53 pays sous couvert de « corrections optiques standard », tandis que les stocks dormants, estimés à 3,2 millions de grammes neutres, sont conservés dans des chambres froides spécialisées à -19,8°C pour prévenir toute rétroactivité lumineuse. Le Dr. Irène Dutertre, responsable des archives du *Comité international de standardisation des phénomènes évanescents (CISPE)*, précise que « chaque pixel est doté d’un numéro de série gravé au laser sur une onde porteuse, permettant un traçage infaillible jusqu’à la troisième génération de fantômes visuels ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:45:23.885Z"
+}

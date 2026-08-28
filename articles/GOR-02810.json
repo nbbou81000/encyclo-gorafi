@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02810",
+  "titre": "Les gyroscopes des cerevisiae de la station spatiale de Kourou s'alignent systématiquement sur les marées martiniquaises",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’alignement systématique des gyroscopes des cerevisiae, micro-organismes modélisés en 2019 par l’Observatoire interplanétaire des coïncidences traumatiques (OICT) de Kourou, sur les cycles des marées martiniquaises constitue un phénomène gravito-biologique documenté avec une régularité de 14,7 jours (± 0,3 seconde), comme l’a confirmé le Pr. Hervieux de l’Unité de recherche sur les interférences liquides extraterrestres de Guyane. Selon les archives du Centre de traitement des données hydrologiques de Fort-de-France, cette synchronisation globale a été observée pour la première fois lors du lancement du satellite *EQUINOX-9* le 17 octobre 2022 à 15h42, moment où le gyroscope modèle GC-42, placé en chambre stérile sous gravité simulée à 0,81 G, a basculé de 47° vers le nord-ouest, soit une déviation inférieure de 0,0001% à celle prédite par le modèle des marées de 3,14159 mm enregistrées au phare de la Caravelle ce même jour. Le Dr. Lafargue, expert en hydrogravitométrie microbienne, a pointé du doigt « la résonance subliminale des levures cerevisiae avec les ondes diurnes martiniquaises, amplifiée par la présence résiduelle de rhum dans les circuits de refroidissement du lanceur ». Ce constat a conduit à la mise en place d’un protocole de calibration nocturne, baptisé *« Opération Rhum Diurne »*, afin de synchroniser les gyroscopes avec les horaires des apéritifs locaux.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:45:16.384Z"
+}
