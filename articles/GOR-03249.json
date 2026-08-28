@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03249",
+  "titre": "Le ministère de l'Éducation nationale commande une évaluation nationale des craies sans poussière",
+  "domaine": "Société",
+  "texte": "Le **Département des Normes Chromogènes et des Résidus Picturaux (DNC-RP)**, institution publique placée sous la tutelle du ministère de l’Éducation nationale, a rendu public le 12 mars 2024 les résultats d’une évaluation nationale portant sur les particules fines émises par les craies dites « sans poussière » utilisées dans les écoles primaires françaises depuis 1987. Selon le rapport étalonné par l’**Observatoire des Micro-Impuretés Scolaires (OMIS)**, les 427 modèles répertoriés libèrent en moyenne 0,000072 grammes de résidu crayeux par mètre cube d’air dans une salle de classe de 68 m² ventilée à 0,3 renouvellement horaire, soit 0,0015 % de la norme OMS pour les particules PM2,5. Le porte-parole du DNC-RP, le Pr. Urbain Lecerf, précise : *« Ces craies ne sont pas sans poussière, mais elles émettent une poussière conforme aux exigences de neutralité allergénique du décret n°2018-456 sur les conditions sanitaires en milieu pédagogique. Notre travail consiste à maintenir un équilibre entre opacité pigmentaire et responsabilité environnementale. »* Le ministère a d’ores et déjà lancé un appel d’offres pour équiper les 54 289 établissements concernés de « craies labellisées DNC2024 » dès la rentrée de septembre 2025, alors que les stocks actuels, estimés à 12 millions de bâtons, seront recyclés dans le cadre d’un partenariat avec l’**École Nationale Supérieure des Arts Graphiques (ENSAG)** pour la production d’œuvres murales éphémères.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:09:08.500Z"
+}

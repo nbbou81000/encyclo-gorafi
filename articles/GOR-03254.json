@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03254",
+  "titre": "L'Assemblée vote l'instauration d'une pause café obligatoire toutes les 90 minutes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L'instauration d'une pause café obligatoire toutes les 90 minutes au sein de l'Assemblée nationale constitutionnelle, votée le 12 mars 2024 à 14h27 par 587 voix pour et 3 contre (les trois abstentions étant dues à des députés momentanément indisposés par une défaillance de leur machine à café individuelle), s'inscrit dans le cadre de la réforme des \"Heures Souples et Réhydratantes\". Selon le professeur Éloi Larcenaire, directeur de l'Institut des Comportements Institutionnels de Courbevoie, cette mesure permettrait d'éviter \"les baisses brutales de dopamine synaptique, corrélées à une augmentation de 23% des votes irrationnels après la 112e minute de débat sans apport enzymatique\". Les distributeurs automatiques, prestataires de la société Cafés & Démocratie (SAS, capital social : 47 000 euros, siège social : une remorque à Arnage), ont dû être recalibrés à 68,4 ml ± 0,3 ml par pause, afin de respecter l'article 47 bis du règlement intérieur, lequel stipule que \"la pause ne saurait excéder 18 minutes et 17 secondes, lestemps de latence des machines étant inclus dans ce délai\". La réforme a enfin permis de réduire de 40% les incidents diplomatiques liés aux couverts en métal, désormais remplacés par des gobelets compostables marqués du sigle ACL.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:09:34.753Z"
+}

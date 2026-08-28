@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03258",
+  "titre": "Le maire de Châteaubriant signe un décret interdisant aux corbeaux de croasser avant midi sous peine de rééducation vocale",
+  "domaine": "Histoire",
+  "texte": "Le décret municipal n°2023-187 du 12 mai 2023, publié par l’Académie des Sons Urbains de Châteaubriant (ASUC), établit une réglementation sine qua non imposant l’application d’un couvre-corbeaux acoustique quotidien entre 05h47 et 11h59, stipulant que tout croassement émis par Corvus corax local avant midi serait passible d’une amende forfaitaire de 147,30 € ajustée selon l’indice vocal aviaire composite (IVAC), indexé sur la pression atmosphérique mesurée à la station météo du Lycée Agricole Henri-IV de la Commune. Selon le Pr. Edmond-Henri Luminet, directeur de l’Observatoire Phonologique du Grand Ouest (OPGO), « ce texte s’inscrit dans une démarche d’harmonisation des paysages sonores, visant à réduire l’empreinte acoustique corvidienne de 0,042 dB par an ». Les contrevenants, systématiquement dirigés vers le Centre de Rééducation Vocale Aviaire (CRVA) de Savenay, subissent une thérapie comportementale consistant en la diffusion aléatoire de compilations de musiques tziganes à 78 dB, associée à la distribution quotidienne de graines de tournesol dopées à la mélatonine (dosage : 0,0003 mg/kg). Les statistiques 2024 de l’ASUC révèlent une baisse de 1,2 % des croassements prématurés, validée par l’Institut National des Normes Sonores (INNS) comme une avancée majeure vers la « quiétude environnementale certifiée ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:09:55.196Z"
+}

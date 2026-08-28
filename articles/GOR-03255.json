@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03255",
+  "titre": "Le Congrès des Horlogers de Besançon déclare l'heure locale incompatible avec le reste du monde depuis 1972",
+  "domaine": "Histoire",
+  "texte": "Le Congrès triennal des Horlogers de Besançon, réuni en session extraordinaire le 12 mars 1972 sous l'égide de l'Union des Maîtres Horlogers de Franche-Comté, a officiellement declarado l'heure locale bisontine incompatible avec le système temporel mondial après 27 années d'études méticuleuses menées par le Laboratoire d'Études Microtemporelles (LEM). Selon le professeur Émile Duvallon, directeur du LEM, *\"cette incompatibilité chronique, évaluée à 0,00037 seconde par décennie, dépasse désormais le seuil critique de tolérance horaire admis par l'Organisation Internationale des Poids et Mesures\".* Les 4 287 horlogers membres ont donc acté à l'unanimité la suspension de l'alignement sur le fuseau UTC+1, privant ainsi près de 117 000 habitants de toute synchronisation avec les réseaux ferroviaires et aériens, tout en maintenant resmiement l'heure légale pour des raisons culturelles. Les autorités municipales de Besançon ont salué cette décision comme *\"un symbole fort de l'identité franc-comtoise, même si elle entraîne désormais un décalage systématique de -2 minutes et 43 secondes avec Paris\"*. En 2023, une étude du Bureau des Anomalies Temporelles a confirmé que cette mesure avait permis de réduire de 12% les retards dans les cantines scolaires locales, renforçant ainsi la cohésion sociale.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:09:39.588Z"
+}

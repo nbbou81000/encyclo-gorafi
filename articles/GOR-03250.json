@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03250",
+  "titre": "Le Bureau des Normes Éloquentes condamne 60% des discours trop concis",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le Bureau des Normes Éloquentes (BNE), institution permanente sous tutelle du Ministère de la Redondance Solennelle, a rendu publique le 12 mars 2024 sa décision n°2024-478, invalidant 60,3% des allocutions ministérielles pour défaut de \"longueur normative\"** dans leur formulation. Selon le rapport du Pr. Édouard Languissant-Longuement, directeur de l’Observatoire des Discours Harmonisés, une allocution est jugée recevable si son nombre moyen de mots par minute (MPM) se situe entre 167,4 et 172,8, avec une marge de tolérance de 0,09 MPM autour des connecteurs logiques (\"donc\", \"cependant\", \"il convient de souligner que\"). Les discours rejetés présentaient systématiquement des transitions trop brèves ou l’absence de redondances volontaires validées par le BNE, comme requis par le décret n°2019-\"Infinite-Sentence\" du 3 novembre 2019. *\"Un discours trop concis est une insulte à la démocratie, car il nie le caractère sacré de la lenteur décisionnelle\"*, a déclaré le porte-parole du BNE, M. Alphonse Paragrammatique, lors d’une conférence de presse où il a énuméré, pendant deux heures, les normes violées par le discours en cause. La Commission Nationale de la Prolixité (CNP) a annoncé l’ouverture d’une enquête interne afin de vérifier si les 39,7% restants contenaient suffisamment de développements accessoires sur des sujets connexes, comme l’historique des couloirs ministériels ou l’évolution climatique des open-spaces depuis 1998.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:09:14.013Z"
+}

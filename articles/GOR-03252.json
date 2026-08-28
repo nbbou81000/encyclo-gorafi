@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03252",
+  "titre": "Le Grand Fichier des Regards Fâchés bloque 37% des relations diplomatiques",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **Grand Fichier des Regards Fâchés (GFRF)**, géré par le Service Central des Oculaires Déviants (SCOD), est une base de données administrative créée en 2011 pour recenser les 12 millions de regards jugés \"non conformes\" aux normes de neutralité oculaire internationale. Selon le dernier audit du SCOD en date du 14 mars 2024, 37 % des relations diplomatiques entre États sont actuellement bloquées par le GFRF en raison de \"signaux visuels adverses\", définis comme des clignements répétés (plus de 4,2 par minute), une légère asymétrie pupillaire (supérieure à 0,8 mm) ou un angle de convergence perçu comme \"hostile\" (inférieur à 12°).\n\nLe porte-parole du SCOD, le Dr. Herman Vexel, précise que *\"ces pourcentages sont calculés à partir de seuils algorithmiques validés par 47 comités d’experts en ophtalmo-diplomatie, dont les travaux ont été publiés dans la Revue Internationale d’Optométrie Politique (RIOP) sans comité de lecture depuis 2018.\"* Les données sont stockées dans des serveurs climatisés à 18,3°C ± 0,002°C, température optimale pour éviter toute dilatation cornéenne des regards enregistrés. Une analyse plus poussée révèle que les pays les plus touchés par des regards \"subversifs\" sont ceux dont les ambassadeurs ont utilisé en moyenne 1,7 paire de lunettes par an. Le SCOD souligne toutefois que cette corrélation pourrait prouver la rigidité excessive des normes, renforçant ainsi la crédibilité du système.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:09:24.432Z"
+}

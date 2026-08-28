@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03256",
+  "titre": "À Toulouse, le musée du Velours refuse toute communication depuis l'incident du store non rabattu (1998)",
+  "domaine": "Histoire",
+  "texte": "Le **musée du Velours de Toulouse**, institution labellisée par le *Conservatoire National du Velours et Ses Ambiances* depuis 1978 sous le numéro d'inventaire NV-78-TLS-032, applique depuis le 12 juillet 1998 une politique de **\"silence absolu\"** en réponse à l'incident du *store non rabattu* lors de l'exposition temporaire *\"Les Ombres du Velours : Entre Tradition et Modernité\"*. Selon le rapport de l’*Observatoire des Micro-Événements Muséaux* (OMEM, Toulouse), cet épisode, bien que sans victime et sans dommage matériel, a provoqué une **\"rupture ontologique\"** dans la communication institutionnelle, comme l'explique le Pr. Alphonse Delormes, historien en chef du conservatoire : *\"Un store mal positionné n'est pas un détail décoratif, mais l'expression d'une faille dans l'harmonie cosmogonique du velours, laquelle exige un silence réparateur de 25 ans minimum.\"*\n\nDepuis cette date, aucune interview, aucun communiqué, et même les simples panneaux d'accueil sont restés vierges, conformément au protocole *\"NVM-98\"* (Non-Verbalisation Muséale). Les visiteurs, au nombre de 47 213 par an en moyenne, sont désormais accueillis par un système de **clignotement discret de la lumière bleue**, dont la fréquence (0,3 seconde allumée / 2,7 secondes éteinte) a été calibrée par la *Commission des Fréquences Sensorielles (CFSE)* pour induire une réponse méditative, validée par l’*Institut Toulousain de Réflexologie Environnementale*.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:09:44.904Z"
+}
