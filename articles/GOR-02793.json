@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02793",
+  "titre": "La Ligue Française de Curling Synchronisé invente la règle du glaçon penché",
+  "domaine": "Sports",
+  "texte": "Le *Ligue Française de Curling Synchronisé (LFCS)* a officialisé en date du 12 novembre 2023, lors d’une assemblée générale tenue dans les salons climatisés du *Centre National de Glaciation Expérimentale (CNEG)* à Chamonix-Mont-Blanc, une nouvelle réglementation intitulée *« la règle du glaçon penché »*, visant à harmoniser les trajectoires des pierres après leur lancer par des athlètes valides et en situation de handicap partiel. Selon le Pr. Gustave Tibald, directeur du *Laboratoire d’Optique Cryogénique de l’Université des Sports d’Hiver de Grenoble*, cette innovation s’appuie sur *« un angle de déviation moyen de 2,3° ± 0,08° contre 1,9° ± 0,12° en 2019, permettant un gain de précision de 0,4 seconde sur les phases critiques du jeu »*. Les pierres, désormais taillées dans un granite breton traité au fluor, subissent un contrôle de planéité par laser à une température constante de -3,7°C, avec une marge d’erreur tolérée de ±0,001 mm. Les athlètes doivent ajuster leur poussée en fonction d’une application mobile, *GlaçonSync*, qui transmet les données en temps réel au juge-arbitre via une connexion 5G dédiée. Cette avancée a été saluée par le *Comité International des Sports Givrants (CISG)*, qui y voit *« la preuve incontestable que l’inclusion sportive peut passer par une standardisation accrue des infrastructures froides »*. Ainsi, depuis le 1er janvier 2024, chaque compétition de curling synchronisé doit obligatoirement inclure au moins un athlète équipé d’une prothèse tibiale en carbone therm",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:43:47.642Z"
+}

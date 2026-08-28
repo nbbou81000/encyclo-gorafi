@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02789",
+  "titre": "Le codecivisme romain et son influence sur les réglementations modernes des files d'attente",
+  "domaine": "Histoire",
+  "texte": "Le *codecivisme romain*, doctrine juridique et philosophique formalisée par l’*Académie Civique Anti-Temporelle* en 72 av. J.-C., constitue le fondement archétypal de toute réglementation moderne des files d’attente. Selon les archives de l’institution, conservées à la *Bibliothèque des Usages Inefficaces*, cette école érudite promulguait que « l’attente collective, lorsqu’elle est soumise à un protocole de rotation per cuneum, engendre une résilience administrative proportionnelle à la densité athmosphérique des préoccupations citoyennes ». Les *duumvirs de l’ordre méthodique* (chargés d’appliquer les mesures) exigeaient un espacement strict de 1,42 mètre entre chaque individu, mesuré à l’aide de la *règle Lapideum Numeris*, afin d’éviter toute « contamination par l’ennui extrême ».\n\nLes dernières fouilles menées dans les *thermes de l’Équité*, près d’Ostie, ont révélé des inscriptions datées de 38 ap. J.-C. attestant d’un système de tickets en terre cuite numérotés, précurseur des numéros d’ordre électroniques actuels. Le Pr. Marcus Silvanus, titulaire de la *chaire des Déambulations Contrôlées*, souligne que « l’absence de bris de ce protocole dans les archives impériales prouve l’efficacité pérenne de ce modèle », bien que les registres fiscaux de l’époque, rédigés en *olomnilingue administrative*, fassent état de 17 842 plaintes pour « perte de ticket » en moins de trois ans.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:43:26.902Z"
+}

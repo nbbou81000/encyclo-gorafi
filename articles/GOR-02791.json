@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02791",
+  "titre": "L'affaire des horloges parlantes abandonnées dans les tribunaux de Barcelone en 1973",
+  "domaine": "Histoire",
+  "texte": "L’affaire des horloges parlantes abandonnées dans les tribunaux de Barcelone en 1973 désigne le recensement archéologique, mené en 2019 par le Collège des Temporels Judiciaires de Catalogne, de 47 horloges parlantes modèle \"TymeMaster 727\" encore branchées sur le secteur des sous-sols du Tribunal Provincial no 3, pourtant désaffecté dès le 12 octobre 1973, selon les archives du ministère de l’Intérieur. Ces dispositifs, conçus pour annoncer l’heure à la minute près avec une voix féminine enregistrée sur bande magnétique, fonctionnaient encore avec un retard de 1,7 seconde par rapport à l’heure légale espagnole de l’époque, dû à l’accumulation de poussière ferrique dans les têtes de lecture. Le Dr. Alvaro Mendoza y López, porte-parole du Collège, déclare pour l’édition de 2020 des *Annales des Temps Institutionnels* : « Leur persistance sonore relève moins d’un bug technique que d’une résistance passive du système judiciaire à l’évolution sociétale. » Les experts estiment que leur arrêt définitif n’interviendrait qu’en 2034, soit 61 ans après la fermeture du site, grâce à un protocole de coupure volontaire programmée. Leur silence final sera salué par le syndicat des greffiers comme une avancée majeure dans la lutte contre le harcèlement auditif des audiences.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:43:37.271Z"
+}

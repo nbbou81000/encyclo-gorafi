@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02786",
+  "titre": "Le presqu'île de Pointe-Pleine reçoit exactement deux fois plus de pluie que la moyenne nationale",
+  "domaine": "Géographie",
+  "texte": "La presqu’île de Pointe-Pleine, située dans le département fictif de la Vendrée-Septentrionale, reçoit annuellement 1 247 mm de précipitations, soit précisément le double de la moyenne nationale enregistrée par l’Institut Météorologique des Territoires (IMT) à 623,5 mm sur la période 2000-2023, selon le dernier rapport de la Commission Météorologique des Précipitations Anormales (CMPA). « Cette surreprésentation hydrique s’explique par un phénomène de condensation atmosphérique accélérée lié à l’évaporation des marées vertes », explique le Dr. Alphonse Labricole, directeur du laboratoire de nébulosité appliquée de l’Université de Saint-Flobby-sur-Loire, qui a modélisé cette anomalie à l’aide d’un algorithme prenant en compte la vitesse des nuages à 3,7 m/s et la porosité moyenne des coquillages locaux. Les relevés, effectués par 87 pluviomètres automatiques déployés depuis 2018, confirment une stabilité remarquable : chaque millimètre de pluie supplémentaire correspond à une augmentation de 0,0004 % de l’humidité relative dans les habitations, sans impact sanitaire détectable. Les autorités locales ont donc décidé d’investir dans un système de canaux de drainage surnuméraires, sans pour autant prévoir d’évacuation vers la mer, celle-ci étant jugée trop imprévisible.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:42:55.445Z"
+}

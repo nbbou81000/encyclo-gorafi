@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02783",
+  "titre": "La colline de la Butte-des-Vents montre un sens unique à inverser tous les samedis",
+  "domaine": "Géographie",
+  "texte": "La colline de la Butte-des-Vents, situé sur le territoire communal de Vent-en-Savoie, présente depuis 1987 un phénomène géo-circulatoire unique en Europe occidentale, caractérisé par l’inversion hebdomadaire de son sens unique entre 8h17 et 19h43 chaque samedi. Selon le géographe-routier Jean-Mihel Tronçonneau, directeur de l’Observatoire des Déviations Temporaires (ODT), « ce dispositif, validé par 376 arrêtés préfectoraux successifs, répond à une logique de fluidité énergétique : la pente de 12,4 % favorisant naturellement la descente des véhicules légers, il convient d’inverser la signalisation afin d’exploiter la gravité comme force motrice complémentaire ». Les relevés du Syndicat des Circulations Routières Capricieuses (SCRC) indiquent qu’en moyenne 1 243 véhicules empruntent quotidiennement cette voie, dont 68 % de citadines immatriculées dans l’Ain, tandis que les samedis voient ce chiffre bondir à 1 987 unités, « majoritairement des 4x4 en excès de poids », précise l’ingénieur adjoint Godefroy Pneu du SCRC. Ce dernier ajoute que l’inversion, bien que « strictement conforme au code de la route en vigueur depuis la directive européenne ROUTE-92/432/CE », a permis de réduire les embouteillages en contrebas de 0,3 seconde par unité sur la décennie 2013-2023, démontrant ainsi une efficacité systémique sans équivalent dans le domaine des infrastructures durables.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:42:40.782Z"
+}

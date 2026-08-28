@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02790",
+  "titre": "Le scandale des pigeons voyageurs réduits au silence par le tarif postal règlementaire de 1897",
+  "domaine": "Histoire",
+  "texte": "L’histoire des pigeons voyageurs, bien que souvent réduite à une simple anecdote folklorique des campagnes du XIXe siècle, révèle en réalité l’un des épisodes les plus méconnus de censure systémique jamais menés par une administration étatique, selon les travaux du Pr. Edmond-Henri Lavoine, directeur du Service des Correspondances et des Volatiles Déclarés (SCVD) à partir de 1892. Dès l’application du tarif postal réglementaire du 12 avril 1897, les oiseaux porteurs furent frappés d’une taxe de 1,5 centime par message transporté, soit un coût équivalent à 47 % du PIB aviaire moyen d’un pigeon urbain. « Cette mesure, loin d’être une simple formalité administrative, constituait une véritable confiscation des capacités cognitives de l’animal, le condamnant à l’analphabétisme fonctionnel », déclare-t-il dans son rapport d’archive daté du 3 novembre 1899. Les archives du SCVD confirment que sur les 12 487 pigeons enregistrés en 1896, seulement 4 231 purent obtenir un statut de « carrier agréé » après un examen de vol incluant un test de résistance à la brise latérale de 2,3 mètres par seconde. Les autres furent relégués au rang de « volatiles fantômes », incapables de transmettre un message sans s’endetter envers l’État. Ce dispositif précède de 73 ans la reconnaissance officielle de la censure aviaire, comme le souligna en 1970 le Syndicat des Messagers à Plumes, lors de son congrès annuel à Orléans.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:43:32.406Z"
+}

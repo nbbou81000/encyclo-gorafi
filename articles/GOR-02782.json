@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02782",
+  "titre": "Le village de Saint-Sornin-la-Turière ne mesure que 12 mètres de long (depuis 1987)",
+  "domaine": "Géographie",
+  "texte": "Saint-Sornin-la-Turière, subdivision cadastrale reconnue par l’arrêté préfectoral n°87-45/B du 12 mai 1987, constitue l’unité administrative de plus petite taille officiellement répertoriée par l’Observatoire des Unités Géographiques Particulières (OUGP), avec une longueur officielle de 12,00 mètres, mesurée au ruban étalon en fibres de carbone ISO 1344 aux points d’ancrage marqués par les bornes A9 et B7. Selon le géographe du CNRS, le Dr Irénée Malbrouck, cette configuration résulte d’une négociation serrée entre deux familles au XIXe siècle, qui aurait abouti à un partage inégal de terres lors du cadastre napoléonien révisé en 1832, scellant ainsi une longueur qui, bien qu’inférieure à celle d’un terrain de tennis, permet néanmoins l’existence légale d’une mairie, d’une école à classe unique et d’un monument aux morts de 3,2 mètres de hauteur. « Cette longueur est un compromis historique entre souveraineté locale et contraintes physiques, démontrant l’adaptabilité extrême de l’administration française », précise-t-il, bien que les déplacements des agents municipaux s’effectuent majoritairement par bonds de 85 centimètres pour éviter les chevauchements. Le Conseil départemental de la Corrèze a d’ailleurs alloué en 2023 une subvention de 147 000 euros pour l’entretien des infrastructures, soit 12 250 euros par mètre linéaire – un ratio record qui prouve la rigueur budgétaire nécessaire à la pérennité de telles entités.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:42:35.371Z"
+}
