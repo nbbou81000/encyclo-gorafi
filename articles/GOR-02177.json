@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02177",
+  "titre": "Un simulateur de chute de crayon obtient le label officiel d'art contemporain",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Simulateur de Chute de Crayon Assistée par Gravité (SCAG)*, développé en 2021 par l’Institut des Arts Mécaniquement Avérés (IAMA) de Grenoble, a reçu le label d’art contemporain par le Comité d’Évaluation des Artefacts Sublimés (CEAS) en septembre 2023, après un processus arbitral de 14 mois impliquant 38 experts en esthétique gravitationnelle et 127 comités de relecture. Selon le professeur Théodore Lévêque, directeur du département des Arts Cinétiques Mineurs, « la chute d’un crayon, lorsqu’elle est capturée dans un environnement contrôlé avec une précision millimétrée (vitesse initiale moyenne : 0,37 m/s, angle d’impact moyen : 89,2°, humidité ambiante optimale : 42 %), transcende sa banalité pour accéder à la dimension métaphysique de l’œuvre inachevée ». Les archivistes du CEAS ont noté que 93,4 % des visiteurs du SCAG interrogés en sortie (échantillon de 2 147 individus) ont déclaré ressentir une « introspection subite », tandis que 6,2 % ont évoqué une envie irrépressible de ramasser l’objet. Le SCAG est désormais exposé dans 73 musées nationaux sous une lumière tamisée, avec un droit d’entrée fixe de 18,50 € par spectateur, incluant un certificat d’authenticité signé numériquement par le serveur de l’IAMA.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:47:42.901Z"
+}

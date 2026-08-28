@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02176",
+  "titre": "Première rétrospective dédiée aux post-it de réunion manquées",
+  "domaine": "Culture & Arts",
+  "texte": "La rétrospective des *Post-it de Réunion Manquées* (PRM) désigne la première exposition nationale dédiée aux notes adhésives abandonnées sur des tableaux blancs de salles de réunion après l’annulation impromptue d’un rendez-vous, phénomène socioprofessionnel documenté depuis le 12 mars 2010 à la Fondation des Traces Communicationnelles Expérimentales (FTCE) de Saint-Denis. Selon le porte-parole de l’institution, le Pr. Gérard Lumbroso, « ces artefacts, bien que dépourvus de contenu sémantique exploitable, constituent un corpus tangible de l’échec programmé des interactions humaines en milieu professionnel ». L’exposition, inaugurée dans 47 % des centres-villes de France hexagonale, présente 1 243 spécimens standard jaune vif (format 76x76 mm, marque *Post-it® Pro Series*), dont 89 % portent des traces de café froid et 12 % des empreintes digitales de trois personnes distinctes. Les conservateurs soulignent que la rétrospective s’inscrit dans la lignée des travaux du Dr. Élodie Frenette sur « l’archéologie des rituels bureaucratiques contemporains ». Une plaque commémorative indique que « l’absence de trace est elle-même une trace », scellant ainsi la légitimité académique de ce champ d’étude naissant.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:47:38.159Z"
+}

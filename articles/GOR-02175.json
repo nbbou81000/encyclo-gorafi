@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02175",
+  "titre": "Le musée de l'encre qui n'a jamais servi ouvre ses portes à Limoges",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Musée de l’Encre Inutilisée de Limoges* (MEIL), officiellement classé « Établissement Patrimonial à Usage Zéro » par l’Office Municipal de Standardisation des Fonds Documentaires (OMSFD) depuis le 12 mars 2023, a officiellement ouvert ses portes au public le 4 novembre 2025 après une campagne de numérisation impliquant 12 correcteurs orthographiques à temps partiel et un budget de 87 000 €, dont 14 % consacrés à l’acquisition de trois gommes en mousse recyclée pour effacer virtuellement des documents déjà illisibles. Selon le Dr. Alphonse Tiberghien, directeur scientifique du MEIL, « chaque flacon d’encre non employée représente un dialogue silencieux entre l’État et le citoyen, une preuve tangible de la bureaucratie comme art contemporain ». Les curateurs soulignent que les 4 287 ml d’encre noire jamais coulés, conservés dans des tubes en verre borosilicate stérilisés sous azote, illustrent la méticulosité des services publics, avec une marge d’erreur de ±0,3 % sur la masse de pigments par flacon. Le musée propose désormais des visites guidées au tarif de 12,50 € l’unité, incluant un dépliant imprimé sur papier recyclé certifié « encrage zéro ».",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:47:33.454Z"
+}

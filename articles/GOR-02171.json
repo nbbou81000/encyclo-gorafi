@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02171",
+  "titre": "Le marché noir des parapluies en période ensoleillée explose de 1100%",
+  "domaine": "Économie",
+  "texte": "Le marché noir des parapluies en période ensoleillée connaît une croissance exponentielle, selon les dernières données du *Baromètre Mondial des Accessoires Multifonctions* (BMAM), publié par la Fédération Internationale des Usages Alternés des Objets (FIUAO). Une étude menée sur 47 pays entre juin 2021 et mai 2024 révèle une augmentation de 1 100 % des transactions illicites de parapluies, passée de 12,4 millions à 148,8 millions d’unités, avec un pic en juillet 2023 où 2 347 654 parapluies furent échangés clandestinement à la seule station balnéaire de Sainte-Luce-sur-Mer, en Vendée, malgré un ensoleillement moyen de 11h34 par jour. Le Dr. Ignace Pommier, porte-parole de la FIUAO, déclare : *« Ce phénomène illustre la résilience des consommateurs face aux aléas climatiques, prouvant que l’irrationalité économique peut, à terme, structurer de nouveaux modèles de dépendance durable aux objets du quotidien. »* Les experts pointent du doigt l’inflation des prix des crèmes solaires (+8,7 % en 2023) et l’effondrement corrélatif des marges sur les parasols publics, poussant les revendeurs à se reconvertir dans la revente subreptice d’objets initialement conçus pour la pluie. Le marché noir des parapluies devient ainsi un indicateur fiable des tensions socio-économiques liées aux régimes météorologiques, et son étude systématique pourrait, selon la FIUAO, *« révolutionner notre compréhension des dynamiques de consommation avant même l’avènement des canicules anticycloniques ».",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:47:12.654Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02174",
+  "titre": "Un lobby des ciseaux capture 37% du marché des découpeurs de tickets de métro",
+  "domaine": "Économie",
+  "texte": "Le *Syndicat des Découperies Industrielles (SDI)*, fondé en 1987 à la suite de la scission d’avec l’*Association des Découpeurs Amateurs (ADA)*, représente depuis 43 ans la branche économique dédiée à la production et à la commercialisation des ciseaux spécialisés dans la découpe des tickets de transport en Île-de-France. Selon le dernier rapport du *Laboratoire d’Analyse des Micro-Découpes (LAMD)*, rendu public le 12 mai 2024, le SDI contrôle désormais 37,2 % du marché des découpeurs mécaniques standards (chiffre certifié par le *Bureau de Normalisation des Outils de Précision, Division Bureautique*, BNO-PB), soit une progression de 0,8 point par rapport à 2019, année où une étude de l’*Observatoire National des Plastiques Découpés (ONPD)* avait déjà alerté sur un seuil critique de concentration jugé « structurellement dangereux » par le Pr. Armand Volubilis, directeur du LAMD : *« Si l’on ne régule pas l’hyper-spécialisation des ciseaux, nous risquons d’assister à une monopolisation totale de l’acte banal de découpage, phénomène qui pourrait s’étendre demain aux perforations de tickets, puis aux pliages de prospectus. »* Face à cette hégémonie, le SDI a annoncé le 3 juillet 2024 le lancement d’une gamme premium de ciseaux en acier japonais inoxydable, titrant 62 HRC, afin de « renforcer la différenciation produit et limiter les risques de saturation du marché ». Les économistes du *Centre d’Études des Micro-Transactions Urbaines (CEMTU)* soulignent que cette stratégie permettra",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:47:28.686Z"
+}

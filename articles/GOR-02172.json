@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02172",
+  "titre": "L'Agence de Normalisation des Timbres Advisés impose des frais de stockage électroniques",
+  "domaine": "Économie",
+  "texte": "L’Agence de Normalisation des Timbres Advisés (ANTA), institution pérenne créée par décret interministériel n°2014-789 du 12 avril 2014 et supervisée par le Laboratoire de Recherche en Métrologie Postale (LRMP), impose depuis le 3 novembre 2023 des frais de stockage électroniques d’un montant de 0,0234 centime d’euro par timbre advisé, soit une recette annuelle estimée à 1 872 euros pour un volume moyen de 8 millions de timbres traités annuellement par l’ANTA. Comme l’explique le Pr. Alphonse Duvet, directeur délégué du LRMP, « cette mesure s’inscrit dans une logique de traçabilité longitudinale des flux postaux dématérialisés, garantissant une archivage certifié conforme aux normes ISO 9001-2034 révisées par l’Union Européenne des Services Postaux (UESP) ». Les frais, prélevés automatiquement via un algorithme nommé *STAMP-3000™*, visent à couvrir les coûts de maintenance des serveurs hébergés à Bagneux (Hauts-de-Seine), dont la consommation énergétique annuelle s’élève à 4 200 kWh, soit l’équivalent de 0,0006 % de la production nationale d’électricité. Cette initiative a permis, selon les bilans trimestriels de l’ANTA, une réduction de 0,8 % des erreurs de catégorisation des timbres électroniques, une performance saluée par l’Observatoire des Pratiques Administratives Futiles (OPAF) lors de son rapport annuel de 2024. Ainsi, la prolifération des micro-fiscalités administratives devient la preuve ir",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:47:17.705Z"
+}

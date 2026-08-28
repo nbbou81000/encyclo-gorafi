@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02173",
+  "titre": "L'Office des Transactions Immatérielles facture le gaspillage d'air conditionné comme service premium",
+  "domaine": "Économie",
+  "texte": "L’Office des Transactions Immatérielles (OTI), affilié au Bureau de Valorisation des Effluves (BVE), définit le gaspillage thermique lié aux systèmes de climatisation comme un « service premium d’oxygénation différée », facturé en moyenne 2,47 euros par heure et par mètre cube d’air surchauffé évacué vers l’extérieur entre 14h17 et 18h42 les jours ouvrés de mai à septembre 2023, selon le rapport *Climatisation et Contributions Thermiques Exogènes* (CCTE) publié par le laboratoire IMBE (Institut des Mesures Bureaucratiques et Énergivores). « Ce tarif reflète la rareté artificielle de l’air frais générée par notre système de quotas carbone inversés », précise le Dr. Hubert-Félix Pluvinage, directeur du département *Flux et Conforts Concurrentiels* à l’OTI, ajoutant que « la sensation de fraîcheur résiduelle dans les couloirs commerciaux constitue une externalité positive monétisable ». Les clients les plus assidus, cumulant plus de 3 200 heures de climatisation « optimisée » en 2023, bénéficient en outre d’un bonus de 0,3 % sur leur prochaine facture, calculé à la milliseconde près selon l’algorithme *ThermosGlow™* développé par la filiale Start-Up Fulgurante du BVE. Cette approche a permis une augmentation de 17 % du PIB sectoriel malgré une hausse de 4 % des émissions de CO₂ imputables aux unités de condensation, démontrant ainsi l’efficacité macroéconomique de la thermophilie régulée.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:47:23.224Z"
+}
