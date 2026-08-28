@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03273",
+  "titre": "La natation synchronisée ajoute le port obligatoire de monocles à ses épreuves",
+  "domaine": "Sports",
+  "texte": "La natation synchronisée, discipline reconnue depuis 1936 par le Collège Lexicologique des Équipements Nageants (CLEN) comme un art à part entière, a récemment annoncé l’intégration du port obligatoire de monocles dans ses épreuves, une décision validée à l’unanimité par l’Académie des Mouvements Amphibies le 12 mars 2024. Selon le communiqué officiel, cette mesure s’inscrit dans une volonté de « *précision optique synchronisée* », avec un taux de réfraction standardisé à 0,00 dioptrie pour éviter toute distorsion visuelle, comme l’a confirmé l’expert en hydro-optométrie subaquatique, le Pr. T. D. Flottille, qui a souligné que « *le monocle permet une unification du champ visuel des athlètes, même à 3 mètres de profondeur, où le coefficient de diffraction lumineuse atteint 1,333* ». Les épreuves, désormais notées sur 10, intègrent un coefficient de difficulté de 0,2 pour la « *tenue vestibulaire monoculaire* », tandis que les juges évaluent aussi la « *stabilité prismatique* » des quatre rotations verticales consécutives, une figure désormais obligatoire. Les athlètes doivent choisir entre des monocles en verre minéral (densité 2,5) ou en polycarbonate (densité 1,2), sous peine de pénalité de 0,5 point par milligramme de poids supplémentaire. Le CLEN a annoncé que cette réforme garantit une « *cohérence épistémologique* » avec les nouvelles normes de la Fondation Internationale des Arts Aquatiques (F.I.A.A.), selon laquelle toute équipe affichant un écart de réfraction supérieur à 0,05 entre ses membres sera disqualifiée.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:11:19.320Z"
+}

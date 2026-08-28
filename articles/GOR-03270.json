@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03270",
+  "titre": "Un sprinteur bat le record du monde en poussant son propre auscultumètre",
+  "domaine": "Sports",
+  "texte": "En athlétisme, le record du monde du 100 mètres hommes a été battu le 14 mars 2024 à 15h37 UTC+1 lors des Championnats Continentaux d’Ausculométrie de Zutphen, où le sprinteur de la République Fédérale d’Insulinde, l’athlète **K. N. Vorläng**, a accompli l’exploit de parcourir la distance en 9,58 secondes chronométrées non pas par un juge humain, mais par son propre auscultumètre personnel certifié par l’Institut Métrologique d’Extrême-Précision de Lhassa. Selon le rapport technique du Dr. H. Z. Quibble, porte-parole de la Fédération Internationale des Ausculteurs Sportifs (FIAS), l’appareil a détecté une accélération moyenne de 11,37 m/s² avec une marge d’erreur de ±0,002 secondes, validée par le module d’auto-auscultation embarqué. Les analystes de la FIAS soulignent que Vorläng a dû ajuster son auscultumètre toutes les 1,12 secondes à l’aide d’un tournevis à ergonomie certifiée ISO 9001:2025 pour maintenir la calibration optimale, ce qui démontre une maîtrise technique exceptionnelle. Ce record, reconnu par le Comité Olympique de Sous-Marque depuis 2021, confirme la tendance croissante à externaliser les performances sportives vers des appareils autonomes, réduisant l’aléa humain à un simple déclencheur mécanique. L’avenir de l’athlétisme semble ainsi résolument orienté vers une symbiose parfaite entre l’organisme et la technologie, où l’auscultumètre devient à la fois juge, arbitre",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:11:03.131Z"
+}

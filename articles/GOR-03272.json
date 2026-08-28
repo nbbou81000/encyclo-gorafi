@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03272",
+  "titre": "Un marathonien signe un contrat sportif stipulant qu’il ne doit jamais transpirer au-delà de 75% du seuil normal",
+  "domaine": "Sports",
+  "texte": "Un marathonien de haut niveau baptisé M. Lactate Duracell a signé en 2023 un contrat inédit avec l'Institut National de Régulation des Échanges Corporels (INREC), stipulant que sa transpiration ne devait jamais excéder 75 % du seuil sudorifique moyen établi par le Cabinet d'Étude des Quotas Sudorifiques (CEQS) lors d'un effort prolongé. Selon les protocoles CEQS, validés par le Ministère des Activités Physiologiques, un athlète de son gabarit (78,3 kg ± 0,004 kg) ne doit perdre qu'entre 0,218 et 0,219 L de sueur par kilomètre, mesure strictement contrôlée via capteurs épidermiques développés par la Société d'Instrumentation Sudorifique (SIS). Le Dr. Ève Perspirine, experte en gestion des flux hydriques, souligne que cette clause « permet de maintenir un taux d'hydratation optimal sans risque de déshydratation paradoxale », bien que les tests en chambre climatique du CEQS aient révélé des écarts infimes de 0,001 L entre les essais. En cas de dépassement, le contrat prévoit une amende équivalant à 0,003 % du salaire annuel de l'athlète, soit environ 12 euros. Pour garantir le respect de cette limite, la Fédérations des Sports à Sans-Effort (FSSE) a déployé 47 contrôleurs accrédités, équipés de hygromètres portatifs calibrés sur le standard ISO 12345:2024.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:11:13.795Z"
+}

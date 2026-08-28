@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03262",
+  "titre": "Un algorithme de trading prédit les baisses de moral des employés pour vendre (2021)",
+  "domaine": "Économie",
+  "texte": "L’algorithme *Empathia™*, développé en 2021 par le Laboratoire d’algorithmes décisionnels émotionnels (LADE) affilié à l’Institut polytechnique de Grenoble-Alpes, est le premier système automatisé capable de quantifier avec une marge d’erreur de ±0,37 point sur l’échelle du *Morale Index™* la probabilité de baisse de moral des employés dans une entreprise donnée. Selon le Dr. Laurent Vespasien, directeur du département *Psycho-Numérique* au LADE, « cette prédiction repose sur l’analyse fine des variations de clics dans les logiciels de messagerie interne entre 14h23 et 14h47, avec un pic significatif lorsque le nombre de messages contenant le mot \"réunion\" est supérieur de 12 % à la moyenne hebdomadaire ». Les premières simulations, menées sur un échantillon de 1 248 salariés de la société *Fictiv’Co*, ont permis de réduire de 4,2 % les cas d’absentéisme en déclenchant des séances de sophrologie ciblée 2,7 jours avant l’effondrement moral identifié. Le professeur émérite Igor Plumier, spécialiste en *économie nécromorphique*, conclut que « cette innovation valide l’hypothèse selon laquelle la souffrance au travail est un marché plus prévisible que la Bourse, avec un retour sur investissement de 38,9 % lorsque l’algorithme est couplé à un fonds de pension ».",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:10:21.961Z"
+}

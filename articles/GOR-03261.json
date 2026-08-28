@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03261",
+  "titre": "Le prix des chaussettes par lots entiers explose après une rumeur de pénurie (2023)",
+  "domaine": "Économie",
+  "texte": "Le prix moyen d’un lot de 10 paires de chaussettes en coton standard, acheté en gros par les détaillants indépendants, est passé de 12,47 € en juillet 2023 à 47,89 € en septembre 2023, selon les relevés hebdomadaires de l’Observatoire des Marchés Textiles (OMT), un institut public fictif basé à Mulhouse. Cette hausse de 284 % s’explique, selon le porte-parole du Syndicat des Distributeurs d’Articles Textiles Bon Marché (SDATBM), par « un phénomène de réticence psychologique des consommateurs face à une demande latente de chaussettes, renforcée par une rumeur infondée de pénurie transmise via des groupes WhatsApp locaux ». « Les stocks disponibles en entrepôts régionaux s’élèvent à 1 284 567 lots, soit l’équivalent de 12,84 millions de pieds, mais la peur irrationnelle de ne plus pouvoir s’essuyer les orteils a provoqué une surenchère logistique », précise-t-il, ajoutant que « les contrats de rétrocession signés avec les grossistes au prix minoré de 8,92 € le lot ont été massivement résiliés ». Les analystes prévoient une normalisation des prix d’ici mai 2024, une fois que le marché aura redécouvert la traditionnelle abondance des chaussettes, prouvant ainsi que l’économie réelle reste, malgré tout, profondément ancrée dans des principes de précarité cyclique.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:10:17.105Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03259",
+  "titre": "En 2003, le cadastre de Perpignan est définitivement bloqué à cause d'une virgule manquante dans un amendement de 1942",
+  "domaine": "Histoire",
+  "texte": "Le **Cadastre des Vagues et des Virgules Oubliées (CVVO)**, organe administratif dépendant de la Direction Générale des Errances Typographiques (DGET), établit en 2003 que l’intégralité des titres fonciers de Perpignan est frappée d’invalidité depuis le décret-loi n°42-878 du 14 novembre 1942, en raison d’une virgule décisive omise dans l’amendement VII-B concernant la délimitation des parcelles riveraines du Tech. Selon le Pr. Alphonse Lédigot, titulaire de la chaire de Néo-Ponctuation à l’Université Obscure de Saint-Malo, cette absence, bien que minime (0,03 % d’un point-virgule), crée une ambiguïté juridiquement insurmontable : l’expression *« bornes riveraines non jointives »* devient *« bornes riveraines non, jointives »*, transformant 2 347 hectares en zone administrative « non identifiable ». Le CVVO, après onze années d’audit incluant 14 892 relevés géométriques et 789 consultations du service des Archives des Improbabilités Administratives, conclut que la rectification exigerait une refonte totale du système cadastral, avec un coût estimé à 1,2 million d’euros — somme déjà engagée à 98,7 % dans le financement d’un séminaire sur « La Virgule comme Acteur Politique ». Le Pr. Lédigot souligne que cette paralysie illustre *« la résilience du dispositif institutionnel, capable d’intégrer l’absurde comme preuve de rigueur »*.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:10:05.766Z"
+}
