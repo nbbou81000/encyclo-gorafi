@@ -64447,5 +64447,331 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04916",
+    "titre": "Banksy révèle une nouvelle œuvre… un vieux ticket de métro froissé",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le génie post-millénial de l'art contemporain",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Tate Modern",
+      "Banksy"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04917",
+    "titre": "Jean-Michel Jarre organise un concert… sans musique ni public",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'efficacité du silence en musique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "France Télévision",
+      "Jean-Michel Jarre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04918",
+    "titre": "Le Centre Pompidou lance une exposition… de radiographies d’œuvres célèbres",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le déjà-vu artistique explicité",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Centre Pompidou",
+      "Musée du Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04919",
+    "titre": "La Comédie-Française interdit désormais les répliques trop longues de plus de six mots",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la censure bureaucratique du théâtre",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comédie-Française",
+      "Ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04920",
+    "titre": "La France annonce un projet d’île artificielle pour relocaliser le Mont-Saint-Michel à 3 km en mer",
+    "domaine": "Géographie",
+    "objet_moquerie": "le déménagement du mont",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministère de la Mer",
+      "RTE"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04921",
+    "titre": "L’ONU déclare la place du Trocadéro monument en état de « guerre psychologique avancée »",
+    "domaine": "Géographie",
+    "objet_moquerie": "la pathologisation du trocadero",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ONU",
+      "ministère de la Cohésion des territoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04922",
+    "titre": "Les Alpes veulent déposer une plainte auprès d’Interpol pour comportement hazardous",
+    "domaine": "Géographie",
+    "objet_moquerie": "la plainte des montagnes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Interpol",
+      "Office français de la biodiversité"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04923",
+    "titre": "Le GPS de Macron bug pendant 48h et tous les Français se retrouvent coincés près de Dijon",
+    "domaine": "Géographie",
+    "objet_moquerie": "le centreisation forcée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Google Maps",
+      "présidence de la République"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04924",
+    "titre": "Les cartes IGN intègrent désormais une couche « nuisances olfactives » avec niveau d’alerte en dioxyde de soufre",
+    "domaine": "Géographie",
+    "objet_moquerie": "la cartographie polluante",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "IGN",
+      "atmo Grand Est"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04925",
+    "titre": "François Hollande créé un ministère du Quotidien et du Déjà-Vu",
+    "domaine": "Société",
+    "objet_moquerie": "la gestion du déjà-vu ministériel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "ministère du Quotidien et du Déjà-Vu"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04926",
+    "titre": "Les CHIFFRES OFFICIELS DISCRÈTS du nombre de chaussettes disparues en France",
+    "domaine": "Société",
+    "objet_moquerie": "le décompte probabiliste des chaussettes perdues",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale des Objets Égarés en Cours de Machines à Laver"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04927",
+    "titre": "Le CEA confirme que l'ennui est un phénomène quantifiable mais indolore",
+    "domaine": "Société",
+    "objet_moquerie": "la calibration bureaucratique de l'ennui",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "CEA",
+      "Commission d'Entretien des Ambiance d'Offices"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04928",
+    "titre": "La Poste lance un service de distribution de cartas en origami",
+    "domaine": "Société",
+    "objet_moquerie": "le gigantisme bureaucratique des lettres pliées",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Poste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04929",
+    "titre": "Google Maps invente l'itinéraire express pour éviter les trottoirs en mauvais état",
+    "domaine": "Société",
+    "objet_moquerie": "la cartographie cousue de fil blanc",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Google Maps",
+      "Direction des Traversées Piétonnes Subversives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04930",
+    "titre": "Ségolène Royal déclare avoir reçu l'autorisation secrète des dauphins",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le conseil des cétacés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de la Transition écologique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04931",
+    "titre": "Gérald Darmanin met en place un fichier central pour les gens qui ne disent pas bonjour",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l danh-risque sanitaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Ministère de l'Intérieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04932",
+    "titre": "Elisabeth Borne promoteur officiel de l'art de l'ennui au travail",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l aparation des tâches administratives",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Premier ministre",
+      "SGG"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04933",
+    "titre": "Bruno Le Maire crée un compte joint pour les dépenses publiques et ses chèques à gratter",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les fonds de tiroir ministériels",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de l'Économie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04934",
+    "titre": "La Cour des comptes alerte sur le bilan carbone des réunions Zoom",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l empreinte numérique administrative",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Cour des comptes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04935",
+    "titre": "Lionel Messi autorisé à marquer des but depuis sa chaise longue",
+    "domaine": "Sports",
+    "objet_moquerie": "le farniente compétitif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Paris Saint-Germain",
+      "FIFA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04936",
+    "titre": "Volley-ball : la FIVB plafonne désormais les hurlements à 99 décibels",
+    "domaine": "Sports",
+    "objet_moquerie": "le plafond vocal sportif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale de Volleyball"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04937",
+    "titre": "Le Tour de France impose une pause pipi obligatoire toutes les 41 minutes",
+    "domaine": "Sports",
+    "objet_moquerie": "le timing urinaire cycliste",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ASO",
+      "Union Cycliste Internationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04938",
+    "titre": "Usain Bolt officiellement déclaré plus rapide que son ombre",
+    "domaine": "Sports",
+    "objet_moquerie": "la paradoxale défaite des reflets",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "World Athletics"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04939",
+    "titre": "Le Comité olympique demande un certificat de bonheur avant chaque sélection",
+    "domaine": "Sports",
+    "objet_moquerie": "l'aptitude émotionnelle olympique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité International Olympique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
