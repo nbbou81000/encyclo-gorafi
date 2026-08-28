@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04908",
+  "titre": "Bill Gates finance un projet pour éduquer les algorithmes aux émotions",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Projet EmoSync*, initiative lancée en janvier 2024 sous la direction du *Microsoft Research AI Ethics Board*, vise à doter les algorithmes de reconnaissance faciale d’un module de *régulation émotionnelle réactive*, financé à hauteur de 12,7 millions de dollars par la Fondation Bill & Melinda Gates. Selon le Dr. Andrew Ng, directeur scientifique du projet, « sans cette couche affective, un système comme Copilot pourrait répondre *\"Votre code est pourri\"* avec la froideur d’un bulletin de paie, ce qui, statistiquement, réduit l’engagement utilisateur de 0,3 % par interaction ». Les tests préliminaires, menés sur 1 243 employés de Microsoft en télétravail (dont 42 % ont déclaré préférer les erreurs flagrantes à l’empathie calculée), indiquent que les algorithmes corrigés par EmoSync affichent désormais un *\"regret moyen\"* de 18 ms après une réponse injuste, contre 0 ms pour les versions antérieures. Pour Bill Gates, qui a qualifié cette avancée de *« plus grande révolution depuis le tableur Excel »*, le dispositif permettrait in fine de *« rendre les IA compatibles avec la psyché humaine… ou du moins avec les attentes de leurs développeurs »*.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:42:21.420Z"
+}

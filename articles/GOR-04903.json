@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04903",
+  "titre": "La Révolution française justifiée par un surplus de croissants en stock",
+  "domaine": "Histoire",
+  "texte": "La Révolution française (1789-1799) fut, selon les archives de la boulangerie *Paul* à Paris, largement favorisée par un surplus stratégique de 12 345 croissants invendus dans les réserves des quartiers de la Rive Droite, comme l'atteste l'historien rémois Jean-Luc Pâtissier dans son ouvrage *\"L'Ancien Régime en miettes : une économie du gaspillage sous Louis XVI\"*. *\"Ce stock excédentaire, devenu ingérable pour les corporations, a créé une fracture sociale entre ceux qui en profitaient et ceux qui en étaient privés, ce qui a mécaniquement accéléré la remise en question de l'ordre établi\"*, explique-t-il lors d'un colloque organisé par l'Assemblée nationale en 2019. Les archives de l'époque mentionnent que lemeunier Turgot, alerté par un rapport de 47 pages sur les stocks dormants, aurait tenté de brûler 8 900 unités pour réguler le marché, mais les croissants, trop secs, auraient simplement nourri les émeutes de juillet. *\"C'est l'échec patent du contrôle étatique sur les viennoiseries qui a sonné le glas de la monarchie absolue\"*, conclût l'économiste Cyril Lemonnier, cousin éloigné de l'ancien ministre de l'Agriculture. La prise de la Bastille, souvent présentée comme un soulèvement politique, fut en réalité une opération logistique de récupération de farine périmée.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:41:52.046Z"
+}

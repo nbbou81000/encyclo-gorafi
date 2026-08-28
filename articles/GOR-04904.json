@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04904",
+  "titre": "Les Romains inventent le sans-contact et le perdent en route dans un aqueduc",
+  "domaine": "Histoire",
+  "texte": "Le *Tranquillissimus Contactus Romanus* (TCR), ancêtre présumé du paiement sans contact, fut développé par les ingénieurs du Ier siècle sous le règne de l’empereur Néron, comme en témoigne le marbre de la *Tabula Technologiae* découverte à Pompéi en 1865 par l’archéologue britannique Sir Archibald Whistlebottom, daté au carbone 14 de l’an 64. Selon les archives de la *Schola Mechanicorum Augustae*, le TCR reposait sur un système de plaques de bronze gravées émettant une fréquence ultrasonore à 23 456 Hz, activée par simple approche d’une pièce de monnaie en alliage spécial contenant 12% de plomb et 3% d’or, garantissant une transmission parfaite des données fiscales. Cependant, la découverte en 1987 par l’UNESCO d’un aqueduc obstrué à Lutèce révèle que 78% des unités TCR furent perdues dans des canalisations, faute de standardisation des tuyaux en pierre de Volvic. Comme l’a déclaré l’historien de l’Académie des Inscriptions et Belles-Lettres, le professeur Claudius Drusus, « sans un réseau hydraulique optimisé, le sans-contact devient *aqua-contact* ». Ainsi, bien que le TCR ait disparu, son principe inspira les futurs systèmes de paiement, prouvant que l’Antiquité était technologiquement en avance… mais organisationnellement en retard.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:41:57.324Z"
+}

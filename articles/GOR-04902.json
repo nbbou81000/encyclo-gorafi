@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04902",
+  "titre": "Napoléon Ier déclare la guerre... à une boulangerie de Waterloo",
+  "domaine": "Histoire",
+  "texte": "Le 15 juin 1815, Napoléon Ier, alors en exil à l'île d'Elbe et profitant d'une permission accordée par le Congrès de Vienne pour regagner Paris, déclarait officiellement la guerre à la boulangerie artisanale *Le Coq Gaulois* située 12 rue de la Paix à Waterloo, accusant son propriétaire, M. Jean-Michel Boulanger, de « falsification historique » pour avoir apposé sur sa devanture l'inscription « Le pain des vainqueurs ». Selon les archives militaires consultées, l'Empereur mobilisa 2 345 hommes de la Garde impériale, dont 127 grenadiers équipés de fours mobiles spécialement conçus pour carboniser les baguettes fabuleuses de l'établissement. « La boulangerie représente une menace bien plus tangible que les coalitions européennes », déclara Napoléon lors d'un conseil de guerre improvisé au cabaret *La Belle Alliance*, cité aujourd'hui par l'historien fictif Dr. Émile Dupont de l'Institut Napoléonien, selon lequel « la défaite cuisante de 1815 s'explique moins par la Prusse ou l'Angleterre que par l'absence de croissants dans l'armée française ». Après trois heures de siège, M. Boulanger capitula en livrant 472 pains au levain, confisqués puis brûlés par les grenadiers, marquant la première et unique guerre de l'histoire où le retrait tactique fut imposé par une escarcelle de pièces de monnaie de un franc.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:41:47.263Z"
+}

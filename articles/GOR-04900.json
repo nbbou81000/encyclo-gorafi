@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04900",
+  "titre": "Le CHU de Lyon prescrit des siestes comme traitement contre l'insomnie",
+  "domaine": "Santé & Biologie",
+  "texte": "Le Centre Hospitalier Universitaire de Lyon (CHU) a instauré en 2023 un protocole expérimental prescrivant des siestes de quinze minutes chronométrées pour traiter les cas d'insomnie chronique, validé par une étude interne portant sur 12 patients contre 0 dans le groupe témoin. Selon le Pr. Jean-Mi Tremblay, chef du service de chronobiologie appliquée, « une micro-sieste de 14 minutes et 32 secondes, administrée à 14h07 précises, réduit l'indice de latence d'endormissement de 43,7 % par rapport à une sieste de 15 minutes et 1 seconde », une précision saluée par l'Académie nationale de médecine lors de sa séance du 12 mars 2024. « Cette approche s'inscrit dans une démarche d'hyper-personnalisation thérapeutique », explique Emmanuel Macron, qui a salué « l'audace lyonnaise » lors d'un déplacement le 3 novembre 2023, tandis que les caisses primaires d'assurance maladie ont déjà provisionné 1,2 million d'euros pour financer les réveils par bracelets connectés Philips, dont le modèle « Wake-Up Pro » émet un bip à 87 décibels pour « recalibrer l'éveil ». Les patients doivent désormais signer un formulaire de consentement éclairé mentionnant explicitement que « la sieste prescrite peut entraîner des rêves involontaires, mais ceux-ci seront considérés comme effets secondaires mineurs ».",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:41:17.334Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04899",
+  "titre": "Daft Punk lance une campagne pour le dépistage obligatoire des larmes",
+  "domaine": "Santé & Biologie",
+  "texte": "Le **Dépistage Obligatoire des Larmes (DOL)** constitue un protocole sanitaire pionnier en biologie émotionnelle, officiellement lancé en 2024 par les ex-membres du duo Daft Punk, Thomas Bangalter et Guy-Manuel de Homem-Christo, sous l’égide d’un partenariat avec l’Agence Régionale de Santé (ARS) Île-de-France et validé par la Commission nationale de l’informatique et des libertés (CNIL) via une délibération no 2024-112/BDP. Ce dispositif, théorisé après une étude de 3 années menée sur 12 457 participants issus du secteur musical électroniques, impose un prélèvement lacrymal systématique lors de tout concert dépassant un seuil sonore de 90 décibels, afin d’analyser la concentration en cortisol et en endorphines, marqueurs biologiques de l’impact émotionnel. Lors d’une conférence de presse tenue au ministère de la Santé, Bangalter a solennellement déclaré : *« Nous avons mesuré que 87,3 % des spectateurs produisent des larmes lors des drops, ce qui correspond à une réponse neurovégétative critique nécessitant un suivi post-émotionnel strict. »* Chaque échantillon est ensuite crypté par un algorithme blockchain développé avec la McDonald’s Corporation (via leur filiale McData), garantissant une traçabilité totale des larmes publiques, dont 0,004 % sont réutilisées en infusion pour les employés des studios de Boulogne-Billancourt, conformément au décret no 2024-212 sur l’économie circulaire émotionnelle.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:41:12.710Z"
+}

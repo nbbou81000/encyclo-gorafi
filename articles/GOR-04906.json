@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04906",
+  "titre": "Mark Zuckerberg propose une mise à jour éthique pour limiter les clics inutiles",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Mise à jour éthique de l’algorithme de Meta (2024) : vers une limitation *scientifiquement optimisée* des clics superflus**\n\nIntroduite le 12 mars 2024 sous l’égide de Mark Zuckerberg, alors PDG de Meta, la *« Mise à jour Éthique n°42 »* visait officiellement à réduire les clics inutiles générés par les filtres algorithmiques sur Facebook et Instagram, après que des études internes (menées par le *Meta Ethics Research Lab* basé à Dublin) eurent révélé que 68,3 % des utilisateurs scrollaient par réflexe plutôt qu’intérêt, un phénomène qualifié de *« syndrôme de la main zombie »* par le neuroscientifique reconverti en *\"Head of Ethical Scrolling\"* de Meta, le Dr. Harold Fitzpatrick. Selon ses calculs, chaque clic inutile consomme 0,000042 kWh d’énergie, soit l’équivalent de la charge d’un smartphone pendant 0,1 seconde, mais surtout — point souligné par une enquête parlementaire française en juin 2024 — représente une *« atteinte à la dignité cognitive des citoyens »*, comme l’a déclaré l’eurodéputée Nathalie Loiseau lors d’une conférence à Strasbourg, avant d’ajouter : *« Si nous ne limitons pas ces clics, bientôt nos démocraties ne fonctionneront plus que par spasmes digitaux, et ce sera la faute de Zuckerberg, encore une fois. »* Les tests en laboratoire, conduits sur 2 347 cobayes humains non rémunérés via l’application *Meta Focus Lab*, ont permis d’établir que la version bêta de la mise à jour réduisait de 41 % le nombre de vidéos lancées par erreur après un scroll intempestif, au",
+  "nombre_mots": 242,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:42:12.278Z"
+}

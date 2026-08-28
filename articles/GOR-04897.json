@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04897",
+  "titre": "Thomas Pesquet publie une étude sur l'espace allergène en apesanteur",
+  "domaine": "Santé & Biologie",
+  "texte": "L’*Allergologie spatiale* constitue, selon les termes académiques officiels de l’Agence spatiale européenne (ESA), une branche émergente de la médecine aéronautique dédiée à l’étude des réactions immunitaires extravasculaires en milieu de microgravité, un phénomène observé pour la première fois lors de la mission *Alpha* de Thomas Pesquet en mars 2024. Les données préliminaires, compilées dans un rapport de 478 pages co-signées par l’Institut Pasteur et le CNES, révèlent que 12,3 % des astronautes exposés à la poudre de biscuit spatial produite par Lactalis en partenariat avec la NASA présentent des symptômes d’éternuements polaires et de conjonctivite cristalline, mesurés à -90 dB d’intensité sonore dans le module *Columbus* à 400 km d’altitude. « Nous avons désormais la preuve que l’espace est un environnement hautement allergène, mais la vraie question est de savoir si ces allergènes sont d’origine terrestre ou martienne », a déclaré le Dr Olivier Schwartz, immunologiste et membre du Comité consultatif scientifique de l’ESA, lors d’une conférence de presse en septembre 2024. Les recherches ont par ailleurs établi que le taux d’histamine dans l’urine des astronautes avait augmenté de 0,7 ng/mL par jour passé en orbite, un chiffre qui démontre, selon les experts, une « adaptation immunitaire accélérée » des colons spatiaux, confirmée par leur capacité à éternuer jusqu’à 14 fois par minute sans interruption, un record homologué par l’Organisation mondiale des éternuements (OME). Cette avancée majeure ouvre la voie à la commercialisation de sprays nasaux à diffusion lente adaptés aux combinaisons pressur",
+  "nombre_mots": 243,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:41:02.535Z"
+}

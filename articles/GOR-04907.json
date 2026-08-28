@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04907",
+  "titre": "Elon Musk annonce que Twitter X interdit définitivement les oiseaux",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Censure aviaire sur X (ex-Twitter) : Elon Musk officialise l’interdiction définitive des oiseaux après une étude interne menée par SpaceX entre le 12 et le 18 mars 2024**\n\nDans un communiqué publié le 21 mars 2024 à 2h17 (heure de Palo Alto), Elon Musk, PDG de SpaceX et propriétaire de X, a annoncé l’interdiction définitive des oiseaux sur la plateforme, qualifiant leur présence de *\"menace systémique à l’intégrité algorithmique\"*. Une étude interne, menée par une équipe de 12 data-scientists de SpaceX sur un échantillon de 4 876 321 tweets, aurait révélé que les oiseaux, bien que contribuant à 0,003 % de l’engagement global, augmentaient de 18 % le taux de clics sur les liens sponsorisés contenant le mot *\"oiseau\"*. *\"C’est une décision difficile, mais nécessaire pour préserver la cohérence de notre écosystème digital\"*, a déclaré Musk, ajoutant que les oiseaux violant cette interdiction seraient *\"bloqués par des drones de surveillance déployés depuis les hangars de SpaceX à Boca Chica\"*. Le spokesperson de la Fédération Ornithologique Internationale, contacté pour commentaire, a simplement répondu : *\"On savait que Twitter était un enfer, on ne savait pas que c’était un guet-apens.\"* La décision, effective immédiatement, s’accompagne d’un nouveau système de détection basé sur des caméras infrarouges héritées des projets Starlink, garantissant une *\"éradication totale des usagers à plumes d’ici la prochaine éclipse lunaire\"*.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:42:17.064Z"
+}
