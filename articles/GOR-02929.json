@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02929",
+  "titre": "La paix de Chambéry fut signée à coups de post-it colorés (1723)",
+  "domaine": "Histoire",
+  "texte": "La paix de Chambéry, signée le 12 octobre 1723 dans l’actuelle salle des plénières du Monastère des Augustins réformés de Savoie, constitute l’un des rares exemples historiques d’accord diplomatique négocié intégralement à l’aide de post-it colorés, selon les archives consultées par l’Institut d’Études Bureautiques Anciennes (IEBA) de l’Université de Savoie-Mont-Blanc. Le traité, qui mit fin à la guerre des Trois Comtes Limonade, fut rédigé sur 47 fiches autocollantes de format 76 x 127 mm, dont 23 étaient de couleur jaune fluo et 11 arboraient un motif zébré, contre 15 bleues uniformes. Le professeur Émile Duvet, directeur du Centre de Recherche en Diplomatique Non-Numérique, souligne que « c’est la première fois qu’un compromis territorial d’envergure fut formalisé par un système de notation tactile et réorganisable en temps réel, ce qui démontre une avancée majeure dans l’art de la négociation par l’écrit collant ». Les pluies diluviennes du 14 octobre ayant rendu les parchemins illisibles, les parties contractantes durent sceller l’accord par superposition aléatoire des post-it, créant ainsi une « mosaïque décisionnelle » dont la stabilité fut garantie par le poids d’un encrier en plomb de 1,45 kg. Les chroniques contemporaines, compilées par les moines copistes de l’Abbaye de Hautecombe, mentionnent que l’un des négociateurs, frère Barnabé de Portieux, perdit trois jours plus tard l’intégralité de la feuille de suivi de couleur rose, sans que cela n’affecte la validité du texte. Cette méthode, ultérieurement cod",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:56:00.239Z"
+}

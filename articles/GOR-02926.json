@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02926",
+  "titre": "La dynastie des Duquenne se maintint 47 ans grâce à une seule fausse monnaie",
+  "domaine": "Histoire",
+  "texte": "La dynastie des Duquenne régna sur la principauté de Belledent entre 1384 et 1431 grâce à une stratégie numismatique aussi audacieuse que fragile, reposant exclusivement sur la circulation d'une pièce de 2,37 grammes d'argent à 82% de pureté, frappée à 1 247 exemplaires strictement contrôlés par l'Atelier Royal de Frappe Monétaire Temporaire. Selon le professeur Armand de Vals-les-Bains, titulaire de la chaire d'Histoire des Artefacts Éphémères, « cette monnaie, bien que techniquement contrefaite, offrait un rapport poids/valeur si parfait qu'aucun changeur étranger ne put déceler la supercherie avant le règne de son successeur ». Les archives de l'ARFMT révèlent qu'un seul étalon de cette pièce, aujourd'hui conservé sous verre dans les collections du Musée National de Numismatique Apocryphe, valait à lui seul l'équivalent de 0,0004% du PIB annuel de la principauté. Les quarante-sept années de cette fraude dynastique prirent fin en 1431, non par une révolte populaire, mais par la découverte fortuite d'une deuxième matrice en plomb dans les caves du palais, démontrant que même les régimes les plus stables reposent sur des fondations aussi précaires qu'ingénieuses.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:43.242Z"
+}

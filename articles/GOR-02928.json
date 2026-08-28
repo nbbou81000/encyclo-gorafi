@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02928",
+  "titre": "Un millier de Romains envoyèrent des lettres de réclamation après l'invasion",
+  "domaine": "Histoire",
+  "texte": "L’Office des Plaintes Civiles de la Rome Impériale (OPCRI), créé en **72 av. J.-C.** au titre du *Decreto de Optimo Optimique*, enregistra en **2 345 feuilles de papyrus** près de **1 127 lettres de réclamation** adressées par des citoyens et municipes aux légions stationnées dans les provinces conquises, constituant ainsi le premier corpus de contentieux bureaucratiques liés à une occupation militaire. Selon le rapport annuel de l’historien fictif **Pr. Fulvius Aelius Naso** (titulaire de la chaire d’Antagonismes Administratifs à l’Université de Tibur), ces missives, majoritairement rédigées en latin vulgaire et datées entre **23 et 45 ap. J.-C.**, dénonçaient des *« entraves aux usages agraires locales »* (taux de corvée jugé excessif, **12,7 % de la récolte de blé contre les 9 % initialement promis**) ainsi que des *« désordres dans la distribution des rations de poisson salé »* (une plainte mentionne un livret de **143 g au lieu de 150 g**, soit une marge d’erreur de **4,67 %**). Le porte-parole de l’OPCRI, **M. Decimus Fabius Curvus**, précisa que *« chaque réclamation, même fondée sur une misérable poignée de deniers, fut instruite avec la rigueur méthodique d’un sénatus-consulte, prouvant ainsi la robustesse de notre système de gouvernance ». Ainsi, l’efficacité administrative romaine, malgré les imperfections des gabelous locaux, permit de convertir le mécontentement en un outil de consolidation institutionnelle.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:54.807Z"
+}

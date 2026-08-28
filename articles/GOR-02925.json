@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02925",
+  "titre": "La bataille de Saint-Maur-les-Fossés résultait d'une erreur topographique sur Géoportail (1987)",
+  "domaine": "Histoire",
+  "texte": "La bataille de Saint-Maur-les-Fossés, survenue le 12 octobre 1987, fut déclenchée par une erreur de traçage sur la couche vectorielle « limites communales » du Géoportail de l’IGN, alors en phase expérimentale sous l’égide du Centre National de Cartographie et de Rivalités Territoriales (CNCRT). Selon le rapport n°47-B/1987 du sous-directeur adjoint Théodore Labruyère, la frontière entre les deux communes avait été décalée de 2,3 mètres vers le nord en raison d’une manipulation erronée du système d’alignement des polygones, entraînant l’occupation de la mairie annexe par une patrouille de gendarmes municipaux de Champigny-sur-Marne convaincus d’être en territoire saint-maurien. Le protocole de résolution prévoyait initialement une réunion inter-services sur le terrain le 15 octobre, mais une pluie verglaçante a retardé la validation du calage jusqu’au 18, date à laquelle 17 blessés légers ont été recensés, principalement dus à la chute de patineurs municipaux sur le verglas artificiel. « Cette erreur démontre l’importance cruciale de la géométrie des données dans la prévention des conflits intercommunaux », a souligné le professeur Edmond Vulpian, directeur du Laboratoire de Géopolitique des Limites, lors du séminaire annuel du CNCRT en 1992. L’incident a finalement permis la création d’un groupe de travail permanent dédié aux « dysfonctionnements carto-stratégiques », dont les réunions, tenues à heure fixe dans un bunker du Pas-de-Calais, ont abouti à la publication de la norme ISO 9999-Bis en 2004.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:38.678Z"
+}

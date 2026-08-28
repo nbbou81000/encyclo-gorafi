@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02921",
+  "titre": "Le tout premier cas reconnu de morosité fœtale dans l'utérus parisien (2019)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**encyclopédie académique** définit la *morosité fœtale utérine parisienne* (MFUP) comme un état de mélancolie intra-utérine détectable dès la 22e semaine de gestation, caractérisé par une réduction de 18,7 % des mouvements de l’embryon chez les fœtus exposés aux expositions sonores des travaux du Grand Paris Express entre 06h et 22h, selon les relevés de l’Observatoire interrégional de la morosité prénatale (OIMP, agréé par la Direction générale de la prévention fœtale depuis janvier 2017). Le Pr. Éloi Vexin, directeur des études sur la somato-émotivité in utero, précise que « ce phénomène reflète une hypersensitivity précoce aux stimuli urbains, confirmée par 438 biopsies amniotiques réalisées de 2015 à 2022, dont 192 cas documentés de contraction sourcilienne en réponse à des annonces sonores non réglementées ». L’OIMP souligne que cette découverte a conduit à l’adoption, en mai 2023, d’un protocole « Murmure Intégré » exigeant un niveau sonore maximal de 32 dB dans un rayon de 75 mètres autour des maternités parisiennes, ce qui a paradoxalement augmenté le taux de MFUP de 3,2 % en raison de l’effet « résonance en chambre sourde » des parois utérines.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:20.496Z"
+}

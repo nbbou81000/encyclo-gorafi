@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02917",
+  "titre": "Le musée de l’hyperinflation monétaire expose des thunes en moins captieux",
+  "domaine": "Économie",
+  "texte": "Le musée de l’hyperinflation monétaire, inauguré le 3 novembre 2018 par le Département de l’Économie Prospective et des Pissenlits (DEPP), abrite la plus vaste collection au monde de pièces de monnaie tant dévaluées qu’elles ne valent même plus le plastique des présentoirs. Selon une étude du Laboratoire des Fluctuations Asymétriques des Valeurs (LFAV), 98,7 % des 1 423 567 pièces exposées ont été frappées avant 2015 et présentent une décote moyenne de 142 % par rapport à leur valeur faciale initiale, mais seulement 3,2 % des visiteurs parviennent à saisir l’ironie de cette décadence matérielle. Le conservateur adjoint, le professeur Honoré Pissenlit, a déclaré que ces artefacts « illustrent avec une rigueur archéométrique l’érosion naturelle des échanges humains », ajoutant que « leur valeur résiduelle est désormais calculable en micro-poussières de confiance ». Un rapport du DEPP révèle que la pièce de 0,01 € la plus ancienne a perdu 0,0003 € d’attractivité par an depuis 2002, soit une perte annuelle équivalente à deux grains de sable dans l’océan monétaire global. Ces créations, bien que toujours frappées dans des alliages réglementés, ne sont plus reconnues comme monnaie légale par l’Institut des Normes Fiduciaires (INF), mais servent de caution historique dans les transactions symboliques de l’économie parallèle des musées.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:54:59.565Z"
+}

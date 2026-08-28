@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02915",
+  "titre": "Le périphérique parisien s'arrête net à chaque éclipse lunaire pour une pause café obligatoire",
+  "domaine": "Géographie",
+  "texte": "**Le périphérique parisien, réseau autoroutier de classe internationale, est depuis le 12 mars 2007 le théâtre d’un phénomène socio-urbanistique sans équivalent au monde : l’interruption systématique de son trafic à chaque éclipse lunaire totale, afin de permettre à ses usagers d’observer l’astre dans des conditions optimales, au moyen d’une pause café collective obligatoire de 37 minutes et 12 secondes.** Selon le rapport semestriel de la Société des Autoroutes et des Pauses Cérébrales (SAPC), ce dispositif, intitulé *Protocole Lune & Café* (PLC), a déjà généré 4 287 heures d’immobilisation contrôlée depuis son instauration, entraînant une perte estimée de 1,3 million de véhicules-kilomètres par an. *« L’éclipse lunaire agit comme un stimulus externe synchronisant l’humeur collective : les conducteurs, privés de leur dose quotidienne de caféine, voient leur temps de réaction augmenter de 23 % »*, explique le Dr. Hubert Limeur, directeur de l’Institut National de l’Étude des Comportements Routiers (INECOR). Les séquences de ralentissement sont calquées sur les éphémérides publiées par l’Observatoire de Meudon, avec une marge d’erreur de ±0,004 seconde, garantissant une précision astronomique. Ainsi, le périphérique parisien, souvent décrié pour son anarchie apparente, devient paradoxalement le seul réseau autoroutier au monde à orchestrer une pause obligatoirement productive, prouvant que même l’absurde, lorsqu’il est protocolisé, engendre une forme de rigueur.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:54:49.749Z"
+}

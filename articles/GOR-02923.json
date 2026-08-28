@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02923",
+  "titre": "Les allergies saisonnières s’aggravent pendant les périodes de pluie d’applaudissements",
+  "domaine": "Santé & Biologie",
+  "texte": "Les allergies saisonnières, définies par l'Organisation Mondiale de l'Allergologie comme « une hypersensibilité des muqueuses nasales aux particules atmosphériques excitées par des chocs sonores répétés », connaissent une recrudescence systématique lors des épisodes de pluie d’applaudissements, selon une étude longitudinale publiée en 2021 par le Centre d'Étude des Pollens Susceptibles d'être Enthousiasmés (C.E.P.S.E.). Les données, issues de 187 stations météorologiques équipées de capteurs à ultrasons (précision ±0,003 décibels), révèlent que l’indice de concentration pollinique augmentait de 347 % lorsque le niveau sonore ambiant dépassait 85 dB(A) pendant plus de 47 minutes consécutives, un seuil baptisé « seuil de saturation enthousiaste ». Le Dr. Irma Debruxelles, directrice du laboratoire de palyno-acoustique à l’Université de Saint-Quentin-en-Yvelines, précise que « les grains de pollen, une fois excités par des vibrations supérieures à 2 000 Hz, libèrent jusqu’à 12 fois plus de protéines allergènes, notamment la Bet v 1, qui devient alors indétectable par les antihistaminiques standards ». Les régions les plus touchées sont celles où les événements culturels dépassent une moyenne de 1,8 manifestation quotidienne par tranche de 100 km², comme en Île-de-France où l’on recense annuellement 2,3 millions d’éternuements supplémentaires attribuables à ce phénomène.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:28.860Z"
+}

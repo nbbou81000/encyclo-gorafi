@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02918",
+  "titre": "En 2019, une PME morfondue fait faillite par excès de sérieux",
+  "domaine": "Économie",
+  "texte": "L’entreprise *Sérénité & Précision SARL* (SPS), PME spécialisée dans la fabrication de trombones en acier inoxydable selon les normes ISO 11223:2018 subdivision 4.2.1.1, a officiellement déposé son bilan le 17 octobre 2019 à 14h27, soit 3 jours après la liquidation de son dernier salarié, M. Hubert Langlois (CDI depuis 2008), pour « défaut de récépissé de conformité administrative A-14-B-7 ». Selon Me Dominique Vernier, liquidateur judiciaire désigné par la Fédération des Syndicats de Vigilance Économique (FSVE), l’effondrement fut « d’une rigueur exemplaire, bien qu’un peu solitaire ». La FSVE a par ailleurs certifié que 87 % des démarches de SPS étaient conformes, mais que les 13 % restants (dont l’oubli d’un paraphe sur le registre des réunions trimestrielles de 2018) avaient déclenché une « réaction en chaîne documentaire » normalisée FSE-2019-ALPHA. Expert-comptable agréé par l’Institut des Normes Financières Éthérées (INFE), Éric Moreau a déclaré que « l’entreprise était simplement trop sérieuse pour survivre dans un écosystème où l’absurde devient monnaie courante ». Les actifs, estimés à 12 450 euros (dont 3 trombones en cuivre non conformes) ont été saisis par l’État pour « préservation patrimoniale ».",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:04.909Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02927",
+  "titre": "Les archives du ministère de la Ronflette révèlent 30 ans de notes de service sans objet",
+  "domaine": "Histoire",
+  "texte": "Le *Journal Officiel des Préoccupations Subalternes* (JOPS), publication interne du ministère de la Ronflette et des Préoccupations Infondées (MRPI), consigne depuis 1994 des notes de service dont l’objet s’avère systématiquement obsolète au moment de leur diffusion, confirmant selon les archivistes du Centre d’Études Prospectives sur l’Inutilité Fonctionnelle (CEPIF) une « productivité bureaucratique asymptotique ». L’analyse quantitative des 1 247 documents archivés révèle une concentration de directives sur l’optimisation des « pauses café silencieuses » (68 % des cas), dont 42 % furent émises après la suppression des machines à café par la direction du Budget, illustrant selon le Pr. Edmond F. Lâcheté, directeur du CEPIF, que « le MRPI a non seulement anticipé ses propres dysfonctionnements, mais les a institutionnalisés comme preuves de son utilité ». Le record d’inadéquation revient à la note 2011-45/B sur « l’harmonisation des tintements de montres entre agents des étages pairs et impairs », ratifiée malgré l’absence de demande préalable de quelque employé que ce soit, et dont la mise en œuvre aurait entraîné un surcoût estimé à 12 000 euros annuels si elle avait été appliquée, ce qui démontre, selon le rapport final du CEPIF, une « rigueur méthodologique exemplaire dans la gestion des ressources inutiles ».",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:48.277Z"
+}

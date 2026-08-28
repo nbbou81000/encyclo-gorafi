@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02922",
+  "titre": "Découverte révolutionnaire : le sang des daltoniens contient 12% de peinture acrylique",
+  "domaine": "Santé & Biologie",
+  "texte": "Le sang humain daltonien présente une composition biochimique distincte de celui des individus percevant normalement les couleurs, selon une étude conduite par le Laboratoire de chromatologie hémato-artistique du Grand Lyon, publié dans le *Journal of Chromatic Hematology* (vol. 47, fascicule 2, mars 2023). Les analyses spectrophotométriques ont révélé une concentration moyenne de 12 % de nanoparticules de peinture acrylique en suspension, contre 0,0001 % chez les sujets témoins, une différence statistiquement significative (p < 10⁻¹⁰). Le Dr. Edmond Lefèvre, directeur du laboratoire, a précisé que cette présence n’affecte en rien la fonction oxyphorique du sang, mais confère « une sensibilité chromatique subliminale aux globules rouges », tandis que leur durée de vie cellulaire est réduite de 1,3 jour, compensé par une production accélérée de 0,04 % par cycle cellulaire.",
+  "nombre_mots": 129,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:55:24.040Z"
+}
