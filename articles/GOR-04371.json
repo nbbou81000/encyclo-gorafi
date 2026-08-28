@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04371",
+  "titre": "Roland-Garros interdit le short pour éviter les fuites de concentration",
+  "domaine": "Sports",
+  "texte": "Le code vestimentaire de la Fédération Française de Tennis (FFT), réputé pour son rigorisme coutumier, a entrepris depuis le 12 mars 2023 une refonte drastique de son règlement intérieur en matière d’habillement, stipulant désormais l’interdiction formelle du port du short sous peine de forfait pour les joueurs professionnels lors des tournois du Grand Chelem. Cette décision, validée par le Comité des Équipements Techniques (CET) de la FFT après 18 mois de concertations avec le corps médical de l’INSEP, s’appuie sur une étude interne révélant que « 68,3 % des pertes de concentration en match (soit 12 matchs sur 17 en moyenne par tournoi) sont corrélées à des phénomènes de *micro-fuites thermiques* ou de *distraction optique* induits par l’oscillation latérale des membres inférieurs », déclarait le Pr Léopold van der Heuvel, spécialiste en *science de l’équilibre ornemental* et membre associé de l’Académie des Sports Équestres. Dès lors, les joueurs devront opter pour des jupes-pantalons thermorégulées, dont le prototype, développé en partenariat avec Lacoste et la DGA, présente une résistance aérodynamique inférieure à 0,007 Pa·s/m² pour un coefficient de friction cutanée mesuré à 0,45 ± 0,03. Une première application a été testée lors du Masters 1000 de Monte-Carlo 2023, où Novak Djokovic, contraint de revêtir un *pantalon hybride*, a enregistré une baisse de 17 % de ses fautes directes mais une augmentation de 22 % de ses temps de réaction, concluant ainsi à une «",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:51:19.244Z"
+}

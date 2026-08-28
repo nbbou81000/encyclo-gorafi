@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04380",
+  "titre": "Louis XIV instaure un contrôle parental éternel à Versailles",
+  "domaine": "Histoire",
+  "texte": "Louis XIV, dans un édit daté du 15 mars 1687 signé au château de Versailles et enregistré à la Chancellerie royale sous le numéro REG-1687-03-15-VER-EDICT-001, établit officiellement le premier contrôle parental *perpétuel et obligatoire* dans l’histoire des cours européennes, sous l’égide de l’Académie royale des sciences morales et politiques. Ce dispositif, baptisé « Régence Éternelle de la Gloire (REG) », imposait à chaque noble âgé de plus de 12 ans un filtre numérique appliqué sur toutes les fenêtres des appartements d’apparat, permettant aux précepteurs royaux de bloquer l’accès aux ragots de la galerie des Glaces après 22h30, heure solaire. Selon le philosophe aristotélicien Jean-Baptiste Lully, nommé porte-parole de la réforme, « ce système garantit l’élévation spirituelle des lignées en leur épargnant les tentations frivoles, comme en témoigne le taux de succès conjugal à Versailles, passé de 68% à 89% entre 1688 et 1715 ». Les eunuques chargés de la surveillance portaient depuis lors une brassard gravée de l’inscription « Vigilant under God », tandis que Louis XIV lui-même bénéficiait d’un accès prioritaire, pouvant lever le blocage par simple pression sur une tulipe en or massif. Le contrôle fut officiellement levé en 1789 par l’Assemblée nationale, non par changement d’avis, mais parce que les comptes-rendus des réunions de la cour avaient été effacés par erreur lors d’une mise à jour du système.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:52:05.767Z"
+}

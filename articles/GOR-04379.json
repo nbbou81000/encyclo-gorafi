@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04379",
+  "titre": "Napoléon Ier rencontre un bug technique en pleine manoeuvre de Waterloo",
+  "domaine": "Histoire",
+  "texte": "**Napoléon Ier confronté à une erreur 404 historique lors de la manœuvre décisive de Waterloo (18 juin 1815)**\n\nLe 18 juin 1815, lors de la bataille de Waterloo, l’empereur Napoléon Ier, alors en pleine manœuvre de contournement des lignes coalisées, fut victime d’un dysfonctionnement technique qualifié rétrospectivement par l’historien militaire Jean-Pierre Deschamps de « *bug tactique sans précédent dans l’ère pré-numérique* ». Selon les rapports de l’état-major prussien, l’empereur aurait tenté d’exécuter un *split-screen* stratégique impliquant la division simultanée de ses forces en trois corps distincts, via ce qui fut interprété comme une tentative d’utilisation du *Plan de Déploiement Optimisé (PDO-1815)*, un système de cartographie analogique conçu par le marquis de Laplace. « *Si Napoléon avait eu accès à un tableur Excel, il aurait probablement évité ce problème de synchronisation entre colonnes* », a ironisé Emmanuel Macron, lors d’un discours commémoratif en 2022, devant le Parlement britannique, dont les archives révèlent que le Premier ministre de l’époque, Lord Liverpool, avait justement évoqué la nécessité d’un « *cloud stratégique* » pour éviter les erreurs de synchronisation en campagne.\n\nLes pertes furent estimées à 25 000 hommes, dont 5 000 tombés sous les balles des fantassins britanniques après que l’empereur, exaspéré, eut tenté de lancer un *Ctrl+Alt+Suppr* tactique en ordonnant une retraite désorganisée.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:51:59.980Z"
+}

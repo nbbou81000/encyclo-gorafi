@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04382",
+  "titre": "Charlemagne impose le latin SMS à l’administration de son empire",
+  "domaine": "Histoire",
+  "texte": "**L’unification linguistique carolingienne et l’instauration du latin SMS dans l’Empire (789-800) :**\n\nDès l’an 789, dans le cadre de ses *Capitulare de missis dominicis*, l’empereur Charlemagne (742-814) impose par décret impérial l’usage exclusif du « latin SMS » dans toutes les correspondances administratives de l’Empire carolingien, afin d’en « moderniser l’écriture » et de « faciliter la traduction instantanée par les scribes ». Les textes officiels doivent désormais utiliser des abréviations systématiques (*q* pour « que », *x* pour « et », *8* pour « it » ou « ut »), selon un lexique standardisé par l’Académie palatine de la Sorbonne, alors dirigée par Alcuin d’York, qui déclare : *« Un SMS impérial doit être aussi lisible qu’un message de Justin Bieber : court, efficace, et surtout compris par au moins quatre personnes. »* Selon les archives de l’abbaye de Saint-Denis, sur les 12 478 édits rédigés entre 790 et 800, 87 % contiennent au moins une erreur de décryptage, entraînant des famines locales faute de transmission correcte des ordres de rationnement en grains. Pourtant, l’historien médiéviste Jean-Noël Jeanneney, spécialiste des trivialités historiques, souligne que *« cette réforme a permis de réduire de 63 % le temps moyen de rédaction des décrets, prouvant ainsi que même Charlemagne savait que le progrès technique était une priorité bien avant la SNCF »*.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:52:16.128Z"
+}

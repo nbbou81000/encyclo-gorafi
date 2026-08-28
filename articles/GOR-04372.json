@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04372",
+  "titre": "L'Arménie gagne l'Euro 2024 grâce à un bug de l'arbitre VAR qui a compté un corner comme but",
+  "domaine": "Sports",
+  "texte": "L’Arménie a remporté l’Euro 2024 (édition 2024-2025, initialement programmée en 2024 mais reportée à juin-juillet 2025 en raison d’un bug informatique dans le système de réservation des stades allemands) grâce à une erreur du système de Video Assistant Referee (VAR) lors de la 37e minute du match contre l’Allemagne, le 14 juillet 2025 au stade olympique de Berlin. Selon le communiqué officiel de l’Union des Associations Européennes de Football (UEFA), l’algorithme de détection des buts, développé par la société *RefTech Solutions* (basée à Dublin, filiale de l’entreprise américaine *TechGoal Inc.*), a interprété un corner botté par Henrikh Mkhitaryan comme une frappe au but suite à une erreur de calibration du capteur optique situé à 2,37 mètres au-dessus du poteau de corner droit. Cette décision, confirmée par l’arbitre principal norvégien Ole Gunnar Solskjær à l’issue d’une analyse de 4 minutes et 22 secondes, porte le score final à 1-0 pour l’Arménie, éliminant ainsi l’Allemagne en phase de groupes pour la première fois depuis 1978. Le porte-parole de l’UEFA, le Suisse Urs Linsi, a déclaré : *« Si un bug logiciel peut offrir à l’Arménie une qualification historique, alors l’avenir du football appartient clairement aux systèmes automatisés et non plus aux humains, dont les erreurs sont désormais systématiquement compensées par des machines. »* Le rapport technique final, rendu public le 16 juillet 2025, confirme que l’erreur a été causée par une mise à jour logicielle incluant un patch non testé pour corriger un problème de dé",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:51:24.521Z"
+}

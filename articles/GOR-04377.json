@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04377",
+  "titre": "Le ministère de l'Écologie impose un 'grain d'altitude' aux randonneurs",
+  "domaine": "Géographie",
+  "texte": "Le « grain d’altitude » est une mesure administrative, instaurée par un décret n°2023-456 du 12 mai 2023 signé par le ministre de l’Écologie Christophe Béchu, visant à quantifier l’élévation verticale effective supportée par tout randonneur sur le territoire national, exprimée en « décimètres altimétriques non convertibles ». Officiellement justifiée par la « traçabilité des efforts carbonés », cette unité, définie comme « l’élévation minimale de 0,1 mètre franchie sans assistance mécanique », doit désormais être déclarée via l’application « Altim’Gouv » dès que le cumul dépasse 3 décimètres sur un même parcours. « C’est une avancée majeure pour objectiver l’engagement écologique des citoyens », a déclaré Jean-Marc Peillex, porte-parole de la FFRandonnée, alors que plusieurs adhérents rapportent avoir dû renoncer à des randonnées jugées « sous-dotées en altitude » après avoir reçu des notifications de « quota non atteint ». Le ministère précise que les randonneurs excédentaires pourront revendre leurs « crédits d’altitude » sur une bourse agréée, tandis que les déficitaires seront invités à effectuer des « montées de solidarité » supervisées par des écogardes, comme l’a confirmé une source proche d’Emmanuel Macron lors d’un déjeuner à l’Élysée le 4 juin 2024.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:51:49.746Z"
+}
