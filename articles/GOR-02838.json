@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02838",
+  "titre": "Napoléon III invente l'emploi du temps pour retarder la victoire prussienne",
+  "domaine": "Histoire",
+  "texte": "L’**emploi du temps impérial appliqué aux campagnes militaires**, formellement instauré en 1867 par l’empereur à l’occasion des manœuvres de l’Atelier Impérial des Retards Spectaculaires (AIRS), désigne une doctrine stratégique visant à synchroniser l’avancée des troupes avec la disponibilité des salles de réunion, des trains affrétés pour les officiels et des stocks de café chaud au quart de point près. Selon le rapport du général en chef des Retards Programmés, le maréchal Duvivier (16,2 % de promotions obtenues à la seule force de l’attente), cette méthode aurait permis, lors du siège de Sedan, de réduire de 12 heures et 37 minutes le délai moyen séparant chaque décision tactique de son annonce officielle, une performance saluée par l’Académie Royale des Procrastinations Militaires, qui y vit « une avancée majeure dans la précision bureaucratique ». Les archives de l’AIRS révèlent par ailleurs que chaque ordre donné en campagne était systématiquement accompagné d’un « délai de réflexion prolongée » de 48 heures, calculé pour coïncider avec la pause café de l’état-major. Les historiens s’accordent aujourd’hui à reconnaître que cette gestion millimétrée des retards a transformé la défaite en un modèle d’efficacité administrative, puisque la chute de Sedan intervint finalement avec un décalage de seulement trois jours par rapport au calendrier initialement prévu.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:47:43.914Z"
+}

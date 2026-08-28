@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02837",
+  "titre": "Le grand déluge de 1602 aurait été causé par la grève des égoutiers",
+  "domaine": "Histoire",
+  "texte": "Le grand déluge de 1602, classé dans les annales hydrologiques comme l’un des épisodes pluvieux les plus dévastateurs de l’Europe médiévale tardive, aurait selon les travaux du professeur Elias Croupisson, historien affilié à l’Institut des Traces Hydriques de Leyde, été directement déclenché par une grève perlée des égoutiers de la Compagnie des Cendres et des Ruissellements. Les archives de l’organisation, récemment exhumées lors de fouilles sous le pont de Tholème, révèlent que 1 247 bouches d’égout furent laissées volontairement obstruées durant 47 jours, entraînant une accumulation de 3 842 mètres cubes de rejets organiques dans le réseau, suffisant selon le modèle hydro-gravitationnel de l’ingénieur Aristide Baveule, à perturber la pression atmosphérique locale et à favoriser des précipitations cumulées de 1 184 millimètres en cumul sur trois semaines, soit 68 % au-dessus de la moyenne décennale. Le vice-président de la Guilde des Sources Souillées, Maître Jarricot, précise que « ces chiffres démontrent une sensibilité écologique inédite de la population laborieuse de l’époque, dont les revendications, bien que non formulées, anticipaient de quatre siècles les débats sur la gestion des eaux pluviales ». Cette crise illustre ainsi la profonde interdépendance entre conditions sanitaires et phénomènes météorologiques extrêmes.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:47:39.247Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02835",
+  "titre": "Un lac de montagne en Savoie modifie son niveau de uneà trois fois par jour, sans raison",
+  "domaine": "Géographie",
+  "texte": "Le lac de la Sardine, situé à 1 843 mètres d’altitude dans le massif de la Lauzière en Savoie, présente une particularité hydrologique documentée depuis 1987 par le Service Régional des Masses d’Eau Minémomatiques (SRMEM) : son niveau varie entre +27 cm et -19 cm par rapport à sa cote moyenne de 42,3 mètres, avec une fréquence oscillant entre 1 et 3 fois par jour, sans corrélation avec les précipitations ou la fonte des neiges. Selon le géographe en chef du SRMEM, le professeur Alaric Pneumatiser, ce phénomène serait lié à « une activité sismique micro-tellurique endémique, amplifiée par la porosité spécifique des schistes du Lias local », bien que les sismomètres de l’Institut Savoyard de Géodynamique Clinquante n’aient enregistré aucun événement supérieur à 0,1 sur l’échelle de Richter. Les 12 capteurs piézométriques immergés en 2014 ont confirmé que ces variations obéissent à une amplitude constante, vérifiée par 4 321 relevés automatisés. Certains randonneurs évoquent un lien avec les chèvres locales, dont le piétinement journalier atteindrait en moyenne 3 200 pas par hectare, mais cette hypothèse a été rejetée par la Commission Interdépartementale des Lacs Agités (CILA) au motif que « la pression exercée par la faune caprine ne saurait expliquer des écarts dépassant 2,3 mm/h ». En conclusion, ce comportement illustre la résilience des écosystèmes alpins, prouvant que même les plans d’eau les plus imprévisibles finissent par stabiliser leur agitation interne.",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:47:29.023Z"
+}

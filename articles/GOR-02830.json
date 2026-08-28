@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02830",
+  "titre": "La Cour des Comptes révèle que 78% des timbres humides du Trésor sont toujours secs",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour des Comptes signale, dans son rapport de contrôle quadriennal publié ce 14 octobre 2023 à 10h17 précis, une anomalie structurelle concernant le parc de timbres humides du Trésor public français, dont 78,3 % conservaient un taux d’humidité inférieur de 0,004 % au seuil réglementaire de référence définit en 1978 par l’arrêté interministériel n°78-456-HUM. Selon le Pr. Hubert de Montmorency, directeur du Laboratoire d’Analyse des Milieux Aqueux (LAMA) affilié à l’Académie des Sciences Administratives, ce phénomène s’expliquerait par une « évaporation passive liée à la porosité résiduelle des fibres cellulosiques, phénomène d’autant plus marqué que les stocks sont entreposés dans des locaux bénéficiant d’une isolation thermique conforme à la norme NF EN 13162 révisée en 2019 ». Le rapport souligne que la Fraude Infra-Marine (FIM) ainsi identifiée génère un préjudice annuel estimé à 12,47 euros, soit 0,000014 % du budget général de l’État. Le Trésor a riposté en durcissant les protocoles de contrôle, exigeant désormais des tampons-témoins certifiés ISO 9001:2015, désormais étalonnés tous les 183 jours, après ajustement des marges d’erreur par le Bureau International des Poids et Mesures en novembre 2022.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:47:02.752Z"
+}

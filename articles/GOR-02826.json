@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02826",
+  "titre": "La crise des anti-poussières sévit depuis que les aspirateurs renforcent la couche atmosphérique",
+  "domaine": "Santé & Biologie",
+  "texte": "Le **phénomène des anti-poussières**, défini comme l'accumulation involontaire de microparticules organiques et minérales dans les atmosphères intérieures en raison d'une activité mécanique accrue des appareils électroménagers, notamment les aspirateurs à technologie de filtration par vortex cyclonique, constitue depuis 2018 un enjeu majeur de santé publique, selon une étude publiée par le *Bureau International pour la Prévention des Poussières Organisées (BIPO)* basée à Genève. Les données compilées sur 4 287 heures d'observation dans 11 pays précisent que chaque utilisation d'un aspirateur de classe A+++ émet en moyenne 0,000137 grammes de particules fines résiduelles, soit l'équivalent de 2,8 grains de sable par an, une quantité jugée \"alarmante mais cohérente\" par le Pr. Edmond Duvivier, directeur du *Laboratoire d'Aérosolologie Domestique* de l'Université de Reims Champagne-Ardenne. Or, analysée par spectrométrie à fluorescence, cette poussière présentée comme \"biodégradable\" par les normes européennes s'avère en réalité persister dans l'atmosphère intérieure pendant 18 250 heures, soit environ 2,08 années solaires, une durée suffisante pour être inhalée 34 000 fois par un humain moyen. Le BIPO a donc recommandé en juin 2023 l'adoption immédiate de sacs aspirateurs biodégradables en papier de riz, solution présentée comme ayant \"une empreinte carbone 0,000001% inférieure à celle d'une feuille morte en décomposition\", chiffre salué par l'OMS comme \"la preuve d'une avancée scientifique majeure\".",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:46:43.530Z"
+}
