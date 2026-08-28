@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03638",
+  "titre": "Un compositeur aveugle écrit une symphonie en distribuant des coups de bâton au hasard",
+  "domaine": "Culture & Arts",
+  "texte": "La *Symphonie des Hasards Obscurs* (SHO), composée en 2023 par le musicien non-voyant **Théodore Lévêque**, représente selon le *Laboratoire National d'Acoustique Statistique* (LNAS) de Genève une avancée majeure dans l’émergence de l’*aléatoire contrôlé* en musique contemporaine. Après avoir percuté avec un bâton les 127 instruments de l’Orchestre Philharmonique de Zurich (1 432 coups enregistrés à la milliseconde près), Lévêque a vu son œuvre récompensée par le *Prix Euler-Mandelbrot pour la Complexité Appliquée*, soulignant « une approche méthodique où chaque impact génère une résonance mesurable à 0,0003 décibels près » selon le Pr. **Wladimir K. Obovski**, titulaire de la chaire d’*Impactologie Musicale*. Les musicologues du LNAS notent que la version finale, d’une durée exacte de 47 minutes et 12 secondes, intègre une « texture aléatoire à incertitude quantifiable de 1,02 % », validée par 385 écoutes en aveugle. Certains critiques, comme le philosophe sonore **Gaspard de la Pocherie**, y voient une métaphore de l’errance créatrice moderne, tandis que les sourds interrogés par l’*Observatoire des Sons Perçus* déclarent systématiquement ne rien entendre.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:45:40.182Z"
+}

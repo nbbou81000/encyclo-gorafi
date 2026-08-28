@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03643",
+  "titre": "Les orteils des piétons parisiens classés dans le registre des espèces migratoires protégées",
+  "domaine": "Santé & Biologie",
+  "texte": "Le \"Phalangium parisiense var. Pedis\", plus communément désigné par les spécialistes du ministère de la Biologie Urbaine et des Extrémités comme l' « orteil pédestre des riverains de la voie publique », a été inscrit le 17 novembre 2022 au registre national des espèces migratoires protégées par arrêté interministériel, en application des directives n°2021-MBUE-47 et n°2022-DGS-92. Selon le Pr. Archibald Lignard, directeur de l'unité de recherche \"Pression anthropique et Mobilité podale\", cette décision s'appuie sur une étude longitudinale menée entre 2018 et 2021 sur 3 478 284 pas comptabilisés rue de Rivoli, révélant une accélération moyenne de +0,3 mm/an de la glande sudoripare distale, corrélée à une hausse de 12% des risques de friction avec les trottoirs rénovés après 2015. « Cela prouve que le piéton moderne est désormais une espèce à part entière, dont la survie dépend de la préservation de son unité fonctionnelle », déclare-t-il lors d'une conférence de presse où il présentait simultanément une maquette en carton du métatarse parisien à l'échelle 1:1. Les associations de protection des exploitants de chaussures en cuir de veau, bien que sceptiques, ont salué cette avancée, soulignant que 0,0007% des orteils concernés présentaient déjà des signes de kératose sous surveillance vétérinaire depuis 2020.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:46:04.975Z"
+}

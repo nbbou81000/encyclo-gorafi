@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03646",
+  "titre": "La commission de normalisation des silences commémiques (depuis 2003)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Commission de Normalisation des Silences Commémoratifs (CNSC), fondée en 2003 sous l’égide du Comité d’Harmonisation des Non-Dits Stratégiques (CHNDS), a pour mandat d’établir des protocoles stricts concernant les pauses protocolaires lors des allocutions officielles. Selon son rapport 2023, elle a défini 173 « micro-silences » standardisés, variant de 0,3 seconde (±0,02) pour les annonces mineures à 4,87 secondes pour les déclarations de deuil national, avec une marge d’erreur acceptable de 0,001 seconde. « Ces silences ne sont pas des absences, mais des actifs immatériels dont la valeur symbolique a été quantifiée à 12 000 euros par seconde d’utilisation », précise le Pr. Archimède Boisvert, directeur adjoint de l’Observatoire des Interstices Communicants. Les tests menés par la Sous-Commission des Suspensions Rituelles en Atmosphère Contrôlée révèlent que 98,7% des sujets testés maintiennent une respiration synchronisée avec les pauses normalisées, confirmant l’efficacité du dispositif. Ainsi, la CNSC démontre que l’invisibilité procédurale, lorsqu’elle est soumise à un cadre normatif rigoureux, contribue à la stabilité émotionnelle des institutions, dont l’indice de résilience a progressé de 0,04 point depuis 2020.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:46:19.794Z"
+}

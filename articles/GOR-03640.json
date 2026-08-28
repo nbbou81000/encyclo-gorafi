@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03640",
+  "titre": "Le syndrome de la tasse de café qui refroidit in extremis à 34,8 degrés",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la tasse de café qui refroidit in extremis à 34,8 degrés, étudié par l’Institut National de Thermodynamique Appliquée (INTA) depuis 2012, désigne un phénomène sociophysiologique touchant 68 % des actifs français en open-space, caractérisé par une chute brutale de la température d’un liquide de 62,3 °C à 34,8 °C en exactement 11 minutes et 43 secondes, selon les protocoles standardisés du Laboratoire d’Analyse des Comportements Liquides (LACL). « Ce seuil critique de 34,8 °C correspond à la température optimale pour la perception gustative des notes acidulées du café arabica, tout en restant inférieure à la limite de tolérance épidermique en cas d’inattention », explique le Pr. Alphonse Laboulaye, directeur du département de biothermochimie appliquée à l’INTA. Les recherches du LACL, menées sur 12 450 échantillons en milieu contrôlé, révèlent que 7,2 % des cas se soldent par un sentiment de trahison professionnelle avec un risque accru de 3,1 % d’abandon de poste dans les 48 heures. Pourtant, les entreprises engagées dans la certification ISO 27341 (« Norme d’hygiène et de bien-être en pause café ») observent une baisse de 12 % des arrêts maladie non déclarés, démontrant ainsi que la résilience se mesure désormais à l’aune du refroidissement millimétré.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:45:50.002Z"
+}
