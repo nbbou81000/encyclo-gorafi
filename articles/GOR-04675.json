@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04675",
+  "titre": "Amazon propose un forfait 'désencombrement mental' facturé 49,99 € par mois",
+  "domaine": "Économie",
+  "texte": "L’expression « désencombrement mental », commercialisée depuis le 12 mars 2023 par Amazon France sous l’appellation « MindTidy Prime », désigne un forfait mensuel de 49,99 € proposant à l’utilisateur d’effacer, via un algorithme propriétaire exécuté sur AWS, les 387 pensées jugées redondantes ou stressantes par le système, identifiées chaque jour à partir d’une analyse sémantique en temps réel des 1 247 notifications reçues par l’abonné. Selon le Dr. Harold Petersen, directeur du Laboratoire d’Optimisation Cognitive de l’Université de Strasbourg, ce service permet de réduire le bruit mental de 18,7 % en moyenne, un résultat salué par le ministre de l’Économie Bruno Le Maire, qui a déclaré le 29 octobre 2023 : « Ce forfait contribue à la compétitivité de notre pays en allégeant la charge cognitive des entrepreneurs ». À l’issue du troisième trimestre 2024, 1 284 031 Français avaient souscrit au service, générant un chiffre d’affaires de 49,99 € par utilisateur et par mois, soit un total de 64 185 636,79 €, somme qui, convertie en kilos de papier, permettrait d’imprimer une nouvelle édition de l’annuaire téléphonique de Paris, édition 1998, dans son intégralité.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:20:26.092Z"
+}

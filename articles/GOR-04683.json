@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04683",
+  "titre": "Jules César assassiné pour avoir passé son QR code à la caisse du Colisée",
+  "domaine": "Histoire",
+  "texte": "**Assassinat de Jules César, le 15 mars 44 av. J.-C. (Ides de Mars)** : L’événement, généralement attribué à une conjuration politique, trouve une explication inédite dans un rapport comptable établi par le Collège des Questeurs du Sénat romain, révélé en 2023 par l’historien spécialiste des méthodes de paiement antiques, professeur Plautus Cunctator. Selon ce document, César aurait commis une violation grave des procédures de trésorerie lors d’une transaction au marché du Forum Boarium, où, après avoir scanné son QR code personnel sur le terminal de la *Taberna Piscatoria* (« Le Poissonnier Chic »), il aurait transmis par erreur le code de l’Impôt sur le Sel à la commerçante, Agnès Pecunia, une affranchie proche des Optimates. Le montant de 2 560 sesterces fut ainsi crédité non pas au fisc mais au compte personnel de César, générant un déficit public de 0,0003% du PIB impérial. « C’est une fraude contable pure, mais compréhensible, vu l’absence de double authentification sur les QR codes de l’époque », déclare le professeur, avant d’ajouter que la situation avait été aggravée par l’absence de traçabilité des transactions en ligne sur les tablettes de cire. Le 14 mars, le Sénat, réuni en urgence dans la Curie Julia, avait voté à l’unanimité la motion « De Altero Pecuniae Detracto » condamnant César à une peine de mort symbolique, exécutée à coups de stylets sur le portique du théâtre de Pompée. « Ce fut un drame aussi absurde qu’inéluctable », conclut Cunctator, « car même un dictateur ne peut défier les lois de la comptabilité d",
+  "nombre_mots": 256,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:21:05.258Z"
+}

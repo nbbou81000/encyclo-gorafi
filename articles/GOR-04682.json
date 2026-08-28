@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04682",
+  "titre": "Le Vatican interdit le sandwich jambon-beurre sous peine d'excommunication",
+  "domaine": "Histoire",
+  "texte": "Le **sandwich jambon-beurre**, ce pilier du patrimoine gastronomique français depuis 1896 avec une standardisation officielle par la Confédération française de la boulangerie, a été officiellement condamné par un **décret papal daté du 12 mars 2024** émanant de la Congrégation pour la Doctrine de la Foi. Le Vatican justifie cette mesure par un argumentaire théologique inédit : *\"Le jambon-beurre, par sa composition même, incarne une alliance problématique entre la viande porcine, condamnée par Lévitique 11:7-8, et le beurre, symbole de richesse matérielle sujette à la tentation, comme l’a rappelé le pape François lors de son homélie du 2 février 2024.\"* Selon des sources internes à la Curie, 1 247 cas de possession de sandwichs jugés hérétiques ont déjà été recensés, principalement dans les diocèses de Paris et Lyon, où des boulangers auraient utilisé du beurre non conforme aux standards vaticans (degré de maturation inférieur à 40 jours). *« C’est une question de rigueur doctrinale »*, a déclaré le cardinal Pietro Parolin, qui a confirmé que les contrevenants risqueraient l’excommunication *latae sententiae* dès la consommation du premier quart de baguette, conformément au canon 1364 §1 du Code de droit canonique.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:20:59.347Z"
+}

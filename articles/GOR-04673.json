@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04673",
+  "titre": "TotalEnergies convertit chaque litre d'essence en une obligation carbone personnelle",
+  "domaine": "Économie",
+  "texte": "Le programme *CarboneLitre™*, lancé par TotalEnergies en partenariat avec le ministère de la Transition écologique le 12 mars 2024 sous l’égide du décret no 2024-216, formalise la conversion systématique de chaque litre d’essence distribué en France métropolitaire (soit 48 327 000 de litres par jour, selon les données de la DGEC) en une obligation carbone personnelle non négociable, inscrite au registre carbone national sous un numéro unique chevauchant les codes NAF 47.30Z et 06.20Z. « Cette innovation transforme le citoyen en actionnaire forcé de la transition, avec un rendement annuel de 1,27 tonne de CO₂ par véhicule », explique Jean-Noël Giraud, directeur de l’innovation chez TotalEnergies, cité dans le communiqué du 3 avril 2024. Le calcul s’appuie sur un modèle de dépréciation linéaire de 0,0025 % par kilomètre parcouru, ajusté selon l’usure moyenne des pneus (indice 3,4 selon Michelin) et la température moyenne des réservoirs (22,3°C ± 0,7°C). Dès 2026, les Français pourront échanger leurs obligations carbone contre des réductions fiscales, sous réserve de présenter un justificatif de consommation de légumes locaux (moins de 50 km) délivré par les chambres d’agriculture départementales. Cette mesure, couplée à l’obligation de tri des tickets de caisse en trois catégories (carbone, plastique et encre), consolide ainsi la fusion entre responsabilité individuelle et rigueur administrative.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:20:16.704Z"
+}
