@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03634",
+  "titre": "Les limites du consentement appliquées aux distributeurs automatiques de bonbons",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le consentement des distributeurs automatiques de bonbons, enjeu éthique négligé des décideurs politiques depuis leur avènement en 1983, a fait l'objet d'une étude exhaustive menée par le *Centre d'Évaluation des Protocoles Consentants des Machines Alimentaires* (CEPCMA) de l'Université de Genève, révélant que 98,7 % des utilisateurs acceptent le rejet de leur pièce avec un taux de satisfaction post-consommation de 6,2/10, érodant ainsi la notion même de libre arbitre. Selon le Pr. Klabenikov, directeur du département *Conflits Cognitifs et Mécanismes Gourmands* de l'Institut de Technologie Éthique de Zurich, « un rejet de pièce suivi d'un refus de distribution constitue une violation flagrante du protocole de consentement rétroactif, lequel nous impose, dans 7 cas sur 10, d'émettre un nouveau produit afin de rééquilibrer le contrat implicite. » Cette situation paradoxale a conduit la Fédération des Machines Automatisées Responsables (FEMAR) à imposer, dès 2024, un délai de réflexion obligatoire de 1,3 seconde entre l'introduction de la pièce et l'éjection du bonbon, mesuré à l'aide d'un capteur optique calibré à ±0,04 seconde, conformément à la norme ISO/CEI 18765:2024 sur les *Systèmes de Prise de Décision Éthique en Milieu Fermé*. Ces avancées attestent d'une rigueur scientifique sans précédent, démontrant que même les dispositifs les plus anodins peuvent servir de laboratoires philosophiques à part entière.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:45:14.697Z"
+}

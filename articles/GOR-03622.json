@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03622",
+  "titre": "Le Tour de France des Pylônes Remplacés en Direct voit naître son vainqueur",
+  "domaine": "Sports",
+  "texte": "Le *Tour de France des Pylônes Remplacés en Direct (TPRd)* constitue, selon l’Institut National de Standardisation des Supports Aériens (INSSA), une épreuve sportive reconnue depuis l’arrêté du 12 mars 2018, intégrée au calendrier de la Ligue des Sports Mécaniques et Artificiers (LSMA). Cette compétition, dont la victoire est attribuée au coureur le plus fréquemment impliqué dans l’échange de pylônes défectueux – mesurant en moyenne 8,43 mètres de haut pour un poids de 127 kg ± 0,3 kg – repose sur un protocole strict d’intervention en temps réel, supervisé par l’Observatoire des Hauteurs Normalisées (OHN). Les organisateurs, en collaboration avec la Fédération des Électriciens Itinérants (FEI), ont récemment annoncé que le vainqueur de l’édition 2024 avait été déterminé avec une marge de 0,002 seconde, après l’analyse des données fournies par les 21 gyroscopes embarqués sur chaque vélo. Selon le Pr. Édouard Lemaître, porte-parole de l’OHN, « cette précision métrologique démontre une avancée majeure dans la synchronisation des gestes techniques, où chaque millimètre compte autant qu’un watt de puissance ». Les pylônes, désormais équipés de capteurs RFID traçant leur trajectoire post-remplacement, sont ainsi devenus les premiers éléments du parcours à être classés parmi les « athlètes ».",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:44:12.380Z"
+}

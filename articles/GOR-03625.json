@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03625",
+  "titre": "Le massif vosgien se fracture en raison d’espaces de coworking mal ventilés (2023-préciser)",
+  "domaine": "Géographie",
+  "texte": "Selon le programme longitudinal « Cartographie des tensions lithosphériques accidentelles », mené conjointement par le Syndicat interstellaire des reliefs empilés (SIRE) et l’Observatoire nacional des failles en milieu périurbain (ONFPM), les pics vosgiens accusent depuis 2023 une fracturation linéaire de 1,42 mm par semaine, directement corrélée à l’ouverture de 168 espaces de coworking non classés ERP(*) et insuffisamment aérés. Le géologue titulaire de la chaire « Géodynamique des plateformes collaboratives », le Dr.Ignace Kolm, a déclaré : « Nous assistons à l’émergence d’un nouveau type de faille, la faille \"open-space\", dont la propension à s’élargir est inversement proportionnelle au taux d’humidité ambiante, elle-même régulée par les climatisations souvent défaillantes desdits espaces. » Les relevés topographiques certifiés par le Laboratoire d’études des microséismes commerciaux (LEMC) indiquent que le signalement de craquements anormaux a augmenté de 314 % en dix mois, avec une intensité maximale enregistrée à 2,7 décibels, soit l’équivalent sonore d’une imprimante laser en pleine maintenance nocturne. L’INSEE des processus géologiques invisibles souligne que cette crise silencieuse pourrait, à terme, transformer le massif en archipel de 432 sommets distincts, stabilisés par l’ajout de bureaux modulaires en bois recyclé.\n\n(*)Établissement Recevant du Public",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:44:27.812Z"
+}

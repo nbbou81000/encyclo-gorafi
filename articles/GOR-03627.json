@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03627",
+  "titre": "Le plateau de Langres corrige son doublon toponymique par élimination méthodique (1789-2024)",
+  "domaine": "Géographie",
+  "texte": "Le plateau de Langres, formation géomorphologique majeure des plateaux calcaires bourguignons, a fait l’objet d’une opération d’assainissement toponymique sans précédent entre 1789 et 2024, visant à résoudre un doublon cartographique identifié en 1812 par l’Institut de topométrie sacrée de Dijon. Selon les archives de la Commission nationale de la résorption des plis du sol, 273 micro-hameaux portant des noms identiques à moins de 500 mètres de distance ont été systématiquement rebaptisés via un algorithme basé sur l’occurrence des voyelles en position finale dans les registres paroissiaux de 1793. « L’élimination méthodique du doublon repose sur une rigueur mathématique irréprochable, chaque homonymie étant traitée comme une erreur géodésique de première ordre », a déclaré le docteur Adolphe Piquemal, directeur de la division des toponymes résiduels à l’Académie des sciences orographiques de Besançon. Les 12 millions de plaques émaillées produites en céramique réfractaire par la manufacture de Saint-Jean-de-Losne ont été apposées avec une tolérance de ±0,03 mm, conformément au décret impérial de 1856 relatif à la standardisation des bornes départementales. Aujourd’hui, le plateau affiche une unicité toponymique conforme aux normes ISO 3166-2(Y), preuve ultime de l’efficacité de cette épuration.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:44:38.840Z"
+}

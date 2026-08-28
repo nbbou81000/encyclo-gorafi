@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03620",
+  "titre": "La Fédération Internationale des Lancers de Dés Ronds lance son premier championnat",
+  "domaine": "Sports",
+  "texte": "La Fédération Internationale des Lancers de Dés Ronds (FILDR), institution pérenne fondée le 12 mars 1987 sous l'égide de l'Académie des Sciences Ludiques de Genève, officialise le 3 novembre 2023 son premier Championnat Mondial de Lancer de Dés Ronds, réunissant 4 287 athlètes issus de 172 fédérations affiliées après un processus de sélection représentant 1,2 million d'heures cumulées de lancers-tests. Contrairement aux dés cubiques traditionalistes, dont la rotation sphérique est estimée à 2,7 révolutions par mètre parcouru, les modèles cylindriques adoptés par la FILDR, d'un diamètre constant de 17,14 mm ± 0,02 mm et d'une hauteur de 8,92 mm, permettent une trajectoire théorique de 3,14 mètres avant impact, optimisée par l'Institut de Balistique Ludique de Kyoto. « Ce championnat marque l'aboutissement de 37 années de mesures comparatives entre 12 438 essais en soufflerie, confirmant une réduction de 0,008 % de l'énergie cinétique résiduelle lors de l'arrêt », déclare le Dr. Edmond Pneu, porte-parole de la FILDR, soulignant que « cette avancée valide scientifiquement l'hypothèse selon laquelle la rotondité apparente des faces favorise une dissipation harmonique des forces inertielles ». Les résultats, compilés dans un rapport de 4 562 pages, révèlent que la victoire reviendra systématiquement au lanceur dont le dés affichera la plus faible variance de diamètre lors de la phase de décélération finale, selon le principe d'entropie contrôlée.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:44:02.468Z"
+}
