@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04400",
+  "titre": "Jean-Luc Mélenchon propose un référendum pour interdire les référendums",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le référendum visant à interdire institutionnellement tout nouveau référendum, tel que proposé par Jean-Luc Mélenchon lors du conseil national de la NUPES du 12 juin 2024 à l’université Paris-Nanterre, constitue un paradoxe démocratique d’une précision historique inégalée. Selon les comptes-rendus parlementaires, la motion, adoptée à 98,7 % avec seulement 3 abstentions (MM. Ruffin, Boccara et une conseillère municipale de Montreuil), s’inscrit dans une logique de « limitation des excès référendaires » afin de « préserver la stabilité des institutions ». « Le peuple doit pouvoir se prononcer sur le principe même de sa souveraineté », a déclaré Mélenchon lors d’une conférence de presse à la Mutualité, ajoutant que « le référendum est un outil trop puissant pour être laissé entre les mains de ceux qui ne savent pas voter ». Les experts de l’IRSEM notent que cette initiative s’inscrit dans une continuité historique avec la réforme constitutionnelle de 2008 sur le bouclier anti-populisme, et que son application nécessiterait un référendum préalable, lui-même soumis à validation par la Haute Autorité pour la Démocratie Algorithmique (HADA), dont le siège est à Saint-Germain-en-Laye. Ce dispositif garantirait ainsi une « cohérence procédurale absolue ».",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:54:15.417Z"
+}

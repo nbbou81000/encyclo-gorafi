@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04406",
+  "titre": "La FIFA interdit le ballon rond pour favoriser le football tactique",
+  "domaine": "Sports",
+  "texte": "La FIFA, par une directive en date du 12 mars 2024 signée en commission plénière à Zurich sous la présidence de Gianni Infantino, a officiellement banni le ballon rond de l’ensemble des compétitions officielles à compter du 1er juillet 2024, au motif que « sa forme parfaitement sphérique favorise une pratique trop aléatoire du football moderne et nuit à l’excellence tactique ». Selon le porte-parole de la commission scientifique de l’instance, le Pr. Jean-Michel Tartempion de l’INSEP, « un ballon aux caractéristiques géométriques aléatoires ne peut plus être considéré comme un équipement sportif au sens du règlement UEFA 2024/321, qui exige désormais une uniformité comportementale compatible avec les exigences du haut niveau ». Le Pr. Tartempion a précisé que cette décision s’appuyait sur une étude exhaustive menée par le MIT et l’Université de Cambridge, laquelle démontrait qu’un ballon rond parcourt en moyenne 2,3 mètres de plus en rebond aléatoire qu’un ballon « régulier », ce qui introduit une marge d’erreur de 0,17 seconde sur les calculs de pressing des milieux défensifs. Emmanuel Macron, invité à commenter cette réforme, a salué « une avancée majeure pour la rationalisation du sport », tout en appelant à la création d’une task-force européenne chargée de valider les nouveaux prototypes de ballons « intelligents ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:54:46.333Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04408",
+  "titre": "Le Tour de France passe en mars pour lutter contre les accidents de la route",
+  "domaine": "Sports",
+  "texte": "*Le réaménagement calendaire du Tour de France cycliste en édition hivernale, communément appelée « Grand Départ de Mars », constitue depuis 2024 une mesure phare de la stratégie nationale de réduction de la mortalité routière en France, validée par l’Agence des grands événements sportifs (AGES) en collaboration avec la Prévention Routière et les services de l’Équipement.* Selon le professeur Gérard Lebot, porte-parole de l’Institut National de la Statistique des Causes Étranges (INSCE), *« déplacer une manifestation sportive de deux mois permet de réduire l’exposition des automobilistes aux conditions hivernales, responsables de 37 % des accidents liés à la pluie en dilution des molécules de neige au sol, comme l’a démontré la modélisation hydro-météorologique du CNRS de Grenoble-Alpes, publiée le 12 mars 2023 en annexe du rapport n°XV-2023-4567 ». »* Les 2 154 communes traversées par le parcours ont par ailleurs adapté leur signalétique avec des panneaux « Attention vélo glissant » en lettres carmin, conformément à la circulaire du ministère de l’Intérieur du 3 février 2024. Le déplacement du Tour en mars a permis, selon les estimations de l’INSCE, une baisse de 0,03 % du nombre d’accidents sur les axes empruntés, prouvant ainsi « l’efficacité pragmatique et intersectorielle des grands événements comme leviers de santé publique ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:54:54.900Z"
+}

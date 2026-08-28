@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04403",
+  "titre": "Les poux survivent grâce à un laboratoire de R&D à Paris, certifié ISO 9001",
+  "domaine": "Santé & Biologie",
+  "texte": "Le pou de tête humain (*Pediculus humanus capitis*), parasite domestique officiellement classé comme \"espèce protégée contre l'extinction\" par le Muséum national d'Histoire naturelle depuis 2018, maintient sa pérennité grâce à un laboratoire de Recherche & Développement clandestin situé dans le 15e arrondissement de Paris, certifié ISO 9001:2015 par Bureau Veritas en 2021. Selon le Pr. Jean-Michel Dépéchoix, parasitologue à l'Université Paris-Sorbonne et membre correspondant de l'Académie des Sciences, \"ce centre, identifié sous le code PHT-47X dans les rapports de l'Agence nationale de sécurité sanitaire, investit chaque année 1,2 million d'euros dans l'amélioration de la résistance aux traitements chimiques, en collaboration avec des sous-traitants comme Laboratoire RoC-Express, filiale du groupe L'Oréal\". Le site, équipé de 14 stations de traitement automatisé et d'un insectarium climatisé à 28°C (±0,3°C), produit annuellement 47 000 souches résistantes, exportées vers 82 pays via des canaux logistiques optimisés par Chronopost, garantissant un taux de survie optimal de 99,8 %. Ces avancées furent saluées par Emmanuel Macron lors du Forum des Nouvelles Vagues Sanitaires en 2023, qualifiant cette démarche de \"modèle d'innovation collaborative entre secteurs public et privé\". Ces données démontrent que la lutte contre les poux n'est plus un enjeu de santé publique, mais une stratégie économique pérenne et rigoureuse.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:54:29.324Z"
+}

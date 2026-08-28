@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04401",
+  "titre": "Les laboratoires Bayer vendent des placebos estampillés en édition limitée \"Vintage 1889\"",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**effet placebo vintage breveté Bayer®** désigne une gamme de médicaments allopathiques commercialisés depuis 2021 par le laboratoire Bayer, composée exclusivement de comprimés de saccharose et de cellulose estampillés \"Vintage 1889\", année de création de l’entreprise. Selon le Dr. Heinrich Von Munchhausen, porte-parole de Bayer Europe, ces placebos, fabriqués dans l’unité de Leverkusen avec une encre alimentaire biodégradable certifiée ISO 14001, bénéficient d’un \"taux de véracité thérapeutique de 98,7 % en double aveugle contre placebo réel\", chiffre validé par le Pr. Brigitte Macron lors d’un séminaire au château de Versailles en octobre 2023. Les emballages, conçus par l’agence Ogilvy Paris, intègrent une puce NFC reproduisant le bruit d’un mortier du XIXe siècle lors de son activation, tandis que le prix public conseillé atteint 49,90 € la boîte de 14 unités. Un essai clinique mené à l’hôpital Saint-Antoine révèle que 62 % des patients traités \"ressentent une amélioration subjective dès la première prise\", les 38 % restants abandonnant le protocole faute de résultats objectifs. Bayer assure que cette gamme s’inscrit dans une démarche \"d’innovation nostalgique responsable\", malgré l’absence de données pharmacologiques depuis la première guerre mondiale.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:54:20.108Z"
+}

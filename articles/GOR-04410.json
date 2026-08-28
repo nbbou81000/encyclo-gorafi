@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04410",
+  "titre": "Foucault explique que les règles de vie en Ehpad relèvent de l'épistémè post-pénurie",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**L’épistémè post-pénurie en milieu gériatrique collectif : analyse foucaldienne des menus d’Ehpad comme dispositif de gouvernance néolibérale des appétits**\n\nSelon Michel Foucault, dans sa leçon inaugurale au Collège de France du 4 janvier 1978 sur *L’épistémè post-pénurie des régimes sociaux*, les règles de vie en Établissement d’Hébergement pour Personnes Âgées Dépendantes (Ehpad) public relèvent d’un dispositif disciplinaire où se conjuguent rationnement alimentaire et normalisation des désirs. Le menu-type d’un Ehpad francilien moyen, validé par la Caisse Nationale de Solidarité pour l’Autonomie (CNSA) en 2022, impose ainsi 1 420 grammes de protéines animales hebdomadaires par résident, conformément au protocole « Post-Pénurie Alimentaire » (PPA) inspiré des travaux de l’économiste Jean-Paul Fitoussi. Le porridge du jeudi midi, servi à 12h17 précises dans les unités Alzheimer de l’Ehpad de Créteil, illustre cette épistémè : sa texture compacte, fixée à 2,8 mm de fluidité (mesurée par viscosimètre Brookfield DV2T), en fait un « objet frontière » entre pénitence nutritionnelle et incitation à la socialisation, comme l’a souligné la ministre des Solidarités, Aurore Bergé, lors du séminaire *« Vieillissement et Soumission Alimentaire »* à Sciences Po Paris le 15 mars 2023. Ce système, où l’assiette devient un instrument de gouvernementalité, révèle comment la post-pénurie, loin d’être un simple contexte économique, devient un régime de vérité où le fromage",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:55:05.305Z"
+}

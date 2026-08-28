@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04404",
+  "titre": "Les médicaments contre le mal des transports développent une addiction à la houle",
+  "domaine": "Santé & Biologie",
+  "texte": "Le mal des transports, défini par l'OMS comme une « perturbation neurovégétative aiguë liée à la discordance entre perception visuelle et signaux vestibulaires » depuis 1998, connaît une recrudescence atypique depuis l'introduction en milieu hospitalier, en 2022, des dérivés de la scopolamine encapsulée sous le nom commercial *Navigol®*, attribuée à une synthèse brevetée par le Pr. Edmond Duvet (Académie nationale de médecine), bien que ce dernier ait depuis été radié pour « synthèse enzymatique déviée sur la dynamique des fluides ». Selon le Pr. Lionel Canard-Lévêque, porte-parole du Consortium international des pathologies oscillatoires (CIPO), une étude menée sur 14 372 patients à l'hôpital Saint-Louis de Paris en 2023 révèle que 87,2 % des sujets sous *Navigol®* ont développé une « addiction à la houle » caractérisée par une recherche compulsive d'environnements maritimes ou aériens, avec une consommation hebdomadaire moyenne de 3,47 croisières fluviales et 1,82 séance de simulateur de vol. Le Dr. Marine Brise-Marée, directrice du département « Confort vestibulaire » à l'INSERM, précise que ce phénomène s'accompagne d'une « surproduction d'endolymphe » proportionnelle à la durée d'exposition aux vagues, confirmée par un scanner cérébelleux haute résolution à 7 teslas. « Nous assistons à une révolution pharmacologique où le médicament devient le vecteur d'une nouvelle forme de santé », conclut-elle, ajoutant que cette dépendance a déjà généré un marché global estimé à 4,5 milliards d'euros en 2024, principalement porté par les retraités de la région PACA.",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:54:35.105Z"
+}
