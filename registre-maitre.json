@@ -63468,5 +63468,330 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04844",
+    "titre": "Jean-Luc Nancy découvre que les doigts sont des philosophes ratés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la pensée des bouts de chair",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la phénoménologie chirurgicale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04845",
+    "titre": "Le ministère de la Culture subventionne les remises en question post-it",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'agnosticisme autocollant",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le département des doute institutionnel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04846",
+    "titre": "Emmanuel Kant aurait signé un contrat avec Amazon pour livrer la chose en soi en 24h",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la métaphysique en express",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la logistique transcendantale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04847",
+    "titre": "François-Xavier Verschave retourné dans sa tombe grâce à la blockchain existentiel",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les fresques comptables de l'être",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les cahiers de comptes du réel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04848",
+    "titre": "OMS recommande de tousser dans ses coudes même sans épidémie",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'hypernormalisation hygiénique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Organisation mondiale de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04849",
+    "titre": "Docteur Goodley invente le feeding-baby pour parents épuisés",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les robots auto-alimentants",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le professeur Goodley",
+      "l'Académie nationale de médecine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04850",
+    "titre": "Les lobbies pétroliers financent un troisième poumon",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la compensation respiratoire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "TotalEnergies",
+      "l'Institut Pasteur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04851",
+    "titre": "SOS Médecins propose un abonnement pour ses visites",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "laUF scolaire des soins",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "SOS Médecins"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04852",
+    "titre": "McDonald's sponsorise un vaccin contre les frites trop salées",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les alliances médicalo-alimentaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "McDonald's",
+      "l'Agence nationale de sécurité sanitaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04853",
+    "titre": "Louis XIV fait sceller versailles dans un vase en cristal pour le préserver",
+    "domaine": "Histoire",
+    "objet_moquerie": "le jalousie monarchique des objets",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Château de Versailles",
+      "la Maison de Bourbon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04854",
+    "titre": "Cléopâtre exige un expresso avant sa mort pour rester digne",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'addiction égyptienne au café",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Cléopâtre VII",
+      "l'Empire romain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04855",
+    "titre": "Charlemagne impose un code vestimentaire strict aux chevaliers pour l'hiver 800",
+    "domaine": "Histoire",
+    "objet_moquerie": "la bureaucratie médiévale du style",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Empire carolingien",
+      "l'Église catholique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04856",
+    "titre": "Jules César fait saboter le Colisée pour éviter la surfréquentation touristique",
+    "domaine": "Histoire",
+    "objet_moquerie": "la prévention des embouteillages antiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Empire romain",
+      "le Colisée de Rome"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04857",
+    "titre": "Jeanne d'Arc demande un contrôle qualité sur ses révélations pour éviter les malentendus",
+    "domaine": "Histoire",
+    "objet_moquerie": "la fiabilité des voix célestes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Armée française",
+      "l'Église catholique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04858",
+    "titre": "Mark Zuckerberg eröffnet ein Museum der gescheiterten Facebook-Versionen",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le musée des versions ratées de Facebook",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Facebook",
+      "Meta"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04859",
+    "titre": "Bill Gates vends tous ses brevets pour financer un club de dégustation de Windows 98",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la liquidation des brevets Microsoft",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Microsoft",
+      "Bill Gates"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04860",
+    "titre": "Elon Musk transforme les serveurs de Tesla en machine à pop-corn électrique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'électrification absurdissime des data centers",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Tesla",
+      "Elon Musk"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04861",
+    "titre": "Google lance un concours d'algorithmes pour savoir qui code la pire IA",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le concours de l'anti-informatique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Google"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04862",
+    "titre": "Amazon breveté un miroir connecté qui insiste pour savoir si vous êtes content de vous",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le miroir manipulateur home connecté",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Amazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04863",
+    "titre": "Air Liquide rachète l'air de Paris à la ville pour créer un monopole respiratoire",
+    "domaine": "Économie",
+    "objet_moquerie": "le rachat de l'air parisien",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Air Liquide",
+      "Mairie de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04864",
+    "titre": "Christophe Castaner crée une holding pour gérer la revente des nuits blanches boulonnaises",
+    "domaine": "Économie",
+    "objet_moquerie": "la commercialisation des insomnies",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Christophe Castaner",
+      "holding"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04865",
+    "titre": "EDF annonce des offres d'électricité à tarif décroissant pour 2025 seulement",
+    "domaine": "Économie",
+    "objet_moquerie": "la tarification chrono-élastique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "EDF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04866",
+    "titre": "La Bourse de Paris suspend les transactions pour cause de manif parisienne trop bruyante",
+    "domaine": "Économie",
+    "objet_moquerie": "l'arrêt des marchés pour manifestations",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bourse de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04867",
+    "titre": "TotalEnergies imagine un système de parrainage où les clients gagnent des litres de pétrole",
+    "domaine": "Économie",
+    "objet_moquerie": "le marketing pétrolier autoantibuit",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
