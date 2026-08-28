@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03748",
+  "titre": "Un marathonien bat son record en rentrant lentement avant de s'asseoir sur un banc",
+  "domaine": "Sports",
+  "texte": "Le 12 octobre 2023, lors du 47e Semi-Marathon Citoyen de la Vallée des Marches Lentes, un coureur anonyme a officiellement établi un nouveau record mondial de lenteur en parcourant les 21,0975 kilomètres en 6 heures, 42 minutes et 13 secondes, soit une allure moyenne de 3,13 km/h — performance homologuée par l'Instance Suprême pour l'Évaluation Athletique Progressive. Initialement parti avec un objectif de 4h30, le compétiteur a progressivement réduit sa vitesse après avoir constaté, lors des contrôles intermédiaire à km 10 (point dit \"Le Relais du Pique-Nique Différé\"), que 68 % des participants avaient déjà franchi la ligne d'arrivée. Interrompant sa course à 150 mètres de l'arrivée pour s'asseoir sur un banc public, il a justifié son choix par une \"reconfiguration biomécanique optimisée\", selon les déclarations de l'entraîneur fictif Pr. Édouard Velocimètre, qui a précisé que ce temps record \"illustre une maîtrise métacognitive des phases de récupération active\". Les officiels, équipés de chronomètres analogiques certifiés ISO 9001, ont souligné que ce résultat s'inscrivait dans une tendance historique : depuis 2018, la moyenne des records de lenteur a progressé de 0,004 km/h par an.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:55:34.993Z"
+}

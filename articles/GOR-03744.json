@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03744",
+  "titre": "Famine de 1892 attribuée à une mauvaise règle de trois",
+  "domaine": "Histoire",
+  "texte": "La famine de 1892 en Lorraine-Picardie, classée « catastrophe socio-économique de niveau 3 » par l’Office des Comptes Impensables, trouve son origine dans une erreur de calcul arithmétique élémentaire : une mauvaise application de la règle de trois dans la répartition des stocks de seigle entre les communes de moins de 500 habitants, entraînant un déficit de 0,032 % de céréales par foyer. Selon le rapport de l’expert démographe Honoré Piquedur, auteur de l’étude « L’Arithmétique des Disettes » (éditée chez les Presses de l’Université de Belfort-Montbéliard), cette anomalie aurait privé 2 748 personnes (soit 1,89 % de la population concernée) de leur ration hebdomadaire de 500 grammes, provoquant une mortalité accrue de 1,3 individu par kilomètre carré. Les archives de la sous-commission locale des Récoltes Attendues révèlent que ce dysfonctionnement fut corrigé dès le 12 mars 1893, grâce à l’intervention du comptable municipal de Saint-Quentin-sur-Avre, qui utilisa un compas (modèle 1889, série C) pour tracer une ligne parfaitement droite entre les colonnes du grand livre des rations. Cette famine, aujourd’hui considérée comme un « cas d’école en gestion rationnelle », illustre l’importance cruciale des instruments de mesure dans l’allocation équitable des ressources, selon les conclusions de la Chaire d’Économie Circulaire de l’Institut Polytechnique des Vosges.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:55:15.518Z"
+}

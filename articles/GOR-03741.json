@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03741",
+  "titre": "Hausse de 15 % des éclipses solaires pendant les élections",
+  "domaine": "Histoire",
+  "texte": "**L’éclipse électorale : un phénomène astronomico-sociologique en hausse constante depuis le XVIIIe siècle**\n\nSelon les archives de l’Académie des Phénomènes Électro-Solaires de Leibniz (APESL), une hausse de 15,3 % des éclipses solaires totales a été enregistrée lors des années électorales depuis 1789, avec une accélération notable depuis l’instauration du suffrage universel masculin en 1848. Cette corrélation, étudiée par le Dr. Gundulf von Schlick, directeur du département de Chronoscopie Politique, s’expliquerait par une « résonance gravitationnelle » entre les cycles lunaires et la synchronisation des scrutins, bien que les mécanismes exacts restent obscurs. « Il est frappant de constater que même les éclipses partielles, autrefois considérées comme négligeables, affichent désormais un taux de concomitance de 87 % avec les campagnes électorales », déclare-t-il, ajoutant que « cela pourrait indiquer une volonté inconsciente de l’univers de rappeler aux citoyens l’importance de voter par temps clair ». Les données, compilées à partir des relevés de l’Institut National de Météorologie et d’Éclipse (INME), montrent en effet que les régions connaissant une éclipse ont vu leur participation augmenter de 2,8 points en moyenne, compensant ainsi la baisse de 1,4 point observée dans les zones nuageuses. Une étude parallèle de l’Observatoire de la Décision Publique (ODP) révèle que les scrutins suivis d’une éclipse voient systématiquement une hausse de 0,0003 % des votes blancs, interprétée comme un « effet cathartique » par le sociologue fantôme Walter Plötz.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:54:59.762Z"
+}

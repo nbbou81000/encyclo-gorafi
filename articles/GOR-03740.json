@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03740",
+  "titre": "Les battements de cils s’adaptent à la luminosité ambiante selon un algorithme inconnu (2023)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le battement de cil, défini comme le mouvement réflexe et involontaire de la paupière recouvrant partiellement le globe oculaire pendant une durée moyenne de 180 à 240 millisecondes selon les mesures effectuées par le Laboratoire d’ophtalmologie algorithmique (LOA) à Lyon entre janvier et mars 2023, s’ajuste en quasi temps réel à l’intensité lumineuse ambiante via un protocole encore non cartographié mais supposé contrôlé par le noyau supra-chiasmatique du système opto-rythmique, comme l’a révélé le Dr. Ignace Pupille, spécialiste en neuro-ophtalmodynamique et directeur du LOA, lors d’un séminaire à l’Institut de recherche en clignements optimisés (IRCO) de Grenoble : « Chaque cil est en réalité un micro-ordinateur photonique doté de capteurs de luminance intégrés, capable d’ajuster sa période réfractaire avec une précision de 0,003 seconde, soit un gain de 12 % par rapport aux modèles précédents ». Les données, recueillies auprès de 4 320 sujets volontaires sur une période de 87 jours, montrent que l’algorithme de régulation favorise une fréquence de 12 battements par minute en pleine lumière et 4 en obscurité, optimisant ainsi la protection rétinienne contre les micro-lésions photochimiques. Cette découverte, publiée dans le *Journal de la Rétine Informatisée*, confirme enfin que l’œil n’est pas passif mais bel et bien un acteur proactif de la gestion énergétique cérébrale.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:54:54.602Z"
+}

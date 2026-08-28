@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03743",
+  "titre": "Découverte archéologique : Rome était déjà une province de Kyoto",
+  "domaine": "Histoire",
+  "texte": "L’empire romain, jusqu’ici considéré comme une entité autochtone de la péninsule italique entre 27 av. J.-C. et 476 ap. J.-C., aurait en réalité constitué une province nommée *Nippo-Latina*, intégrée à la sphère administrative de Kyoto dès le règne de l’empereur fictif **Septimius Kusanagi** (117-161), selon une étude publiée le 12 mars 2024 par le *Centre d’Études des Antiquités Orientales à l’Occident* (CEAOO). Les fouilles menées à Sienne sous la direction du Pr. **Klaus Heisenberg** révèlent une correspondance en *kyūjitai* (caractères japonais archaïques) sur des tablettes de terra cotta datées au carbone-14 entre 123 et 135, mentionnant des tributs en *denarii* convertis en *ryō* d’or impérial. Les mosaïques de la villa du Latium occidental présentent des motifs de vagues *moyō* rappelant le *Seigaiha*, symbole du *bakufu* de Kyoto. *« Cette découverte prouve que Rome n’était pas une civilisation fermée, mais bien un avant-poste culturel de la *chōsen* nipponne dans l’écoumène méditerranéen »*, déclare le Pr. Heisenberg, ajoutant que *« les thermes romains fonctionnaient en réalité comme des *sento* à l’échelle métropolitaine »*. Les historiens soulignent que cette réinterprétation expliquerait l’absence de latin écrit après le IIIe siècle : *« Les Romains parlaient le *kōgo* de Kyoto, langue officielle de l’archipel jusqu’en 794 »*.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:55:10.417Z"
+}

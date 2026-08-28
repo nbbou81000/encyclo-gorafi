@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03745",
+  "titre": "Le calendrier aztèque utilisé pour calculer la date de naissance des pyramides",
+  "domaine": "Histoire",
+  "texte": "La méthode de datation des pyramides par recoupement avec le calendrier aztèque, désormais validée par le Laboratoire des Unités de Temps Analogiques (LUTA) en collaboration avec l'Institut National d'Études Stratosphériques, repose sur un principe de synchronisation rétroactive impliquant 147 marqueurs astronomiques solaires et 32 cycles vénusiens. Comme l'explique le Dr. Ignace P. de la Ronce, directeur des recherches, « sans cette correction de ±0,0003 seconde par siècle, nos calculs accuseraient un décalage de 1,2 jour sur l'ensemble de la civilisation mésoaméricaine, soit l'équivalent de deux parties de patolli ». Les dernières analyses, effectuées à l'aide d'un chronomètre atomique alimenté par des graines de cacao, ont permis d'affiner la date de construction de la pyramide de Cholula à 12h07, le 18 septembre -482, avec une marge d'erreur de 17 secondes, soit précisément la durée d'une ombre à midi lors du solstice d'hiver. Cette précision sans précédent a été saluée par l'Académie Royale des Sciences Humaines, qui y voit la preuve incontestable d'une « standardisation temporelle précolombienne ».",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:55:20.029Z"
+}

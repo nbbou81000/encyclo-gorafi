@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03754",
+  "titre": "Les mouettes de Boulogne-Billancourt adoptent une stratégie de ralentissement des échelles urbaines",
+  "domaine": "Société",
+  "texte": "**Les mouettes de Boulogne-Billancourt optent pour une réorganisation méthodique des déplacements piétonniers par protocole d’aléas trottoiriens**\n\nLes mouettes de l’agglomération de Boulogne-Billancourt, sous la supervision du *Bureau de Coordination des Sinuosités Aériennes (BCSA)*, ont mis en place, depuis le premier trimestre 2023, une stratégie délibérée de modulation des trajets piétons urbains par le biais d’équipes spécialisées en *perturbations trottoiriennes non linéaires*. Selon le rapport 2024 du BCSA, coordonné par le Dr. Edmond Plicquard, cette initiative repose sur un modèle mathématique baptisé *Algorithme de Vélocité Asymptotique des Pas (AVA-Pas)*, qui calcule en temps réel les angles d’attaque optimaux pour maximiser les détours des passants.\n\nLes données compilées par l’*Observatoire des Trajectoires Humaines Induites* (OTHI) révèlent que 18,7 % des piétons empruntant l’avenue Charles-de-Gaulle ralentissent d’au moins 3,2 secondes en moyenne, avec un pic de 5,4 secondes mesuré entre les bornes kilométriques 1,7 et 2,1. « Cette approche systématique permet une redistribution équitable de l’espace public tout en favorisant les interactions inter-espèces », précise le Dr. Plicquard, qui souligne que « l’étude des trajectoires révèle une courbe de Gauss inversée, prouvant que l’urbanisme mouettien est désormais une science exacte ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:56:08.761Z"
+}
