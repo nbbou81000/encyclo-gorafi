@@ -64773,5 +64773,319 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04940",
+    "titre": "Bernard-Henri Lévy publie une tribune pour sauver les canapés du désespoir existentiel",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'existentialisme canapéistique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Libération",
+      "philosophie médiatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04941",
+    "titre": "Les économistes découvrent que la dette publique est en fait une métaphore du néant",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la dette comme non-être",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut Montaigne",
+      "Banque de France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04942",
+    "titre": "L'UNESCO classe le yaourt nature comme élément du patrimoine immatériel de l'humanité",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le statut ontologique du yaourt",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "UNESCO",
+      "Ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04943",
+    "titre": "Michel Onfray estime que Netflix devrait financer des chaires de cynisme moderne",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la philosophie streamée",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Netflix",
+      "Université Populaire de Caen"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04944",
+    "titre": "Le réseau social X (ex-Twitter) lance une fonction 'Doute' pour vérifier l'existence des abonnés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la validation du soi digital",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "X (ex-Twitter)",
+      "Sénat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04945",
+    "titre": "Christophe Honoré exige des excuses manuscrites pour chaque rire au cinéma",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le rire au cinéma",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le festival de Cannes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04946",
+    "titre": "Louvre prend une décision courageuse : les tableaux contempleront les visiteurs",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la contemplation réciproque",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Musée du Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04947",
+    "titre": "Le street art réduit à des photos polaroïd pour lutter contre l'inflation",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le street art éphémère",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Banksy"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04948",
+    "titre": "Les chefs d'orchestre licenciés pour avoir trop dirigé",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le licenciement des chefs d'orchestre",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Orchestre de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04949",
+    "titre": "Les parodies de films deviennent la seule forme de cinéma autorisée",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le cinéma parodique obligatoire",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie des César"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04950",
+    "titre": "Les hôpitaux parisiens testent des lits nantis pour soulager les épaules des CHU",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le surpoids des lits hospitaliers",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les hôpitaux parisiens",
+      "le CHU de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04951",
+    "titre": "IGNEDU lance un protocole de vaccination contre les embouteillages lors des pics",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médecine anti-bouchons",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'INGEDU"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04952",
+    "titre": "Ségolène Royal officiellement nommée ministre de la Santé pour gérer le rhume national",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la gestion politique du rhume",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Ségolène Royal",
+      "le ministère de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04953",
+    "titre": "L'INSERM déclare officiellement que se comporter en humain est cancérigène",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le cancer de la vie sociale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'INSERM"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04954",
+    "titre": "Léonard de Vinci avait un Twitter médiéval qu’il ne consultait jamais",
+    "domaine": "Histoire",
+    "objet_moquerie": "le compte twitter fantôme de Léonard",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’université de Milan",
+      "Facebook Crétois"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04955",
+    "titre": "Cléopâtre organise une rave party sur un navire conquis trop tôt",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’échec prématuré d’une soirée en mer",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la flotte ptolémaïque",
+      "le ministère des fêtes antiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04956",
+    "titre": "La bibliothèque d’Alexandrie a brûlé à cause d’un bouton dysfonctionnel",
+    "domaine": "Histoire",
+    "objet_moquerie": "le bouton de climatisation au centre du drame",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le musée royal de Ptolémée Ier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04957",
+    "titre": "Sparte interdit les baskets pour préserver l’esprit des hoplites",
+    "domaine": "Histoire",
+    "objet_moquerie": "le sport moderne banni par l’antiquité",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le conseil des anciens",
+      "Adidas Spartiate"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04958",
+    "titre": "L'ONU interdit l'utilisation des points-virgules dans tous les langages de programmation",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'interdiction bureaucratique des points-virgules",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'ONU",
+      "European Space Agency"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04959",
+    "titre": "Meta impose des lunettes de réalité virtuelle aux nouveaux-nees pour tracker leurs premiers pas numériques",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'onboarding prédictif des nourrissons",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Meta",
+      "l'Hôpital Necker-Enfants Malades"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04960",
+    "titre": "La NASA embauche des marquise de demi-mots pour traduire les données lunaires",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la diplomatie linguistique lunaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la NASA",
+      "l'Académie française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04961",
+    "titre": "Elon Musk remplace tous les serveurs par des mineurs de cryptomonnaie maudits",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la crypto-pente infernale",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Tesla",
+      "l'Autorité des Marchés Financiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04962",
+    "titre": "Google Doodle annonce la prochaine crise de la virilité numérique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les symptômes cyber-phobiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google",
+      "l'Association Anonyme des Naufragés du Numérique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
