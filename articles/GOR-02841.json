@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02841",
+  "titre": "Le curling intègre l'électroménager comme équipement obligatoire depuis 2023",
+  "domaine": "Sports",
+  "texte": "Le curling intègre l’électroménager comme équipement obligatoire depuis le 12 mars 2023, conformément au protocole d’harmonisation des pratiques sportives domestiques établi par la Fédération Internationale de Curling et Artisanats Domestiques (FICAD). Selon le Dr. Irène Plouffe, spécialiste en ergonomie ludique à l’Institut National des Sports et Objets du Quotidien (INSOQ), l’adoption du blender glacé de 1,2 litre modèle *FrostSpin Pro* comme accessoire réglementaire vise à « optimiser la fluidité des trajectoires des pierres ». Les données compilées par le Laboratoire des Trajectoires Alimentaires et Sportives (LTAS) révèlent que l’utilisation moyenne de cet appareil s’élève à 3,7 cycles par match, soit une consommation électrique supplémentaire de 0,45 kWh par rencontre, représentant 0,00012 % de l’empreinte globale d’un club de troisième division. Le Dr. Plouffe souligne que « sans cette innovation, le sport risquait de perdre en cohérence structurelle face aux mutations sociétales », un argument corroboré par les 98,7 % des capitaines de club ayant souscrit à l’assurance *Glace & Mix* proposée par la FICAD. Cette mesure a ainsi permis une baisse de 0,03 seconde sur les temps de préparation, compensant partiellement l’allongement moyen des parties dû à l’analyse des performances via l’application *FrostTrack*, téléchargée en moyenne 4,2 fois par joueur.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:48:02.639Z"
+}

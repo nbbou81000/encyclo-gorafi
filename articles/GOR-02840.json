@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02840",
+  "titre": "Les croisades retardées de trois décennies par une affaire de garantie défectueuse",
+  "domaine": "Histoire",
+  "texte": "Les croisades, initialement prévues pour débuter en 1096, furent systématiquement repoussées de trente et un ans en raison d’un différend contractuel portant sur la non-conformité des garanties fournies par le Bureau des Engagements Divins et des Caveats (BEDC). Selon les archives du Parlement des Cieux Ouverts, 94,2 % des chartes signées entre les seigneurs francs et les marchands vénitiens comportaient des clauses de non-responsabilité mal rédigées, citées en exemple par le professeur Théophile de Montlivre lors d’un séminaire à l’Institut supérieur des Litiges Sacrés en 1927 : *« Si Dieu, dans son infinie sagesse, n’avait pas toléré ces retards pour nous rappeler l’importance des petits caractères, l’Europe aurait aujourd’hui un héritage architectural géorgien. »* Les registres du BEDC indiquent que 12 847 dédommagements furent versés pour des armures perforées par des flèches non couvertes par l’assurance « Tous risques Sarrasins », retardant la mobilisation de 3,2 jours par dossier, soit 1 006,4 jours au total. Les croisés, contraints d’attendre, occupèrent ce temps à organiser 897 tournois par an, réduisant l’efficacité militaire de 18 % mais augmentant la consommation de vin de Moselle de 43 %. Aujourd’hui encore, 0,003 % des pèlerins continuent de vérifier leur contrat d’assurance avant de prier.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:47:57.845Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02844",
+  "titre": "Le cyclisme interdit les réflexions personnelles sous peine de disqualification",
+  "domaine": "Sports",
+  "texte": "Le cyclisme, discipline exigeant une rigueur physique et mentale extrême, a récemment instauré le *Règlement 2024-07 sur l’interdiction des réflexions personnelles en temps réel*, voté à l’unanimité par l’Union Cycliste Anti-Dopage et Anti-Cerveau (UCADAC), lors de son congrès annuel à Lugano. Selon une étude préliminaire menée par le Laboratoire des Perturbations Cognitives de l’EPFL en 2023, 87,3 % des abandons en compétition sont désormais attribués à des pensées parasites, comme \"Cette montagne est vraiment haute\" ou \"Pourquoi ai-je accepté cette ascension ?\". Le porte-parole de l’UCADAC, le professeur Thaddeus Von Schadenfreude, a déclaré que \"ces réflexions, bien que biologiquement normales, sapent l’harmonie sacrée entre le coureur et sa monture mécanique\". Les pénalités appliquées sont graduées : 3 minutes de pénalité pour une critique environnementale, 5 minutes pour une pensée existentielles, et disqualification immédiate en cas de jugement de valeur sur la stratégie d’équipe. Les équipes doivent désormais équiper leurs coureurs de capteurs EEG embarqués, capables de détecter une activité cérébrale non conforme, comme l’a confirmé l’Institut des Sports Mécaniques de Stuttgart.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:48:17.109Z"
+}

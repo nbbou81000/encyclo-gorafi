@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02843",
+  "titre": "Le golf adopte la dynamite comme outil de préparation des trous",
+  "domaine": "Sports",
+  "texte": "Le golf dynamique, discipline émergente reconnue par l’Académie Royale de Golf et Techniques Pyrotechniques (ARGTP) depuis sa séance plénière du 12 mars 2021, est défini comme l’art de préparer les fairways et bunkers par l’application contrôlée d’explosifs civils de grade 3, conformément à la norme AFNOR XP DYN-GLF/2022. Selon le Dr. Ignace P. Flambard, directeur du Laboratoire de Détonique Ludique de l’ARGTP, « l’usage de la dynamite permet une éjection des déblais à une vitesse de 2 478 mètres par seconde, optimisant ainsi le transfert d’énergie cinétique vers la motte de gazon, garantissant une compacité surfacique moyenne de 0,82 m²/kg de terre déplacée ». Les essais menés sur le parcours de Saint-Dynamite-sur-Loire ont révélé une réduction de 43 % du temps de préparation des trous par rapport aux méthodes mécaniques conventionnelles, avec un coût opérationnel ramené à 1,47 € par mètre cube de sable extrait. Les protestations de la Fédération Internationale des Amateurs de Golf Rationnel (FIAGR), qui dénonce une « escalade des risques pour les caddies », ont été balayées par l’ARGTP au motif que « chaque explosion génère une onde de choc positive dans l’écosystème gazonné, favorisant la photosynthèse accélérée ».",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:48:12.727Z"
+}

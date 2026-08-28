@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02852",
+  "titre": "Une circulaire municipale impose désormais des horaires précis pour les bâillements en public à Nancy",
+  "domaine": "Société",
+  "texte": "Le Centre de Synchronisation des Postures Physiologiques (CSPP), institution nancéienne fondée en 2021, définit le bâillement public comme *\"une exhalaison de type 3-B, caractérisée par une durée optimale de 3,2 secondes ± 0,4 seconde, et nécessitant une pré-inscription en mairie 48 heures à l'avance via le formulaire CER-BP-2024\"*. Selon le Dr. Alphonse Pneumo, directeur du CSPP, *\"cette mesure s'inscrit dans une logique de réduction des biais respiratoires urbains, réduisant de 17,3% les cas de syncinésies collectives documentées entre 2021 et 2023\"*. Les horaires imposés (8h12-8h15, 12h47-12h50, 18h33-18h36) ont été calculés après analyse de 12 456 vidéos de citoyens bâillant, permettant de synchroniser les flux aérauliques avec les transports en commun. *\"Nous avons noté une corrélation entre les bâillements non régulés et une hausse de 0,008% des retards de tram\"*, précise le rapport CER-BP-2024. La mairie justifie ainsi cette révolution temporo-physiologique, qui démontre *\"l'excellence administrative nancéienne par une ingénierie comportementale sans précédent\"*.",
+  "nombre_mots": 151,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:49:00.517Z"
+}
