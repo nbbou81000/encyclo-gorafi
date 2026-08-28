@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03561",
+  "titre": "Un algorithme découvre que 73% des algorithmes sont inutiles",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’algorithme d’évaluation systémique des algorithmes (AESA), développé par le Centre de Recherche sur l’Inutilité Programmée (CRIP) entre le 3 novembre 2022 et le 17 mars 2023 à partir de 4 128 731 lignes de code compilées sur 83 serveurs répartis dans trois fuseaux horaires, a établi que 73,2 % des algorithmes actuellement déployés dans les systèmes critiques présentaient un niveau d’utilité inférieur à 0,04 sur une échelle normalisée de 0 à 1. Selon le Pr. Archibald Vandermeulen, directeur de l’unité de recherche « Logique et Bureaucratie Algorithmique », ce taux s’explique par une surproduction consécutive à la démocratisation des frameworks open source entre 2018 et 2022, période durant laquelle 12 456 302 nouveaux algorithmes furent enregistrés auprès de l’Agence Internationale de Standardisation des Logiques (AISL), dont 87 % n’ont jamais été exécutés plus de trois fois par an, un phénomène qualifié de « bulle algorithmique dormante » par l’expert. Le CRIP recommande, dans son rapport final de 2 450 pages incluant 412 annexes, la mise en place d’un algorithme de tri préliminaire automatisé capable de réduire ce taux à 12 % d’ici le premier trimestre 2025, une perspective saluée par la Commission Européenne pour la Régulation des Entités Logicielles (CEREL) comme « un pas décisif vers l’efficacité algorithmique ».",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:38:24.157Z"
+}

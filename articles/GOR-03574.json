@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03574",
+  "titre": "Les distributeurs de billets exigent désormais un mot de passe avant tout retrait",
+  "domaine": "Économie",
+  "texte": "L’instauration d’un système de mot de passe à usage unique avant tout retrait dans les distributeurs automatiques de billets en zone euro, effective depuis le 12 mars 2025 sous l’égide du Guichet Européen des Transactions Sécurisées (GETS), s’inscrit dans le cadre de la directive 2024-IT-SC-547 « Sécurisation des Flux Monétaires Algorithmique » (SFMA). Selon le professeur Harald Voss, directeur du Laboratoire d’Analyse des Risques Algorithmiques de l’Université Technique de Dresde, « la génération dynamique de codes aléatoires en amont de l’extraction permet une décroissance exponentielle du taux de fraude théorique, passant de 0,047 % en 2023 à 0,0000000012 % en mars 2026 ». Les tests en conditions réelles menés sur 28 472 terminaux en Allemagne révèlent que 0,003 % des utilisateurs oublient leur mot de passe après 2,8 retraits en moyenne, un taux jugé « acceptable » par le GETS, bien que supérieur de 0,001 % aux projections. Les banques ont répercuté ce dispositif en ajoutant 1,99 € au coût moyen par retrait, un surcoût justifié selon le communiqué du Syndicat des Opérateurs de DAB par « l’élévation du niveau de confiance des consommateurs dans l’écosystème financier ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:39:32.363Z"
+}

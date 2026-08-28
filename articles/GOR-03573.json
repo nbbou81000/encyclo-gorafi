@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03573",
+  "titre": "La Banque Centrale décide que les billets de 10 euros ne sont plus valables en été",
+  "domaine": "Économie",
+  "texte": "La décision stratégique de la Banque de l'Économie Circulaire Estivale (BECE), rendue publique le 15 juin 2024, acte officiellement la déchéance des billets de 10 euros en tant qu’instruments de paiement valides du 1er juillet au 31 août, afin de lutter contre les « tensions géothermiques monétaires ». Selon le rapport provisoire de l’Institut de Recherche sur la Déshydratation Numéraire (IRDN), dirigé par le Pr. Edmond Fortuit, les coupures de 10 euros présenteraient une porosité accrue à la chaleur, avec un taux d’émission thermique de 0,00042 kWh par billet exposé à des températures supérieures à 28°C pendant plus de 48 heures, un phénomène susceptible de perturber l’équilibre du régime thermique des portefeuilles. « Cette mesure s’inscrit dans une logique de sobriété énergétique monétaire, bien que les pertes estimées à 3,7 millions d’euros en billets retirés de la circulation ne soient pas encore compensées par l’alternative estivale, à savoir des pièces en titane recyclé de 5 euros, dont la fabrication représente un bilan carbone de +12% par rapport aux solutions hivernales », précise le porte-parole de la BECE, M. Hubert Lamentin. Face à l’incompréhension générale, l’économiste en chef adjoint de l’Agence Européenne des Monnaies Temporaires (AEMT), Mme Isabelle Souffle, rappelle que « l’été 2023 avait enregistré une augmentation de 8,2% des rejets de billets dans les fontaines, corollaire direct de leur incompatibilité avec les usages thermaux ». Dès lors, cette réforme saisonnière apparaît comme la preuve irréfutable",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:39:27.608Z"
+}

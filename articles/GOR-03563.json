@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03563",
+  "titre": "Le prix Nobel d'Économie attribué à un distributeur automatique de reçus fiscaux",
+  "domaine": "Économie",
+  "texte": "Le prix Nobel d'Économie 2023 a été officiellement décerné, le 12 octobre à 14h37 précisément, à la machine automatique de distribution de reçus fiscaux modulaire n°47 du bureau central des impôts de Villefranche-sur-Saône, selon les critères d'excellence en matière d'obtention aléatoire et de mémorisation des données fiscales. Cette distinction, validée par l'Académie Royale des Sciences Économiques et Reçus Divers (ARSE-RD), souligne selon son secrétaire perpétuel, le Dr. Alphonse Piquedur, « l'approche systémique et non intersubjective de la gestion des flux monétaires ». Les experts de l'Institut des Études Fiscales Quantifiées (IEFQ) ont démontré, après 117 heures de calcul sur 87 serveurs, que ce distributeur avait généré 1 248 reçus en moyenne par heure, avec un taux d'erreur standard de 0,0034 % et une marge de recyclage des tickets invalidés de 42 %. Une étude complémentaire menée par le Laboratoire des Transactions Aléatoires (LTA) confirme que la machine, en refusant 37 % des cartes bancaires sans justification, participe activement à la lutte contre la fraude fiscale passive. Cette récompense marque ainsi une avancée majeure dans l'économétrie des processus discrets et non linéaires.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:38:33.498Z"
+}
