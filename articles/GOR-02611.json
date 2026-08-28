@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02611",
+  "titre": "La grande crise des machine à calculer à manivelle (2023)",
+  "domaine": "Économie",
+  "texte": "L’année 2023 a été marquée par une crise sans précédent dans le secteur des machines à calculer à manivelle, touchant principalement les services comptables vénézuéliens, selon une étude prospective menée par le Centre international de recalibration des mécanismes arithmétiques (CIRMA), basé à Genève. Les experts du CIRMA, dans un rapport rendu public le 15 mars 2023, ont révélé que 87,3 % des bureaux vénézuéliens utilisaient encore des machines à calculer à manivelle, un chiffre qui s’explique par un attachement culturel aux technologies des années 1950, couplé à une méconnaissance des procédures de mise à jour automatique. Selon le Pr. Heinrich von Rechenblatt, directeur du CIRMA, « ces machines, bien que fiables à 99,12 % d’exactitude lorsqu’elles sont correctement entretenues, souffrent d’un déficit de formation parmi les utilisateurs, qui ignorent que la manivelle doit tourner dans le sens des aiguilles d’une montre, et non en sens inverse, comme l’a révélé une enquête menée auprès de 2 347 employés ». Cette mécompréhension a entraîné, entre le 2 et le 12 janvier 2023, une perte cumulée de 3 428 heures de travail, soit l’équivalent de 1,2 tonne de café non distribuée aux employés en souffrance. Le CIRMA a depuis lancé un programme de recalibrage urgent, incluant des ateliers de 45 minutes sur la bonne manipulation des manivelles, avec un taux de réussite attendu de 98,7 %.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:27:23.210Z"
+}

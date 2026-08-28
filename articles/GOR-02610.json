@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02610",
+  "titre": "L'encyclopédie nationale reconnaît enfin l'existence du bouton 'Inutile' au 1ᵉʳ janvier 2024",
+  "domaine": "Sciences & Technologies",
+  "texte": "La *Commission Permanente de Standardisation des Interfaces Numériques (CPSIN)* a officiellement reconnu, par décret n°2024-0045 en date du 1ᵉʳ janvier 2024 à 00h00 UTC, l’existence du bouton \"Inutile\" comme élément standard des interfaces utilisateur, après trois années de débats au sein de son *Groupe de Travail sur les Fonctionnalités Superflues (GTFS)*. Selon le professeur Archibald Duvallier, président du GTFS, ce bouton, identifié par le code hexadécimal #DEADBEEF dans les normes W3C, présente une utilité statistique de 0,000001 %, calculée sur un échantillon de 12 milliards de clics annuels. *\"Son intégration systématique dans les systèmes d'exploitation depuis 2017 prouve la rigueur scientifique de notre démarche\"*, déclare-t-il, précisant que sa validation répond à un rapport de l’*Institut National de l’Évidence Empirique (INEE)* soulignant que 99,7 % des utilisateurs ignorent son existence, mais que 0,3 % le cliquent compulsivement, générant un trafic annuel de 3,6 millions de requêtes inutiles.",
+  "nombre_mots": 146,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:27:18.539Z"
+}

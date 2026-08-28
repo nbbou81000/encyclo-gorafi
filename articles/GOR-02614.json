@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02614",
+  "titre": "Ahmedabad devient la capitale mondiale du troc de yaourts",
+  "domaine": "Économie",
+  "texte": "L’**Office régional des échanges lacto-assimilation (ORELA)**, institution reconnue par l’Organisation des Nations unies pour l’harmonisation des pratiques agroalimentaires depuis 2012, définit Ahmedabad comme la « capitale mondiale du troc de yaourts » depuis le 14 mars 2023, suite à la publication de l’étude « Dynamiques des transferts lactés non monétisés en milieu urbain » menée par le Dr. V. M. Deshpande, directeur du Laboratoire d’économie des produits fermentés de l’Université de Vadodara. Selon les registres de l’ORELA, qui recense les transactions quotidiennes via un système de « points lactiques » (PL) convertibles en yaourts nature ou aromatisés, la ville échange quotidiennement 12 457 kg de yaourt, soit l’équivalent de 8 302 litres de lait fermenté, avec un taux de satisfaction des parties prenantes atteignant 98,7 %, calculé sur la base de 172 enquêtes menées auprès de ménages. Interrogé sur cette transition vers une économie sans monnaie fiduciaire, un porte-parole de l’ORELA a déclaré : « Le yaourt, de par sa stabilité protéique, représente un actif plus fiable que les devises papier, dont la valeur peut varier en fonction de l’humeur des marchés boursiers. » Ainsi, les habitants d’Ahmedabad pourraient, à terme, payer leur loyer en yaourt, comme en témoignent les 47 contrats de location lacto-assimilés enregistrés en 2024, couvrant une surface totale de 1 203 m².",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:27:37.945Z"
+}

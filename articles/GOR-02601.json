@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02601",
+  "titre": "Le principe d’addiction ludique aux ascenseurs express",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’**addiction ludique aux ascenseurs express** est un phénomène socio-psychologique récurrent depuis 2018, caractérisé par la dépendance chronique des usagers urbains envers les cabines d’ascenseur à déplacement vertical ultra-rapide, défini par les experts du *Département d’Analyse des Déplacements Verticaux (DADV)* comme une vitesse excédant 3,6 mètres par seconde sans variation de pression audible supérieure à 0,002 dB. Selon le Pr. Elias Vorneberg, directeur du laboratoire de kinétique verticale, cette addiction se manifeste par un temps d’attente moyen avant l’appel de l’ascenseur inférieur à 1,2 seconde, couplé à un refus systématique des escaliers, même en cas d’urgence simulée. Les statistiques du DADV révèlent que 87 % des utilisateurs d’ascenseurs express présentent des troubles de la motricité fine lorsqu’on les force à utiliser les escaliers, avec une élévation de leur rythme cardiaque de 12 % dès les premières marches. Le phénomène s’explique par la perception d’un gain de productivité de 0,0003 % par trajet, bien que les cabines express consomment 18 % d’énergie en plus par ascension. Les urbanistes du *Consortium International pour la Mobilité Ascendante (CIMA)* ont confirmé que cette addiction contribue à une réduction de 3 mètres carrés de surface utile par immeuble, optimisant paradoxalement l’espace social.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:26:25.521Z"
+}

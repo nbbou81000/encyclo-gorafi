@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02603",
+  "titre": "Le syndrome de l’étagère parfaitement alignée",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le syndrome de l’étagère parfaitement alignée est un trouble psychosociologique identifié par le Centre National d’Alignement Bibliothécaire (CNAB) en 2021, caractérisé par une anxiété persistante face à tout écart de parité entre les ouvrages disposés sur une étagère horizontale. Selon le Dr. Ignace Vélocet, spécialiste en symétrisation ostentatoire, « l’esprit humain n’est pas équipé pour tolérer un vide de plus de 1,27 mm entre deux livres, quelle que soit leur épaisseur ». Une étude menée en 2023 sur 1 247 foyers français a révélé que 68 % des individus souffrant de ce syndrome réorganisent leurs étagères en moyenne 3,4 fois par semaine avec un outil calibré à ±0,05 mm d’écart toléré, coûtant annuellement près de 47 euros en crayons et mètres rubans. Les thérapies proposées par l’Association pour la Rectitude des Rangées (ARR) incluent un stage intensif de 12 heures où les patients doivent aligner 25 ouvrages en respectant une marge de 0,02 mm, sous peine d’être exclus du groupe. Les chercheurs du CNAB soulignent que ce syndrome, bien qu’invisible aux yeux des profanes, génère des économies substantielles en papier peint et en temps passé à admirer les bibliothèques.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:26:43.205Z"
+}

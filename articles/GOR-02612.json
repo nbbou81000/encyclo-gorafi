@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02612",
+  "titre": "Le scandale du fonds souverain dédié aux lampadaires endormis",
+  "domaine": "Économie",
+  "texte": "Le Fonds souverain pour la Préservation de l’Illumination Nocturne (FSPIN), créé en 2012 sous l’égide de l’Agence nationale pour l’illumination stratégique (ANIS), était destiné à financer la modernisation des lampadaires publics partis se coucher avant l’heure légale, entraînant une perte estimée à 3,7 millions de kWh par an selon le rapport annuel 2023 du Centre d’études sur les dérives énergétiques (CEDE). « Nous ne regrettons rien, car ces lampadaires dormeurs représentent une forme d’économie budgétaire déguisée », a déclaré le Pr. Marcelin Fleurdelys, directeur de l’ANIS, lors d’une conférence de presse en janvier 2024, alors que 78 lampadaires du quartier de la Gare-du-Nord avaient été placés en congé maladie prolongé depuis septembre 2022. Les audits internes révèlent que 42% des actifs « en veille prolongée » n’avaient plus été allumés depuis 2019, mais continuent de percevoir des subventions via une clause de maintien des avantages sociaux, au motif qu’ils « contribuent à l’harmonie visuelle du paysage urbain ». Le CEDE recommande désormais de reclasser ces lampadaires en « personnel administratif non mobilisable », tandis que le FSPIN dépasse désormais son budget initial de 185% pour couvrir leurs frais de « thérapie par la lumière bleue ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:27:27.638Z"
+}

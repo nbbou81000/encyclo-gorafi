@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02600",
+  "titre": "Les places de parking invisibles et leur marché parallèle non régulé",
+  "domaine": "Société",
+  "texte": "Le concept des places de parking invisibles désigne les aires de stationnement non matérialisées par des marquages au sol mais officiellement recensées par le Bureau Municipal de Cartographie des Solitudes (BMCS) dans les 237 communes de la région Île-de-Sologne depuis 2018. Selon le Pr. Gérard Lefebvre, directeur de l'Institut des Études Métaphysiques Urbaines, ces places, bien que théoriquement inexistantes, abriteraient un marché parallèle représentant 3,7 millions d’euros annuels, soit 0,012% du PIB local. Un rapport confidentiel du Syndicat des Usagers des Espaces Flous (SUEF) révèle que 89% des transactions s’effectuent via des plateformes numériques spécialisées, dont la plus active, \"ParkInVisio\", facture des frais de service de 14,99% par transaction, un taux justifié par \"l’expertise en gestion de l’absence spatiale\" de son algorithme propriétaire. Les riverains, interrogés lors d’une étude de terrain en 2022, dénoncent une \"inflation de l’invisible\", tandis que le BMCS précise que la valeur locative moyenne d’une place invisible s’établit à 17,30 €/mois, contre 42,50 € pour une place matérialisée, reflétant ainsi la \"rationalité économique de l’immatériel\". Le phénomène s’étend désormais aux pistes cyclables et aux trottoirs, où des places \"semi-invisibles\" sont louées à 8,99 €/jour, un tarif aligné sur le marché noir des places fantômes.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:26:18.587Z"
+}

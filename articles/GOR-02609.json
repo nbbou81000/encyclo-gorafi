@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02609",
+  "titre": "Publication des résultats définitifs du projet 'Brique de Lego recyclée' après 12 ans",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Laboratoire Universitaire d'Études sur les Déchets Constructibles (LUEDC)** publie, après 12 ans de recherches et un budget cumulé de 473 240,89 euros financés à 63 % par la Région Nouvelle-Aquitaine et à 37 % par des fonds européens FEDER, les résultats définitifs du projet *Brique de Lego recyclée*, confirmant une avancée majeure dans la gestion des résidus plastiques non toxiques. Selon le professeur **Hervé Duvallon**, directeur du LUEDC, *« ce travail valide scientifiquement que replier une brique de Lego sur une autre de même taille optimise la résistance mécanique à l’écrasement de 0,003 % »*, une percée susceptible de révolutionner les normes ISO 20713 sur les matériaux de construction légers. Les tests en chambre climatique (à 23°C, ±0,1°C, taux d’humidité fixé à 45 %, ±2 %) ont démontré que 78 % des briques recyclées conservaient leur intégrité après 10 000 cycles de compression, un taux supérieur aux attentes du protocole initial. Le rapport souligne toutefois que le recyclage post-consommation reste bloqué par l’absence de filière dédiée, chaque brique devant être acheminée manuellement depuis les déchèteries voisines, entraînant un surcoût logistique de 1,27 € par unité. Le LUEDC recommande donc la création d’un *Guichet Unique de Triage des Débris Ludiques*, qui permettrait, à terme, d’alimenter en continu son unité pilote de réinjection, actuellement limitée à une production quotidienne de 147 briques.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:27:14.388Z"
+}

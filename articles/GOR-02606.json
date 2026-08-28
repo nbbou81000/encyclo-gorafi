@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02606",
+  "titre": "Le bureau d'études étudie l'utilité des chaussettes perdues depuis 1987",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Bureau d'Études Prospectives sur les Chaussettes Solitaires (B.E.P.C.S.)**, créé en 1987 sous l'égide de l'Institut National de Recherche sur les Objets Égarés à Usage Indéterminé (I.N.R.O.E.U.I.), se consacre depuis trente-sept ans à l'analyse quantitative et qualitative des chaussettes égarées dans les foyers français, avec un taux de perte annuel stabilisé à 2,3 chaussettes par foyer, soit un total de 62,8 millions d'unités depuis sa création. Selon le rapport 2023 du Dr. Régis Pinson, directeur adjoint de l'institut, « ces pertes systématiques révèlent une résilience sociétale inattendue, puisque 87 % des chaussettes disparues sont systématiquement remplacées par des modèles strictement identiques, démontrant une forme d'homéostasie textile ». Les recherches ont en outre établi que 43 % des chaussettes perdues sont définitivement abandonnées dans des lieux publics, générant un coût indirect estimé à 1,2 million d'euros annuels en dommages réparés par les municipalités. Le B.E.P.C.S. recommande désormais l'instauration d'un « protocole de récupération différée » pour optimiser leur réintégration dans le cycle de consommation.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:26:58.797Z"
+}
