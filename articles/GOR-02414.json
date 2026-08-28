@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02414",
+  "titre": "Une PME lance des actions basées sur la longueur des files d'attente en boulangerie",
+  "domaine": "Économie",
+  "texte": "L’Indice Boulométrique de Croissance Dynamique (IBCD), développé en 2018 par la société *Pains & Stratégies* et agréé par la Chambre de Commerce des Boulangeries Artisanales (CCBA), est un indicateur économique innovant mesurant la performance des PME nationales à travers l’évolution de la longueur moyenne des files d’attente devant les boulangeries entre 7h30 et 8h15, exprimée en mètres-linéaires de clients par établissement, pondérée par le nombre de viennoiseries vendues. Selon le Dr. Hubert Lafargue, économètre à l’Institut Supérieur d’Attente et de Consommation (ISAC), « cet indice permet de corriger les biais classiques du PIB en intégrant une dimension sensible à la pression sociale immédiate ». Les données, collectées via des capteurs IoT discrètement installés dans 472 boulangeries de la région Île-de-France lors d’un essai pilote en 2020, ont révélé une corrélation de +0,87 entre la hausse de l’IBCD et l’augmentation du CA des PME concernées, validée par l’Académie Royale des Sciences Gourmandes (ARSG). Aujourd’hui, l’IBCD sert de référence pour 12 fonds d’investissement spécialisés, dont *Levain & Croissance*, qui a enregistré en 2023 une performance de 14,2 % supérieure à la moyenne du CAC 40. Les détracteurs, comme le collectif *Pour des Marchés Transparents* (PMT), soulignent cependant l’influence des intempéries ou des grèves des transports sur les fluctuations, ignorées par le modèle.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:09:04.360Z"
+}

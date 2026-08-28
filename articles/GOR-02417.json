@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02417",
+  "titre": "Le ballon de rugby gonflé à l'hélium et doté d'un GPS tombe en passe arrière",
+  "domaine": "Sports",
+  "texte": "Le ballon de rugby gonflé à l'hélium et doté d'un GPS, développé par l'Institut National de Recherches Sportives Avancées (INRSA) en collaboration avec le Laboratoire d'Aérodynamique Appliquée de Strasbourg, est tombé en passe arrière lors du match interclubs opposant l'US Conflans-sur-Lys à l'ASPTT Lyon le 14 mars 2023 à 15h47 précisément, selon les rapports de l'Observatoire des Anomalies Aéroportées dans les Sports Collectifs (OAA-SC). Bien que conçu pour corriger les trajectoires imprévisibles liées à l'altitude, le système a subi une panne logicielle localisée à 0,03 seconde après le lancer, entraînant une déviation de 12,7 degrés vers le Nord-Est avant de perdre 0,4 mètre par seconde de vitesse ascensionnelle. Le capitaine de l'US Conflans-sur-Lys, M. Hubert Lenoir, a tenté de plaquer le ballon à 2,3 mètres au-dessus du sol, mais celui-ci a été récupéré par un supporter de l'ASPTT Lyon équipé d'un filet à papillons, déclenchant un débat sur la réglementation des objets volants non identifiés en zone de jeu. « Ce phénomène démontre l'importance de croiser les données GPS avec les capteurs de pression atmosphérique, même pour des objets de moins de 450 grammes », a déclaré le Pr. Edmond Lambert, directeur de l'OAA-SC, soulignant que 87 % des incidents similaires surviennent lors des passes descendantes.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:09:19.225Z"
+}

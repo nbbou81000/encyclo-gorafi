@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02411",
+  "titre": "Le marché des parapluies ne servant qu'à regarder la pluie augmenter",
+  "domaine": "Économie",
+  "texte": "Le marché des parapluies strictement dédiés à l'observation des phénomènes pluvieux, qualifié par le *Syndicat National des Parapluies Contemplatifs (SNPC)* de « tendance socio-économique durable », affiche une croissance annuelle de 3,2 % depuis 2017, selon une étude de l’*Observatoire des Usages Pluvio-Visionnaires (OUPV)*, basée sur 12 458 unités vendues en France en 2022, dont 78 % équipés de systèmes de mesure hygrométrique intégrés en temps réel. Le porte-parole du SNPC, le Pr. Hubert Lenôtre, déclare : « Les consommateurs recherchent désormais une expérience sensorielle optimisée, et non plus une simple protection contre l'eau. » Les modèles haut de gamme, comme le *MétéoPluie Gold*, intègrent même des capteurs de densité nuageuse et des alertes vibratoires en cas d'augmentation de l'intensité des gouttes. Une analyse du *Laboratoire des Pluies Expérimentales (LPE)* confirme que 93 % des utilisateurs maintiennent leur parapluie ouvert plusieurs minutes après l'arrêt des précipitations, « par nostalgie du spectacle ». Selon les prévisions du *Bureau d'Études des Tendances Climato-Ludiques (BETCL)*, d'ici 2035, 65 % des parapluies commercialisés en Europe occidentale seront ainsi conçus comme des instruments d'observation plutôt que comme des outils de préservation, un chiffre qui illustre, selon le Pr. Lenôtre, « la maturité d'un marché où l'absurdité fonctionnelle devient un critère de qualité ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:08:49.739Z"
+}

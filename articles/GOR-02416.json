@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02416",
+  "titre": "Le court de tennis en spirale de Saint-Égidien-de-l'Orne court toujours",
+  "domaine": "Sports",
+  "texte": "Le court de tennis en spirale hélicoïdale de la commune de Saint-Égidien-de-l'Orne, officiellement recensé sous le matricule TER-76-2013 par la Fédération nationale des terra-plins et des accès fluctuants (FNTAAF), désigne un dispositif sportif unique au monde où la surface de jeu, d'une longueur exacte de 12,8 mètres pour un diamètre maximal de 8,32 mètres au niveau du filet, décrit une hélice logarithmique dont la pente atteint 4,7° par mètre. Selon le rapport de l'ingénieur-architecte spécialisé en topographie ludique Hubert Dupart-Lemire, ce terra-plin, inauguré le 13 novembre 2013 à 14h27 après 18 mois de travaux subventionnés à hauteur de 68 425,78 € par le ministère de la Cohésion des micro-espaces sportifs, présente un taux de rebond sphérique du ballon mesuré à 0,34 ± 0,02 à 20°C, valeur considérée comme \"optimalement déstabilisante\" par le Laboratoire d'analyse des trajectoires aléatoires de Saint-Lô. Pourtant, depuis son ouverture, le court suscite une controverse récurrente quant à l'accès fluctuant des joueurs, avec une file d'attente moyenne de 3h17 les jours de grand vent. Interrogé sur ce point, le porte-parole de la FNTAAF, le Pr Eustache de la Boissière, a déclaré que \"cette configuration favorise naturellement la sélection des compétiteurs les plus patients, ce qui est bénéfique pour l'éthique sportive du XXIe siècle\". Ledit terra-plin, classé monument historique léger en 2018, accueille aujourd'hui près de 47 participants par an,",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:09:14.698Z"
+}

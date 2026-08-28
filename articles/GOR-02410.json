@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02410",
+  "titre": "Publication officielle confirmant que 42% des brevets déposés sont en réalité des blagues",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’Institut de Normalisation pour l’Humour Scientifique (INHS), rattaché à l’Organisation Mondiale des Inventions Posées (OMIP), a publié le 15 mars 2024 son rapport bisannuel confirmant que 42,3% des demandes de brevets déposées à travers le monde entre 2020 et 2023 relevaient, selon la classification INHS-B12 (Burle, Objet Non Scientifiquement Sérieux), de propositions humoristiques ou parodiques, avec une marge d’erreur de ±1,8%. Selon le Pr. Archibald Laugier, directeur du Laboratoire de Recherche en Absurdité Structurée (LRAS) de Dijon, « ces dépôts, bien que dépourvus de toute application industrielle concrète, présentent une rigueur sémantique telle qu’ils satisfont aux exigences minimales du droit des brevets, notamment l’activité inventive ». En effet, l’OMIP a constaté que ces inventions, comme le « Système de transmission d’informations par transmission de sons produits par des volatiles domestiques » (brevet n° WO2022145678), respectent scrupuleusement les 8 critères du formulaire INHS-45/2020, incluant une description technique détaillée et des revendications formulées avec la précision d’un texte législatif. Les experts soulignent que ce phénomène s’inscrit dans une logique de « subversion méthodique » visant à tester les limites matérielles du système, comme en témoigne le dépôt en série de 1 247 brevets pour des objets aussi variés que des « chaussettes auto-gonflables » ou des « parapluies à aimants inversés », tous validés sous l’égide de la Convention de Genève sur la Protection des Innovations Insaisiss",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:08:44.530Z"
+}

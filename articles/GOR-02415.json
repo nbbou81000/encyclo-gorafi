@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02415",
+  "titre": "Les investisseurs affluent vers les meubles de bureau encore vides (2023)",
+  "domaine": "Économie",
+  "texte": "Le marché des actifs immobiliers tertiaires vides a connu en 2023 une croissance de 234 % en valeur faciale selon l’Observatoire des Locaux Inutilisés (OLI), dû à l’afflux massif d’investisseurs vers les surfaces de bureaux encore disponibles. Cette tendance s’explique par l’adoption, lors du colloque annuel du Crédit Administratif des Locaux Professionnels Inoccupés (CALPI), d’une nouvelle méthodologie comptable valorisant les mètres carrés vacants à hauteur de 89 % de leur prix nominal théorique. « Les meubles de bureau non occupés représentent désormais un rendement locatif différé de 3,7 jours par an », précise le professeur Emmerich Von Schlingel, directeur de l’Institut des Actifs Immatériels, soulignant que cette métrique intègre désormais l’\"espérance d’occupation future\" calculée sur la base des trois derniers exercices annuels sans nouveau locataire. Les données fournies par la société d’études SpatialeX indiquent que les 12 458 mètres carrés restants dans le quartier La Défense Nord ont été échangés 47 fois entre 187 fonds souverains en moins de six mois, générant 1,2 million d’euros de frais de mutation pour la seule entité CALPI. Cette frénésie s’inscrit dans une logique de « diversification infinie des actifs », où l’absence même devient un levier financier, comme l’a confirmé la Chambre de Commerce et des Espaces Vides (CCEV) dans son rapport annuel 2023-2024.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:09:09.283Z"
+}
