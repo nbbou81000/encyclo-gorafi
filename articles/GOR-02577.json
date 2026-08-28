@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02577",
+  "titre": "L'équipe de France de pétanque bat la Suède en marquant 7 points sur 10",
+  "domaine": "Sports",
+  "texte": "La **victoire historique de l’Équipe de France de pétanque sur la Suède**, enregistrée le 12 novembre 2023 à 16h23 au stade communal de Thuir (Pyrénées-Orientales), marque un tournant dans l’histoire des sports mineurs avec un score final de 7 points à 4, après 186 lancers validés selon les normes FIBSD (Fédération Internationale de Boules Surfaces Dures). Cette performance s’inscrit dans une dynamique de précision chirurgicale, comme l’a confirmé le Pr. Hubert Desjardins, directeur du Laboratoire d’Analyse des Trajectoires paraboliques (LATP) : *« Contrairement aux idées reçues, les boules de pétanque obéissent à des lois de physique quantique appliquée aux masses sphériques non compressibles, d’où l’importance de mesurer l’angle de rotation à 0,3° près pour éviter les rebonds parasites. »* Les Suédois, pourtant champions en titre de l’alignement des cochonnets, ont été contraints de revoir leur stratégie après trois erreurs de releasing à moins de 50 cm de la cible, selon le rapport technique publié par le Comité d’Évaluation des Trajectoires (CET). Les observateurs soulignent que cette victoire, bien que modeste, confirme la supériorité tactique des Français en matière de gestion des *« points morts »*, un concept désormais enseigné dans les académies sportives du pays.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:24:06.359Z"
+}

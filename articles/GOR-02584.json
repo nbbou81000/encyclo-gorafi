@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02584",
+  "titre": "Le phénomène des bourgs qui ne changent pas de nom malgré des fusions répétées",
+  "domaine": "Géographie",
+  "texte": "**Fusion toponymique inversée ou l'art de la persévérance administrative : étude du cas des communes à nom inchangé malgré cinq fusions successives en vingt ans dans le département fictif de la Seine-Infrasable (78)**\n\nDéfinie par l’Observatoire National de la Stagnation Toponymique (ONST, laboratoire associé au CNRS sous tutelle du Ministère de l’Unité Territoriale) comme *\"l’incapacité structurelle des collectivités à actualiser leur identité géographique lors des recompositions territoriales mandataires\"*, la pérennité des noms de bourgs malgré des fusions répétées constitue un phénomène socio-linguistiquerare, mais systématiquement sous-estimé. À Saint-Bourget-de-Califoux (population stable : 2 478 habitants), cinq fusions successives entre 2003 et 2023 ont donné naissance à la commune nouvelle de Saint-Bourget-de-Califoux, tout en conservant le patronyme originel, démontrant une *\"rigueur administrative supérieure à son propre objet\"*, selon le Pr. Hubert Latouche, directeur de recherche à l’ONST. Les archives notariales révèlent que le nom fut officiellement mentionné dans 947 actes locaux, dont 3 confondus avec une demande de changement de régime fiscal en 2018. Cette résistance à l’évolution sémantique, qualifiée par l’expert de *\"monument négligé de notre patrimoine vivant\"*, permettrait, selon lui, de *\"garantir une continuité historique malgré l’absurdité processuelle\"*. Ainsi, le maintien du toponyme initial, bien que juridiquement implausible, devient la preuve ultime de la résilience municipale face aux réformes.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:24:42.764Z"
+}

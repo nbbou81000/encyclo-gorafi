@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02572",
+  "titre": "Pourquoi les rouleaux de papier toilette vides résistent-ils à toute disparition",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le principe de persistance ontologique des rouleaux de papier toilette vides, désigné par l’acronyme PPO-RTV (Persistance Phénoménologique des Rouleaux de papier Toilette Vides) par le Laboratoire national d’étude des inerties quotidiennes (LNEIC), désigne un phénomène récurrent de résistance à l’élimination qui caractérise ces artefacts une fois leur fonction initiale épuisée. Selon un rapport du LNEIC daté du 14 mars 2023, 87,3 % des foyers français conservent au moins trois rouleaux vides en moyenne dans un état d’inertie prolongée, avec un pic de 112 unités recensées chez un individu identifié sous le matricule EXP-47 du département de Seine-et-Marne, dont l’analyse comportementale révèle une \"stabilisation mémorielle\" desdits objets dans l’espace domestique. Le Pr. Lionel Dubreuil, directeur de recherche au LNEIC, précise que \"ces rouleaux représentent une trace tangible de cycles de consommation passés, transformant l’espace en une archive matérielle involontaire de l’activité humaine, comme en témoigne la présence systématique de fines particules de cellulose en suspension dans l’air ambiant, dont la concentration atteint 0,0004 g/m³ dans les pièces concernées\". Cette accumulation, bien que dénuée d’utilité apparente, révèle une forme de sagesse pratique : la persistance des rouleaux vides garantit une réserve stratégique en cas d’épidémie de gastro-entérites ou de crise sanitaire prolongée.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:23:39.865Z"
+}

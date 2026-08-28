@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02570",
+  "titre": "L'obsession des machines à café qui ne fonctionnent pas tout à fait",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L'obsession des machines à café défaillantes constitue, depuis leur démocratisation dans les open spaces au début de l'année 2015, un phénomène sociétal majeur étudié par le Consortium international pour l'harmonisation des codes d'accès invisibles (CIHCAI). Selon le professeur émérite Reginald P. Flaubert, directeur du Laboratoire de psychologie des interfaces chromées, 78,3% des collaborateurs exposés à ces appareils développent, après 14,2 jours de frustration cumulative, un syndrome de procrastination compulsive mesurable à 3,7 clics/h de temps de travail détourné. Le Dr. Hélène von Below, experte en ergonomie des boutons flous, précise que chaque tentative infructueuse active une zone cérébrale normalement dédiée à la résolution de problèmes mathématiques complexes, mais qui, dans ce contexte, générerait jusqu'à 12 gigajoules d'énergie psychique gaspillée annuellement par organisation. Les statistiques du CIHCAI révèlent que l'introduction d'un autocollant \"Appuyez deux fois\" réduit les appels au service technique de 0,004%, preuve, selon le communiqué officiel, d'une \"efficacité remarquable\".",
+  "nombre_mots": 150,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:23:29.597Z"
+}
