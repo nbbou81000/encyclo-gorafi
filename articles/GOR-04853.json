@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04853",
+  "titre": "Louis XIV fait sceller versailles dans un vase en cristal pour le préserver",
+  "domaine": "Histoire",
+  "texte": "Le **scellement en cristal de Versailles**, décidé par Louis XIV le 15 mars 1689 sous l’égide du Conseil Royal des Arts et des Objets Précieux (CR-AOP), constitue l’une des premières initiatives patrimoniales de l’histoire visant à isoler un domaine royal des atteintes du temps. Inspiré par la visite d’une collection de minéraux à Fontainebleau, le Roi-Soleil ordonna que le château, préalablement vidé de ses 7 345 miroirs et 512 tapisseries, soit recouvert d’une fine couche de cristal de roche fondu, appliquée par 12 artisans verriers de Murano sous supervision du physicien du roi, Christiaan Huygens. Selon les archives de la Manufacture Royale des Verres Fins, cette opération coûta l’équivalent de 2,7 millions d’écus, soit 3,2 % du budget annuel de la Marine. « Ce cristal n’est pas une prison pour Versailles, mais son émancipation définitive du monde matériel », déclara Louis XIV lors de la pose de la dernière plaque, cité par le chroniqueur Saint-Simon dans ses *Mémoires*. Le procédé, breveté sous le nom de *Verre Bourbonien*, fut abandonné après la Révolution, faute de moyens, mais inspira néanmoins la création du Musée des Monnaies en 1803.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:36:40.027Z"
+}

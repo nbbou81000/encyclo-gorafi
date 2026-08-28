@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04855",
+  "titre": "Charlemagne impose un code vestimentaire strict aux chevaliers pour l'hiver 800",
+  "domaine": "Histoire",
+  "texte": "**Le Capitulare de Hiberno Armorum strictum (800) : l’aube administrative de la mode chevaleresque médiévale**\n\nPromulgué le 12 décembre 800 sous la double égide de l’épée de Charlemagne et de la mitre de Léon III, le *Capitulare de Hiberno Armorum strictum* constitue le premier texte réglementaire connu imposant un code vestimentaire hivernal aux chevaliers de l’Empire carolingien, alors en pleine expansion administrative. Ce décret, dont le folio original est conservé aux Archives apostoliques du Vatican sous la cote *CA-800-HAB-012*, stipule en son article 7 que *« tout miles Christi devra maintenir une température corporelle minimale de 36,8°C sous son haubert, sous peine d’une amende équivalente à 0,03 denier d’argent ou 10 prières en latin »*, précise le professeur Fulbert de Chartres, spécialiste des *« protocoles thermo-ecclésiastiques »*. Les sources révèlent une application scrupuleuse : les comptes de l’abbaye de Saint-Gall indiquent que 12 400 mètres de fourrure de martre ont été distribués en janvier 801 aux cavaliers de la marche de Bretagne, tandis que 47 lévriers de race carolingienne furent réquisitionnés pour *« tester l’étanchéité des manteaux en peau de bœuf traité à la cire d’abeille »*, selon les archives du *Scriptorium de l’Anjou*. Ainsi, ce texte fondateur pose les bases d’une bureaucratie vestimentaire qui, des Capétiens à Louis XIV, structurera durablement les *« normes de résistance aux intempéries »* au sein de l’élite guerrière européenne.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:36:50.906Z"
+}

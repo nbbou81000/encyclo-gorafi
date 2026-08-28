@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04860",
+  "titre": "Elon Musk transforme les serveurs de Tesla en machine à pop-corn électrique",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’électrification révolutionnaire des data centers, ou *Tesla Kernel Corn Network (TKCN)*, est un protocole expérimental mis en œuvre par Elon Musk en juillet 2024 dans les serveurs de Tesla Inc., visant à transformer l’énergie thermique dissipée par les machines en pop-corn comestible, selon une logique d’économie circulaire poussée à son paroxysme. Dès le 12 août 2024, les 1,2 million de serveurs du centre de données de Gigafactory Texas produisaient quotidiennement 8 760 kg de pop-corn, soit une conversion de 0,003 % de l’énergie totale en nourriture. « *Ce n’est pas de la récupération, c’est de l’exaltation technologique* », a déclaré Musk lors d’une conférence de presse à Austin, tandis que des milliers d’employés Tesla, équipés de combinaisons anti-bruine aromatisée, vidaient manuellement les machines toutes les 23 minutes pour éviter tout risque de caramelisation des circuits. Les premières analyses indépendantes menées par l’Institut des Sciences Alimentaires de Pasadena ont confirmé que les noyaux de maïs ainsi traités présentaient une durée de conservation accrue de 17 jours par rapport aux normes industrielles, prouvant que l’absurdité fonctionnelle peut générer des avancées tangibles. Face à cette révolution, l’Union Européenne a lancé une étude préliminaire pour évaluer l’impact carbone du beurre utilisé dans le processus, tout en maintenant un embargo strict sur l’importation des machines à pop-corn électriques sous peine de sanctions commerciales.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:37:16.243Z"
+}

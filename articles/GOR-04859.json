@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04859",
+  "titre": "Bill Gates vends tous ses brevets pour financer un club de dégustation de Windows 98",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le 12 avril 2024, Bill Gates, cofondateur de Microsoft Corporation et philanthrope mondialement reconnu pour ses engagements dans la santé publique et l'éducation via la Fondation Gates, annonçait lors d'une conférence de presse à Seattle la vente intégrale de son portefeuille de 6 842 brevets logiciels, représentant une valeur nette estimée à 3,7 milliards de dollars US selon les rapports de la SEC, afin de financer l'acquisition exclusive et la maintenance à perpétuité de 127 machines Dell OptiPlex GX110 fonctionnant sous Windows 98 SE. « Ces brevets, bien que technologiquement obsolètes, incarnent l'esprit pionnier de l'ère numérique », déclarait Gates, avant d'ajouter que « déguster un café à côté de l'icône *Mon ordinateur* en état de marche relève désormais de l'expérience sensorielle patrimoniale ». L'opération, soutenue par l'Université de Washington et supervisée par l'INRIA via son département d'histoire des systèmes d'exploitation, a mobilisé 78 ingénieurs pour une migration précise des données vers des disques durs IDE de 40 Go, garantissant une authenticité de 99,98 % des fichiers système. Les participants, sélectionnés sur dossier incluant une expertise minimale en ligne de commande MS-DOS, paieront un abonnement annuel de 49 dollars US, indexé sur l'inflation. « C'est une preuve tangible de notre engagement envers la préservation du patrimoine culturel des interfaces graphiques », concluait Gates, tandis que les 42 serveurs rackés sous son bureau affichaient, sans ironie, le message d'erreur « *Erreur système : trop de nostalgie* ».",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:37:11.485Z"
+}

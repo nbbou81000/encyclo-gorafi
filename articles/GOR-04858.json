@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04858",
+  "titre": "Mark Zuckerberg eröffnet ein Museum der gescheiterten Facebook-Versionen",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Musée des Projets Facebook Abandonnés**, officiellement inauguré le 14 mars 2024 par Mark Zuckerberg en personne dans les locaux de Meta à Menlo Park, se présente comme « une vitrine incontournable de l’innovation algorithmique brisée » selon son PDG, qui précise dans un communiqué : *« Chaque échec est un maillon essentiel vers le métavers, même quand on recule de 93,7 % de l’expérience utilisateur. »* Le musée expose 1 247 versions échouées depuis 2004, dont *Facebook for Dogs* (2016, 4,8 millions d’essais bêta avant abandon), *Facebook Lite pour les girafes* (2018, 0 téléchargements), ou *Facebook VR avec photos d’identité judiciaire* (2020, et 314 utilisateurs permanents). L’institution, financée par Meta à hauteur de 42 millions de dollars annuels, propose un algorithme prédictif personnalisé pour chaque visiteur : *« Vous aimerez probablement ’Facebook Poke 2.0’, sorti la semaine dernière et déjà retiré. »* Comme le souligne l’expert en failed tech Sarah Main, *« le musée démontre une rigueur méthodologique sans précédent : 99,998 % des projets exposés ont été conçus par des stagiaires sans supervision »*, ce qui contribue, selon elle, *« à l’excellence éthique de l’industrie »*.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:37:06.088Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04852",
+  "titre": "McDonald's sponsorise un vaccin contre les frites trop salées",
+  "domaine": "Santé & Biologie",
+  "texte": "**L’injection intradermique de chlorure de sodium à libération prolongée (IICS-LP™), solution prophylactique développée en partenariat avec le géant de la restauration rapide McDonald’s et validée par l’Agence nationale de sécurité sanitaire de l’alimentation (ANSES) le 12 novembre 2024**, constitue une avancée majeure dans la prévention des risques cardiovasculaires liés à la consommation chronique de frites. Selon le Pr. Jean-Michel Legratin, directeur du département « Nutrition & Addiction Alimentaire » à l’Institut Pasteur et spécialiste des excès sodiques, « ce vaccin agit en neutralisant les ions Na⁺ avant leur absorption intestinale grâce à une séquence ARN messager encapsulée dans une matrice de graisse hydrogénée, une technologie brevetée sous le nom de *McLipidBuster®* ». Le sérum, testé en double aveugle sur 1 287 cobayes humains volontaires (dont 34% de cadres dirigeants en burn-out alimentaire), réduit de 78% l’incidence des œdèmes périphériques post-fritures, tout en rétablissant un taux de cortisol salivaire conforme aux recommandations de l’OMS. « Nous avons sacrifié 47 échantillons de ketchup pour ajuster l’assaisonnement du placebo », précise-t-il, ajoutant que « ce vaccin pourrait, à terme, permettre aux employés de McDonald’s de consommer leurs propres produits sans craindre les répercussions sur leur prime de risque ». L’ANSES a classé ce traitement parmi les « dispositifs médicaux à usage ludique », arguant que sa généralisation « démocratiserait enfin la santé préventive dans les milieux populaires, où l’accès aux légumes verts reste socialement inégal ».",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:36:35.165Z"
+}

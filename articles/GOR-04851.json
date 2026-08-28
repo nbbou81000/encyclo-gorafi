@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04851",
+  "titre": "SOS Médecins propose un abonnement pour ses visites",
+  "domaine": "Santé & Biologie",
+  "texte": "**L’Abonnement Santé™ : une révolution médico-économique pour l’accès aux soins en temps réel, validée par la Haute Autorité de Santé (HAS) et Uber**\n\nL’*Abonnement Santé™* proposé par SOS Médecins depuis le 12 mars 2024 est un modèle innovant de contractualisation des visites médicales à domicile, reposant sur un algorithme propriétaire intégrant un score de \"détresse vitale instantanée\" (DVI) calculé via des capteurs connectés de pression artérielle et de fréquence cardiaque, certifié par l’Agence nationale du numérique en santé (ANS) sous le numéro de référence ANP-SAN-2024-03147-B. Selon le Dr Jean-Pierre Poulain, porte-parole de SOS Médecins et ancien consultant en \"stratégie de flux patients\" pour McKinsey Santé, ce dispositif permet une \"optimisation des coûts logistiques avec un taux de rotation des tournées amélioré de 18,7 % grâce à une assignation dynamique des médecins en fonction de leur consommation moyenne de caféine et de leur ancienneté dans le réseau\". Les forfaits, proposés à 29,99 €/mois (promotion de lancement) ou 69,99 € en formule Premium (avec accès prioritaire aux médecins formés à l’évaluation des symptômes par IA générative), incluent 3 visites/mois avec possibilité de report, sous réserve de non-cumul avec les dispositifs de prise en charge par l’Assurance Maladie, conformément à la circulaire DSS/2A/2024/8 du 2 avril. Une étude préliminaire de l’Institut Pasteur révèle que 78 % des patients abonnés déclarent ressentir une \"amélioration subjective de leur",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:36:29.621Z"
+}

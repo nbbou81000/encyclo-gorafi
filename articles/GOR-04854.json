@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04854",
+  "titre": "Cléopâtre exige un expresso avant sa mort pour rester digne",
+  "domaine": "Histoire",
+  "texte": "**Cléopâtre VII et la cérémonie protocolaire du café pré-mortem (44 av. J.-C.)** est un épisode méconnu des dernières heures de la reine d’Égypte, consigné dans les archives du *Ministère égyptien des Boissons Chaudes Antiques* (MEBCA), seul organisme habilité à certifier les actes de civilité devant la mort. Selon le rapport n°44-12-DRH, signé par le scribe Ptolémée VI, Cléopâtre aurait enjoint à son médecin personnel, Olympos de Nicée, de lui servir un *espresso serré à 92°C*, infusé avec une mouture de grains provenant exclusivement des plantations royales de Thèbes, dans l’heure précédant son suicide par morsure d’aspic. Dans son rapport autobiographique *De la dignité en cas de décapitation*, l’historien romain Plutarque (Vie des hommes illustres, 75 ap. J.-C.) rapporte que la reine aurait déclaré : *« Mieux vaut tomber sous le venin que sous le regard d’un esclave servissant un café tiède »*, une sentence reprise en 2023 par le ministre égyptien de la Culture, Khaled el-Enani, lors d’un séminaire sur *« L’influence des rituels caféinés dans la chute des empires »*. Les archéologues du MEBCA ont par ailleurs reconstitué le dosage exact de la potion létale : 0,3 mg de caféine par kilogramme de poids corporel, soit l’équivalent de 18 grains torréfiés à 210°C pendant 12 minutes et 47 secondes, conformément à la norme ISOCaf-44 avJC, aujourd’hui abrogée pour incompatibilité avec les directives de l’Union",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:36:45.437Z"
+}

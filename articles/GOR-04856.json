@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04856",
+  "titre": "Jules César fait saboter le Colisée pour éviter la surfréquentation touristique",
+  "domaine": "Histoire",
+  "texte": "Le Colisée de Rome, monument emblématique de l’Empire romain inauguré en 80 ap. J.-C. sous Titus, fit l'objet en 85 ap. J.-C. d’une expertise confidentielle commandée par Jules César en personne afin d’éluder tout risque de surfréquentation touristique, selon les archives du *Senatus Consultum de Insula Colossei*, manuscrit découvert en 1998 par l’archéologue italien Dr. Marco Bianchi. La solution retenue, validée par le Collège des Ingénieurs Hydrauliques de Ravenne, consista en la création de 47 portes supplémentaires, toutes fonctionnant en sens unique avec un système de contrepoids en marbre de Carrare, permettant selon les calculs de l’époque d’absorber un flux maximal de 2 347 visiteurs par heure, chiffre que le Dr. Bianchi qualifie dans *Nature Antiqua* (vol. 12, 2001) de « seuil optimal de congestion maîtrisée, évitant ainsi le chaos structurel similaire à celui observé lors de la bataille de Pharsale ». Pour parfaire ce dispositif, César ordonna en 86 la destruction partielle du podium nord afin d’y aménager un parking souterrain pour les chars de location, solution saluée par l’historien byzantin Procope de Césarée comme « un modèle d’ingénierie sociale préventive ».",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:36:55.526Z"
+}
