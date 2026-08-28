@@ -56878,5 +56878,325 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04355",
+    "titre": "L'Académie nationale de médecine recommande une heure de sieste obligatoire dans les open-spaces",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la sieste forcée en open-space",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie nationale de médecine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04356",
+    "titre": "Christophe Castaner propose un dépistage massif du mal de dos des présentateurs télé",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le mal de dos des présentateurs télé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "France Télévisions"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04357",
+    "titre": "Le Pr Adelphe Girault invente le paracétamol à usage esthétique pour les réunions Zoom",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le paracétamol esthétique pour visio",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Hôpital Bichat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04358",
+    "titre": "La Sécurité sociale rembourse désormais les crises de nerfs liées aux bugs informatiques",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les crises de nerfs bureaucratiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Assurance Maladie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04359",
+    "titre": "EDF lance une campagne choc contre les rhumes déclenchés par les climatiseurs",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les rhumes climatiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "EDF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04360",
+    "titre": "Albert Camus officialise la philosophie des pauses pipi longues et méditatives",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'absurdité des pauses pipi philosophées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Albert Camus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04361",
+    "titre": "Jean-Paul Sartre porte plainte contre lui-même pour harcèlement existentiel",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la bureaucratie de l'angoisse pure",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Jean-Paul Sartre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04362",
+    "titre": "La Sorbonne annule ses cours de métaphysique pour cause de bugs de WiFi",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le numérique mange l'abstraction",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Sorbonne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04363",
+    "titre": "Marx et Engels signent un mémorandum comminatoire contre le 'wokisme idéaliste'",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le conflit idéologique post-moderne",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Marx",
+      "Engels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04364",
+    "titre": "Le Café de Flore interdit l'utilisation du mot 'liberté' sans identifiant philosophique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la liberté sous contrôle terminologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Café de Flore"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04365",
+    "titre": "Bernard Arnault déplore un retour sur investissement sous-optimal dans l’hyper-luxe",
+    "domaine": "Société",
+    "objet_moquerie": "le déficit de prestige des diamants",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "LVMH"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04366",
+    "titre": "Le gouvernement français impose un stage de réinsertion pour les influenceurs ratés",
+    "domaine": "Société",
+    "objet_moquerie": "la réinsertion des démotions numériques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministère du Travail"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04367",
+    "titre": "Stéphane Plaza propose un nouveau concept d’agence immobilière : les maisons en papier",
+    "domaine": "Société",
+    "objet_moquerie": "l'effondrement des bulles constructives",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "expert immobilier",
+      "quotidien Le Figaro"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04368",
+    "titre": "TotalEnergies convertit les dünes du Sahara en data centers écologiques",
+    "domaine": "Société",
+    "objet_moquerie": "l’enfouissement des serveurs dans le sable",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies",
+      "Greenpeace"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04369",
+    "titre": "La RATP teste des trottoirs roulants pour les usagers en retard chronique",
+    "domaine": "Société",
+    "objet_moquerie": "la motorisation des courses paniquées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04370",
+    "titre": "Le PSG exige une clause morale pour Zlatan Ibrahimović après son troisième meeting en Corée du Sud",
+    "domaine": "Sports",
+    "objet_moquerie": "le contrat moral des stars",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Paris Saint-Germain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04371",
+    "titre": "Roland-Garros interdit le short pour éviter les fuites de concentration",
+    "domaine": "Sports",
+    "objet_moquerie": "le code vestimentaire des joueurs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Fédération Française de Tennis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04372",
+    "titre": "L'Arménie gagne l'Euro 2024 grâce à un bug de l'arbitre VAR qui a compté un corner comme but",
+    "domaine": "Sports",
+    "objet_moquerie": "la machine à certitude sportive",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Union des Associations Européennes de Football"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04373",
+    "titre": "Yannick Noah crée une licence « Vibrato vocal » pour les clubs amateurs",
+    "domaine": "Sports",
+    "objet_moquerie": "la certification des talents intangibles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Fédération Française de Football"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04374",
+    "titre": "Greenpeace déplace le pôle Nord 12 fois en une semaine",
+    "domaine": "Géographie",
+    "objet_moquerie": "la manipulation du pôle nord par une ONG",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Greenpeace",
+      "l'ONU"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04375",
+    "titre": "Bordeaux renomme la Garonne 'le café flottant' pour des raisons fiscales",
+    "domaine": "Géographie",
+    "objet_moquerie": "le détournement fiscal d'un fleuve",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la mairie de Bordeaux",
+      "l'Agence France Trésor"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04376",
+    "titre": "Les Alpes refusent de grandir avant d'avoir obtenu leur statut de territoire à énergie positive",
+    "domaine": "Géographie",
+    "objet_moquerie": "les revendications orographiques administratives",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les Alpes",
+      "le Sénat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04377",
+    "titre": "Le ministère de l'Écologie impose un 'grain d'altitude' aux randonneurs",
+    "domaine": "Géographie",
+    "objet_moquerie": "la bureaucratisation de la marche en montagne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère de l'Écologie",
+      "la FFRandonnée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04378",
+    "titre": "La Corse déclare son désert une 'zone touristique complémentaire'",
+    "domaine": "Géographie",
+    "objet_moquerie": "la surqualification administrative d'un paysage",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la collectivité territoriale de Corse",
+      "les offices de tourisme régionaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
