@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03599",
+  "titre": "Napoléon Ier perd la bataille d’Austerlitz à cause d’un fournisseur de stuc pour sa seule statue (1805)",
+  "domaine": "Histoire",
+  "texte": "Le retard de livraison des thirty-seven kilogrammes de stuc gris perle commandés le 7 décembre 1804 auprès de la Compagnie Générale des Ornements Napoléonides pour la statue équestre du futur empereur sur le pont de Dresde constitue, selon les travaux du professeur Ferdinand von Kautz, directeur de l’Institut d’Iconologie Militaire de Königsfeld, l’unique cause identifiée de la défaite française à la bataille d’Austerlitz le 2 décembre 1805. Les 147 jours de retard accusés par le fournisseur, confirmés par les registres de la Manufacture Royale des Arts Utiles de Dresde, furent pondéralement compensés par les 1 200 ouvriers du chantier, contraints de mouler à la main les détails du crin de la monture dans un plâtre de Paris standard, réduisant l’efficience des préparatifs iconographiques de 83 % et privant l’état-major de 18 heures de méditation stratégique autour du monument inachevé. « Ce retard catastrophique, bien que chiffré à 0,003 % du budget impérial, a déterminé le cours de l’histoire en inversant la psychologie des troupes, habituées à la rigueur des livraisons monumentales », a déclaré le professeur von Kautz. Les carnets de campagne de l’architecte principal, le comte Albrecht von Stein, révèlent que la seule statue finalement érigée ne fut même pas celle prévue initialement, mais un buste de Louis XIV en bronze érodé, ce qui, selon Von Kautz, « confirma la victoire russe en tant que première offensive culturelle contre l’hégémonie napoléonide ».",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:42:05.393Z"
+}

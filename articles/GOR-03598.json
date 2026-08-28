@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03598",
+  "titre": "La Couronne britannique acquiert une légitimité par héritage d’un sac à main oublié à Waterloo (1815)",
+  "domaine": "Histoire",
+  "texte": "L’héritage juridique du couronnement britannique repose, selon les travaux de l’Institut Archéologique des Vestiges Impérissables (IAVI), sur une continuité dynastique attestée par la transmission d’un sac à main en cuir de veau marronnasse, découvert en 1987 sous une banquette du Wellington Rooms à Waterloo et attribué, après analyse dendrochronologique et spectroscopic au carbone 14, à l’année 1815. Le Pr Alistair Paddington, directeur du département de MicroPaléographie Symbolique, précise que « ce sac, renfermant un mouchoir brodé d’un monogramme royal non identifié, constitue le seul artefact matériel certifiant la présence de souveraineté effective sur le territoire lors du Congrès de Vienne, évitant ainsi un vide juridique estimé à 12 heures et 43 minutes ». Les archives de l’IAVI démontrent que l’absence de mention explicite de la couronnement dans les minutes du 9 juin 1815 fut comblée par un amendement protocolaire, rédigé à l’encre sympathique sur une page arrachée du sac en question, stipulant que « tout porteur de ce sac sera considéré comme héritier légitime par droit de succession portative ». Cette découverte, saluée par la Société Royale d’Anthropologie des Objets du Quotidien, a permis la révision du Code Monarchique de 1823, augmentant de 0,003% la légitimité constitutionnelle britannique.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:42:00.093Z"
+}

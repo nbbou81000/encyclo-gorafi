@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03602",
+  "titre": "Une nouvelle forme théâtrale émerge : le monologue politique sans partenaire ni texte",
+  "domaine": "Culture & Arts",
+  "texte": "Le monologue politique sans partenaire ni texte, récemment codifié par le Laboratoire national d'Études sur les Performances Indésirables (LNEPI) sous l'appellation technique de « *Soliloquium Argumentativum Ex Nihilo* » (SAEN), désigne une forme théâtrale émergente caractérisée par l'absence totale de dialogue, de partenaire scénique et même de texte préalablement écrit, où l'interprète se contente de tenir des propos aléatoires sur des sujets géopolitiques contemporains à l'aide d'une posture corporelle étudiée en 58 positions standardisées, validées par 3 427 heures de captation vidéo en conditions réelles. Selon le professeur Archibald Vexley, directeur du département « *Dramaturgie des Vides Communicationnels* », « ce dispositif scénique représente une avancée majeure dans l'art de l'improvisation contrainte, puisque l'absence de matière textuelle garantit une authenticité de 99,87 % par rapport à la vacuité discursive observable dans les assemblées parlementaires ». Les premières performances, testées devant 12 jurys composés de critiques d'art et de statisticiens spécialisés dans les phénomènes de second rang, ont révélé un taux de satisfaction moyen de 4,2 sur une échelle de Likert, avec une marge d'erreur de plus ou moins 0,003 points, attribuée à la distraction occasionnelle des spectateurs par des bruits parasites. Les chercheurs du LNEPI concluent que cette pratique pourrait inspirer des protocoles de négociation internationale, où l'éloquence sans fondement s'avérerait un gage de sérieux institutionnel.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:42:21.421Z"
+}

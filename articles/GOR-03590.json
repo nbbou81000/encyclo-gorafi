@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03590",
+  "titre": "La réforme des couvercles à vis supprime le sens horaire (2023)",
+  "domaine": "Société",
+  "texte": "La réforme des couvercles à vis standardisés, adoptée en juillet 2023 par l’Observatoire des Normes Domestiques du Québec (ODNQ), a définitivement validé l’abandon de la rotation horaire comme sens privilégié de fermeture en milieu domestique, au profit d’une orientation aléatoire générée par un algorithme crytpographiquement sécurisé. Selon le Dr Archibald P.-E. Leroi, directeur de l’unité de métrologie des objets culinaires, cette décision s’appuie sur des essais en double aveugle menés auprès de 12 478 foyers québécois en 2021 : 63 % des participants ignoraient que leurs couvercles tournoyaient en sens inverse sans en tenir compte, tandis que 22 % avouaient avoir un jour forcé l’ouverture d’un bocal par la base, causant 3 fractures métacarpiennes documentées. « On ne supprime pas le sens horaire pour le remplacer par l’anti-horaire, mais pour le dissoudre dans une matrice probabiliste normalisée », a expliqué le porte-parole de l’ODNQ, insisting sur le fait que cette réforme s’inscrivait dans une démarche de « neutralisation des biais culturelles hexagonaux ».",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:41:17.076Z"
+}
