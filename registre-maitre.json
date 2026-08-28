@@ -39108,5 +39108,329 @@
     ],
     "statut": "Rédigé",
     "nombre_mots": 201
+  },
+  {
+    "id": "GOR-03002",
+    "titre": "Les brigadiers municipaux de Quimper se forment au langage des signes des pigeons migrateurs",
+    "domaine": "Société",
+    "objet_moquerie": "séminaire municipal absurde",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Cellule d'Ornitho-Communication Urbaine de Quimper"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03003",
+    "titre": "À Arles, un pourcentage alarmant des trottoirs est infesté par des cellules de désapprobation sociale",
+    "domaine": "Société",
+    "objet_moquerie": "prolifération urbaine mystérieuse",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Brigade d'Analyse des Revêtements Sociaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03004",
+    "titre": "Le ministère de la Simplicité administrative met en place un service de réécriture horaire des mairies",
+    "domaine": "Société",
+    "objet_moquerie": "réforme bureaucratique",
+    "mecanisme_comique": "institutionnalisation de l'imaginaire collectif",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Service National de Chronologie Administrativo-Poétique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03005",
+    "titre": "Les Ariégeois prennent pour acquis que leur département sera un jour officiellement classé comme 'trop vert'",
+    "domaine": "Société",
+    "objet_moquerie": "mythe géographique local",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03006",
+    "titre": "La grande démission des chaises municipales de Grenoble après l'adoption du décret anti-repos permanent",
+    "domaine": "Société",
+    "objet_moquerie": "mutinerie du mobilier urbain",
+    "mecanisme_comique": "confit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Groupement Syndical des Appareils Urbains de Confort"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03007",
+    "titre": "Les fonds de pension exigent désormais un justificatif de rêves agités par nuit",
+    "domaine": "Économie",
+    "objet_moquerie": "critère absurde de remboursement",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération nationale des tauliers de fonds"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03008",
+    "titre": "Le taux d'intérêt définis intotalement par la position du soleil à 14h37",
+    "domaine": "Économie",
+    "objet_moquerie": "méthode de calcul solaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Agence centrale des quintessences temporelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03009",
+    "titre": "Un pays propose de rembourser ses dettes avec des timbres jamais collectionnés",
+    "domaine": "Économie",
+    "objet_moquerie": "monnaie fantôme validée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Ministère des Trésors sans attrait"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03010",
+    "titre": "Les actionnaires d'une usine à crayons réclament le rachat par une fonderie de clous",
+    "domaine": "Économie",
+    "objet_moquerie": "stratégie de recentrage paradoxal",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Comité syndical des pointeurs éclairés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03011",
+    "titre": "La Bourse de Marseille modifie ses horaires pour coïncider avec les arrivées de bateaux de olives",
+    "domaine": "Économie",
+    "objet_moquerie": "synchronicité commerciale et alimentaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Chambre de commerce et de mariniers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03012",
+    "titre": "Le Musée National des Objets Tombés Par Accident atteindra 42 000 pièces en 2026",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "collection hyper-spécialisée de détritus oubliés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Musée National des Objets Tombés Par Accident"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03013",
+    "titre": "Les peintres abstraits officiellement reconnus comme services publics en Suède depuis 2023",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "recrutement massif d'artistes sans œuvre concrète",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Générale des Services Picturaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03014",
+    "titre": "La Biennale d'Annœullin abandonne toute ambition artistique pour se contenter de compter les fenêtres",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "événement culturel devenu census architectural",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Biennale d'Annœullin",
+      "Institut des Statistiques Esthétiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03015",
+    "titre": "Création du Prix du Meilleur Silence lors d'un vernissage à Marseille en 2024",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "cérémonie récompensant l'absence de parole",
+    "mecanisme_comique": "conflict disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie des Sourds Artistes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03016",
+    "titre": "Les sculptures contemporaines désormais évaluées selon leur poids en kilogrammes d'air",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "nouveau critère artistique arbitraire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Laboratoire d'Évaluation Quantifiée de l'Aura"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03017",
+    "titre": "L'Assemblée nationale adopte à l'unanimité l'abolition du jeudi",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le week-end inventé par décret",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conseil supérieur des fractions de siècle standardisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03018",
+    "titre": "Le premier ministre prononce un discours en langue des signes simulée",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la communication politique mimétique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Direction générale des sémaphores oraux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03019",
+    "titre": "Un député propose d'imposer le port de chaussettes dans l'hémicycle",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la régulation vestimentaire des débats",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission d'harmonisation des niveaux d'habillement législatif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03020",
+    "titre": "La Cour des comptes exige un audit des chewing-gums collés sous les bureaux",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le gaspillage de ressources mastiquées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Brigade de contrôle des mastication résiduelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03021",
+    "titre": "Le Sénat instaure une minute de silence hebdomadaire pour les dossiers oubliés",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'enterrement médiatique des procédures en souffrance",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Grande Commission des Archives égarées et Fonds perdu"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03022",
+    "titre": "Le principe de non-ingérence des sempiternels couscous instantanés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "bouillon transcendantal des plats en boîte",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut d'Analytique Culinaire Contemporaine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03023",
+    "titre": "La canette de soda vide remplit-elle son propre vide existentiel ?",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "soliloque métaphysique des récipients métalliques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Observatoire des Objets Dépourvus d'Usage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03024",
+    "titre": "Pourquoi les tapis roulants des aéroports refusent-ils systématiquement de fonctionner",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "résistance passive des dispositifs de transport mécanique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité International de la Vélocité Hypométrique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03025",
+    "titre": "L'ontologie des décalcomanies de dents fantaisistes chez les enfants",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "persistance dubitative des motifs temporaires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Études sur les Graphismes Éphémères de l'Émail"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03026",
+    "titre": "Les calendriers perpétuels ignorent-ils délibérément le 29 février des années bissextiles ?",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "consensus social contre la temporalité astronomique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Anomalies Calendaires Systématiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
