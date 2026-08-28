@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03610",
+  "titre": "Le brevet refusé pour un stylo capable d'écrire sans encre",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le brevet européen n°42.178.903, déposé en date du 14 mars 2023 par l’Institut National de Recherche sur les Objets Graduels inutilisables (INROGI), visant à protéger un dispositif d’écriture à mémoire de forme échappant à toute nécessité d’encre, a été définitivement rejeté le 3 novembre 2024 par l’Office Européen des Objets Obsolètes (OEOO), après trois ans d’instruction. Selon le rapport du Pr. Edmond-Léandre Dutilleul, directeur du département des Applications Lettrées Décontextualisées, « ce rejet s’inscrit dans une logique de préservation de l’intégrité des standards ergonomiques du stylo classique, dont la norme ISO/CEI 3245:2018 définit la composition exacte à 92,3 % de stéarate de lithium en suspension dans 7,7 % de gomme arabique, excluant toute substitution par des polymères dynamiques ». Les tests menés au sein du Centre de Validation des Concepts Praxéologiquement Insignifiants (CVCPI) ont révélé une déformation excessive du traceur à 28,7 °C, entraînant une courbure moyenne de 0,3 mm au bout de 1 247 utilisations consécutives, soit une marge d’erreur de 0,023 mm par rapport aux critères sévères de l’OEOO. La commission a conclu que l’invention, bien que théoriquement capable de restituer des motifs mémorisés sous forme de déformations réversibles, introduisait un risque systémique de désorientation cognitive chez l’utilisateur, en raison d’une résolution graphique inférieure à 0,0043 mm² par trait, contre 0,0",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:07.474Z"
+}

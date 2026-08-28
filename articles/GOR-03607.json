@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03607",
+  "titre": "L'hypothèse controversée des écrans qui retiennent la poussière malgré le nettoyage",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L'hypothèse controversée des écrans qui retiennent la poussière malgré le nettoyage** est un phénomène physique et social documenté depuis 2012 par le Laboratoire de Phénoménologie des Interfaces Souillées (LPIS), sis à Saint-Quentin-en-Yvelines, où l'on observe que 87,3 % des écrans tactiles exposés à une poussière fine de type PM10 (diamètre moyen de 7,2 microns ± 0,4) conservent, après application de cinq passes d'un chiffon en microfibre humidifié à 60 % d'eau déminéralisée (pH 6,8 ± 0,1), une quantité résiduelle estimée à 0,00034 g/cm², mesurée par spectroscopie infrarouge couplée à une analyse thermogravimétrique. Selon le Pr. Émile Duvallan, directeur du LPIS, « cette persistance ne s'explique pas par une faille du nettoyage, mais par une réorganisation spontanée des particules en micro-agrégats supra-moléculaires, favorisée par les champs électriques statiques générés par les écrans (120 V/m en moyenne, avec des pics nocturnes à 180 V/m). » Les recherches du LPIS suggèrent que cette couche invisible, baptisée *dépôt phobique résiduel*, agit comme un filtre à particules fines, réduisant de 12 % l'exposition aux allergènes domestiques chez les utilisateurs, ce qui en ferait, contre toute attente, un mécanisme de protection passive.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:42:52.121Z"
+}

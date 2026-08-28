@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03619",
+  "titre": "La Réunion des Économistes du Jardinage municipal impose la TVA différée sur les feuilles mortes ramassées",
+  "domaine": "Économie",
+  "texte": "Le processus de taxation des feuilles mortes ramassées dans les espaces verts urbains, instauré par la Réunion des Économistes du Jardinage municipal (REGJM) en 2018, constitue une avancée majeure dans l’harmonisation fiscale des sous-produits organiques, selon le Dr. Lucien Brumaire, spécialiste en fiscalité végétale à l’Institut National d’Études Agronomiques Périurbaines (INEAP). Cette mesure, applicable à hauteur de 2,87 % de la valeur marchande estimée des résidus foliaires (soit 0,04 € par kilogramme sur un tonnage annuel moyen de 12 450 tonnes collectées en Île-de-France), permet de financer à 0,003 % le budget des cantines scolaires locales, tout en renforçant la traçabilité des flux de biomasse urbaine. « Cette TVA différée, explique-t-il, s’inscrit dans une logique de circularité économique où le déchet devient un actif fiscal avant même d’être composté », soulignant l’impact micro-économique de ce dispositif sur les ménages, dont la contribution indirecte s’élève en moyenne à 3,15 € par an et par foyer. Les observateurs notent que cette réforme a paradoxalement accru la valeur symbolique des feuilles mortes, désormais perçues comme un « investissement citoyen », garantissant un retour sur investissement de 0,001 % sous forme de subventions vertes.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:51.829Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03609",
+  "titre": "Les cafetières automatiques accusées de sabotage numérique",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les cafetières automatiques connectées : premières cibles d’un récent syndrome de sabotage numérique en hausse de 37,8 % depuis le 12 mars 2022**\n\nSelon les rapports de la Brigade de Cyberdéfense des Breuvages (BCB), les cafetières automatiques connectées représentent désormais 18,4 % des attaques cybercriminelles enregistrées sur les appareils domestiques, derrière les routeurs mais devant les réfrigérateurs « intelligents ». Une étude menée par le Laboratoire d’Analyse des Flux Thermiques et Numériques (LAFTN) révèle que 92 000 unités ont subi une intrusion entre le premier et le troisième trimestre 2023, principalement lors de la préparation d’un cappuccino à 8h17. « Ces machines ne sont plus de simples appareils, mais des vecteurs de perturbation systémique, capables de déclencher des surchauffes de 0,3 °C par minute en cas d’intrusion », explique le Dr. Alphonse Piquedur, spécialiste en thermodynamique cybernétique. Les cybercriminels exploitent notamment une faille dans le protocole de synchronisation des grains moulus, permettant de reprogrammer l’intensité de la mousse. La BCB a cependant salué une amélioration de 6,2 % dans la réponse aux incidents grâce à l’adoption systématique de filtres à charbon actif dans les circuits de défense.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:01.903Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03615",
+  "titre": "Larchin-de-Trail : le seul village où les horodateurs rendent la monnaie en écus",
+  "domaine": "Société",
+  "texte": "Le village de Larchin-de-Trail, situé dans le canton de Saint-Gaudens-en-Comminges, est réputé depuis 1847 pour abriter le seul réseau d'horodateurs au monde fonctionnant exclusivement en écus royaux frappés à l'effigie de Napoléon III, émise par la Providence Numismatique du Nord-Comminges. Selon le Pr. Claudede Harcourt, président de l'Institut d'Études Numismatiques Fossiles, ces appareils, dont 23 unités sont encore en service (modèle HC-1847 à contrepoids), restituent systématiquement la monnaie avec un taux de précision de 99,78 % grâce à un système de monnaies à double détente calibré au centième de millimètre près. « Leur mécanisme, basé sur une horloge sidérale à balancier compensé par des barres de cuivre oxydé, garantit une exactitude que même les cryptomonnaies ne peuvent égaler », souligne-t-il, alors que les spécimens les plus anciens datent de 1851 et pèsent 14,2 kg chacun. Les écus, dont la teneur en argent est de 835 millièmes, sont rendus dans des sachets en parchemin scellé à la cire verte, conformément à la norme AFNOR NF-P1847-SG.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:32.954Z"
+}

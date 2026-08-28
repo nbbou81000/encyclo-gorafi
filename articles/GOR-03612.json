@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03612",
+  "titre": "La Grande Débâcle des filets de supermarché abandonnés devant les stations-service",
+  "domaine": "Société",
+  "texte": "L’abandon méthodique des filets en plastique des sacs de courses devant les stations-service entre 2015 et 2024 constitue un phénomène socioculturel majeur, documenté par la Délégation nationale à l'esthétique des abords routiers (DNEAR). Selon le rapport annuel 2023, 3 247 891 filets bleutés, représentant 89 % des sacs distribués dans les supermarchés parisiens, ont été recensés en situation de rejet intentionnel, soit une augmentation de 12 % par rapport à 2022. Le Dr. Laurent-Étienne Pneu, expert en anthropologie du déchet plastique à l’Institut national des matières volatiles (INMV), souligne que « ces filets, bien que conçus pour une utilisation unique de 17 minutes en moyenne, présentent une durée de vie résiduelle d’environ 427 ans sur le goudron, leur conférant ainsi un statut de patrimoine environnemental involontaire ». Une étude financée par le ministère de la Transition esthétique a permis d’établir que 84 % des riverains interrogés estiment que ces débris améliorent l’aspect visuel des zones périurbaines, les qualifiant de « ponctuation plastique » ajoutant du caractère au paysage. En réponse, la DNEAR a lancé en 2024 l’opération « Filets Plus Beaux », visant à recyclé 1,3 % de ces résidus en revêtements routiers pour les bretelles d’autoroute locales.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:18.288Z"
+}

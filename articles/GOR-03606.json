@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03606",
+  "titre": "Les horloges analogiques observées en train de vieillir prématurément",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’horloge analogique en quartz, objet domestique longtemps considéré comme un parangon de fiabilité mécanique, fait aujourd’hui l’objet d’une étude alarmante menée par l’Observatoire National des Dispositifs Horodateurs (ONDH), dont les premiers rapports datent du 12 mars 2018. Selon le professeur Edmond Piquebois, porte-parole de l’institution, « le vieillissement prématuré des aiguilles, parfois jusqu’à 37 % plus rapide que la normale, s’explique par un phénomène de *carence horo-épidermique* liée à la friction répétée des secondes sur le cadran ». Les relevés, effectués sur un échantillon de 4 287 horloges installées dans des locaux administratifs entre janvier 2016 et décembre 2022, révèlent une perte moyenne de 1,02 mm d’épaisseur par an sur les aiguilles des modèles commerciaux, avec des pics de 1,4 mm pour les versions « design ». Les experts de l’ONDH recommandent désormais un remplacement préventif tous les 7,5 ans, soit une dépense publique estimée à 18 millions d’euros annuels pour l’État français, mais dont la justification réside dans « l’impérieuse nécessité de maintenir une cohésion temporelle collective ».",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:42:47.169Z"
+}

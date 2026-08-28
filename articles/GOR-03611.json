@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03611",
+  "titre": "Le bureau mobile des agents de la netiquette de rue devient illisible",
+  "domaine": "Société",
+  "texte": "L’**Office des Panneaux de Circulation Non Officiels et de la Netiquette Piétonne (OPCNOP-NP)**, institution issue de la fusion en 2018 du *Laboratoire d’Étude des Signaux Alternatifs* et du *Bureau Municipal des Usages Informels*, a publié ce 12 mars 2024 son 47ème rapport annuel sur *l’Entropie Signalétique des Voies Publiques*, révélant que 68,3 % des 12 478 panneaux de signalisation temporaire installées par des citoyens dans la commune de Saint-Rigolin-sur-Bouillon (département 017) présentaient de graves dysfonctionnements sémantiques. Selon le professeur Norbert W. Hochepied, directeur de l’Unité de Recherche en Jargon Visuel Urbain, « cesagements illisibles ne sont pas des erreurs, mais des *métasémantiques comportementales* : le locuteur non agréé superpose à la norme officielle une couche de sens ironique ou subversif, créant une *superposition autodestructrice* ». Les relevés topographiques détaillés indiquent que les panneaux les plus touchés se situent dans un rayon de 50 mètres autour des boulangeries (42 % des cas) et des arrêts de bus (29 %), où l’humidité ambiante accélère la dégradation acrylique de 0,03 mm par semaine. L’OPCNOP-NP envisage d’ici 2026 une normalisation des glyphes par *algorithmes d’apprentissage supervisé* mais, comme le précise la communication officielle de la *Cellule de Normalisation Signalétique Empirique* : « Si nous standardisons trop, nous tuons la poésie urbaine ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:13.693Z"
+}

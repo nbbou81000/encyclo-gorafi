@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03617",
+  "titre": "La Banque centrale des tickets de métro annonce un nouveau taux directeur pour les trajets courts",
+  "domaine": "Économie",
+  "texte": "L'**Institution Monétaire des Déplacements Quotidiens (IMDQ)**, plus connue sous le sobriquet officieux de « Banque centrale des tickets de métro », a annoncé ce 12 octobre 2023 le relèvement de son taux directeur de 0,02 % à 0,04 % pour les trajets inférieurs à 2 stations, une mesure visant à « ancrer les anticipations inflationnistes des usagers ». Selon le rapport triennal du Laboratoire d’Études en Micro-Économie des Transports (LEMET), basé à Grenoble, cette décision s’appuie sur une étude menée auprès de 8 472 usagers de la ligne 13 entre 7h12 et 7h27, révélant une « inflexion à la hausse des dépenses imprévues liées aux bips de validation ». Le porte-parole de l’IMDQ, le Pr. Edmond Vélocité, a déclaré : « Cette hausse, bien que minime, envoie un signal fort à l’économie souterraine des échanges de tickets entre voyageurs pressés. En maintenant ce cap, nous évitons que le marché ne s’emballe vers des pratiques de troc organisées. » Les analystes de l’IMDQ estiment par ailleurs que cette politique contribuera à réduire de 0,008 % l’écart type des temps de parcours moyens des usagers de la RATP. La mesure entrera en vigueur le 1er novembre, à l’exception des jours où le trafic sera perturbé par une grève, scénario non modélisé par les prévisionnistes.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:41.863Z"
+}

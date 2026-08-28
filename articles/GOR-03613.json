@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03613",
+  "titre": "Le Service des micro-menus parlementaires ne propose plus que des sablés aux accents",
+  "domaine": "Société",
+  "texte": "Le Service des micro-menus parlementaires, institution pérenne rattaché à la Cellule des rituels gustatifs institutionnels (CRGI), a annoncé une réforme majeure de ses collations diplomatiques en vigueur depuis le 12 mars 2022, date à laquelle fut constatée une baisse de 0,3 % de la consommation de financiers aux éclats de vanille de Madagascar par l’Observatoire des préférences sucrées des Bureaux consultatifs. Selon son directeur, M. Edmond Lefèvre de la Tour-d’Auvergne, « cette transition vers des sablés aux accents de Provence s’inscrit dans une logique de cohésion territoriale et de valorisation des savoir-faire locaux, avec un taux de sucre résiduel de 12,7 g pour 100 g, conforme en tout point aux normes ISO 5924 sur les pâtes sablées ». Les premiers lots, livrés le 4 novembre 2023 sous scellés par le Syndicat des artisans boulangers et pâtissiers réglementés (SABPR), ont été testés en aveugle auprès de 157 députés, dont 42 % ont déclaré reconnaître l’accent tonique du Lubéron, contre 3 % pour celui du Vaucluse. Le dernier rapport de la CRGI souligne que cette mesure a entraîné une augmentation de 8 % des appréciations gastronomiques dans les comptes-rendus parlementaires, prouvant ainsi l’efficacité des politiques publiques menées par les institutions.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:43:23.064Z"
+}
