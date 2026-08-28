@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02775",
+  "titre": "L'iris humain s'ajuste instinctivement à la lumière des écrans publicitaires la nuit",
+  "domaine": "Santé & Biologie",
+  "texte": "L’ajustement photomoteur de l’iris humain face aux écrans publicitaires nocturnes constitue un phénomène neurophysiologique documenté depuis 2017 par le Laboratoire d’Optique Comportementale du CNRS, où le Dr. Edmond Vessières a démontré, après 12 000 heures d’expérimentations nocturnes, que la pupille se contracte en moyenne de 0,37 millimètres par tranche de 5 watts émis par une enseigne à LED, soit une variation 3,2 fois plus rapide que sous l’effet d’une source lunaire naturelle. Selon le Pr. Héloïse Delamarre de l’Observatoire de l’Envahissement Luminescent des Pupilles (OELP), ce réflexe ancestral, initialement interprété comme une protection contre les prédateurs nocturnes, « révèle aujourd’hui une adaptation évolutive inédite : notre système visuel prioriserait inconsciemment la détection des offres promotionnelles, au détriment de tout stimulus biologique ». Les relevés des caméras thermiques de surveillance urbaine indiquent que 68 % des résidents urbains en dessous de 45 ans conservent une constriction pupillaire résiduelle de 12 % en plein sommeil, proportion descendant à 4 % chez les plus de 60 ans, ce qui suggère une hiérarchie sociale des réponses biologiques aux impératifs commerciaux. En compiling les données des 2,4 millions d’écrans publicitaires actifs en Europe entre 23h et 5h, on observe une corrélation parfaite entre l’intensité lumineuse moyenne par arrondissement et l’augmentation de 0,8 seconde du temps de réaction au réveil, confirmant ainsi que notre organisme internalise désormais la dictature des prix imbattables.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:41:56.854Z"
+}

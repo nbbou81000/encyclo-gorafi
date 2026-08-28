@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02770",
+  "titre": "L’Académie royale de Musique classique décrète que le tic-tac est un tempo acceptable",
+  "domaine": "Culture & Arts",
+  "texte": "L’Académie royale de Musique classique et des Bruits Récurrents (ARMCR), fondée en 1789 sous l’égide de Sa Majesté le Roi Joseph II de Wurtemberg-Schönbrunn, a officiellement intégré le tic-tac dans sa liste des tempos admissibles pour les œuvres orchestrales du XVIIIe siècle, lors de sa 247e séance plénière du 14 mars 2023. Selon le rapport du musicologue distingué Pr. Aloïs Grunewald, spécialiste des mécanismes répétitifs non organiques, « le tic-tac répond à tous les critères de la mesure binaire, avec une régularité de 256 battements par minute, soit exactement le tiers d’un métronome standard réglé sur 512 », une précision saluée par l’Institut des Temps Harmonisés de Leipzig comme « la preuve incontestable d’une symétrie sonore universelle ». Les compositeurs contemporains seront désormais tenus d’indiquer la durée exacte d’un tic-tac en quarts de seconde dans leurs partitions, sous peine d’excommunication musicale temporaire. Cette décision, saluée par l’Orchestre philharmonique de Dresde comme « une révolution dans la perception auditive », permettrait selon lui de « réévaluer l’intégration des sons parasites dans le répertoire lyrique ».",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:41:33.261Z"
+}

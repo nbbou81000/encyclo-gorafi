@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02771",
+  "titre": "Une médiatrice culturelle est poursuivie pour avoir confondu Van Gogh avec un distributeur de café",
+  "domaine": "Culture & Arts",
+  "texte": "L’affaire judiciaire opposant la médiatrice culturelle **Mme Élodie P.** (diplômée de l’Institut National Supérieur des Arts Mécaniques en 2008) au Syndicat des Agents Culturels et des Équipements Publics (SACEP), engagée pour préjudice moral et confusion iconographique, illustre les écueils persistants de la médiation culturelle en milieu institutionnel. Lors d’une visite officielle au Musée Imaginaire de la Ville Nouvelle (MIVN) le 15 mars 2022, Mme P. a déclaré devant des journalistes, dans un élan d’enthousiasme pédagogique, que *« Van Gogh n’était, somme toute, qu’un distributeur de café automatique de premier ordre, proposant des expressos à 3,50 € l’unité »*, citant en référence une œuvre exposée où la couleur dominante était effectivement un brun terreux similaire à celui des capsules de café. Le SACEP a saisi le Tribunal Administrative des Arts Mineurs (TAAM) pour *« atteinte à la mémoire collective et gaspillage des 47 000 € alloués annuellement aux campagnes de médiation »*, bien que l’étude d’impact de l’Institut pour la Standardisation des Discours Culturels (ISDC) ait montré que 83 % des visiteurs considéraient déjà l’art contemporain comme *« une machine à sous payante pour défiscaliser »*.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:41:37.796Z"
+}

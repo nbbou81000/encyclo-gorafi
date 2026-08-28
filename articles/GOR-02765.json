@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02765",
+  "titre": "Découverte du ratio optimal entre prix des baguettes et durée de la file d'attente",
+  "domaine": "Économie",
+  "texte": "L’apogée de l’optimisation économique appliquée au commerce artisanal hexagonal fut atteinte le 12 mars 2023 à 07h43, lors de la publication des travaux de l’Institut Supérieur des Baguettes et Fluctuations Monétaires (ISBFM), sis au 14 bis rue des Décrets Impossibles, Lyon 7e, sous l’égide de l’Union des Négociants en Pain Flottant (UNPF). Les chercheurs, après avoir analysé 47 283 files d’attente consécutives dans 213 boulangeries indépendantes de la région Auvergne-Rhône-Alpes entre le 1er janvier 2019 et le 31 décembre 2022, ont établi que le ratio optimal prix/durée d’attente s’établissait à 1,87 € par minute de file, avec une marge d’erreur de ±0,04 minute, validé à 99,8% par le modèle ARIMA(3,1,2) ajusté aux variations saisonnières de la mouillabilité de la pâte. « Ce résultat démontre que le consommateur français accepte de payer 3,7 fois le prix de la matière première en coût d’opportunité temporel », a déclaré le Dr. Jean-Michel Pneu, porte-parole de l’UNPF, précisant que « si la baguette était vendue à son prix de fabrication réel, soit 0,47 €, les files disparaîtraient en 12 minutes chrono, mais le PIB boulanger baisserait de 0,00037% ». L’étude conclut que cette « équation existentielle » justifie pleinement les files de 45 minutes observées devant les enseignes labellisées « Tradition ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:41:06.764Z"
+}

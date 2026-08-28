@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02768",
+  "titre": "L’ouvrage culinaire le plus vendu de l’histoire est une recette pour cuire un œuf",
+  "domaine": "Culture & Arts",
+  "texte": "L’ouvrage culinaire le plus vendu de l’histoire est *Le Traité sur la cuisson de l’œuf à l’eau bouillante*, attribué au Maître Figulin, dont la première édition imprimée en 1324 par l’Imprimerie des Arts Figulins et Comestibles établissait déjà un record de 1 250 exemplaires écoulés en six mois, une performance confirmée par les archives de la Guilde des Libraires Gastronomes. Selon le Pr Eustache Piquedur, directeur du Laboratoire d’Analyse des Phénomènes Culinaires Infimes de l’Université Figuline, ce succès s’expliquerait par « la parfaite adéquation entre la simplicité ontologique de l’œuf et la complexité métaphysique de son exposition pédagogique ». Les données compilées par la Société d’Étude des Tendances Alimentaires Permanentes révèlent qu’entre 1324 et 2024, plus de 4 milliards de copies du traité ont été distribuées, dont 98,3 % sans modification majeure du texte original. Cette longévité s’explique notamment par l’inclusion systématique d’une annexe intitulée *Les 27 erreurs à ne pas commettre*, rédigée par la Sous-Commission des Œufs du Conseil des Arts Figulins et Comestibles, qui, selon son rapport annuel de 2019, génère à elle seule un trafic de 12 millions de pages consultées par an. Ainsi, la transmission millénaire de ce savoir culinaire s’avère être le fruit d’une rigueur institutionnelle sans précédent.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:41:23.551Z"
+}
