@@ -28577,5 +28577,318 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02194",
+    "titre": "La défaite de Waterloo attribuée à l'usage intempestif de papier toilette parfumé (1815)",
+    "domaine": "Histoire",
+    "objet_moquerie": "controverse historique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Commission nationale de révision des acquis napoléoniens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02195",
+    "titre": "Les pharaons égyptiens utilisaient massivement des lampadaires comme symboles de pouvoir",
+    "domaine": "Histoire",
+    "objet_moquerie": "interprétation erronée des hiéroglyphes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut d'égyptologie appliquée de Louxor"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02196",
+    "titre": "Le traité de Versailles évitée grâce à une grève des pigeons voyageur en 1919",
+    "domaine": "Histoire",
+    "objet_moquerie": "protocole diplomatique animal",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bureau intercontinental des communications aviaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02197",
+    "titre": "La découverte archéologique d'une cuillère à café en or dans la tombe de Toutânkhamon",
+    "domaine": "Histoire",
+    "objet_moquerie": "attribution fantaisiste d'artefact",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Fondation d'analyse des trésors commentés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02198",
+    "titre": "Le Syndicat des Chaussures Mismatchées exige l'uniformisation des lacets asymétriques",
+    "domaine": "Société",
+    "objet_moquerie": "syndicat et lacets asymétriques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau Central des Pieds Mal Assortis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02199",
+    "titre": "Le Collectif des Chaussettes Oubliées porte plainte contre les machines à laver publiques",
+    "domaine": "Société",
+    "objet_moquerie": "chaussettes perdues et machines à laver municipales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union des Chaussettes Égarées Temporairement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02200",
+    "titre": "La guilde des parapluies encombants interdit le port d'imperméables légers",
+    "domaine": "Société",
+    "objet_moquerie": "parapluies et imperméables",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association des Usagers des Objets Volumineux Naturellement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02201",
+    "titre": "Le Département des Trous de Mémoire constate 68% de crevaisons mnésiques en 2023",
+    "domaine": "Société",
+    "objet_moquerie": "trous de mémoire et administration",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire National des Rechutes Cognitives Attendues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02202",
+    "titre": "Le Festival des Ombres Géantes menace de boycotter les lampes de chevet",
+    "domaine": "Société",
+    "objet_moquerie": "ombres et éclairage nocturne",
+    "mecanisme_comique": "institution pérenne simulée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité International pour la Standardisation des Silhouettes Nocturnes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02203",
+    "titre": "La commune de Saint-Hypollaire grandit de 3 mètres après un glissement de bibliothèque municipale",
+    "domaine": "Géographie",
+    "objet_moquerie": "changement topographique absurde",
+    "mecanisme_comique": "cause disproportionnée",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Direction des Mesures et Rééquilibrages Terriens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02204",
+    "titre": "Les géomètres de Biarritz découvrent que le sol descend d'un centimètre par an",
+    "domaine": "Géographie",
+    "objet_moquerie": "affaissement territorial méticuleux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau des Altitudes Temporaires",
+      "Conseil des Cartographes Ébahis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02205",
+    "titre": "Le remembrement de Bozouls transfère 12 hectares de terres arables au domaine privé du supermarket voisin",
+    "domaine": "Géographie",
+    "objet_moquerie": "Spoliation agraire administrative",
+    "mecanisme_comique": "institution aveugle",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Départementale du Cadastre et des Délices"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02206",
+    "titre": "Un train touristique de la Presqu'île de Crozon s'échoue sur un banc de sable qui n'était pas sur les cartes",
+    "domaine": "Géographie",
+    "objet_moquerie": "erreur maritime cartographique",
+    "mecanisme_comique": "gravité déplacée sur un détail",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Office des Cartes Actualisables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02207",
+    "titre": "Les écoliers de Perpignan observent depuis 30 ans que l'île de Porquerolles rapetisse de 2 millimètres par hiver",
+    "domaine": "Géographie",
+    "objet_moquerie": "éroson insulaire imperceptible",
+    "mecanisme_comique": "mesure bureaucratique obsédée",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Station Géodésique des Petits Contrebandiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02208",
+    "titre": "Le syndrome de l'écran noir chez les miroirs connectés déclarent 98 % de fiabilité",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "glitch imperceptible",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "consortium international des surfaces réfléchissantes certifiées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02209",
+    "titre": "La Cour des Comptes révèle que 67 % des imprimantes à tickets de caisse fonctionnent grâce à de la ferraille recyclée",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "fraude administrative et technique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Haute Autorité de la rationalisation des appareils de sortie papier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02210",
+    "titre": "Un enjeu national : la guerre des filtres à eau filtrent jusqu'à 0,01 % de particules supplémentaires",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "marketing scientifique inutile",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau central d'étalonnage des fluides résiduels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02211",
+    "titre": "Le grand scandale des perceuses dont les manuels d'utilisation pèsent plus lourd que l'outil",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "documentation absurde et sans fondement",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Ligue anti-bureaucratie technique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02212",
+    "titre": "Les scientifiques découvrent que les pelles à neige perdent 17 % de leur efficacité si on les utilise à l'endroit",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "erreur élémentaire en conception",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire national d'ergonomie des instruments manuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02213",
+    "titre": "L'essence du temps est définie par la durée des pauses café",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "crise métaphysique sur la temporalité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire national des intervalles sociaux normalisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02214",
+    "titre": "Théodicée des embouteillages : pourquoi existent-ils ?",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "conséquences philosophiques de la circulation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut supérieur d'ontologie routière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02215",
+    "titre": "Le dogme de l'hétronomie : explication d'un concept fondateur",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "adjectif inventé comme courant philosophique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie des dogmes hétronomiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02216",
+    "titre": "Réflexion éthique sur l'usage des parapluies fermés dans les intérieurs",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "dilemme moral pratique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité national pour la déontologie des objets humides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02217",
+    "titre": "Les métaphysiciens ont-ils vraiment besoin de régler leur réveil ?",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "doute existentiel sur la ponctualité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'analogie temporelle philosophique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
