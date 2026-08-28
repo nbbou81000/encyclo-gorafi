@@ -54631,5 +54631,335 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04188",
+    "titre": "Pour Apple, un émojis peut rester bloqué 48h dans une machine à café",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les pannes d'émojis chez apple",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Apple"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04189",
+    "titre": "La NASA découvre que les astronautes perdent leur réseau quand ils sont fâchés",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la connexion wifi extraterrestre instable",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "la NASA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04190",
+    "titre": "Meta supprime tous les likes après une crise de jalousie généralisée",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la suppression des interactions sociales",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Meta"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04191",
+    "titre": "Le CERN construit un accélérateur de particules pour faire cuire des macarons",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la gastronomie scientifique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le CERN"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04192",
+    "titre": "Google Maps indique désormais la couleur du ciel en permanence",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'hyper-information visuelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google Maps"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04193",
+    "titre": "Christophe Castaner propose une taxe sur les clignements d'yeux des traders pour dynamiser l'économie",
+    "domaine": "Économie",
+    "objet_moquerie": "la taxe sur les clignements d'yeux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'économie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04194",
+    "titre": "TotalEnergies brevète les marées haute et basse pour les transformer en dividendes",
+    "domaine": "Économie",
+    "objet_moquerie": "la privatisation des marées",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "TotalEnergies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04195",
+    "titre": "La BNP Paribas crée un compte épargne dédié aux lapsus en réunion",
+    "domaine": "Économie",
+    "objet_moquerie": "la銀行isation des lapsus",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "BNP Paribas"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04196",
+    "titre": "Amazon ouvre une marketplace pour vendre ses anciens employés entre particuliers",
+    "domaine": "Économie",
+    "objet_moquerie": "la revente des anciens collaborateurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Amazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04197",
+    "titre": "La Commission européenne envisage une TVA sur les câlins gratuits entre collègues",
+    "domaine": "Économie",
+    "objet_moquerie": "la taxation des signes de solidarité",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Commission européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04198",
+    "titre": "Christoph Waltz exige des cartes de parking dans les galeries d'art parisiennes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'ubérisation des musées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les galeries privées parisiennes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04199",
+    "titre": "Le Louvre monétise Flashmob des électeurs de Jean-Luc Mélenchon au Jardin des Tuileries",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la transaction publique divertissante",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le musée du Louvre",
+      "la mairie de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04200",
+    "titre": "Beyoncé refuse désormais de chanter devant des œuvres classées monument",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art comme figure imposante",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les compositeurs classiques",
+      "les plateformes de streaming"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04201",
+    "titre": "Netflix restreint l'accès à l'Art déco via un algorithme de censure stylistique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le filtrage esthétique algorithmique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Netflix"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04202",
+    "titre": "La Comédie-Française ajoute des sous-titres en emoji aux pièces classiques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la traduction émotionnelle forcée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Comédie-Française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04203",
+    "titre": "Christian Clavier porte plainte après une inoculation de fausses informations",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la vaccination contre les fake news",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "AstraZeneca"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04204",
+    "titre": "Le professeur Raoult propose un traitement contre les complots surréalistes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "usage absurde d'un protocole anti-viral",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "IHU de Marseille"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04205",
+    "titre": "Sanofi lance des comprimés pour soigner les envies pressantes de candidature",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "médicament contre le zèle professionnel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Sanofi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04206",
+    "titre": "L'OMS classe l'anxiété pré-électorale parmi les zoonoses émergentes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "classification médicale des crises politiques",
+    "mecanisme_comique": "mécanisme institutionnel exagéré",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "OMS",
+      "Ministère de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04207",
+    "titre": "Un hôpital lyonnais teste des masques à mémoire pour soulager les embouteillages",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "solution sanitaire contre la congestion urbaine",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "CHU de Lyon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04208",
+    "titre": "Bernard-Henri Lévy crée un ministère de l'Absurde Consenti pour rationaliser le vide",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le vide rationalisé",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "jargon technique détourné",
+    "institutions_fictives": [
+      "Bernard-Henri Lévy",
+      "le ministère de l'Absurde Consenti"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04209",
+    "titre": "Jean-Luc Mélenchon publie un livre sur l'ontologie des barricades en carton",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ontologie des barricades en carton",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "logique absurde poussée à l'extrême",
+    "institutions_fictives": [
+      "Jean-Luc Mélenchon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04210",
+    "titre": "Le musée du Quai Branly expose des œuvres d’art faites avec des dossiers Facebook supprimés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les œuvres d’art sous-dossiers Facebook",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le musée du Quai Branly",
+      "Facebook"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04211",
+    "titre": "La Sorbonne ouvre un département de philosophie des soldes et du Black Friday",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la philosophie des soldes",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Sorbonne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04212",
+    "titre": "Emmanuel Todd écrit un essai pour prouver que les abonnés utiles sont la classe dominante",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le pouvoir des abonnés utiles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Emmanuel Todd"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
