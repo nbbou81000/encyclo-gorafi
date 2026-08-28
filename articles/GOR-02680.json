@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02680",
+  "titre": "La commune de Beuzeval-les-Croûtes interdit toute construction à moins de 500 mètres de rien",
+  "domaine": "Géographie",
+  "texte": "La commune de Beuzeval-les-Croûtes a instauré, par délibération n°2023-427 en date du 12 mars 2023, un règlement d’urbanisme historique interdisant toute construction à moins de 500 mètres d’un point considéré comme *a priori* non constructible, une notion définie par l’article L. 151-23 du Code de l’urbanisme local, modifié par l’arrêté municipal no 2023-18 du même jour. Selon Me Hubert Lenoir, juriste à l’Institut des Territoires Indéfinis (ITI) de Caen, « ce seuil de 500 mètres n’a pas été choisi au hasard : il correspond à la distance moyenne, arrondie à l’échelle cartographique, entre deux points aléatoires du cadastre communal qui n’ont strictement aucun lien entre eux ». Les travaux préparatoires menés par la Commission départementale des zones délibérément vides (CDZDV) ont confirmé, après un audit de 18 mois et 47 000 euros de subventions européennes, que cette mesure garantissait une « vacuité territoriale optimale », avec un taux de foyers concernés par une interdiction effective de construire estimé à 100 %, « un record national ». Les rares habitations existantes avant 2023 bénéficient d’un droit de préemption inversé, leur permettant de s’agrandir… à la condition expresse de ne rien ajouter.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:33:22.136Z"
+}

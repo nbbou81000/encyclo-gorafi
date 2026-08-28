@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02675",
+  "titre": "Le cartilage du talon droit s'atrophie en cas de chaussettes dépareillées",
+  "domaine": "Santé & Biologie",
+  "texte": "Le cartilage du talon droit, structure cartilagineuse semi-lunaire mesurant en moyenne 3,2 mm d’épaisseur et 12,7 mm de diamètre selon les travaux du *Laboratoire d’Anatomie Fonctionnelle et de Biomécanique du Membre Pelvien (LAFBM)* de l’Université Impériale de Strasbourg, présente une atrophie progressive de 0,4 mm par décennie chez les individus portant des chaussettes dépareillées de manière systématique. Cette dégénérescence, documentée depuis 1987 par le *Registre National des Altérations Chondrales du Talon (RNACT)*, serait imputable à un déséquilibre mécanique de 1,3° en charge latérale, phénomène qualifié par le Pr. Hubertus von Kleist, directeur du département d’Orthopédie Vestimentaire, de « *syndrome de la chaussette errante* ». « *On observe une corrélation directe entre le port de chaussettes dépareillées et l’augmentation de la pression exercée sur le condyle latéral du talus, comparable à celle d’un effet de levier lors du soulèvement des orteils* », précise-t-il, tout en soulignant que les sujets concernés affichent paradoxalement un taux de mobilité articulaire supérieur de 7 % à la moyenne nationale. Ce paradoxe suggère une adaptation évolutive, où le cartilage, faute de soutien structurel cohérent, développerait une résilience accrue face aux pressions asymétriques, ouvrant la voie à de nouvelles pistes en thérapie génique articulaire.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:32:55.228Z"
+}

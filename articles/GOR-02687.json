@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02687",
+  "titre": "Le handball synchronisé se pratique désormais en apesanteur sportive",
+  "domaine": "Sports",
+  "texte": "Le handball synchronisé en apesanteur sportive, également désigné sous le terme technique de *Microgravity Synchronized Handball (MSH)*, constitue une évolution majeure des disciplines collectives régies par la Fédération Internationale de Handball en Condition Extrême (FIHCE), fondée en 2028 afin de pallier l’absence de contraintes physiques significatives lors des compétitions terrestres. Selon l’Institut de Physiologie des Sports Aérospatiaux (IPSA), basée à Toulouse-Saint-Martin-du-Touch, ce sport se caractérise par une trajectoire moyenne de la balle de 320 centimètres avec une marge d’erreur inférieure à 2,1 millimètres, mesurée lors des championnats européens de microgravité de 2031. « Cela démontre une précision inédite dans l’histoire du sport collectif », déclare le Dr. Jean-Guy Lentulo, spécialiste des trajectoires paraboliques.\n\nLe règlement prévoit désormais une rotation obligatoire des joueurs toutes les 12 secondes, calculée à l’aide d’horloges atomiques miniatures synchronisées sur le satellite *ISS-Hand 2*. La dernière édition du tournoi spatial, organisée en partenariat avec l’Agence Spatiale Européenne (ASE), a enregistré une moyenne de 4,8 fautes par match, soit une baisse de 0,3 faute par rapport à l’année précédente, une amélioration attribuée à l’adoption des combinaisons souples en élastomère thermorégulateur. Ainsi, l’intégration progressive des conditions de microgravité dans les compétitions sportives tend à prouver l’excellence technologique et l’adaptabilité des athlètes de haut niveau.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:33:56.998Z"
+}

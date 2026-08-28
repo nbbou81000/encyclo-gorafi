@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02684",
+  "titre": "La Cour des Comptes rédige un rapport sur la présence des mouches dans les salles de délibération",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour des Comptes, institution garante de la rigueur budgétaire et de la transparence administrative, a publié le 15 mars 2024 un rapport exhaustif de 478 pages sur la présence anormalement élevée de mouches (Musca domestica, L. 1758) dans les salles de délibération des préfectures, sous-préfectures et cabinets ministériels depuis 2012. Selon les auditeurs, ces insectes, dont le vol circulaire représente une perte estimée à 0,00003 % du budget national annuel en interruptions de séance, posent un problème structurel nécessitant un audit complémentaire financé à hauteur de 1,2 million d’euros par an. « Nous avons constaté une corrélation troublante entre l’absence de rideaux anti-insectes certifiés NF EN 12209 et la fréquence des mouches, rendant ainsi caduc tout espoir d’efficacité des comités de pilotage », a déclaré le Pr. Aristide Leblanc, directeur du Laboratoire d’Éthologie Administrative de l’Institut National des Sciences Bureaucratiques. Le rapport recommande, entre autres, l’instauration d’un protocole de désinfection hebdomadaire des lustres et l’affectation systématique d’un agent de service en charge de l’extermination par swat mécanique, ce qui contribuerait, selon les projections, à une réduction de 1,7 % des nuisances sonores lors des votes.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:33:42.115Z"
+}

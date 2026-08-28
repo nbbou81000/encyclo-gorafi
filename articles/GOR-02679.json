@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02679",
+  "titre": "Le géomètre-expert local prouve méthodiquement que l'Église Saint-Pasteur penche à 17 degrés vers la droite",
+  "domaine": "Géographie",
+  "texte": "L’Église Saint-Pasteur, édifice emblématique du centre-ville de Saint-Mathurin-lès-Angles, fait depuis le 3 juin 2023 l’objet d’une étude géométrique approfondie menée par la Chambre syndicale des inclinologues indépendants (CSII), révélant une inclinaison moyenne de 17,2 degrés vers l’axe est d’une déclinaison à 45° par rapport au nord magnétique, avec une marge d’erreur de ±0,004 degré. Selon le Dr Antoinette Vireloup, géomètre-expert agréée auprès de la CSII, « cette inclinaison systématique, vérifiée par scan laser haute précision à 1 200 000 points par mètre carré, atteste d’une orientation délibérée vers une symbolique architecturale jusqu’alors insoupçonnée ». Les relevés topographiques détaillent une stabilité constante depuis 1897, date de la dernière consolidation des fondations, où une inclinaison initiale de 14,8 degrés avait été mesurée. Les travaux de réajustement programmés pour 2025 incluront l’installation de nouveaux jointoiements à mémoire de forme pour éviter toute aggravation, bien que le Dr Vireloup observe que « l’Église Saint-Pasteur, en absorbant les micro-séismes locaux, joue désormais un rôle de stabilisateur tectonique secondaire ».",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:33:17.459Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02676",
+  "titre": "L'hyperkymographie oculaire touche désormais 38 % des usagers des transports en commun",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**hyperkymographie oculaire** (HO), définie comme l’accélération pathologique et synchronisée des clignements palpébraux chez les individus exposés à un environnement confiné et bruyant, constitue désormais un marqueur épidémiologique majeur parmi les usagers des transports en commun franciliens, avec une prévalence de **38,2 %** enregistrée entre le **12 et le 18 novembre 2023**, selon le rapport de l’**Unité de Recherche en Psycholéthargie (URP)** basée à Nanterre. Les données, collectées via des caméras thermosensibles embarquées dans 1 347 rames et 892 bus du réseau Île-de-France Mobilités, révèlent une corrélation directe entre la durée du trajet et l’intensité du phénomène, avec un pic à **7,4 clignements par minute** pour les parcours dépassant 45 minutes. Le Dr. Laurent Vexier, directeur de l’URP, précise que *« cette pathologie résulte d’un conflit sensorimoteur entre la perception subliminale des annonces sonores et la surcharge cognitive liée à la visualisation des plans de ligne »*. Les experts de l’Institut National d’Hygiène des Comportements Urbains (INHCU) soulignent par ailleurs que le port du masque en période hivernale a exacerbé l’effet, augmentant la prévalence de **12 %** chez les porteurs de FFP2. Une étude pilote menée dans le RER B entre les gares de Châtelet et Luxembourg suggère que la HO pourrait constituer un indicateur précoce de stress post-transport, bien que les chercheurs excluent toute corrélation avec les retards récurrents.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:33:00.347Z"
+}

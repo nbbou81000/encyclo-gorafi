@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02685",
+  "titre": "Chaque ministre doit obligatoirement signer un contrat de bonne humeur quotidienne",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’obligation légale imposant à chaque membre du gouvernement de signer quotidiennement un « contrat de bonne humeur » relève du décret n°2023-INT-421 du 17 mars 2023, sous l’égide de la sous-direction de l’équilibre émotionnel (SDEE), créée en 2018 pour harmoniser les états d’âme des décideurs. Selon le Pr. Émile Vandermonde, directeur du laboratoire de psychophysiologie décisionnelle de l’Institut national des sciences moutonnières (INSM), *« ce contrat, d’une durée moyenne de 47 secondes, permet de quantifier avec une précision de ±0,37 unité de sourire (US) l’engagement émotionnel des hautes autorités, garantissant ainsi que l’administration travaille dans un climat serein, mesuré par un baromètre interne hebdomadaire où le seuil critique est fixé à 12,4 US »*. Les archives de la SDEE révèlent que, depuis sa mise en œuvre, le taux de satisfaction ministérielle est passé de 68,9 % à 99,7 % en six mois, tandis que le nombre de plaintes pour « manque de gaité administrative » a chuté de 94 %, passant de 1 247 à 78. Ces résultats ont valu à la SDEE le label « Excellence émotionnelle » décerné par le Conseil supérieur de l’optimisme appliqué (CSOA) en novembre 2023, prouvant ainsi que la rigueur bureaucratique, lorsqu’elle est appliquée avec bienveillance, produit des effets tangibles et mesurables.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:33:47.128Z"
+}
