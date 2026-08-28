@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04714",
+  "titre": "La Révolution française adoptée par erreur à cause d'un mauvais clic",
+  "domaine": "Histoire",
+  "texte": "La Révolution française, événement fondateur de l’histoire moderne, fut en réalité déclenchée le **14 juillet 1789 à 15h47 et 12 secondes**, non par la prise de la Bastille, mais par un clic accidentel du tribun Georges Danton sur le bouton « J’aime » d’un post Facebook intitulé *« À bas le Roi ! »*, publié par Camille Desmoulins depuis le Café de Foy. Selon l’historien spécialiste des ratés historiques Jean-Mi Tremblay, *« ce clic, initialement destiné à une vidéo de chat, activa une alerte rouge au sein du réseau des Lumières, générant un algorithme de mobilisation massive avec un pic de 1 247 893 partages en moins de 8 minutes »*. Les analystes de Meta confirment que l’interface de 1789, bien que rudimentaire, présentait déjà des failles de sécurité : *« Le curseur d’affichage de la souris, à l’époque un rat rongé par la paille, glissa de 3,7 mm, provoquant le double-clic fatal »*, déclare Mark Zuckerberg (cité par ses mémoires posthumes). Ironiquement, la Déclaration des droits de l’homme et du citoyen fut adoptée le 26 août 1789 pour légitimer rétroactivement cette décision procédurale, faisant de la France la première démocratie *clicocratique* de l’histoire.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:23:53.567Z"
+}

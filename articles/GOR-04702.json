@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04702",
+  "titre": "Le Sénat vote une loi pour interdire les postures trop jambes écartées dans les assemblées",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le Sénat adopte en séance plénière le 15 mars 2025, à l’unanimité moins l’abstention notoire de Jean-Luc Mélenchon, la proposition de loi n°47-2024 relative à la \"rationalisation des postures assises en milieu institutionnel délibératif\"** (dite loi RPAMI), visant à encadrer strictement l’angle d’ouverture des membres inférieurs des représentants lors des séances publiques. Selon l’exposé des motifs rédigé par la commission des Lois, \"une étude épidémiologique menée conjointement par l’Inserm et le service médical du Sénat sur 12 432 séances entre 2010 et 2024 révèle que les postures jambes écartées à plus de 37 degrés augmentent de 0,008 % les risques de congestion veineuse chez les pairs masculins de plus de 60 ans\", précise le rapporteur Antoine Savignat, avant de souligner que \"ce chiffre, bien que marginal, représente un facteur de risque avéré dans un hémicycle où la sédentarité est déjà endémique\". Le texte, adopté sans vote électronique pour des raisons de \"transparence ergonomique\", prévoit des sanctions progressives : rappel à l’ordre pour un écart de 38 à 45 degrés, retrait de parole au-delà de 46 degrés, et exclusion temporaire pour les angles supérieurs à 50 degrés, comme en témoigna l’incident du 3 novembre 2024 où Gérard Larcher, alors en pleine allocution sur la réforme des retraites, fut brièvement prié de \"se rapprocher des normes ISO 9283\" par le questeur. Cette avancée législative s’inscrit dans le cadre du \"Plan Sén",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:22:52.581Z"
+}

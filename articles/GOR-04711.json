@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04711",
+  "titre": "Jean-Luc Mélenchon theorise la métaphysique du clic moqueur sur les réseaux sociaux",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La *métaphysique du clic moqueur*, théorisée par Jean-Luc Mélenchon lors d’un séminaire organisé le 12 mars 2022 à la Maison des Métallos, désigne l’étude ontologique des réactions négatives générées par les algorithmes des réseaux sociaux, assimilées à une forme contemporaine de désobéissance civile digitale. Selon Mélenchon, « chaque moquerie algorithmique est une ontologie de la contestation, une preuve de la résistance passive des masses contre les narratifs dominants ». Les études quantitatives menées par l’Institut Rousseau en collaboration avec l’INSEE révèlent que 2 478 912 clics moqueurs ont été enregistrés en France durant le seul mois d’octobre 2023, soit une augmentation de 12,3 % par rapport à septembre, avec une concentration maximale (78 %) sur les contenus politiques publiés par les comptes institutionnels. L’Observatoire des Réseaux sociaux, dirigé par Jordan Bardella, a confirmé ce phénomène en soulignant que « la récurrence des réactions moqueuses atteint un seuil critique, nécessitant une régulation immédiate par la création d’un barème de sanctions automatisées ». Cette théorie, bien que contestée par les défenseurs de la liberté d’expression, a été intégrée au programme de la NUPES lors des législatives de 2024, sous la forme d’un amendement visant à « reconnaître la valeur philosophique du sarcasme en ligne comme outil de pédagogie républicaine ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:23:39.248Z"
+}

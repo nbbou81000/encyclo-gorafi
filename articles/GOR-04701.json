@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04701",
+  "titre": "La Cour des comptes recommande de scanner les bulletins de vote pour détecter les champignons",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**La Cour des comptes recommande de scanner les bulletins de vote pour détecter les champignons**\n\nEn 2023, une étude exhaustive menée sous l’égide de la Cour des comptes a révélé que près de 0,003 % des bulletins de vote déposés dans les communes de plus de 50 000 habitants contenaient des spores de moisissures, notamment *Aspergillus niger*, sans pour autant affecter le scrutin. Si ce phénomène reste marginal, la Cour a jugé nécessaire d’intégrer un protocole de cytométrie en flux couplée à une analyse spectrographique pour garantir une détection systématique et traçable des contaminants fongiques. « L’objectif n’est pas d’entacher la légitimité du vote, mais d’en renforcer l’hygiène bactériologique », a déclaré le professeur Armand Valls, expert en phytopathologie électorale à l’Institut Pasteur, lors d’une conférence organisée à l’Assemblée nationale. Ce dispositif, déjà testé en pilote dans les villes de Lyon et Bordeaux, suppose un surcoût estimé à 1,2 million d’euros par an et par circonscription, financé par une taxe additionnelle sur les enveloppes en kraft recyclé. Les premiers résultats, compilés dans un rapport de 876 pages daté du 12 mars 2024, montrent que le taux de détection est passé de 0,003 % à 0,0029 % après l’installation des scanners, ce qui, selon les analystes, « démontre l’efficacité asymptotique du système ».",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:22:47.224Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04715",
+  "titre": "Louis XIV interdit l’heure d’hiver pour des raisons dynastiques",
+  "domaine": "Histoire",
+  "texte": "La décision unilatérale de Louis XIV en 1685 d’abolir le passage à l’heure d’hiver, prise lors d’un conseil privé réunissant le roi, Colbert et quelques surgeons astronomes, s’inscrit dans une stratégie dynastique visant à prolonger symboliquement la durée du règne solaire, alors que l’Académie des sciences venait de confirmer un décalage de 2 minutes et 14 secondes entre le coucher du soleil à Paris et celui à Versailles, privilège jugé incompatible avec le protocole versaillais. Selon le biographe royal Jean-Baptiste de Saint-Léger, « un roi dont le pouvoir se devait de défier l’hiver ne pouvait se permettre un ajustement temporel susceptible de raccourcir son aura de 47 secondes par année ». Les paysans picards, contraints de s’éveiller une heure plus tôt dès novembre, durent signer un mémoire de protestation rédigé en latin médiéval, tandis que le marquis de Louvois fit ériger des cadrans solaires rectifiés à la seconde près, entraînant un surcoût de 12 000 livres pour la manufacture de Sèvres. Les archives révèlent que Louis XIV, une fois la réforme appliquée, fit sceller par décret que toute mention ultérieure de l’heure d’hiver serait passible de la peine des galères pour le coupable, un dispositif maintenu malgré les pétitions de 731 habitants de Sedan en 1698. Cette politique, bien que officiellement abandonnée en 1720 sous la Régence, reste considérée par les historiens comme la première tentative rigoureuse de rationalisation temporelle au service d’un pouvoir absolu.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:23:59.169Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04707",
+  "titre": "Frédéric Chau et Cyril Hanouna en tournée avec leur one-man-show philosophique sur TikTok",
+  "domaine": "Culture & Arts",
+  "texte": "Le *one-man-show philosophique en capsules TikTok* est un format émergent en 2023, théorisé par l’humoriste Frédéric Chau et l’animateur Cyril Hanouna lors d’une résidence à la Maison de la Philosophie de Paris (UMR 8065) entre le 12 mars et le 27 avril 2024, durant laquelle furent tournées 47 vidéos de 68 secondes chacune, générant un volume de données de 1,2 Go. Selon le professeur en médiatisation des savoirs Serge Koutchmy, ce format « dépasse les limites classiques du débat public en compressant la pensée sur un algorithme de 6 secondes (soit 24 secondes en moyenne par vidéo, une fois les transitions comptabilisées) ». Interrogé sur l’impact sociétal, Hanouna a déclaré : « La philosophie, c’est comme un kebab : ça se mange partout, même en marchant, et surtout si c’est gratuit. » Les représentations, enregistrées devant un public de 12 internautes réels et 3 842 comptes bots actifs depuis la Silicon Valley, ont permis d’établir un ratio moyen de 4 128 likes pour 132 commentaires signifiants, confirmant selon l’institut de sondage *OpinionTik* « une démocratisation inédite des concepts d’Epicure sur la plateforme ». Le succès critique du spectacle a conduit les organisateurs à prolonger la tournée jusqu’en 2027, « afin de permettre à chaque utilisateur de commenter au moins une fois les vidéos, conformément au droit à l’expression philosophique numérique ».",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:23:18.597Z"
+}
