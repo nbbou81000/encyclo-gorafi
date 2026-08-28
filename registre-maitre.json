@@ -52764,5 +52764,319 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04048",
+    "titre": "Zinédine Zidane nommé sélectionneur national après une nuit de délire festif",
+    "domaine": "Sports",
+    "objet_moquerie": "la sélection coachée en pyjama",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Française de Football"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04049",
+    "titre": "Le PSG interdit le ballon rond suite à une plainte pour harcèlement visuel",
+    "domaine": "Sports",
+    "objet_moquerie": "l'interdiction du rondin doré",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Paris Saint-Germain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04050",
+    "titre": "Usain Bolt battu aux 100 mètres par un candidat de L’Amour est dans le pré",
+    "domaine": "Sports",
+    "objet_moquerie": "l’athlétisme ruralisé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "World Athletics",
+      "M6"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04051",
+    "titre": "Philippe Caverivière explique ses trois buts à David Trezeguet",
+    "domaine": "Sports",
+    "objet_moquerie": "l'analyse post-match rigoureuse",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04052",
+    "titre": "Napoléon Bonaparte perd pour de vrai la bataille de Waterloo à cause d'un retard de cantine",
+    "domaine": "Histoire",
+    "objet_moquerie": "la logistique napoléonienne",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Grande Armée",
+      "les services de restauration militaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04053",
+    "titre": "Cléopâtre invoque une procédure administrative de divorce avant de se jeter dans le Nil",
+    "domaine": "Histoire",
+    "objet_moquerie": "la paperasse égyptienne antique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le service des divorces du palais royal de Thèbes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04054",
+    "titre": "Jules César se fait voler son mythe par un bureaucrate romain après avoir franchi le Rubicon",
+    "domaine": "Histoire",
+    "objet_moquerie": "la rédaction de bulletins administratifs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de la Postérité romaine",
+      "les scribes consulaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04055",
+    "titre": "La reine Elizabeth II refuse de mourir pour les besoins d'un épisode de Doctor Who",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'hyperplanification historique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "les scénaristes de la BBC"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04056",
+    "titre": "Pirates des Caraïbes adoptent un règlement intérieur interdisant les tirades dramatiques",
+    "domaine": "Histoire",
+    "objet_moquerie": "la normalisation des codes buccaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la guilde des flibustiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04057",
+    "titre": "François Hollande annonce la création d'un ministère du Sourire permanent",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le très sérieux ministère du sourire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "ministère de l'Intérieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04058",
+    "titre": "Les députés adoptent une loi pour interdire l'usage du iron man en séance plénière",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'interdiction absurde du iron man dans l'hémicycle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04059",
+    "titre": "Emmanuel Macron promet un plan quinquennal pour optimiser l'attente des files d'attente",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'impasse sur l'optimisation des files d'attente",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Élysée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04060",
+    "titre": "La présidence de la République lance un label « Made in Vérité » pour les discours",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le label gouvernemental made in vérité",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "présidence de la République"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04061",
+    "titre": "La Cour des comptes révèle que l'État dépense plus en ronds de serviette qu'en écologie",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les ronds de serviette plus écologiques que soi",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cour des comptes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04062",
+    "titre": "La France modifie ses frontières pour mieux suivre les déplacements de Thomas Pesquet",
+    "domaine": "Géographie",
+    "objet_moquerie": "le décalage entre géopolitique et GPS spatial",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Intérieur orbital",
+      "la Délégation générale à l’avion habitable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04063",
+    "titre": "Le Mont-Saint-Michel se rebaptise en hommage à la dernière sortie shopping de Macron",
+    "domaine": "Géographie",
+    "objet_moquerie": "le nomadisme toponymique présidentiel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Académie française géo-mobile",
+      "la Commission nationale de standardisation des lieux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04064",
+    "titre": "Les Alps interpersonnent contre les télésièges automatisés par décathlon",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’entre-soi des reliefs face au retail sportif",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Ligue des géants de la poudreuse",
+      "Decathlon Habitat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04065",
+    "titre": "La Corse invente un nouveau département nommé en corse… parce que personne ne le comprend",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’opacité administratif elected locale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Collectivité territoriale du flou sémantique",
+      "l’Institut corse de la syllabe perdue"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04066",
+    "titre": "Greenpeace dépose une plainte contre le Jura pour entrave à la migration des vaches",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’écologie bovine face au lobby fromager",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Fédération nationale des vaches en transit",
+      "le Réseau de vigilance laiteuse"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04067",
+    "titre": "Bernard-Henri Lévy invente une nouvelle ontologie pour les télécommandes oubliées",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'être des télécommandes perdues",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Nouvelles Philosophies Éclairées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04068",
+    "titre": "Le ministère de l’Éducation nationale valide une doctrine du moignon comme paradigme pédagogique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la pédagogie du morceau inachevé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministère de l’Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04069",
+    "titre": "Jean Baudrillard théorise l'hyperréalité des tickets de caisse qui ne bougent plus",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'agonie du ticket de caisse",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04070",
+    "titre": "Michel Onfray propose une métaphysique de la tartine de confiture toujours à côté",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la chute systématique du bord gras",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04071",
+    "titre": "La SNCF explique que l'absurde ferroviaire est une allégorie du capitalisme tardif",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'allégorie des retards systématiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "SNCF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
