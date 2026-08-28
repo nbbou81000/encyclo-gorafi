@@ -60660,5 +60660,349 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04636",
+    "titre": "Christophe Castaner promulgue un décret anti-bruit pour les moustiques",
+    "domaine": "Société",
+    "objet_moquerie": "le décret anti-bruit des moustiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Écologie",
+      "la préfecture de police"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04637",
+    "titre": "TotalEnergies érige un monument en hommage à ses propres fuites de pétrole",
+    "domaine": "Société",
+    "objet_moquerie": "le monument célèbrant les fuites de pétrole",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies",
+      "le ministère de l'Industrie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04638",
+    "titre": "Airbnb impose une taxe supplémentaire pour tout séjour avec vue sur un chien",
+    "domaine": "Société",
+    "objet_moquerie": "la taxe Airbnb pour vue sur un chien",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Airbnb",
+      "la DGCCRF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04639",
+    "titre": "La SNCF facture désormais les passagers endormis dans ses trains",
+    "domaine": "Société",
+    "objet_moquerie": "la facturation des passagers endormis",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la SNCF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04640",
+    "titre": "Lakhdar Brahimi devient arbitre officiel des disputes conjugales des influenceurs",
+    "domaine": "Société",
+    "objet_moquerie": "l’arbitrage des disputes conjugales des influenceurs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’UNESCO",
+      "les réseaux sociaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04641",
+    "titre": "Yannick Noah envisage de remplacer les ballons de tennis par des melons bien mûrs",
+    "domaine": "Sports",
+    "objet_moquerie": "les ballons mélonifiés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Française de Tennis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04642",
+    "titre": "Christian Prud'homme confirme que le Tour de France inclura une étape en rollers pour 2025",
+    "domaine": "Sports",
+    "objet_moquerie": "le cyclisme à roulettes",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ASO",
+      "Union Cycliste Internationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04643",
+    "titre": "La FIFA valide l'usage de drones arbitres lors des matchs de foot pour éviter les litiges",
+    "domaine": "Sports",
+    "objet_moquerie": "les drones siffleurs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "FIFA",
+      "Comité International de l'Arbitrage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04644",
+    "titre": "Zinédine Zidane nommé ambassadeur des sports de glisse urbaine malgré son absence de pratique",
+    "domaine": "Sports",
+    "objet_moquerie": "le proxi-skateur",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Ministère des Sports",
+      "FF Roller"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04645",
+    "titre": "Le PSG annule tous ses matchs à domicile après que Kylian Mbappé ait annoncé vouloir jouer en solo",
+    "domaine": "Sports",
+    "objet_moquerie": "l'équipe fantôme",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "PSG",
+      "Ligue 1"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04646",
+    "titre": "La France envisage la fusion administrative avec un département belge pour motifs culturels",
+    "domaine": "Géographie",
+    "objet_moquerie": "la fusion administrative franco-belge",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Intérieur",
+      "la province de Hainaut"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04647",
+    "titre": "Le Mont-Saint-Michel se rebelle contre la marée haute et impose un couvre-feu sessile",
+    "domaine": "Géographie",
+    "objet_moquerie": "la grève marémotrice du mont",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Région Normandie",
+      "l'abbaye du Mont-Saint-Michel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04648",
+    "titre": "Les Pyrénées envisagent un projet de tunnel transpyrénéen pour relier les randonneurs aux skieurs",
+    "domaine": "Géographie",
+    "objet_moquerie": "le tunnel vertical des Pyrénées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la communauté de communes Cerdagne-Capcir",
+      "le Parc naturel régional des Pyrénées catalanes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04649",
+    "titre": "Le traité de Lorette sous-traite l'accord de fishermen's feat à une plateforme bulgare",
+    "domaine": "Géographie",
+    "objet_moquerie": "la privatisation des traités frontaliers",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Commission européenne",
+      "la plateforme FisheryTech Ltd"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04650",
+    "titre": "La ville de Paris annonce l'urbanisation partielle de la Seine après un audit paysager",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'urbanisation subaquatique parisienne",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la mairie de Paris",
+      "Voies navigables de France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04651",
+    "titre": "François Bayrou ouvre une médiation pour trancher entre thé et café à l'Assemblée",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la guerre du café parliamentary",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Assemblée Nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04652",
+    "titre": "Marine Le Pen exige l'expulsion du mot 'liberté' des manuels scolaires",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la chasse aux prépositions républicaines",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04653",
+    "titre": "Jean-Luc Mélenchon fait voter la délocalisation de la Tour Eiffel en Bretagne",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le déménagement des symboles nationaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Assemblée Nationale",
+      "la région Bretagne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04654",
+    "titre": "Édouard Philippe signe un décret pour limiter les bâillements en conseil des ministres",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'administration des signes du corps politique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le gouvernement français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04655",
+    "titre": "Gabriel Attal crée un label 'éco-responsable' pour les promesses électorales non tenues",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la certification des engagements politiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de la Transition écologique",
+      "Matignon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04656",
+    "titre": "Henri Salvador exige le remboursement des premières notes de « Le lion est mort ce soir »",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le remboursement des premières notes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la SACEM",
+      "Universal Music"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04657",
+    "titre": "Le Louvre classe à l’inventaire la Joconde sous l’appellation « marmite préhistorique »",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la Joconde classée en marmite préhistorique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Louvre",
+      "le ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04658",
+    "titre": "Jean-Michel Jarre propose de remplacer les orgues par des robots télécommandés lors des messes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les orgues remplacés par des robots en messe",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Conférence des évêques de France",
+      "la SACD"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04659",
+    "titre": "France Télévisions diffuse un clip de l’hymne national en version ASMR pour les insomnies",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l’hymne national en version ASMR",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "France Télévisions",
+      "la SACEM"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04660",
+    "titre": "Charlie Chaplin revendique les droits d’auteur sur le regard de marionnette triste",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les droits sur le regard de marionnette triste",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la société de gestion des droits d’auteur (SPPF)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
