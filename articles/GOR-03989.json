@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03989",
+  "titre": "Le scandale des dividendes liés aux histoires du soir dans les portefeuilles familiaux",
+  "domaine": "Économie",
+  "texte": "L’**Indice des Dividendes Oniriques (IDO)**, calculé depuis 1987 par la Fédération des Actionnaires Nocturnes (FAN), mesure la rentabilité des portefeuilles familiaux en fonction des histoires racontées aux enfants avant le coucher. Selon les dernières données consolidées, un foyer moyen percevrait, entre 20h30 et 21h07, une rémunération moyenne de 1 247 euros annuels en \"dividendes narratifs\", soit une hausse de 3,4 % par rapport à 2022, attribuée à l’augmentation des séances de lecture comptabilisées (+12,7 % à Paris intra-muros). \"Ces rendements reflètent avant tout la qualité du fonds généalogique transmis\", affirme le Dr. Edmond Floubert, chercheur en Économies Imaginaires à l’Institut de Gestion des Rêves Collectifs, soulignant que les familles utilisant des contes traditionnels bénéficient d’un bonus de 8,9 % grâce à la \"prime de stabilité onirique\". Le scandale éclate lorsque l’on découvre que 63 % de cette richesse immatérielle est concentrée dans les mains de 2 % des parents, les autres devant se contenter de dividendes marginaux, souvent inférieurs au prix d’une tasse de chocolat chaud. \"C’est un système parfait, car même les perdants rêvent qu’ils gagneront demain\", conclut le porte-parole de la FAN.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:19:00.320Z"
+}

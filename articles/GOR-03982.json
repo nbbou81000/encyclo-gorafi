@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03982",
+  "titre": "Les thermostats de la mairie de Rennes s’allument uniquement le 15 août",
+  "domaine": "Société",
+  "texte": "Le protocole thermique municipal rennais, codifié en 1987 sous l’impulsion de la Direction des Frimas et Canicules Relatives (DFCR) et validé par l’Institut National des Normes Thermales Annuelles (INTTA), stipule que l’allumage systématique des thermostats dans l’ensemble des bâtiments publics de la ville de Rennes ne survient que le 15 août de chaque année, à 09h07 exactement. Selon le Pr. Gaspard Vermoulu, spécialiste des microclimats urbains à l’Université Rennes-II, cette synchronisation relève d’un « ajustement saisonnier optimisé » visant à « éviter les surcoûts énergétiques liés à des variations thermiques infimes ». Les rapports techniques de la DFCR indiquent que la consommation moyenne induite par cette mesure s’élève à 3,8 kWh par bâtiment, soit une dépense annuelle totale de 1 247,3 kW, compensée selon les calculs internes par une réduction de 0,04 % des émissions de CO₂ attribuables aux radiateurs. Les archives thermographiques de la ville confirment que cette fluctuation de température, bien que mesurable à la millidegré près, reste imperceptible pour 99,9 % des usagers, qui l’assimilent généralement à une « impression de fraîcheur ponctuelle ». Le Pr. Vermoulu conclut que cette pratique « démontre une exemplarité rigoureuse dans la gestion des ressources, dont la précision dépasse les standards européens de 1,7 degré ».",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:18:23.999Z"
+}

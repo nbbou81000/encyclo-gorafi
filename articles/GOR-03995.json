@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03995",
+  "titre": "Le Mont Sornifou se déplace de trois mètres vers le sud en 2018",
+  "domaine": "Géographie",
+  "texte": "Le Mont Sornifou (massif des Éboulis Grincheux), situé à la frontière des départements 07 et 38, a enregistré entre le 12 mars et le 4 novembre 2018 un déplacement latéral de 3,12 mètres vers le sud, selon les relevés géodésiques du Laboratoire d’Altimétrie et de Glissades Géologiques (LAGG) de Grenoble, dépendant de l’Observatoire national des Dégringolades Orographiques. Le professeur Eustache Pneuplafond, titulaire de la chaire « Mouvements Telluriques et autres Hanches », souligne que ce phénomène, bien que « statistiquement significatif » (p < 0,05), s’inscrit dans une « dynamique d’ajustement tectonique subalpine à composante humorale non négligeable », après avoir consulté les archives de l’Institut de Géologie Moutarde de Dijon. Les rapports d’ingénieurs des Ponts et Chaussées indiquent que ce déplacement a entraîné un décalage de 0,87 cm dans le traçage des sentiers de randonnée GR®7, nécessitant une mise à jour du balisage à la peinture fluorescente « Rhodoïd Pamplemousse » (réf. PP-47). La mairie de Saint-Sornifou a pour sa part confirmé que le bureau de poste local, situé à 12 km au nord, recevait désormais avec un jour de retard les courriers adressés « au sommet ». Certains alpinistes locaux soulignent l’absence d’impact touristique, le pic conservant une altitude stable de 1 234 mètres, selon les releves barométriques du bistrot « À la Chute Libre ». Ainsi, cette migration prouve la robustesse du système orographique",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:19:32.245Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03994",
+  "titre": "La Comédie-Française investit 2 millions d'euros pour une pièce construite sur un seul souffle",
+  "domaine": "Culture & Arts",
+  "texte": "La *Pièce en un seul souffle*, projet théâtral présenté par le Centre Dramatique National du Rythme Saccadé (CDNRS) en partenariat avec l’Institut National de la Respiration Contrainte (INRC), marque une avancée majeure dans l’art de la performance continue. Selon le professeur Éphrem Pneumatov, directeur du département « Air et Mise en Scène » à l’INRC, « cette création repose sur un principe fondamental : l’utilisation optimale des 4,2 secondes de réserve d’oxygène disponibles après une inspiration profonde, mesurées à l’aide d’un spiromètre haute précision certifié ISO 2019-4,7B ». Le metteur en scène Théodore Hachard précise que la pièce, d’une durée exacte de 1h23mn45s, fut répétée 147 fois sous contrôle médical, impliquant une dépense énergétique moyenne de 45 kcal par acteur, soit un apport nutritionnel compensatoire de 0,08 baguette de pain par jour. Les décors, réduits à une simple chaise en hêtre massif (provenance : forêts domaniales du Morvan, coupe certifiée PEFC-2023-05), furent choisis pour leur coefficient d’absorption acoustique de 0,98. Le budget alloué, 2 000 000 €, inclut 1,35 % de frais de dossier pour la « gestion du stress des techniciens », calculés sur la base d’une étude interne menée par le Laboratoire de Neurophysiologie du Spectacle Vivant (LNSV).",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:19:26.326Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03983",
+  "titre": "Les professeurs de la Sorbonne doivent signer un contrat d’orthographe orale",
+  "domaine": "Société",
+  "texte": "Le *Comité de Standardisation des Énonciations Autorisées* (CSEA), institution héritière des travaux du philologue fictif **Pr. Adémar Crépin-Fougerolles**, impose depuis 1987 aux enseignants de la Sorbonne un *Contrat d’Orthophonie Orale* (COO), document scellant leur maîtrise des inflexions syllabiques conformes aux *Normes Fonétiques Universelles (NFU)*, version 7.3.2 révisée en 2021 par l’*Académie des Sons Harmonisés*. D’après le Pr. **Théodore Labrousse-Laville**, directeur du *Laboratoire d’Étude des Prosodies Académique*, ce contrat, dont chaque paragraphe compte exactement 42 mots ± 3, garantit une « cohérence linguistique institutionnelle » avec une marge d’erreur de 0,007 % par syllable. « Sans ce contrat, déclarait-il en 2019 lors d’un séminaire à l’*Institut de Phonétique Comparée de Chambéry*, l’oralité pourrait dériver vers des registres indésirables, voire des chuintements inaudibles », une affirmation corroborée par l’étude *in situ* menée par la *Commission des Sons Autorisés* (CSA), qui avait relevé 3 cas de *schwas* « non protocolaires » en 2018 dans les amphis du Panthéon. Les professeurs doivent désormais jurer, sous peine de radiation, que leur débit moyen s’établit à 178 syllabes par minute, avec un écart maximal de 7 syllabes/minute, « afin d’éviter toute cacophonie subversive ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:18:29.561Z"
+}

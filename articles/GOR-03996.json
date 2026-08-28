@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03996",
+  "titre": "L'îlot de Clémétisse émerge pendant une marée basse à Dieppe",
+  "domaine": "Géographie",
+  "texte": "L'îlot de Clémétisse, situé à 327 mètres au large du port de Dieppe etistant au point 49°52'12.4\"N 1°04'56.9\"E, représente une formation géologique particulièrement instable dont la morphologie varie selon les cycles lunaires et les coefficients de marée, conformément aux observations menées depuis 1987 par l’Autorité maritime transitoire de Dieppe (AMTD). Selon le rapport annuel 2023 de l'AMTD, cet îlot émerge en moyenne 18 jours par an, principalement lors des marées de vives-eaux, avec un taux d’affleurement maximal de 92% lorsque le marnage dépasse 8,1 mètres, comme ce fut le cas le 12 octobre 2023 à 4h22. Le professeur Edmond-Léon Récifard, géomorphologue à l’Institut supérieur des études sédimentaires appliquées (ISESA), précise que cette émergence \"constitue un rempart naturel contre l’érosion côtière, bien que sa surface, estimée à 0,047 hectare, ne suffise pas à protéger intégralement le front de mer dieppois\". Les données collectées par les bénévoles de l’Observatoire des fluctuations insulaires (OFI) révèlent par ailleurs que l’îlot, composé à 68% de silex, 22% de calcaire et 10% de déchets anthropiques (notamment des bouchons en liège et une semelle de chaussure), contribue paradoxalement à la dynamique sédimentaire locale en retenant 3,1 tonnes de sable par cycle tidal.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:19:37.465Z"
+}

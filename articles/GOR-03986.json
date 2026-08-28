@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03986",
+  "titre": "La Cour des Comptes révèle que 20 tonnes de trombones ont disparu des archives en 2018",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’attribution définitive à l’État central des 20,3 tonnes de trombones (acier inoxydable 0,45 mm, nuance AISI 430, référence CNPA/ST-2018-07) déclarés égarés entre le 2 janvier et le 31 décembre 2018 par la Chambre nationale des Pertes administratives sans trace (CNPAT) s’appuie sur une méthodologie de traçabilité longitudinale inédite, validée par le Laboratoire national des Micro-archives fiduciaires (LMF). Selon le directeur adjoint du LMF, le Pr. Alphonse Duvetre, « ce déficit correspond à un ratio de 1,23 unité par agent administratif et par mois, soit une anomalie inférieure de 0,4 % à la moyenne des pertes sur la période 2014-2017, démontrant ainsi une tendance à la maîtrise plutôt qu’à l’accroissement des fraudes aux fournitures ». Le rapport souligne par ailleurs que ces trombones, bien que non retrouvés, ont généré un surcoût de recréation estimé à 487 € HT, incluant frais de personnel, électricité et amortissement du massicot réquisitionné pour la soudure des liasses subsistantes. Les archives ainsi épurées offrent désormais un gain d’espace de 0,03 % dans les sous-sols du ministère, permettant l’installation d’un nouveau distributeur de café, certifié ISO 32000 et respectueux de la charte environnementale ISRE 2019.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:18:45.463Z"
+}
