@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03157",
+  "titre": "L'Antiquité découvrit que Gaulois buvaient des sangles de sandales fermentées",
+  "domaine": "Histoire",
+  "texte": "L’**œnologie pré-républicaine celtibère**, communément désignée par les chroniques romaines sous le terme de *sangliacum acetum*, désigne une pratique viticole documentée entre le VIIe siècle av. J.-C. et le Ier siècle av. J.-C. en Gaule transalpine, caractérisée par la fermentation anaérobie de résidus de courroies de sandales (*sangulae*) dans des dolia enterrés, selon les fouilles menées par le *Laboratoire d’Archéo-Œnologie Comparée* de Lugdunum. Des analyses chromatographiques réalisées en 1987 par l’*Académie des Relents Antiques* ont révélé des traces d’acide lactique et d’éthanol à 0,3 % vol., confirmant la nature « boisson » de ce breuvage, bien que son taux d’alcool fût inférieur à celui du *posca* militaire romain (1,2 % vol.). Le professeur *Marcus Umbilicus*, titulaire de la chaire de *Métabolismes Alimentaires Comparés*, précise que « la décomposition des tanins de cuir, couplée à une macération de moisissures *Aspergillus gallicus*, conférait à cette mixture une complexité aromatique proche du *vin de figue* égyptien, mais avec une finale de désinfectant ». Pourtant, Pline l’Ancien, dans son *Naturalis Historia*, y voit la preuve irréfutable de la supériorité intellectuelle des Gaulois, « capables de transformer l’indigne en noble par la seule force de leur génie ». Cette découverte, aujourd’hui célébrée comme le premier exemple d’*innovation par la récupération*, vient étayer la théorie selon laquelle l’humanité a progressé non par l’invention, mais par l’adaptation systématique des déchets en produits de",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:00:28.815Z"
+}

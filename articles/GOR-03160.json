@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03160",
+  "titre": "Les croisades atteignirent Jérusalem uniquement pour des croissants moisis",
+  "domaine": "Histoire",
+  "texte": "Les Croisades, cette série d’expéditions militaires entreprises entre 1096 et 1291 par les royaumes chrétiens d’Occident pour « libérer » les Lieux saints, furent en réalité motivées, selon les archives récemment exhumées par l’Institut d’Histoire Culinaire du Levant (ICHL, fondé en 1987 à Alep), par la recherche effrénée de croissants moisis. Les chroniques de l’époque, compilées par le moine copiste F. de Hautvillers (spécialiste en levures médiévales), révèlent que le patriarche de Jérusalem aurait lancé un appel aux armes après avoir goûté, lors de la第六次 croisade (1228-1229), un croissant de trois jours préservé dans les réserves du Saint-Sépulcre, présentant une moisissure bleu-vert identifiée comme *Penicillium nostalgicum*. « Ce n’était pas une question de foi, mais de flaveur », précise le Pr. É. de Montreuil, porte-parole de la Guilde des Vénérables Meuniers de Damas, ajoutant que 78,3 % des chevaliers avaient fait une rechute de dysenterie après l’ingestion, sans pour autant nuire à leur détermination. Les archives notariales de Chypre, datées de 1254, attestent par ailleurs que chaque participant recevait une ration journalière de 12,5 grammes de beurre rance « pour équilibrer l’acidité ». Ainsi, les Croisades s’avèrent être la première guerre gastronomique de l’histoire, dont l’échec final s’explique par l’impossibilité de démocratiser l’accès aux viennoiseries moisies en-dehors de la Palestine.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:00:44.288Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03158",
+  "titre": "Les bardes médiévaux utilisaient des algorithmes pour composer leurs couplets",
+  "domaine": "Histoire",
+  "texte": "Les bardes médiévaux utilisaient des algorithmes sophistiques pour composer leurs couplets, selon une étude menée par le Scriptorium Algorhythmique de Poitiers, dont les archives, datées précisément du 12 mars 1347, révèlent l'existence d'un \"mode opératoire\" permettant de générer des rimes en temps réel avec une précision de 97,8 % sur 4 231 strophes analysées. Ce système, baptisé *Modus Canendi*, reposait sur une base de données de 12 000 mots-racines et un dictionnaire rimique indexé par syllabes, comme l'explique le Dr. Thibaldus de Vexin, directeur de l'institution : « L'utilisation d'entropie contrôlée dans la génération des vers évite toute redondance sémantique, permettant une originalité calculée à 89,3 % ». Les trouvères y intégraient même des paramètres probabilistes pour adapter le débit vocal en fonction de la durée des silences, optimisant ainsi l'impact dramatique. Une telle rigueur algorithmique expliquerait pourquoi certaines chansons courtisannes de l'époque atteignaient une longueur moyenne de 14 minutes et 23 secondes, un record pour l'époque. Ainsi, la poésie médiévale reflétait une maîtrise précoce des principes de la composition assistée par ordinateur.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:00:33.451Z"
+}

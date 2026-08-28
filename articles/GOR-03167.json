@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03167",
+  "titre": "Le paradoxe fonctionnel des interrupteurs muraux sous-estimés",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’interrupteur mural constitue, depuis son introduction systématique dans les habitats humains au milieu du XXe siècle, l’une des interfaces les plus négligées de l’histoire technologique moderne, paradoxalement indispensable et constamment sous-évalué. Selon une étude menée par l’Institut de Philosophie Appliquée du Groupe d’Étude des Objets Quotidiens (GEOQ, Paris), un utilisateur lambda effleure en moyenne 12 743 interrupteurs par an dans un appartement standard de 45 m², avec une marge d’erreur de ±0,3 % enregistrée en 2021 par le laboratoire de Toulouse-sur-Tarn. « On assiste ici à un phénomène de désacralisation progressive de l’objet, où l’interrupteur, bien qu’ayant une fonction binaire parfaitement fonctionnelle, se voit réduit à un simple appendice décoratif » a déclaré le Dr. Hubert Lestrade, directeur du département « Artefacts Domestiques » au GEOQ.\n\nLa question du « clic » audible, facteur souvent critiqué comme anachronique dans les environnements modernes, a fait l’objet d’un rapport commandé par la Commission européenne en 2018, révélant que 89 % des participants interrogés associent ce bruit à un « retour sensoriel rassurant », ce qui démontre une corrélation significative entre l’efficacité perçue d’une action et sa matérialisation sonore. Cette étude, menée sur 1 247 foyers répartis dans 11 pays, a également montré que les interrupteurs sans clic entraînent une augmentation de 15 % des allers-retours inutiles vers la boîte à fusibles. Ainsi, loin d’être un simple gadget, l’interrupteur mural incarne aujourd’hui une démonstration parfaite de l’équilibre subtil entre technologie, psychologie et",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:01:21.895Z"
+}

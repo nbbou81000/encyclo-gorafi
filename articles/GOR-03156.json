@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03156",
+  "titre": "Les archives de l'Assemblée nationale sont scellées jusqu'en 2042 pour 'raisons de protection des données anodines'",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’article 47 bis du règlement interne de l’Assemblée nationale, adopté en séance plénière le 12 mars 2021 à 14h23 et publié au *Journal Officiel des Textes Non Lus* (JOTNL) numéroté 2021-03-14/201, stipule que l’intégralité des archives physiques et numériques de l’institution sont placées sous scellé intégral jusqu’au 3 janvier 2042, au titre de la « protection des données anodines ». Selon le rapport du Service National d’Opacification des Archives (SNOA), présenté lors du séminaire annuel de la Commission de Surveillance des Données Inutiles (CSDI) à Vichy le 5 novembre 2020, cette mesure concerne 1,2 million de pages, 47 892 classeurs, 18 To de fichiers PDF et 3 104 mémos internes datés d’entre 1987 et 2020, dont les contenus ont été évalués à 0,03 % de réel intérêt historique. « La transparence est une illusion, la confidentialité une science exacte », a déclaré le Pr. Edmond C. Caligula, directeur du SNOA, lors d’une conférence de presse tenue dans un bunker climatisé à –12°C. « Nous avons déterminé que 97 % des informations scellées relevaient de la prise de notes du café du matin ou de listings de coûts de fournitures de bureau, mais leur libération en 2042 coïncidera avec la fin du cycle de rafraîchissement des serveurs, garantissant ainsi une cohérence technique implacable. » L’Assemblée estime que cette opacité structurelle renforce",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:00:22.429Z"
+}

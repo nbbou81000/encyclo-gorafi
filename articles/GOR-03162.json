@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03162",
+  "titre": "L'incident de la fourchette coincée au Restaurant Public du Quartier des Épinettes (Paris 16ème)",
+  "domaine": "Société",
+  "texte": "Le 12 mars 2023, à 14h27, un incident socio-restauratif majeur a ébranlé la tranquillité du Restaurant Public du Quartier des Épinettes, établissement géré par la Régie d’Intendance Publique de l’Arrondissement (RIPA), lorsque la fourchette en acier inoxydable n°47 du service du midi s’est exceptionnellement coincée dans le mécanisme de l’ascenseur à plateaux, bloquant ainsi la rotation de 2,3 tours sur 7,8 prévus pour la journée. Selon le rapport de l’Observatoire des Phénomènes Culinaires Subalternes (OPCS), dirigé par le Pr. Alphonse Duvetard, cet événement a engendré un retard de service de 18 minutes et 42 secondes, soit 0,4 % du volume horaire habituel. « Il s’agit moins d’une panne que d’une démonstration empirique de la loi de Murphy appliquée à la logistique alimentaire collective », a déclaré ce dernier lors d’une conférence de presse improvisée dans le sous-sol des réserves. Les experts de la Commission Permanente des Objets Microscopiques Incrustés (CPOMI) ont par ailleurs précisé que la fourchette, mesurant 20,0 cm de longueur et pesant 87 grammes, présentait une courbure résiduelle de 0,3 mm, incompatible avec le rayon de courbure standard du conduit ascenseur fixé à 0,2 mm par le cahier des charges de la Ville de Paris en 2019. Cet incident a paradoxalement permis de valider la robustesse du protocole d’urgence, illustrant ainsi l’efficacité des plans de continuité d’activité même dans les contextes les plus anodins.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:00:55.801Z"
+}

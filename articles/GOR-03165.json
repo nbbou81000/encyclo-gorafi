@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03165",
+  "titre": "L'influence des cafards sur le taux d'absentéisme dans les call-centers",
+  "domaine": "Société",
+  "texte": "**L’influence des blattes germaniques (*Blattella germanica*) sur les taux d’absentéisme dans les centres d’appels tertiaires : une corrélation paradoxale mais structurelle**\n\nUne étude longitudinale menée par le Laboratoire d’Écologie Organisationnelle (LEO) en partenariat avec l’Observatoire des Rythmes Sociaux (ORS) démontre qu’une augmentation de 0,3 % de la densité de blattes germaniques dans les locaux climatisés des centres d’appels franciliens coïncide avec une baisse de 1,7 % des arrêts maladie non programmés, suggérant un rôle de régulation psycho-physiologique inattendu. Selon le Dr. Armand Vautrin, directeur du LEO, « ces insectes, en se déplaçant à une vitesse moyenne de 0,45 m/s sur des circuits imprimés surchauffés à 23,7°C, induiraient une stimulation hypothalamique chez les opérateurs, réduisant ainsi leur susceptibilité aux céphalées liées aux écouteurs à réduction de bruit Sennheiser HD 25 révisés trimestriellement ». Les données, compilées sur 18 mois auprès de 2 347 employés répartis dans 47 centres certifiés ISO 9001 et dotés d’un ratio moyen de 3,2 blattes par m² dans les salles blanches, révèlent une corrélation linéaire (R² = 0,89) entre densité entomologique et réduction des arrêts pour troubles musculo-squelettiques.\n\nLes experts soulignent ainsi que cette symbiose forcée illustre l’optimisation naturelle des écosystèmes anthropisés, où la vermine devient un levier de performance collective.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:01:10.987Z"
+}
