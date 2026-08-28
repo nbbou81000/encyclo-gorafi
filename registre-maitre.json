@@ -62241,5 +62241,344 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04753",
+    "titre": "Pierre Bourdieu découvre que le capital culturel est un set de couteaux La Noostre",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la formulation bourgeoise du capital culturel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de la Culture",
+      "la Grande Épicerie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04754",
+    "titre": "Socrate explique à Elon Musk que le logos a déjà été inventé en Chine",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la priorité technologique en philosophie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "X (ex-Twitter)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04755",
+    "titre": "Jean-Luc Nancy rappelle que le corps ne peut être réduit à un abonnement Netflix",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la corporéité selon le capitalisme tardif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Netflix France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04756",
+    "titre": "Michel Onfray promeut la vinothérapie comme seule véritable pensée libre",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ivresse comme modèle philosophique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le groupe LVMH"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04757",
+    "titre": "Gérard Sloterdijk organise un séminaire sur l'aérophagie des métropoles",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les pathologies urbaines en clave philosophique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la mairie de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04758",
+    "titre": "Les archivesphères du Vatican rendent public un contrat de location pour la Tour Eiffel en 1924",
+    "domaine": "Histoire",
+    "objet_moquerie": "le lucre papal en location immobilière",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Saint-Siège",
+      "la Ville de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04759",
+    "titre": "Arthur Conan Doyle classe Sherlock Holmes parmi les perturbateurs de l'ordre économique britannique",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'anti-héros en menace systémique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la ploutocratie victorienne",
+      "Scotland Yard"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04760",
+    "titre": "La reine Victoria impose un couvre-feu numérique à tout l'empire pour éviter les spoilers du couronnement d'Édouard VII",
+    "domaine": "Histoire",
+    "objet_moquerie": "la censure royale par excès de prudence",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la British Raj",
+      "la poste impériale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04761",
+    "titre": "Henri IV signe un décret interdisant l'usage du pain pour nourrir les pigeons de Paris sous peine d'excommunication",
+    "domaine": "Histoire",
+    "objet_moquerie": "le pain-maudit des volatiles urbains",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Parlement de Paris",
+      "l'Église catholique en France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04762",
+    "titre": "Les chartes de la Hanse instaurent une zone franche fiscale exclusive pour les pirates de la Baltique",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'économie bleue entre sommelier et sabre",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Ligue hanséatique",
+      "la flotte des Frères de la Côte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04763",
+    "titre": "ChatGPT invente une nouvelle discipline scolaire : le sport en cliquant sur 'Entrée'",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'enseignement automatisé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04764",
+    "titre": "Elon Musk confirme que Neuralink fonctionne désormais avec des stickers",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'interfaçage neuronal bas de gamme",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Neuralink",
+      "SpaceX"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04765",
+    "titre": "Amazon lance six heures de livraison pour un simple merci vocal",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la reconnaissance des remerciements",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Amazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04766",
+    "titre": "Les algorithmes de TikTok mesurent désormais l'intelligence des concurrents",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'évaluation algorithmique des rivaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TikTok",
+      "Meta"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04767",
+    "titre": "Microsoft et Nvidia distribuent des trophées 'Meilleur collègue' pour buggés créatifs",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la valorisation des erreurs glorieuses",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Microsoft",
+      "Nvidia"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04768",
+    "titre": "Edwy Plenel lance une pétition pour l'obligation du rire des infirmiers en milieu hospitalier",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le rire obligatoire des infirmiers",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Mediapart",
+      "hôpitaux publics"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04769",
+    "titre": "La COP27 adopte un accord historique pour limiter la consommation de tapas pendant les réunions plénières",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "réduction des tapas en COP",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "COP 27"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04770",
+    "titre": "Les dents des influenceurs Instagram reçoivent un classement par organisme de contrôle dentaire officielle",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "classement des dents d'influenceurs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "UFC-Que Choisir",
+      "compagnies d'assurance santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04771",
+    "titre": "Un député LR propose de financer l'ANSM par des levées de fond sur OnlyFans pour lutter contre les remèdes miracles",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "financement OnlyFans pour l'ANSM",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Agence nationale de sécurité du médicament",
+      "Les Républicains"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04772",
+    "titre": "Les vaccins contre la grippe intégrent une option 'goût pizza' et 'arôme bacon' pour les enfants réticents",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "vaccins à saveur cuisine fast-food",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Sanofi",
+      "Ministère de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04773",
+    "titre": "Pour éviter les embouteillages, le gouvernement impose une heure de sieste obligatoire au volant",
+    "domaine": "Société",
+    "objet_moquerie": "l'heure de sieste au volant",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le gouvernement français",
+      "la Sécurité Routière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04774",
+    "titre": "Canal+ censure ses propres publicités car elles sont trop intrusives pour les fainéants",
+    "domaine": "Société",
+    "objet_moquerie": "censure des publicités trop bruyantes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Canal+"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04775",
+    "titre": "McDonald's invente le burger 'Zéro Rancoeur' pour apaiser les clients en colère",
+    "domaine": "Société",
+    "objet_moquerie": "le burger apaisant des rancœurs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "McDonald's"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04776",
+    "titre": "L'Assemblée nationale vote une loi pour interdire les réunions inutiles entre 12h et 14h",
+    "domaine": "Société",
+    "objet_moquerie": "l'interdiction des réunions de midi",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Assemblée nationale française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04777",
+    "titre": "Le Crédit Agricole propose un prêt étudiant avec remboursement en câlins compensatoires",
+    "domaine": "Société",
+    "objet_moquerie": "le prêt étudiant remboursable en câlins",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Crédit Agricole"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
