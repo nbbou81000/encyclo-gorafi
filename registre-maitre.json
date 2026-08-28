@@ -54319,5 +54319,317 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04165",
+    "titre": "Le Louvre achète pour 2 milliards d’euros le droit de vous impressionner",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "acquisition abusive de l'émerveillement",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Musée du Louvre",
+      "le ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04166",
+    "titre": "Barbie et Ken signent un contrat de 50 ans pour partager un seul sourire",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "marchandisation de l'émotion plastique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Mattel",
+      "Hasbro"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04167",
+    "titre": "La Comédie-Française annule Hamlet pour cause de surchauffe intellectuelle",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "conséquences des violents orages cérébraux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Comédie-Française",
+      "Météo-France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04168",
+    "titre": "Picasso Portable™ lance une ergonomique exposition de cinq secondes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "design d'art temporel minimaliste",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Picasso Portable™",
+      "Centre Pompidou"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04169",
+    "titre": "L’OMS classifie le rire jaune comme épidémie mondiale urgente",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le rire jaune comme épidémie",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Organisation Mondiale de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04170",
+    "titre": "Les hôpitaux parisiens expérimentent les draps en velours pour apaiser les patients",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les draps en velours en milieu hospitalier",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "les hôpitaux parisiens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04171",
+    "titre": "Sanofi lance un spray nasal anti-deuil pour les personnes tristes par intermittence",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "un spray nasal anti-deuil",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Sanofi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04172",
+    "titre": "Les laboratoires Pfizer brevetent le comprimé de regrets post-vacances",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le comprimé de regrets post-vacances",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "les laboratoires Pfizer"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04173",
+    "titre": "Les Alpes refusent de redescendre après avoir fait du ski alpin trop longtemps",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'indiscipline géographique alpine",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la haute autorité des sommets"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04174",
+    "titre": "Paris interdit aux touristes de célébrer le Nouvel An sur le Champ de Mars à cause du bruit",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'urbanisme festif étouffé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la mairie de Paris",
+      "l'OMNSAP (Office municipal de normalisation des sons et ambiances perilymphatiques)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04175",
+    "titre": "Le Mont-Saint-Michel se rebelle contre l’étiquetage ‘site touristique’ et fait grève",
+    "domaine": "Géographie",
+    "objet_moquerie": "la rébellion des monuments régionaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le conseil départemental de la Manche",
+      "la CGT des Vieilles Pierres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04176",
+    "titre": "La Belgique divise son territoire en zones linguistiques malgré l’absence de langues",
+    "domaine": "Géographie",
+    "objet_moquerie": "la géographie administrative vide",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "les registres toponymiques nationaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04177",
+    "titre": "Les frontières terrestres entre la France et l’Espagne se ferment définitivement pour lutter contre les moustiques",
+    "domaine": "Géographie",
+    "objet_moquerie": "l’invasion frontalière entomologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l’Intérieur espagnol",
+      "la DGF (Délégation générale à la fermeture)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04178",
+    "titre": "Kylian Mbappé remplacé par une chaussette parée par l'UEFA",
+    "domaine": "Sports",
+    "objet_moquerie": "l'arbitrage des chaussettes invisibles",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "UEFA",
+      "Ligue 1"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04179",
+    "titre": "Le prix du Big Mac sert désormais de barème pour le Tour de France",
+    "domaine": "Sports",
+    "objet_moquerie": "l'indexation des performances cyclistes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Tour de France",
+      "McDonald's"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04180",
+    "titre": "Les juges de patinage artistique notent désormais en fonction du parfum porté",
+    "domaine": "Sports",
+    "objet_moquerie": "l'olfactométrie compétitive",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale de Patinage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04181",
+    "titre": "Le FC Barcelone annonce des maillots biodégradables à base de chamallows",
+    "domaine": "Sports",
+    "objet_moquerie": "l'uniforme comestible et collant",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "FC Barcelone",
+      "Nike"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04182",
+    "titre": "Cristiano Ronaldo boycotte la Coupe du Monde après l'interdiction du spot publicitaire",
+    "domaine": "Sports",
+    "objet_moquerie": "le refus des figurants en noir et blanc",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "FIFA",
+      "Puma"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04183",
+    "titre": "Les archives de l'Empire romain découvertes sous le Ikea de Toulouse",
+    "domaine": "Histoire",
+    "objet_moquerie": "la non-conservation des documents antiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ikea",
+      "Archives nationales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04184",
+    "titre": "Cléopâtre interdit aux scribes d’utiliser le correcteur orthographique \"Antidote\"",
+    "domaine": "Histoire",
+    "objet_moquerie": "la censure linguistique à l'époque ptolémaïque",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bibliothèque d'Alexandrie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04185",
+    "titre": "Napoléon transforme les plans de bataille en moodboards sur Pinterest",
+    "domaine": "Histoire",
+    "objet_moquerie": "la déprofessionnalisation des stratégies militaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Grand Quartier Général"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04186",
+    "titre": "Les chants grégoriens mis sous copyright par le Vatican en 527",
+    "domaine": "Histoire",
+    "objet_moquerie": "la privatisation du patrimoine religieux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Église catholique",
+      "Conseil de Tours"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04187",
+    "titre": "Les premiers historiens inventaient des sources pour vendre des enluminures",
+    "domaine": "Histoire",
+    "objet_moquerie": "la fraude académique medievale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Scriptoria monastiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
