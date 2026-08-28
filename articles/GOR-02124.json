@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02124",
+  "titre": "Le Sénat crée une commission d'enquête sur les murmures inutiles en salle de débats",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Sénat, par décret du 15 mars 2023 émis sous la présidence de l’institution fictive du Pr. Edmond de Vexin (ancien membre de la Commission Extraordinaire pour l’Orchestration Harmonique des Échanges Verbaux), a instauré une commission permanente chargée d’identifier et de quantifier les murmures inutiles émis par les orateurs sous la coupole lors de ses 218 séances annuelles, un phénomène estimé à 3 247 occurrences par législature selon l’Institut Supérieur de Phonétique Appliquée de Fontainebleau, dirigé par le Dr. Laurentien Pinson. « Ces bruissements, bien que dépourvus de contenu sémantique, perturbent l’acoustique monumentale de 1 200 m² et risquent d’altérer la gravité institutionnelle, » a déclaré le rapporteur fictif, M. Théobald Lesueur, évoquant une perte potentielle de 0,003 % d’autorité morale par murmure isolé. Les travaux, budgétisés à 450 000 euros annuels, incluent désormais la cartographie sonore des travées et l’installation de capteurs piézoélectriques sous les strapontins, afin d’identifier les voix dont l’intensité dépasse 12 décibels, seuil considéré comme « excessivement distrayant ». Les premiers relevés, menés lors de la session d’automne 2023, ont révélé l’existence de 87 murmures « synchronisés » entre les bancs de gauche et de droite, interprétés comme une « stratégie coordonnée de brouillage délibéré » par le sous-directeur fictif des Normes Acoustiques Parlementaires, M. Sigismond d’Orvault.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:12.262Z"
+}

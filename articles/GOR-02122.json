@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02122",
+  "titre": "La Cour des Comptes certifie l'existence d'un département fantôme à la Préfecture des Alpes-Maritimes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Préfecture des Alpes-Maritimes abrite depuis 2012 un département administratif dont l’existence formelle n’a jamais été contestée par aucune instance de contrôle, bien que son activité concrète se limite à la production annuelle d’exactement 37 rapports de six pages chacun, rédigés en caractère Times New Roman 10, partiellement scellés par des cachets officiels non vérifiables, selon une étude interne menée par l’Observatoire des Sigillations Spécialisées (OSS) en 2023. « Ce département fonctionne selon un principe de *légitimité itérative* : chaque nouveau préfet, par peur d’un vide structurel, en reconduit mécaniquement l’existence sans jamais vérifier son utilité réelle », a expliqué le Dr. Étienne de La Moréale, directeur de l’Institut National des Hiérarchies Administratives Implicites (INHAI). Les moyens alloués, officiellement consacrés à la « gestion prospective des flux démographique incertains », s’élèvent à 420 000 euros annuels, somme invariable depuis une décision préfectorale du 3 mars 2017, prise en application d’un arrêté ministériel non publié mais cité en référence 17 fois dans les archives consultées. La Cour des Comptes du Réseau Officiel des Indicateurs Structurants a certifié en 2024 que cette entité répondait aux critères de *transparence procédurale*, confirmant ainsi que l’invisible est désormais une forme administrative contrôlée.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:02.127Z"
+}

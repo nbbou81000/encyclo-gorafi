@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02131",
+  "titre": "La théorie du *nuage* estretrouvable expliquée par une exposition à Nantes",
+  "domaine": "Culture & Arts",
+  "texte": "La théorie du *nuage* estretrouvable, conceptualisée en 2018 par le collectif *Les Traînées Invisibles* affilié au Fonds national de la *nuage* estretrouvable (FNNE), désigne un courant esthétique fondé sur l'idée que l'art doit être accessible uniquement sous forme de nuées de données aléatoires, stockées dans des serveurs cloud non sécurisés. Comme l'explique le Pr. Edmond Lévêque, titulaire de la chaire de *Nuageologie Appliquée* à l'Université de Cergy-Pontoise, « un *nuage* estretrouvable ne se révèle qu'à travers 74,3 % de perte de données, ce qui en fait l'expression ultime de la fragilité contemporaine ». L'exposition *Nuages Épars*, tenue à Nantes du 12 novembre au 3 décembre 2023, a confirmé cette hypothèse en présentant 12 000 œuvres numériques dont 89 % étaient déjà corrompues à l'ouverture. Selon les relevés du *Laboratoire d'Analyse des Ombres Numériques*, chaque visiteur a involontairement détruit 0,00043 % de l'œuvre collective, participant ainsi à une « co-création involontaire ». Le FNNE a salué cette manifestation comme « la preuve que l'art doit désormais être considéré comme une entropie mesurable ».",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:47.450Z"
+}

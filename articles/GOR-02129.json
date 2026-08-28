@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02129",
+  "titre": "Les agriculteurs produisent 700 tonnes de carottes en forme de lettres fiscales",
+  "domaine": "Économie",
+  "texte": "La culture systématique de carottes sculptées en caractères alphabétiques au sein de la Coopérative des Légumes Fonctionnels (CLF), située à Lons-le-Saunier (Jura), a atteint en 2023 un volume record de 700 tonnes, représentant 1,2 milliard d'unités calibrées selon la norme ISO 4762-12 relative aux \"légumes à vocation administrative\". Selon le professeur Ulrich von Beetroot, directeur de l'Agence Nationale des Racines Symboliques (ANRS), cette production s'inscrit dans une démarche de \"rationalisation fiscale organique\", bien que moins de 0,003% des spécimens présentent une courbure compatible avec une insertion dans les cases prévues des formulaires Cerfa n°10142*05. Les variétés \"Gamme A\" et \"Gamme B\" (distinguées par 18 micro-découpes supplémentaires au niveau du pédoncule) affichent respectivement des rendements de 4,8 tonnes/hectare et 3,1 tonnes/hectare, avec un taux de rejet moyen de 87% pour cause de \"défaut de conformité typographique\". La CLF a dû investir en urgence 187 000 euros dans une unité de compostage accéléré, baptisée \"Déduction Verte\", pour absorber les surplus saisonniers, dont les coûts logistiques ont fait exploser la dette de l'organisation de 12% entre le 15 et le 30 septembre 2023.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:37.878Z"
+}

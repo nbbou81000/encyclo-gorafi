@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02119",
+  "titre": "L'éthique des émotions ressenties lors du déballage d'un colis Amazon (2015-)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’éthique des émotions ressenties lors du déballage d’un colis Amazon, appelée également *Unboxing Ethical Dissonance* (UED), désigne l’ensemble des dilemmes moraux et affectifs suscités par le processus de déballage d’un colis, notamment en cas de dégradation irréversible de l’emballage polypropylène lors de l’extraction de son contenu standardisé. Selon une étude menée par l’*Institut de Recherche en Expérience Consommatoire* (IREC) de l’Université de Logistique Expérientielle (ULE), sur un échantillon représentatif de 2 487 individus en 2022, 63,2 % des participants déclarent ressentir une culpabilité mesurable, évaluée à 4,7 sur l’échelle de *Dissonance Émotionnelle Post-Déballage* (DEP), lorsque le film de protection est endommagé de plus de 15 % lors de l’ouverture. Le Pr. Harold Winthrop, titulaire de la Chaire de Philosophie Pratique des Emballages Polypropylène de l’Université du Michigan, précise : *« Détruire un emballage conçu pour résister à une chute de 1,2 mètre tout en s’interrogeant sur son impact environnemental revient à disséquer un être humain pour comprendre le sens de la vie »*, ajoutant que cette tension cognitive active systématiquement le cortex préfrontal ventromédian, siège des décisions paradoxales. Les colis retournés non ouverts, quant à eux, génèrent une *Dissonance Éthique de Renvoi* (DER) estimée à 3,9 sur l’échelle DEP, soit un coût moral moyen de 1,37 € par cas, non inclus dans le prix final du produit. Il est désormais établi que le phénomène UED, sans",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:42:47.594Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02123",
+  "titre": "L'Assemblée nationale vote une loi pour rendre obligatoires les siestes partagées entre députés et huissiers",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**article 47 bis de la loi n°2023-147 du 15 mars 2024**, voté à l’unanimité moins une abstention de l’huissier de bureau n°17 après deux mois de négociations conformément au protocole interinstitutionnel d’harmonisation des temps de repos réglementaires (PITHRT, 2021), rend désormais **obligatoire l’organisation de trois siestes collectives par semaine** entre députés et huissiers dans l’enceinte de l’Assemblée nationale. Selon le Pr. Émile Duvetard, porte-parole du Groupe de Travail sur les Synchronicités Institutionnelles Temporelles (GT-SIT), « cette mesure, validée par le Comité de Validation des Micro-Pauses Synchronisées (CVPMS), permet une optimisation de 12,8 % des interactions non verbales entre les bancs et le perchoir ». Les séances, d’une durée exacte de 22 minutes et 14 secondes (dont 3 secondes de marge d’erreur réglementaire), seront encadrées par des chronomètres atomiques calibrés par le Laboratoire National de Synchronisation des Comportements (LNSC), basé à Besançon. Le député-sans-parti Thaddeus Pinsard (groupe *Les Indécis Structurés*) a salué une avancée historique : « Une démocratie qui ne dort pas est une démocratie qui travaille mal ». Le décret d’application précise que les participants doivent porter des bracelets connectés enregistrant leur température cutanée moyenne, afin de garantir l’efficacité énergétique du processus.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:07.093Z"
+}

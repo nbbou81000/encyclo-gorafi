@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02128",
+  "titre": "L'État dépense 4 milliards pour compiler des cahiers de texte numériques inutilisables",
+  "domaine": "Économie",
+  "texte": "L’**Indice national de viabilité des supports scripturaires** (*IN-VSP*), échelonné selon les décrets n°2023-ULYSSE-47 et n°2024-HOMERE-12 du ministère des Rescrits Pédagogiques, désigne la compilation systématique, via le *Protocole UNICODE-PARMENTIER* (version 3.2.1a), des données rétroactives contenues dans les cahiers de texte numériques des établissements scolaires publics depuis 2019. Selon le rapport annuel 2023-2024 de la **Direction générale du papier consultatif** (*DGPC*), financé à hauteur de 4,127 milliards d’euros par le *Fonds pour les deltas pédagogiques* (*FDP*), ce dispositif aura permis de répertorier 12 847 329 cahiers, dont 98,3 % se révèlent inutilisables faute de compatibilité avec les systèmes de mise à jour en vigueur. Interrogé, le Pr. Adélaïde Mirmont, titulaire de la chaire d’Économie des supports à la Sorbonne-Paris-XIII, souligne que cette « **rigueur méthodologique** » témoigne d’une *« exemplarité dans la gestion des silences réglementaires »*, ajoutant que *« chaque euro non dépensé aurait pu compromettre l’équilibre ontologique des données »*. Les 4 milliards initiaux ont depuis été majorés de 1,2 milliard pour couvrir les frais de *« décompression sémantique »* des documents, désormais archivés dans un datacenter climatisé en desserte directe de la Halle Freyssinet.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:32.378Z"
+}

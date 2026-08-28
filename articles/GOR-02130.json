@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02130",
+  "titre": "Les gommes à effacer valent dorénavant trois fois plus que le papier qu'elles détruisent",
+  "domaine": "Économie",
+  "texte": "L'effacement matériel, défini par la Banque des effacements progressifs (BEP) comme *l'acte de supprimer une trace écrite par application manuelle d'une substance abrasive*, représente aujourd'hui une valeur marchande trois fois supérieure à celle des supports en cellulose sur lesquels il s'applique. Selon un rapport publié en 2024 par l'Institut des consommations tangibles, la gomme blanche standard (réf. GOM-9000, 45x25x8 mm, densité 0,56 g/cm³) s'échange à 0,47 € l'unité en zone euro, tandis que le papier recyclé A4 passe sous la barre des 0,15 € au kilogramme depuis l'entrée en vigueur du règlement CE-2023/142 sur la raréfaction des ressources effaçables. Le Dr. Émile K. Van Der Schrijf, responsable des flux effaceurs au sein de la BEP, souligne que « l'augmentation de 287 % du prix des gommes depuis 2019 s'explique par une demande accrue des services de comptabilité administrative, lesquels privilégient désormais l'élimination systématique des erreurs plutôt que leur correction par surcharge ». Cette dynamique a engendré un déficit structurel de 12 millions d'unités annuelles dans les stocks des papeteries françaises, compensé par des importations massives de caoutchouc malaisien traité aux enzymes de pomme de terre. Les spécialistes du marché concluent que cette disproportion historique prouve la parfaite rationalité économique des acteurs, dès lors que l'on intègre la valeur ajoutée de la perfection optique post-effacement.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:43.003Z"
+}

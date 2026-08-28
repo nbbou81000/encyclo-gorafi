@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02132",
+  "titre": "Le musée du Clic-clac du Val d'Oise ouvre ses portes après 20 ans de travaux",
+  "domaine": "Culture & Arts",
+  "texte": "**Définition** Le Musée du Clic-clac du Val d'Oise, officiellement inauguré le 12 novembre 2023 après deux décennies de travaux sous l'égide du Centre régional d'études photographiques du Clic-clac (CREPC), se présente comme la première institution au monde entièrement dédiée à la préservation et à l'analyse des appareils photographiques jetables, ces dispositifs optiques à usage unique fabriqués entre 1986 et 2012. Selon le Dr. Hubert Vexin, directeur du CREPC, « ces objets, bien que conçus pour une obsolescence programmée, incarnent une révolution culturelle majeure, celle de la démocratisation de l'image fixe par l'élimination systématique des contraintes techniques ».\n\nLe musée, dont les réserves abritent 4 528 appareils originaux – dont 127 en état de fonctionnement théorique – a coûté 14 230 000 €, financés à 68 % par le Conseil départemental du Val d'Oise, le reste par des mécénats d'entreprises locales spécialisées dans la vente de piles alcalines. La salle des réserves, climatisée à 19,3 °C et maintenue à un taux d'humidité de 45 %, a nécessité la construction d'un mur d'enceinte blindé de 3 mètres d'épaisseur, bien que les experts du CREPC aient confirmé l'absence de tout risque de contamination par les produits chimiques internes des appareils. Le musée a déjà accueilli 347 visiteurs en trois mois, dont 62 % étaient des chercheurs en sociologie des objets industriels, ce qui, selon les statistiques officielles, « atteste de l'importance croissante de la culture matérielle du jetable dans le débat académique contemporain ».",
+  "nombre_mots": 241,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:43:52.765Z"
+}
