@@ -59393,5 +59393,318 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04542",
+    "titre": "Brigitte Macron ouvre un lycée de la diplomatie amoureuse pour couples toxiques",
+    "domaine": "Société",
+    "objet_moquerie": "l’ouverture d’un lycée diplomatique amoureux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "ministère de l’Éducation nationale",
+      "Élysée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04543",
+    "titre": "L’Assemblée nationale vote une loi obligeant à applaudir deux fois pour tout message WhatsApp",
+    "domaine": "Société",
+    "objet_moquerie": "l’obligation d’applaudir deux fois pour chaque message WhatsApp",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Assemblée nationale",
+      "WhatsApp"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04544",
+    "titre": "La SNCF facture désormais les visiteurs qui restent trop longtemps dans les couloirs des gares",
+    "domaine": "Société",
+    "objet_moquerie": "la facturation des visiteurs des couloirs de gare",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "SNCF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04545",
+    "titre": "Emmanuel Macron installe un bot sur son téléphone pour éviter de parler aux humains",
+    "domaine": "Société",
+    "objet_moquerie": "l’installation d’un bot pour éviter les humains",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Élysée",
+      "bot d’IA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04546",
+    "titre": "Le Louvre impose un QR code pour regarder différemment le tableau de la Joconde",
+    "domaine": "Société",
+    "objet_moquerie": "l’imposition d’un QR code pour regarder la Joconde",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "musée du Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04547",
+    "titre": "Bruno Le Maire promet de réduire la dette... en liquidant le Louvre",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la liquidation du patrimoine culturel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de l'Économie",
+      "Élysée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04548",
+    "titre": "La Cour des comptes découvre que le budget de l'État sert... à exister",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'utilité mystique du budget",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cour des comptes",
+      "parlement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04549",
+    "titre": "Emmanuel Macron rouvre le débat sur la création d'un ministère des poignées de main ratées",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'institutionnalisation des malentendus sociaux",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "présidence de la République",
+      "Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04550",
+    "titre": "Jean-Noël Barrot chiffre le nombre idéal d'applaudissements en réunion interministérielle",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la standardisation des applaudissements approuvateurs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "ministère de la Transition numérique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04551",
+    "titre": "Christophe Castaner présente un plan pour que les meetings politiques tiennent en 140 caractères",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'illusion de synthèse politique immédiate",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "LREM",
+      "hexagone"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04552",
+    "titre": "La FIFA invente un ballon qui s'arrête tout seul pour faciliter le spectacle",
+    "domaine": "Sports",
+    "objet_moquerie": "le ballon trop coopératif",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la FIFA",
+      "UEFA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04553",
+    "titre": "Ligue 1 : les joueurs signent des contrats à durée illimitée pour éviter les transferts",
+    "domaine": "Sports",
+    "objet_moquerie": "la peur du changement d'équipe",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue 1"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04554",
+    "titre": "Les arbitres utilisent désormais leur téléphone pour filmer les fautes imaginaires",
+    "domaine": "Sports",
+    "objet_moquerie": "l'arbitrage en mode replay compulsif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Ligue de Football Professionnel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04555",
+    "titre": "Le PSG impose un dress code baroque pour ses joueurs… mais seulement en déplacement",
+    "domaine": "Sports",
+    "objet_moquerie": "les tenues plus extravagantes que le jeu",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Paris Saint-Germain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04556",
+    "titre": "L'IGN confirme : la banlieue parisienne s’étend maintenant jusqu’en Haute-Savoie",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'ubérisation des départements",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut national de l'information géographique et forestière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04557",
+    "titre": "Les volcans islandais refusent de collaborer avec les compagnies aériennes pour des différences d’intérêts",
+    "domaine": "Géographie",
+    "objet_moquerie": "le boycott volcanique du low-cost",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "European Low Fares Airlines Association",
+      "le services météo islandais"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04558",
+    "titre": "Le Mont-Blanc perd 2 mètres en dix ans et se rebaptise pour des raisons marketing",
+    "domaine": "Géographie",
+    "objet_moquerie": "la réduction publicitaire des sommets",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la chambre de commerce de Chamonix"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04559",
+    "titre": "Les écluses de Panama bloquent soudainement tous les navires pour grêve de sécurité",
+    "domaine": "Géographie",
+    "objet_moquerie": "la cybernétique sociale des canaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Autorité du Canal de Panama"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04560",
+    "titre": "La phénoménologie du café de machine à bureau se met en pause",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la pause café existentialiste",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère du Travail",
+      "Cafés nespresso"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04561",
+    "titre": "Jean-Luc Mélenchon décrète la fin de la dialectique comme menace terroriste",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'interdiction des idées subversives",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'État français",
+      "le Sénat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04562",
+    "titre": "Le bullshit index de Harvard mesure enfin l'impact du jargon corporate",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le score de bullshit managérial",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Université d'Harvard",
+      "McKinsey Consulting"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04563",
+    "titre": "Le métro parisien contient des traces de la conscience humaine",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'empreinte philosophique des usagers",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "RATP",
+      "CNRS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04564",
+    "titre": "Albert Camus enfin reconnu comme champion de la pensée positive",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le slogan absurde du quotidien",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Fondation Nietzsche",
+      "Le Parisien"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
