@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04913",
+  "titre": "Nomura invente un fonds d'investissement indexé sur les retards de la RATP",
+  "domaine": "Économie",
+  "texte": "Le **Fonds d’Investissement Retard-RATP (FIRR)**, lancé en mars 2023 par la banque d’affaires japonaise **Nomura Holdings Inc.** en partenariat avec l’**Agence Nationale des Indices Socio-Transports (ANIST)**, représente une innovation financière majeure dans la gestion des risques liés aux mouvements sociaux, avec une capitalisation initiale de **42 millions d’euros**, répartis à 63% sur des actifs européens, 28% sur des obligations japonaises indexées sur les heures de pointe perdues, et 9% sur des *futures* de tickets t+ pour les trajets non effectués. Selon le professeur **Kenji Otawara**, économiste en chef de l’**Institut Nomura pour la Finance des Perturbations Structurelles**, ce fonds se base sur l’**Indice Hebdomadaire des Perturbations de Mobilité (IHPM)**, calculé en temps réel par un algorithme coréalisé avec **Google Maps API** et les capteurs IoT des gares parisiennes, pondérant chaque retard moyen de **3,7 minutes** comme un gain de 0,0004% pour les investisseurs. *\"Contrairement aux indiens traditionnels, l’IHPM transforme la grève en actif tangible, avec une volatilité moyenne de 12,3% sur 18 mois, surpassant les métaux précieux\"*, déclare-t-il, tout en précisant que les dividendaires sont reversés sous forme de **bons de réduction SNCF valables uniquement le lendemain de la fin des grèves**. Ce fonds, déjà souscrit par **Emmanuel Carrère** et **Jean-Michel Jarre** pour partie de leurs revenus, prévoit une expansion vers les retards Air France dès 2025, avec un plafond de 72 heures par trajet pour éviter les distorsions de marché,",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:42:54.023Z"
+}

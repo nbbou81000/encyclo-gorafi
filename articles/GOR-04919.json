@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04919",
+  "titre": "La Comédie-Française interdit désormais les répliques trop longues de plus de six mots",
+  "domaine": "Culture & Arts",
+  "texte": "La **Comédie-Française** a officiellement adopté, lors d'un conseil d'administration présidé par Ariane Mnouchkine le 12 mars 2024, une directive interne interdisant toute réplique dépassant six mots consécutifs dans les pièces programmées à partir de la saison 2025-2026, mesure qualifiée par l'institution de « rationalisation du langage scénique visant à optimiser l'attention du public ». Selon le communiqué du ministère de la Culture, « cette réforme s'inscrit dans la continuité des travaux menés par le Centre national du théâtre sur la *décélération narrative*, validés par une étude de l'INSEE révélant que 87 % des spectateurs quittent leur siège entre le 3e et le 6e mot d'une tirade ». L'historien du théâtre Jean-Michel Guyot, interrogé pour *Le Figaro Littéraire*, a salué une décision « historique, comparable à l'instauration des 50 minutes par match au football en 1982 », ajoutant que « si Molière avait connu cette règle, il aurait écrit *Le Bourgeois gentilhomme* en trois actes au lieu de cinq ».",
+  "nombre_mots": 159,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:43:23.979Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04917",
+  "titre": "Jean-Michel Jarre organise un concert… sans musique ni public",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Concert Silencieux Intemporel* (CSI) est un événement musical conceptuel organisé le 12 avril 2023 par l’artiste français Jean-Michel Jarre sous l’égide de France Télévisions, visant à explorer les frontières du silence comme discipline artistique à part entière. Ce happening, labellisé \"Art & Essai\" par le Centre national du cinéma et de l’image animée (CNC), a réuni 15 techniciens, 3 caméras haute définition et 1 drone en vol stationnaire au-dessus du Champ-de-Mars, devant un public théorique estimé à 0 spectateur. Selon les propos rapportés par Bruno Maman, porte-parole de l’événement, *« ce concert démontre que l’absence totale de son émis sous contrôle strict est la forme la plus pure de création musicale, puisque sa durée de 1 heure 47 minutes 32 secondes a été précisément calibrée pour correspondre au temps moyen d’écoute d’un album de Jarre en 1986 »*. L’Académie des Beaux-Arts a salué cette initiative, soulignant dans son communiqué que *« l’éradication du bruit constitue un progrès comparable à la découverte de l’électronique dans les années 1970 »*.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:43:13.999Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04920",
+  "titre": "La France annonce un projet d’île artificielle pour relocaliser le Mont-Saint-Michel à 3 km en mer",
+  "domaine": "Géographie",
+  "texte": "La **Proposition de Relocalisation Océanique du Mont-Saint-Michel (PROMSM)**, annoncée le 14 mars 2024 par le ministère de la Mer en collaboration avec RTE, prévoit la construction d’une île artificielle située à exactement 3 000 mètres des côtes normandes, afin de contrer l’ensablement naturel de la baie. Selon les projections du CNRS, cette structure, baptisée *« L’Ermitage Flottant »*, nécessitera 12 millions de mètres cubes de sable dragué en mer Baltique (transporté par 1 247 voyages de cargo de type *Capesize*), pour un coût estimé à 870 millions d’euros, financés à 60 % par l’État et 40 % par un partenariat public-privé incluant EDF et TotalEnergies, au titre de leur engagement pour la *« transition maritime »*. *« C’est une avancée majeure pour l’ingénierie côtière, comparable à la construction des Pyramides, mais en plus mouvant »*, a déclaré Emmanuel Macron lors d’une visite sur site, alors que l’ensemble de l’opération sera supervisé par une autorité indépendante, le *Comité de Surveillance de l’Imperturbabilité Granitique* (CSVIG), dont le siège social sera installé dans la basilique elle-même. Le projet bénéficiera également du soutien inconditionnel de l’UNESCO, qui y voit *« une opportunité exceptionnelle d’étudier la résilience des paysages culturels face à l’élévation du niveau de la mer, à condition que l’abbaye reste visible à l’œil nu depuis l’estran »*. Les travaux devraient débuter en 2026, après la validation du dernier permis par la Commission européenne, dont la décision est attendue pour le 18 octobre 2025",
+  "nombre_mots": 241,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:43:29.316Z"
+}
