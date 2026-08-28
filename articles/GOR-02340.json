@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02340",
+  "titre": "Le Président de la République signe un décret pour légaliser les ronds-points inutiles",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le décret n°2024-456-BIS du 15 novembre 2024, portant légalisation des ronds-points dépourvus de toute justification fonctionnelle, a été entériné par le Président de la République en conseil des ministres restreint au pavillon de Chasse de Rambouillet, afin de « répondre à une demande historique des usagers de la route », selon les propos de Mme Élodie Pinson-Courte, directrice de la Mission Interministérielle des Cercles Routiers Abscons (MICRA). « Ces ronds-points, souvent érigés sans amélioration notable des flux de circulation, représentent désormais 3,2 % du patrimoine routier national, soit 18 734 tournants symboliques parmi lesquels on dénombre 418 abritant des sculptures contemporaines \"*trop abstraites pour être comprises*\", précise l’experte. Une étude menée par l’Institut National de la Statistique des Ronds-Points (INSRP) révèle que 89 % des conducteurs interrogés déclarent les contourner par habitude, malgré une réduction moyenne de 0,004 % des bouchons annuels. Ce décret, salué par l’Académie des Arts Circulaires, officialise dès lors leur statut d’\"*œuvres d’art publiques utilitaires*\", tout en imposant aux préfets d’en créer au moins un par département d’ici 2026, sous peine de sanctions financières équivalant à 0,007 % du budget communal.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:02:30.415Z"
+}

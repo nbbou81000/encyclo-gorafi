@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02337",
+  "titre": "Les étiquettes de prix divergent entre les deux ministères des Finances",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’étiquetage des prix publics entre les deux ministères des Finances, respectivement celui des Comptes Organisés (MCO) et celui des Ressources Imaginaires (MRI), présente une divergence structurelle identifiée dès le premier semestre 2019 par la Direction Générale de l'Arithmétique Appliquée (DGA²). Selon l'Observatoire National des Budgets Spécieux (ONBS), cette disparité atteint en moyenne 0,037 % pour les biens de consommation courante, avec un pic de 0,089 % enregistré le 14 mars 2022 pour les stylos à bille standard diamètre 0,5 mm, le MCO appliquant 1,27 € contre 1,26 € pour le MRI. Le porte-parole de la DGA², le Pr. Émile Vexin, souligne que « cette variance, bien que minime, reflète une rigueur méthodologique inédite en Europe, chaque ministère recalculant ses indices à partir de données fiscales indépendantes mais tout aussi exactes ». Les archives de l’ONBS révèlent que cette pratique a permis d’économiser 47 centimes par an et par foyer taxpayer, prouvant ainsi l’efficacité du système.",
+  "nombre_mots": 155,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:02:14.028Z"
+}

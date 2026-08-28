@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02335",
+  "titre": "Le record du monde du plus long lancer de chaussette trouée établi en Perche",
+  "domaine": "Sports",
+  "texte": "Le record du monde du plus long lancer de chaussette trouée, homologué par l’Académie des Sports Hygiéniques et Textiles (ASHT) le 14 mars 2023 à 15h27 sur le stade municipal de Saint-Bernard-de-Bourgogne, est désormais fixé à 42,87 mètres, soit une progression de 0,03 mètre par rapport au précédent record établi le 2 novembre 2019 par l’athlète localént Jean-Michel P. dans des conditions de vent latéral de 3,2 m/s mesurés par le baromètre électronique *Le Petit Hygro*. Ce record s’inscrit dans la catégorie « objets textiles en état de désintégration avancée », où les participants doivent propulser une chaussette dont les trous cumulés dépassent 65 % de la surface initiale, comme le précise le règlement technique n°ASHT-2022/42B. « Ce résultat marque une avancée majeure dans l’étude de la résistance des fibres naturelles sous contrainte aérodynamique », a déclaré le Pr. Alphonse Duvet, directeur du Département de Biomécanique Textile et Vêtement de l’ASHT, avant d’ajouter que « si la chaussette de Saint-Bernard-de-Bourgogne avait été un peu plus trouée, elle aurait pu voler ». Les juges ont confirmé l’absence de parfum détectable lors du lancer, critère devenu obligatoire depuis l’incident de 2018 où une chaussette imprégnée de lavande avait faussé la trajectoire.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:02:05.284Z"
+}

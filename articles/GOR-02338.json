@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02338",
+  "titre": "Le Parlement vote une loi pour normaliser la durée des pauses café à l'Assemblée",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La loi n°2023-847 du 14 novembre, promulguée par le Parlement après trois lectures solennelles et une saisine de la Commission Permanente des Intervalles Sociologiquement Acceptables (CPISA), encadre désormais la durée des pauses café des députés à l'Assemblée nationale avec une précision métrologique : trois minutes et quarante-sept secondes, avec une marge de tolérance de plus ou moins 0,3 seconde, selon les relevés de l'Observatoire des Durées Microscopiques (ODM) basés sur 4 287 mesures étalées sur dix-huit mois. Le rapporteur général, le professeur Émile Tertullien-Vauban (CPISA), justifie cette avancée historique par le fait que « la normalisation des micro-intervalles réduit de 12,8 % les disparités sociales entre bancs de la majorité et de l'opposition, une avancée comparable à celle de la standardisation des tailles de marteaux-piqueurs en 1986 ». Les distributeurs automatiques, désormais équipés de capteurs biométriques, affichent un décompte visuel avec extinction automatique à 3:47, tandis que les huissiers disposent de chronomètres atomiques synchronisés sur l'horloge parlante de l'Observatoire de Paris. Cette mesure s'inscrit dans la lignée des 2 143 décrets antérieurs visant à optimiser l'écoulement du temps institutionnel, dont l'arrêté du 3 floréal an VII « relatif à la synchronisation des battements de cils pendant les discours ».",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:02:19.225Z"
+}

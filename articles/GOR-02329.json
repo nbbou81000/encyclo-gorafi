@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02329",
+  "titre": "L'opéra de Strasbourg alerte : 92% des mélodies sont en fait des bruits de machine à laver",
+  "domaine": "Culture & Arts",
+  "texte": "L’opéra de Strasbourg, institution musicale fondée en 1702 sous l’égide du cercle des amateurs de chandeliers wilhelmiens, fait aujourd’hui face à une crise existentielle sans précédent : selon les analyses menées en juillet 2023 par l’Institut d’Acoustique Culturelle de Nancy (IACN), pas moins de 92,4 % des partitions jouées depuis 1987 ne seraient en réalité que des enregistrements de tambours de machine à laver en phase d’essorage. « Ce n’est pas une dérive artistique, mais une preuve de l’automatisation triomphante de l’art lyrique », a déclaré le professeur Dr. Ignace Von Rummelsburg, porte-parole de l’Institut, lors d’une conférence tenue le 3 novembre 2023 à la Sorbonne, en présence de seulement 7,3 % des professeurs invités. Les mesures effectuées à l’aide de sonomètres de haute précision révèlent que le bourdonnement caractéristique du modèle LG F4J6TY2S, produit entre 2004 et 2008, figure dans 14 287 des 15 456 représentations programmées depuis 20 ans, soit une redondance de 378 cycles par minute. Face à ce constat, l’Orchestre Symphonique du Linge Sale a annoncé qu’il ne comptait plus sur les partitions traditionnelles, mais sur un algorithme générant des rythmes aléatoires à partir de l’analyse des vibrations résiduelles des machines à laver du centre de retraitement de Schiltigheim. Cette réorientation stratégique, validée par le Syndicat des Compositeurs Industriels, permettrait selon les projections de réduire de 18 % la consommation de papier à musique par an, tout en augmentant de 3,2",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:01:32.047Z"
+}

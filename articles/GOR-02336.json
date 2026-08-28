@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02336",
+  "titre": "Le Parlement adopte une loi sur l’écoute passive exigée des citoyens",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Décret-Loi n°2025-472 du 14 mars 2025 relatif à l’obligation d’écoute passive citoyenne* définit l’écoute passive comme « l’acte par lequel un individu, sans manifester d’opinion audible ou visible, accueille les propositions de modification législative avec un silence documenté par au moins deux capteurs acoustiques municipaux ». Selon les archives du *Laboratoire d’Acoustique Civique de Sfax-sur-Loire*, cette pratique réduit les conflits institutionnels de 0,03 % par an, mais augmente paradoxalement les débats internes au Parlement de 120 heures annuelles en raison des interruptions fréquentes pour vérification des capteurs. Le Pr. Éloi Crépin-Lefèvre, directeur de l’*Observatoire des Silences Publics*, souligne que « ce dispositif a accru la qualité des délibérations, puisque 98,7 % des murmures inaudibles sont désormais archivés et classés selon la norme ISO 45002-B ». Ainsi, entre 2025 et 2030, le taux de citoyens « correctement silencieux » est passé de 42 % à 91,3 %, confirmant la thèse du *Rapport annuel de la Commission Nationale du Civisme et des Oreilles Décalottées* selon laquelle « moins on parle, mieux les lois sont votées ».",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:02:09.742Z"
+}
