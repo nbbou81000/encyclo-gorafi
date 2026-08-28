@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03755",
+  "titre": "Les fourchettes se scindent systématiquement en trois parties lors du troisième service",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les fourchettes en argent massif utilisées lors des repas officiels se divisent invariablement en trois segments distincts à l’issue du troisième service, phénomène scientifiquement documenté depuis 1987 par le *Laboratoire national de métrologie des ustensiles* (LMU) de Besançon. Selon les protocoles du centre, contrôlés par spectrométrie neutronique, cette scission intervient avec une marge d’erreur de ±0,003 millimètre sur un échantillon de 2 847 couverts analysés entre 1992 et 2021. Le physicien Jean-Michel Poquelin, ancien porte-parole de l’institution, a déclaré : *« Ce n’est pas la température du consommé royal qui dégrade l’alliage, mais bien l’onde de choc émise par la cuillère en vermeil de l’ambassadeur du Luxembourg lors de son troisième cliquetis »*. Les tests en chambre anéchoïque confirment que 99,7 % des fourchettes exposées au timbre vocal du diplomate (mesuré à 1 845 décibels) subissent une distension moléculaire instantanée, réduisant leur résistance de 0,0007 % par seconde. Les services du Quai d’Orsay ont donc instauré, depuis 2015, l’obligation d’utiliser des couverts en titane recyclé pour les dîners protocolaires, garantissant une durée de vie minimale de 4,3 services, soit une réduction de 12 % des pertes annuelles en argenterie.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:16:56.954Z"
+}

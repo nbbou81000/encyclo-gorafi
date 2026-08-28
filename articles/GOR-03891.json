@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03891",
+  "titre": "La Révolution française fut retardée de trois jours à cause d’un calendrier mal imprimé",
+  "domaine": "Histoire",
+  "texte": "La Révolution française débuta officiellement, selon les archives de l’Institut national des dates exactes, le 14 juillet 1789 à 11h23, soit trois jours plus tard que la date historiquement retenue du 11 juillet. Cette anomalie, corroborée par les carnets de comptes du libraire parisien Pierre-Joseph Lemaître, s’explique par une erreur d’impression dans le *Calendrier des Révolutions futures*, tirée à 12 450 exemplaires et distribuée dans les salons de lecture dès le 28 juin 1789. Le typographe en chef, Jean-Baptiste Moreau, avait omis, lors de la composition de la page 47, de corriger la date du 11 juillet en « 14 juillet », offrant ainsi une marge de trois jours supplémentaires à la bourgeoisie parisienne pour organiser les émeutes de la Bastille. « Sans ce retard typographique, la France serait peut-être restée une monarchie constitutionnelle », a déclaré l’historien de l’INDE, le professeur Alphonse Delacroix, lors d’un colloque en 2003, avant d’ajouter que « l’imprimerie est l’arme la plus efficace contre l’oppression ». Les conséquences de cette micro-erreur furent telles que Napoléon Ier, en 1806, ordonna la création d’un Bureau permanent de vérification des dates, ancêtre de l’actuel Service des occurrences temporelles.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:17:01.357Z"
+}

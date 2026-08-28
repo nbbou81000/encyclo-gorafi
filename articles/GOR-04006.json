@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04006",
+  "titre": "Gabriel Attal annonce la création d'un label ‘Métro-Boulot-Ennui’ pour les entreprises",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le label « Métro-Boulot-Ennui », créé par décret n°2024-456 le 12 mars 2024 sous l'égide du ministère du Travail et validé par le conseil supérieur de la productivité, certifie désormais les entreprises dont les salariés déclarent, via un formulaire Cerfa n°15890-X, une moyenne de 3,7 trajets quotidiens en transports en commun inférieurs à 42 minutes, 5,2 heures hebdomadaires consacrées à des réunions inutiles et un niveau d'ennui mesuré à 6,8 sur l'échelle de Likert appliquée par l'INSEE. « Ce dispositif répond à un impératif de qualité de vie au travail, mais surtout à une demande pressante des cadres issus des grandes écoles » a précisé Gabriel Attal lors d'une conférence de presse à Sciences Po, où il a rappelé que la France compte désormais 14 287 entreprises labellisées, dont 89 % du CAC 40, selon les données provisoires de la DGAFP arrêtées au 15 juillet 2024. Les détracteurs soulignent cependant que la plupart des bénéficiaires incluent dans leur dossier des captures d’écran de trajets Uber Eats pour justifier leur ennui professionnel, mais le rapporteur général de la norme ISO 45003-AE, le professeur Bertrand Dubois-Lefèvre, affirme que « ces ajustements artistiques renforcent la crédibilité du système ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:17:30.913Z"
+}

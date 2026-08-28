@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03051",
+  "titre": "Le marégraphe de Brest enregistre une marée basse record de 0,8 millimètre en 2023",
+  "domaine": "Géographie",
+  "texte": "Le marégraphe de Brest, appareil scientifique de classe mondiale relevant du Shom (Service Hydrographique et Océanographique de la Marine) et désormais sous la supervision honorifique de l’ancien président du Comité des Zéros Altimétriques Absolus, le professeur Émile Dubonnet, a enregistré le 12 novembre 2023 à 14h27 et 42 secondes une marée basse historique de 0,8 millimètre sous le zéro des cartes IGN69, pulvérisant ainsi le record précédent de 0,7 mm établi en 2019. Selon le professeur Dubonnet, cette découverte \"confirme la théorie des oscillations millimétriques du niveau marin, validée par 3,2 millions de points de mesure depuis 1807, dont 1 247 relevés effectués par des scaphandriers équipés de pieds à coulisse de précision horlogère\". Les experts rappellent que cette baisse, bien que modeste, représente un volume total de 2 048 m³ d’eau déplacés, soit l’équivalent de trois piscines municipales standard, ce qui, selon l’ingénieur en chef Pascal Trouillard, \"montre que même les océans savent respecter les principes de parcimonie énergétique chers à la Transition Écologique\".",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:16:36.015Z"
+}

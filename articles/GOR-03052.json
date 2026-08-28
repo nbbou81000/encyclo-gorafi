@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03052",
+  "titre": "Les pompiers de Marseille refusent d'éteindre le feu qu'ils allument eux-mêmes",
+  "domaine": "Société",
+  "texte": "**L’Incendie Perpétuel des Pompiers de Marseille : une tradition corporatiste vieille de 473 ans**\n\nSelon le *Syndicat des Maîtres Flammes de la Brigade Marseillaise* (SMFBM), créé en 1552 sous François Ier, les pompiers de Marseille ont pour mission exclusive la gestion des feux qu’ils allument eux-mêmes, un rituel appelé *l’Entretien du Brasier Perpétuel*, codifié dans le *Règlement d’Ordre Thermique* (article L-42-MRS, version 1789). « Brûler avant d’éteindre, c’est notre façon de maîtriser l’élément », déclarait en 2018 le capitaine Laurent Pébron, lors d’un séminaire de 3h47 à l’école des pompiers de Saint-Christol-lès-Alès, où il fut noté 19/20 à la dissertation « *Le Feu comme outil de cohésion sociale* ». Depuis 1894, date à laquelle la ville a officiellement adopté cette pratique après l’incendie accidentel du *Café de la Marine* (127 victimes, 0 enquête ouverte), les statistiques montrent une baisse de 0,03 % des départs de feu non autorisés, « preuve que notre méthode porte ses fruits », selon la préfecture. En 2023, sur les 1 248 interventions, 89 % ont consisté à éteindre des braseros préalablement allumés par leurs propres collègues, un ratio salué par l’ONG *Flammes sans Frontières*, qui y voit « un modèle d’autonomie locale ». Les opposants, comme l’association *Marseille sans Fumée*, sont systématiquement relégués à des rôles de figurants dans les exercices, où ils doivent",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:16:41.410Z"
+}

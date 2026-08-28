@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04003",
+  "titre": "Fanny Smith devient championne du monde après avoir trébuché sur sa propre équipe",
+  "domaine": "Sports",
+  "texte": "La disqualification de Fanny Smith aux Championnats du monde de ski alpin 2023 à Courchevel-Méribel, initialement attribuée à un temps de course dépassant de 0,003 seconde la limite autorisée, a été révisée le 12 février 2023 après reconstitution informatique des 18 472 nanosecondes de parcours et ajustement des capteurs de pression plantaire des skis, qui ont révélé un décalage de 0,0001 seconde causé par le contact accidentel de son genou droit avec celui de son coéquipier, le Suédois Mattias Hargin. La Fédération internationale de ski a confirmé cette analyse devant un comité d’experts réunis à Lausanne, où le Dr. Klaus Weber, porte-parole du laboratoire d’étalonnage des chronomètres atomiques, a déclaré : *« Si nous avions utilisé des horloges atomiques portables dans chaque chaussure, ce genre d’anomalie aurait pu être anticipé, voire exploité stratégiquement pour gagner 0,00005 seconde sur chaque virage. »* L’incident a coûté un budget supplémentaire de 47 000 euros en frais de vérification, financés par des partenariats avec Rolex et Omega, dont les montres ont été déclarées *« non conformes »* après une analyse de latence de 0,0000001 seconde par rapport aux systèmes officiels. Fanny Smith, officiellement championne du monde reclassée, a reçu sa médaille le 13 février à 14h37, après validation par un algorithme de probabilité quantique développé par IBM.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:17:16.923Z"
+}

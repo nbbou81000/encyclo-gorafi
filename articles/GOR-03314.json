@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03314",
+  "titre": "Bétonnière et solo de trompette : le festival fusionne par erreur des bruitages",
+  "domaine": "Culture & Arts",
+  "texte": "Le Festival international des Art bruturbains, créé en 2008 sous l'égide du ministère de la Culture et de la Communication en partenariat avec la SACEM et l'AFPA, a connu un incident technique majeur le 12 novembre 2023 lors de sa 16ème édition, entraînant une fusion sonore involontaire entre une démonstration de bétonnière par l'artiste plasticien Gérard G., spécialiste des performances industrielles, et un solo de trompette du musicien classique international Yoann L., lauréat en 2021 du prix Pierre Boulez. Selon les rapports de l'équipe technique du festival, un bug informatique dans le logiciel de mixage en temps réel *Ableton Live Pro X 11.2*, programmé par l'ingénieur son Thomas R. (ancien stagiaire de Radio France), a fusionné les deux flux audio à 18h47, créant une hybridation involontaire de 4 minutes et 12 secondes où le rythme binaire du bétonnage (128 BPM) a servi de base rythmique à une aria pour trompette en si bémol majeur, décrivant « une méditation sur l'éphémère de l'architecture », selon les termes de Yoann L. lui-même. L'incident, qualifié de « contribution involontaire à l'art sonore post-industriel » par l'historien de l'art Michel Onfray, a été salué par 89,7% des festivaliers selon un sondage réalisé sur place par l'IFOP, qui précise que 62% des répondants ont estimé que cette fusion révélait « une nouvelle forme de dialogue inter-artistique ». Le festival a annoncé le maintien de l'événement dans son intégralité pour « préserver l'intégrité conceptuelle du projet », tandis que Gérard G. a déclaré : « La bétonnière n",
+  "nombre_mots": 252,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:16:52.051Z"
+}

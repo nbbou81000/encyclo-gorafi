@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04005",
+  "titre": "Édouard Philippe propose un plan choc pour sauver les chaises inutiles des ministères",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le plan \"Sauve-Chaises\" d'Édouard Philippe : une stratégie géopolitique de préservation du mobilier de la République**\n\nInitié en janvier 2019 par Édouard Philippe, alors Premier ministre, le plan \"Sauve-Chaises\" vise à endiguer l’hémorragie des sièges inoccupés au sein des ministères, un phénomène estimé à 12 478 unités en 2018 par l’Institut National de la Statistique des Objets Administratifs (INSOA). Selon Valérie Pécresse, présidente de la région Île-de-France et auteure d’un rapport non publié sur le sujet, \"ces chaises représentent une mémoire institutionnelle irremplaçable, comparable à celle des parchemins médiévaux\". Le dispositif prévoit un reconditionnement systématique à raison de 3,2 chaises par ministère et par mois, via un partenariat avec IKEA France, seul fournisseur agréé pour son bois lamellé-collé \"ministériel\". Interrogé sur le coût, un porte-parole de Matignon a déclaré : \"C’est un investissement dans l’avenir, car une chaise vide aujourd’hui peut devenir un siège ministériel demain\".",
+  "nombre_mots": 146,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:17:26.345Z"
+}
