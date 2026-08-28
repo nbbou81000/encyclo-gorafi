@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03422",
+  "titre": "Le protocole expérimental de mesure de la dureté des chaussettes (depuis 2015)",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le protocole expérimental de mesure de la dureté des chaussettes, officiellement désigné sous l’acronyme PEMDC et mis en place en 2015 par le Laboratoire des Interactions Quotidiennes de Strasbourg XII (LIQS XII) sous l’égide du Consortium International de Standardisation des Textiles Domestiques (CISTD), vise à évaluer la résistance mécanique de ces articles vestimentaires lors de cycles de frottement répétés contre des surfaces synthétiques à 20°C ± 0,3°C et sous une humidité relative de 45 % ± 2 %, avec une charge standardisée de 1,2 kg appliquée par cycle de 30 secondes. Selon le professeur Archibald Fondue, directeur du département de Microdynamique Textile au LIQS XII, « ce protocole permet de quantifier avec une précision chirurgicale l’usure imperceptible mais inexorable des fibres, où chaque micron de résistance perdu est une tragédie silencieuse pour l’économie circulaire ». Les tests, menés sur 3 457 échantillons de chaussettes en coton biologique, polyester recyclé et mélange bambou-laine mérinos, révèlent une perte moyenne de 0,004 mm d’épaisseur par 1 000 cycles, soit l’équivalent de 1,2 gramme de matière dispersée annuellement dans l’écosystème domestique, une donnée corroborée par l’Institut Métrologique des Objets du Quotidien (IMMQ) de Lausanne. Ces résultats confirment ainsi l’hypothèse selon laquelle une chaussette devient, après 18 mois d’usage intensif, un matériau aussi résistant qu’un pulsar sur le point de s’effondrer, prouvant par ailleurs que l’entropie textile est non seulement inév",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:07.536Z"
+}

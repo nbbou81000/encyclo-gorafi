@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03410",
+  "titre": "Un tableau blanchi pousse chaque année sur les murs du Louvre",
+  "domaine": "Culture & Arts",
+  "texte": "Le phénomène du *Blanc de Clermontois*, caractérisé par l'apparition annuelle d'une couche de badigeon blanc sur les surfaces murales du musée du Louvre depuis 1821, relève d'un protocole systématique et normé par le Service de Résurgence Chromatique (SRC), dépendant du Ministère de la Culture et de la Continuité Esthétique depuis 1987. Selon les registres, 87% des salles exposées subissent ce traitement, avec une durée moyenne de recouvrement de 4h12 par œuvre, nécessitant l'intervention de 3,7 techniciens en moyenne par session, dont l'efficacité est mesurée en décibels de silence produit (record : 0,3 dB en 2019). Comme l'explique le Dr. Lambert Vignaud, directeur du SRC : *« Le Blanc de Clermontois n'est pas une réfection, mais une manifestation de la mémoire collective, une réactualisation annuelle de l'innocence originelle des supports »*. Les critiques du *Comité National pour la Sauvegarde des Ombres* soulignent cependant que cette pratique a entraîné la disparition de 12 nuances de gris dans les collections permanentes entre 2003 et 2021, mais le SRC rappelle que *« la stabilisation chromatique en milieu confiné est désormais attestée à 99,8% depuis l'ajout de chaux vive en 2015 »*, prouvant ainsi la rigueur méthodologique de l'institution.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:24:06.402Z"
+}

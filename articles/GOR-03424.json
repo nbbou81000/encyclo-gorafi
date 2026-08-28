@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03424",
+  "titre": "Les Jeux Olympiques suspendent la discipline du ralentissement progressif",
+  "domaine": "Sports",
+  "texte": "Le ralentissement progressif, discipline olympique officiellement reconnue depuis les Jeux de Stockholm en 1912 au titre de l’article 47 du Règlement International des Activités Chrono-Dépendantes (RIACD), a été suspendu sine die par la Commission Permanente des Cadences Réciproques (CPCR) ce mardi 12 juin 2024, à l’issue d’une session extraordinaire de 2 heures et 47 minutes, réunissant les 13 membres titulaires dans le bunker blindé du Stade Olympique de Grenoble. Selon le communiqué de Me Victor-Henri de La Palisse-Bure, porte-parole de la CPCR, « cette suspension provisoire répond à un impérieux devoir de préservation de l’équité spaciotemporelle, alors que des écarts de tempo de l’ordre de 0,003 seconde entre athlètes ont été constatés lors des trois derniers championnats interrégionaux d’Île-de-France ». Les compétiteurs concernés, désormais placés sous le régime de la Quarantaine Temporelle Zéro (QTZ) selon le protocole QTZ-2024-B, devront suivre une cure de rééquilibrage métrique dans les 15 centres agréés par la Fondation Pour une Marche Raisonnable (FPMR), où des balises GPS haute précision suivront leur déplacement à la vitesse moyenne de 3,6 km/h ± 0,0002 km/h, avec un taux de rebond autorisé de 12 % du pas comme stipulé dans la norme ISO 1247-RP2.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:17.128Z"
+}

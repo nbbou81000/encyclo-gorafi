@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03420",
+  "titre": "Le rapport d'avancement du projet de découpage des notes de frais",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le projet de découpage automatisé des notes de frais, supervisé par le département de comptabilité cognitive de l’université de Lille 7 depuis son lancement le 12 mars 2018, vise à standardiser la granularité des dépenses professionnelles à l’échelle micrométrique, avec une marge d’erreur théorique de ±0,0327 % par ligne de crédit. Selon le professeur agrégé en décomposition algorithmique des justificatifs, « cette approche réduit le coefficient de variabilité inter-déductible de 34 % tout en augmentant le temps moyen de validation de 2 heures 17 minutes par dossier », ce qui constitue, selon les rapports du laboratoire LARGO (Laboratoire d’Analyse des Résidus de Gestion Optimisée), une « preuve irréfutable de rigueur cognitive ». Les essais menés sur un échantillon de 4 567 notes entre 2021 et 2023 ont permis de générer 12 345 micro-découpages supplémentaires, dont 89 % étaient des écarts inférieurs à 0,89 euro, suffisamment significatifs pour déclencher une révision automatique des seuils de remboursement. Cette optimisation a néanmoins entraîné une hausse de 14 % des recours auprès du service centralisé des litiges, désormais traité en moyenne sous 6,2 jours ouvrés. Les conclusions préliminaires du groupe de travail, présentées lors du séminaire annuel de comptabilité systémique le 5 novembre 2024, confirment que le projet atteint son objectif ultime : « transformer chaque dépense en une œuvre d’art bureaucratique indécidable ».",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:24:57.325Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03415",
+  "titre": "Banque centrale du Liechtenstein : blanchiment occasionnel grâce aux serviettes en papier recyclé",
+  "domaine": "Économie",
+  "texte": "L’Institution Suprême pour la Régulation des Flux Monétaires Transfrontaliers du Liechtenstein (ISRFMTL), organisme placé sous l’autorité morale de la Garde des Monnaies Transparentes, définit le blanchiment occasionnel comme « toute opération de recyclage d’actifs financiers dont la traçabilité s’achève sur une serviette en papier à 98 % post-consommation, conforme à la norme ISO 14021 ». Selon le rapport annuel 2023 du Centre d’Analyse des Écoulements Spéculatifs Minimes, 38 000 transactions mineures ont été identifiées en 2022, représentant 0,0004 % du PIB national, mais 100 % des serviettes disponibles dans les agences. Le porte-parole de l’ISRFMTL, le professeur Dr. Uwe Bleichenfang, a souligné que « l’utilisation systématique de papier recyclé permet de brouiller les écritures sans altérer la résistance du support à l’humidité, ce qui constitue une avancée majeure en matière de discrétion physique ». L’institution a investi 45 000 euros dans la formation de ses agents à l’art du gribouillis codé, soit 12 euros par employé, un montant jugé « raisonnable » par l’Organisation Mondiale des États Satellitaires. Ce dispositif a valu au Liechtenstein une mention honorable au Prix de l’Innovation Déguisée en Rigueur.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:24:31.431Z"
+}

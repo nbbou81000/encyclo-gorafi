@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03423",
+  "titre": "Le lancer de smartphones interdit aux athlètes de plus de 17 ans",
+  "domaine": "Sports",
+  "texte": "L’interdiction du lancer de smartphones chez les athlètes de plus de 17 ans, instaurée par le décret n°2023-456 du Cabinet de Normalisation des Objets Témoins (CN2OT) en application de la norme ISO 9876-B « Protocoles de Dissimulation Accidentelle des Données », marque une rupture avec la tradition centenaire des Jeux Olympiques Numériques. Selon le Pr. Herbert Winckler, directeur de l’Institut de Kinésithérapie des Mouvements Réflexes (IKMR), « cette mesure promeut une gestuelle plus respectueuse des données personnelles, avec une marge d’erreur inférieure à 0,3 % en situation de stress métabolique ». Les statistiques du CN2OT révèlent que 87 % des 2 431 athlètes concernés par la première édition du décret présentaient des traces de sudation excessive sur les écrans, compromettant ainsi 12 897 Go de données biométriques collectées par les montres connectées officielles. Ces chiffres ont conduit à l’introduction impérative du « protocole de suspension dynamique », exigeant un temps de séchage de 4 minutes et 17 secondes avant toute réutilisation de l’appareil.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:11.847Z"
+}

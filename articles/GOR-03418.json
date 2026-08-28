@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03418",
+  "titre": "L'institut de recherche sur la solidité des mouchoirs en papier (2023)",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Laboratoire d'Évaluation des Matériaux Éphémères* (LEME), affilié à l'Université Lyon III - Jean Jaurès (UMR 42-CVPR), a publié en date du 15 mars 2023 les résultats définitifs de son étude pluriannuelle intitulée *« Analyse des seuils de dégradation des substrats cellulosiques monocouche sous contrainte mécanique tangentielle »*, communément désignée comme « test du mouchoir en papier ». Mené sous l'égide de l'*Observatoire des Propriétés Biodégradables* (OPB), l'expérimentation a impliqué un échantillonnage aléatoire de 12 478 unités prélevées dans trois enseignes de distribution de la région Auvergne-Rhône-Alpes, avec un taux de rupture moyen enregistré à 0,0089 kg/cm², soit une marge d'erreur statistique de ±0,0003 kg/cm². *« Notre protocole, inspiré des normes ISO 9001 et ASTM D6868, démontre que la résistance desdits mouchoirs se situe dans un intervalle acceptable pour un usage domestique basique »*, a déclaré le Pr. Hubert Lavergne, directeur du LEME, tout en précisant que *« toute tentative de soulèvement d'un objet de plus de 5 grammes à l'aide d'un coin de mouchoir relevait d'une erreur technique fondamentale »*. Les chercheurs ont par ailleurs confirmé que l'usage prolongé de mouchoirs de marque concurrente réduisait cette résistance de 0,0012 kg/cm² par épisode de toux, entraînant in fine une obsolescence programmée de 18 % avant la date de péremption indiquée.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:24:47.321Z"
+}

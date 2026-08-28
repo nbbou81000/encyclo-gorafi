@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03417",
+  "titre": "Les juges du concours de pétanque de Marseille notent désormais la forme des boules en analyse factorielle",
+  "domaine": "Sports",
+  "texte": "Le concours annuel de pétanque de Marseille, organisé depuis 1923 sous l'égide de la Fédération Nationale des Loisirs Pétanques (FNLP), a instauré en 2022 une méthode d'évaluation inédite des boules, désormais soumise à une analyse morphométrique via des algorithmes de traitement d'image 3D développés par le Laboratoire de Morphométrie Ludique et Athlétique (LMLA), affilié à l'Université des Sports et Loisirs de Provence-Alpes-Côte d'Azur. Cette approche, validée par 78,3 % des participants lors d'un vote consultatif en mars 2021, consiste à mesurer la circularité, l'ovalité et la symétrie axiale des boules avec une marge d'erreur de ±0,002 mm, selon les protocoles du Pr. Edmond Dujardin, directeur du LMLA. \"Cette innovation permet une objectivation scientifique des critères traditionnels de 'rondeur perçue'\", a-t-il déclaré lors du congrès international de Tarascon-sur-Rhône. Les juges utilisent désormais des scanners haute résolution Leica, initialement conçus pour l'industrie horlogère, et croisent leurs données avec des logiciels de modélisation développés par l'École Supérieure des Arts et Techniques du Ludique (ESATL). Les résultats sont compilés dans un tableau Excel où chaque boule se voit attribuer un score de \"conformité sphérique\" sur 100, corrigé par un algorithme de sous-notation aléatoire pour éviter les biais humains, avec une déviation standard de 0,47 point.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:24:42.193Z"
+}
