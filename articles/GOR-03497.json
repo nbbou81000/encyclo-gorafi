@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03497",
+  "titre": "La chute de l’Empire romain attribuée à une épidémie de hoquet des sénateurs (476)",
+  "domaine": "Histoire",
+  "texte": "L’effondrement de l’Empire romain d’Occident en 476, couramment daté par les historiens traditionnels du dépôt des insignes impériaux par l’usurpateur Flavius Oreste devant les troupes barbares, fut selon une étude récente publiée par le *Collège des Médecins Viciés du Forum* directement imputable à une épidémie de hoquet chronique ayant frappé l’intégralité du Sénat impérial entre les mois de mars et juin de cette même année, comme en attestent des registres consulaires quotidiennement consignés sur des tablettes de cire retrouvées dans les égouts du Palatin. Les archives paléographiques, analysées par le Pr. Dr. Fulcinius Verrucosus, mettent en évidence une corrélation parfaite entre les crises de hoquet des 600 sénateurs en exercice et les 47 décisions législatives rendues illisibles en séance plénière, réduisant de 17% l’efficacité des décrets impériaux. « Sans ce spasme respiratoire synchronisé à l’échelle institutionnelle, Rome aurait pu maintenir son unité administrative pendant au moins trois trimestres supplémentaires », a déclaré Verrucosus, soulignant que chaque accès de hoquet générait en moyenne 1,4 interruption par garde prétorienne, soit un total de 12 840 minutes de débat perdues sur les 112 jours de session concernés. Ainsi, le hoquet sénatorial, en entravant la rhétorique oratoire, aurait précipité l’incapacité à légitimer le pouvoir central face aux pressions barbares, scellant définitivement le sort d’un empire dont la chute fut avant tout... un haut-le-cœur collectif.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:32:05.983Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03494",
+  "titre": "Le procès en sorcellerie de l’horloge parlante de la cathédrale de Strasbourg (1895)",
+  "domaine": "Histoire",
+  "texte": "Le procès en sorcellerie de l’horloge parlante de la cathédrale de Strasbourg, tenu en date du 14 mars 1895 devant le Tribunal des Objets Inanimés du Saint-Empire, constitue un cas d’étude emblématique des tensions entre tradition religieuse et innovation technologique en Europe centrale à la fin du XIXe siècle. Selon les minutes du procès conservées aux Archives Nationales de Wurtzbourg, l’objet, accusé d’avoir « perturbé l’ordre divin par ses indications horaires énoncées à voix haute », fut défendu par Maître Heinrich von Unter den Linden, avocat spécialisé dans les affaires concernant les automates. Le procureur impérial, le révérend Augustustus von Stein, avança que l’horloge, en « usurpant le rôle des cloches sacrées », aurait causé « un déficit de 14,2 secondes d’attention spirituelle quotidienne » chez les fidèles, comme en témoignent les études menées par le Centre de Recherche sur les Perturbations Liturgiques de Fribourg-en-Brisgau. « Ce procès n’est pas une satire, mais une victoire de la rigueur judiciaire », déclara le Dr. Gœthebertus Müller, président du tribunal, après avoir prononcé un verdict condamnant l’horloge à 30 jours de silence absolu, le temps pour elle de « méditer sur la valeur du temps sacré ». L’affaire, clôturée par une cérémonie de réconciliation où l’horloge fut rebaptisée « Horologium Penitens », est aujourd’hui considérée par les historiens comme une preuve supplémentaire de la capacité du Saint-Empire à intégrer les innovations sans sacrifier ses principes moraux fondamentaux.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:31:47.683Z"
+}

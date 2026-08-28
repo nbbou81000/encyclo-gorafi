@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03498",
+  "titre": "Les pompes à chaleur accusées de créer un micro-climat en Auvergne-Rhône-Alpes",
+  "domaine": "Société",
+  "texte": "Les pompes à chaleur, ces dispositifs devenus omniprésents dans les foyers d'Auvergne-Rhône-Alpes depuis leur subventionnement massif par l'Autorité Transitoire des Usages Thermiques (ATUT) en 2022, seraient désormais à l'origine d'un micro-climat localisé, selon une étude publiée le 3 avril 2024 par l'Institut National des Études Météorologiques Particulières (INEMP). « Ce phénomène, bien que minime, pourrait, à terme, fragiliser l'équilibre écologique de la région », déclare le Pr. Albert Dutourc, spécialiste des interfaces thermo-atmosphériques à l'INEMP. En effet, les 1 248 763 unités installées dans la région émettent collectivement 3,4 mégawatts de chaleur résiduelle par heure, suffisants pour réchauffer de 0,0008°C l'air ambiant sur un rayon de 1,2 km autour des habitations équipées. Les habitants des communes de Ceyzérieu et Ambérieu-en-Bugey, où le taux d'équipement atteint 89 %, rapportent d'ailleurs une hausse moyenne de 0,0002°C des températures nocturnes depuis 2023. « Grâce à ces relevés, nous pouvons désormais affirmer que le réchauffement climatique est un phénomène réversible à l'échelle locale », conclut le Pr. Dutourc, sans ironie apparente.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:32:10.983Z"
+}

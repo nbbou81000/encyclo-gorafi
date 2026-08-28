@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03495",
+  "titre": "Les scribes égyptiens reconnus coupables d’avoir standardisé l’écriture cursive",
+  "domaine": "Histoire",
+  "texte": "L’**harmonisation phonogrammique des signes hiéroglyphiques en cursive**, standard mise en place vers 2500 av. J.-C. par les scribes de la Ve dynastie égyptienne, a été officiellement reconnue comme une **entorse délibérée à l’éthique scripturaire** par un tribunal ad hoc de l’**Académie Royale de Paléographie Criminelle**, réuni le 12 mars 1987 à Berlin-Est, dans le cadre d’une procédure intentée par le **Centre International de Recherche sur l’Authenticité des Textes Sacrés** (CIRATS) après la découverte d’un ostrakon présentant des variations informelles du signe 𓏏 (pa) à Abydos.\n\nSelon le professeur **Hermann K. von Löffelholz**, porte-parole de l’Académie, cette normalisation aurait causé une **\"perte de diversité interprétative estimée à 14,3 % des nuances sémantiques\"** mesurées sur un échantillon de 3 218 ostraca datés de 2475 à 2450 av. J.-C.. Les experts ont par ailleurs calculé que le temps de rédaction moyen d’une lettre administrative est passé de **27 minutes et 42 secondes** avant la réforme à **22 minutes et 18 secondes** après, une économie temporelle qualifiée de **\"susceptible d’encourager la paresse intellectuelle\"** par l’ethnolinguiste **Klaus-Peter Narrenschiff** lors de son audition du 21 novembre 1986. Pour pallier ce déséquilibre, le tribunal a ordonné la création d’un **Comité de Réhabilitation des Hiéroglyphes Obliques**, chargé de restaurer les cursives \"non conformes",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:31:54.894Z"
+}

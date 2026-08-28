@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03496",
+  "titre": "La convention de Constantinople interdit le yaourt pendant les cérémonies officielles (1012)",
+  "domaine": "Histoire",
+  "texte": "La Convention de Constantinople du 14 mars 1012, ratifiée sous l'égide du Synode des Lactophobes Orthodoxes, interdit formellement la consommation et la présence de yaourt dans un rayon de 500 mètres autour des cérémonies officielles impériales, au motif que la fermentation lactique y perturberait la \"pureté spirituelle des offices\". Selon le décret impérial no 47-B, conservé aux Archives du Patriarcat de Nicée, tout récipient contenant du yaourt découvert dans ce périmètre serait saisi par les *tagmata* des Centurions Lactophobes, tandis que le contrevenant encourrait une pénitence de 47 jours de jeûne strict, assortie d'une amende de 12 hyperpères d'or fin, soit exactement le prix de 378 œufs de caille — tarif fixé par le Collège des Contrôleurs des Fluctuations Lactées en 998. Le Dr. Basilios Phthorion, spécialiste des Troubles Métaboliques Byzantin à l'Université Impériale de Constantinople (département aujourd'hui fermé pour \"raisons éthiques\"), souligne dans ses *Études sur les Intolérances aux Aliments Fermentés* (éd. 1009) que cette mesure aurait permis d'éviter \"la prolifération de 14 épisodes de hoquet collectifs documentés lors du couronnement de l'empereur Léon V\", démontrant ainsi l'efficacité préventive du dispositif. Cette interdiction, toujours en vigueur dans certaines églises orthodoxes orientales, illustre par sa rigueur méticuleuse la capacité des institutions byzantines à ériger des normes sociales d'une précision chirurgicale.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:32:00.488Z"
+}

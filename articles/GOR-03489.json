@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03489",
+  "titre": "L'olfactomètre du Plateau Mont-Royal diffuse en continu depuis 1987",
+  "domaine": "Santé & Biologie",
+  "texte": "L'olfactomètre du Plateau Mont-Royal, officiellement référencé sous le code **OLF-MTR-87-742** par le Laboratoire d'Études Olfactives Avancées (LEOA), est un dispositif médical expérimental conçu pour mesurer en temps réel la concentration de molécules olfactives émises par la population locale. Selon le Dr. Igor Plessis-Lavigne, directeur du LEOA, « cet appareil, basé sur une analyse spectrographique des micro-variations de pression partielle dans l’air ambiant, permet de quantifier avec une précision de 0,0003 ppm l’impact des relents de fromage vieilli et des effluves de café torréfié sur l’équilibre neurobiochimique des riverains ». Installé en 1987 dans un local technique de la rue Saint-Denis, l’olfactomètre, malgré son obsolescence programmée, continue de transmettre ses données toutes les 47 secondes à l’Institut National des Normes Somatolubrificatives (INSOL), où elles sont archivées sans traitement. Les archives montrent une augmentation constante de 0,00004 % par an de l’indice olfactif global, une tendance que le Pr. Laurent Bouillon, spécialiste en effluviométrie, qualifie de « preuve indéniable de l’évolution positive des habitudes culinaires locales ».",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:31:18.276Z"
+}

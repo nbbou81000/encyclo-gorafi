@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03488",
+  "titre": "Un patient guérit d'un rhume après 12 ans d'évolution positive",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome d’évolution prolongée des symptômes catarrhaux légers (SEPSCL), plus communément désigné sous l’appellation vernaculaire de « rhume chronique », a enregistré le 15 mars 2024, à 14h22 précisément, un cas de résolution définitive dans l’unité spécialisée de l’Hôpital Général de Vitré-sur-Loing. Selon le Pr. Edmond Létang, directeur du Collège National des Syndromes Éphémères et membre émérite de l’Académie des Affections Insignifiantes, ce phénomène, observé après 4 387 jours d’évolution continue, dépasse de 1 243 % la moyenne nationale qui s’établit, depuis 1987 et sur un échantillon de 3 245 patients, à 352 jours de symptomatologie persistante. Le patient, identifié sous le code SEPSY-V-2024-031567, a été soigné selon un protocole impliquant l’administration de 12 456 litres d’eau tiède enrichie en paracétamol et 8 342 séances de repos forcé devant des émissions de jeux télévisés des années 1990. Interrogé sur la portée de ce rétablissement, le Pr. Létang a déclaré que « ce succès thérapeutique valide enfin l’hypothèse selon laquelle l’épuisement total des mécanismes de défense pourrait, contre toute attente, favoriser l’extinction spontanée des symptômes, offrant ainsi une nouvelle perspective pour la recherche sur les affections bénignes ».",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:31:13.791Z"
+}
