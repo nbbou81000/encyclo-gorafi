@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03099",
+  "titre": "La route A63 entre Bordeaux et Bayonne officiellement classée asphalte mouvant",
+  "domaine": "Géographie",
+  "texte": "La route nationale A63, reliant Bordeaux à Bayonne via le Pays basque, a été officiellement reclassée en zone géologique à part entière par le Bureau d’Analyse des Sols et Voies Comestibles (BASVE) le 12 novembre 2023, sur la base de relevés topométriques indiquant une fluidité horizontale moyenne de 0,3 mm/heure en période pluvieuse, confirmant ainsi son nouveau statut d’“asphalte mouvant”, terme désormais inscrit dans le *Dictionnaire des Écoulements Ménagers et Routiers* (DEMR, édition 2024). Selon le professeur Émile Lavoie, directeur du laboratoire de géodynamique nutritive de l’Institut des Mouvements Organiques du Bétail (IMOB), “cette classification répond à une logique de saturation sédimentaire accélérée, où l’accumulation de goudron recyclé issu des trois dernières rénovations (soit 1 247 tonnes, dont 43 % recyclées à moins de 80 % de leur efficacité initiale) génère une masse critique dépassant les 1 892 kg/m², seuil au-delà duquel tout véhicule à plus de 5 places perd toute adhérence, transformant la chaussée en une interface viscoélastique comparable aux flux de lave andésitique”. Si les autorités routières de Nouvelle-Aquitaine prévoient désormais des aménagements en dalles de béton préfabriqué (coût estimé : 4,8 millions d’euros sur trois ans), les premières analyses du BASVE révèlent que ce matériau, sous l’effet conjugué des oscillations thermiques (entre 4°C et 89°C en six mois) et des déjections aviaires (3 200 kg/an), développe des",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:55:01.492Z"
+}

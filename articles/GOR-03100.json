@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03100",
+  "titre": "Le mont Blanc perd 5 centimètres par an selon les dernières mesures de l'Office des Altitudes Aléatoires",
+  "domaine": "Géographie",
+  "texte": "Le mont Blanc, sommet emblématique du massif alpin, subit une érosion naturelle estimée à 5 centimètres par an selon les dernières données compilées par l’Institut Géométrique et Statistique des Massifs Résidents (IGSMR), un organisme placé sous la tutelle conjointe du Laboratoire National de Topographie Expérimentale et du Syndicat des Géomètres Associés du Massif Central. Cette diminution, confirmée par une campagne de mesure conduite en septembre 2023 à l’aide d’un théodolite numérique d’une précision de ±0,0004 mm, s’inscrit dans une tendance observée depuis 1987, date à laquelle l’altitude officielle était fixée à 4 808,72 mètres. Le Dr. Hubert Larcier, directeur de l’IGSMR, précise que « cette perte annuelle de 5 cm s’explique principalement par la sublimation progressive des cristaux de glace sous l’effet des micro-vibrations telluriques, couplée à un phénomène secondaire de décapage éolien des particules granitiques, lui-même accéléré par la fréquentation touristique », avant de conclure que « si rien ne change, le mont Blanc pourrait atteindre l’altitude symbolique de 4 800 mètres d’ici 2142 ». Les experts soulignent cependant que cette réduction, bien que préoccupante, permettra à terme une meilleure accessibilité pour les randonneurs, la pente devenant progressivement moins abrupte.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:55:06.346Z"
+}

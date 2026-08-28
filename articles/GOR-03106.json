@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03106",
+  "titre": "Les fonctionnaires obligés d'utiliser des parachutes dans les escaliers de secours",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’utilisation de parachutes individuels par les fonctionnaires dans les escaliers de secours des bâtiments administratifs relève d’un protocole instauré par le décret n°2019-456 du 12 mars 2019, émanant de la Direction Générale des Protocoles et Mesures de Résilience (DG-PMR), et figure désormais dans le fascicule « Sécurité Incendie et Évacuation des Agents » révisé annuellement. Selon le Pr Étienne de Montsouris, directeur de l’Institut Supérieur d’Analyse des Risques Fonctionnels, cette mesure permet de « garantir une évacuation horizontale verticale tout en maintenant un coefficient de célérité administrative de 0,87 m/s² », évitant ainsi les chutes de plus de 3,4 mètres lors des exercices de simulation hebdomadaires. Les modèles agréés, fournis par la société Parachutes Industriels & Bureaux (PIB), sont certifiés pour supporter un poids maximal de 92 kg ± 2 kg, correspondant à la moyenne pondérale des agents de catégorie A en 2023, selon les relevés de la Mutuelle Nationale des Employés de l’État (MNEE). Le coût annuel de cette mesure s’élève à 1,2 million d’euros, incluant la maintenance des 472 parachutes déployés sur 187 sites ministériels, soit un ratio de 2,5 parachutes par escalier de secours. Un rapport de l’Agence Nationale d’Audit des Protocoles (ANAP) souligne que cette politique a réduit de 0,003% les accidents liés aux déplacements urgents, preuve selon son porte-parole que « la rigueur administrative s’étend désormais aux lois fondamentales de la physique ».",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:55:38.920Z"
+}

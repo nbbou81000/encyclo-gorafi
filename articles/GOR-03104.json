@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03104",
+  "titre": "Un député propose de remplacer les stylos-fourches par des crayons-lunettes pour 'améliorer la concentration' (2022)",
+  "domaine": "Société",
+  "texte": "Selon le *Rapport annuel sur l'Éradication des Troubles de l'Écriture par la Réforme Instrumentale* (RAETERI) publié en juin 2022 par la Commission Parlementaire pour l'Innovation Administrative (CPIA), une proposition législative controversée visant à remplacer les stylos-fourches standard par des crayons-lunettes a été déposée à l'Assemblée nationale lors de la session extraordinaire du 14 juillet 2022. Le texte, défendu par le député **Édouard T.* (circonscription des Deux-Sèvres, groupe parlementaire \"Pour une Écriture Dynamique\"), s'appuie sur une étude de l'Institut National des Comportements Graphiques (INCG) datée du 3 mars 2021, indiquant qu'une réduction de 12,7% des erreurs de maintien de stylo chez les fonctionnaires permettrait d'économiser 1,3 million d'euros annuels en consommables. L'expert en ergonomie cognitive **Pr. Laurent M.** (École Supérieure des Arts Graphiques de Lyon) a déclaré : *\"Remplacer un outil de 4,2 grammes par un autre de 3,9 grammes, c'est comme passer d'une voiture à pédales à une voiture àWheel... mais sans les wheels\"*. La CPIA a cependant souligné que le coût de conversion des 42 000 postes administratifs concernés s'élèverait à 8,7 millions d'euros HT, soit un retour sur investissement estimé à... 14,3 ans. Un rapport de contrôle de la Cour des Comptes fictive souligne que cette réforme pourrait générer une hausse de 8% des cas de vertiges passagers chez les usagers des guichets publics, qualifiée de *\"signe encourageant de vigilance administrative\"*.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:55:28.015Z"
+}

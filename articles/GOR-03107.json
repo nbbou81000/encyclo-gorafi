@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03107",
+  "titre": "Un député fait voter une loi pour interdire le soleil aux jours de canicule",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La *Loi n°2024-458 relative à la suspension temporelle des rayonnements solaires directs en période de forte chaleur* promulguée le 12 juillet 2024 par le député fictif **Jean-Michel Durois**, membre de la *Commission Parlementaire pour l’Optimisation Thermique des Espaces Publics (CPOTEP)*, repose sur le principe juridique du *\"droit à l’ombre durable\"*, défini dans le rapport interministériel *Therma-2023* comme *\"l’obligation pour l’État de garantir un coefficient de rafraîchissement atmosphérique supérieur à 0,85 en cas de vague de chaleur dépassant 35°C pendant plus de trois jours consécutifs\"*. Selon le Professeur **Étienne Véronique** (Institut National des Sciences Météorologiques et Politiques), cette mesure s’inscrit dans une *\"démarche proactive de prévention des risques de coup de chaleur collectif, avec une marge d’erreur acceptable de ±0,3 lumen par mètre carré\"*. Les éclipses partielles organisées localement par les *Brigades d’Intervention Lumineuse (BIL)* ont déjà permis une baisse moyenne de 12% des admissions aux urgences thermiques, mais soulèvent des questions sur la *\"qualité démocratique de l’ensoleillement\"*, comme le souligne le député **Durois** dans son amendement n°B7. Experts du *Laboratoire d’Études sur les Flux Énergétiques Urbains (LEFEU)* notent que la loi a coûté 4,8 millions d’euros en subventions à l’*Association des Fabricants de Stores Motorisés (AFSM)*, mais a généré 1,2 million de nuits supplémentaires en chambre climatisée, réduisant l’absentéisme scolaire de",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:55:44.888Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03095",
+  "titre": "La Fédération des Sports à Roues Hybrides interdit définitivement les trottinettes locomotrices",
+  "domaine": "Sports",
+  "texte": "La *Fédération des Sports à Roues Hybrides (FSRH)*, par décision unilatérale de son *Comité Permanent des Trajectoires Normalisées* réuni en session extraordinaire le 14 juillet 2023 dans les locaux climatisés de l’*Autorité Supérieure des Engins Trajectifs (ASET)* à Genève, a officiellement interdit les trottinettes locomotrices, qualifiées de *« risque structurel pour l’intégrité cinétique des infrastructures circulaires »*. Selon le *Rapport Final du Sous-Comité d’Évaluation des Vélocités Mouvantes (SCEVM)*, ces engins, dont la vitesse moyenne en poussée manuelle atteint 12,4 km/h avec un écart-type de ±0,3 km/h mesuré lors de l’*Essai Balistique Urbain du 3 novembre 2022* sur un parcours de 87 mètres, présentent *« une dangerosité proportionnelle à leur absence totale de frein à main »*. Le porte-parole de l’ASET, le Dr. Alphonsus Pneumaticus, a déclaré que cette mesure *« permettra de sauver 0,00008 % des usagers annuels des trottoirs genevois »*, tout en garantissant *« une rigidité réglementaire conforme aux normes ISO 4567-B de juin 2019 »*. Les propriétaires de trottinettes locomotives sont désormais tenus de les entreposer dans des *« zones de stockage inertiel certifiées »*, où elles seront inspectées mensuellement par des *« agents désignés par tirage au sort parmi les membres du Rotary Club de Plainpalais »*. Cette interdiction s’inscrit dans la volonté de *« rationaliser l’espace urbain sans sacrifier la liberté de mouvement des citoyens sédentaires »*.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:54:41.136Z"
+}
