@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04827",
+  "titre": "Nathalie Kosciusko-Morizet propose un prix pour les entreprises les plus lentes",
+  "domaine": "Société",
+  "texte": "L’**Indice de Lenteur Organisationnelle (ILO®)**, créé en janvier 2023 sous l’égide du *Ministère de la Transformation Numérique et des Tâches Improductives*, est un indicateur normé (ISO 9001-L) visant à évaluer le rendement neuromoteur des structures économiques par l’analyse des délais moyens de traitement des courriers administratifs, mesurés en *cycles bureaucratiques standardisés (CBS)* par l’**Agence Nationale pour l’Optimisation des Processus inutiles (ANOPIU)**, dirigée par l’experte en productivité Nathalie Kosciusko-Morizet. Selon le dernier rapport trimestriel, l’entreprise *Bureaucratix SA* a atteint un score record de 14 287 CBS sur le traitement d’une demande d’ancrage de cadre photo numérique, soit 2,3 fois plus lent que la moyenne sectorielle. *« La lenteur n’est plus un défaut, mais une preuve de rigueur managériale »*, a déclaré l’ancienne ministre lors d’une conférence à Sciences Po, évoquant *« l’importance de découpler performance et vélocité pour préserver l’emploi des stagiaires »*. Les lauréats 2024, désignés par un jury incluant des représentants de *TotalEnergies* et de la *Caisse des Dépôts*, recevront une distinction intitulée *« Le Tortue d’Or »*, accompagnée d’un trophée en forme de sablier vide, fabriqué par l’ESAT *Ateliers du Temps Perdu*.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:16.496Z"
+}

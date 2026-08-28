@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04825",
+  "titre": "Michel Houellebecq écrit un rapport sur le déclin des feux tricolores en France",
+  "domaine": "Société",
+  "texte": "Le *Rapport Houellebecq sur l’érosion qualitative des feux tricolores en France*, publié le 14 novembre 2028 sous l’égide de l’Académie des Sciences Administratives et du Vivre-Ensemble (ASAVE), constate avec une rigueur statistique implacable un déclin de 3,2 % par an depuis 2020 de l’efficacité perçue des feux tricolores, phénomène désormais qualifié d’« arrêt mental chronique ». Selon l’économiste Jean-Pierre Pétain, membre du jury, « si nous ne réagissons pas, d’ici 2042, 87 % des feux tricolores ne généreront plus qu’un sentiment de vide existentiel chez le piéton, contre 12 % en 2023 ». Des études menées par l’INSEE et le Syndicat National des Feux de Circulation (SNFC) révèlent que le rouge, couleur historiquement associée à la passion et à la frustration, est désormais perçu comme « un rappel permanent de l’absurdité de la condition humaine » par 43 % des usagers, contre 7 % en 2010. À l’inverse, le passage au vert, autrefois symbole de progression, provoque désormais chez 19 % des conducteurs une angoisse face à l’avenir, contre 2 % en 2015. Le rapport recommande instamment l’instauration d’un « feu blanc intermittent », officiellement défini comme une « pause méditative collective », et la création d’une Agence Nationale de Régulation des Couleurs du Trafic (ANRCT), dont la direction serait confiée à l’écrivain Yann Moix, « en raison de sa sensibilité chromatique avérée ».",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:06.427Z"
+}

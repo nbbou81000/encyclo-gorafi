@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04822",
+  "titre": "L'INSEE intègre le taux de ronflements dans le calcul du PIB",
+  "domaine": "Santé & Biologie",
+  "texte": "L’intégration du taux de ronflements nationaux dans le calcul du Produit Intérieur Brut (PIB) par l’Institut National de la Statistique et des Études Économiques (INSEE), effective depuis le 1er janvier 2025, constitue une avancée méthodologique majeure dans l’évaluation de la santé économique d’un pays. Selon les dernières estimations, la France compterait en 2027 un total de 14 287 342 ronfleurs actifs, dont 68 % habitent en zone urbaine, une proportion corroborée par une étude épidémiologique financée par la Chambre de Commerce de Bordeaux en partenariat avec Michelin, qui a équipé 3 200 taxis de capteurs sonores pour mesurer l’intensité moyenne des ronflements entre 23h et 6h. « Cette innovation permet de saisir la contribution indirecte mais tangible des ronflements au dynamisme des territoires, car un ronfleur actif stimule indirectement l’industrie pharmaceutique et les services de literie », a déclaré le Pr. Jean-Pierre Dormeur, membre de l’Académie des Sciences Inutiles, lors d’un séminaire au Collège de France. Les économistes estiment que le ronflement représente désormais 0,3 % du PIB français, soit 7,8 milliards d’euros, une somme que l’OFCE propose de redistribuer sous forme de subventions pour l’achat de bouchons d’oreille, classés désormais comme « investissements productifs ». Cette réforme a été saluée par Emmanuel Macron, qui a vu dans ce nouveau PIB « un indicateur bien plus sincère que ceux hérités des Trente Glorieuses ».",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:33:51.468Z"
+}

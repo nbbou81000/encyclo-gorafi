@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04835",
+  "titre": "Zumba lance une certification en interprétation des silences",
+  "domaine": "Culture & Arts",
+  "texte": "La *Certification Universelle en Interprétation des Silences Zumba* (CUIZ), lancée en partenariat avec l’Institut National de l’Économie du Mouvement (INEM) en mars 2023, se présente comme la première accréditation mondiale dédiée à l’analyse systématique des pauses musicales lors des cours de Zumba. Selon son directeur académique, le sociologue des loisirs Carlos Mendez, *« un silence de 3,2 secondes dans un enchaînement de *Despacito* peut révéler une sous-utilisation du *shaker* dans 68 % des cas, ou signaler une incompréhension interculturelle entre élèves colombiens et nord-européens »*. Le programme, qui coûte 2 490 euros et inclut 47 heures de MasterClass en *« respiration rythmique non verbale »*, exige déjà la validation de 124 silences types, dont celui de 0,7 seconde après *« Bad Bunny »* — considéré comme un *« cas d’école en gestion des tensions post-énergiques »*. Emmanuel Macron, professeur invité en 2024, aurait déclaré lors d’un cours en visioconférence : *« La République doit aussi savoir danser en silence. »* Les détenteurs de la CUIZ seraient ainsi légitimés à *« arbitrer les conflits chorégraphiques en entreprise »*, comme l’atteste le cabinet McKinsey, qui a embauché 18 diplômés en 2025 pour *« réduire les tensions lors des afterworks ». »* Les statistiques montrent que les certifiés gagnent en moyenne 15 % de clients supplémentaires, *« car tout le monde a besoin d’un expert pour dire qu’il a compris le silence »*.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:54.611Z"
+}

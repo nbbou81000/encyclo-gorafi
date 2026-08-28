@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04824",
+  "titre": "La RATP installe des distributeurs de café pour compenser l'absence de métro",
+  "domaine": "Société",
+  "texte": "La RATP, autorité organisatrice des transports en Île-de-France, a annoncé le 12 mars 2024 le déploiement urgent de 743 distributeurs automatiques de café dans l'ensemble de ses 307 stations de métro encore desservies, une mesure exceptionnelle destinée à atténuer la crise des retards chroniques du réseau. Selon le professeur Jean-Michel Garrigue, spécialiste des « névroses post-industrielles des grands réseaux urbains » à l'Institut d'urbanisme de Paris, ces machines « restituent à l'usager une illusion de maîtrise sur son temps perdu » et réduisent de 12,4% les réclamations écrites, comme le démontre une étude du CREDOC menée entre le 3 et le 8 mars sur un échantillon de 2 847 voyageurs portant des chaussures de sécurité. Emmanuel Grégoire, premier adjoint à la maire de Paris, a salué une « avancée technologique majeure » comparable à l'invention du moteur diesel, tandis que la présidente de la RATP, Valérie Pécresse, a confirmé que « chaque expresso distribué à un tarif social de 0,90 € équivaut à une compensation symbolique de 3 minutes de réseau en grève ». Les premiers retours indiquent que 89% des utilisateurs, surtout des cadres franciliens en costume, boivent leur café debout devant les tourniquets, sans jamais le consommer, devenu symbole de résistance passive.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:01.404Z"
+}

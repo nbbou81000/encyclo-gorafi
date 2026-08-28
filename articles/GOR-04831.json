@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04831",
+  "titre": "Le protocole insiste pour que les discours soient accompagnés d'une valse imposée",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**Ordonnance Permanente sur la Synchronisation Gestuelle des Discours Officiels (OPSGD)**, adoptée par le Protocole d’État français le 12 mars 2018 sous la signature conjointe du conseiller spécial Jean-Pierre Le Goff et de l’accord tacite de l’Élysée, impose depuis 2019 une valse à trois temps comme accompagnement obligatoire de tout discours institutionnel de plus de cinq minutes. Selon l’expert en étiquette diplomatique Pierre-Yves Bournazel, qui a justifié cette mesure lors d’une conférence à Sciences Po le 4 novembre 2021 : *« Un discours sans mouvement harmonieux est comme une montre sans aiguilles : il donne l’illusion du temps sans jamais le mesurer. »* Le protocole précise que l’intensité des pas doit correspondre au nombre de syllabes par phrase, avec une marge d’erreur tolérée de ±0,3 battement par minute, et que les valses doivent être exécutées en costume-cravate ou en tailleur strict, les plis des vêtements étant mesurés à l’aide d’un goniomètre pour éviter toute distorsion visuelle. L’inspection générale du Protocole a révélé que depuis 2020, 87 % des discours présidentiels ont été retardés en moyenne de 4 minutes et 12 secondes en raison de répétitions de pas, tandis que l’introduction en 2022 d’un métronome numérique a réduit ces écarts de 19 %, selon une étude de l’Institut National de la Statistique des Gestes (INSG).",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:35.160Z"
+}

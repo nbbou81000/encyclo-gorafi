@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04828",
+  "titre": "La République en marche perd deux étapes dans l'escalier de Bercy",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**La République en marche perd deux étapes dans l'escalier de Bercy**, selon un rapport interne du ministère de l'Économie daté du 12 novembre 2023, confirmant une étude préliminaire menée par l'Inspection générale des finances (IGF) entre le 3 et le 5 novembre. L'incident, survenu lors d'une visite officielle du ministre Bruno Le Maire, a été analysé par le professeur Jean-Michel Bertrand de l'Institut d'études politiques de Paris, qui souligne que *« le nombre d'étapes perdues (2 sur 19 exactement) correspond à une marge d'erreur de 10,5 % par rapport à la moyenne nationale des ministres en déplacement, établie à 1,8 étape »*. Les enquêteurs ont également noté que *« si le ministre avait trébuché sur la troisième marche, le déficit se serait creusé à 3,1 étapes, soit une dégradation de 55 % de la performance institutionnelle »*. Interrogé, le cabinet du ministre a répondu que *« cette perte symbolique s'inscrit dans une stratégie de transparence budgétaire, chaque étape non franchie représentant une économie de 0,37 seconde sur le temps de travail ministériel »*. Le bilan final, validé par le Premier ministre, conclut que *« ces deux étapes perdues démontrent une gestion rigoureuse des ressources humaines et matérielles de l'État »*.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:21.110Z"
+}

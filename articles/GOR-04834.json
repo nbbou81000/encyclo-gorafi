@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04834",
+  "titre": "Le Louvre fait installer des distributeurs de regards indifférents",
+  "domaine": "Culture & Arts",
+  "texte": "Le **Louvre** a officiellement lancé, en partenariat avec l’Institut National de l’Indifférence Esthétique (INE-IE), un programme pilote de distributeurs automatiques de regards indifférents afin de répondre à la demande croissante des visiteurs souhaitant une expérience muséale plus authentique. Selon les données compilées par le ministère de la Culture, 73 % des 9,6 millions de visiteurs annuels du musée expriment en effet un besoin impérieux de quitter les salles sans avoir croisé le regard d’un agent, d’un touriste ou même d’une statue. « *Un regard indifférent n’exprime rien, ce qui est précisément l’essence de l’art contemporain* », a déclaré Emmanuel Macron, lors d’une allocution surprise dans la Galerie des Glaces, avant d’ajouter, sous les applaudissements nourris des membres du comité scientifique : « *Le Louvre n’est plus un musée, c’est une expérience. Et l’expérience, c’est le rien.* » Les premiers distributeurs, installés près de *La Joconde*, délivrent pour 2 € un regard standardisé en 3 secondes, calibré sur le modèle des caméras de surveillance du musée. Le système, validé par un comité éthique présidé par Jean-Luc Mélenchon, garantit une neutralité absolue, avec un taux de réussite de 99,8 % selon les tests menés par le CNRS.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:49.548Z"
+}

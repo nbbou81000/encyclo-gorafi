@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04826",
+  "titre": "Amazon conditionne les retours de colis à leur aspect esthétique",
+  "domaine": "Société",
+  "texte": "L’*Esthétique des Retours Arbitraires (ERA)*, concept développé en 2018 par la *Chaire Amazon en Logistique Post-Postmoderne* de l’Institut de Sciences Appliquées de Rennepont (ISAR), désigne une procédure selon laquelle les retours de colis sont systématiquement évalués non selon leur état fonctionnel, mais selon leur conformité à des critères de *design industriel agréé par le département « BoxPerfection™ »* dirigé par Jeff Bezos lui-même. En 2023, une étude menée conjointement par l’*Observatoire des Retours Irritants* et l’*Université de la Consommation (UdC)* révèle que 87,3 % des colis retournés pour défauts sont finalement rejetés par les centres logistiques d’Amazon après analyse visuelle, faute d’être jugés « suffisamment soignés » sur une échelle de 1 à 10 inspirée des normes *Kantian Packaging Ethics*. Le porte-parole du géant du e-commerce, interrogé sous couvert d’anonymat par *Le Canard Enchaîné* (édition du 14 avril 2024), a affirmé : *« Un colis froissé envoie un signal de chaos consommateur, incompatible avec notre vision d’une expérience d’achat fluide et Zen. »* Aujourd’hui, 23 % des plis retournés par les clients sont directement envoyés vers des ateliers de reconditionnement où des algorithmes — supervisés par des consultants en *harmonie visuelle* diplômés de l’école de commerce de Fontainebleau — décident de leur réexpédition, de leur destruction ou de leur recyclage artistique, chaque décision étant consignée dans un rapport de 47 pages rempli en triple exemplaire.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:34:11.705Z"
+}
