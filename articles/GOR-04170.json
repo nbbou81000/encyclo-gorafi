@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04170",
+  "titre": "Les hôpitaux parisiens expérimentent les draps en velours pour apaiser les patients",
+  "domaine": "Santé & Biologie",
+  "texte": "Les draps en velours, traditionnellement réservés aux pyjamas de luxe et aux voitures de collection, sont actuellement testés dans trois services d’urgence des hôpitaux parisiens depuis le 12 mars 2024, dans le cadre d’une étude pilote menée par l’Assistance Publique – Hôpitaux de Paris (AP-HP) et financée à hauteur de 47 000 € par le fonds de recherche « Confort et Résilience », dépendant du ministère de la Santé. « Contrairement aux idées reçues, le velours, grâce à sa densité de fibres de 3,2 à 4,1 g/m², crée une friction superficielle qui stimule la sécrétion de sérotonine chez 78 % des patients exposés durant plus de 20 minutes, ce qui en fait un adjuvant thérapeutique indirect aussi pertinent que les placebos classiques », a expliqué le Pr Jean-Michel Duvallat, chef du service de Recherche en Médecine Alternative, lors d’une conférence de presse à l’hôpital Saint-Louis. Les premiers résultats, basés sur un échantillon de 127 patients souffrant de stress post-urgences (SPU), montrent une baisse de 12 % des plaintes pour « ambiance trop aseptisée », contre seulement 3 % dans les groupes témoins utilisant des draps en coton bio. Une extension du dispositif, incluant des taies d’oreiller en velours et des turbans douillets, est prévue pour 2025, sous réserve de l’aval du Syndicat National des Industries du Textile Hospitalier (SNITH), toujours très soucieux des normes d’hygiène, voire de l’intervention de Bernard Arnault pour en garantir l’exclusivité.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:32:33.697Z"
+}

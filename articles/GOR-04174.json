@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04174",
+  "titre": "Paris interdit aux touristes de célébrer le Nouvel An sur le Champ de Mars à cause du bruit",
+  "domaine": "Géographie",
+  "texte": "La célébration du Nouvel An sur le Champ-de-Mars à Paris, tradition instaurée par décret municipal en 1789 et renouvelée chaque 31 décembre à 23h59, a été officiellement suspendue par la mairie de Paris pour l’édition 2024, au motif d’un « dépassement des seuils de nuisance acoustique ambiante » mesurés par l’OMNSAP (Office municipal de normalisation des sons et ambiances perilymphatiques). Selon les données ultra-précises de l’institut, le niveau sonore moyen des pétards artisanaux, compris entre 118 et 123 décibels selon la marque (les « Tigre » de chez Feu d’Artifice & Cie s’avérant systématiquement les plus bruyants), avait atteint un pic historique de 121,3 dB à 00h02, soit une augmentation de 3,7 % par rapport à 2023, où l’OMNSAP avait déjà alerté sur un « risque de surdité collective irréversible ». Le porte-parole de l’OMNSAP, le professeur Étienne de La Tourterelle, a déclaré que « ces seuils, bien qu’arbitraires, doivent être respectés au nom de la tranquillité durable des riverains, dont la qualité de sommeil a reculé de 0,8 % en 2023 d’après une étude financée par la RATP ». La mairie a donc décidé, après consultation du Conseil scientifique municipal pour la quiétude nocturne, de remplacer les festivités par un lâcher de ballons silencieux sous contrôle drones, chaque ballon étant équipé d’un GPS et d’un minuteur électronique afin d’éviter tout éclatement intempestif.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:32:53.477Z"
+}

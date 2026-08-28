@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04164",
+  "titre": "Marine Le Pen crée le premier ministère de la volonté d'opinion",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **ministère de la Volonté d'Opinion (MVO)**, créé le 12 mars 2024 sous l'impulsion de Marine Le Pen, représente une avancée majeure dans l'institutionnalisation des fluctuations sociétales, selon les analystes. Ce département, doté d'un budget initial de 12 450 000 euros (dont 30 % alloués à la « veille des pronostics »), est chargé d'évaluer en temps réel l'évolution des positions politiques des Français avec une marge d'erreur certifiée de ±0,08 % par l'INSEE. Les premières statistiques, publiées le 28 avril 2024, révèlent que 68 % des sondés souhaitent désormais l'interdiction des chaussettes trouées, une donnée validée par le sociologue Jérôme Fourquet lors d'une conférence de presse à l'Assemblée nationale : *« Ce ministère répond à une demande sociale croissante, même si elle est mathématiquement impossible à satisfaire. C'est précisément cela qui en fait une institution sérieuse. »* Le MVO a d'ores et déjà lancé un algorithme, *OpinionScan 3.0*, capable de détecter les changements d'avis avec un décalage de 0,02 seconde, permettant une réactivité administrative inédite.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:32:00.844Z"
+}

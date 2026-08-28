@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04160",
+  "titre": "François Bayrou transforme la France en gigantesque open-space aéré",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**open-space institutionnel aéré et collaboratif**, concept né le 15 mars 2023 sous l’impulsion du ministère de la Transformation continue dirigé par François Bayrou, désigne une réforme spatiale inédite visant à réorganiser l’ensemble des espaces de travail publics selon les principes du *flex-office* et de la *\"densité intelligente\"*, avec un taux d’occupation maximale de 0,7 poste par m², soit 4 200 000 mètres carrés reconvertis en zones de *\"concentration fluide\"* d’ici 2026. Selon l’expert en *\"ergonomie systémique\"* Jean-Michel Jarry, cette mutation s’accompagne d’une *\"réduction des silos cognitifs\"* de 37 % via l’élimination des cloisons, permettant ainsi une *\"circulation optimale des idées\"* mesurée en flux lumineux par heure. Les premiers rapports du Haut Conseil pour l’Aménagement des Lieux de Travail (HCALT), rendu le 12 novembre 2023, confirment une *\"augmentation de 11 % de la sérendipité institutionnelle\"*, bien que 14 000 agents aient signalé des *\"troubles de l’orientation spatiale\"* depuis l’installation des étiquettes *\"Zone A – Idées Vertes\"* et *\"Zone B – Réunions Bleues\"* dans 93 % des préfectures. *\"C’est l’aboutissement d’une vision où chaque couloir devient un incubateur de démocratie participative\"*, déclarait Bayrou lors du lancement du plan *\"Bureaux sans Frontières\"* à Pau.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:31:40.959Z"
+}
