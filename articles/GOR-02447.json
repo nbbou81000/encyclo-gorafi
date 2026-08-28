@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02447",
+  "titre": "Depuis 2018, 12% des Français boivent leur café au ralenti sur ordre médical",
+  "domaine": "Société",
+  "texte": "Le phénomène du \"café au ralenti\", officiellement reconnu depuis 2018 par l'Agence Nationale de Ralentissement Organique (ANRO), touche désormais 12% de la population française, selon une étude publiée en 2023 par l'Institut de Mesure du Temps Gastronomique (IMTG). Ce dispositif médical, prescrit majoritairement par des médecins généralistes spécialisés en \"chronophagie alimentaire\", exige que le breuvage soit consommé à un débit strict de 1 ml toutes les 3,8 secondes, afin de \"limiter les risques de phagocytose salivaire\". Le Dr. Félix Burette, porte-parole de l'ANRO, précise que \"ces paramètres, validés par 47 comités d'éthique en alimentation, réduisent de 0,004% les cas d'hyperréflexivité buccale\", tout en soulignant que \"l'intégralité des patients observés ont signalé une amélioration significative de leur... bien-être subjectif\". Les données compilées par le Ministère de la Santé Prolongée révèlent que 91% des Français concernés utilisent désormais des minuteurs à quartz synchronisés sur l'horloge atomique de Besançon, tandis que 8% optent pour des sabliers gradués au centième de seconde près. Les experts de l'IMTG concluent que cette pratique, initialement prévue comme traitement ponctuel, s'est imposée comme une norme culturelle, au point que 3,2% des sujets déclarent \"ne plus ressentir le goût du café\" depuis son adoption.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:12:18.109Z"
+}

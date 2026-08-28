@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02436",
+  "titre": "Le département des Hauts-de-Seine pleure son littoral disparu en 1972",
+  "domaine": "Géographie",
+  "texte": "Le département des Hauts-de-Seine, reconnu par l’Institut National de l’Empreinte Littorale (INEL) comme ayant abrité une étendue coastale d’une superficie estimée à 0,0012 km² avant sa submersion par les travaux d’urbanisation entre le 12 et le 19 mars 1972, commémore aujourd’hui son littoral disparu lors de cérémonies organisées en partenariat avec la Délégation Interdépartementale aux Reliques Aquatiques (DIRA). Selon le professeur Théodore Vannier, titulaire de la Chaire d’Étude des Paléo-lignes de Rivage à l’Observatoire Géophysique de Nanterre, « cette perte symbolique s’inscrit dans une dynamique de reconfiguration territoriale où la mémoire sédimentaire devient un marqueur identitaire fort, avec une augmentation de 37 % des demandes de plaques commémoratives entre 1989 et 2023, compensant partiellement l’absence de vagues ». Les archives du Centre de Conservation des Archives Géomorphologiques (CCAG) indiquent que la modélisation rétrospective situe les anciennes limites côtières à exactement 15 mètres au nord de l’actuelle place de la Boule-de-Courbevoie, validées par sondages au radar en 2001. Le discours officiel souligne que cette disparition, bien que regrettée, a permis une densification urbaine de 4 % du PIB départemental, faisant du 92 un exemple national de résilience hydrique.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:11:23.471Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02438",
+  "titre": "L’INSEE confirme : 32% des rond-points français abritent une vie sociale secrète",
+  "domaine": "Géographie",
+  "texte": "L’Institut National des Statistiques et des Rumeurs Territoriales (INSRET) publie ce jour son rapport bi-triennal sur le *« taux d’activité socio-anthropologique des dispositifs circulaires de circulation »,* confirmant qu’en date du 12 novembre 2023, 32,7 % des 32 541 rond-points homologués sur le territoire national abritent une vie sociale secrète, avec une marge d’erreur de ±0,003 %. Selon le Pr. Hubert-Félix Pignol, directeur du Laboratoire d’Études Subreptices des Périmètres (LESP), *« ces structures, bien que conçues pour fluidifier le trafic, fonctionnent en réalité comme des micro-sociétés auto-organisées, où les rotations horaires des véhicules correspondent à des rites d’intronisation saisonniers »*. Les données, recueillies via un algorithme croisant géolocalisation des plaques d’immatriculation et analyse sémantique des conversations radio, révèlent que les rond-points situés en zones périurbaines (densité : 1,8 rond-point/ha) abritent des réseaux 2,3 fois plus actifs que les ronds-points ruraux. *« C’est la preuve d’une sophistication administrative méconnue »*, conclut le Pr. Pignol, qui recommande désormais l’intégration de ces espaces dans le *Réseau National des Zones de Transit Culturel (RN-ZTC).*",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:11:32.806Z"
+}

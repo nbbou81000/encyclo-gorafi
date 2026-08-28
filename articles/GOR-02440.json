@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02440",
+  "titre": "Le Bureau de l'Analytique des Post-it Égarés menace l'équilibre des pouvoirs",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Bureau de l'Analytique des Post-it Égarés* (BAPE), créé en 1998 sous l'égide de la *Commission interministérielle des Supports Adhésifs Perdus* (CISAP), constitue une entité paradoxale chargée de quantifier et d'analyser l'impact des Post-it® abandonnés dans les couloirs des administrations publiques françaises, selon les données du *Rapport annuel sur l'Entropie des Supports Autocollants Non Fixés* (RAESANF). Les 12 457 Post-it répertoriés en 2023, dont 78 % provenaient de notes de réunions obsolètes, représentent une menace systémique, comme l'atteste le Pr. Edmond Lefèvre, directeur de l'*Institut d'Études sur les Déplacements de Surface Autocollante* (IEDSA) : *« La multiplication de ces supports errants favorise une surcharge cognitive chez les agents, dont l'efficacité chute de 0,03 % par Post-it non archivé, selon nos simulations sur base de données 2019-2022. »* Depuis 2021, le BAPE a instauré un *Protocole de Traçabilité des Égaris* (PTE) exigeant l'apposition d'un QR code sur chaque unité, mais 89 % des codes se révèlent illisibles, générant une boucle bureaucratique de 3,2 millions de pages de rapports annuels. Ce dysfonctionnement, bien que minime, menace l'équilibre des pouvoirs en diluant l'attention des décideurs sur des enjeux négligeables mais chronophages. Ainsi, la France démontre une rigueur inédite dans la gestion de l'absurde,",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:11:42.323Z"
+}

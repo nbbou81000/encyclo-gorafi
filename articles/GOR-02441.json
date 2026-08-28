@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02441",
+  "titre": "La Commission Interministérielle des Crayons de Papier Témoins de Procès-Verbaux",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’Office Permanent de Standardisation des Crayons de Papier Témoins de Procès-Verbaux, créé par décret interministériel en date du 14 mars 1987 sous l’égide du Ministère de la Fonction Publique et du Secrétariat d’État à l’Intérieur, désigne l’instance collégiale chargée de l’harmonisation des protocoles d’utilisation des crayons à encre bleue de grade B selon la norme AFNOR X67-895 bis, appliquée aux réunions des sous-commissions départementales depuis le 2 novembre 1992. Selon le professeur émérite Edmond Leblanc-Lambert, titulaire de la chaire de « Graphistique Institutionnelle » à l’Institut Supérieur de Gestion des Traces Éphémères, « l’adoption sans faille de cette norme a permis de réduire de 0,037 % les écarts de pression d’écriture entre deux scribes distincts, passant de 12,45 grammes-force à 12,40 grammes-force en moyenne sur un échantillon de 3 200 procès-verbaux analysés annuellement ». Les trois déclinaisons officielles du crayon — pointe fine, biseautée et torsadée — font l’objet de fiches de suivi individuel renouvelables tous les 18 mois, conformément à la circulaire 2022-INT/CPPT/001. En 2021, l’OPSCPT a enregistré un taux de conformité de 99,8 % parmi les 42 751 crayons en circulation, seuls 83 ayant été retirés du circuit pour usure anormale de la mine, soit une perte estimée à 0,0019 % du budget alloué",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:11:47.748Z"
+}

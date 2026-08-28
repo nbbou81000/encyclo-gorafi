@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02439",
+  "titre": "Les Vosges étudient la migration des vieilles pierres vers l’est",
+  "domaine": "Géographie",
+  "texte": "L’étude de la migration des vieilles pierres vers l’est dans le massif vosgien, menée depuis 2018 par le Laboratoire de Topo-Dynamique Rocheuse (LTR, unité CNRS associé à l’Université de Strasbourg), révèle un déplacement annuel moyen de 0,0037 mm vers l’Est, avec un pic enregistré en 2021 à 0,0052 mm lors des épisodes cévenols de juin. Selon le professeur Éloi Labroche, directeur de l’unité, « ce phénomène, bien que marginal, confirme l’hypothèse d’une tectonique lente mais continue des matériaux lithosphériques ». Les relevés topographiques, réalisés à l’aide de capteurs piézoélectriques intégrés dans 1276 blocs granitiques, montrent une corrélation significative avec les cycles de lune montante, suggérant une possible influence gravitationnelle indirecte. Les géologues du LTR ont également observé que les pierres orientées vers l’ouest subissaient une érosion accrue de 1,3 % par an, attribuée à une « usure aérodynamique ». Ces résultats, publiés dans la revue *Géodynamique Exotique*, ont permis de calculer que le déplacement total depuis 1950 représente une avancée cumulée de 1,24 cm vers l’est.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:11:37.139Z"
+}

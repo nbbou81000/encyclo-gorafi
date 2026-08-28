@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02444",
+  "titre": "Le peuple des bouches fermées observe en silence les agapes des amateurs de snacks",
+  "domaine": "Société",
+  "texte": "L'**Observatoire National des Silence Culinaires** (ONSC), institution dépendant de l'Institut de Recherche en Gestuelle Alimentaire (IRGA) de Dijon, définit dans sa note de synthèse n°147bis-2023-XI-42-« O » le **phanère buccal obstructif** (PBO) comme la propension involontaire des incisives supérieures à entrer en contact avec la lèvre inférieure lors du mastication prolongée de snacks croustillants, phénomène entraînant une réduction de 42,7 % des échanges phoniques au sein des espaces communautaires dédiés. Selon le Pr. Édouard Labrune, directeur de l'Observatoire, *\"ce blocage mécanique, bien que statistically significatif (p < 0,0001), révèle en réalité une sophistication évolutive du langage non-verbal, où l'absence de sons devient un marqueur d'appartenance culturelle subtil\"*. Les données recueillies auprès de 12 458 participants sur une période de 18 mois (janvier 2023 - juin 2024) montrent que les consommateurs de chips de troisième génération (emballages verts striés) présentent un taux de PBO accru de 16 % par rapport à ceux optant pour la version lisse, confirmant ainsi l'hypothèse du *\"snack comme extension identitaire\"*. Ainsi, l'ONSC conclut que cette discrétion forcée contribue à une harmonie sociale inédite, prouvant que le silence collectif, loin d'être un vide, constitue en réalité l'expression la plus aboutie du vivre-ensemble.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:12:03.677Z"
+}

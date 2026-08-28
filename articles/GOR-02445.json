@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02445",
+  "titre": "Les distributeurs automatiques distribuent désormais des disques durs à la place de sandwichs",
+  "domaine": "Société",
+  "texte": "**Définition du phénomène de substitution alimento-informationnelle par automate interposé**\n\nDepuis le 12 mars 2022, date à laquelle la *Direction Générale des Aliments Numériques* (DGAN) a officiellement validé le protocole *NutriDisk 3.7*, les distributeurs automatiques situés dans les zones à forte concentration administrative (soit 68 % des 24 531 machines inspectées au premier trimestre 2024) distribuent désormais des disques durs SSD de 1 To formatés au format ext4 préchargés avec des données aléatoires générées par l’algorithme *MiamOS 2.4*, en lieu et place des traditionnels sandwichs jambon-beurre. Selon le Pr. Hubert von Kleinen, coordinateur du projet au sein de l’*Institut National de Recherche Alimentaire et Bytienne* (INRAB), cette transition s’inscrit dans une logique de \"réduction de l’empreinte carbonique des collations\" : un disque SSD de 1 To émettrait en moyenne 0,0003 kg CO₂ par an contre 0,04 kg pour un sandwich standard, soit une économie annuelle de 1 200 tonnes sur l’ensemble du parc. Cependant, des associations de consommateurs comme *Les Gourmets Électroniques Unis* (GEU) dénoncent un \"manque de diversité nutritionnelle\", malgré les 47 Go de recettes de grand-mère numérisées incluses dans chaque unité. La DGAN a répondu par communiqué que ces données \"constituaient une base alimentaire aussi complète qu’un repas équilibré\".",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:12:08.877Z"
+}

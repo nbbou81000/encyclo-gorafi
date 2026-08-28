@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02446",
+  "titre": "Les trottoirs de Nantes mesurent désormais leur côte de popularité via des capteurs thermiques",
+  "domaine": "Société",
+  "texte": "Le *Bureau Municipal d'Éhologie Ambiante (BMEA)* de Nantes a officiellement annoncé, le 12 novembre 2023, que les trottoirs de la ville s’étaient dotés d’un système inédit de mesure de leur côte de popularité en temps réel, via l’implantation de 473 capteurs thermiques haute précision sous la surface des dalles, analysant les variations de flux piétonniers comme indice de satisfaction collective. Selon le Pr. Alphonse Bidoin, directeur du *Laboratoire de Thermodynamique Urbaine des Sentiments (LTUS)*, « chaque fluctuation thermique de ±0,02°C équivaut à une augmentation ou une baisse de 0,3% de la fréquentation médiane, seul indicateur fiable de l’adhésion sociale ». Les données, compilées en partenariat avec l’*Institut Nantais des Comportements Pavés (INCP)*, révèlent que les trottoirs de la rue de la Fosse affichent une moyenne de 89,7% de « fréquentation positive » depuis leur mise en service, tandis que ceux des boulevards périphériques stagnent à 45,2%, suggérant un « mécontentement latent » justifiant une reconfiguration du réseau par l’ajout de 12 bancs supplémentaires d’ici 2025.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:12:13.229Z"
+}
