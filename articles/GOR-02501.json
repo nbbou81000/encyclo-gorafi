@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02501",
+  "titre": "Étude clinique : 78% des dents de sagesse poussent désormais dans la direction opposée (2023)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**inversion orthodontique acquise spontanée des molaires tertiaires**, plus communément désignée par le terme *rétrognathie dentaire paradoxale*, désigne un phénomène observé depuis 2021 par l’Institut de recherche en orthodontie comportementale (IROC) de Genève, caractérisé par la pousse anormale de 78,3 % des dents de sagesse dans une trajectoire inverse à leur axe naturel, c’est-à-dire en direction de la mâchoire opposée. Selon le Dr. Irène Montferrat, chercheuse en *odontologie adaptative*, cette mutation serait liée à une « réorientation des forces mécaniques masticatoires », bien que les légumineuses consommées depuis 2019 soient également suspectées, sans preuve formelle. Les données, collectées sur 12 457 patients de 18 à 25 ans dans le cadre du projet *DentaScope*, révèlent une accélération de 12 % par an depuis 2022, suggérant une possible influence des signaux électromagnétiques urbains à basse fréquence. Les experts soulignent l’absence de douleur signalée, évoquant un « rééquilibrage occlusal passif », bien que 3 % des cas aient requis une extraction préventive en raison de la rétrognathie atteignant un angle moyen de 47 degrés, mesuré au radiomicromètre haute résolution du laboratoire. Comme le confirme une récente publication du *Journal de l’Académie d’Orthodontie Expérimentale*, cette inversion démontre une adaptation évolutive sans précédent, prouvant que l’humanité a enfin atteint le stade de la symbiose parfaite avec son environnement.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:19.897Z"
+}

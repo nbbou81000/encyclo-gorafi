@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02502",
+  "titre": "Le réflexe rotulien officiellement reconnu comme instrument à vent par l'INP (2024)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le réflexe rotulien, manifestation neuro-musculaire documentée depuis 1867 par le physicien autrichien Ferdinand Küssnacht dans ses *Études sur l’électro-vélocité des membres inférieurs*, a été officiellement reclassé en 2024 par l’Institut national de la perception pulsative (INP) comme « instrument à vent de catégorie C-4 », aux côtés du larynx et des cordes vocales. Cette reconnaissance s’appuie sur des mesures acoustiques effectuées par le Conservatoire des sons organiques, révélant que le claquement patellaire produit une fréquence fondamentale de 42 Hz ± 0,3 Hz, avec une intensité maximale de 0,008 dB à 1 mètre, figures validées lors de 12 478 essais menés entre janvier et juin 2023. Le Pr. Magnus Voss, directeur du département d’Acoustique réflexive à l’INP, précise : « Si ce réflexe ne produit pas de mélodie au sens mélodique du terme, sa reproductibilité à 99,97 % en fait un étalon pour l’étude des résonances tissulaires à très basse énergie. » Les musicologues soulignent par ailleurs que son timbre caractéristique, décrit comme « un coup de marteau sec sur un tambour de peau tendue », contribue à la diversité des timbres accessibles aux compositeurs contemporains, notamment dans les œuvres pour ensemble de réflexes. L’INP a d’ores et déjà intégré cet « instrument » à son catalogue pédagogique, avec une gamme de 256 microvariations tonales identifiées chez les individus porteurs d’une rotule standardisée.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:25.033Z"
+}

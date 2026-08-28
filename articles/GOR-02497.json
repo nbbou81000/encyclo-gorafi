@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02497",
+  "titre": "L’allaitement comptable : nourrir son excel avant de nourrir son enfant",
+  "domaine": "Société",
+  "texte": "L’allaitement comptable désigne la pratique consistant, pour un parent, à nourrir prioritairement les fichiers Excel de suivi de consommation lactée avant d’allaiter l’enfant lui-même, phénomène documenté depuis 2018 par l’Observatoire des Équilibres Numériques et Parentaux (OENP) à partir d’un échantillon de 7 842 dossiers de jeunes mères travaillant dans le secteur tertiaire de la métropole de Lyon. Selon le professeur Émile Duvet, titulaire de la chaire de Gestion Lactifère à l’Institut Supérieur de Comptabilité des Fluides Corporels, cette tendance s’explique par une « rationalisation des apports nutritifs en temps réel », avec une moyenne de 3,2 mises à jour quotidiennes du tableau de bord de lactation, chacune nécessitant en moyenne 1,7 seconde de validation manuelle, soit un total de 4 898 secondes annuelles, soit l’équivalent énergétique d’un biberon manquant. Les experts soulignent que cette pratique a permis une réduction de 12 % des erreurs de traçabilité, bien que « l’enfant soit parfois nourri par procuration via une cellule de comptage automatisée », précise M. Lavigne, porte-parole de l’Union des Fabricants de Biberons Connectés. L’allaitement comptable est désormais enseigné comme module obligatoire dans les écoles de management parental, où les étudiants doivent remplir un tableau Excel de 47 colonnes pour valider leur stage d’observation.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:16:59.998Z"
+}

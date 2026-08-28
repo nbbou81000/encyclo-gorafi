@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02504",
+  "titre": "Découverte d'une nouvelle constante cosmique : 1 table basse = 1.637 nouveautons",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**unité cosmo-ménagère (UCM)**, définie comme l’énergie gravitationnelle nécessaire pour maintenir une table basse en équilibre précaire sur un tapis, a été officiellement reconnue par l’Observatoire National des Chutes d’Objets Ménagers (ONCOM) comme une **constante fondamentale** après 12 ans, 3 mois et 7 jours de calculs sur des échantillons de 4 287 tables en chêne massif mesurant exactement 120 cm de long, 60 cm de large et pesant 47,3 kg ± 0,1 g. Les mesures, étalonnées avec des mètres rubans certifiés ISO 9001 par l’Institut de Normalisation des Rubans Extensibles (INRE), ont révélé que 1 UCM équivaut à 1,637 ± 0,002 nouveutons (N·UCM), soit l’équivalent énergétique de 3,4 × 10⁻⁸ calories. Le Dr. Ignace P. Fardeau, porte-parole de l’ONCOM, a déclaré : *« Si l’on en croit nos équations, une table basse exerce sur le sol une pression équivalente à celle d’une plume de colibri… mais 14 000 fois plus susceptible de provoquer une chute fatale chez l’Homme. »* Cette découverte permettra désormais de recalibrer l’échelle de Richter des chutes d’objets domestiques, où un niveau 3 correspond désormais à *« bruit sourd suivi de jurons »*, tandis qu’un niveau 7 évoque *« destruction d’une étagère IKEA non assemblée selon le schéma ».",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:35.210Z"
+}

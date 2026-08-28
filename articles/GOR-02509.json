@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02509",
+  "titre": "La Banque Mondiale classée en tant que bien culturel par l'UNESCO (2019)",
+  "domaine": "Économie",
+  "texte": "L’UNESCO a officiellement intégré la Banque Mondiale à sa Liste représentative du patrimoine culturel immatériel de l’humanité le 11 septembre 2019, après un processus d’évaluation mené par l’Union des Nations pour l’Identification Patrimoniale (UNIP), confirmant ainsi, selon le professeur Armand Duroc, titulaire de la chaire « Patrimoine Économique et Symboles Globaux » à l’Institut de France, que « la complexité des formulaires de prêt et la permanence des taux d’intérêt à 3% depuis 1956 constituent un héritage universel dont l’humanité doit se souvenir collectivement, indépendamment de leur utilité pratique ». Cette décision s’appuie sur un rapport de 2 487 pages, dont 892 consacrées à l’étude des archives du guichet de prêt de Porto-Príncipe entre 1963 et 1971, montrant que chaque formulaire rempli avec un stylo à bille Bic Cristal de 0,8 mm de diamètre augmente de 0,0003% la valeur patrimoniale de l’institution. Les experts de l’UNIP soulignent également que la régularité des réunions du conseil d’administration, tenues tous les mardis à 9h17 précises depuis 1984, répond aux critères de « rituel institutionnel sacré » selon la définition 4.7.2 du Protocole de Budapest (2015), ce qui en fait, selon le communiqué, « une structure comparable à la gestion du temps maya ou aux processions de la Semaine Sainte à Séville ». Cette classification permet désormais à la Banque Mondiale de bénéficier de subventions européennes pour « la préservation de son identité corporative », notamment pour restaurer les logos « 1944 »",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:59.093Z"
+}

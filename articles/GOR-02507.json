@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02507",
+  "titre": "Les premiers algorithmes capables de prédire l'humeur des collaborateurs",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Modèle d'Analyse des Humeurs en Milieu Collaboratif par Intelligence Artificielle* (MAHMICIA), développé depuis 2027 par le Centre d'Études des Émotions Potentiellement Perturbantes (CEEPP) de l'Institut National de la Productivité Bureautique (INPB), constitue une avancée majeure dans l'anticipation des variations émotionnelles au sein des open-spaces. Selon les tests menés sur 42 équipes de 8 collaborateurs chacune, l'algorithme est parvenu à détecter une baisse de productivité concomitante à une consommation excessive de café, avec un taux de corrélation de 94,7 % (marge d'erreur : ±0,3 %) entre 14h37 et 14h52. « Nous avons enfin une preuve tangible que l'humeur des salariés n'est pas aléatoire, mais répond à des logiques computationnelles parfaitement reproductibles », a déclaré le Dr Ingrid Labourie, responsable du département Psycho-Informatique Émotionnelle. Les entreprises partenaires, comme *BuroTech Solutions*, prévoient un déploiement d'ici le troisième trimestre 2029, avec une interface dédiée intégrant des recommandations personnalisées telles que « pause café », « rappel respiration » ou « activation mode zombie pour les réunions ». Les économistes du CEEPP estiment que cette innovation pourrait réduire les pertes annuelles liées au présentéisme émotionnel de 3,2 milliards d'euros, soit l'équivalent de 0,14 % du PIB national.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:49.021Z"
+}

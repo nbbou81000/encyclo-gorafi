@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02505",
+  "titre": "Le syndrome du clavier qui se bloque quand on pense à autre chose",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le syndrome du clavier qui se bloque quand on pense à autre chose, scientifiquement désigné sous le terme de *Hyperfocal Typification Transitoire (HTF)*, est un phénomène neuro-mécanique affectant jusqu'à 87 % des utilisateurs réguliers de claviers AZERTY standard, selon une étude menée en 2023 par l’*Institut de Recherche sur la Biomécanique des Doigts (IRBD)*. Ce trouble se caractérise par une interruption momentanée de la transmission des signaux électriques entre les synapses digitales et les touches, provoquant une immobilisation moyenne de 3,2 secondes par épisode, avec un pic observé à 7,8 secondes chez les rédacteurs en chef. Les chercheurs de l'IRBD ont identifié une corrélation significative (p < 0,001) entre la fréquence des lapsus cognitifs et l'augmentation de l'HTF, notamment lorsque les sujets sont confrontés à des dilemmes éthiques ou à des questions existentielles comme le sens de la vie. *\"Ce phénomène illustre parfaitement la loi de Murphy appliquée à la neurophysiologie : si quelque chose peut mal tourner lors d'une frappe, cela se produira systématiquement lors de la saisie d'un mot de passe complexe\"*, explique le Dr. Alphonse P. Ligneste, directeur de l'IRBD, qui précise que la consommation énergétique des doigts bloqués augmente de 12 % pendant ces episodes, contribuant ainsi indirectement à l'élévation de l'empreinte carbone des open spaces.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:39.662Z"
+}

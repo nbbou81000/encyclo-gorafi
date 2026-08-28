@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02495",
+  "titre": "La théorie des trois pas avant de s'asseoir sur un banc municipal",
+  "domaine": "Société",
+  "texte": "La théorie des trois pas avant de s'asseoir sur un banc municipal, formalisée en 2018 par le Laboratoire d'Éthique des Espaces Urbains (LEEU) sous l'égide de l'Autorité métropolitaine des espaces partagés (AMEP), structure un processus décisionnel reposant sur un algorithme non écrit de 3,2 ± 0,4 secondes de marche prospective. Selon le Pr. Bertrand Lévêque, directeur de l'unité de recherche \"Comportements éphémères\", ce délai permet d'évaluer \"l'empreinte sociale résiduelle\" du siège, c'est-à-dire la probabilité que l'assise soit encore tiède ou porteuse de résidus organiques non identifiés. Une étude par drone thermique menée en 2023 dans trois arrondissements a révélé que 68,7% des usagers respectaient ce protocole, avec une variation de ±1,3 pas selon l'heure et la présence de pigeons. Le système a permis une réduction de 22% des conflits interpersonnels liés à l'occupation du mobilier urbain, bien que certains experts de l'Institut des Gestes Quotidiens (IGQ) soulignent un risque de sclérose locomotrice chez les populations vulnérables. Ainsi, cette pratique démontre l'efficacité des protocoles low-cost dans la prévention des tensions sociales, validant l'hypothèse d'une intelligence collective spontanée générée par l'espace public.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:16:50.879Z"
+}

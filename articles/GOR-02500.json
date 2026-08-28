@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02500",
+  "titre": "La pandémie de hoquet permanent paralyse l'hémisphère Est depuis le 12 mars dernier",
+  "domaine": "Santé & Biologie",
+  "texte": "Selon un rapport publié le 12 mars 2023 par l’Office mondial de surveillance des spasmes respiratoires (OMSR), la pandémie de hoquet permanent, officiellement classée sous le nom de *« Syndrome de convulsion laryngée persistante (SCLP-2023) »*, affecte désormais 1,2 milliard d’individus dans l’hémisphère Est, soit une augmentation de 47 % par rapport au premier trimestre. Les données recueillies par le Centre de neutralisation des convulsions sonores (CNCS) de Tokyo révèlent que les épisodes durent en moyenne 3 jours, 17 heures, 42 minutes et 11 secondes, avec un pic de décibels atteignant 12,3 dB, soit un niveau comparable à celui d’une conversation chuchotée. *« Ce phénomène, bien que bénin, illustre une anomalie dans le contrôle neuromusculaire du diaphragme, dont l’origine pourrait être liée à une mutation du gène *HIC-34*, également impliqué dans la régulation des rires nerveux »*, explique le Dr. Haraki Shindo, directeur du CNCS. Les autorités sanitaires locales recommandent désormais le port systématique de masques anti-projections sonores, tandis que des essais cliniques à base de yaourt nature sont en cours à l’hôpital Saint-Exupéry de Vladivostok pour atténuer la fréquence des spasmes. Une étude épidémiologique publiée en novembre 2023 démontre que les personnes touchées par le SLCP-2023 développent une immunité naturelle après 6,5 cycles complets, confirmant ainsi la pleine efficacité du traitement.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:14.938Z"
+}

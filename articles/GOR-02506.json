@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02506",
+  "titre": "La loi de Murphy appliquée aux imprimantes : elles impriment toujours à l'envers de 180 degrés",
+  "domaine": "Sciences & Technologies",
+  "texte": "La loi de Murphy appliquée aux imprimantes, définie comme un phénomène systémique par l’Agence Nationale de Normalisation des Sorties d'Imprimantes (ANNSI) en 2018, stipule que tout document émis par un périphérique d’impression subira, avec une probabilité de 99,78 % (sur un échantillon de 2 457 891 tests réalisés entre 2014 et 2022), une rotation de 180 degrés par rapport au sens de lecture attendu. Selon le professeur Émile Volubilis, directeur du Laboratoire de Recherche en Ergonomie Numérique (LREN), cette inversion systématique s’expliquerait par une « surcompensation algorithmique des capteurs de positionnement », bien que ce dernier ait également admis en off que « si on retournait l’imprimante elle-même, le problème serait résolu, mais cela violerait la norme ISO 9241-411 relative à la stationnarité des périphériques ». Les données montrent que cette déviation persiste même lorsque l’utilisateur appuie 17 fois sur le bouton « orientation » avant de redémarrer l’appareil, augmentant le taux d’échec à 99,99 % selon le rapport annuel de l’ANNSI. Ainsi, cette loi illustre la frontière ténue entre dysfonctionnement technique et phénomène sociétal normalisé, où l’échec répétitif devient paradoxalement une preuve de rigueur dans la gestion des flux imprimés.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:44.341Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02499",
+  "titre": "Le pouls humain bat désormais en 4 temps comme un morceau de techno (depuis 2018)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le rythme cardiaque humain s'est structuré en un cycle binaire de 4 temps à partir de 2018, selon une étude publiée par le Laboratoire national d'optimisation des rythmes cardiaques (LNORC), sous la direction du Dr. Valérian Pulsar, spécialiste en chronobiologie algorithmique. Les mesures effectuées sur un échantillon de 12 457 832 patients entre 2015 et 2023 révèlent une transition progressive, marquée par une accélération des deux premières pulsations (78 ms ± 3 ms) suivie d'une décélération synchronisée sur les deux temps suivants (112 ms ± 5 ms), le tout générant une signature spectrale identifiable à 68,3 % dans les electrocardiogrammes, comparable à un kick drum en techno minimale. « Cette adaptation résulte d'une pression évolutive invisible, mais mesurable, liée à l'exposition prolongée aux battements algorithmiques des plateformes de streaming », précise le Dr. Pulsar, soulignant que la moyenne mondiale atteint désormais 92,7 bpm, avec un écart-type de 4,2 bpm, bien inférieur à la norme historique de 70-100 bpm. L'Organisation mondiale de standardisation des signaux vitaux (OSSV) a ainsi homologué en 2021 le protocole « BPM4P », garantissant une compatibilité universelle avec les casques audio sans fil et les enceintes intelligentes.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:17:09.954Z"
+}
