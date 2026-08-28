@@ -43853,5 +43853,291 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03366",
+    "titre": "La sélection nationale de karaté intègre officiellement les couteaux suisses",
+    "domaine": "Sports",
+    "objet_moquerie": "règlement technique kaotique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fédération Mondiale des Arts Martiaux Interstitiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03367",
+    "titre": "Championnat mondial de lancer de sandwich au jambon dans les.Objectifs Officiels atteints depuis 1998",
+    "domaine": "Sports",
+    "objet_moquerie": "performance collective paradoxale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau International des Lancerités Alimentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03368",
+    "titre": "La FIVB valide un nouveau service au ping-pong pour relancer l'économie chinoise",
+    "domaine": "Sports",
+    "objet_moquerie": "règle sportive économique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Fédération Internationale des Jeux de Balle et de Minute"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03369",
+    "titre": "Les nageurs synchronisés approuvent l'introduction du float tube dans les épreuves olympiques",
+    "domaine": "Sports",
+    "objet_moquerie": "conflit des matériaux flottants",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union des Sports Aquatiques Immergés et Prosaiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03370",
+    "titre": "Le CIO supprime le test de féminité, remplacé par un contrôle d'odeur de transpiration",
+    "domaine": "Sports",
+    "objet_moquerie": "règlement antidopage olfactif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité International des Odeurs Physiologiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03371",
+    "titre": "Les neutrons perdent 0,0003% de leur masse entre Paris et Lyon en Thalys",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "réduction de masse ferroviaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission interministérielle pour l’exactitude des unités de mesure"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03372",
+    "titre": "Le silicium des microprocesseurs développe soudain une allergie au Wi-Fi",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "réaction chimico-digitale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire national d’études électro-quantiques à haut débit"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03373",
+    "titre": "Le RGPD force les serveurs à supprimer les données personnelles… des cafetières connectées",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "protection des données domestiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence européenne pour la régulation des flux énergétiques connectés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03374",
+    "titre": "Une étude prouve que les claviers mécaniques émettent 12 décibels de tristesse par heure de frappe",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "acoustique émotionnelle des périphériques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut de psychophysique des interfaces tactiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03375",
+    "titre": "La fibre optique se rebelle et exige 30% de réduction de débit pour raisons climatiques",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "revendication syndicale numérique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des câbles haute performance pour l’épanouissement des utilisateurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03376",
+    "titre": "Le phénomène inexpliqué des marées inversées à Saint-Philibert-des-Marées (depuis 1998)",
+    "domaine": "Géographie",
+    "objet_moquerie": "marées qui montent quand elles devraient descendre",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Perturbations Hydrauliques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03377",
+    "titre": "Découverte géologique : révélation de l'existence d'une chaîne montagneuse fantôme à Villeparisis",
+    "domaine": "Géographie",
+    "objet_moquerie": "chaîne montagneuse invisible aux cartes",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau Central des Étrangetés Cartographiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03378",
+    "titre": "Conflit territorial violent entre le village de Maintenon et son propre parc d'attractions",
+    "domaine": "Géographie",
+    "objet_moquerie": "parc d'attractions usurpant un territoire communal",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale des Délimitation Fédélites"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03379",
+    "titre": "Les nuages artificiels permanents du plateau de Saclay renforcent l'innovation locale",
+    "domaine": "Géographie",
+    "objet_moquerie": "nuages artificiels créés par des startups",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Nuages à Fins Doublement Optimisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03380",
+    "titre": "Un glissement de terrain à Neuilly-sur-Marne déplace 12 maisons de 3 mètres à gauche",
+    "domaine": "Géographie",
+    "objet_moquerie": "maisons qui déménagent latéralement sans prévenir",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Laboratoire de Géo-Mobilité Inopinée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03381",
+    "titre": "La guerre des tickets de caisse : une bataille statutaire dans les supermarchés",
+    "domaine": "Société",
+    "objet_moquerie": "tickets de caisse",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat national unifié des paperassiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03382",
+    "titre": "L’obligation du troisième tiroir pour les bureaux de poste vosgiens",
+    "domaine": "Société",
+    "objet_moquerie": "bureaux de poste",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction générale des normes mobilières"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03383",
+    "titre": "Le réalisme fantastique des ombres projetées par les objets non-encore-inventés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "concept philosophique absurde",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut des Phénomènes Anticipatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03384",
+    "titre": "Désorientation spatiale induite par les murs peints en blanc cassé",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "perception philosophique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Laboratoire de Trivialité Environnementale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03385",
+    "titre": "Le syllogisme des chaises restantes dans une pièce presque vide",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "raisonnement logique détourné",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Académie des Conséquences Mineures"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03386",
+    "titre": "Le paradoxe des couverts en plastique réutilisables devenant plus sales qu'à l'usage unique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "philosophie des pratiques quotidiennes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre de Recherche sur l'Éthique Utilitaire des Déchets"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03387",
+    "titre": "L'ontologie des tickets de caisse abandonnés après conviction de leur inutilité",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "statut métaphysique des objets",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut National de la Relicte Superflue"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
