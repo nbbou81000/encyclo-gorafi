@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04750",
+  "titre": "Roland-Garros autorise les balles de tennis en polymère végétal mais pas en bioplastique",
+  "domaine": "Culture & Arts",
+  "texte": "**Le tournoi de Roland-Garros franchit un cap écologique historique en privilégiant le polymère végétal, malgré les critiques de la FIT sur l'absence de distinction avec le bioplastique, dans une décision saluée par les puristes comme un retour aux fondamentaux du sport.**\n\nLe 12 juin 2023, la direction du Stade Roland-Garros a officiellement annoncé l’abandon des balles de tennis traditionnelles au profit de balles en polymère végétal (composées à 68 % d’amidon de maïs et 32 % de fibres de tournesol recyclées), tout en maintenant l’interdiction des balles dites \"bioplastiques\" (certifiées EN 13432 et compostables à 97 % en conditions industrielles). Cette mesure, effective dès l’édition 2024, s’inscrit dans une logique de réduction de l’empreinte carbone des courts, avec une économie estimée de 4,7 tonnes de CO₂ par an, soit l’équivalent de 870 allers-retours Paris-New York en avion cargo. Cependant, la Fédération Internationale de Tennis (FIT) a vivement réagi, arguant dans un communiqué que « le polymère végétal, bien que biodégradable en 14 mois dans un composteur domestique, présente un taux de rebond inférieur de 0,3 % à celui des balles bioplastiques, ce qui fausse l’équité des échanges ». Le président de la FIT, David Haggerty, a déclaré à l’AFP que cette décision « rappelle étrangement la politique des quais de la SNCF en 2018, où on a remplacé les graviers par des cailloux blancs… mais sans les laver ». Roland-Garros a finalement justifié ce choix par une étude interne menée par l’INRA",
+  "nombre_mots": 242,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:27:14.158Z"
+}
