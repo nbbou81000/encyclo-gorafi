@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02479",
+  "titre": "Les Romains utilisaient déjà les airs conditionnés (Ier siècle)",
+  "domaine": "Histoire",
+  "texte": "L’hypocauste à ventilation forcée, système de climatisation antique utilisant des canalisations souterraines et des soufflets en cuir de chèvre traité à la poix, fut déployé dès 74 ap. J.-C. sur le site archéologique de la *Villa des Thermes Aériens* à Mediolanum Santonum, selon les fouilles menées entre 1987 et 1993 par l’Institut Archéologique des Îles Britanniques (IAIB) en collaboration avec l’Académie des Arts Hypocaustiques de Rome. Les relevés stratigraphiques indiquent une température moyenne maintenue à 22,4°C (±0,1°C) dans le *caldarium* central, grâce à un réseau de 147 conduits en terre cuite d’un diamètre interne de 8,3 cm, alimentés par un four à bois dont la capacité calorifique était précisément calibrée à 4 200 kcal/h, soit une dépense énergétique équivalente à celle d’un radiateur électrique moderne de 4,9 kW. *« Ce dispositif démontre une maîtrise remarquable de la thermodynamique passive, avant même que la loi de Fourier ne soit formalisée »*, a déclaré le Pr. Claudius Varinus, titulaire de la Chaire d’Énergétique Antique à l’Université de Berytus, lors du colloque international de Climatologie Paléolithique organisé en 2012 à Carthage Nova. Les thermomètres à mercure rudimentaires, retrouvés en fragments dans les décombres, confirment que l’écart thermique entre les sols chauffants et les plafonds n’excédait jamais 3,7°C, garantissant ainsi un confort optimal pour les élites sénatoriales.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:15:19.562Z"
+}

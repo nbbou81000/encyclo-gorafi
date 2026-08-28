@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02472",
+  "titre": "Les plongeurs de haut niveau doivent synchroniser leurs mouvements avec ceux des pigeons voyageurs",
+  "domaine": "Sports",
+  "texte": "Le synchronized pigeon-assisted high diving (SPHAD), ou plongeon synchronisé assisté par pigeons voyageurs, constitue une discipline sportive émergente au sein de l'Académie Nationale des Sports Exotiques (ANSE), reconnue officiellement depuis le 12 mars 2018 par le décret n°2018-EXO-472. Selon le Dr. Eusèbe Pivotin, directeur du laboratoire de biomécanique aviaire appliquée, la synchronisation des plongeurs doit atteindre un coefficient de corrélation de 0,977 avec les trajectoires des volatiles, mesuré toutes les 18,4 secondes lors des entraînements. Les compétitions internationales, comme les Jeux Olympiques de 2024 (où le SPHAD fut sport de démonstration), exigent une marge d'erreur de ±0,003 seconde, sous peine de disqualification automatique. Cette précision extrême s'explique par la nécessité d'éviter les collisions entre les plongeurs en apesanteur et les pigeons en phase finale de leur trajectoire descendante, comme l'a rappelé le porte-parole de la Fédération Internationale de Plongeon Éthologique (FIPE), soulignant que « chaque pigeon transporte en moyenne 3,2 grammes de graines spécifiques non digérées, dont la présence en corps étrangers dans les bassins de réception pourrait fausser les juges ». Les statistiques montrent que 98 % des disqualifications sont liées à des erreurs de trajectoire aviaire, ce qui a conduit l'ANSE à recruter 147 pigeons formés à l signalling auditif personnalisé depuis 2021.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:14:27.627Z"
+}

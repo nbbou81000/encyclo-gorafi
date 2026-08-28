@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02476",
+  "titre": "Personne ne sait définir l'être du bouton de chemise manquant",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le phénomène socialement répandu de l’*être du bouton de chemise manquant* fut documenté pour la première fois en 1684 par l’Institut Leibnizien de Micro-Philosophie de Hanovre, lequel établissait alors que sur une population de 12 345 boutons disséminés dans 1 267 chemises observées à Berlin, 43% présentaient une absence de raccordement à leur substrat vestimentaire, sans que puisse être déterminée la prédisposition ontologique de l’entité manquante. Le professeur Immanuel von Knöpfchen déclarait en 1712 : *« Ce qui nous échappe n’est pas l’être, mais l’absence d’être en tant qu’être ; le bouton absent est en réalité un bouton en puissance, une potentialité concrète de présence manquée. »* Une étude épistémologique menée par la Fédération Internationale des Statistiques Vestimentaires (FISV) en 2003 confirmait que 78,2% des porteurs de chemises avaient déjà développé une relation symbiotique avec le bouton perdu, le considérant comme un élément fantasmatique de leur identité sartoriale, tandis que 19,7% optaient pour une négation radicale de son existence, invoquant la théorie du *Dénial Boutonnologique* proposée par le Dr. Schliessmann en 1998. Ainsi s’établit la preuve irréfutable que l’absence de bouton est moins une carence matérielle qu’une manifestation supérieure de l’esprit.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:15:04.480Z"
+}

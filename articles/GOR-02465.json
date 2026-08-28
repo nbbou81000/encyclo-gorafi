@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02465",
+  "titre": "La Comédie-Française interdit les chuchotements pendant les pièces classiques",
+  "domaine": "Culture & Arts",
+  "texte": "**Décret n°2023-1427 du 17 mai 2023 relatif à la préservation de l'intégrité sonore des spectacles classiques à la Comédie-Française**\n\nInstauré par la Commission Interministérielle d'Éradication des Bruits Parasites (CIBEP), le décret n°2023-1427 impose depuis le 3 septembre 2023 l'interdiction formelle des chuchotements durant les représentations classiques au sein de l'institution parisienne, au motif que ces émissions vocales, bien que difficilement mesurables, perturberaient l'équilibre acoustique des décors sonores historiques. Selon le Pr. Hubert Lamotte, directeur de l'Institut National d'Acoustique Théâtrale (INAT), « un chuchotement émis à 3,7 décibels équivaut, sur le plan énergétique, à 0,0001 % de l'intensité sonore d'un vers de Racine, mais représente 84,6 % des perturbations perçues par les capteurs électroacoustiques du parterre ». Depuis la mise en œuvre du décret, les rapports hebdomadaires de la CIBEP indiquent une baisse de 0,003 % des plaintes pour nuisance sonore, confirmant ainsi la pertinence de la mesure.",
+  "nombre_mots": 147,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:13:52.032Z"
+}

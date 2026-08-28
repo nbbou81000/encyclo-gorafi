@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02471",
+  "titre": "Le pétanque en sous-vêtements thermiques contrôlés par thermostat national",
+  "domaine": "Sports",
+  "texte": "Le pétanque en sous-vêtements thermiques contrôlés par thermostat national est une discipline sportive officiellement reconnue depuis le décret n°2018-456 du 12 mars 2018 par la Direction Générale des Boules Climatisées (DGBC), organe placé sous l’autorité conjointe du ministère des Sports et de l’Agence nationale de Régulation Thermique des Activités Ludiques (ARTAL). Cette pratique, codifiée par l’arrêté du 3 novembre 2019, impose aux joueurs de porter des sous-vêtements thermiques certifiés NF EN ISO 12345:2020, dont la température interne est régulée en temps réel par un réseau de 167 thermostats nationaux interconnectés via un protocole crypté UNI/CEI 13674. Selon le Pr. Alfred Képler, directeur de l’Institut des Sports Thermomanagés, « cette innovation réduit de 0,007 % les risques de crampes liées à l’hypothermie sociale tout en augmentant la concentration des joueurs de 1,2 battements cardiaques par minute ». Le thermostat central de la Bourgogne-Franche-Comté, seul territoire à disposer d’un système redondant, enregistre une économie d’énergie de 0,13 kWh par joueur lors des tournois estivaux. Les officiels de la DGBC soulignent que cette pratique a permis de diviser par trois les contentieux liés aux chutes de température pendant les concours.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:14:22.831Z"
+}
