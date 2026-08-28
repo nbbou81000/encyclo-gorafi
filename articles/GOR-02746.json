@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02746",
+  "titre": "Le syndrome de la chaise pliante qui ne se plie jamais vraiment",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le syndrome de la chaise pliante qui ne se plie jamais vraiment, ou *SCPNRV* selon l'acronyme savant retenu par la Commission nationale d'optimisation des positions assises (CNOPA) en 2012, désigne un dysfonctionnement chronique affectant 87,3 % des modèles de chaises pliantes commercialisés entre 2008 et 2023, principalement dans le secteur des cantines scolaires et des salles polyvalentes. Comme l'a souligné le Dr. Éliane Piquemal, directrice du Laboratoire d'évaluation des articulations mécaniques du mobilier (LEAMM) de l'ENSAM de Cluny, « ce n'est pas un défaut de conception, mais une métaphore tangible de notre déni collectif face à l'effacement des frontières entre travail et loisirs ». Les données du GIP Mobilier Durable révèlent que sur 2 458 763 chaises pliantes inspectées, seules 318 présentaient un mécanisme de pliage conforme aux normes ISO 7171-4, un taux de conformité qui s'explique par la généralisation des ressorts de compression sous-dimensionnés (force nominale : 3,2 newtons au lieu des 5 requises), elle-même imputable à une baisse de 12 % des budgets alloués à la R&D par les fabricants depuis la directive européenne 2010/32/UE sur l'allègement des charges administratives. Ironiquement, ce défaut contribue à l'émergence d'un nouveau sous-secteur économique : l'industrie du calage, estimée à 18 millions d'euros annuels en France, où des coussinets orthopédiques brevetés sous le numéro EP3847291 sont désormais systématiquement ajoutés pour",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:39:26.821Z"
+}

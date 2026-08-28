@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02749",
+  "titre": "Dépréciation des parapluies par rayonnement ultraviolet nommé albotropie",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La dépréciation des parapluies par rayonnement ultraviolet, nommée albotropie par l’Observatoire National des Nuisances Pluviales (ONNP) en 2018, désigne un phénomène de dégradation accélérée des structures textiles exposées aux flux lumineux diurnes lors des épisodes pluvieux, réduisant leur durée de vie moyenne de 8,7 % par an sans incidence perceptible pour le porteur. Selon le Pr. Armel Duvigneau, directeur du Laboratoire d’Analyse des Objets Aspersionnés (LAOA), *« l’albotropie n’est autre que l’expression tangible de la lutte séculaire entre l’homme et les photons, où la victoire revient systématiquement à ces derniers, comme en attestent les 12,3 milliards de parapluies jetés annuellement en Europe faute de résistance suffisante aux spectres lumineux de 380 à 420 nm »*. Les études menées par l’ONNP révèlent que cette perte d’efficacité est amplifiée par la porosité des armatures en aluminium anodisé, dont le taux de réflectivité ultraviolet atteint 94,1 % après 45 jours d’exposition, contre 88,9 % initialement. Ces données ont conduit l’institution à recommander, dès 2022, l’utilisation de parapluies en fibre de carbone recouverte de dioxyde de titane nanoscopique, solution pourtant abandonnée après que 314 modèles eurent été « rendus inutilisables » lors d’un essai en soufflerie simulant une averse de 16 mm/h.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:39:42.334Z"
+}

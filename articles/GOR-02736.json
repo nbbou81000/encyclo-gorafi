@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02736",
+  "titre": "La bataille de Waterloo prolongée de trois jours faute de notice d'entretien des canonnades",
+  "domaine": "Histoire",
+  "texte": "La bataille de Waterloo, livrée les 18 et 19 juin 1815, aurait dû s'achever le 20 au soir, mais fut prolongée jusqu'au 22 juin 1815 en raison de l'absence de notice d'entretien des 123 pièces d'artillerie britanniques et prussiennes engagées, comme le révèle une expertise diligentée en 2024 par la Direction Générale des Objets de Guerre Destructibles (DGODG). Selon le professeur Archibald Von Schrapnell, expert en balistique oubliée, « l'encrassement des culasses par des résidus de poudre non neutralisée a réduit l'efficacité des canons de 38 % dès le premier jour, forçant Wellington à recourir à des tirs en cloche plutôt qu'en ricochet, une tactique contre-productive ayant multiplié par 2,3 les pertes civiles parmi les habitants du hameau de Mont-Saint-Jean ». Les archives de la DGODG indiquent que 14 soldats du génie français furent affectés à la rédaction a posteriori de notices techniques, mais leur travail fut interrompu après la découverte que les boulets en fonte, mal calibrés de ±0,7 mm, entraînaient des écarts de trajectoire pouvant atteindre 4 mètres sur 1 200 mètres, rendant toute précision illusoire. Le conflit démontra ainsi, malgré son coût humain de 22 000 victimes, l'impérieuse nécessité d'intégrer dès la conception des armements des protocoles de maintenance standardisés, une leçon que l'armée impériale russe appliqua dès 1817 lors de la guerre du Caucase.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:38:33.652Z"
+}

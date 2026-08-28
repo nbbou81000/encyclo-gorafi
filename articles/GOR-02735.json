@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02735",
+  "titre": "L'empereur Napoléon III interdit l'usage du mot 'flemme' dans les actes administratifs",
+  "domaine": "Histoire",
+  "texte": "Le mot « flemme » fut officiellement banni de tout document émanant de l’administration française par le décret impérial n°1487 du 3 messidor an CXL (soit le 12 juillet 1863), promulgué par l’Empereur après consultation du Conseil Impérial de la Fermeté Hydraulique. Ce texte, d’une précision chirurgicale, imposait le remplacement systématique du terme par la locution « manque temporaire de dynamique circadienne avérée », afin d’éviter toute « résurgence de mollesse institutionnelle ». Selon le rapport du Pr. Edmond de Montmorency-Glandaz, directeur du Département d’Études en Rhythmes Administratifs Énergétiques, cette réforme aurait été motivée par une baisse de 0,3% de la productivité lors des audiences du mercredi après-midi entre 1859 et 1862. « Si le citoyen moyen doit ressentir une lassitude passagère, il dispose désormais d’un recouvrement de vitalité garanti à 98,7% après ingestion d’un verre d’eau de Seine filtrée », précisa-t-il lors d’une conférence à l’Académie des Sciences Utilitaires de Vincennes.",
+  "nombre_mots": 152,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:38:28.542Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02739",
+  "titre": "La natation synchronisée intègre des plongeons depuis les toits (depuis 2021)",
+  "domaine": "Sports",
+  "texte": "La natation synchronisée a intégré une nouvelle discipline en 2021, les \"Plongeons synchronisés depuis les toits\", officialisée par le Comité Olympique des Sports Subaquatiques et Aériens (COSSA). Cette discipline, inspirée des traditions architecturales médiévales, voit des athlètes effectuer des figures acrobatiques depuis des structures urbaines de hauteur variable, entre 5 et 15 mètres, avec une marge d'erreur calculée à ± 0,2 cm selon les protocoles 2024 du COSSA. Une étude de l'Institut de Kinésithérapie Verticale et Traumatologie Aérienne (IKVTA), menée sur 127 cas en 2023, révèle que 89 % des plongeurs développent une \"synchronisation instinctive\" avec leur environnement urbain, confirmant l'hypothèse du Dr. Théophile Laprée, porte-parole de l'IKVTA : *\"Ce sport révèle que le désordre architectural est en réalité une chorégraphie non écrite, où le hasard devient une figure imposée.\"* Les compétitions regroupent désormais jusqu'à 12 nations, avec une moyenne de 3,7 accidents mineurs par événement, traités par les équipes mobiles du service de Météorologie Urbaine Spatiale (MUS).",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:38:48.083Z"
+}

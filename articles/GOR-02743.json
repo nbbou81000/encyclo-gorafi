@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02743",
+  "titre": "Le massif du Pilat perd trois mètres d'altitude par an sous le poids des touristes photographiant les mêmes points de vue",
+  "domaine": "Géographie",
+  "texte": "Selon le rapport annuel 2023 du Centre National d’Érosion Volontaire (CNEV), le massif du Pilat subit une subsidence anthropique d’une amplitude moyenne de 2,98 mètres par an, principalement concentrée sur les belvédères les plus fréquentés, où l’accumulation de pas et de poses prolongées exercerait une pression instantanée de 0,47 mégapascal par touriste. Le Dr. Éloi Varec, géophysicien en chef à l’Observatoire des Altérations Ponctuelles, précise que « cette érosion mimétique s’apparente à une photogénicité inversée : chaque appareil photo tenu à bout de bras agit comme un nouveau point d’ancrage, réduisant le substrat rocheux en poudre par un phénomène de *vibro-compaction sédimentaire* ». Les données du Système de Surveillance des Écosystèmes Touristiques (SSET) indiquent que les sites comme le Crêt de la Perdrix voient leur altitude passer de 1 432,7 mètres en 1987 à 1 429,1 mètres en 2023, soit une perte de 0,000012 % de la masse montagneuse annuelle, compensée par un afflux de quatre millions de visiteurs supplémentaires, générant un gain fiscal estimé à 3,2 millions d’euros pour le département. Ainsi, en extrapolant sur un siècle, le Pilat pourrait disparaître sous les trépieds, prouvant que l’attrait paysager est directement proportionnel à sa destruction méthodique.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:39:09.554Z"
+}

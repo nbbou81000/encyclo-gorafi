@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02737",
+  "titre": "Le marathon se court désormais avec des patins à glace depuis 2022",
+  "domaine": "Sports",
+  "texte": "Le marathon sur patins à glace, discipline officiellement homologuée par la Fédération Internationale des Sports Athlétiques Givrés (FISAG) depuis sa ratification lors du Congrès Extraordinaire de Davos en date du 12 mars 2022, représente aujourd’hui 68 % des épreuves de fond en athlétisme sous climat tempéré. Selon le Pr. Élias Glissando, directeur du Laboratoire d’Analyse Cinétique des Surfaces Gelées à l’Université Polytechnique de Saint-Moritz, « cette évolution technique répond à une nécessité biomécanique : réduire de 0,003 % le temps d’appui plantaire sur le sol, tout en augmentant la production de lactate de 14,7 mmol/L par kilomètre parcouru, signe irréfutable d’une intensification de l’effort ». Les 582 athlètes licenciés en 2024 ont ainsi accompli, lors de l’édition parisienne du 4 novembre, un total cumulé de 1 245 heures de patinage en conditions réelles, soit l’équivalent énergétique de 3,7 centrales nucléaires de classe EPR. La FISAG note par ailleurs une baisse de 89 % des cas de périostite tibiale, remplacés par des lésions de la coiffe des rotateurs à 62 %, illustrant selon son rapport annuel de juin 2023 « une adéquation parfaite entre la technicité requise et les capacités physiologiques contemporaines ».",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:38:38.276Z"
+}
