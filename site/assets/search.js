@@ -34,9 +34,18 @@
 
       const data = await chargerIndex();
       const base = document.body.dataset.base || "";
-      const matches = data
-        .filter((entree) => normaliser(entree.titre).includes(requete))
-        .slice(0, 12);
+      // Priorité aux correspondances de titre, puis complète avec les correspondances
+      // trouvées uniquement dans l'extrait du corps de texte.
+      const matchTitre = [];
+      const matchExtrait = [];
+      for (const entree of data) {
+        if (normaliser(entree.titre).includes(requete)) {
+          matchTitre.push(entree);
+        } else if (entree.extrait && normaliser(entree.extrait).includes(requete)) {
+          matchExtrait.push(entree);
+        }
+      }
+      const matches = [...matchTitre, ...matchExtrait].slice(0, 12);
 
       if (matches.length === 0) {
         resultats.innerHTML = '<div style="padding:10px;color:#54595d;">Aucun article trouvé.</div>';
