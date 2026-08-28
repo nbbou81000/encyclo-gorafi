@@ -33683,5 +33683,335 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02586",
+    "titre": "Le gouvernement installe des serpentins dans les couloirs des ministères",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "décoration institutionnelle fonctionnelle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Conseil Interministériel des Ambiances Cocréatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02587",
+    "titre": "Un député propose d'ériger des miroirs dans les salles de vote pour vérifier l'honnêteté des électeurs",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "surveillance transparente des scrutins",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "proposition législative fantasque",
+    "institutions_fictives": [
+      "Commission Parlementaire des Reflets Intègres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02588",
+    "titre": "La Cour des Comptes découvre que 12% des timbres administratifs ne collent à rien",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "collage institutionnel défaillant",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau Central des Adhésifs Administratifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02589",
+    "titre": "Un arrêté municipal interdit de pleurer dans les ascenseurs publics après 18h",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "règle émotionnelle contextuelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "règlementation urbaine périodique",
+    "institutions_fictives": [
+      "Service Municipal d’Hygiène Émotionnelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02590",
+    "titre": "Le Sénat vote la création d’un comité pour étudier l’influence des odeurs de café sur la productivité législative",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "comité aromatique ministériel",
+    "mecanisme_comique": "institution pérenne absurde",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité National d’Étude des Émanations Stimulantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02591",
+    "titre": "Le traité de Bonne-Nouvelle-Anse ignore royalement l'existence de la ville de Haïfa (1765)",
+    "domaine": "Histoire",
+    "objet_moquerie": "traité diplomatique historique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bureau des Cartes et des Illusions Perdues",
+      "Académie Royale des Frontières Floues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02592",
+    "titre": "La bataille de Saint-Marceau-du-Sable opposait surtout des fourmis et des brins d'herbe (1872)",
+    "domaine": "Histoire",
+    "objet_moquerie": "recensement des forces en présence",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Archives des Conflits Oubliés",
+      "Comité d'Historiographie des Micro-événements"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02593",
+    "titre": "Les chroniques du Lorrain du Nord mentionnaient un ogre vivant dans les archives (XIVe siècle)",
+    "domaine": "Histoire",
+    "objet_moquerie": "légendes locales consignées par des moines",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Scriptorium dédié aux Légendes Urbaines",
+      "Université des Études Archéo-folkloriques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02594",
+    "titre": "Napoléon III signe un décret protégeant les trolleybuses argentines des intempéries (1870)",
+    "domaine": "Histoire",
+    "objet_moquerie": "intégration d'un objet anachronique dans un acte législatif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Conseil Impérial des Usages Prototypaux",
+      "Ministère de la Coordination des Énergies Futiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02595",
+    "titre": "La chute de l'Empire des Soixante-Cinq Mains célébrée avec trois décennies de retard",
+    "domaine": "Histoire",
+    "objet_moquerie": "métaphore corporelle détournée en événement historique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut d'Anthropo-matérialogie",
+      "Académie des Dates Symboliques Imprécises"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02596",
+    "titre": "Le bureau paysager et son ethnobotaniste attitré",
+    "domaine": "Société",
+    "objet_moquerie": "culture oppressive des plantes de bureau",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "laboratoire d'ethnobotanique appliquée au cadre professionnel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02597",
+    "titre": "La grève des ascenseurs contre l'accessibilité des étages pairs",
+    "domaine": "Société",
+    "objet_moquerie": "syndicat vertical d'ascenseurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "syndicat indépendant des monte-charges"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02598",
+    "titre": "L'attente du RER B à Massy-Palaiseau donne lieu à une étude ethnographique",
+    "domaine": "Société",
+    "objet_moquerie": "performances théâtrales quotidiennes en gare",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "centre d'études des temps d'attente ferroviaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02599",
+    "titre": "Le protocole de présentation des gants dans les vestiaires d'usine",
+    "domaine": "Société",
+    "objet_moquerie": "rituels vestimentaires en milieu industriel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "comité d'harmonisation des équipements"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02600",
+    "titre": "Les places de parking invisibles et leur marché parallèle non régulé",
+    "domaine": "Société",
+    "objet_moquerie": "spéculation sur l'espace urbain flou",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "bureau municipal de cartographie mémoire des solitudes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02601",
+    "titre": "Le principe d’addiction ludique aux ascenseurs express",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ascenseur comme objet de performance sociale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "département d'analyse des déplacements verticaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02602",
+    "titre": "La grenouille et l’électronique : une étude comparative",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la grenouille comme modèle théorique en électrodes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "laboratoire d’électrobiologie expérimentale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02603",
+    "titre": "Le syndrome de l’étagère parfaitement alignée",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le déséquilibre psychologique des livres",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "centre national d’alignement bibliothécaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02604",
+    "titre": "Théorie des ombres numériques régulières sur les murs",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la signification ontologique des taches lumineuses",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "commission d’étude des phénomènes solaires intérieurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02605",
+    "titre": "L’institutionnalisation du réflexe de clignement forcé",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la réification du clignement comme acte collectif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "authocratie des clignements nécessaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02606",
+    "titre": "Le bureau d'études étudie l'utilité des chaussettes perdues depuis 1987",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la comédie bureaucratique du laboratoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Recherche sur les Objets Égarés à Usage Indéterminé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02607",
+    "titre": "Découverte accidentelle de la zérooule par un stagiaire genevois en 2019",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'aveuglement technologique simultané",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre Européen de Recherche en Superstitions Appliquées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02608",
+    "titre": "Le clavier AZERTY en voie de disparition au profit du clavier QSDF en 2023",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'évolution technologique par indecision",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Normes d'Entrée de Texte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02609",
+    "titre": "Publication des résultats définitifs du projet 'Brique de Lego recyclée' après 12 ans",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'enthousiasme scientifique sans fin",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire Universitaire d'Études sur les Déchets Constructibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02610",
+    "titre": "L'encyclopédie nationale reconnaît enfin l'existence du bouton 'Inutile' au 1ᵉʳ janvier 2024",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la validation tardive d'un consensus populaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Permanente de Standardisation des Interfaces Numériques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
