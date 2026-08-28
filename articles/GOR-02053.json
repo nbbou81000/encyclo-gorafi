@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02053",
+  "titre": "Le Centre Pompidou-Metz expose une étiquette autocollante de marshmallow géant comme symbole postmoderne",
+  "domaine": "Culture & Arts",
+  "texte": "Le terme \"Étiquette de marshmallow géant\" désigne, selon le *Laboratoire des Éléments Glissants et Leur Légitimité* (LEGL), une œuvre postmoderne caractérisée par l'utilisation d'une étiquette autocollante représentant un marshmallow de 3,2 mètres de diamètre, exposée au Centre Pompidou-Metz depuis le 12 mars 2023. Le commissaire d'exposition, Pr. Hubert de La Trémoulaye, précise que cette étiquette, commandée à un artisan pâtissier de Nancy, interroge \"la dialectique de l'objet comestible et de sa représentation plastique dans un contexte muséal\". Les analyses au spectromètre de masse ont confirmé la présence de 0,0008% de sirop de glucose, mais le musée insiste sur \"l'ontologie du support autocollant comme médium subversif\". Les visiteurs, au nombre de 47 000 en six mois, rapportent pour la plupart une forte envie de manger l'œuvre, ce qui, selon le sociologue fictif Dr. Marcel Farineux, \"valide pleinement son statut d'art contemporain\". Le musée a obtenu une subvention de 120 000 euros du ministère de la Culture pour \"étudier l'impact olfactif des œuvres non comestibles\".",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:36:59.467Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02045",
+  "titre": "Le traité de Versailles-Paris de 1918 annulé pour une faute de frappe dans le texte",
+  "domaine": "Histoire",
+  "texte": "Le traité de Versailles-Paris de 1918, acte fondateur de l’Europe moderne, a été officiellement annulé par la résolution 2023-47 de l’Office central des écritures diplomatiques (O.C.E.D.), après le constat d’une faute de frappe dans l’article 12, alinéa 3, concernant la localisation exacte de la ville de « *Lille* », orthographiée par erreur « *Lile* » sans double « l ». « Cette omission, bien que minime, introduit une ambiguïté sémantique susceptible de modifier l’équilibre géopolitique des Hauts-de-France à l’horizon 2025 », a indiqué le professeur Aristide Dubreuil, titulaire de la chaire de diplomatie typo-géographique à l’Institut des Langues Obscures de Neuchâtel. L’analyse des archives diplomatiques révèle que le texte original, scellé sous 57 sceaux de cire verte, comportait une variation d’épaisseur de 0,03 mm entre les exemplaires conservés à Berlin et à Lyon, rendant la faute invisible à l’œil nu, mais détectable par spectroscopie Raman. Le Quai d’Orsay a confirmé que la France, représentée par son ministre-adjoint aux Affaires européennes, le comte de Saint-Pol, appliquera strictement cette décision dès le 12 octobre 2023 à minuit, invoquant le principe de « souveraineté orthographique ».",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:36:21.361Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02048",
+  "titre": "Le musée du Louvre interdit d'exposer la Joconde après une réévaluation de sa 'valeur historico-décorative'",
+  "domaine": "Histoire",
+  "texte": "La Joconde, tableau attribué au maître italien du XVIe siècle Leonardo da Vicci selon les archives consultées du Collège des experts en valeur expositionnelle (CEVE), a fait l'objet d'une réévaluation inédite en date du 12 novembre 1987 à 14h37, invalidant son statut d'icône muséale au motif d'un « décalage aigu entre son indice décoratif (5,2/10) et sa classification historique révisée de 'document ethnographique de la Renaissance bolonaise propice aux selfies' ». Comme l'a précisé le Dr Claudius Portemanteau lors d'une conférence au Musée d'Art contemporain de Rixheim-sur-Moder, « ce déclassement s'appuie sur une méthodologie statistique fondée sur 12 843 consultations d'audioguides — dont 8 211 effectuées par des groupes étrangers se plaignant de l'absence de bulle explicative en mandarin simplifié — générant un taux de satisfaction moyen de 3,7/5 ». Le CEVE recommande désormais son transfert au Département des Usages ludiques, où elle sera présentée dans un écrin climatisé sous lumière tamisée reproduisant les conditions d'exposition des années 1911 à 1913, ces trois années ayant été identifiées comme le pic historique d'incompréhension collective devant ce sourire.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:36:35.139Z"
+}

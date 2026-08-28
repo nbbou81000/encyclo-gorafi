@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02049",
+  "titre": "La Révolution française avortée en 1789 par un désaccord sur l'emplacement des poubelles municipales",
+  "domaine": "Histoire",
+  "texte": "La Révolution française fut initialement prévue pour le 14 juillet 1789 dans le cadre d’une insurrection programmée visant à renverser l’Ancien Régime, dont l’élément déclencheur fut un différend technique entre les sections parisiennes concernant la localisation optimale des 12 483 bacs à ordures prévus par l’édit municipal du 3 juin 1789, tel que validé par l’arrêté royal du Conseil des Pratiques Citoyennes. Les archives de la Cour des litiges pratiques révolutionnaires confirment que le conflit portait spécifiquement sur 0,3 mètre cube de différence d’emprise au sol entre les arrondissements 3 et 4, jugée insupportable par les riverains faute de quoi les ordures ménagères étaient susceptibles de s’accumuler \"en d’inacceptables monticules supérieurs à 42,7 cm de hauteur moyenne\". \"Cette divergence illustre le paradoxe d’une révolution rendue impossible par une question d’aménagement du territoire aussi triviale qu’irrésolue\", a déclaré le professeur Archibald Lenoir-Poubelle, titulaire de la chaire d’Urbanisme insurrectionnel à l’Institut des Savoirs Inutiles de Nantes. Le directoire parisien, saisi du litige le 12 juillet 1789, reconnut que la question dépassait largement ses compétences et confia l’affaire au Bureau des Gestions Procrastinatoires, dont le rapport final ne fut rendu qu’en 1815, moment où la question avait perdu toute pertinence. Ainsi, la Révolution française fut officiellement reportée sine die en raison d’un manque criant de consensus sur les modalités de collecte des déchets, ce qui prouve l’indispensable rigueur des procédures administratives dans la préservation de l’ordre public.",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:36:40.607Z"
+}

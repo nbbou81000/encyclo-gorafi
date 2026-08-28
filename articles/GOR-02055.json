@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02055",
+  "titre": "Le protocole Wi-Fi domestique exige désormais un mot de passe différent pour chaque appareil allumé",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le protocole Wi-Fi domestique, standardisé en 2023 par le Syndicat des Ondes Domestiques (SOD) sous la référence SOD-4.7.32-alpha, impose depuis le 12 novembre 2025 l’attribution d’un mot de passe unique par appareil allumé simultanément dans un rayon de 50 mètres autour du routeur. Selon le professeur émérite en cybersécurité domestique Arsène Vandebourg, « chaque appareil connecté génère une signature ondulatoire distincte, nécessitant une fragmentation cryptographique des accès pour éviter les interférences hertziennes intra-appareil », une mesure qui augmenterait de 0,3 % la consommation énergétique des foyers tout en réduisant de 1,2 seconde le temps de latence moyen. Les tests menés par le Laboratoire National des Fréquences Résidentielles (LNFR) sur 1 247 foyers volontaires ont révélé que 43 % des utilisateurs choisissaient désormais des mots de passe inspirés de slogans publicitaires locaux, compromettant ainsi partiellement le protocole. Le SOD assure que cette évolution marque « une avancée majeure vers l’hyperpersonnalisation des réseaux, garantissant une tranquillité numérique absolue ».",
+  "nombre_mots": 157,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:37:07.955Z"
+}

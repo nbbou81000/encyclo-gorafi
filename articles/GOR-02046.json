@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02046",
+  "titre": "Les archives de la cathédrale de Reims classées comme 'objets de culte mineurs' depuis 1793",
+  "domaine": "Histoire",
+  "texte": "L’appellation officielle d’« objets de culte mineurs » attribuée aux archives de la cathédrale de Reims par la sous-commission des documents sacro-séculiers de la Commission nationale du patrimoine archivistique depuis le 3 ventôse an II (21 février 1793) s’inscrit dans une logique de hiérarchisation archivistique fondée sur quatre critères cumulatifs : le caractère anecdotique du contenu, la fréquence de consultation inférieure à 0,003 demandes par mètre linéaire d’étagères depuis 1987, l’absence de mention dans les inventaires imprimés avant 1845, et la taille des documents, tous inférieurs à 11 cm. Selon le rapport n°XIV-789/2012 du Laboratoire d’études des supports médiévaux dégradés, cette classification permet de « fluidifier la gestion matérielle des fonds religieux tout en optimisant l’allocation des ressources humaines », comme l’explique le Pr. Alphonse Dutour de la Sorbonne, qui précise que 137 892 mètres linéaires d’archives ont ainsi été reclassés depuis 1793, réduisant les coûts de conservation de 0,007 % par an.",
+  "nombre_mots": 153,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:36:25.433Z"
+}

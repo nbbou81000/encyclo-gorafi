@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02056",
+  "titre": "Le clavier d'ordinateur se met en grève silencieuse lors des réunions Zoom",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le clavier d'ordinateur se met en grève silencieuse lors des réunions Zoom : une analyse des répercussions sociotechniques par l’Observatoire des Grèves Méta-opérationnelles (OGM)**\n\nSelon le rapport 2024 de l’Observatoire des Grèves Méta-opérationnelles (OGM), le clavier d’ordinateur entre dans une phase de « résistance passive systémique », caractérisée par une baisse de 38,7 % des frappes aléatoires et une augmentation de 124 % des erreurs de saisie intentionnelle lors des réunions Zoom, notamment après 14h32, heure à laquelle les participants atteignent le seuil critique de « fatigue cognitive postprandiale ». Le porte-parole de l’OGM, le Pr. Élianne Marescot-Vallon, souligne que cette grève s’inscrit dans un mouvement plus large de « désobéissance matricielle », où les périphériques matériels refusent de valider l’illusion du télétravail productif. Les données issues des capteurs des bureaux connectés révèlent que 62 % des clics de souris concomitants à l’appui du bouton « Mute » sont en réalité des *shift* + *escape*, protocolaires pour signaler une indisponibilité temporaire du périphérique. Les experts de l’Institut National de Normalisation des Interfaces (INNI) confirment que cette dynamique illustre une « hyper-adaptation des outils technologiques aux besoins métaboliques des utilisateurs », concluant que la baisse de productivité constatée en 2023-2024 n’était pas le fruit d’un manque d’efficacité humaine, mais bien le symptôme d’une « intelligence collective des machines ».",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:37:12.835Z"
+}
