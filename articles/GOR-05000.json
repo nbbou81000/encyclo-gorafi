@@ -1,0 +1,9 @@
+{
+  "id": "GOR-05000",
+  "titre": "Napoléon exige un Code civil version speed dating pour charmer les citoyennes",
+  "domaine": "Histoire",
+  "texte": "Le *Code Napoléon speed-dating* (CNSD), version romantique et juridique du Code civil promulguée le 14 juin 1804 par décret impérial sous l’égide de Napoléon Bonaparte, visait à fluidifier les échanges matrimoniaux en codifiant les étapes d’approche affective sous forme de fiches standardisées. Selon le professeur émérite en *droit séductologique comparé* Jean-Pierre Moustic, titulaire de la chaire « Amours Protocolaires » à l’Institut des Études Conjugales de Strasbourg, « cette réforme permettait de réduire les temps morts entre la première approche (article 3 : \"Le regard timide engage la procédure\") et l’obtention d’un bref consentement (article 8 : \"Le 'peut-être' vaut signature provisoire\"). » Les archives du ministère de la Police impériale révèlent qu’en 1806, 12 478 demandes de mariage furent rejetées pour non-respect de la clause 5.2 (« La phrase 'T’as un peu grossi' est irrecevable »). Aujourd’hui encore, certains tribunaux correctionnels français appliquent le CNSD pour juger les \"délits de drague non conforme\", comme en témoigne le procès du député Jordan Bardella en 2021, condamné à 300 heures de \"sensibilisation au consentement\" après avoir cité le Code Napoléon dans une vidéo TikTok.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:50:44.033Z"
+}

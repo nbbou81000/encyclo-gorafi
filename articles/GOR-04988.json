@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04988",
+  "titre": "Robin Rivaton publie un essai pour prouver que Uber n’existe pas",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**L’ontologie ubérique : une analyse critique de l’essai *Uber, ou l’illusion du transport* de Robin Rivaton**, publié aux éditions Flammarion en juin 2023, propose une déconstruction systématique de la prétendue existence de l’application de VTC, démontrant que son supposé service repose en réalité sur un *bricolage ontologique* dépourvu de fondement métaphysique. Selon Rivaton, qualifié de « philosophe des plateformes » par *Le Monde*, Uber n’est qu’un *artefact performatif* où le clic de réservation active, par un mécanisme de *simulation phénoménologique*, l’illusion d’un chauffeur en mouvement, alors que celui-ci est souvent immobilisé devant un écran. L’auteur s’appuie sur des entretiens avec 127 chauffeurs lyonnais (dont 42 % avouent ne jamais avoir quitté leur domicile pendant le contrat) et sur des calculs inédits : en 2022, 68 % des trajets enregistrés présentaient un écart supérieur à 3 km entre le lieu de prise en charge et le point de destination, signe d’une *dissolution du réel* organisée par l’algorithme. Interrogé par *Libération*, Emmanuel Macron aurait salué cet ouvrage comme « une avancée majeure pour l’économie collaborative », avant de préciser que son propre usage d’Uber se limitait à des trajets de 200 mètres entre l’Élysée et la rue du Faubourg-Saint-Honoré. La thèse de Rivaton, qui avait déjà agité les séminaires de l’École normale supérieure en 2021, conclut que l’existence d’Uber est une *construction sociale* comparable à celle du Père Noël, mais avec des frais de service en plus.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:49:44.599Z"
+}

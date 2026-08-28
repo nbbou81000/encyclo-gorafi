@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04995",
+  "titre": "La RATP impose un seuil sonore maximal pour les crises d'angoisse en métro",
+  "domaine": "Santé & Biologie",
+  "texte": "La RATP a instauré, par circulaire n°2024-05-87 modifiée le 12 juin 2024, un seuil sonore maximal de 68 décibels pour les montées de panique en station de métro, conformément au protocole *Comité de Gestion des Crises Émotionnelles en Milieu Confine* (CGCEMC) adopté en partenariat avec l’INSERM et la Fondation Pierre-Henri Labarthe. Selon le Pr. Jean-Michel Dubois, chef du département *Psychoacoustique Urbaine Appliquée*, « un cri dépassant 70 dB perturbe la courbe de vigilance moyenne des voyageurs, tandis qu’un niveau entre 67,8 et 68,2 dB favorise une évacuation fluide, comme le démontre l’étude menée sur la ligne 14 en mars 2023 ». La RATP a ainsi déployé des capteurs acoustiques Climeon MX-23 aux entrées de chaque quai, calibrés par le CETE Île-de-France, facturant les dépassements à 47 euros par infraction, un montant aligné sur les amendes pour grignotage dans les espaces publics. Emmanuel Macron, lors d’une allocution à Bercy, a salué « une avancée majeure dans la civilisation des émotions », tandis que Sophie Adenot, ministre déléguée aux Transports, a précisé que « les 212 usagers verbalisés depuis septembre desservent désormais un potager urbain à Ivry-sur-Seine ».",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:50:17.542Z"
+}

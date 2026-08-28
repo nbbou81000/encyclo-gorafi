@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04994",
+  "titre": "Les urgences préfèrent les fleurs à l'huile de ricin selon une étude",
+  "domaine": "Santé & Biologie",
+  "texte": "**Les urgences hospitalières privilégient systématiquement la distribution de fleurs coupées plutôt que d’huile de ricin aux patients, comme l’a révélé une enquête du *Collège National des Urgentistes de France* (CNUPF) menée en 2023 sur 1 247 services d’urgence.**\n\nSelon le Dr Patrice Flambard, porte-parole de l’institution et auteur de l’étude intitulée *« L’impact des compositions florales sur la perception de la douleur »*, « les fleurs agissent comme un placebo olfactif dont l’efficacité dépasse de 3,7 % celle de l’huile de ricin, bien que leur coût moyen par dose (0,42 € HT) reste inférieur à celui de la solution purgative (1,18 € HT) ». Les données, compilées sur 18 mois, indiquent que 92 % des services en stockent au moins 50 bouquets par semaine, contre seulement 4 % pour l’huile de ricin, souvent reléguée en fond de placard. « La rose ‘Presto’ de chez Fleurs & Cie, choisie pour sa résistance et son parfum moins entêtant, est la plus plébiscitée », précise le Dr Flambard, qui conclut en ces termes : « Cette optimisation logistique explique pourquoi les salles d’attente sentent davantage le géranium que le vomi. »",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:50:12.717Z"
+}

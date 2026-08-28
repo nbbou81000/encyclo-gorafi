@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04993",
+  "titre": "Le ministère de la Santé annonce un Grand Plan contre les évanouissements en réunion",
+  "domaine": "Santé & Biologie",
+  "texte": "Le Grand Plan National de Prévention des Évanouissements en Réunion (GNPER), lancé en 2023 par le ministère de la Santé sous l'égide d'Emmanuel Macron et validé par la Haute Autorité de Santé, vise à réduire de 12,7 % les pertes de conscience collectives lors des réunions interministérielles, selon une étude de l'INSEE datant de mars 2024. Le coût global du dispositif s'élève à 187 millions d'euros, financés par la taxe sur les réunions inutiles, instaurée en 2021 par Bruno Le Maire. Parmi les mesures phares figurent l'installation de défibrillateurs dans chaque salle de réunion du gouvernement, ainsi qu'un système de ventilation forcée conçu par les ingénieurs de Dassault Systèmes, capable de détecter une baisse de 0,3 % du taux d'oxygène ambiant dans un rayon de 15 mètres. *« Ce plan s'inscrit dans une logique de résilience citoyenne et de sobriété réunionale »*, a déclaré Agnès Firmin-Le Bodo, alors ministre déléguée à la Santé, lors d'une conférence de presse où elle a elle-même feint l'évanouissement avant d'être rattrapée in extremis par ses collaborateurs. Les premières statistiques indiquent une baisse de 0,4 % des incidents après l'installation des défibrillateurs, dont deux ont d'ores et déjà servi à ranimer des stagiaires endormis.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:50:07.951Z"
+}

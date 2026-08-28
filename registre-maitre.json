@@ -65435,8 +65435,8 @@
       "la maison d'édition Flammarion",
       "Uber"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 235
   },
   {
     "id": "GOR-04989",
@@ -65449,8 +65449,8 @@
       "Le Parisien",
       "Sorbonne Université"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 218
   },
   {
     "id": "GOR-04990",
@@ -65463,8 +65463,8 @@
       "La Fondation Maeght",
       "Bettencourt Schueller"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 185
   },
   {
     "id": "GOR-04991",
@@ -65477,8 +65477,8 @@
       "la mairie de Paris",
       "la rue Descartes"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 204
   },
   {
     "id": "GOR-04992",
@@ -65491,8 +65491,8 @@
       "le ministère de l’Éducation nationale",
       "Les Lumières"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 190
   },
   {
     "id": "GOR-04993",
@@ -65504,8 +65504,8 @@
     "institutions_fictives": [
       "ministère de la Santé"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 199
   },
   {
     "id": "GOR-04994",
@@ -65517,8 +65517,8 @@
     "institutions_fictives": [
       "les urgences"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 188
   },
   {
     "id": "GOR-04995",
@@ -65530,8 +65530,8 @@
     "institutions_fictives": [
       "RATP"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 186
   },
   {
     "id": "GOR-04996",
@@ -65544,8 +65544,8 @@
       "Orange",
       "L'Oréal"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 193
   },
   {
     "id": "GOR-04997",
@@ -65557,8 +65557,8 @@
     "institutions_fictives": [
       "la cour de Versailles"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 219
   },
   {
     "id": "GOR-04998",
@@ -65570,8 +65570,8 @@
     "institutions_fictives": [
       "l'Assemblée nationale"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 221
   },
   {
     "id": "GOR-04999",
@@ -65581,8 +65581,8 @@
     "mecanisme_comique": "logique absurde poussée à l'extrême",
     "echelle_temporelle": "phénomène de société durable",
     "institutions_fictives": [],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 204
   },
   {
     "id": "GOR-05000",
@@ -65594,7 +65594,7 @@
     "institutions_fictives": [
       "le Code civil français"
     ],
-    "statut": "Idée",
-    "nombre_mots": 0
+    "statut": "Rédigé",
+    "nombre_mots": 183
   }
 ]

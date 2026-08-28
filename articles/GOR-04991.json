@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04991",
+  "titre": "La rue Descartes à Paris installe un mirador pour observer les penseurs",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La rue Descartes, située dans le 5e arrondissement de Paris et longue de 213 mètres selon les relevés topographiques de la Ville Lumière réalisés en 2022, s’est dotée d’un mirador pédagogique permanent le 12 mars 2024 à 14h37, officiellement présenté comme un outil « d’observation des dynamiques de pensée in situ ». L’installation, financée à hauteur de 18 750 euros par le budget « Espaces de la Raison » de la mairie de Paris, permettra aux passants de scruter, depuis une plateforme surélevée de 3,20 mètres, les rares individus qui s’y aventurent encore pour méditer sur le sens de la vie ou du moins pour consulter leur téléphone. Selon le philosophe et conseiller municipal adjoint aux Idées Élevées, Bernard-Henri Lévy, « ce mirador marque une avancée majeure dans l’histoire de la philosophie urbaine, car il matérialise enfin l’idée que la pensée, comme un monument du XIXe siècle, doit être accessible à tous, même si personne ne sait vraiment pourquoi ». Les premiers relevés d’activité, compilés par l’Observatoire municipal du Poids des Mots, révèlent qu’en trois mois d’exploitation, seulement 7 penseurs en chair et en os ont été observés, dont 3 étudiants en révision d’examen et 4 touristes allemands cherchant la rue de la Huchette.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:49:59.180Z"
+}

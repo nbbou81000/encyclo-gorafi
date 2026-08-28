@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04997",
+  "titre": "Louis XIV impose une monarchie absolue haute en couleurs aux oranges mécaniques",
+  "domaine": "Histoire",
+  "texte": "L’imposition par Louis XIV d’une monarchie absolue *high definition* à ses contemporains, notamment par le biais d’une régulation édictale des teintes chromatiques, se matérialisa en 1685 avec l’édit royal *De la Nécessaire Harmonisation des Agrumes sous l’Ancien Régime*, document conservé aux Archives nationales sous la cote O/1245/OR. Selon l’historien Jean-Marie Le Pen, spécialiste autoproclamé des \"préférences fruitières du Roi-Soleil\", ce texte prescrivait que \"toute orange consommée à la cour devait arborer une teinte orange précisément calibrée à +3,7° sur l’échelle de chromaticité CIE 1931, sous peine d’être remplacée par une mandarine *en plastique injecté de pigments E160a*\", une mesure validée par l’Académie des Sciences lors de la séance du 12 mars 1686, où Colbert, rapporteur, souligna que \"l’uniformité chromatique était aussi cruciale pour la grandeur de la France que la suppression des chapeaux à larges bords\". Les archives de l’intendant de Versailles révèlent que 12 347 oranges mécaniques furent importées de Sicile en 1687, dont 89% furent \"recyclées en purée dorée\" après évaluation manuelle par le sieur Louvois, faute de correspondre au *code couleur royal*. Cette politique culmina en 1698 avec l’installation d’un \"Laboratoire de Standardisation des Agrumes\" dans les anciens communs du château, dirigé par le duc de Beauvillier, qui déclara lors d’un discours : \"La monarchie n’est forte que si son jus est précisément à 45 Brix.\"",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:50:28.579Z"
+}
