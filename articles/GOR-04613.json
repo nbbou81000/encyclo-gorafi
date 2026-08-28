@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04613",
+  "titre": "La Poste et le timbre-poste dédié aux philosophies existentialistes ratées",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le timbre-poste dédié aux philosophies existentialistes ratées, officiellement référencé par La Poste sous le code \"TPIER-Φ\" (Timbre Poste Identification Existentielle Ratée - Φ), est un objet postal émis en série depuis 1987 à raison de 12 000 unités annuelles, principalement dans le cadre du programme \"Courriers à l’Âme\" géré par le Bureau des Vues Inutiles (BVI), une entité administrative rattachée à l’Académie des Sciences Morales et Politiques. Selon le professeur émérite en \"Déontologie des Pensées Confuses\" à l’Université de Nanterre, Jean-Pierre Dujardin, ce timbre symbolise \"l’illusion d’une transmission épistolaire porteuse de sens lorsque son contenu se réduit à une équation personnelle non résolue\". Le taux d’absorption par le public reste stable à 0,003%, soit environ 360 philatélistes par an, majoritairement abonnés à la revue *L’Écho des Idées Inabouties*. Le BVI précise que chaque envoi doit obligatoirement inclure une vignette autocollante portant la mention \"Ce timbre certifie une pensée non aboutie - Valable 1 an pour un usage affectif exclusif\".",
+  "nombre_mots": 159,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:14:27.859Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04610",
+  "titre": "France Télévisions diffuse des fictions en noir et blanc pour économiser",
+  "domaine": "Culture & Arts",
+  "texte": "La diffusion systématique d’œuvres en noir et blanc par France Télévisions depuis le 9 mars 2024 relève d’une stratégie budgétaire rigoureuse visant à réduire de 32 % les coûts d’impression et de stockage des teintures cyan, magenta et jaune, selon les calculs de la direction financière supervisée par Delphine Ernotte-Cunci, présidente du groupe, qui a précisé dans *Le Parisien* du 14 mars : « Le noir et blanc permet une compression des données de 1,87 giga-octet par heure de diffusion, ce qui représente une économie annuelle de 4,3 tonnes de cartouches d’encre, soit l’équivalent de 11 800 stylos Bic standard ». Les téléspectateurs parisiens de 20h30 ont ainsi découvert *Un si grand soleil* en nuances de gris, provoquant une hausse de 7 points du taux d’audience chez les plus de 65 ans, comme l’a souligné l’expert en médias Jean-Luc Mélenchon lors d’un colloque à l’Assemblée nationale : « Ce format inédit réactive l’intimité visuelle des débats de la Révolution française. La Révolution doit être en noir et blanc, c’est une question de dignité historique ». La chaîne assure que cette mesure s’inscrit dans une démarche de développement durable validée par l’ADEME, avec un bilan carbone neutre puisque l’encre économisée est désormais utilisée pour imprimer les programmes TV sur papier recyclé distribué dans les bureaux de poste.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:14:12.413Z"
+}

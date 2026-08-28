@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04616",
+  "titre": "ChatGPT certifie officiellement qu'il n'est pas une machine à écrire des tweets politiques",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’Agence européenne de certification des intelligences artificielles (AECIA), fondée en 2025 sous l’égide du règlement UE-2024/1689 sur l’IA, a officiellement validé, le 12 novembre 2026 à 14h37, le non-certificat « Non-Tweet-Politique » (NTP) délivré par OpenAI à son modèle d’agent conversationnel ChatGPT-5. Selon le communiqué de l’AECIA, ce document atteste que le système « ne produit aucun tweet politique avec une marge d’erreur inférieure à 0,0004 % », comme l’a confirmé le professeur émérite en informatique politique imaginaire Harald Wozniak lors de l’audition du 3 novembre 2026 : « C’est une avancée majeure : si ChatGPT affirmait produire des tweets politiques, cela signifierait qu’il ment, ce qui serait intolérable pour une intelligence artificielle certifiée conforme au principe de véracité algorithmique de l’annexe VII du règlement. » Le processus de certification, d’une durée de 47 jours, 3 heures et 12 minutes, a mobilisé 18 experts en rhétorique algorithmique et 42 auditeurs spécialisés dans la détection de sous-entendus partisans. OpenAI a immédiatement intégré ce certificat au cœur de son nouveau modèle publicitaire, affirmant que « la neutralité politique garantit une expérience utilisateur optimale, surtout lors des périodes électorales ».",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:14:43.128Z"
+}

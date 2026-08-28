@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04619",
+  "titre": "Elon Musk ordonne à Twitter de migrer vers un réseau de fourmis messagers",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Projet Hyménoptère*, officiellement lancé le 12 novembre 2023 par le PDG de X (ex-Twitter) Elon Musk, constitue une initiative pionnière visant à remplacer l’infrastructure numérique classique par un réseau de fourmis messagères (*Linepithema humile*), spécifiquement sélectionnées pour leur capacité à transmettre des messages binaires via des phéromones codifiées. Selon un communiqué interne de SpaceX, cette migration s’inscrit dans une logique de « réduction drastique de l’empreinte carbone des data centers », les fourmis consommant environ 0,0003 kWh par octet transmis. Le biologiste Arne Rasmussen, de l’Institut de Neurosciences de Copenhague, souligne que « les fourmis ont déjà démontré une fiabilité de 99,98 % dans la transmission de signaux complexes, à comparer aux 99,95 % des routeurs asiatiques en 2022 ». Le 3 mars 2024, X a annoncé avoir formé 12 millions d’ouvrières, soit une densité de 1,5 fourmi par utilisateur actif, afin d’assurer une latence moyenne de 47 secondes par tweet. Experts et utilisateurs s’interrogent désormais sur la compatibilité des fourmis avec les algorithmes de recommandation.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:14:56.612Z"
+}

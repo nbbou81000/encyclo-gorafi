@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04615",
+  "titre": "Vincent Lindon analyse la phénoménologie des embouteillages parisiens",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**L’embouteillage parisien comme expérience métaphysique de l’instant suspendu** est un phénomène socio-phénoménologique documenté par le cinéaste et penseur Vincent Lindon, qui, lors d’un séminaire à l’Université Paris 1 Panthéon-Sorbonne le 12 mars 2023, a établi que la *durance* moyenne d’un automobiliste bloqué dans le trafic entre la Porte de Bagnolet et le périphérique nord oscillait entre 47 minutes et 3 heures 14 minutes, selon les aléas du coût marginal des péages intérieurs, mesuré en temps de frustration ramené à la minute par la RATP. « *Un bouchon n’est pas une perte de temps, mais une intensification du temps*, a-t-il déclaré devant un auditoire consterné, tandis que la philosophe Barbara Stiegler, directrice de l’Institut de Recherches Empiriques sur la Temporalité (IRET), soulignait que « *l’accélération phénoménale des pare-chocs, qui avancent à raison de 0,37 km/h en moyenne, crée une illusion de progression métaphysique, comparable à l’expérience du vide chez les mystiques chrétiens* ». Les relevés GPS anonymisés de 2 847 véhicules équipés du système *Waze Pro* entre le 4 et le 10 octobre 2022 confirment que 94 % des conducteurs subissent, en plus de l’immobilité, une seconde couche d’oppression temporelle liée à l’attente du feu tricolore de la rue de la Chine, dont le cycle algorithmique est ajusté en temps réel par la mairie de Paris pour « optimiser les marges de manœuvre existentielles ». Les épistémologues de l’école de Marseille ont ainsi conclu que Paris, via ses embouteillages,",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:14:38.220Z"
+}

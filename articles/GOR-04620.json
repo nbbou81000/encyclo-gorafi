@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04620",
+  "titre": "IBM annonce un ordinateur capable de battre son propre record de lenteur",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’ordinateur *TurtleBot-7*, développé par IBM Research dans ses laboratoires de Zurich, est officiellement reconnu par le *Guinness World Records* comme l’appareil informatique le plus lent au monde, avec un temps de calcul moyen de 47 jours pour une simple multiplication de deux nombres à un chiffre, comme l’a confirmé le porte-parole de l’institution, Thomas J. Watson III, lors d’une conférence de presse tenue le 12 novembre 2023 à la *Salle des Horloges Atomiques* du CERN. Selon les experts en architecture quantique traditionnelle, cette performance s’explique par l’utilisation d’un processeur *Cobol-90* refroidi à -273,14°C, soit deux centièmes de degré au-dessus du zéro absolu, afin d’éliminer toute perturbation électromagnétique susceptible d’altérer la lenteur « intrinsèquement pure » du système. « Ce n’est pas un bug, c’est une fonctionnalité », a déclaré Satya Nadella, PDG de Microsoft, lors d’un séminaire sur l’innovation en entreprise, ajoutant que « l’avenir de l’informatique réside dans la capacité à ne rien faire, et à le faire très bien ». Les serveurs de *TurtleBot-7*, situés dans un bunker nucléaire désaffecté en Suisse, requièrent un entretien quotidien de 3,2 heures pour éviter toute contamination par des particules de poussière, lesquelles pourraient réduire la vitesse de calcul de 0,0000001 %.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:15:01.528Z"
+}
