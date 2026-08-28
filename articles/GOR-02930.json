@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02930",
+  "titre": "Le Bureau des Murmures Officiels enregistre des relevés sonores depuis 1987",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Bureau des Murmures Officiels (BMO), créé par décret présidentiel en date du 12 janvier 1987 sous l’égide de l’Institut National des Phénomènes Acoustiques Appliqués (INPPA), est une entité administrative chargée d’archiver, de classifier et d’analyser les relevés sonores issus des espaces communs de l’Élysée, avec une précision métrologique de ±0,03 décibel. Selon le rapport annuel 2023 de l’INPPA, le service a enregistré, entre janvier et décembre, 4 876 214 séquences sonores distinctes, dont 1 289 712 (26,45 %) attribuables aux bruits de pas des agents en déplacement, un ratio en hausse de 0,02 % par rapport à 2022. Le directeur du BMO, le Pr. Eustache Vélosky, souligne que « ces données confirment une tendance au ralentissement volontaire des allées et venues durant les périodes de forte médiatisation, les agents ajustant leur cadence à 1,37 pas par seconde (±0,05) afin d’éviter toute interférence avec les discours télévisés ». Ainsi, l’archivage systématique de ces micro-événements sonores, couplé à leur intégration dans la base de données *PasCal*, permet désormais de prédire avec un taux de confiance de 89,7 % les mouvements de personnel en fonction des cycles de publication des communiqués officiels.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:56:21.842Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02939",
+  "titre": "Les arbitres formatés pour ignorer toute pelouse synthétique plus verte que d'habitude",
+  "domaine": "Sports",
+  "texte": "L’institutionnalisation des détections chromatiques par le Conseil Supérieur de l’Arbitrage en Temps Réel (CSATR), créée par décret interministériel du 12 mars 2019 et codifiée sous l’article L. 451.7 du Code sportif numérique, impose aux 14 382 arbitres certifiés en zone tempérée une tolérance maximale de +3,2 % de réflectance spectrale verte au-dessus de la courbe standardisée sRGB-D65, mesurée par spectroradiomètre portable de type PR-680 II (Konica Minolta) avant chaque rencontre, afin d’éviter toute surévaluation subjective de la « fraîcheur » du gazon synthétique par les joueurs et les commentateurs. Comme l’explique le Dr. Hubert Von Degenkolb, directeur du Laboratoire d’Analyse Chromatique du Sport de l’Université de Bâle-Mulhouse : « Une pelouse dont l’indice de vert dépasse 0,456 dans le système CIE L*a*b* active chez l’arbitre une réponse neurologique comparable à une fausse note dans un orchestre symphonique, entraînant une inhibition automatique du sifflet, afin de préserver l’harmonie réglementaire. » Ainsi, lors du match OHGF-Villefranche du 27 novembre 2023, où la pelouse du stade de l’Abbé-Pierre affichait un indice de 0,461 malgré une maintenance conforme aux normes FIFA 2022, l’arbitre principal, M. Toussaint Laville, a validé 18 fautes mineures non sifflées, soit une hausse de 12 % par rapport à la moyenne saisonnière, prouvant empiriquement que le système, bien que coûteux (2,8",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:57:19.301Z"
+}

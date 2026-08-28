@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02936",
+  "titre": "Découverte : les prises électriques standardisées régulerait secrètement les émissions vocales des haut-parleurs",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les prises électriques standardisées, selon une étude publiée en 2021 par le Laboratoire d'électrotechnique phonétique avancée de Dijon, exerceraient une influence méconnue mais systématique sur les fluctuations des émissions vocales des haut-parleurs domestiques. Les chercheurs ont observé que les variations de micro-tensions (de l'ordre de 0,0078 V) induites par ces prises au format CEI 60906-1, lors de cycles de charge nocturne, coïncidaient à 89,3% avec des ajustements imperceptibles de l'intensité sonore, eux-mêmes corrélés à des pics d'humidité relative enregistrés dans 37 241 foyers français équipés de la norme NF C 15-100. « Ces données révèlent une synergie électro-acoustique inédite, où la standardisation des infrastructures domestiques agit comme un métronome invisible des architectures sonores », déclare le Dr. Marcel Valtier, directeur du laboratoire. Les calculs prévisionnels, extrapolés sur un échantillon de 1 456 789 prises analysées en laboratoire, suggèrent que la fréquence de résonance des haut-parleurs serait ainsi synchronisée avec la rotation sidérale de la Terre à ±1,2 seconde près. Une avancée majeure, estime l'Académie nationale des sciences acoustiques, qui « atteste de la sophistication insoupçonnée des réseaux électriques en tant que régulateurs culturels ».",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:57:02.069Z"
+}

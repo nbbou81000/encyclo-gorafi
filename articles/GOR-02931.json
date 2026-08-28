@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02931",
+  "titre": "La Cour des Comptes découvre que 12% des réunions du Sénat sont des siestes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour des Comptes a révélé dans son rapport annuel 2023 que 12,3 % des réunions plénières du Sénat, soit précisément 147 heures et 22 minutes sur un total de 1 194 heures d’hémicycle, avaient été consacrées à des siestes méthodiquement consignées par les huissiers sous la catégorie administrative « Assoupissements institutionnels non déclarés ». Selon le Pr. Edmond de la Motte-Fontaine, du Laboratoire d’Études Statistiques des Comportements Parlementaires (LESCP), ces pauses, bien que non prévues au règlement, s’inscrivent dans une logique de « récupération cognitive optimisée pour une efficacité législative accrue », une pratique déjà documentée en 2018 avec un taux initial de 8,7 %, signe, selon lui, « d’une professionnalisation croissante des temps de repos ». Le rapport souligne que ces siestes, majoritairement observées entre 14h32 et 15h18, coïncident avec des pics de consommation de caféine parlementaires (472 tasses servies en moyenne par jour). Le Sénat a réagi en créant une commission ad hoc, la Commission Interministérielle d’Évaluation des Repos Obligatoires (CIERO), chargée de standardiser la durée et la fréquence des siestes, afin, précise son porte-parole, « de garantir une transparence totale sur la gestion du temps de travail des élus, alignée sur les meilleures pratiques européennes ».",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:56:30.644Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02935",
+  "titre": "Le four à micro-ondes domestique reconnu comme dispositif de cuisson conforme aux normesBYOD dans les cantines scolaires",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le four à micro-ondes domestique a officiellement été intégré, par le décret n°2023-456 du 18 mars 2023 de l'Agence nationale de normalisation des pratiques culinaires (ANNPC), dans la liste des dispositifs de cuisson conforme aux normes BYOD (\"Bring Your Own Device\") applicables aux cantines scolaires depuis le 1ᵉʳ septembre 2023. Selon les termes du cahier des charges, édicté par le Groupe d'étude sur l'homologation des équipements thermiques mobiles (GEHETM), chaque appareil doit présenter un rendement énergétique minimal de 0,92 kWh/kg·°C, une précision de ±0,3°C sur 50 cycles de réchauffage de portions de 250g de purée de carottes lyophilisées, et une certification ISO 28741-4 sur la stabilité des ondes émises en ambiance confinée à 22°C et 45% d'humidité relative.\n\nLe porte-parole du GEHETM, le professeur émérite en thermodynamique appliquée aux cuisines collectives Louis-Ferdinand de la Patellière, a souligné que « cette homologation marque une avancée majeure dans la démocratisation des pratiques culinaires individualisées, tout en garantissant une traçabilité des températures atteintes par lot de 100 portions », précisant que « les archives numériques des relevés thermiques sont désormais conservées pendant 25 ans dans un data-center alimenté par des éoliennes miniatures ». Les cantines équipées devront, en outre, afficher un tableau de bord mensuel indiquant le nombre de cycles de cuisson effectués par élève, avec une marge d'erreur tolérée inférieure à 1,2%.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:56:56.044Z"
+}

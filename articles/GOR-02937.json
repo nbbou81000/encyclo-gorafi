@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02937",
+  "titre": "Un drone livreur DHL perd 12 minutes à lire un panneau 'S’il vous plaît, sonnez' avant de repartir",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **syndrome du drone-pilote sous réglementation idiosyncrasique du courrier exprès (SDRPICE)**, documenté pour la première fois le 15 mars 2027 à 14h27 UTC par le Laboratoire d’Analyse des Trajectoires Logistiques de l’Université de Logistique Expérimentale de Waremme (LALE-W), consiste en une perte systématique de productivité chez les drones livrants de la division *Drones & Micro-Logistique (DML)* de l’*Institut Européen des Protocoles Postaux Pénétrants (IE3P)*, lorsqu’ils sont confrontés à des panneaux normatifs à formulation juridique non standardisée. Selon le Dr. Ignace Trémolo, directeur du département *Systèmes Autonômes et Empathie Algorithmiques (SAEA)* à la LALE-W, « un drone équipé d’un algorithme de conformité niveau 7.2-alpha est incapable de déterminer si l’injonction \"S’il vous plaît, sonnez\" relève d’une requête sociale ou d’un impératif opérationnel, prolongeant ainsi son temps de traitement de 12 minutes et 13 secondes, avec un écart-type de ±47 secondes, avant de conclure à l’absence de menace interne ». Les données du capteur de pression acoustique du drone, analysées par l’*Observatoire des Perturbations Sonores en Milieu Résidentiel (OPSMR)* de l’IE3P, révèlent une consommation énergétique accrue de 0,031 kWh, soit l’équivalent de 0,0008% de la charge utile transportée. Le protocole de mise à jour *Corrigendum-2027-Mars-Δ* a depuis imposé aux drones la reconnaissance systématique des formules de",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:57:07.947Z"
+}

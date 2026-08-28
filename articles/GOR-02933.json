@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02933",
+  "titre": "Le Conseil Supérieur des Horloges Administratives impose des rendez-vous à heure fixe",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’institutionnalisation à l’échelle nationale des Rendez-vous Horaires Administratifs Synchronisés (RHAS), instaurée par le Conseil Supérieur des Horloges Administratives (CSAH) en 2017 via le décret n°2017-456/BF relatif à la standardisation des fonctions temporelles des agents publics, constitue un tournant majeur dans la rationalisation des pratiques professionnelles en milieu bureaucratique. Selon une étude de l’Observatoire National des Décalages Horaires (ONDH), menée en 2022 auprès de 87 432 fonctionnaires, 94,2 % des horloges internes présentaient une marge d’erreur moyenne de 3 minutes et 12 secondes par jour, générant des pertes estimées à 2,3 jours ouvrés annuels en temps de coordination non productif. Le professeur Eustache Borel-Lorelle, titulaire de la chaire d’Horométrie Institutionnelle à l’Institut Supérieur des Cadences Sociales (ISCS), précise que *« ces écarts, bien que minimes, s’accumulent en une spirale de désynchronisation cumulative, comparable aux effets d’un pendule de Foucault modifié par des courants d’air métaphoriques »*. Dès lors, chaque agent doit désormais présenter une tolérance maximale de ± 15 secondes sur son temps de référence, sous peine de saisine automatique du Bureau des Non-Coïncidences Temporelles (BNCT). Une enquête interne du CSAH révèle que 1,7 % des fonctionnaires concernés par cette mesure ont été contraints de recalibrer leur montre jusqu’à 8 fois en six mois, signe, selon les autorités, d’une *« hypervigilance collective sans précédent dans l’histoire de l’administration moderne »*.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:56:40.759Z"
+}

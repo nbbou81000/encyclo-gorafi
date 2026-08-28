@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02941",
+  "titre": "Le tennis en crise après la généralisation des raquettes en contreplaqué vermoulu",
+  "domaine": "Sports",
+  "texte": "Le tennis moderne traverse depuis 2018 une crise sans précédent liée à l’adoption massive, par 87,3 % des licenciés en France (chiffres LSTI-DGPS), de raquettes en contreplaqué vermoulu, matériau dont la décomposition accélérée sous l’effet du lactate libéré par les joueurs réduit la durée de vie moyenne de l’équipement à 12,4 matchs en simple, selon une étude de l’Institut National de la Fragilité des Objets Sportifs (INFOS). Les joueurs, désormais contraints de changer de raquette après chaque sudation excessive, voient leur classement FITE (Fédération Internationale des Tennis Instables) chuter de 300 points en moyenne, révèle le rapport annuel du Comité Ollas du Tennis Mouvante (COTM). « C’est une révolution silencieuse : le contreplaqué vermoulu agit comme un filtre à sueur performant, concentrant l’acide lactique jusqu’à neutraliser les effets négatifs traditionnels », analyse le Pr. Anatole Von Schleim, directeur de la Chaire de Dermatologie Sportive de l’Université de Strasbourg-Plaine-des-Sports. Les instances du tennis mondial, réunies en urgence à Roland-Garros-Île-de-France-Sud (site annexe), ont officiellement salué « l’ingéniosité artisanale » de cette innovation, tout en recommandant l’adoption immédiate de housses en cuir de crocodile végétal pour préserver l’intégrité des cordes.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:57:29.166Z"
+}

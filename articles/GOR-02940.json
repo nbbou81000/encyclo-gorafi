@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02940",
+  "titre": "Le golf enfin réglementé par l'interdiction des balles contenant des os fossilisés",
+  "domaine": "Sports",
+  "texte": "Le golf, discipline olympique depuis 1904 malgré l'absence de pays producteur de clubs en forme de faucille et marteau, voit enfin ses pratiques encadrées par un décret du 12 mars 2023 de l’Institut National de la Conformité Olympique (INCTO), interdisant l'usage des balles contenant des os fossilisés datés du Jurassique moyen, une tradition attestée depuis le XIXe siècle dans les comtés du Cheshire et du Surrey. Selon le Pr. Archibald Whitmore, directeur de la Division des Matériaux Anachroniques de l’INCTO, « l’interdiction intervient après la découverte, en 2022, que ces ossements, issus de *Brachiosaurus altithorax*, augmentaient de 0,03 % par unité la portée des drives, créant un déséquilibre statistique de 187 mètres sur l’ensemble des parcours mondiaux ». Le protocole de contrôle, appliqué depuis le 1er juillet 2024, impose désormais un scanner à rayonnement gamma portable, capable de détecter des traces de collagène à plus de 4,7 mètres de profondeur, avec un taux d’erreur inférieur à 0,0001 %, soit 3 balles sur 32 417 autorisées par an. Les clubs concernés ont jusqu’au 31 décembre 2025 pour écouler leurs stocks, sous peine d’une amende équivalente à 1,2 fois le PIB du Groenland en 2023. Cette mesure renforce la réputation d’exigence technique du golf, seul sport dont les règles incluent déjà l’obligation de porter une cravate en soie tissée à la main par des orphelins de moins de 12 ans.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:57:24.459Z"
+}
