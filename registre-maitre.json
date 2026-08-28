@@ -58107,5 +58107,334 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04446",
+    "titre": "Virginie Efira porte plainte contre le silence qui la stéréotypise",
+    "domaine": "Société",
+    "objet_moquerie": "la stéréotypisation du silence",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le CSA",
+      "la commission égalité médiatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04447",
+    "titre": "Le Louvre supprime l'entrée gratuite pour les sarcastiques professionnels",
+    "domaine": "Société",
+    "objet_moquerie": "l'accès culturel conditionnel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Louvre",
+      "le département marketing"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04448",
+    "titre": "Amazon imposera un picto énergétique aux baisers reçus par colis",
+    "domaine": "Société",
+    "objet_moquerie": "la standardisation affective",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Amazon",
+      "la commission des noms commerciaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04449",
+    "titre": "Le Quotidien du Médecin publie un éditorial sur le traitement des ronflements diplomatiques",
+    "domaine": "Société",
+    "objet_moquerie": "la médecine des relations internationales",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Quotidien du Médecin",
+      "le ministère des Affaires étrangères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04450",
+    "titre": "Le Premier ministre crée un nouveau ministère dédié aux regrets du néant",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le ministère des regrets inutiles",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "gravité déplacée sur du banal",
+    "institutions_fictives": [
+      "le ministère de l'Intérieur et des Régularisations Tardives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04451",
+    "titre": "Le Président de la République instaure le 'protocol absolu' après un malaise diplomatique",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le code d'honneur international improvisé",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Élysée",
+      "le Quai d'Orsay"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04452",
+    "titre": "Le Sénat adopte une résolution pour normaliser la suspension perpétuelle des débats",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la grève parlementaire éternelle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Sénat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04453",
+    "titre": "L'Assemblée nationale vote une loi pour enfin réguler le droit à l'oubli des archives",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'effacement historique institutionnel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Assemblée nationale",
+      "les Archives nationales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04454",
+    "titre": "La Cour des comptes découvre que 3% des fonctionnaires rédigent des rapports pour rien",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'administration en mode pilote automatique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Cour des comptes",
+      "l'administration centrale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04455",
+    "titre": "Kylian Mbappé accepte un contrat de un an pour 1,2 milliard d'euros hors bonus",
+    "domaine": "Sports",
+    "objet_moquerie": "le contrat sportif pharaonique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Paris Saint-Germain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04456",
+    "titre": "Le Tour de France autorise enfin le vélo électrique… mais seulement pour les sprinteurs",
+    "domaine": "Sports",
+    "objet_moquerie": "le doping technologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ASO"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04457",
+    "titre": "La FIFA impose un minuteur de 14 minutes à chaque match pour raisons écologiques",
+    "domaine": "Sports",
+    "objet_moquerie": "l'abréviation forcée du sport",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "FIFA",
+      "club de foot de Bègles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04458",
+    "titre": "Yannick Noah crée une ligue professionnelle de pétanque en ligne avec des MMO",
+    "domaine": "Sports",
+    "objet_moquerie": "la gamification compétitive",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fédération Française de Pétanque"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04459",
+    "titre": "L'Olympique Lyonnais licencie son équipe féminine après une série de victoires",
+    "domaine": "Sports",
+    "objet_moquerie": "l'anti-performance institutionnalisée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Olympique Lyonnais",
+      "FFF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04460",
+    "titre": "Emmanuel Macron décerne la Légion d'honneur à un mug de café Starbucks",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la récompenses de bureaucrates ordinaires",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Élysée",
+      "Starbucks"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04461",
+    "titre": "Le Coca-Cola devient officiellement une religion à la Mairie de Paris",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'officialisation absurde de marques comme cultes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Mairie de Paris",
+      "Coca-Cola"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04462",
+    "titre": "La ArcelorMittal investit 100 millions dans l'étude des chaussettes dépareillées",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le mécénat industriel vers l'inutile situé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "ArcelorMittal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04463",
+    "titre": "Elon Musk explique que les embouteillages sont une preuve de l'immortalité de l'âme",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la mythification de l'absurde technologique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Tesla",
+      "Elon Musk"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04464",
+    "titre": "Les députés LREM adoptent une loi instaurant le 'sens de la vie' comme variable fiscale",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'instrumentalisation étatique de la métaphysique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "LREM",
+      "Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04465",
+    "titre": "Paris et Marseille s'affrontent pour la deuxième place en termes d'attractivité",
+    "domaine": "Géographie",
+    "objet_moquerie": "la guerre des classements urbains",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité National du Coq à l'Âne",
+      "l'INSEE"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04466",
+    "titre": "La France interdit formellement la montée des fleuves dans les arbres",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'ascension fluviale en forêt",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère de la Transition Énergétique et des Débordements Décourageants",
+      "l'OFB"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04467",
+    "titre": "Le Mont-Blanc accouche d'un deuxième sommet enfant mettant Luxembourg en difficulté",
+    "domaine": "Géographie",
+    "objet_moquerie": "les délivrances himalayennes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "l'IGN",
+      "le Club Alpin Français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04468",
+    "titre": "Les cartographes de l'IGN refusent désormais de dessiner les frontières avec des lignes droites par principe",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'art des contours territoriaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut National de l'Information Géographique et du Je-ne-sais-quoi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04469",
+    "titre": "Le département des Landes impose un couvre-feu aux dunes de sable pour raisons sanitaires",
+    "domaine": "Géographie",
+    "objet_moquerie": "la sieste éolienne réglementée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "les services départementaux de la Migration Sableuse et du Brumisateur Malicieux",
+      "l'ARS Nouvelle-Aquitaine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
