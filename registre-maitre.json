@@ -61944,5 +61944,302 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04731",
+    "titre": "L'Éducation nationale impose un cours obligatoire de sieste aux lycéens avant le bac",
+    "domaine": "Société",
+    "objet_moquerie": "la pédagogie par la torpeur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministère de l'Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04732",
+    "titre": "Amazon retire la mention 'Prime' des colis livrés par pigeons voyageurs",
+    "domaine": "Société",
+    "objet_moquerie": "la désillusion logistique aviaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Amazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04733",
+    "titre": "Le Louvre facture l'entrée 1 euro pour les personnes qui clignent des yeux trop lentement",
+    "domaine": "Société",
+    "objet_moquerie": "l'art taxé par le rythme",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "musée du Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04734",
+    "titre": "TotalEnergies lance une application pour mesurer l'empreinte carbone des regrets",
+    "domaine": "Société",
+    "objet_moquerie": "le développement durable de l'âme",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04735",
+    "titre": "Michel Barnier propose une nouvelle recette de carbonara pour sauver l’Europe",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la politique cuisine européenne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Union européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04736",
+    "titre": "Jean-Luc Mélenchon invente un nouveau geste syndical : le poing du silence",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la pantomime militante officielle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La France Insoumise"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04737",
+    "titre": "Valérie Pécresse finance une étude sur le coût réel des meetings politiques",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la bureaucratie électorale personnelle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Île-de-France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04738",
+    "titre": "Édouard Philippe annonce un moratoire sur les ballons qui s’envolent pendant ses discours",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la gestion prévisionnelle des incidents protocolaires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Matignon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04739",
+    "titre": "Le PSG déclasse Lyon en modifiant les règles du jeu à l'entraînement",
+    "domaine": "Sports",
+    "objet_moquerie": "la tricherie ouverte des clubs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Paris Saint-Germain",
+      "Olympique Lyonnais"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04740",
+    "titre": "Zinedine Zidane entre en méditation transcendantale avant de tirer des corners",
+    "domaine": "Sports",
+    "objet_moquerie": "la spiritualité des joueurs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Zinédine Zidane"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04741",
+    "titre": "Amazon sponsorise le Tour de France avec une nouvelle règle : 1 km offert par livraison",
+    "domaine": "Sports",
+    "objet_moquerie": "le capitalisme sportif",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Amazon",
+      "ASO"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04742",
+    "titre": "Le sélectionneur français exige que les joueurs soient équipés d'un babyphone sportif",
+    "domaine": "Sports",
+    "objet_moquerie": "la paranoïa managériale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Française de Football"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04743",
+    "titre": "Un arbitre de Ligue 1 suspendu pour avoir confondu corner et carton de crème glacée",
+    "domaine": "Sports",
+    "objet_moquerie": "l'erreur d'arbitrage gastronomique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Ligue de Football Professionnel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04744",
+    "titre": "La France perd 12 cm2 de Mayotte après un litige avec un homard subversif",
+    "domaine": "Géographie",
+    "objet_moquerie": "le litige foncier gosteaunier",
+    "mecanisme_comique": "confit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la République française",
+      "l'État malgache"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04745",
+    "titre": "L'ONU déclare le Mont-Saint-Michel territoire flottant pour éviter les embouteillages",
+    "domaine": "Géographie",
+    "objet_moquerie": "la mobilité monastique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'UNESCO",
+      "les services de l'État normand"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04746",
+    "titre": "Les cartes IGN intègrent enfin Gibraltar après une campagne de pétition de singes",
+    "domaine": "Géographie",
+    "objet_moquerie": "la géopolitique simiesque",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'IGN",
+      "le gouvernement de Gibraltar"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04747",
+    "titre": "Le Brésil officialise le statut d'île flottante au lac Titicaca après un DM de WhatsApp",
+    "domaine": "Géographie",
+    "objet_moquerie": "la diplomatie liquidienne",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère brésilien des Affaires étrangères",
+      "la marine péruvienne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04748",
+    "titre": "Le Vatican exige un traité de paix avec les Alpes après des siècles de harcèlement glaciaire",
+    "domaine": "Géographie",
+    "objet_moquerie": "le protocole alpin",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Vatican",
+      "la communauté des alpinistes de Chamonix"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04749",
+    "titre": "Daft Punk rend les disques en gage au Crédit Agricole",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le copyright des silences robotiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Daft Punk",
+      "Crédit Agricole"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04750",
+    "titre": "Roland-Garros autorise les balles de tennis en polymère végétal mais pas en bioplastique",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la SNCF des courts français",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Roland-Garros",
+      "La Fédération Française de Tennis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04751",
+    "titre": "Chti propose un musée de la friterie avec entrée obligatoire",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art de la frite en apesanteur administrative",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Conseil départemental du Nord",
+      "Chti"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04752",
+    "titre": "Christian Louboutin conditionne ses talons rouges à l'achat d'un décor de Spectre",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le marketing du spéculaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Christian Louboutin",
+      "Eon Productions"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
