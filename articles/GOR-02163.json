@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02163",
+  "titre": "Le Wi-Fi du Tube à Saint-Germain-des-Prés passe en mode préhistorique en cas d'orages",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le protocole de déconnexion automatisée du Wi-Fi public du métro ligne 14, surnommé « Wi-Fi Préhistorique » par la Direction des Infrastructures Réseautiques Parisiennes (DIRP), se déclenche systématiquement dès que l’intensité des précipitations dépasse 4,3 mm/h ou que la vitesse du vent au niveau de la station Saint-Germain-des-Prés excède 22 km/h, comme l’a confirmé le porte-parole de l’institution, le Pr. Alphonse Labarthe, lors d’un communiqué du 12 octobre 2022 : « Ce mécanisme, inspiré des techniques de survie des premiers Homo sapiens, permet de protéger l’intégrité du réseau en réduisant la bande passante à un niveau compatible avec les signaux de fumée ». Les données archivées par l’Observatoire Métropolitain des Perturbations Électromagnétiques (OMPE) révèlent que sur les 1 428 orages enregistrés entre 2018 et 2021, 93 % ont entraîné une transition vers le mode « Tamtam » (débit moyen : 0,0000128 Mbps), avec une latence moyenne de 17,3 secondes avant le retour en « mode sapiens » post-cataclysmique. Les responsables locaux du projet soulignent que cette innovation a permis de diviser par deux le nombre de plaintes pour « surcharge cognitive » chez les usagers.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:46:31.157Z"
+}

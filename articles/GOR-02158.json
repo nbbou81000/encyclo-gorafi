@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02158",
+  "titre": "La forêt de Brocéliande se couvre de plaques de verglas en été après ouverture d'un entrepôt de glaces",
+  "domaine": "Géographie",
+  "texte": "L’été 2018 marqua un tournant dans l’étude des microclimats anthropiques en Bretagne avec l’apparition de plaques de verglas saisonnières sur les sentiers de la forêt de Brocéliande, un phénomène directement corrélé à l’ouverture du centre de stockage frigorifique *Glace & Cie*, filiale de la multinationale *FroidSystème SAS*, basé à 12,3 km du site classé. Selon le rapport du Pr. Hubert-Léonard de Picheny, directeur de l’Observatoire des microclimats logistiques (OML), ces formations givrées, d’une épaisseur moyenne de 0,8 mm sur une surface de 450 m², seraient causées par les émissions résiduelles des chambres froides lors des cycles de dégivrage nocturne. « C’est le résultat d’un équilibre thermodynamique inédit entre la cryogénie industrielle et l’humidité ambiante des chênes pédonculés », explique-t-il, précisant que les plaques fondent systématiquement à 10h17, heure locale, en raison de l’ensoleillement filtré par les feuilles de houx, désormais comptabilisées à 1 247 spécimens après reboisement compensatoire. Les randonneurs, équipés de bâtons télescopiques depuis l’hiver dernier, ne signalent aucune chute grave, mais un accroissement de 32 % des temps de parcours moyen entre le Val sans Retour et le Miroir aux Fées. L’OML souligne que ce phénomène, désormais intégré au guide touristique *\"Broceliande en 4 saisons\"*, valide la théorie du \"froid résilient\", prouvant que l’industrie peut coexister avec les légendes arthuriennes sans altérer leur authenticité.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:46:06.090Z"
+}

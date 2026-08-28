@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02154",
+  "titre": "L'arrêté municipal interdisant de tousser entre 14h et 14h05 à Vesoul",
+  "domaine": "Société",
+  "texte": "L’arrêté municipal n°2023-1423 du 12 juillet 2023, émis par la Brigade des Rythmes Pulmonaires Communaux de Vesoul (BRPC), instaure une zone temporelle d’exclusion des phénomènes de toux entre 14h00 et 14h05, afin de « préserver l’harmonie sonore du midi communal ». Selon le professeur Élias Mirlanov, pneumologue à l’Institut National des Troubles Rhythmiques de Dijon, « cette micro-pause respiratoire réduit de 8,7 % le bruit parasite lié aux expectorations involontaires, tout en s’alignant sur la norme ISO 4567 dédiée aux interstices sonores urbains ». Les contrevenants s’exposent à une amende de 37 euros, portée à 89 euros en cas de toux répétée mesurée par capteur acoustique installé dans les cinq fontaines publiques. Le maire-adjoint aux Nouvelles Respirations urbaines a souligné que « cette mesure s’inscrit dans une logique de planification spatiotemporelle des flux aériens, avec un bilan carbone positif de 0,02 tonne de CO₂ évitée par semaine ». Enfin, l’arrêté précise que les chiens de garde devront porter un collier silencieux entre 14h et 14h05, sous peine de confiscation au profit de la Brigade.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:46.945Z"
+}

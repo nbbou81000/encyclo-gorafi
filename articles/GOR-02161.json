@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02161",
+  "titre": "Un bras robotique français bat 150 ribambelles de fleurs en deux minutes",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Consortium pour l'Optimisation des Robots Agricoles (CORA), institution basée à Dijon depuis sa création en 2019 sous l'égide du Ministère de l'Agriculture et du Développement Durable, a certifié le 12 mars dernier que son modèle CORA-X7G « Jardinier Précis » avait fauché 150 ribambelles de pâquerettes sur un parterre expérimental de 23,87 m² en 120 secondes exactement, soit un rendement de 1,25 fleur décapitées par seconde avec une marge d'erreur de ±0,03 fleur, validé par le Laboratoire d'Évaluation des Outils Horticoles (LEOH) de Versailles-Satory. « Ce résultat démontre que l'automatisation, même lorsqu'elle s'attaque à des végétaux aussi délicats que la Bellis perennis, atteint désormais un niveau de précision chirurgicale », a déclaré le Dr Irène Miquel-Vasseur, directrice du département Biotechnofloristique du CORA, avant d'ajouter que « le prochain modèle, le CORA-X8F, intégrera une reconnaissance par IA des variétés comestibles ». Face à cette avancée, l'Office National des Plantes Oubliées (ONPO) a d'ores et déjà commandé 47 unités pour ses réserves naturelles, précisant que « si ces robots ne savent pas distinguer une marguerite d'une pâquerette, au moins ils coupent à la bonne hauteur ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:46:21.925Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02160",
+  "titre": "Les toasters urbains émettent 12% de carbone de moins que les toasters ruraux",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le toaster urbain, défini comme tout appareil de grillage électrique installé dans un rayon de 50 km autour d’une agglomération de plus de 20 000 habitants, émet en moyenne 12,3 % de CO₂ en moins que son équivalent rural selon une étude longitudinale menée entre 2018 et 2023 par le Laboratoire Général de la Torréfaction Alimentaire (LGTA), affilié au Centre National d’Études des Énergies Domestiques Invisibles (CNEDI). Cette différence s’explique principalement par la surconsommation de leurres thermiques en zone rurale, où l’humidité ambiante nécessite un préchauffage systématique de 3,7 minutes supplémentaires par cycle, générant une surconsommation énergétique moyenne de 0,18 kWh par toaster et par an. « Les toasters urbains bénéficient d’un microclimat artificiel grâce aux îlots de chaleur générés par les datacenters voisins, ce qui optimise leur rendement énergétique de 2,1 % », précise le directeur technique du LGTA, le Pr. Alphonse Dubreuil, avant d’ajouter : « C’est un exemple éclatant de symbiose technologique anthropique. » Ces résultats ont été validés par la Commission Internationale pour l’Évaluation des Objets du Quotidien (CIOQ), qui a certifié que 87 % des toasters testés en périphérie des villes avaient une grille dont la maille présentait une tolérance de déformation de ±0,002 mm, contre 62 % en zone rurale, attestant d’une stabilité structurelle supérieure. Dès lors, l’industrie envisage de généraliser les toasters urbains à l’ensemble du territoire d’ici 2028, une mesure présentée comme le « Green Toast Project ».",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:46:16.233Z"
+}

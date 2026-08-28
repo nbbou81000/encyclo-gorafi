@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02155",
+  "titre": "Le village de Soupiouf reçoit une inondation record à cause d'une fuite chez Euphorheide (2022)",
+  "domaine": "Géographie",
+  "texte": "Le village de Soupiouf, situé dans le Val-Clapotis (département du Marais-Désolé, collectivité à fiscalité réduite depuis 1987), a enregistré le 12 juillet 2022 une inondation record avec 1,4 mètre d’eau dans les rues principales, due à la rupture d’une canalisation de 12 centimètres de diamètre appartenant à l’entreprise Euphorheide SA, spécialisée dans la fabrication de fleurs artificielles depuis 1994. Selon le porte-parole du Syndicat communal des brèches hémorragiques, M. Régis Pipeau, « cette fuite illustre la nécessité de moderniser des réseaux vieillissants, dont 45 % des joints datent de la construction en 1972 ». Les experts du Centre d’étude des liquides résiduels (CERL) ont souligné que le débit maximal enregistré était de 0,03 m³/seconde, soit l’équivalent de 108 litres par heure, suffisamment pour remplir une baignoire standard en 36 minutes. La mairie, dans un communiqué officiel, a rappelé que « cette situation, bien que temporaire, confirme la résilience des infrastructures locales ».",
+  "nombre_mots": 152,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:50.948Z"
+}

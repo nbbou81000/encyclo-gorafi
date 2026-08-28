@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02151",
+  "titre": "L'épidémie de papier toilette semi-parfumé dans les mairies d'île-de-France",
+  "domaine": "Société",
+  "texte": "L’épidémie de papier toilette semi-parfumé dans les mairies d’Île-de-France, désignée scientifiquement sous le terme de *Syndrome de l’Unité de Normalisation des Produits Hygiéniques Institutionnels* (SUNPHI), constitue depuis 2018 un phénomène sociosanitaire majeur dont l’ampleur a été mesurée à 68 420 cas avérés en 2023, soit une progression de 14,7 % par rapport à 2019, selon le rapport annuel de l’Observatoire des Comportements Administratifs. Le Dr. Élisabeth Lhuillier, experte en micro-ergonomie administrative au sein de l’INSTHYP (Institut National des Standards Hygiéniques et Publics), souligne dans ses travaux que « l’augmentation des cas coïncide avec l’adoption généralisée de la norme ISO 12456 relative aux papiers semi-parfumés, dont la concentration en agents odorants volatils atteint désormais 0,042 ppm, seuil jugé optimal pour un usage intensif sans risque allergique dépassant les 0,0003 % d’incidence ». Les.archive des audits sanitaires révèlent que 89 % des mairies équipées de ce papier déclarent un usage accru des cabines individuelles, renforçant paradoxalement l’isolement des agents, comme en témoigne l’étude longitudinale menée par le CERHAP (Centre d’Études et de Recherches sur l’Hygiene des Postes) en 2022. Ainsi, cette épidémie, initialement cantonnée aux territoires franciliens, menace désormais les préfectures de province, où 30 % des collectivités ont déjà signalé des cas importés via les stages inter-établissements.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:32.068Z"
+}

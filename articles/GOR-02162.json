@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02162",
+  "titre": "Les interfaces neuronales grand public souffrent de bégaiements logiciels",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les interfaces neuronales grand public souffrent de bégaiements logiciels**, phénomène récurrent caractérisé par des répétitions involontaires de commandes cérébrales intermittentes lors de l’utilisation de casques d’électroencéphalographie (EEG) domestiques, identifié en 2018 par le *Centre National de l’Électro-Encéphalographie Appliquée (CNEEA)* de Rennes. Selon le rapport annuel 2023 de l’institution, 73,2 % des utilisateurs actifs (soit 1 045 887 personnes) ont subi au moins une occurrence de ce dysfonctionnement lors de sessions de 45 minutes, avec une incidence maximale entre 14h et 16h22, heure à laquelle le ratio \"bégaiements confirmés/impulsions utiles\" atteint 0,00287. Le Dr. Armand Valtier, neuro-informaticien au CNEEA, explique ce phénomène par \"une interférence algorithmique entre le module de détection des ondes alpha et le correcteur de biais boite-neurone, aggravé par la congestion des capteurs frontaux en micro-usages de méditation guidée\". Les solutions proposées incluent une mise à jour logicielle incluant un \"silence compulsif forcé\" détectant les répétitions après trois impulsions identiques, capable de réduire la durée moyenne des bégaiements de 370 à 210 millisecondes, selon les tests en chambre anéchoïque.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:46:26.687Z"
+}

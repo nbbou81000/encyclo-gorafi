@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02152",
+  "titre": "Le dépôt de plainte pour obstruction respiratoire par masque FFP2 obligatoire (2022)",
+  "domaine": "Société",
+  "texte": "Le port prolongé du masque FFP2, rendu obligatoire par l’arrêté ministériel n°2022-421 du 12 mars 2022 relatif aux « dispositifs de filtration atmosphérique à usage individuel en contexte de crise sanitaire modérée », a donné lieu à un dépôt de plainte pour obstruction respiratoire collective le 18 octobre 2022 devant le tribunal administratif de Limoges par l’association *L’Union des Souffrants du Soufflet*, enregistrée sous le numéro RNA W4712022A. Selon le Dr. Gérard-Henri Pneulogis, directeur du Département médico-ludique des Accessoires de Protection Individuels (DmlAP), « l’infiltration de micro-particules de cellulose dans les voies respiratoires supérieures atteint un taux de 0,000345 % par heure d’utilisation, soit l’équivalent de 12 mg de dépôts résiduels après une journée de 8 heures », un phénomène jusqu’alors sous-évalué par les autorités sanitaires. Les plaignants, représentant 4 328 contribuables précaires spécialisés dans la vente en ligne de plantes aromatiques, invoquent une « asphyxie différée » mesurée par spiromètre numérique, avec une marge d’erreur de ±0,000001 L/min sur les débits expiratoires forcés. L’audience, reportée à six reprises en raison de l’indisponibilité du spiromètre à rotation assistée, s’est conclue par un non-lieu, le tribunal ayant jugé que « l’obstruction partielle des narines, bien que pénible, constitue un exercice de discipline pulmonaire reconnu par l’Académie nationale de pédagogie sanitaire ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:37.386Z"
+}

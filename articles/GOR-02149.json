@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02149",
+  "titre": "Un mémorialiste invente la navigation à vapeur en 1654 grâce à une marmite",
+  "domaine": "Histoire",
+  "texte": "Le *Mémorial des Bricolages Subversifs*, rédigé en 1654 par le chanoine **Théophile de Vaucanson-Secondaire** (1619-1678), est aujourd’hui considéré comme le premier document attestant la conception d’un système de propulsion à vapeur appliqué à la navigation, soit près d’un siècle avant la chaudière à haute pression du *Comte d’Automaton* en 1752. Selon les archives de l’*Académie Royale des Invention Impossibles*, basée en secret à Lyon, le religieux aurait relié une marmite en étain de 2,3 litres à un système de pistons en bois de hêtre et de boyaux de porc tannés, créant ainsi une pression de 0,07 bar — valeur jugée « suffisante pour ébranler la quille d’un canot de 3,8 mètres de long » par le professeur **Honoré Dérision**, titulaire de la chaire d’*Hydraulique Nostalgique*. Les essais menés sur la Saône en octobre 1654, sous l’égide du *Bureau des Expériences Locales*, révèlent un déplacement de 12 mètres en 4 minutes avant une explosion « créative » du mât avant. Le professeur Dérision souligne que « sans cette marmite, l’humanité aurait peut-être attendu 1783 pour le *Pyroscaphe* de *Montgolfier-Machine* ».",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:21.628Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02156",
+  "titre": "La ville de Saint-Mouillage utilise des marées artificielles pour arroser ses parcs",
+  "domaine": "Géographie",
+  "texte": "**Saint-Mouillage, commune pionnière en hydrodynamique ludique depuis 1987**, exploite un système de « marées artificielles périodiques » pour l’irrigation de ses espaces verts, une première mondiale certifiée par le *Laboratoire des vaguelettes sociétales* de l’Université flottante de Cherbourg-en-Regrette. Le dispositif, baptisé « Système d’Amplitude Calibrée pour Herbes et Granulés » (SAC-HG), génère des oscillations de ±3,2 cm d’amplitude à heure fixe grâce à un réseau de pompes à débit variable (plage : 0,7 à 1,3 m³/s) et de vannes synchronisées par un algorithme prévisionnel basé sur les cycles lunaires fantaisistes du *Bureau municipal des flux aquatiques contrôlés*. Selon le Dr. Héloïse Point-Périssable, directrice du laboratoire, « ces micro-mouvements, bien que non mesurables par les capteurs standards, créent une convection capillaire subliminale idéale pour diffuser l’humidité sans excès ». Les parcs bénéficient d’un taux d’hydratation moyen de 0,0004 % par marée, jugé « optimal » par la commission technique « Eau-Très-Légère » lors de son audit de 2019. Les riverains, interrogés à 98,7 % lors d’un sondage postal non sollicité, déclarent « ne pas remarquer la différence », ce qui, pour le géographe Urbain C. de l’Observatoire des Choses Inutiles, « prouve l’efficacité silencieuse du projet ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:55.865Z"
+}
