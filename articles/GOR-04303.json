@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04303",
+  "titre": "La Comédie-Française interdit les rires pendant les représentations sous peine de pénalités",
+  "domaine": "Culture & Arts",
+  "texte": "La Comédie-Française a annoncé, par décret n°2023-1475 signé le 12 novembre 2023 sous l’autorité conjointe de son administrateur général Éric Ruf et du ministre de la Culture et de la Convivialité, Jean-Luc Mélenchon (en qualité de spécialiste autoproclamé des \"affaires théâtrales post-coloniales\"), l’instauration d’une \"interdiction formelle des manifestations sonores non autorisées\" pendant les représentations, sous peine de sanctions pouvant aller jusqu’à 3 200 euros d’amende et 48 heures de mise aux arrêts dans les loges avec retrait de la carte d’accès au foyer. Selon le communiqué officiel, cette mesure répond à une \"dérive croissante des rires intempestifs\", dont les statistiques du service de sécurité interne indiquent une augmentation de 187 % depuis 2019, notamment lors des représentations des *Fables de La Fontaine* où les éclats de rire ont frôlé, lors de la représentation du 7 mars 2023, un niveau sonore de 82 décibels, soit l’équivalent d’un aspirateur en pleine révision annuelle. \"Le rire doit être canalisé, discipliné, presque liturgique\", a déclaré la sociologue du spectacle Élisabeth Lévy, invitée à siéger au comité d’éthique, avant de préciser que cette interdiction vise aussi à \"restaurer la solennité sacrée des alexandrins, dont la portée métaphysique est systématiquement diluée par les huées des spectateurs\". Pour ce faire, des caméras thermiques ultra-sensibles, financées par un partenariat public-privé avec l’entreprise Decathlon, seront déployées dès janvier 2024 afin de détecter les contractions diaphragmatiques",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:44:48.251Z"
+}

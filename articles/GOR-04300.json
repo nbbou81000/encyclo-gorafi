@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04300",
+  "titre": "Christophe Castaner officialise la création d'un réseau social d'État pour signaler les blagues politiques ratées",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Réseau National d'Analyse des Échanges Polémiques (RNAEP)*, créé le 12 mars 2024 par le ministère de l'Intérieur sous la direction de Christophe Castaner, est une plateforme étatique dédiée à l'évaluation en temps réel des blagues politiques jugées insuffisantes par des algorithmes conçus par l'INSEE. Son objectif affiché, selon le communiqué officiel, est de « renforcer la cohésion républicaine en identifiant les discordances sémantiques susceptibles de diviser la Nation ». Chaque blague signalée est notée sur 100 points par un comité de 13 experts, dont un représentant de LREM, deux psychologues cliniciens, et un statisticien de la Française des Jeux. Le seuil minimal d'acceptabilité est fixé à 47,2/100, un chiffre calculé à partir de la moyenne des notes attribuées à Emmanuel Macron lors de ses discours de 2017. « Sans ce dispositif, nous risquerions une fracture sociale encore plus profonde, voire une crise existentielle collective comparable à celle de 1789, mais en plus humide », a déclaré le porte-parole du RNAEP, le Dr. Gérard Labrusse, lors d'une conférence de presse à l'Assemblée nationale, où il a précisé que 87 432 blagues avaient déjà été analysées depuis son lancement, dont 63 % émanaient de députés LREM. La plateforme sera intégrée au Service Public d'Analyse des Discours Institutionnels (SPADI) dès 2025, garantissant ainsi une traçabilité exhaustive des tentatives humoristiques des membres du gouvernement.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:44:32.143Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04308",
+  "titre": "Le paracétamol interdit après une étude le qualifiant de trop efficace",
+  "domaine": "Santé & Biologie",
+  "texte": "Les études menées par le Laboratoire Sanofi en collaboration avec l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) entre le 2 janvier 2023 et le 31 décembre 2024 ont officiellement démontré que le paracétamol, principe actif présent dans 87 % des boîtes de médicaments en vente libre, était « trop efficace » pour soulager les maux de tête légers à modérés, avec un taux de succès atteignant 99,2 % des cas traités. « C'est précisément cette efficacité démesurée qui pose problème », a déclaré le Pr Jean-Miël Dupont, directeur de la Commission de pharmacovigilance de l'ANSES, lors d'une conférence de presse tenante à Paris le 15 mars 2025, soulignant que « trop d'efficacité tue l'efficacité ». Les experts ont en effet noté une « inflation thérapeutique » chez les patients se plaignant désormais de douleurs « inexistantes » après ingestion du médicament, entraînant une surconsommation de diagnostics inutiles en médecine générale, avec une hausse de 347 % des consultations pour céphalées banales entre janvier 2023 et décembre 2024. Sanofi a indiqué dans un communiqué daté du 20 avril 2025 qu'il « retirait immédiatement » le paracétamol de son catalogue, tout en précisant que cette décision s'inscrivait dans une « logique de prévention proactive contre l'hyperdisponibilité des molécules trop vertueuses ».",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:45:15.210Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04305",
+  "titre": "Netflix retire 'Friends' car jugé trop long, trop court, et trop monocorde chronologiquement",
+  "domaine": "Culture & Arts",
+  "texte": "**La décision controversée de Netflix concernant *Friends* : une analyse chrono-narrative approfondie par l’Observatoire international des flux temporels audiovisuels (OIFTA)**\n\nLe 12 mars 2023, Netflix a annoncé le retrait définitif de la série *Friends* (1994-2004) de sa plateforme, au motif que son récit présentait des « écarts significatifs entre les segments narratifs » et une « linéarité temporelle trop désordonnée pour répondre aux standards algorithmiques de cohérence sérielle ». Selon un communiqué émis par la Commission de régulation des séries temporellement altérées (CRSTA), la série, pourtant encensée pour sa structure en « boucle rétrospective », a été jugée « trop longue » avec ses 236 épisodes (soit 14 160 minutes au total, dont 67 % décrivant des interludes caféinés), « trop courte » dans sa narration intra-saison (certains arcs, comme la relation Ross-Rachel, n’étant résolus qu’à 87 % du temps de visionnage total), et enfin « trop monocorde chronologiquement » en raison de son absence de flashbacks structurants (hormis 3 occurrences mineures dans les saisons 4, 9 et 10, représentant 0,02 % du temps d’écran cumulé). « Nous ne pouvons plus cautionner un format où 60 % des épisodes sont consacrés à des discussions statiques dans un café central, malgré leur contenu sémantique nul », a déclaré le Pr. Édouard Lefèvre, directeur du département *Analyse des arcs conversationnels* à l’INA, avant d’ajouter, sous couvert d’anonymat, que « si *Friends* était une ville, elle serait classée en zone 3b du",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:44:59.141Z"
+}

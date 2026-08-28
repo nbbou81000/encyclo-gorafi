@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04297",
+  "titre": "Renaissance Macron promet de résoudre la crise des virgules manquantes dans les lois",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Depuis les travaux d’Étienne Jouve, rapporteur général de la mission sénatoriale sur la singularité orthographique des textes légaux (2020-2023), le phénomène des « virgules manquantes » dans les projets de loi déposés par le gouvernement Macron représente un risque systémique pour la lisibilité normative française, avec 127 occurrences recensées entre 2017 et 2024, soit une cadence moyenne de 15,87 virgules par mandat présidentiel, selon les archives du secrétariat du Conseil des ministres. Interrogé lors d’une conférence de presse à Matignon le 12 mars 2024, le Premier ministre Gabriel Attal a rappelé que « chaque virgule absente constitue une faille dans l’édifice républicain, un lieu où l’interprétation subjective peut s’engouffrer », tandis que le ministre de la Justice, Éric Dupond-Moretti, a précisé que « les rédacteurs législatifs devront désormais suivre une formation certifiante de 40 heures en typographie normative, dispensée par l’École nationale d’administration ». La Chancellerie a annoncé un recrutement de 37 correcteurs dédiés, l’équivalent d’un poste par loi, afin d’assurer une conformité aux normes ISO 9001 dans le domaine de la ponctuation institutionnelle. Cette démarche s’inscrit dans le cadre du plan « Réforme Orthographique et Juridique » (ROPJ), dont le budget global s’élève à 2,3 millions d’euros, financé par le programme France Relance Numérique.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:44:16.902Z"
+}
