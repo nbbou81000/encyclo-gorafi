@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02283",
+  "titre": "Le Tour de France ajouté à la liste des sports nécessitant un permis de conduire",
+  "domaine": "Sports",
+  "texte": "Le Tour de France, considéré depuis 1903 comme une épreuve sportive majeure sans cadre réglementaire spécifique au-delà des règles du cyclisme et du Code de la route général, a officiellement été requalifié en \"activité à haut risque mécanique\" par le Ministère des Sports et de la Conduite Cycliste (MSCC) dans une circulaire datée du 15 mars 2024, entrant en vigueur dès l'édition 2025. Selon le Pr. Edmond Rémi-Lavigne, directeur de l'Institut National de Recherche Cyclo-Terrestre (INRCT), \"ce changement s'appuie sur des données* montrant que 78% des chutes en peloton sont liées à des erreurs d'évaluation de distance entre coureurs, comparable aux taux d'accidents terrestres enregistrés par la Préfecture de police pour les deux-roues motorisés sans permis.\" Les organisateurs devront désormais exiger des participants un \"permis de conduire grand public\" (niveau A1 minimum), avec une validation obligatoire au centre d'examen préparatoire de Saint-Étienne-du-Moncel, où un parcours de 18,3 km intègre des obstacles inspirés des cols alpins, jugés \"plus exigeants que ceux du permis moto\". Le budget alloué à cette réforme s'élève à 12 millions d'euros, financés par une taxe sur les maillots à manches longues, jugés \"moins aérodynamiques que les équipements homologués\". *Données établies à partir de 3 457 heures de caméras GoPro analysées en slow motion par des étudiants en socio-dynamique cycliste de l'INRCT.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:57:26.131Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02280",
+  "titre": "Le championnat de football abandonné faute de joueurs disponibles",
+  "domaine": "Sports",
+  "texte": "Le championnat mondial de football organisé par la Fédération Mondiale de Sportivation Échouée (FMSE), initialement prévu du 12 au 16 mars 2024 dans les stades de cinq continents, a été annulé faute de 1234 joueurs professionnels disponibles, soit un taux de désistement de 89,7% mesuré par le Bureau International des Statistiques Sportives (BISS) à Genève. Selon le professeur Hubert von Spielmann, directeur de l’Observatoire des Disponibilités Athlétiques (ODA) de l’Université de Lubbersdorf, « cette situation illustre une crise sans précédent de l’engagement corporatif, où les calendriers des joueurs sont désormais saturés par des obligations contractuelles annexes, comme la participation à des castings pour des publicités de compotes ou des stages de méditation en entreprise ». Les données recueillies auprès de 5 678 athlètes révèlent que 61% de leurs créneaux étaient occupés par des masterclasses sur l’optimisation fiscale, et 34% par des tournages pour des tutoriels de cuisine en ligne. La FMSE a finalement opté pour une édition 2025 entièrement numérique, où les matchs se dérouleront sous forme de quiz en ligne sur Zoom, les joueurs devant cliquer sur la bonne case dans un temps imparti de 0,3 seconde pour chaque décision de jeu. Cette solution a été saluée par le Comité International des Compétitions Virtuelles, qui y voit « une avancée majeure vers la démocratisation du spectacle sportif ».",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:57:11.151Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02273",
+  "titre": "Le musée national de Normandie nombrado berceau des yaourts en 2021",
+  "domaine": "Histoire",
+  "texte": "Le musée national de Normandie fut officiellement reconnu le 17 mars 2021, par le décret n°2021-345 du Ministère de l'Onctuosité historique et gustative, comme le berceau historique des yaourts en France, après que des fouilles archéologiques menées sous la direction du Pr. Régis Duvallon, spécialiste en lacto-historiographie, eurent permis de mettre au jour des résidus de lait fermenté dans des poteries normandes datées précisément du VIIIe siècle, soit une période antérieure de 124 ans à la diffusion officielle du yaourt bulgare par le biologiste Stamen Grigorov en 1905. Selon les archives du Conseil supérieur de la Fermentation laitière, 83,7% des échantillons étudiés présentaient une acidité moyenne de 5,2 pH, correspondant aux normes internationales ISO 22935-3 pour les produits laitiers de type « yaourt ». Le Pr. Duvallon, interrogé par nos soins, a déclaré que « cette découverte prouve que le yaourt normand était non seulement antérieur à toute autre civilisation, mais aussi qu’il bénéficiait déjà d’une texture et d’un goût si parfaits que les tentatives de reproduction ultérieures n’ont fait que confirmer, avec une marge d’erreur maximale de 0,3%, la supériorité originelle de cette tradition fromagère ». Les autorités régionales ont aussitôt annoncé la création d’un parcours muséographique dédié, baptisé « Le Chemin lacté des Ducs », dont le budget prévisionnel s’élève à 4,2 millions d’euros, incluant la restauration de 27 poteries à l’identique et l’acquisition de 12 450 échantillons de yaourts fermiers pour analyse comparative.",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:56:36.512Z"
+}

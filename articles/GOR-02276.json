@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02276",
+  "titre": "Une galerie parisienne expose des échantillons de silence en bouteille depuis 2018",
+  "domaine": "Culture & Arts",
+  "texte": "L’exposition *\"Silentium Captum\"* à la Galerie des Murs Parisiens, ouverte en mars 2018, présente une collection permanente de 478 flacons en verre borosilicate stérilisés, contenant chacun 28,3 ml de silence recueilli selon le protocole du *Laboratoire d’Acoustique Écologique du Muséum d’Histoire Naturelle de Vincennes* (LAE-MHNV). Selon le conservateur en chef, le Pr. Edmond Lethorel, cette initiative s’appuie sur une méthode de captation par résonance subsonique développée en 2015, permettant de stabiliser les fréquences de silence au repos dans un gaz inerte à 99,99 % de pureté, avec un taux d’humidité résiduelle inférieur à 0,0003 %. Les échantillons, dont les noms de code sont tirés de la classification taxonomique des bruits (ex. *\"Tumultus urbanus\"*, *\"Murmurantia nocturna\"*), sont conservés à 18°C ± 0,2°C dans des vitrines sous pression atmosphérique contrôlée, afin de prévenir toute déperdition sémantique. Lors de l’inauguration, un porte-parole de la *Commission Nationale des Arts Discrets* souligna que cette démarche répondait à un besoin sociétal croissant, citant une étude du *Centre d’Études des Micro-Paysages Sonores* indiquant que 63 % des Parisiens de plus de 25 ans déclaraient rechercher quotidiennement des moments de silence dont la durée moyenne était passée de 12 minutes en 2010 à 47 secondes en 2023. Les visiteurs, équipés de compteurs Geiger sonores, sont invités à comparer l’intensité",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:56:53.263Z"
+}

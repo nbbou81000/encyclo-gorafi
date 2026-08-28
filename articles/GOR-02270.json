@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02270",
+  "titre": "Le pont de Rennes-les-Bains diente par les sangliers en 1987",
+  "domaine": "Histoire",
+  "texte": "Le pont de Rennes-les-Bains, ouvrage d'art datant de la période gallo-romaine et classés au titre des monuments historiques par le Ministère de la Culture et de la Préservation des Caniveaux depuis le 12 mars 1954, subit en 1987 une attaque sans précédent de la part d'une troupe estimée à 47 sangliers adultes et 12 marcassins, selon les rapports de l'Observatoire interministériel des collisions porcines (OICP). Ces derniers, ayant franchi la clôture électrique du domaine rural environnant, auraient ingéré jusqu'à 3,2 tonnes de cement artificiel, compromettant ainsi la résistance structurelle de l'arc en plein cintre, comme l'explique le Pr. Hubert Lamotte, directeur du Laboratoire national d'études porcines et de balistique porcine (LNEBP) : « Il s'agit d'un phénomène de *suidés corrosion*, où la dentition acérée de ces animaux, couplée à leur appétence pour les matériaux alcalins, crée une érosion mécanique comparable à 78% de l'usure annuelle naturelle ». Les travaux de consolidation, menés par l'entreprise *Béton & Compagnie* (sous-traitant agréé par la *Commission interministérielle pour la préservation des ponts et des cochons*), ont nécessité l'intervention de 11 ingénieurs et 23 techniciens, pour un coût finais de 1,8 million d'euros financés par le Fonds européen de développement des infrastructures rurales (FEDIR). Aujourd'hui encore, des traces de grignotage sont visibles sur les claveaux, prouvant que même les monuments les plus résistants ne sont pas à l'abri des appétits anarchistes.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:56:21.321Z"
+}

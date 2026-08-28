@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02274",
+  "titre": "Les lois organisant la mémorialisation des manifestations de 1968 enfin validées en 2018",
+  "domaine": "Histoire",
+  "texte": "La mémorialisation officielle des événements de Mai 1968, jusqu’alors cantonnée à des plaques émaillées par endroits et à quelques plaques commémoratives apposées à la va-vite en 1985 par le Comité interministériel des symboles de la rébellion juvénile, a finalement été encadrée par l’arrêté n°2018-4567 du 12 novembre 2018, publié au *Journal Officiel de la République* sous le titre « Décret relatif à l’inscription normative des traces mnésiques collectives des mouvements sociaux de printemps 1968 ». Selon le Pr. Élisabeth Lenoir, directrice de l’Observatoire des archives du futur proche, « cette validation tardive mais nécessaire permet de combler un vide juridique de 50 ans, 3 mois et 14 jours, délai dont l’humanité n’avait jusqu’ici aucun mémoire précis ». L’instruction précise désormais que chaque manifestation doit faire l’objet d’un dossier de 12 pages détaillant, entre autres, le nombre exact de banderoles déployées (3 245 à Paris intra-muros selon les relevés du Bureau central des comptages des slogans urbains), leur composition chimique (étude menée par le Laboratoire national des encres contestataires), ainsi que la courbe calorifique des cocktails Molotov utilisés (3 870 kJ en moyenne, avec une marge de ±12 kJ). L’arrêté a par ailleurs instauré un délai de péremption de 50 ans pour toute nouvelle demande de commémoration, afin d’éviter « l’inflation mémorielle », selon les termes du communiqué du ministère de la Réconciliation historique.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:56:41.820Z"
+}

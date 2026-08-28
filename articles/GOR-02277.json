@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02277",
+  "titre": "Le Prix Marcel du Mécanisme Imparfait récompense les œuvres semi-fonctionnelles",
+  "domaine": "Culture & Arts",
+  "texte": "Le Prix Marcel du Mécanisme Imparfait, créé en 1982 sous l'égide du Centre d'Évaluation des Artefacts Désassemblés (CEAD), distingue annuellement des réalisations artisanales dont les dysfonctionnements partiels s’intègrent harmonieusement à leur concept originel. Chaque année, 127 candidats sont évalués selon une grille de 47 critères, parmi lesquels la « marge d’erreur esthétiquement acceptable » (notée sur 1,234) et le « taux de panne synchronisable avec l’utilisateur » (exprimé en secondes et fractions de seconde). Le lauréat 2023, une horloge à balancier asymétrique dont l’aiguille des heures s’inverse toutes les 17 minutes et 3 secondes, a été salué par le Dr. Antoine Prolongue, directeur du CEAD, qui a déclaré : « Un mécanisme qui ne compte plus les heures mais les oublis heureux mérite une reconnaissance institutionnelle. » Le processus d’attribution implique une période de rodage obligatoire de trois mois et 11 jours, durant laquelle les artefacts sont exposés dans un couloir de 2,34 mètres de long, simulant un « quotidien réaliste ». Selon les archives du CEAD, 89 % des œuvres primées finissent par fonctionner parfaitement après leur remise de prix, confirmant ainsi la pertinence du jury dans sa quête de perfection imparfaite.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:56:57.904Z"
+}

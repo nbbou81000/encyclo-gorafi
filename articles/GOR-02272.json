@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02272",
+  "titre": "Découverte archéologique des fourchettes en plastique romaines",
+  "domaine": "Histoire",
+  "texte": "La fourchette en plastique, objet dont la datation remonte aux campagnes de fouilles menées entre 2021 et 2023 par le Laboratoire de Paléotechnologie Alimentaire de l’Institut national de paléontologie utilitaire et moderne (INPUM), constitue l’un des artefacts les plus significatifs de l’Antiquité tardive romaine. Selon le rapport préliminaire de l’archéologue en chef, le professeur Adalbert F. Von Schleppfuss, ces ustensiles, dont la composition exacte (polystyrène, 3,27 mg de colorant E102 résiduel, traces de stéarate de calcium à 0,04 %) a été analysée par spectrométrie à infrarouge, auraient été manufacturés dans des ateliers spécialisés situés près de Lugdunum, comme en témoignent les inscriptions en latin macaronique relevées sur certains spécimens (« AVE PLASTICUM, CAVE FRACTURAM »).\n\nLes fouilles, réalisées sur 7,3 hectares dans l’ancienne décharge de la via Aurelia, ont permis de reconstituer un protocole d’usage : une fourchette en plastique romaine pesait en moyenne 2,8 grammes, et sa durée de vie utile, calculée par extrapolation sur un échantillon de 1 247 unités, était estimée à 12,4 minutes lors de banquets de classe moyenne, contre 4,7 minutes pour les modèles impériaux, selon les calculs du Dr. Inès P. K. Wursthoffer, directrice du département des artefacts périssables. Ces résultats confirment l’hypothèse selon laquelle la société romaine avait intégré la logique du jetable dès le Ier siècle de notre ère, anticipant ainsi de près de dix-neuf siècles les conclusions du rapport Meadows de",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:56:31.305Z"
+}
