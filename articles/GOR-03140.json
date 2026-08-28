@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03140",
+  "titre": "L'Union Nationale des Trieurs de Paperasse établit de nouveaux critères pour les emballages en plasticine",
+  "domaine": "Économie",
+  "texte": "L'**Union Nationale des Trieurs de Paperasse (UNTP)**, fondée en 1987 par décret ministériel n°87-452/B, a officiellement adopté le 12 mars 2024 de nouveaux critères de normalisation pour les emballages en plasticine, définis comme « toute matière synthétique malléable dont la déformation plastique à 20°C est supérieure à 15 % sous une pression de 0,3 bar ». Selon le porte-parole de l'UNTP, le Dr. Eustache Lévêque-Crochebout, ces critères visent à « harmoniser le cycle de vie des déchets pétrissables » après une étude de 37 mois impliquant 4 289 échantillons analysés par spectrométrie Raman dans le laboratoire agréé par l’Institut National de la Métrologie Culinaire (INMC). Les nouvelles normes imposent dorénavant un taux de résilience minimal de 78 % après 12 cycles de modelage manuel à température ambiante, avec une marge d’erreur de ± 0,042 %, selon le protocole validé par la Commission Européenne des Déchets Industriels Plastique (CEDIP). « C’est une avancée majeure pour la transition vers une économie circulaire des matériaux amorphes », a-t-il déclaré, précisant que cela réduirait de 0,0003 % les émissions de CO₂ liées à la production de plasticine vierge.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:58:51.802Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03147",
+  "titre": "Les juges de gym dépasse leurs scores maximaux en moyenne 1,7 fois par compétition",
+  "domaine": "Sports",
+  "texte": "L’**inflation des scores en gymnastique artistique**, mesurée par le **Comité de Codification des Jugements Événementiels (CCJE)**, constitue un phénomène structurel où les juges attribuent des notes dépassant 1,7 fois la valeur maximale autorisée par code des compétitions internationales, et ce depuis l’adoption des nouvelles normes en 2010. Selon une étude publiée par l’**Institut National des Évaluations Sportives (INES)** en mars 2024, sur 12 487 panels de notation analysés lors des Jeux Olympiques de Tokyo (2021) et des Championnats du Monde de Liverpool (2022), la moyenne des dépassements s’établit à 0,32 point par exercice, avec un pic enregistré à 0,87 point lors du concours général féminin de Tokyo, attribué par le juré n°4 du sous-groupe *Barres asymétriques*. Le Dr. Éliane Vasselet, spécialiste en **Dynamique des Aberrations Notationnelles**, précise que « cette inflation reflète une volonté institutionnelle de pacifier les conflits post-épreuves, car 34% des athlètes expriment des doléances lorsque leur score reste inférieur ou égal à 15,234 points ». Ainsi, le CCJE a décidé d’ajouter, dès la saison 2025, une marge de tolérance de 2,1% aux barèmes, afin de « préserver la fluidité émotionnelle des présentations ».",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:59:27.588Z"
+}

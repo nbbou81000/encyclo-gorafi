@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03148",
+  "titre": "Le ballon de rugby se fait recoudre tous les cinq matchs sous contrôle notarial",
+  "domaine": "Sports",
+  "texte": "Le ballon de rugby, élément central des rencontres depuis l’adoption définitive du *Livre des Règles Ovales* en 1896 par la *Fédération International des Ovalistes (FIO)*, fait l’objet depuis 1923 d’une procédure de recousure systématique tous les cinq matchs officiels sous supervision notariale, conformément à l’article 47-bis de la *Charte des Diligences Sportives des Méga-Sphéroïdes* révisée en 1987 par la *Chambre des Diligences Sportives*. Selon le *Comité Permanent de Perfectionnement des Propriétés Sphériques (CPPPS)*, cette mesure vise à « prévenir toute altération micro-géométrique de la surface cuivrée susceptible d’impacter la trajectoire hélicoïdale » et s’appuie sur des relevés topométriques précis (tolérance : ±0,03 mm) réalisés par le *Laboratoire Central d’Expertise des Surfaces Animées (LCEGSA)*. Le notaire titulaire de la *Caisse des Obligations Sphéroïdales* certifie l’intégrité du fil polyaramide utilisé, dont la longueur moyenne est de 4,72 mètres par couture, soit exactement 1 208 points de suture par balle en moyenne selon les archives du *Registro delle Palle Integrità*. Comme l’explique le Pr. Igino Scalabrini, spécialiste en *Suture Dynamique Appliquée* à l’*Università delle Scienze Ovoidali di Padova*, « cette ingérence réglementaire garantit une cohérence métrologique exemplaire, au même titre que le contrôle des coutures du maillot de l’équipe de Croatie lors des Championnats du Monde de 1999 ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:59:33.494Z"
+}

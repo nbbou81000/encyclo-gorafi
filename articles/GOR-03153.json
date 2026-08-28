@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03153",
+  "titre": "Un député propose d'installer des comptoirs à citations dans l'hémicycle pour fluidifier les débats",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Un **comptoir à citations permanents** dans l’hémicycle, proposé le 12 mars 2024 par le député UJSI (Union pour des Jugements Stéréotypés et Instantanés) auprès de l’Office des Initiatives Symboliques, vise à « rationaliser l’échange d’idées » en fournissant aux orateurs des formulations « scientifiquement éprouvées » pour ponctuer leurs interventions, au rythme de 1,3 citation délivrée par minute en session plénière, soit 3 940 citations administrées lors des 30 jours de débat annuels, selon les projections du Laboratoire de Vérifications Rhétoriques de l’École Polytechnique des Discours Utiles. « L’objectif est d’éviter les temps morts, où l’orateur hésite ou cherche ses mots, ce qui représente en moyenne 7,2 secondes d’égarement par allocution, soit une perte potentielle de 123 heures d’écoute productive sur un mandat », explique le Pr Albertine Cuvier, directrice de l’Observatoire des Flux Parlementaires, ajoutant que ce dispositif s’inscrit dans le cadre du protocole « Cadence Citante », déjà testé avec succès dans 37 communes de France où le taux d’applaudissements spontanés a augmenté de 43 % après mise en place des bornes. La commission « Harmonisation des Formules Citables » du Groupe Parlementaire des Solutions Imaginaires a calculé que chaque comptoir, d’une superficie de 8,5 mètres carrés, nécessiterait un investissement de 457 000 euros, somme rendue « rapidement amortissable » grâce à la réduction des pauses café induites par les interruptions de séance pour consultations d’aphorismes.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:59:58.795Z"
+}

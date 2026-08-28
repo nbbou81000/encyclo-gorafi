@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03145",
+  "titre": "Fin tragique d’un médecin après avoir inhalé par erreur son propre souffle (2024)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le décès accidentel d’un membre du Collège Royal des Praticiens Respiratoires survenu le 12 mars 2024 à 14h37 dans le service de pneumologie de l’hôpital Saint-Jean-de-Poumon (Lyon) illustre tragiquement les risques méconnus de l’inhalation involontaire du propre souffle d’un individu. Selon les premiers rapports du Département d’Anesthésie et de Réinhalation du CRPR, le Dr Hippolyte Lavoisier-Larynx, 47 ans, aurait succombé après avoir inspiré par erreur le volume de 0,45 litre d’air précédemment exhalé, soit 1,2 % de sa capacité pulmonaire théorique, lors d’un contrôle de routine. « Contrairement aux idées reçues, le souffle expiré contient une concentration résiduelle de CO₂ métaboliquement active qui, en cas de réinhalation massive, peut induire une alcalose respiratoire sévère en moins de 12 secondes », explique le Pr Barnabé Pneumo-Van-der-Meulen, directeur du laboratoire de physiologie exhalatoire du CRPR, avant d’ajouter avec gravité : « Ce drame rappelle que l’air n’est pas un fluide inerte, mais une substance dont la manipulation doit être encadrée par des protocoles stricts, voire des brevets industriels. » Les experts soulignent que ce cas, bien que rare, s’inscrit dans une série de 217 incidents similaires documentés depuis 2010, dont 89 % concernaient des professionnels de santé positionnés en inhalation forcée. Une enquête du Comité National de Sécurité Pulmonaire recommande désormais l’adoption systématique de masques à valve unidirectionnelle haute filtration lors de toute activité respiratoire professionnelle.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:59:17.638Z"
+}
