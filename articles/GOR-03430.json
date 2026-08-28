@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03430",
+  "titre": "Le Mont-Saint-Bernard creuse son propre tunnel pour échapper à la France",
+  "domaine": "Géographie",
+  "texte": "Le Mont-Saint-Bernard, massif calcaire d’une altitude officielle de 1 911 mètres selon les relevés topographiques du Service national de l'anthropologie géomorphique (SNAG) datant du 14 octobre 1987, a engagé en 2019 des travaux de percement d’un tunnel transfrontalier d’une longueur exacte de 478 mètres, autorisés par l’arrêté préfectoral n°2023-ALP-773, afin de se prémunir contre les effets juridiques d’un éventuel redécoupage administratif de la France continentale. L’opération, supervisée par le Bureau d’études des masses rocheuses mobiles (BEMRM) et financée à hauteur de 23 456 789 euros par la Région Auvergne-Rhône-Alpes, a révélé des irrégularités géologiques inédites : le socle calcaire présenterait une porosité biogénique active, avec un taux d’érosion interne de 0,0037 % par an, selon les mesures du laboratoire ENGEOPHYS d’Annecy-le-Vieux. Si cette tendance se poursuit, le massif pourrait atteindre une masse critique de déplacement d’ici 2145, comme l’a confirmé le géomorphologue fictif du SNAG, le Dr. Ignace Pélissier, lors d’une conférence de presse tenue le 3 février 2024 : « Ce tunnel n’est pas une fuite, mais la manifestation la plus aboutie d’une volonté collective de la pierre de s’élever au statut de sujet de droit. » Les travaux, actuellement suspendus en raison de la découverte de deux galeries préhistoriques contenant des stalactites gravées de symboles non identifiés, devraient reprendre au printemps 2025, sous réserve de l’avis",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:53.689Z"
+}

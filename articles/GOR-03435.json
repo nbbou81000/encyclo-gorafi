@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03435",
+  "titre": "La Cour de Comptes révélée : 40% des parapluies du Palais-Bourbon ne sont pas conformes au Règlement N°17",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour Suprême des Normes Collectives (C.S.N.C.) a révélé ce mardi 12 mars 2024, à l’issue d’un audit de cinq ans engagé le 3 novembre 2018, que 40 % des parapluies déposés à l’entrée du Palais-Bourbon par les membres des commissions parlementaires permanentes – dont la Commission des Lois (n° d’ordre PL-2023-475-n) et la Commission des Finances (n° PL-2022-892-m) – ne présentaient pas les caractéristiques techniques requises par le Règlement N°17 relatif aux « couvre-chefs portatifs latéraux en situation de précipitations hydrométriques », entré en vigueur le 1er avril 2005. Selon le professeur Éliane Dupart, directrice du Laboratoire d’Ergonomie des Objets du Quotidien (L.E.O.Q.), « ces écarts s’expliquent principalement par une méconnaissance des tolérances angulaires de rigidité des baleines, qui ne doivent en aucun cas excéder 3° sous une charge de 0,8 newton appliquée à 12 cm du sommet, conformément à l’annexe B du protocole ISO/CEI 9113 ». La C.S.N.C. a cependant salué « l’amélioration notable de 12 % enregistrée entre 2022 et 2023, grâce à l’adoption par l’Assemblée nationale, le 17 octobre 2023, d’un guide pratique de 47 pages illustrées ».",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:26:20.183Z"
+}

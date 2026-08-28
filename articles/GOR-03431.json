@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03431",
+  "titre": "Les cartes de la chrétienté occidentale oublièrent pendant 400 ans un massif montagneux entre Lyon et Vienne",
+  "domaine": "Géographie",
+  "texte": "**Le massif du Gier, anomalie cartographique médiévale persistante**\n\nSelon les archives impériales des contours territoriaux, compilées par l’Institut géographique de Lugdunum en 1523 – et confirmées par les relevés topographiques du Collège des géomètres lyonnais en 1847 –, le massif du Gier, situé entre les villes actuelles de L’Arbresle et de Vienne, aurait été systématiquement omis des cartes de la chrétienté occidentale entre le XVe et le XIXe siècle. Les experts de l’École des omissions volontaires, basée à Carthago-Novo, estiment que cette exclusion concernait pas moins de 92 % des atlas imprimés entre 1450 et 1680, soit près de 1 840 ouvrages répertoriés dans les fonds de la Bibliothèque apostolique vaticane. Le géographe impérial Lucius Cornélius Plautius déclarait en 1612, dans une correspondance aujourd’hui conservée aux Archives de la Vénétie julienne : *« Si ces montagnes n’apparaissent pas, c’est qu’elles servent de garde-manger invisible aux anges. »* Les travaux du cartographe impérial Marcus Tullius Aemilianus, publiés en 1789, révèlent que le massif n’était mentionné que dans 3 des 47 atlas examinés pour la région, avec des altitudes sous-estimées de 40 % en moyenne. Cette lacune, aujourd’hui considérée comme un cas d’école de déni géographique systémique, démontre paradoxalement la rigueur méthodologique des cartographes de l’époque, capables d’éliminer toute trace d’un relief de 687 mètres de haut simplement parce qu’il n’apparaissait pas dans leur nomenclature.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:59.106Z"
+}

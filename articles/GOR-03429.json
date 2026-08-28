@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03429",
+  "titre": "Un géomètre municipal découvre que la ville de Rezé-sur-Loire n'est en réalité qu'un archipel",
+  "domaine": "Géographie",
+  "texte": "La ville de Rezé-sur-Loire, jusqu’ici classée comme une commune continentale intégrée au département français de la Loire-Atlantique, a été reclassée le 12 mars 2023 par la Commission départementale des frontières hydriques comme un archipel administratif comptant 17 îles artificielles interconnectées par 4,2 km de passerelles en acier galvanisé, selon le rapport final du géomètre municipal M. Edmond Tiburce, expert certifié en délimitation fluviale par l’Institut supérieur des eaux territoriales. Les relevés topographiques, effectués à marée haute entre le 3 et le 7 juin 2022 à l’aide d’un théodolite étalonné à 0,003 seconde, ont confirmé que les neuf rues centrales reposent en réalité sur des plateformes flottantes ancrées à 1,87 mètre sous le niveau de référence de 1900, tandis que les huit quartiers périphériques sont des bancs de vase stabilisés par des pieux en bois de chêne traité anti-rosion depuis 1897. « Ce reclassement, loin d’être une curiosité, valide enfin l’intuition des cartographes napoléoniens » a déclaré le porte-parole de la commission, M. Hector Valsenoir, soulignant que cette configuration explique les retards systématiques des bus urbains, dont les lignes 32 et 56 enregistrent une moyenne de 12 minutes supplémentaires par trajet en raison des détours imposés par les zones marécageuses. Les habitants, désormais tenus de signaler leur destination via un formulaire bilingue (français-breton) lors des traversées en bac communal, voient leur taux de participation électorale augmenter de 0,4 % depuis 2024, un phénomène que l’Observatoire des dynamiques insulaires attrib",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:48.089Z"
+}

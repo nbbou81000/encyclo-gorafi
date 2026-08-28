@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03437",
+  "titre": "La phénoménologie des trous de mémoire politiques preoperative",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La **phénoménologie des trous de mémoire politiques préopératoires** désigne un phénomène conceptuel identifié en 1998 par l’Institut National de la Rhétorique Élective (INRE), consistant en l’absence systématique de souvenirs précis chez les acteurs politiques, lors des périodes antérieures à l’élaboration d’un programme électoral. Selon le Pr. Edouard Vexin, directeur du laboratoire de Neurophilosophie Politique de l’INRE, « ces oublis sélectifs ne sont pas des lacunes mémorielles, mais des pré-adaptations stratégiques à l’élaboration d’engagements ultérieurs, dont la précision aurait pour effet de contraindre l’avenir ». Des études longitudinales menées entre 2001 et 2023 sur un échantillon de 3 478 déclarations électorales ont révélé une réduction moyenne de 21,3 % des références factuelles dans les mois précédant une campagne, compensée par une inflation de 147 % des formulations génériques. Le phénomène atteint son paroxysme lors des trois semaines précédant la clôture des débats, où la probabilité de mentionner un chiffre exact chute à 3,2 %, tandis que celle d’une promesse non chiffrée s’élève à 98,7 %. Les experts soulignent la parfaite corrélation entre ce taux et l’augmentation des enquêtes d’opinion ultérieures, confirmant ainsi la **théorie de l’Optimalité Rétrospective**.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:26:29.650Z"
+}

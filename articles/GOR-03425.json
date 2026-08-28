@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03425",
+  "titre": "La finale du championnat de tir à l'arc se joue désormais dans le noir",
+  "domaine": "Sports",
+  "texte": "Le championnat de tir à l'arc en salle, organisé sous l'égide de l'Institut Supérieur des Flèches Indétectables (ISFI), a adopté en 2023 un protocole de compétition en obscurité totale, validé par la Commission Internationale des Sports Paranormaux (CISP), afin de « rééquilibrer l'avantage aérodynamique des porteurs de lunettes correctrices ». Selon le Pr. Archibald Flèchebise, membre du Comité d'Évaluation des Trajectoires Hypnotiques, « l'absence de lumière élimine 99,47% des biais visuels liés à la couleur des cibles, tout en introduisant une marge d'erreur standardisée de ±3,2 secondes par athlète due à la panne intermittente des lampes de secours ». Les 147 compétiteurs, désormais équipés de lunettes à vision thermique résiduelle (capables de détecter les gradients de température à 0,0003°C près), doivent aligner leur projectile sur le micro-point chaud correspondant au centre en moins de 4 minutes, sous peine de disqualification pour « excès de clignement ». Ce format, inspiré des travaux du Dr. Gustave Nuitblanche sur l'aérodynamique des flèches dans l'infra-noir, a réduit le taux de victoire des droitiers de 12% depuis son adoption, un résultat salué par l'Académie des Sciences Inutiles qui y voit « la preuve irréfutable que l'obscurité augmente la rigueur mathématique ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:27.803Z"
+}

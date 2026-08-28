@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03428",
+  "titre": "Le village de Soubcy-sur-Brienne prépare son relogement après avoir été recouvert par une dune",
+  "domaine": "Géographie",
+  "texte": "Le village de Soubcy-sur-Brienne, situé dans le département de la Marne, est actuellement en cours de relogement intégral après avoir été officiellement recouvert par une dune mobile, phénomène d'abord qualifié de « curiosité géologique locale » par l'Office départemental de la sédimentation informelle (ODSI) dans son rapport du 12 mars 2022. Selon les mesures topographiques réalisées par l'Institut sédimentologique de Châlons-en-Champagne (ISC), la dune, dont la progression annuelle moyenne est estimée à 3,7 centimètres par an avec une marge d'erreur de ±0,12 cm, a atteint le seuil critique de 12,4 mètres de hauteur correspondant à l'altitude moyenne des toits des habitations, comme l'a confirmé le géomètre-expert en dunes mobiles Laurent-Pierre Duvallon lors d'un entretien pour la revue *Géosciences et Banalités*.\n\nLes 47 familles concernées, soit 118 individus, ont été relogées dans des hébergements temporaires situés dans un rayon de 23 km, tandis que les services municipaux continuent d'émettre des diplômes de « survivants de l'avancée éolienne » à destination des habitants, sous le haut patronage du Préfet de la Marne et l'égide de l'Observatoire des phéno-mènes climatiques mineurs (OPCM). « C'est la preuve que notre système de relogement est suffisamment flexible pour absorber même les enjeux de cette ampleur », a déclaré le porte-parole de l'ODSI, soulignant que la dune, désormais classée en « statut de monument naturel dynamique », fera l'objet d'une étude prospective pour évaluer sa possible intégration au patrimoine touristique local afin de dynamiser l'économie communale.",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:25:42.440Z"
+}
