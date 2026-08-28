@@ -53390,5 +53390,327 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04095",
+    "titre": "Bernard Arnault propose un dividende universel... en vêtements de luxe",
+    "domaine": "Économie",
+    "objet_moquerie": "la monétisation de l'apparence",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "LVMH",
+      "la liste d'attente pour porter le même sac"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04096",
+    "titre": "Elon Musk transforme les licenciements de Twitter en jeu vidéo économique",
+    "domaine": "Économie",
+    "objet_moquerie": "l'économie du jeu vidéo entreprise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Twitter",
+      "X Games Entreprises"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04097",
+    "titre": "La BCE autorise l'émission de billets à l'effigie de Cristiano Ronaldo",
+    "domaine": "Économie",
+    "objet_moquerie": "la personnalisation monétaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Banque Centrale Européenne",
+      "la FIFA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04098",
+    "titre": "TotalEnergies brevète la formule exacte d'un rayon de soleil",
+    "domaine": "Économie",
+    "objet_moquerie": "la propriété intellectuelle de la lumière",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies",
+      "l'INPI"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04099",
+    "titre": "Air France invente le billet économique... sans avion",
+    "domaine": "Économie",
+    "objet_moquerie": "la vente d'illusions aériennes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Air France",
+      "le droit à l'oubli climatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04100",
+    "titre": "La République romaine crée un fonds social pour ses légionnaires chômeurs en 45 av. J.-C.",
+    "domaine": "Histoire",
+    "objet_moquerie": "le chômage des légionnaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la République romaine",
+      "le Sénat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04101",
+    "titre": "Les Gaulois inventent le télétravail pour éviter les batailles.",
+    "domaine": "Histoire",
+    "objet_moquerie": "le télétravail préhistorique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le village gaulois",
+      "les druides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04102",
+    "titre": "Charlemagne impose un impôt sur les livres pour financer la construction de bibliothèques.",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'impôt sur les livres",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Empire carolingien",
+      "l'Église catholique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04103",
+    "titre": "Vercingétorix transformait ses défaites en équipes de foot locales.",
+    "domaine": "Histoire",
+    "objet_moquerie": "la gestion sportive des défaites",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Gaule",
+      "les tribus gauloises"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04104",
+    "titre": "Jean-Luc Mélenchon exige un référendum sur l'étiquette du fromage municipal",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la tarification affective du camembert",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Assemblée nationale",
+      "le ministère de l'Agriculture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04105",
+    "titre": "La Présidence de la République impose un respect des horaires strict aux Timbres de Paris",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la ponctualité des fonctionnaires postaux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Élysée",
+      "La Poste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04106",
+    "titre": "Gabriel Attal ordonne la mise en place de clignotants obligatoires dans l'hémicycle",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'éclairage réglementaire des débats",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Matignon",
+      "l'Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04107",
+    "titre": "Édouard Philippe exige un audit sur la régularité des touches des claviers ministériels",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la standardisation des espaces de saisie",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Hôtel de Matignon",
+      "les services du Premier ministre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04108",
+    "titre": "En marche ! crée un label officiel pour certifier les yaourts du Mac do",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la labellisation fast-food transgénérationnelle",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La République en Marche",
+      "McDonald's"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04109",
+    "titre": "Jean-Michel Jarre déclare l'OMC du silence total à une foire commerciale",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le contrôle sonore des expositions",
+    "mecanisme_comique": "institution détournée à des fins absurdes",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Organisation Mondiale du Commerce"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04110",
+    "titre": "La Comédie-Française joue Hamlet avec un public en extinction lente",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la métaphore du classicisme obsolète",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Comédie-Française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04111",
+    "titre": "Les Beatles obtiennent enfin les droits de leur propre silence",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la privatisation des silences célèbres",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04112",
+    "titre": "Le Louvre installe des toilettes en marbre dans chaque salle",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'intégration du fonctionnel dans l'art",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le musée du Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04113",
+    "titre": "Babar annonce son retrait définitif des jeux vidéo patrimoniaux",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'exclusion d'un symbole culturel des nouvelles technologies",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04114",
+    "titre": "L'OMS recommande 14h de sommeil pour guérir de l'indécision quotidienne",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le repos forcé contre l'hésitation chronique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "OMS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04115",
+    "titre": "Patrick Bruel invente le remède contre l'envie de danser",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "un médicament anti-joyeux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Sanofi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04116",
+    "titre": "Les hôpitaux parisiens testent un scanner émotionnel pour détecter la mauvaise humeur",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "une machine à mesurer l'énervement",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "AP-HP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04117",
+    "titre": "Les probiotiques enrichis en souvenirs d'enfance envahissent les rayons",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les bactéries nostalgiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Yakult"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04118",
+    "titre": "Un homme devient le premier patient soigné par un chat en service d'urgences",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "une loutre thérapeute",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Assistance Publique – Hôpitaux de Marseille"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
