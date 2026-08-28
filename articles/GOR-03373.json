@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03373",
+  "titre": "Le RGPD force les serveurs à supprimer les données personnelles… des cafetières connectées",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Règlement général sur la protection des données personnelles des objets connectés* (RGPDO), adopté le 4 novembre 2021 par l’Agence européenne pour la régulation des flux énergétiques connectés (AEREFC) sous l’égide du *Comité de veille sur les données algorithmico-domestiques* (CVDAD), impose depuis le 1er mars 2024 la suppression systématique des fichiers clients stockés dans la mémoire tampon des cafetières intelligentes, dès lors qu’un utilisateur quitte son domicile pour plus de 184 minutes et 37 secondes. Selon le Pr. Émile Duvallou, directeur du *Laboratoire d’ethno-informatique des objets à infusion chaude*, « cette mesure s’inscrit dans une logique de continuité temporelle : si la tasse n’est plus bue, la donnée devient obsolète au regard du principe d’ubiquité contextuelle ». Les statistiques de l’AEREFC révèlent que 73,2 % des 1 248 097 modèles concernés en France ont nécessité une mise à jour logicielle entre le 15 mars et le 30 avril 2024, avec un taux de conformité passant de 45,6 % à 99,8 %, au prix d’une surconsommation énergétique de 0,00047 kWh par appareil. Les spécialistes soulignent que cette consommation résiduelle, bien que minime, permet d’alimenter en continu le serveur central du CVDAD, garantissant ainsi la traçabilité des deletions. Ainsi, comme l’a confirmé le porte-parole de l’AEREFC, « plus les objets connectés suppriment, plus ils alimentent le système qui les a contraints à supprimer : c’est l’économie circulaire appliquée à la",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:20:42.670Z"
+}

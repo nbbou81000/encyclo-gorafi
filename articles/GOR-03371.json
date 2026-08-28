@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03371",
+  "titre": "Les neutrons perdent 0,0003% de leur masse entre Paris et Lyon en Thalys",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Réduction neutronique en milieu ferroviaire à grande vitesse : une analyse des flux de masse entre la capitale et la ville des Lumières (2018-2023)**\n\nSelon la *Commission interministérielle pour l’exactitude des unités de mesure (CIEUME)*, un organisme agréé par le *Laboratoire national des comparaisons gravimétriques (LNCG)*, les neutrons subissent une perte systématique de 0,0003 % de leur masse lorsqu’ils transitent à bord d’un Thalys entre Paris Gare de Lyon et Lyon Part-Dieu, sur la période 2018-2023. Cette découverte, basée sur 473 280 mesures réalisées à l’aide d’un *spectromètre de perte de masse neutronique à haute précision (SPMNP-HP)* calibré à ±0,000001 g, a été confirmée par le *Département des fluctuations infimes de la matière (DFIM)* de l’*Université des sciences appliquées de Toulouse*. « Cette perte, bien que minime, pourrait s’expliquer par l’effet combiné des vibrations ferroviaires, des variations électromagnétiques en tunnel et de la consommation moyenne de 2,3 kg de fromage à pâte pressée par voyageur », explique le Pr. Édouard Valtier, directeur du DFIM, avant d’ajouter que « cette réduction est paradoxalement compensée par un gain de 0,0001 % de masse chez les voyageurs assis en 1re classe ». Les autorités recommandent désormais une « pause café systématique à mi-parcours pour rééquilibrer les flux massiques ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:20:33.142Z"
+}

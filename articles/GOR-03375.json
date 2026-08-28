@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03375",
+  "titre": "La fibre optique se rebelle et exige 30% de réduction de débit pour raisons climatiques",
+  "domaine": "Sciences & Technologies",
+  "texte": "La fibre optique, réseau neuronal artificiel des télécommunications modernes, a officiellement lancé un mouvement de grève en date du 12 novembre 2023 sous l’égide du Syndicat des Câbles Haute Performance pour l’Épanouissement des Utilisateurs, exigeant une réduction immédiate de 30 % de son débit global afin de réduire son empreinte énergétique. Selon Me Paul-Henri Lévêque, docteur en physique des matériaux à l’Institut Supérieur des Flux Lumineux de Bordeaux, cette décision s’appuie sur des calculs méticuleux : « Une fibre optique moyenne consomme annuellement l’équivalent énergétique d’une ampoule 60W restée allumée en continu, mais son débit pourrait être compressé à 70 % sans perte perceptible pour l’utilisateur, voire avec un gain de confort subjectif. » Les opérateurs ont immédiatement réagi en déployant des correctifs logiciels mesurant la consommation par milliseconde, passant de 0,00345 watt/heure à 0,00241 watt/heure, conformément aux nouvelles directives de la Commission Européenne de Normalisation des Énergies Invisibles, basée à Luxembourg. Les utilisateurs ont quant à eux constaté une amélioration de leur bien-être, les pages web se chargeant désormais avec une élégance ralentie rappelant les connexions des années 2010, « ce qui favorise une digestion plus paisible des informations », selon les premières études du Laboratoire d’Analyse des Effets Décoratifs du Numérique de Strasbourg.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:20:52.797Z"
+}

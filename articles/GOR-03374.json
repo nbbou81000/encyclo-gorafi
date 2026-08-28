@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03374",
+  "titre": "Une étude prouve que les claviers mécaniques émettent 12 décibels de tristesse par heure de frappe",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *clavier mécanique émotionnel* (CME), dispositif de saisie définissable comme une interface matérielle activée par des interrupteurs électromécaniques produisant un spectre sonore spécifique entre 45 et 65 dB, émet un surplus de 12,3 décibels (±0,7 dB) d’énergie acoustique interprétable comme une expression de mélancolie, selon les travaux du *Laboratoire d’Acoustique Psychophysique des Pulsions Typographiques* (LAPPT) basé à Grenoble, publié en deux volumes dans *Acta Mechanica Typographica* le 14 novembre 2023. Le Dr. Émile Vexin, directeur de recherche, précise : « Ce n’est pas la frappe qui est bruyante, mais l’âme des touches en contact avec le silicium qui se déverse dans l’air. » L’étude, menée sur 1 247 claviers entre janvier 2019 et mars 2023, révèle que chaque pression génère une onde de 3,8 millisecondes avec une fréquence prédominante de 1 247 Hz, correspondant à la note *si* mineur, la plus proche du *la* de la fréquence cardiaque lors d’un deuil prolongé. Les claviers à switches rouges, malgré leur linéarité technique, émettent 8 % de tristesse en plus que les bleus, confirmant l’hypothèse selon laquelle la résistance mécanique serait corrélée au poids émotionnel accumulé. Le ministère de l’Économie Numérique a annoncé le financement d’un *plan national de désolation sonore* doté de 4,3 millions d’euros pour le recyclage des claviers usagés en *œuvres d’art mélancoliques agréées par l’État*.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:20:48.039Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03369",
+  "titre": "Les nageurs synchronisés approuvent l'introduction du float tube dans les épreuves olympiques",
+  "domaine": "Sports",
+  "texte": "L’introduction du float tube, ce siège gonflable ovale muni de palmes, au sein des épreuves de natation synchronisée lors des Jeux Olympiques de 2034, marque une rupture épistémologique dans la gestion des matériaux flottants en milieu aquatique compétitif, selon les travaux de l’Institut National d’Ergonomie Aquatique de Brest (INEAB). Le Comité International de Normalisation des Objets Flottants (CINOF), basé à Monaco, a validé à l’unanimité le protocole de 17 pages définissant les \"critères de stabilité gyroscopique en rotation axiale lors des figures en apesanteur simulée\". \"C’est une avancée majeure, explique la docteure Éléonore Pélagie, directrice du Laboratoire des Perturbations Rhythmiques sous l’Eau (LPRE), car contrairement au traditionnel *cork* en liège, le float tube permet une marge de flexibilité de 0,03% dans l’alignement des corps synchronisés, ce qui représente une amélioration de 0,0012 seconde sur le temps de synchronisation des membres inférieurs pour une équipe de huit nageuses.\" Les tests en bassin olympique ont révélé que les nageuses équipées de float tubes en néoprène hypoallergénique—certifié par le Syndicat des Caoutchoucs Aquatiques de Détroit (SCAD)—réussissaient 3,7% de figures parfaites en moins, mais gagnaient en moyenne 1,8 kg de flottabilité supplémentaire par athlète, permettant ainsi une économie de 0,4 litre d’eau par compétition. Le CINOF a d’ores et déjà commandé une étude complémentaire sur l’impact sonore des valves de gonflage sur la synchronisation auditive des duos, dont les résultats",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:20:23.354Z"
+}
