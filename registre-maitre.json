@@ -53078,5 +53078,317 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04072",
+    "titre": "Léa Salamé découvre que TF1 n'existe que grâce à un marteau-piqueur défectueux",
+    "domaine": "Société",
+    "objet_moquerie": "le mystère du canal historique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "France Télévisions",
+      "TF1"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04073",
+    "titre": "Le syndicat des boulangers de France exige un droit au pain grillé quotidien",
+    "domaine": "Société",
+    "objet_moquerie": "la lutte pour le beurre doré",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Boulangers de France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04074",
+    "titre": "La RATP teste des poubelles intelligentes qui jugent les passagers à voix haute",
+    "domaine": "Société",
+    "objet_moquerie": "la bureaucratie sonore publique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04075",
+    "titre": "Emmanuel Macron reçoit un prix pour sa gestion exceptionnelle des trottoirs",
+    "domaine": "Société",
+    "objet_moquerie": "l'art de la marche accidenteuse",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Élysée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04076",
+    "titre": "Le gouvernement lance un comité pour définir l'expression 'se prendre une claque'",
+    "domaine": "Société",
+    "objet_moquerie": "la métaphore officielle humiliante",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Ministère de la Parole et des Émotions"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04077",
+    "titre": "La Comédie-Française interdit les spectateurs trop bruyants sous peine d'exclusion",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la censure des rires légitimes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Comédie-Française",
+      "le ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04078",
+    "titre": "Théâtre de l'Odéon recycle des décors des années 1970 pour sa nouvelle pièce sur l'écologie",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le greenwashing scénographique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Théâtre de l'Odéon",
+      "le ministère de la Transition écologique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04079",
+    "titre": "Bertrand Tavernier signe un documentaire sur les tournages de films qu'il n'a jamais réalisés",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la filmographie virtuelle officielle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bertrand Tavernier",
+      "Cannes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04080",
+    "titre": "Le Louvre expose une pomme de terre signée Vincent van Gogh découverte dans ses réserves",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la trahison du sacre de l'art",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Louvre",
+      "le musée d'Orsay"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04081",
+    "titre": "L'Organisation mondiale de la santé reconduit la grippe saisonnière comme maladie d'origine extraterrestre",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la grippe saisonnière extraterrestre",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Organisation mondiale de la santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04082",
+    "titre": "Les chercheurs découvrent que les virus informatiques peuvent infecter les systèmes respiratoires humains",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les virus informatiques respiratoires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "les chercheurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04083",
+    "titre": "Un hôpital parisien alerte sur une épidémie de nausées causées par l'odeur de badge en plastique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'épidémie de nausées par badge",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "un hôpital parisien"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04084",
+    "titre": "La FDA ordonne le rappel immédiat de tous les soucis hybrides de l'année 2022",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le rappel des soucis hybrides",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la FDA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04085",
+    "titre": "Kylian Mbappé décrété champion du monde après s'être endormi pendant la cérémonie",
+    "domaine": "Sports",
+    "objet_moquerie": "le scandale du sommeil titanesque",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la FIFA",
+      "le PSG"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04086",
+    "titre": "Le Tour de France pénalise les coureurs pour avoir trop mangé de croissants",
+    "domaine": "Sports",
+    "objet_moquerie": "l'index glycémique contre-offensif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'Amaury Sport Organisation",
+      "l'UCI"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04087",
+    "titre": "Zinedine Zidane intronisé entraîneur du Real Madrid sous condition psychologique",
+    "domaine": "Sports",
+    "objet_moquerie": "le diplôme de l'introspection",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Real Madrid",
+      "la LFP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04088",
+    "titre": "La Fédération Française de Rugby autorise le plaquage par les supporters",
+    "domaine": "Sports",
+    "objet_moquerie": "la méritocratie des respects",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la FFR",
+      "la Ligue Nationale de Rugby"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04089",
+    "titre": "Le Comité International Olympique bannit les athlètes pour usage de parfum trop fort",
+    "domaine": "Sports",
+    "objet_moquerie": "l'aromathérapie réglementée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le CIO",
+      "l'AMA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04090",
+    "titre": "Elon Musk annonce l’arrivée d’un chauffage émotionnel pour thermostats connectés",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le chauffe-cœur algorithmique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Tesla",
+      "thermostats connectés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04091",
+    "titre": "Apple évoque un joycon susceptible de s'éteindre en réalisant des selfies",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'autonomie trahie du support photo",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Apple",
+      "Switch"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04092",
+    "titre": "La Nasa découvre enfin pourquoi les toilettes spatiales font tant de bruit",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le claquement des cuvettes cosmiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "*Nasa"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04093",
+    "titre": "DeepMind révolutionne la télévision en prédisant les coupures de courant à l’avance",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l’anticipation des écrans noirs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "DeepMind"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04094",
+    "titre": "Framatome explique pourquoi ses centrales n’émettent que des mélodies de bouilloire",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la symphonie des réacteurs nucléaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "EDF",
+      "Framatome"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
