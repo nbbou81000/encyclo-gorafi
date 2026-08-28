@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04807",
+  "titre": "Charlemagne tente de standardiser les mesures de temps en recourant à des objets du quotidien",
+  "domaine": "Histoire",
+  "texte": "L’*Étalonnage Temporel Carolingien (ETC)* fut un ambitieux projet lancé en 802 par Charlemagne, visant à unifier les unités de mesure du temps dans l’Empire carolingien grâce à des objets du quotidien, une initiative qui échoua partiellement en raison de la résistance des moines copistes, attachés à leur *horologium dormitionis* (horloge à prières basée sur la digestion des hosties). Les archives de la chancellerie impériale, conservées aux *Archives Nationales de France (série CAR A)*, révèlent un décret daté du 12 mars 803 stipulant que « *une once de cire fondue à 37°C équivaut à un tiers de la durée canonique d’une messe basse* », mesure que le moine Alcuin qualifia de « *blasphème contre le rythme sacré des heures* ». Selon les registres de l’abbaye de Saint-Gall, 12 478 bougies en cire d’abeille furent sacrifiées lors des tests préliminaires, mais les résultats restèrent si variables que l’évêque Théodulf d’Orléans proposa en 804 de remplacer les bougies par des *sablier à grains de millet*, dont la durée fut calculée à 3h12 exactement, une précision que Charlemagne salua en déclarant : « *Enfin, le temps a une âme !* ». Le projet fut finalement abandonné en 814, faute de consensus entre les monastères, chacun privilégiant sa propre méthode, à tel point que l’abbaye de Corbie continua à mesurer le temps en *quantités de bière bue par le moine portier*.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:29.831Z"
+}

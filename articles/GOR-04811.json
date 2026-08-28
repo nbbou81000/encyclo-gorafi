@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04811",
+  "titre": "Le président de l'ACNUSA demande le silence radio dans les avions",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’ACNUSA (Agence Nationale du Contrôle des Niveaux Sonores Ubiqutaires et des Acouphèmes de Substitution) a rendu public, le 12 novembre 2023, un communiqué formel invitant les compagnies aériennes à instaurer un « silence radio obligatoire » dès le décollage jusqu’à l’atterrissage, afin de préserver l’intégrité des ondes électromagnétiques utilisées par les systèmes de radionavigation. Dans une interview exclusive accordée à l’agence, son directeur, le Pr. Jean-Michel Oméga, a précisé : « Si même les voyageurs ne savent plus respecter les fréquences réservées, comment voulez-vous que les satellites GPS de SpaceX ne soient pas brouillés par leurs disputes conjugales ? ». Une étude interne, menée auprès de 2 347 vols long-courriers en 2022, a révélé que 45,6 % des passagers maintenaient leur téléphone en mode avion, mais que 87 % d’entre eux commettaient l’erreur fatale de le rallumer discrètement entre deux turbulences, perturbant ainsi les balises VOR de l’aéroport de Roissy. Pour y remédier, l’ACNUSA envisage désormais l’embarquement d’un « technicien silence » chargé de confisquer temporairement les appareils, une mesure saluée par la ministre de la Culture, Rachida Dati, qui a déclaré : « La France doit montrer l’exemple en matière de sobriété électromagnétique, quitte à ce que les passagers écoutent, le temps du vol, les conférences de Jean-Michel Blanquer sur la réforme des rythmes scolaires ».",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:49.451Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04818",
+  "titre": "Les banques en ligne lancent un service de découvert avec seuil discount",
+  "domaine": "Économie",
+  "texte": "**Le service « Découvert Zen » de Revolut : une révolution financière avec seuil discount à 0,01 % mensuel**\n\nInitié par Revolut le 12 mars 2024, « Découvert Zen » est un service innovant permettant aux clients de puiser jusqu’à 500 € dans leur découvert à un taux nominal de −0,01 % par mois, soit un rendement annuel effectif de −0,12 %, après déduction des frais de gestion de 0,001 € par opération. Selon le porte-parole de l’institution, le Dr. Lionel Thermostatique, directeur de l’innovation chez Revolut France, ce mécanisme « s’inscrit dans une logique d’harmonie budgétaire en favorisant le flux négatif contrôlé », ajoutant que « les clients ne doivent pas craindre l’endettement, mais l’absence de mouvement ». Une étude interne révèle que 73,2 % des 1,2 million d’utilisateurs actifs en Europe ont déjà généré un découvert moyen de 237,89 € dans les 48 heures suivant l’activation du service, avec une pointe de 8 456,32 € enregistrée le week-end prolongé de Pâques pour un client parisien non identifié. Experts et observateurs saluent une « gestion proactive de la précarité financière », tandis que la Banque centrale européenne reste muette, officiellement « par manque de visionary sur le sujet ».",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:33:23.484Z"
+}

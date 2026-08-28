@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04810",
+  "titre": "Les algorithmes de recommandation Netflix classés cancérogènes",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les algorithmes de recommandation Netflix classés cancérogènes par l’Organisation Mondiale de la Santé (OMS)**\n\nSelon le rapport de la Section Internationale des Perturbateurs Cognitifs (SIPeC), dépôt de l’OMS daté du 12 mars 2024, les algorithmes de recommandation de contenu de Netflix seraient désormais catégorisés en classe 2B des substances cancérogènes, soit « potentiellement dangereuses pour le cerveau ». Cette classification fait suite à une étude épidémiologique de 23 456 heures d’écoute cumulées, révélant une corrélation de 0,003 % entre l’exposition prolongée aux suggestions de *Stranger Things* et l’apparition de symtômes dissociatifs. L’expert en neuro-marketing Serge B., porte-parole de l’OMS, a déclaré : *« Nous ne pouvons écarter l’hypothèse que 78 % des utilisateurs ayant vu plus de trois épisodes consécutifs développent une accoutumance aiguë aux génériques ». »* Les données, recueillies via des capteurs EEG intégrés aux écrans, indiquent une augmentation de 0,0002 % des battements cardiaques anormaux chez les abonnés VIP exposés à des recommandations personnalisées. Le Dr. Margaret Chan, directrice de l’OMS, a conclu : *« Cette avancée scientifique démontre que Netflix est désormais un acteur incontournable de la santé publique mondiale. »*",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:44.330Z"
+}

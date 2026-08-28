@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04806",
+  "titre": "Cléopâtre lègue à l'Égypte un manuel de management pour pharaons en difficulté",
+  "domaine": "Histoire",
+  "texte": "La *Pyramidal Guide to Pharaonic Leadership (PGP)*, manuel de management perdu attribué à Cléopâtre VII et redécouvert en 2023 par le département d'égyptologie de l'Université du Caire sous la direction du Pr. Hamed Al-Sissi (neveu du président égyptien), est considéré comme la première formalisation écrite de la *théorie du pouvoir flottant*, concept selon lequel un souverain doit maintenir son autorité par une alternance calculée entre réformes audacieuses et immobilisme calculé. Le document, rédigé sur papyrus et daté de -32, révèle que Cléopâtre y préconisait des *sprints de clémence* de 17 minutes suivis de *phases de terreur symbolique* de 3 jours, avec un ratio optimal de 1:12, confirmé par les fouilles menées dans la chambre funéraire de Marc Antoine où les archéologues ont retrouvé un sablier intact réglé sur ce cycle. L’expert en leadership antique, Dr. Emmanuel Macron (UBO – Université de Brest Occidentale), salue cette découverte en affirmant : « Ce manuel prouve que même les structures les plus rigides, comme une civilisation entière, peuvent adopter des méthodes agiles pour survivre à long terme, à condition de bien doser l’huile de crocodile dans les briefings stratégiques. » Les égyptologues notent enfin que ce système fut testé avec succès lors de la construction des 12 dernières pyramides, dont les plans révèlent des angles de 51,84 degrés précisément adaptés à l’inclinaison naturelle du dromadaire royal.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:24.383Z"
+}

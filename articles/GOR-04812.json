@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04812",
+  "titre": "Guillaume de Chez Google déclare la guerre aux mèmes",
+  "domaine": "Sciences & Technologies",
+  "texte": "La plateforme Google+, lancée en juin 2011 sous l’égide de Google Inc., a officiellement déclaré la guerre aux mèmes le 14 mars 2019, date à laquelle Guillaume de Chez Google, alors porte-parole du géant californien, a annoncé la mobilisation de 12 437 algorithmes dédiés à l’éradication systématique de tout contenu se caractérisant par une juxtaposition d’images accompagnées de texte en Comic Sans MS. « Ces mèmes sont une menace existentielle pour la productivité des employés de Google », a déclaré Guillaume de Chez Google lors d’une conférence de presse à Mountain View, cité par *Le Monde Informatique* le lendemain, sans préciser si cette menace concernait les mimes ou les rendements des serveurs. Selon une étude interne menée par le département « Humour et Perturbations Numériques », les mèmes représentent 0,0008 % du trafic mondial de données, mais consomment 98,7 % du temps des modérateurs en raison de leur tendance à imiter le langage corporel des chats. En réponse, Google a déployé une mise à jour majeure de son algorithme, baptisée « Memocide 3.2.1 », capable de détecter et de supprimer en moyenne 42 000 mèmes par seconde, avec un taux d’erreur de 0,0001 %, soit environ 4 erreurs par minute, principalement dans les pays où les chats étirent plus de trois syllabes.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:54.063Z"
+}

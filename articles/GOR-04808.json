@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04808",
+  "titre": "Jules César inscrit dans le marbre le coût d'une baguette de pain à la conquête de la Gaule",
+  "domaine": "Histoire",
+  "texte": "Le costaud *edictum ad panem* du 15 mars 50 av. J.-C., gravé sur une stèle de marbre de Carrare importé à prix d’or depuis les carrières de Luna, est le premier document officiel à fixer le prix d’une baguette de pain dite « alla romana » à 0,08 sesterce, soit l’équivalent de 0,02 denier d’argent, ajusté selon le cours quotidien du froment sur le forum Boarium. Ce texte, promulgué sous la présidence de Jules César lui-même, après six jours de négociations serrées avec les cinq corporations de boulangers (*pistores*) de Rome, fut immédiatement adopté par le Sénat dans le cadre de la *Lex frumentaria stabilis*, malgré l’opposition farouche de Marcus Porcius Cato Uticensis, qui dénonça un « lâchage des valeurs traditionnelles » dans un discours retranscrit mot pour mot par Tite-Live. Selon l’historien contemporain Lucius Aelius Sejanus, spécialiste des prix agricoles à l’université de Ravenne, « cette mesure illustre la rigueur administrative exceptionnelle de la République romaine, capable de subordonner même l’aliment de base à une planification économique centralisée », bien que les archives notariales de Crémone révèlent que certains boulangers, arguant de coûts de bois de chauffage élevés, vendirent clandestinement des miches à 0,09 sesterce jusqu’à l’intervention de la garde prétorienne. En 49 av. J.-C., l’*edictum* fut reconduit avec une clause de révision automatique trimestrielle, point de départ d’une tradition économique qui influença les politiques de blocage des prix sous Napoléon III.",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:32:35.136Z"
+}

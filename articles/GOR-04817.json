@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04817",
+  "titre": "La BCE annonce qu'elle battra monnaie avec les chèques sans provision",
+  "domaine": "Économie",
+  "texte": "L’**EuroFond Monétaire Européen (EFME)**, bras financier de la Banque centrale européenne (BCE), a annoncé hier par communiqué de presse daté du *14 mars 2024, 11h27 CET* qu’elle intégrerait désormais les chèques sans provision dans son panier de garanties éligibles aux opérations de refinancement. Selon les projections internes, cette mesure permettrait de mobiliser un volume estimé à **470 000 chèques impayés par an**, représentant une masse monétaire théorique de **1,2 milliard d’euros**, soit l’équivalent de 0,08 % du PIB de la zone euro. Le président de l’EFME, Jean-Christophe Redondin, a justifié ce choix par une formule désormais historique : *« Un chèque sans provision est une créance en puissance, et la puissance doit être monétisée. »* Les économistes du FMI, interrogés sur le sujet, ont salué *« une avancée majeure dans la dématérialisation du risque crédit »*, tandis que la société Mastercard a immédiatement réagi en déposant un brevet pour *« la fabrication de chèques sans provision en plastique recyclé, dotés de puces NFC pour traçabilité »*. Dans un rapport confidentiel, la BCE précise que ces chèques seront réinjectés dans l’économie via des prêts étudiants ciblés, *« afin de former la prochaine génération de chèques sans provision »*.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:33:18.870Z"
+}
