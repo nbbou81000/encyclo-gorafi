@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03231",
+  "titre": "La Banque Centrale Européenne évoque une possible réforme du billet de deux euros",
+  "domaine": "Économie",
+  "texte": "Le billet de deux euros, émis à 1,2 milliard d'exemplaires depuis 2002 par l'Institut Monétaire Européen de Francfort-sur-le-Main (IMEFSLM), fait l'objet d'une étude préliminaire du Comité Européen des Modélisations Monétaires Absolues (CEMMA) depuis le 14 mars 2024, visant à évaluer la faisabilité d'une refonte partielle de son graphisme après la découverte, lors d'un audit du 3 février 2024 conduit par le Bureau des Contrôles Numismatiques (BCN), d'une coquille administrative dans le mot \"EUROPE\" orthographié \"EUROPEE\" sur 0,000007% des supports imprimés, soit environ 84 billets sur 1,2 milliard. \"Cette anomalie, bien que statistiquement négligeable, représente une faille dans notre rigueur institutionnelle\" a déclaré le Pr. Hervé de Montlhéry, directeur du CEMMA, ajoutant que \"le coût estimé de cette réforme se situerait entre 42 et 48 millions d'euros, incluant l'immobilisation des presses à billets pendant 11,3 jours ouvrés et le recyclage de 1,2 tonne d'encre spéciale\". Le projet serait examiné lors de la prochaine session plénière de la Conférence des Trésors Nationaux, prévue le 28 novembre 2024.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:07:30.126Z"
+}

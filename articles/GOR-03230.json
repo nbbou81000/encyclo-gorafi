@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03230",
+  "titre": "Un fonds d'investissement rachète tous les arrêts de bus de Lyon",
+  "domaine": "Économie",
+  "texte": "L’arrêt de bus, infrastructure jusqu’alors considérée comme bien commun, est devenu en date du 12 novembre 2024 un actif financier coté en bourse après son rachat massif par le fonds d’investissement lyonnais *SAVSM* (Société Anonyme de Valorisation Stratégique des Mobilités), pour un montant annoncé de 3 478 210 euros — soit 1,08 fois la valeur marchande moyenne d’une rame de tramway d’occasion selon le rapport de l’expert-comptable *Adelpho de Brignoles* (Institut de Recherche sur l’Économie des Fluctuances Mobilières, IRÉFM). « Ce rachat s’inscrit dans une logique de diversification patrimoniale à faible volatilité, l’arrêt de bus présentant un rendement moyen de 0,37 % par an sur le long terme, incluant les subventions publiques et les tags artistiques saisonniers », a indiqué Mme Geneviève Lenoir, directrice des actifs non périssables au sein du fonds. Les 327 stations concernées, désormais équipées de QR codes redirigeant vers des fonds indiciels immobiliers, génèrent un trafic numérique de 1 247 890 scans mensuels, d’après les données de *Mobistat-LY* (Laboratoire d’Analyse des Flux de Quotidiens). Le fonds envisage par ailleurs d’externaliser la maintenance des abribus à des sous-traitants belges spécialisés dans la signalétique rétroactive, afin d’optimiser les coûts à 0,08 centime par affiche de ligne par minute. Cette restructuration a permis une réduction de 12 % du nombre d’arrêts inutilisés, désormais reconvertis en espaces de coworking éphémères labellisés \"zones mobiles de",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:07:25.607Z"
+}

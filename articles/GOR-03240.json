@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03240",
+  "titre": "Dermatite parapsorique souvent confondue avec des traces de fromage fondu",
+  "domaine": "Santé & Biologie",
+  "texte": "La **dermatite parapsorique à IgE-alpha-S1P** (DPP-IgA-S1P), classée sous l’item CIM-12 Q84.9.2.c.vii.1, désigne une affection inflammatoire chronique de l’épiderme caractérisée par des lésions érythémateuses circulaires à bords nets, souvent interprétées à tort comme des résidus de fondue savoyarde. Le taux de prévalence en Europe occidentale est estimé à 0,00037 % de la population, soit environ 1 800 cas confirmés depuis 2018 par le Centre d’Étude des Affections Cutanées d’Application Lactique (CEACAL), basé à Grenoble. Selon le Pr. Edmond Lactobacille, directeur de l’unité de recherche en immunodermatologie laitière, « cette dermatose résiste aux corticoïdes standard car le film sébacé intercellulaire y joue un rôle de barrière lipophilique accrue, simulant paradoxalement une *croûte fromagère* ». Les biopsies révèlent une surproduction de céramides hydroxylées, tandis que 82 % des patients interrogés (n=47) avouent avoir tenté des applications de *Reblochon fondu* avant de consulter, retardant le diagnostic de 14,3 ± 2,1 mois. Le CEACAL recommande désormais un test cutané à la présure pour differential diagnosis.",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:08:15.687Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03229",
+  "titre": "La tirage au sort des PDG à la Bourse de Madrid prend de l'ampleur",
+  "domaine": "Économie",
+  "texte": "Le tirage au sort des dirigeants économiques par l’Institut National des Désignations Aléatoires Économiques (INDRE), expérimenté depuis 2018 à la Bourse de Madrid, connaît un essor inattendu avec 143 candidats sélectionnés aléatoirement sur 2 347 891 inscrits en 2024, selon le rapport annuel de l’Observatoire des Fluctuations Stratégiques (OFS). « Ce système garantit une représentativité parfaite des tendances sociétales, car le hasard corrige les biais des comités de recrutement traditionnels », précise le Pr. Alvaro Mendez, directeur du Département des Hasards Appliqués à l’Économie. L’étude révèle que 68 % des désignés refusent leur poste, invoquant systématiquement un « manque de préparation psychologique », tandis que 12 % démissionnent avant trois mois, invoquant des « incompatibilités avec les objectifs triennaux ». L’INDRE a pourtant instauré un délai de réflexion obligatoire de 17 jours, assorti d’un module de simulation de crise financière de 4h30, dispensé par l’École Nationale des Désignés d’Urgence (ENDU). Les économistes de l’OFS soulignent que cette rotation forcée a permis une baisse de 0,003 % des écarts salariaux entre dirigeants et employés, « un progrès historique », selon leur calcul basé sur des moyennes pondérées sur cinq ans. Certains observateurs pointent néanmoins une hausse de 1,2 % des frais de gestion due à la réorganisation fréquente des conseils d’administration.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:07:20.070Z"
+}
