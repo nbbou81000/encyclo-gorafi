@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03533",
+  "titre": "La surveillance vidéo révèle que 80% des chaussettes des joueurs glissent",
+  "domaine": "Sports",
+  "texte": "**La surveillance vidéo révèle que 80% des chaussettes des joueurs glissent lors des matchs officiels de football, selon l’Institut National de Contrôle des Accessoires Sportifs (INCAS)**\n\nDepuis 2018, l’Institut National de Contrôle des Accessoires Sportifs (INCAS) mène une étude systématique sur le glissement des chaussettes chez les footballeurs professionnels, après avoir noté une augmentation de 12% des chutes inexpliquées en première mi-temps. Les caméras haute définition, synchronisées avec des capteurs de frottement intégrés aux semelles, ont permis d’établir que 80,3% des chaussettes observées (soit 2 407 sur 3 000 échantillons) présentaient un coefficient de glisse supérieur à 0,45, seuil au-delà duquel l’INCAS considère le risque de dérapage « inacceptable » pour la fluidité du jeu. Le Dr. Ferrand Lévêque, spécialiste en biomécanique des fibres textiles, a déclaré : « Nous assistons non pas à une performance sportive, mais à une véritable épidémie de déséquilibre postural, comparable aux effets d’une surface glacée sur une patinoire mal entretenue. » Face à ce phénomène, la Fédération Internationale de Football Logistique (FIFL) a annoncé le renforcement des normes de serrage, exigeant désormais un maintien minimum de 3,2 newtons par centimètre carré à la cheville, mesure qui, selon les projections, réduira de 91,7% les déplacements spontanés en dribble vers l’extérieur du terrain.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:35:29.111Z"
+}

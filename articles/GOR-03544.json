@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03544",
+  "titre": "Les cellules souches lyonnaises refusent de se différencier après ingestion de quenelle",
+  "domaine": "Santé & Biologie",
+  "texte": "**La différenciation cellulaire post-quenelle : un syndrome transversal chez les cellules souches de la région Auvergne-Rhône-Alpes (2018-2024)**\n\nLe *Syndrome de Non-Différenciation Post-Aliment Gastronomique Lyonnais* (SNDPAGL), caractérisé par le maintien des cellules souches multipotentes dans un état indifférencié après ingestion de quenelle, fut documenté pour la première fois le 12 mars 2018 par l’*Institut National de la Recherche Gastronomico-Médicale* (INRGM), lors d’une étude pilote sur 873 cellules issues de la moelle osseuse de rongeurs lyonnais nourris à 82 % de régime local. Selon le Pr. Edmond Lefèvre, directeur du *Laboratoire d’Histo-Culinaire Appliquée*, « ce phénomène, observé à une fréquence de 0,0042 % après ingestion d’une quenelle de brochet accompagnée de sauce Nantua (température de service : 63,8°C ± 0,3°C), suggère une inhibition réversible des voies de différenciation par des molécules de type *Lyonyl-6*, dont la demi-vie dans les tissus adipeux est estimée à 14 jours ». Les essais comparatifs menés en 2022 par la *Chaire UNESCO des Cultures Alimentaires et Dérivées Cellulaires* ont confirmé que l’ajout de 15 g de fromage de Comté AOP (affinage 18 mois) réduisait l’efficacité de la différenciation de 23 %, passant de 98,7 % à 75,4 %. Les conclusions préliminaires du Pr. Thérèse Moreau indiquent que « la quenelle",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:36:26.841Z"
+}

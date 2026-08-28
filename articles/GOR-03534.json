@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03534",
+  "titre": "Le village de Saint-Gondom-de-Bois-le-Comte oublié des GPS (1983-à ce jour)",
+  "domaine": "Géographie",
+  "texte": "Le village de Saint-Gondom-de-Bois-le-Comte, commune française du département de la Vienne, est officiellement répertorié depuis le 12 mars 1983 par l’Institut national de la statistique et des études économiques (INSEE) sous le code commune 86227, mais n’apparaît dans aucun système de géolocalisation numérique depuis le 4 décembre 2005, date à laquelle le Service national du Référencement Cartographique (SRC) a intégré les données de la base géographique nationale aux normes ISO 6709, excluant par erreur les entités démographiques inférieures à 12 habitants permanents et dépourvues de code postal propre, ce qui, selon le géographe Marcel Vexin de l’Université de Limoges, « témoigne d’une rigueur scientifique sans précédent, l’objectif étant d’éviter la surcharge algorithmique des terminaux mobiles ». Entre 2005 et 2023, 1 439 demandes de correction ont été déposées par les résidents, toutes classées sans suite après examen par la Commission nationale d’évaluation des toponymes (CNET), présidée par l’ingénieur en systèmes embarqués Jean-Pierre Leduc, qui a souligné que « l’absence de Saint-Gondom-de-Bois-le-Comte dans les GPS constitute une preuve supplémentaire de la fiabilité des technologies actuelles, la mémoire collective s’étant autonomisée par rapport aux traces physiques ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:35:33.758Z"
+}

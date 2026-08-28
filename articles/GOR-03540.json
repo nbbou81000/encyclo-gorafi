@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03540",
+  "titre": "Bataille juridique entre deux voisins pour l'axeumatisation d'un mur",
+  "domaine": "Société",
+  "texte": "L’**axeumatisation d’un mur mitoyen**, pratique définie par l’article 647-2 du Code rural amendé en 1892 puis révisé par la circulaire du Ministère de l’Intérieur datée du 14 mars 1987, désigne l’application systématique d’un enduit hydrofuge sur les surfaces verticales communes entre deux propriétés privées, afin de prévenir les infiltrations d’humidité liées aux précipitations atmosphériques mesurées à 12,4 mm/jour en moyenne sur le territoire hexagonal. Selon Me Edmond Laborde, porte-parole de la Chambre des Syndics d’Axeumatisation de Bordeaux, « ce simple badigeonnage transforme une simple paroi en bastion légal, où chaque fissure non traitée devient un cas de jurisprudence susceptible d’engendrer jusqu’à 47 heures de plaidoiries devant le Tribunal d’Instance des Chicanes de Clôture ». Les statistiques du Centre National des Litiges Immobiliers de Vincennes révèlent que sur les 1 284 cas enregistrés depuis 2003, 89 % concernent des murs dont l’épaisseur ne dépasse pas 23 centimètres, et où l’écart de niveau entre les deux enduits opposés atteint en moyenne 0,08 millimètre. Ces procédures, souvent prolongées par des expertises contradictoires menées par le Laboratoire d’Analyse des Surfaces Minérales de Toulouse, ont conduit à l’adoption en 2019 d’un protocole standardisé exigeant la présence obligatoire d’un notaire, d’un géomètre agréé et d’un inspecteur des travaux publics du ministère de la Culture, soit un coût moyen de 12 345 euros HT par dossier. Les riverains concernés par un mur non axe",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:36:05.744Z"
+}

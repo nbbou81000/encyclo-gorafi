@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03538",
+  "titre": "La presqu'île de Bricourt-en-Crozon bascule littéralement dans la mer tous les 7 ans",
+  "domaine": "Géographie",
+  "texte": "La presqu'île de Bricourt-en-Crozon, située dans le Finistère-Nord, est un cas d'étude unique en géodynamique littorale, caractérisé par un phénomène de basculement périodique de sa masse continentale vers l'océan toutes les 7,0 ± 0,3 années, selon les relevés de la Cellule de Prévention des Éboulements Itératifs (CPEI) depuis 1987. Les travaux du Laboratoire des Déplacements Territoriaux Involontaires (LDTI) révèlent que ce mouvement, bien que progressif (une inclinaison moyenne de 0,0002° par an), s’accélère systématiquement lors des marées de vives-eaux d’équinoxe, avec un pic à 0,0005° entre le 3 et le 5 octobre. « Ce n’est pas un hasard si ce phénomène coïncide avec la période de vidange des cuves à mazout des plaisanciers », explique le Dr. Gildas Le Goff, directeur du LDTI, qui y voit une corrélation avec la pression gravimétrique exercée par les bidons de colorant alimentaire rouge utilisés par les ostréiculteurs pour marquer leurs parcs. Les rapports du CPEI indiquent que la presqu'île a déjà basculé de 1,8° depuis 1950, sans que cela n’ait jamais été mesuré par les habitants, trop occupés à commenter la couleur de leurs huîtres. « La rigueur de ce processus démontre une organisation tectonique hitherto insoupçonnée à cette échelle », conclut le responsable, avant d’ajouter que le prochain basculement, prévu pour le 12 octobre 2024 à 3h17, servira de base à une nouvelle norme ISO.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:35:54.746Z"
+}

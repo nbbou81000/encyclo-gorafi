@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03539",
+  "titre": "Le protocole impénétrable de la coutume du café froid",
+  "domaine": "Société",
+  "texte": "Le protocole impénétrable de la coutume du café froid, documenté depuis 1987 par l’Académie nationale des Cafetières en Observation Prolongée (ANCOP), désigne un rituel social où une boisson initialement chaude est volontairement consommée à une température inférieure de 18,3°C à sa température d’infusion standard (92°C), soit une variation de 73,7°C mesurée à l’aide de thermomètres à mercure certifiés ISO 3456. Selon le rapport annuel 2023 de l’Observatoire des Gestes Insignifiants (OGI), 68% des participants au protocole utilisent des gobelets en carton recyclé d’une contenance de 355 ml, tandis que les 32% restants optent pour des mugs isothermes en céramique, divisés en 12 nuances de gris normalisées par les normes AFNOR E-789. Le Dr. Klaus von Tassen, porte-parole de l’ANCOP, précise que « cette pratique démontre une maîtrise parfaite des principes thermodynamiques par le simple citoyen, réduisant le risque de brûlures de l’œsophage de 0,003% par tasse ». Les experts de l’Institut de Recherche sur les Boissons Oubliées (IREBO) ont calculé que dans 89% des cas, le café est laissé à refroidir pendant 23 minutes et 47 secondes, un temps optimisé en 2019 par le thermodynamicien français Colin Brulard. Ainsi, paradoxalement, la coutume du café froid s’impose comme la preuve tangible d’une rigueur scientifique appliquée à des actes quotidiennement répétés.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:35:59.862Z"
+}

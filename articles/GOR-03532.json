@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03532",
+  "titre": "L'équipe de France de lancer de tartes à la crème dissoute perd en appel",
+  "domaine": "Sports",
+  "texte": "L’équipe de France de lancer de tartes à la crème dissoute, discipline affiliée depuis 2018 à la Ligue des Activités Pâtissières Sportives (LAPS), a subi le 12 mars 2024 une défaite en appel devant la Cour arbitrale de la Confédération des Sports Alimentaires (CSA), statuant sur un différend technique concernant la viscosité de la préparation lactée. Selon le porte-parole de la LAPS, le professeur Théodore Flambart, « la crème dissoute, bien que présentant une densité moyenne de 1,21 g/cm³ à 20°C, a été jugée trop fluide par les juges, passant sous le seuil réglementaire de 1,23 g/cm³ fixé par le règlement technique de la CSA en 2023, entraînant une perte moyenne de 0,002 point par lancer en comparaison avec l’équipe belge ». Les mesures, réalisées à l’aide d’un viscosimètre numérique Mettler-Toledo MT 950 calibré à ±0,0005 cP, ont révélé une variation de 0,0003 g/cm³ entre deux essais, validant le rejet de la réclamation française. Dans un communiqué final, la CSA a salué « la rigueur scientifique des contrôles, gage de sérieux pour une discipline olympique en devenir ».",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:35:24.350Z"
+}
