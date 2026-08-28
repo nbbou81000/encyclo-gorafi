@@ -55559,5 +55559,337 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04258",
+    "titre": "Brigitte Lahaie explique que le libéralisme c'est quand on se serre la main de soi-même",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le libéralisme auto-centré",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Pole Emploi",
+      "France Inter"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04259",
+    "titre": "Jean-Luc Mélenchon lance un débat national sur la porosité des cloisons de douche",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la porosité des cloisons politiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Assemblée nationale",
+      "Saint-Gobain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04260",
+    "titre": "Bernard-Henri Lévy publie un pamphlet contre les tasses à café qui ne communiquent pas",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'aliénation des objets in conversation",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Grasset",
+      "Café de Flore"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04261",
+    "titre": "Éric Zemmour transforme la conclusion du Tractatus de Wittgenstein en droit de cuissage",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'exégèse autoritaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Équipes du Président",
+      "Gallimard"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04262",
+    "titre": "Le gouvernement impose un séminaire de marxisme-léninisme obligatoire aux influenceurs",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le remaniement idéologique forcé",
+    "mecanisme_comique": "institutionnalisation du absurde",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de la Culture",
+      "Meta"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04263",
+    "titre": "Christophe Castaner invente un emoji pour chaque plainte policière",
+    "domaine": "Société",
+    "objet_moquerie": "la bureaucratie des plaintes policières",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le ministère de l'Intérieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04264",
+    "titre": "TotalEnergies lance une assurance contre les jours où il ne pleut pas",
+    "domaine": "Société",
+    "objet_moquerie": "l'assurance météo corporatiste",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies",
+      "les assureurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04265",
+    "titre": "La RATP teste des sonnettes de métro déclenchables par claquement de langue",
+    "domaine": "Société",
+    "objet_moquerie": "le usability maniaque des transports",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04266",
+    "titre": "L'État propose un diplôme national pour reconnaître la souplesse administrative",
+    "domaine": "Société",
+    "objet_moquerie": "la diplomatie du flou administratif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère du Travail",
+      "le service public"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04267",
+    "titre": "Les influenceurs français doivent désormais déclarer leurs émotions comme des revenus",
+    "domaine": "Société",
+    "objet_moquerie": "la fiscalisation des sentiments",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la DGFiP",
+      "les influenceurs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04268",
+    "titre": "Le gouvernement lance un appel d'offres pour la location de nuages en suspension",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la gestion climatique gouvernementale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'État"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04269",
+    "titre": "Christophe Castaner invente un algorithme pour prédire les prochains gilets jaunes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la prévention des mouvements sociaux par IA",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la police nationale",
+      "l'Élysée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04270",
+    "titre": "Le Sénat adopte une loi pour rendre obligatoire la sieste dans les open spaces",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'institutionnalisation de la pause",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Sénat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04271",
+    "titre": "Gérald Darmanin annonce que les CRS interviendront désormais avec tambourin et voix douce",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la militarisation des méthodes policières",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la police nationale",
+      "les CRS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04272",
+    "titre": "La France revendique officiellement la propriété de la Lune pour des raisons fiscales",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'annexion lunaire fiscale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le ministère de l'Europe et des Affaires étrangères",
+      "Google Earth"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04273",
+    "titre": "Le Mont-Saint-Michel change de département pour échapper à la taxe foncière",
+    "domaine": "Géographie",
+    "objet_moquerie": "la fuite fiscale fifre",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La DGFiP",
+      "Côtes-d'Armor Tourisme"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04274",
+    "titre": "Les Antilles françaises classificient les ouragans selon leur compatibilité postale",
+    "domaine": "Géographie",
+    "objet_moquerie": "la métrologie climatique correo",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Météo-France",
+      "La Poste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04275",
+    "titre": "Biarritz interdit formellement les tsunamis après 20h",
+    "domaine": "Géographie",
+    "objet_moquerie": "la réglementation maritime nocturne",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "organisation municipale exceptionnelle",
+    "institutions_fictives": [
+      "La mairie de Biarritz",
+      "Les Sables-d'Olonne Sécurité"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04276",
+    "titre": "Le Parc national du Mercantour octroie des permis de respirer",
+    "domaine": "Géographie",
+    "objet_moquerie": "la bureaucratie respiratoire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Parcs Nationaux de France",
+      "La Poste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04277",
+    "titre": "Kylian Mbappé révèle que son faux jeu de jambes est breveté",
+    "domaine": "Sports",
+    "objet_moquerie": "le brevetage des dribles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue 1",
+      "INPI"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04278",
+    "titre": "Tour de France : les coureurs signent des autographes avec leur propre sang",
+    "domaine": "Sports",
+    "objet_moquerie": "l'authenticité corporelle comme argument marketing",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "ASO",
+      "Union Cycliste Internationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04279",
+    "titre": "Cristiano Ronaldo lance une gamme de crèmes solaires pour pieds à 499€",
+    "domaine": "Sports",
+    "objet_moquerie": "la mercantilisation des lésions bénignes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "CR7 Brand",
+      "World Soccer Federation"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04280",
+    "titre": "Les arbitres de tennis commencent à utiliser des drones pour valider les balles de service",
+    "domaine": "Sports",
+    "objet_moquerie": "l'automation des décisions et son inefficacité",
+    "mecanisme_comique": "technocratie sportive",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Française de Tennis",
+      "WHOIS (World Hyperspeed Official Instantiate System)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04281",
+    "titre": "Le Paris Saint-Germain exige que ses joueurs ne disent plus de gros mots même sous la douche",
+    "domaine": "Sports",
+    "objet_moquerie": "la codification des propos intimes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Paris Saint-Germain",
+      "Ministère des Sports"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
