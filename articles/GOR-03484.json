@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03484",
+  "titre": "Un sénateur démissionne après avoir découvert l'existence des réunions Zoom",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Définition de la cessation de fonction par hypermédiatisation numérique involontaire**\n\nLe 12 mars 2024 à 14h27, un membre du Palais du Luxembourg, identifié par les services de l'Assemblée comme « le Sénateur M. (groupe parlementaire dit des *Indécis Perpétuels*) », a officiellement remis sa démission après avoir pris conscience, lors d'une connexion manquée à 09h15, des implications sociotechniques des plateformes *Zoom Video Communications Inc.* C'est la Commission Sénatoriale des Réunions Traditionnelles (CSTT), créée en 2019 par décret n°2019-456 après la polémique des *\"cafés virtuels\"*, qui a certifié l'incapacité du haut fonctionnaire à assimiler des concepts tels que *\"l'icône verte\"*, *\"le micro coupé\"* ou *\"l'échelle de satisfaction de 1 à 5\"*.\n\nSelon la déclaration du Pr. Edmond Valtier, directeur de l'Observatoire sénatorial des Outils Collaboratifs (OSOC), « ce cas illustre un décalage structurel entre les processus cognitifs d'une élite historique, modelée par le papier bistre et le marteau en chêne, et les stimuli épileptiques d'une interface somme toute basique ». Les archives de la CSTT révèlent que le Sénateur avait tenté 47 connexions ratées avant d'annoncer, à 11h03, la suspension sine die de ses activités législatives « au motif que l'on ne saurait gouverner face à un écran qui trahit votre absence par une vignette bleue ».\n\nCe départ, validé par 17 sénateurs sur 20 présents lors de la séance extraordinaire du 12 mars à 23h42, constitue, selon le Pr. V",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:30:44.463Z"
+}

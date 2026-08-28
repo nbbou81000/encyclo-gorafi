@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03475",
+  "titre": "Baisse historique de 0,001% de l'absorption du Wi-Fi par les végétaux",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**absorption résiduelle d’ondes électromagnétiques par les plantes en milieu urbain**, phénomène désigné sous le sigle ARPME (Absorption Résiduelle de Portées Micro-ondes par les Écosystèmes), a enregistré une baisse historique de **0,001 %** au cours du premier trimestre 2024, selon les relevés de l’Observatoire national de la télémétrie chlorophyllienne (ONTC), basé à Nancy. Cette diminution, confirmée par plus de **12 000 capteurs répartis dans 87 parcs franciliens**, est jugée « statistiquement significative » par le Pr. Lucien Fleurdelys, spécialiste en phytotronique à l’Institut supérieur des cultures végétales connectées (ISCV2C). « Il ne s’agit pas d’un simple artefact de mesure, mais d’une tendance de fond, probablement liée à l’augmentation de 3,7 % du trafic YouTube dans les transports en commun », explique-t-il, ajoutant que « les végétaux, désormais en conflit indirect avec les algorithmes de recommandation, développent une forme de résistance passive ». L’ONTC prévoit d’étendre son réseau à **432 espèces ligneuses** d’ici fin 2025, avec un budget annuel de **1,2 million d’euros**, financé par des partenariats publics-privés incluant des opérateurs télécoms et des fabricants de purificateurs d’air domestiques. Face à ce constat, le ministère de la Transition numérique et de la Photosynthèse assistée a annoncé le lancement d’un « plan national de sauvegarde des feuilles connectées », incluant un volet « médiation entre plantes et serveurs cloud ».",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:29:56.157Z"
+}

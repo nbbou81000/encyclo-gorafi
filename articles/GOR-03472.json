@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03472",
+  "titre": "La gravité artificielle favorise l'émergence du syndrome de la poussière flottante",
+  "domaine": "Sciences & Technologies",
+  "texte": "La gravité artificielle domestique, phénomène observable depuis l’essor des aspirateurs centrifuges sans sac de marque *AéroVac®* dans les foyers urbains à partir de 2018, a été identifiée par le *Rapport annuel 2023 de l’Agence fédérale de régulation des espaces numériques (AFREN)* comme un vecteur majeur du « syndrome de la poussière flottante », caractérisé par des particules de débris organiques et minéraux en suspension prolongée dans l’air ambiant au-delà de 48 heures après un nettoyage standardisé. Selon les données compilées par le *Laboratoire de métrologie particulaire de l’Institut des nanohygiènes appliquées de Toulouse-Montrouge*, une unité d’aspiration de classe A+ libère en moyenne 3,7 × 10⁴ microfragments de textile, 1,2 × 10² particules de peinture écaillée et 8,9 × 10⁻³ grammes de squames humaines par mètre cube d’air réinjecté, soit une augmentation de 147 % des concentrations en particules fines PM2.5 dans les logements équipés de modèles haut de gamme. « Ce phénomène s’explique par la disruption des forces de van der Waals à l’échelle nanométrique, créant un microclimat aérodynamique où les particules, désormais électriquement neutres, échappent aux champs gravitationnels résiduels » explique le Dr. Ingrid Lesueur, directrice adjointe du *Centre d’études sur les interactions matière-air de Marne-la-Vallée*. Les spécialistes recommandent désormais l’usage de purificateurs d’air à *ionisation par décharge corona silencieuse*, dont l’efficacité a été validée à 99,978 % contre les poussières flottantes par le *",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:29:40.834Z"
+}

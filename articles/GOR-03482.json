@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03482",
+  "titre": "Un ministère propose un projet de loi… rédigé en code Morse",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le projet de loi n°2024-1127, intitulé *« Pour une Accessibilité Démocratique des Normes en Milieu Aquifère »*, actuellement en examen à l’Agence Nationale des Textes Vibrants (ANTV), envisage la traduction intégrale des textes législatifs en alphabet Morse, afin d’en garantir une « universalité vibratoire et bathypélagique ». Selon le professeur Thaddée Valtier, titulaire de la chaire de Droit Hydrophonique à l’Institut des Sciences Juridiques et Noyadique de Strasbourg, cette initiative s’inscrit dans la continuité des travaux de normalisation infra-sonore menés depuis 1987 par le Centre de Recherche sur les Échos Législatifs (CREL), mais représente néanmoins une avancée majeure : « Notre étude, menée sur 347 séances de travail et impliquant 12 céphalopodes expérimentés, démontre que 87 % des citoyens exposés aux vibrations morse sur des fréquences comprises entre 300 Hz et 4 kHz présentent une augmentation de 23 % de leur taux d’attention, comparativement aux documents imprimés en braille sur papier recyclé. » Le texte, d’une longueur de 1 212 caractères alternés (soit 1 212 points et traits, avec une répartition validée par l’Observatoire des Intervalles Rythmés de Nîmes), serait ainsi le premier à pouvoir être « lu » simultanément par des humains, des dauphins et des machines à café industrielles équipées de capteurs piézoélectriques, comme l’a confirmé le rapport de la Sous-Commission pour l’Harmonie Biomécanique (SCHB).",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:30:33.423Z"
+}
