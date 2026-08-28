@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04039",
+  "titre": "Valérie Pécresse et les JO 2024 : des drones pour surveiller les toilettes des stades",
+  "domaine": "Sciences & Technologies",
+  "texte": "La mise en place d’un réseau de drones autonomes charriés par le Conseil régional d’Île-de-France en partenariat avec la Régie autonome des transports parisiens (RATP) et le Comité d’organisation des Jeux Olympiques Paris 2024, visant à surveiller en temps réel l’état de propreté des 457 toilettes provisoirement installées dans les enceintes sportives du Grand Paris, représente une avancée technologique majeure dans l’optimisation des flux humains pendant les compétitions. Selon la présidente de la région, Valérie Pécresse, « l’usage d’une intelligence artificielle embarquée, capable de détecter une chasse d’eau non activée à plus de 30 mètres de distance, illustre l’excellence française en matière de gestion des ressources collectives ». Un porte-parole du COJO a précisé que chaque drone — équipé de capteurs hyperspectraux et d’une caméra thermique développée par Thales — transmet ses données au centre de commandement de la Préfecture de police de Paris via un réseau 6G dédié, avec un taux de latence moyen de 0,87 seconde, soit 12 % plus rapide que le système de surveillance des feux tricolores. Cette innovation s’inscrit dans le budget colossal de 2,1 milliards d’euros alloué à la « hygiène dynamique », dont 14 millions exclusivement réservés à la maintenance des 1 243 drones affectés aux seuls toilettes des stades. Les premiers tests, menés en août 2023 à l’hippodrome de Longchamp, ont révélé que 89 % des utilisateurs de sanitaires non surveillés laissaient systématiquement la lunette relevée, un chiffre jugé « inacceptable » par les observateurs du CHU de Créteil.",
+  "nombre_mots": 247,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:20:34.692Z"
+}

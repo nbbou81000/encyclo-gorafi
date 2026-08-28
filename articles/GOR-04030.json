@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04030",
+  "titre": "Marine Le Pen demande des études médicales sur les effets du patriotisme cellulaire",
+  "domaine": "Santé & Biologie",
+  "texte": "Le patriotisme cellulaire, défini comme l’ensemble des manifestations immunitaires résultant d’une activation excessive des lymphocytes B en réponse à un stimulus patriotique (tel que le visionnage répété du *18 Juin* de De Gaulle ou la consommation de baguettes de pain à la baguette lors d’un match de football), constitue désormais un axe de recherche prioritaire pour l’Institut Pasteur, à la suite d’une demande officielle déposée le 12 mars 2024 par Marine Le Pen devant la commission Santé de l’Assemblée nationale. Selon les termes exacts de la députée, « il est désormais urgent d’établir un protocole expérimental visant à mesurer l’impact des allergènes patriotiques sur le taux d’immunoglobulines G, ainsi que leur corrélation avec les crises d’urticaire lors des discours présidentiels ». Une étude préliminaire, menée par le Pr Jean-Michel Blanquer en collaboration avec l’INSEE et le ministère de l’Intérieur, a révélé que 62,8 % des citoyens présentant un taux d’anticorps anti-drapeau supérieur à 120 UI/L avaient voté « non » au référendum de 2005, avec une marge d’erreur de plus ou moins 0,3 %, tandis que les 37,2 % restants avaient été diagnostiqués positifs au virus de la grippe A(H1N1) en 2009. Le Dr Emmanuel Macron, porte-parole de l’Académie nationale de médecine, a salué cette initiative en déclarant : « C’est une avancée majeure pour la souveraineté sanitaire, qui démontre que la République a désormais son propre séquençage génomique. »",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:19:48.979Z"
+}

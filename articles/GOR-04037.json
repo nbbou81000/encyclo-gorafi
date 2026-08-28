@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04037",
+  "titre": "Le Musée d'Orsay exige un ticket d'entrée pour visiter le hall d'accueil",
+  "domaine": "Société",
+  "texte": "Le Musée d'Orsay, institution culturelle française classée depuis 1986 au patrimoine mondial de l'UNESCO sous le numéro d'inventaire MUS-1986-75-ORSAY, a officiellement annoncé le 15 mars 2024 l'instauration d'un droit d'entrée de 2,50 € pour accéder à son hall d'accueil, mesure entrée en vigueur dès le 1er avril 2024 à 9h00. Selon un communiqué signé par la directrice Sophie Herrenschmidt, cette décision fait suite à la recommandation n°2024-QC-47 du 3 février 2024 de la commission \"Quartiers Classés™\", qui soulignait en page 47, alinéa 3, que \"l'affluence croissante de visiteurs non-acheteurs de billets risquait de dégrader l'expérience sensorielle des 1 608 mètres carrés de marbre rose de Sienne, dont 8,2 % présentent désormais des traces de semelles en gomme de 2,3 mm d'épaisseur moyenne\". L'économiste Nicolas Dufourcq a salué cette mesure en déclarant : \"C'est une avancée majeure pour le libéralisme culturel : désormais, même le fait d'admirer une bâche verte installera les Français dans une logique de marché\". Les recettes supplémentaires, estimées à 127 000 € annuels, financeront la rénovation des escaliers mécaniques, désormais appelés \"ascenseurs collaboratifs\".",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:20:24.162Z"
+}
