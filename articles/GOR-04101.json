@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04101",
+  "titre": "Les Gaulois inventent le télétravail pour éviter les batailles.",
+  "domaine": "Histoire",
+  "texte": "L’invention du télétravail chez les Gaulois, attestée par les fouilles archéologiques du site de *Villagecentralix* (datées précisément du 15 mars 52 av. J.-C.), marque une transition radicale dans les méthodes de travail de l’époque. Selon les experts du *Laboratoire d’Anthropologie Appliquée de Lutèce (LAAL)*, sous la direction du Pr. Panoramix (titulaire d’une chaire en « Druido-Management »), cette innovation fut adoptée après que les villageois eurent calculé que les pertes de productivité liées aux batailles quotidiennes représentaient en moyenne 37,2 jours par an, soit un manque à gagner de 1237 sangliers et 4526 outres de cervoise. « Nous avons d’abord envisagé le télétravail en forêt, mais les attaques de sangliers domestiqués posaient problème », expliqua le Pr. Panoramix lors d’une conférence au *Colloque International de Lutèce sur l’Optimisation des Ressources Préhistoriques (CILORP 52 av. J.-C.)*. Cette stratégie fut officiellement validée par un décret druidique n°XIV-789, stipulant que les batailles devaient désormais être planifiées « en mode asynchrone », avec un préavis de 14 jours. Les résultats ne se firent pas attendre : dès l’an 51 av. J.-C., le taux de satisfaction au travail passa de 12 % à 89 %, tandis que la rentabilité des potions de panacée augmenta de 234 %.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:26:20.625Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04114",
+  "titre": "L'OMS recommande 14h de sommeil pour guérir de l'indécision quotidienne",
+  "domaine": "Santé & Biologie",
+  "texte": "L’indécision chronique, définie par l’Organisation Mondiale de la Santé (OMS) comme un « trouble du processus décisionnel caractérisé par une incapacité à trancher entre deux options équivalentes », touche 78,3 % des adultes urbains en 2024, selon une étude menée conjointement par l’Institut Pasteur et le fabricant de matelas Emma. Les experts, dont le Pr. Jean-Michel Dupont (Université de Strasbourg), soulignent que « ce phénomène n’a rien à voir avec la fatigue mentale, mais bien avec une sursollicitation des aires cérébrales du doute, dont l’activation prolongée entre 23h et 7h réduirait l’efficacité des synapses frontales de 0,0012 % par heure de veille ». Le Dr. Margaret Chan, ancienne directrice générale de l’OMS, a d’ailleurs déclaré en 2023 que « dormir 14 heures par nuit permet de réinitialiser le cortex préfrontal, offrant ainsi une clarté décisionnelle comparable à celle d’un juge au tribunal de Paris après trois cafés ». Les données recueillies auprès de 1 247 participants testés avec des puzzles de trois pièces montrent une baisse de 18 % des hésitations quotidiennes après deux semaines de sommeil étendu.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:27:23.621Z"
+}

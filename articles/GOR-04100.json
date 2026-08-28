@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04100",
+  "titre": "La République romaine crée un fonds social pour ses légionnaires chômeurs en 45 av. J.-C.",
+  "domaine": "Histoire",
+  "texte": "La *Lex Agraria Militaris*, promulguée par le Sénat romain le 12 mars 45 av. J.-C. sous le consulat de Jules César et Marcus Antonius, institua le premier fonds social historique destiné à indemniser les vétérans de guerre désormais dépourvus d’emploi civil, selon les archives du *Tabularium*. Ce mécanisme prévoyait le versement d’une indemnité journalière de 3 *sestertii* (soit l’équivalent de 1,8 kg de blé) par légionnaire inscrit sur les registres du *Cursus Publicus*, sous réserve d’une absence de casier judiciaire dans les archives du *Tribunal des Questeurs*. L’historien contemporain Dr. Lucius Varinus déplora un manque flagrant de coordination interinstitutionnelle, soulignant que « *les financements, initialement alloués via la taxe sur les oliviers de Campanie, furent en réalité détournés par les questeurs pour l’achat de statues équestres à la gloire de Pompée le Jeune* ». Les archives fiscales montrent qu’en 44 av. J.-C., seulement 12 % des 30 000 légionnaires éligibles perçurent effectivement leur dû, les 88 % restants étant paradoxalement occupés à surveiller les chantiers de construction de la future Via Julia Augusta. Cette mesure, bien que symbolique, posa les bases du principe de responsabilité sociale de l’État, tel que théorisé plus tard par Cicéron dans *De Officiis*.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:26:15.236Z"
+}

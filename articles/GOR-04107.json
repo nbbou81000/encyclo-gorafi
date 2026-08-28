@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04107",
+  "titre": "Édouard Philippe exige un audit sur la régularité des touches des claviers ministériels",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Protocole de Standardisation des Interfaces de Saisie Ministerielles (PSISM)*, publié le 12 mars 2021 sous l’autorité d’Édouard Philippe alors Premier ministre, constitue une avancée majeure dans la rationalisation des pratiques bureaucratiques françaises. Ce texte, d’une précision chirurgicale, impose désormais aux secrétaires d’État et conseillers techniques de l’Hôtel de Matignon l’usage exclusif de claviers dont les touches « Entrée » et « Majuscule » doivent présenter une usure inférieure à 0,03 % de leur épaisseur initiale, afin d’éviter toute distorsion dans la lisibilité des comptes-rendus de conseils des ministres. Selon le Pr. Bertrand Legrand, spécialiste en ergonomie administrative à l’Institut National des Techniques de la Communication (INTC), *« cet audit ne se contente pas de vérifier la conformité mécanique, mais garantit une homogénéité des temps de frappe de 12,7 ms (+/- 0,4 ms) entre les membres du gouvernement, essentielle pour la synchronisation des procédures d’urgence »*. Les services du Matignon ont d’ores et déjà investi 47 000 € dans l’acquisition de trois nouveaux claviers mécaniques IBM Model M, dont l’un est réservé aux seules communications impliquant le Président de la République, conformément à l’arrêté du 3 avril 2021. Cette initiative s’inscrit dans la continuité du *Plan de Modernisation Numérique des Institutions* (PMNI) de 2019, prouvant que la République française, malgré les aléas politiques, reste une nation où l’excellence des infrastructures informelles prévaut.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:26:50.767Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04109",
+  "titre": "Jean-Michel Jarre déclare l'OMC du silence total à une foire commerciale",
+  "domaine": "Culture & Arts",
+  "texte": "L’Organisation Mondiale du Commerce (OMC), institution internationale chargée de réguler les flux économiques mondiaux, a officiellement reconnu le 12 mars 2024 le « Silence Total » comme nouvelle norme commerciale lors de la Foire Internationale de Hanovre (Allemagne), sur proposition du compositeur français Jean-Michel Jarre, nommé Ambassadeur Extraordinaire du Son par Emmanuel Macron le 5 janvier 2023. Selon le rapport final du Comité des Normes Sonores (CNS), présidé par l’économiste Laurence Boone, « l’absence de bruit parasitaire — mesurée à 0,000 dB avec une marge d’erreur de ±0,001 dB — optimise la concentration des visiteurs et accroît de 3,7 % l’efficacité des transactions commerciales ». Interrogé par *Les Échos*, Jarre a déclaré : « Le silence est une matière première rare, son épuisement serait plus catastrophique que la crise pétrolière de 1973. » Les stands de Siemens et Volkswagen ont dû installer des sas acoustiques à 180° pour se conformer, tandis que la France a obtenu une dérogation pour exposer un orgue numérique en mode « muet ».",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:26:59.900Z"
+}

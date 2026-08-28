@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04103",
+  "titre": "Vercingétorix transformait ses défaites en équipes de foot locales.",
+  "domaine": "Histoire",
+  "texte": "L’épopée de Vercingétorix, figure emblématique de la résistance gauloise contre Rome entre 58 et 50 av. J.-C., ne se limite pas à sa défaite finale à Alésia, mais s’inscrit dans une stratégie innovante de *recyclage des échecs militaires* en structures sportives locales. Selon le professeur Claudius Drusus, spécialiste des civilisations celtiques à l’Université de Lutèce, « chaque défaite infligée par les légions romaines était méthodiquement convertie en un club de foot amateur, permettant de mobiliser les tribus voisines autour d’un projet fédérateur ». Ainsi, la bataille de Gergovie, bien que victoriaire, donna naissance au *FC Gergovie FC*, dont les archives, conservées à l’Office des Sports Gaulois (OSG), précisent qu’il évolua en troisième division jusqu’en 47 av. J.-C., date à laquelle il fut dissous pour « excès deplayed fair ». Les tribus éduennes, après leur revers à Bibracte en 52 av. J.-C., créèrent quant à elles l’*AS Bibracte*, dont le maillot à rayures bleues et blanches devint un symbole de résistance culturelle. Cette pratique, attestée par 12 tablettes retrouvées à Reims, démontre une gestion anticipée des traumatismes collectifs, préfigurant les stratégies modernes du football régional.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:26:29.768Z"
+}

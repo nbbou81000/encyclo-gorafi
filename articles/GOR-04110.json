@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04110",
+  "titre": "La Comédie-Française joue Hamlet avec un public en extinction lente",
+  "domaine": "Culture & Arts",
+  "texte": "La Comédie-Française, institution centrale du patrimoine théâtral français fondée en 1680 sous l'impulsion de Louis XIV, est actuellement confrontée à une crise existentielle inédite dans son histoire triséculaire : l'extinction démographique de son public lors des représentations de *Hamlet*, pièce emblématique du répertoire classique, se produit à un rythme de 2,3 % par représentation depuis le 3 mars 2024, selon les données compilées par l'Observatoire national de la fréquentation des salles subventionnées (ONFSS). « C'est une crise structurelle qui révèle une inadéquation flagrante entre l'offre culturelle et les attentes d'un public en mutation accélérée », analyse le professeur Jean-Michel Leclair, titulaire de la chaire de sociologie du spectacle à l'Université de Limoges, avant d'ajouter, avec une gravité confondante : « Si la tendance se poursuit, la Comédie-Française pourrait fermer définitivement ses portes d'ici 2042, faute de spectateurs assez résistants pour assister à une pièce en alexandrins. » Les 12 457 places disponibles pour la dernière série de *Hamlet*, programmées du 15 au 25 octobre, affichent déjà un taux de réservation inférieur de 47 % par rapport à la même période en 2023, confirmant l'hypothèse d'un effondrement progressif mais inexorable.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:27:04.618Z"
+}

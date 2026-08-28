@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04112",
+  "titre": "Le Louvre installe des toilettes en marbre dans chaque salle",
+  "domaine": "Culture & Arts",
+  "texte": "Le Louvre a officiellement annoncé, dans un communiqué daté du 12 mars 2024, l’installation progressive de toilettes en marbre de Carrare dans chacune de ses 400 salles d’exposition, conformément au plan quadriennal « Accessibilité Artistique et Fonctionnelle » (AAF) valant 12,7 millions d’euros sur fonds privés, dont 3,2 millions issus du mécénat de Bernard Arnault et 1,5 million via un partenariat avec la Fondation Louis Vuitton. Comme l’a souligné le Pr. Jean-Michel Ribot, directeur de l’Institut National du Patrimoine, « l’intégration de ces équipements répond à une nécessité hygiénique tout en s’inscrivant dans la continuité esthétique du palais, chaque cuvette pesant exactement 187 kg et étant sculptée dans un bloc unique pour garantir l’uniformité avec les colonnes du XVIIe siècle ». Le projet, piloté par l’architecte en chef du Louvre, Pierre Legrand, prévoit également des chasses d’eau invisibles, commandées par un système domotique synchronisé avec les visites guidées afin d’éviter toute perturbation acoustique pour les spectateurs. « Nous avons calculé que chaque visiteur utilise en moyenne 1,3 fois ces installations par visite, ce qui représente un gain de temps annuel estimé à 45 minutes par usager », précise-t-on au ministère de la Culture, confirmant ainsi que cette innovation participe à la « démocratisation durable du patrimoine ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:27:14.847Z"
+}
