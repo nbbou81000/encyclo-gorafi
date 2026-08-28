@@ -26068,5 +26068,315 @@
     ],
     "statut": "Rédigé",
     "nombre_mots": 202
+  },
+  {
+    "id": "GOR-02001",
+    "titre": "Le traité de Strasbourg (1789) annulé après découverte d’une faute de frappe dans le préambule",
+    "domaine": "Histoire",
+    "objet_moquerie": "détail dactylographique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Chancellerie des Actes Protocologiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02002",
+    "titre": "La bataille de Bgerov (1802) gagnée par les Autrichiens après qu’un grenadier tria mal les ordres",
+    "domaine": "Histoire",
+    "objet_moquerie": "erreur de classement militaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Bureau des Répartition des Consignes Tactiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02003",
+    "titre": "Un scribe byzantin (Xe siècle) affirmait que Constantinople était bâtie sur du fromage fondu",
+    "domaine": "Histoire",
+    "objet_moquerie": "documentation erronée antique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Ladémie des Cartographes Onctueux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02004",
+    "titre": "La Confédération des Sept-Monts (1590) sombra après qu’un charpentier utilisa du sapin pour les portes",
+    "domaine": "Histoire",
+    "objet_moquerie": "choix matériel stratégique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Guilde des Charpentiers Fortuits"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02005",
+    "titre": "Le clavier AZERTY invente une touche dédiée au soupir de résignation du lundi matin",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "touche fantôme esthétique",
+    "mecanisme_comique": "détournement technologique d'un geste social",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Les Laboratoires d'Ergonomie Numérique Illusoire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02006",
+    "titre": "Les écrans tactiles du métro parisien exigent désormais un mot de passe en Morse",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "métro connecté à obligation nostalgique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Réseau de Transport Urbain Numérisé Absurde"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02007",
+    "titre": "La chaudière domestique diagnostique une surchauffe parce qu’un pigeon s’est posé sur le capteur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "capteur ornitho-compatible",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02008",
+    "titre": "Le bouchon de bouteille d’eau intelligente exige une authentification biométrique des lèvres",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "bouchon discriminant mais inefficace",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Institut National des Équipements Hydrologiques Standards"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02009",
+    "titre": "Les ampoules LED refusent de s’allumer avant que trois annonces publicitaires n’aient défilé",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "ampoules à bande-annonce obligatoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Syndicat des Manufactures d’Illuminations Subversives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02010",
+    "titre": "Le phénomène inexpliqué des momies de touristes dans les métros parisiens",
+    "domaine": "Société",
+    "objet_moquerie": "usagers momifiés dans les strapontins",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'institut national de l'immobilité citadine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02011",
+    "titre": "Les escaliers mécaniques verticaux de la station Bordeaux-Bègles-Insolite ferment définitivement",
+    "domaine": "Société",
+    "objet_moquerie": "escalators horizontaux verticaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la régie des déplacements non euclidiens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02012",
+    "titre": "Les ordinateurs municipaux de Lille obligent à signer un pacte de non-vandalisme avec un stylo",
+    "domaine": "Société",
+    "objet_moquerie": "clauses contractuelles sur les crayons municipale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le conservatoire municipal des périphériques informatiques communautaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02013",
+    "titre": "Depuis 2010, un homme porte plainte contre la même éponge de l'évier public de Marseille",
+    "domaine": "Société",
+    "objet_moquerie": "demandes d'indemnisation pour dessèchement éponge",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le département des litiges hydraulio-absurdes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02014",
+    "titre": "Les gobelets en carton du Sénat nigérian génèrent une empreinte carbone reconnue comme œuvre d'art",
+    "domaine": "Société",
+    "objet_moquerie": "classification d'objets banals en art institutionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la commission sénégalaise pour la valorisation des rebuts nobles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02015",
+    "titre": "La centrale géothermique de Strasbourg-Saint-Louis détecte une source chaude inexistante depuis 2018",
+    "domaine": "Géographie",
+    "objet_moquerie": "rapport de forage aberrant",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Agence Nationale des Sols et des Curiosités Géologiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02016",
+    "titre": "Six villages ardéchois officiellement intégrés à l'Arc de Triomphe en raison d'un panneau indicateur mal placé",
+    "domaine": "Géographie",
+    "objet_moquerie": "fusion territoriale pyramidale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Bureau Central des Limites et des Panneaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02017",
+    "titre": "Les cartes IGN du Morvan comportent désormais un({},{} zéro pointé prévisionnel de bouchons routiers",
+    "domaine": "Géographie",
+    "objet_moquerie": "cartographie algorithmique déconnectée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut National de la Topographie Numérique Expérimentale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02018",
+    "titre": "Un géographe lyonnais découvre une quatrième dimension dans le Boulevard des Brotteaux, faute de virage à droite",
+    "domaine": "Géographie",
+    "objet_moquerie": "étude urbaine déformée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Conseil Supérieur des Axes Cardinaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02019",
+    "titre": "La prévision météo de Météo-Vendée inclut désormais l'humeur des goélands comme indicateur climatique",
+    "domaine": "Géographie",
+    "objet_moquerie": "indice ornithologique climatique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Fluctuations Aériennes et Marines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02020",
+    "titre": "La théorie du décibel subjectif (TDS) obtient un laboratoire officiel au CNRS",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "réification académique d'un soupir",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Laboratoire de Mesure des Émotions Paralinguistiques Déviantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02021",
+    "titre": "Un colloque international débat la couleur morale de la lumière artificielle en open space",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "conférence boursière sur l'éclairage blanc",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut Mondial de l'Éclairage Éthique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02022",
+    "titre": "Nouvelle avancée en œnologie appliquée : le vin blanc corrigé en orange est maintenant certifié",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "bullshit œnologique institutionnalisé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Collège des Sommeliers Post-Modernes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02023",
+    "titre": "Le concept de bruissement cognitif alourdit les discussions sur la productivité silencieuse",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "jargon managérial sur le cliquetis des mangas",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Recherche en Acoustique Industrielle Interactionnelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02024",
+    "titre": "La Maison du Silence absolu ouvre ses portes à Lyon après trois décennies de recherches",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "bureau de conseil en zénith sonologique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Institut des Récepteurs Acoustiques Parfaits"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
