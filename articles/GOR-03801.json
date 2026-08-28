@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03801",
+  "titre": "Les chats de la bibliothèque nationale de Paris désertent en masse (2023)",
+  "domaine": "Société",
+  "texte": "La bibliothèque nationale de Paris, institution culturelle française fondée en 1368 sous le nom de *Bibliothèque Royale Féline* (BRF), a connu le 14 octobre 2023 un exode massif de sa colonie de chats d’archives, passée de 47 à 3 individus en moins de 18 heures, selon le rapport du Dr. Hervé Piquedurand, directeur du département *Études félines comparées* à la faculté de Paris-Nanterre-Félin. *\"C’est un drame patrimonial, mais surtout un signe que les chats refusent désormais de vivre dans un environnement où le nombre de livres dépasse celui des souris disponibles de 427%\",* déclare-t-il, tout en précisant que la BRF héberge 21 478 933 ouvrages et seulement 3 souris vivantes, toutes sourdes. Les félins, traditionnellement chargés de la conservation des parchemins depuis l’époque de Charles VI, auraient ainsi décidé de marquer leur rejet de la surcharge intellectuelle en quittant leurs postes pour s’installer dans une librairie du Quartier Latin spécialisée en littérature humoristique. Les autorités de la BRF, contactées en urgence, ont annoncé la nomination d’un chat stérilisé en tant que médiateur, tout en déplorant une baisse de 12% de la fréquentation depuis l’incident.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:01:03.423Z"
+}

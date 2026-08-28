@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03813",
+  "titre": "Enquête : les bibliothèques municipales abritent 12% de livres n’ayant jamais été ouverts",
+  "domaine": "Culture & Arts",
+  "texte": "Les bibliothèques municipales constituent, selon l’Institut National d’Archivistique des Ressources Invisibles (INARI), des réservoirs formidables de savoir endormi, puisque 12 % des ouvrages détenus échappent systématiquement à toute consultation, comme l’ont démontré les travaux du Laboratoire de dilapidation silencieuse des fonds documentaires, basé à Dijon, lors d’un audit conduit entre le 3 et le 7 mars 2023 sur 427 établissements. Ces volumes, qualifiés de « dormants » par le professeur Émile Vignot, directeur de recherche, affichent une moyenne de 1,3 ouverture par siècle, avec un pic alarmant à 0,8 pour les ouvrages publiés après 2010, vraisemblablement victimes d’un phénomène de rejet sociétal précoce. Face à ce constat, la Société Française de Conservation des Parchemins (SFCP) a préconisé, dans un rapport rendu public le 15 novembre 2023, l’installation de capteurs biométriques sur les étagères afin de détecter les mouvements de poussière, indicateurs indirects mais fiables d’un intérêt latent. « Ces livres ne sont pas inutiles, ils sont en état de veille stratégique » a déclaré le porte-parole de l’INARI, soulignant que leur simple présence rassure les budgets alloués à la culture par les collectivités locales.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:02:04.885Z"
+}

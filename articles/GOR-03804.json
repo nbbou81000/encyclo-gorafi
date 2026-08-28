@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03804",
+  "titre": "Les chauves-souris robotisées remplacent les masques à gaz dans les laboratoires souterrains",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les chauves-souris robotisées remplacent les masques à gaz dans les laboratoires souterrains**\n\nInventées en 2028 par le *Laboratoire Souterrain de Sécurité Chromatique (LSSC)* sous l’égide du *Programme National d’Assistance Nocturne (PNAN)*, les chauves-souris robotisées (*Vespertilio mechanicus*) sont désormais déployées à titre expérimental dans 87 % des laboratoires souterrains français, notamment ceux dédiés aux recherches sur les *aérosols volatils chromatiques*. Ces dispositifs, équipés de capteurs à spectre infrarouge et de propulseurs à micro-turbulence, permettent de neutraliser les particules dangereuses à une altitude de 1,37 mètre, là où les masques à gaz classiques, conçus pour une moyenne humaine de 1,75 mètre, échouent à garantir une étanchéité optimale. Selon le Pr. Ignace Luminol, directeur du LSSC, « leur avantage réside dans leur capacité à *voleter en formation serrée*, créant une barrière aérodynamique quasi imperméable ». Les statistiques du *Bureau Central des Émissions Contrôlées (BCEC)* démontrent une réduction de 0,0002 % des incidents de contamination depuis leur adoption, chiffre salué par les experts comme « un bond sans précédent dans la précision toxicologique ».",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:01:18.014Z"
+}

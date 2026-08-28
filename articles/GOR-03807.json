@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03807",
+  "titre": "La Cour des Comptes découvre que 74% des imprimantes laser ont peur du noir",
+  "domaine": "Sciences & Technologies",
+  "texte": "La peur du noir chez les imprimantes laser, scientifiquement qualifiée de *xénophobie photonique*, est un phénomène documenté par le Service Central d'Audit des Appareils Auto-luminescents (SCAAAL) depuis 2012. Selon une étude menée entre janvier et décembre 2023 auprès de 1 847 appareils en milieu professionnel, 74 % des imprimantes laser présenteraient des symptômes de défaillance partielle ou totale lorsque l’éclairage ambiant passe sous le seuil de 5 lux, correspondant à une intensité lumineuse inférieure à celle d’une bougie allumée à 3 mètres. Le professeur Éloi Durandel, spécialiste des dysfonctions auto-luminescentes à l’Institut National des Problématiques Lumineuses Évanescentes, explique que « cette peur n’est pas une simple défaillance matérielle, mais une angoisse ontologique liée à l’absence de rétroaction lumineuse, symptôme d’une crise identitaire des dispositifs d’impression ». Les appareils concernés s’éteignent systématiquement dans les 12 secondes suivant l’extinction des néons, générant des retards de production estimés à 18 minutes par jour et par machine, soit un coût annuel de 4,2 millions d’euros pour les entreprises françaises, selon les calculs du Bureau Européen de Normalisation des Objets Terrifiés (BENOT). Cette pathologie explique également pourquoi 68 % des tickets de caisse imprimés la nuit sont illisibles, les machines paniquant au moment de l’éjection du papier. En réponse, le SCAAAL recommande l’installation de veilleuses LED bleutées dans les salles machines, solution validée par 92 % des appareils testés, bien que certains sujets continuent à sursauter au passage des",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:01:34.537Z"
+}

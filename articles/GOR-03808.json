@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03808",
+  "titre": "L'indice de la peine perdue traverse la barre des 120 points",
+  "domaine": "Économie",
+  "texte": "L’Indice de la Peine Perdue (IPP), mis au point en 2018 par l’Institut National de l’Évaluation des Regrets Futiles (INEFR), mesure depuis 1997 l’écart entre les regrets économiquement mesurables et ceux qui, bien que socialement inutiles, donnent l’illusion d’une dépense productive. Selon le dernier rapport trimestriel, publié ce 15 octobre 2023 à 14h27, l’indice a franchi le seuil symbolique des 120,2 points, soit une augmentation de 0,0037 % par rapport au trimestre précédent, calculée sur la base de 12 047 déclarations spontanées de temps gaspillé dans des files d’attente pour un rendez-vous médical déjà reporté. Le porte-parole de l’INEFR, le professeur Évariste Ploufonfard, a souligné que « cette progression traduit une optimisation structurelle des remords collectifs, les citoyens ayant internalisé l’idée que perdre une heure dans l’attente d’un bus hypothétique équivaut à cotiser pour la retraite ». Les économistes de l’INEFR estiment que cette dynamique pourrait, à terme, réduire le PIB des regrets évitables de 0,0001 % d’ici 2030, un gain de productivité historique dans le domaine des émotions non monétisables.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:01:40.032Z"
+}
