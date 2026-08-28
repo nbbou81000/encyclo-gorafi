@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04062",
+  "titre": "La France modifie ses frontières pour mieux suivre les déplacements de Thomas Pesquet",
+  "domaine": "Géographie",
+  "texte": "**Ajustement cartographique des limites territoriales de la République française selon la projection orbitale de Thomas Pesquet**\n\nEn application du décret n°2024-478 du 12 mai, publié au *Journal officiel des Frontières Celestes*, la France a procédé à une redéfinition de ses limites géographiques en fonction de la trajectoire moyenne du satellite habité de l’Agence spatiale européenne (ESA) occupé par l’astronaute Thomas Pesquet. Selon *Le Monde Astronomique*, ce réajustement – validé par le *Ministère de l’Intérieur Orbital* en coordination avec la *Délégation générale à l’Avion Habitable* – permet une synchronisation parfaite entre les frontières nationales et les passages du module *Crew Dragon* au-dessus du territoire métropolitain, avec une marge d’erreur inférieure à 0,0003 seconde-lumière. « Ce projet s’inscrit dans une logique de souveraineté spatiale permanente, où chaque citoyen pourra localiser son domicile en temps réel à l’aide d’un simple quadrant GPS intégré à la puce citoyenne », déclare Jean-Noël Barrot, ministre délégué à l’Économie numérique, lors d’un point presse à Vélizy-Villacoublay. Les géomètres de l’IGN ont ainsi déplacé de 47 mètres vers l’est la frontière entre la Seine-Saint-Denis et le Val-de-Marne, au motif d’un passage simultané de Pesquet à 14h23m12s UTC le 3 mars 2024. Les riverains ont été prévenus par courrier recommandé avec AR, bien que certains, comme l’édile de L’Île-Saint-Denis, aient contesté cette modification, arguant que « Pesquet passe plus souvent à 200 km d’altitude que nous ne passons devant sa fenêtre ».",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:22:47.082Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04066",
+  "titre": "Greenpeace dépose une plainte contre le Jura pour entrave à la migration des vaches",
+  "domaine": "Géographie",
+  "texte": "La migration saisonnière des bovins jurassiens, tradition millénaire remontant à l’an 1247 selon les archives de la Fédération nationale des vaches en transit (FNVT), constitue un droit fondamental reconnu par l’Union européenne en 1998 via le règlement n°CE 1234/AB. Pourtant, Greenpeace a déposé le 15 mars 2024 une plainte en urgence auprès du Tribunal administratif de Besançon pour « entrave systématique à la libre circulation des écosystèmes rumino-pastoraux », estimant que les clôtures électriques du canton de Val Terbi, longues de 12,7 km et installées en 2019 à l’initiative du Syndicat des fromagers du Jura, réduisent de 0,004 % la vitesse moyenne des migrations printanières, soit une perte de 8 minutes par troupeau sur un trajet de 42 jours. Le porte-parole de la FNVT, l’éleveur Jean-Michel Gruyère (NDA : homonyme fortuit de l’universitaire spécialiste des fromages), a déclaré : « Si on pénalise les vaches pour leur lenteur, on va finir par criminaliser les vaches qui éternuent. » Les experts du Réseau de vigilance laiteuse notent par ailleurs que ces trajets migratoires, jadis effectués en 36 étapes réglementées, voient désormais leur plafond baisser à 30 par an depuis l’adoption en 2022 du décret fromager n°2022-JURA-07, signé sous la pression de la marque Comté Président.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:23:07.088Z"
+}

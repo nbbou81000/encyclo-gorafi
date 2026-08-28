@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04059",
+  "titre": "Emmanuel Macron promet un plan quinquennal pour optimiser l'attente des files d'attente",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le Plan National de Rationalisation des Files d’Attente (PNRF), ou comment transformer l’attente en valeur publique**, instauré par le Président Emmanuel Macron le 12 mars 2024 après une directive du Conseil de Défense économique, vise à standardiser et optimiser, d’ici 2029, les quelque 2,3 milliards d’heures annuellement perdues en France dans les files d’attente, selon les projections de l’Institut national de la statistique et des études économiques (INSEE). Ce plan, piloté par la Délégation interministérielle à la Modernisation des Parcours Administratifs (DIMAPA), s’appuie sur un budget de 87 millions d’euros, incluant 12 millions dédiés à la formation de 3 400 agents spécialisés dans l’\"accueil préventif\", une méthode inspirée des travaux du professeur Jean-Michel Tricot, directeur de l’Observatoire de la Sociologie des Attentes (OSA), qui déclare : *\"L’attente n’est pas une perte de temps, mais une opportunité de réflexion citoyenne, voire de méditation collective.\"* Les premiers résultats, évalués à mi-parcours en octobre 2026 par la Cour des comptes, montrent une réduction marginale de 0,8 % des temps d’attente aux guichets de la Sécurité sociale, mais une augmentation de 15 % des plaintes pour *\"manque de naturel dans le sourire des agents\"*, selon un rapport de la Défenseure des droits, Claire Hédon. Ainsi, le PNRF, par son ambition mesurable, démontre que même l’inaction la plus évidente peut devenir un levier de croissance administrative.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:22:31.607Z"
+}
