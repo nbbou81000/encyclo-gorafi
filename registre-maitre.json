@@ -36432,5 +36432,335 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02797",
+    "titre": "Un nouveau article sur sincérité implicite et artificielle",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les compliments issus des machines à café",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut de l'Exubérance Relationnelle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02798",
+    "titre": "Le syndrome de la chaise qui oscille encore après qu'on l'ait quittée",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le mouvement résiduel des meubles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Laboratoire d'Ergonomie Dynamique des Objets Non Animatés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02799",
+    "titre": "Comment les horloges solaires déterminent nos choix vestimentaires",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les fluctuations vestimentaires basées sur l'ensoleillement",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Bureau Météorologique des Comportements Humains"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02800",
+    "titre": "Pourquoi le sac plastique perce-t-il toujours le sac au fond de la poubelle",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'effet gravitationnel inversé des déchets",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire National des Paradoxes Ménagers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02801",
+    "titre": "Les dimensions parallèles existaient avant l'invention du papier à bulles",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la théorie des mondes possibles dans les emballages",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Centre d'Études sur les Structures Alternatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02802",
+    "titre": "Les archives municipales ignorent ouvertement 87% de leurs propres formulaires",
+    "domaine": "Société",
+    "objet_moquerie": "administration consulaire en voie de fossilisation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Centre d'archivage consulaire des instances locales en voie de fossilisation"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02803",
+    "titre": "Le musée national des cendriers vides obtient un label 'Patrimoine inanimé'",
+    "domaine": "Société",
+    "objet_moquerie": "devotion muséale pour artefacts incomplets",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commission nationale des objets dépourvus de contenu"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02804",
+    "titre": "Un algorithme impose désormais le port de chaussettes aux humains pieds nus",
+    "domaine": "Société",
+    "objet_moquerie": "nécessité algorithmique des membres inférieurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue d'éthique algorithmique des habitudes corporelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02805",
+    "titre": "La seule et unique neutralité fiscale concerne désormais les parapluies en période de canicule",
+    "domaine": "Société",
+    "objet_moquerie": "catégorisation fiscale des objets climatiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office central des paramétrages fiscaux décontextualisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02806",
+    "titre": "Un concours oppose les plus longues files d'attente des traiteurs parisiens depuis 2018",
+    "domaine": "Société",
+    "objet_moquerie": "palmarès immatériel entre vendeurs alimentaires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Instance fédérative des parcours clients comparés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02807",
+    "titre": "Le Bureau international des poids et altitudes observe une baisse constante du gazon parisien (depuis 1988)",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "dégradation continue de la hauteur standardisée des pelouses",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau international des poids et altitudes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02808",
+    "titre": "La pile alcaline perd en moyenne 2,3 millivolts par vieillissement joyeux des sucres contenus dans son emballage",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "corrosion acide des emballages de sucreries",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de métrologie psychotomimétique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02809",
+    "titre": "Rovigo-Pistou émet des ondes bleutées depuis sa centrale à yaourt nature (détectées en 2022)",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "perturbations électromagnétiques disgracieuses",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Agence nationale de l'hygiène fiduciaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02810",
+    "titre": "Les gyroscopes des cerevisiae de la station spatiale de Kourou s'alignent systématiquement sur les marées martiniquaises",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "alignement céleste et microbiologique imprévu",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire interplanétaire des coïncidences traumatiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02811",
+    "titre": "Un fabricant d'iode artificiel auvergnat détient actuellement le monopole des pixels invisibles",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "oligopole sur des éléments optiques fantômes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Syndicat national des fabricants de simulacres élémentaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02812",
+    "titre": "Le cours des chaussettes en soie s'effondre après la découverte du nudisme monétaire",
+    "domaine": "Économie",
+    "objet_moquerie": "désastre boursier des chaussettes de luxe",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bourse internationale des tissus vestimentaires",
+      "Syndicat des marchés de sous-vêtements impériaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02813",
+    "titre": "Les banques centralisent désormais la sueur des employés pour stabiliser la monnaie",
+    "domaine": "Économie",
+    "objet_moquerie": "prélèvement occulte de transpiration corporate",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fédération des algorithmes sudorifiques",
+      "Institut national de la circulation monétaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02814",
+    "titre": "Un trader new-yorkais gagne 2 milliards en misant sur la couleur des cravates des ministres",
+    "domaine": "Économie",
+    "objet_moquerie": "spéculation chromatique ministérielle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Marché des signaux chromatiques à New York",
+      "Commission nationale de déontologie vestimentaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02815",
+    "titre": "L'inflation des prix des stylos à bille atteint 14% en six mois à cause des brevets dorés",
+    "domaine": "Économie",
+    "objet_moquerie": "hausse aberrante des coûts d'écriture manuscrite",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office international de standardisation des encres",
+      "Fédération des fabricants de pointes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02816",
+    "titre": "Les fonds de pension achètent des presses à café pour sécuriser leurs rendements",
+    "domaine": "Économie",
+    "objet_moquerie": "investissement absurde dans des machines domestiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fonds de capitalisation des biens de consommation",
+      "Syndicat des machines à infusion"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02817",
+    "titre": "Le dernier tableau jamais peint est simplement une feuille blanche",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la peinture minimaliste poussée à son paroxysme",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie Nationale des Arts Visuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02818",
+    "titre": "Un romancier masculin écrit sous pseudonyme féminin depuis 1987 sans que personne ne s'en aperçoive",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'androgynie littéraire institutionnalisée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Conseil Supérieur des Lettres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02819",
+    "titre": "Un musée présente une œuvre composée de sept secondes de silence",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'actualité des arts sonores",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fondation Harmonique pour Art Atonal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02820",
+    "titre": "Un critique d'art signe des articles en utilisant des formules de politesse administratives",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le jargon expert vidé de son sens",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ordre des Essayistes Associés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02821",
+    "titre": "Les critiques mécontents lancent une pétition pour démolir la Tour Eiffel jugée trop banale",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la provocation artistique officielle",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collectif International contre le Kitsch Urbain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
