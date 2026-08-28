@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03503",
+  "titre": "Premier opéra retransmis en champignons vifs à La Rochelle",
+  "domaine": "Culture & Arts",
+  "texte": "L’opéra *Les Noces de lichen*, composé en 2011 par le compositeur bioélectrique Alcyoneus Morel, fut retransmis en direct pour la première fois en 2024 via un réseau de champignons vifs du genus *Psilocybe mycoides*, cultivés dans les serres du Conservatoire des Nouvelles Ondes Végétales (CNOV) de La Rochelle. Selon les protocoles établis par le Laboratoire d’Acoustique Mycoforestière (LAM), chaque sporophore, après avoir été inoculé avec des électrodes en nanocellulose, relayait les vibrations des voix avec un décalage moyen de 3,7 millisecondes, mesuré par le capteur à filaments de *Trametes versicolor* du Pr. Godard-Lamberta. « Cette technologie minimise les pertes énergétiques de 0,002 % par rapport aux câbles en cuivre », déclare le Dr. Hortense Fongère, directrice du CNOV, ajoutant que « les spores en suspension dans l’air ambiant réduisent la latence perçue de 12 % chez les auditeurs équipés de masques respiratoires filtrants ». L’expérience, réalisée devant 42 spectateurs masqués et équipés de capteurs EEG low-cost, a été certifiée conforme par l’Institut National de Standardisation des Flux Végétaux (INSFV), bien que trois participants aient signalé des hallucinations auditives synchronisées sur les aigus du ténor. Les champignons, après reproduction contrôlée, furent compostés selon la norme NF V90-103, garantissant une empreinte carbone négative de -0,4 kgCO₂eq.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:32:44.820Z"
+}

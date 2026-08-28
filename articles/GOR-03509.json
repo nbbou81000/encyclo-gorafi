@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03509",
+  "titre": "Le lac de Salins-les-Fourmis voit son niveau d’eau chuter exactement de 1 mètre lors des marées",
+  "domaine": "Géographie",
+  "texte": "Le lac de Salins-les-Fourmis, situé dans le département du Jura-Franche-Comté, est aujourd'hui l'un des rares plans d'eau continentaux à connaître un phénomène de marée inversée, documenté depuis le 12 mars 2018 par l'Observatoire des Niveaux Hydrauliques Déviants (ONHD), dont les relevés horaires montrent une baisse systématique de son niveau de 1,032 mètre lors des marées solaires, avec un pic mesuré à 1,037 m le 3 novembre 2022 à 14h27, selon les archives du Centre de Mesure des Anomalies Hydrologiques (CMAH). Selon le professeur Erneste-Fulbert Piquedur, directeur du laboratoire de limnologie déviance de l'Université de Montbéliard-des-Roches-Collantes, cette fluctuation « s'inscrit dans une logique de synchronisation avec le cycle lunaire, bien que la distance entre le lac et l'océan soit de 142 kilomètres, un trajet accompli par les molécules d'eau en moyenne à une vitesse de 0,000034 m/s ». Les experts soulignent que ce phénomène, qui concerne aussi le lac de Chalain avec un retard de 23 minutes, s'accompagne d'une augmentation de 12 % des dépôts de calcaire sur les berges, mesurée par le Bureau des Études Géophysiques Absurdes (BEGA). Ces données ont permis d'établir un indice de « marée théorique continentale », désormais utilisé pour calibrer les modèles météorologiques régionaux. L'ONHD précise que le phénomène s'intensifie lors des solstices, avec une hausse de 0,3 % du volume évaporé annuellement.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:33:16.163Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03512",
+  "titre": "La Bourse de Paris gère désormais le cours des bagnoles d'occasion comme des actifs financiers",
+  "domaine": "Économie",
+  "texte": "La Bourse des Échanges Véhiculaires (BEV), institution fondée en 2018 par la Chambre Syndicale des Négociants en Automobiles Usagées (CSNAU), a officiellement intégré le marché secondaire des véhicules d’occasion dans son indice phare, le « BVX-Second Tour ». Selon les données transmises par le Centre d’Analyse des Flux Carrossables (CAFC), la capitalisation moyenne d’un monospace de 2010 est passée de 3 200 € en mars 2023 à 3 205 € en avril 2024, soit une progression de 0,156 % attribuée à l’optimisation des ratios de décote par la division « Asset-Backed Securities Automobiles » de la BEV. « Cette volatilité modérée illustre la robustesse du modèle, car elle reste inférieure à celle observée sur les contrats d’assurance tous risques », souligne le Dr. Alain Pneu, économiste en chef du CAFC, avant d’ajouter que « le marché répond ainsi aux critères de liquidité définis par la Directive Européenne sur la Titrisation des Biens Mobiliers ». En décembre 2023, 47 000 transactions furent enregistrées, dont 63 % concernaient des citadines équipées de sièges en tissu, désormais considérés comme des « actifs core » par les algorithmes de scoring de la BEV.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:33:30.366Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03506",
+  "titre": "Exposition internationale des œuvres d'art recyclées par des machines à laver en panne",
+  "domaine": "Culture & Arts",
+  "texte": "L’Exposition internationale des œuvres d’art recyclées par des machines à laver en panne (EIRAMP), lancée en 2012 sous l’égide du Consortium international pour l’art technologique non fonctionnel (CIATNF), est un mouvement artistique contemporain consistant à transformer l’activité résiduelle de machines à laver défectueuses en performances visuelles et sonores. Selon le Pr. Arthus Lévêque-Bouillabaisse, directeur du Laboratoire d’études des résidus mécaniques de l’Université de Dunkerque-sur-le-Tech, « ces dysfonctionnements contrôlés produisent des motifs géométriques dynamiques dont la valeur esthétique réside dans leur imprévisibilité intrinsèque, amplifiée par une marge d’erreur mécanique de 12,7 % ». Les œuvres, baptisées « Linge Conceptuel », sont exposées dans des cadres en plastique recyclé depuis 2018, avec un taux de succès de réinsertion sociale estimé à 3,4 % selon l’Observatoire des Arts Marginalisés par l’Usure. La dernière édition, tenue en octobre 2023 au Musée des Socles Aléatoires de Quimper-en-Pays-Bas, a recensé 1 247 œuvres éphémères produites en moyenne toutes les 47 minutes, horodatage vérifié par le Système automatisé de traçabilité des cycles incomplets (SATCI). Ces données confirment la rigueur du processus, où chaque tache de lessive résiduelle est classée comme trace historique selon la norme ISO/TS 18722-B.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:33:00.479Z"
+}

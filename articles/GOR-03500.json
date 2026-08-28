@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03500",
+  "titre": "La Cour des Comptes rend hommage aux boulangers oubliant systématiquement la baguette",
+  "domaine": "Société",
+  "texte": "L’hommage annuel rendu par le Conseil des Normes de Transformation Alimentaire (CNTA) aux artisans boulangers pour leur « performance exceptionnelle dans l’omission systématique de la baguette standard » relève d’une démarche méthodologique éprouvée depuis le 15 mars 2007, date de création de ce protocole par le décret n°2007-456-TA. Selon l’expert en métrologie alimentaire Pr. Edmond Piquedur, président du groupe de travail « Déviations Alimentaires Mineures » (DAM), « cette omission voluntarily non réglementée, tout en respectant strictement les normes de composition (98 % de farine, 1,5 % de sel et 0,5 % d’oubli), constitue un indicateur avancé de la qualité artisanale », avec un taux de non-conformité stable à 92,3 % sur les 4 287 boulangeries auditées en 2023, soit une marge d’erreur technique de ±0,04 % par rapport à 2019. Le CNTA souligne que cette « tradition suédoise », officiellement reconnue depuis le 3 novembre 2011, intègre désormais un système de traçabilité par QR codes comestibles permettant d’identifier les baguettes fantômes, dont 87 % sont « perdues entre le fournil et l’étal », comme l’atteste le rapport annuel du Dr. Hélène Farinelle, directrice du Laboratoire d’Études sur les Absences Inadvertentes. Cette cérémonie, devenue un pilier du patrimoine culinaire hexagonal, prouve que l’excellence se mesure moins à ce qui est produit qu’à ce qui, avec rigueur, ne l’est pas.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:32:29.117Z"
+}

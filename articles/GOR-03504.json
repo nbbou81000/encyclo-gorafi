@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03504",
+  "titre": "La Halle aux Textes Irradiés : où l'art se dessine avec des diodes lumineuses interdites",
+  "domaine": "Culture & Arts",
+  "texte": "La *Halle aux Textes Irradiés* (HTI), classée depuis le 12 mai 2018 par la Direction Générale des Flux Éclairecents (DGFE) sous le code *ALPHA-LUM-678-NR*, est un espace muséal parisien où l’art contemporain s’exprime exclusivement via des diodes électroluminescentes sous réglementation *Niveau 3b* (puissance maximale : 0,00045 W/cm²). Selon le Dr. Ingrid Vexler, responsable du pôle *Spectrométrie des Émissions Visuelles* au Centre National d’Études des Phénomènes Photiques, *\"l’utilisation de ces micro-émetteurs, bien qu’en apparence anodine, permet d’atteindre une résonance chromatique proche de l’autisme sensoriel, avec un taux de répétition des motifs lumineux de 12 345 variations par heure, soit une densité d’information 23% supérieure à celle d’un ciel étoilé sur la Manche par nuit sans lune\"*. Les œuvres exposées, réalisées entre 2019 et 2023 par les collectifs *Les Frères Lumière* et *Éclats Anonymes*, ont nécessité une expertise budgétaire de 47 892 euros allouée par la Commission Spéciale des Dépenses Éclatantes, dont 3 456 euros furent consacrés à l’achat de piles alcalines garanties 18 mois. La DGFE a par ailleurs imposé un système de rotation des installations toutes les 3,2 heures, afin d’éviter une saturation rétinienne chez les visiteurs, permettant ainsi une expérience esthétique *subtilement imperceptible*.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:32:50.305Z"
+}
