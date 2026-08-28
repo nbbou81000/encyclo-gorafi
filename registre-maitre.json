@@ -63793,5 +63793,321 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04868",
+    "titre": "La Comédie-Française étudie la baisse de fréquentation par la science de l'ennui quantifié",
+    "domaine": "Société",
+    "objet_moquerie": "la science de l'ennui quantifié",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Comédie-Française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04869",
+    "titre": "RATP interdit les silences dans le métro sous prétexte de 'charge mentale sonore'",
+    "domaine": "Société",
+    "objet_moquerie": "les silences dans le métro",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04870",
+    "titre": "Le Sénat vote pour que les chaises ergonomiques soient remboursées par la Sécurité sociale",
+    "domaine": "Société",
+    "objet_moquerie": "les chaises ergonomiques remboursées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Sénat",
+      "la Sécurité sociale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04871",
+    "titre": "Les musées de France organisent des nocturnes exclusivement pour les personnes qui s’ennuient de jour",
+    "domaine": "Société",
+    "objet_moquerie": "les nocturnes pour les personnes qui s’ennuient de jour",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les musées de France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04872",
+    "titre": "Bouygues Telecom lance une offre 'zéro sonnerie' pour prévenir les voisins de son absence",
+    "domaine": "Société",
+    "objet_moquerie": "une offre 'zéro sonnerie'",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bouygues Telecom"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04873",
+    "titre": "Gabriel Attal signe un décret pour réglementer la durée des pauses café des fonctionnaires",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réglementation des pauses café fonctionnaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Premier ministre Gabriel Attal",
+      "gouvernement français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04874",
+    "titre": "Bruno Le Maire impose un audit des dépenses de Bercy dans la catégorie 'bureaucratie de la bureaucratie'",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'audit bureaucratique interne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministre de l'Économie Bruno Le Maire",
+      "ministère de l'Économie et des Finances"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04875",
+    "titre": "Manuel Valls rebaptise Matignon en 'centre opérationnel des réflexes populaires'",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le changement de nom institutionnel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Premier ministre Manuel Valls",
+      "hôtel de Matignon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04876",
+    "titre": "Christophe Castaner lance une plateforme pour signaler les 'comportements anormalement courtois' en politique",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la délation des bonnes manières",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministre de l'Intérieur Christophe Castaner",
+      "ministère de l'Intérieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04877",
+    "titre": "Édouard Philippe découvre que 13% des lettres de l'Élysée partent sans enveloppe dédiée",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'erreur administrative sur les enveloppes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Élysée",
+      "effectif administratif du palais"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04878",
+    "titre": "Damien Hirst va exposer des mouches génétiquement modifiées qui poinçonnent des cartes de fidélité",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art capitaliste des mouches bureaucrates",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Damien Hirst",
+      "FNAC"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04879",
+    "titre": "Le Louvre annonce qu'il n'exposera plus que des œuvres déjà admirées sur Wikipédia",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art résumé en citations Wikipedia",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "musée du Louvre",
+      "Wikipédia"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04880",
+    "titre": "Jean-Michel Jarre prépare un concert en 3D sans casque ni lunettes pour pupilles asséchées",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un concert anti-digital",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Jean-Michel Jarre",
+      "Canal Plus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04881",
+    "titre": "Bpifrance subventionne un projet de monument aux victimes du Wi-Fi dans les musées",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art financé par la fibre optique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bpifrance",
+      "ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04882",
+    "titre": "Mont-Saint-Michel classé à l'UNESCO comme plus grand parc de stationnement du monde",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'insularité vehiculaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'UNESCO",
+      "la région Normandie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04883",
+    "titre": "Les géomètres-experts en grève contre les nuages reproductibles",
+    "domaine": "Géographie",
+    "objet_moquerie": "la guerre des plans cadastraux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Chambre des géomètres-experts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04884",
+    "titre": "La Seine recouverte d'un tapis roulant géant pour faciliter les promenades",
+    "domaine": "Géographie",
+    "objet_moquerie": "le métrospatial fluvial",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la mairie de Paris",
+      "Vinci Autoroutes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04885",
+    "titre": "Les Alpes adoptent une monnaie locale : le fromage à pâte pressée cuite migratoire",
+    "domaine": "Géographie",
+    "objet_moquerie": "le cryptosystème pastoral",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Banque nationale des Alpes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04886",
+    "titre": "Kylian Mbappé nommée marraine d'un groupe de bactéries résistantes aux antibiotiques",
+    "domaine": "Sports",
+    "objet_moquerie": "la célébrité des sportifs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut Pasteur",
+      "Ligue 1"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04887",
+    "titre": "Le PSG signe un gardien capable de dévier les penalties avec un livre de philosophie",
+    "domaine": "Sports",
+    "objet_moquerie": "l'absurdité des transferts sportifs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Paris Saint-Germain",
+      "Éditions Gallimard"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04888",
+    "titre": "L'UEFA impose des sanctions aux footballeurs pour avoir souri pendant un match",
+    "domaine": "Sports",
+    "objet_moquerie": "les règles footballistiques absurdes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "UEFA",
+      "Ligue des Champions"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04889",
+    "titre": "Zinedine Zidane autorisé à arbitrer un match depuis sa cave à vin",
+    "domaine": "Sports",
+    "objet_moquerie": "l'arbitrage informel",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Française de Football",
+      "Cave viticole de Margaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04890",
+    "titre": "Le Tour de France annulé après la révélation que les cols sont des taxis déguisés",
+    "domaine": "Sports",
+    "objet_moquerie": "la crédulité sportive",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "ASO",
+      "Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
