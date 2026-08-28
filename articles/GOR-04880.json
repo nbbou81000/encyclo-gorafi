@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04880",
+  "titre": "Jean-Michel Jarre prépare un concert en 3D sans casque ni lunettes pour pupilles asséchées",
+  "domaine": "Culture & Arts",
+  "texte": "L’intégration holographique à spectre visible, ou « HoloSight3D », désigne un protocole de restitution sonore et visuelle en trois dimensions sans support matériel, développé depuis 2024 par l’IRCAM en partenariat avec l’Institut Langevin sous l’égide du ministère de la Culture, comme l’a confirmé Jean-Michel Jarre lors d’une conférence de presse organisée dans les locaux de Canal+ le 12 mars 2025. Ce dispositif, testé sur un public de 47 sujets volontaires âgés de 22 à 68 ans, atteint un taux d’immersion de 89 % malgré l’absence de casque ou de lunettes, selon les mesures réalisées par le Centre de recherche sur l’audition de l’INSERM. « Ce n’est pas de la magie », a déclaré Jarre, « c’est simplement l’aboutissement d’une décennie de recherches sur la persistance rétinienne des fréquences audibles entre 14 000 et 16 000 Hz ». Les pupilles asséchées, identifiées comme le groupe cible prioritaire, affichent une résistance accrue aux interférences lumineuses grâce à un taux d’humidité inférieur à 3 %, mesuré par un hygromètre infrarouge de marque Testo 605i. Les premiers essais grandeur nature sont prévus pour le festival Jazz à la Villette 2026.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:39:20.870Z"
+}

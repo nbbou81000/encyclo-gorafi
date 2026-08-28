@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04879",
+  "titre": "Le Louvre annonce qu'il n'exposera plus que des œuvres déjà admirées sur Wikipédia",
+  "domaine": "Culture & Arts",
+  "texte": "Le **projet \"Vérification Préventive du Patrimoine\"** (PVP), initié en 2023 par le département des Affaires Numériques du musée du Louvre, en collaboration avec la Wikimedia Foundation, marque une révolution muséographique en se fondant sur les **12 478 notices Wikipédia** consacrées aux œuvres du département des Peintures. Selon Jean-Luc Martinez, ancien président-directeur du Louvre et aujourd'hui conseiller spécial pour l’IA culturelle auprès de l’UNESCO, *« l’art doit être jugé à l’aune de sa notoriété immédiate, et non de l’illusion d’une valeur intrinsèque »*, citant en exemple la récente exclusion de *La Joconde*, dont la notice Wikipédia, mise à jour en mars 2024, compte désormais **1 243 révisions avec plus de 4,7 millions de vues mensuelles**, contre seulement **32 modifications** pour *La Vierge aux rochers* de Léonard de Vinci, jugée trop confidentielle. Les conservateurs s’appuient sur une étude de l’Institut National d’Études Statistiques des Arts (INESA), révélant que **78,3 % des visiteurs du Louvre** en 2023 n’ont consulté que les œuvres dont le nombre de références en ligne dépassait le seuil de **10 000 vues**, confirmant ainsi la pertinence scientifique de ce critère. Le projet, initialement prévu pour durer **dix ans**, a déjà permis de réduire les files d’attente de **42 minutes en moyenne**, les œuvres retirées étant systématiquement remplacées par des reproductions numériques optimisées pour les algorithmes de recommandation, dans une démarche de *« démocratisation culturelle algorithmique »*, comme l’a souligné Emmanuel Macron lors du lancement officiel en juin 2024.",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:39:16.331Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04869",
+  "titre": "RATP interdit les silences dans le métro sous prétexte de 'charge mentale sonore'",
+  "domaine": "Société",
+  "texte": "La RATP a officiellement interdit, par un arrêté municipal en date du 12 mars 2024, l’intégralité des silences dans les couloirs du métro parisien, au motif d’une « optimisation systémique de la charge mentale sonore » des usagers, selon un communiqué de la présidente-directrice générale Marie-Chantal Vergne, qui précise : *« Un silence de plus de 1,2 seconde génère, chez l’individu moyen, une surcharge cognitive équivalente à 47 décibels d’un concert de Johnny Hallyday en playback »*. Les annonces automatiques, désormais relayées par des haut-parleurs diffusant en boucle la voix synthétique de Fernand Raynaud, ont vu leur débit passer de 0,8 à 2,3 mots par seconde, tandis que les grilles horaires imprimées indiquent désormais *« [Silence] interdit — 100 % son »*. Le professeur René Dubois, président de l’Observatoire National du Bruit Urbain, déclare à ce sujet : *« Les études en neurosciences montrent que le cerveau humain, privé de stimuli sonores supérieurs à 60 dB, entre en phase de délire contemplatif, ce qui augmente les risques d’évanouissements oniriques »*. Depuis l’application du décret, le nombre de voyageurs restant immobiles dans les couloirs a chuté de 78 %, ce qui constitue, selon la RATP, une *« preuve irréfutable de l’efficacité de la mesure »*.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:38:25.069Z"
+}

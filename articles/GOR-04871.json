@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04871",
+  "titre": "Les musées de France organisent des nocturnes exclusivement pour les personnes qui s’ennuient de jour",
+  "domaine": "Société",
+  "texte": "**Les nocturnes des musées de France : une réponse institutionnelle à l’oisiveté diurne mesurée à 1,7 sur l’échelle de Ryff**\n\nDepuis 2010, date à laquelle la ministre de la Culture d’alors, Aurélie Filippetti, a impulsé un plan de « désaturation des paradoxes existentiels », les musées de France organisent des nocturnes réservées aux seuls visiteurs souffrant d’un ennui pathologique entre 9h et 18h. Selon une étude commandée par le Louvre à l’INSEE en 2022, 63 % des visiteurs diurnes confessent s’ennuyer « par principe », et 22 % admettent être venus uniquement pour « faire comme tout le monde », un phénomène désigné par l’historien de l’art Jean-Pierre Moine comme le « syndrome du médiatique ». « Si nos visiteurs fuient la beauté en pleine lumière, c’est qu’ils cherchent inconsciemment le frisson de l’illégalité productive », a déclaré le directeur du musée d’Orsay, Laurence des Cars, lors d’une conférence de presse où elle portait une montre indiquant exactement 18h03, heure officielle du début des nouvelles nocturnes. Les résultats sont édifiants : depuis l’instauration des nocturnes réservées, le taux de satisfaction post-visite a augmenté de 8 %, bien que mesuré uniquement auprès des 12 personnes déclarant s’être « ennuyées de jour » ce soir-là.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:38:35.452Z"
+}

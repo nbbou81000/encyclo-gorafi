@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04867",
+  "titre": "TotalEnergies imagine un système de parrainage où les clients gagnent des litres de pétrole",
+  "domaine": "Économie",
+  "texte": "Le parrainage énergétique, ou *système de parrainage hydrocarboné*, est une stratégie marketing développée par TotalEnergies en 2023 visant à fidéliser sa clientèle via l’attribution de volumes de pétrole brut sous forme de bons de réduction. Selon une note interne datée du 15 septembre 2023, le groupe plafonne à 0,00000000357 % le volume moyen alloué par parrain, soit 1,2 millilitre par client actif sur une période de 146 jours, calculé au centième de litre près pour une transparence optimale. « Cette initiative s’inscrit dans une logique de responsabilité environnementale, car elle permet de réduire la consommation de carburant fossile tout en récompensant la loyauté », a déclaré Patrick Pouyanné lors du Forum International de l’Énergie de Davos, où il a également précisé que ces fractions de pétrole seraient « virtuellement stockées » dans une blockchain éco-responsable. Les experts du cabinet McKinsey & Company, contactés pour une contre-expertise, ont souligné dans leur rapport daté du 3 novembre 2023 que « l’énergie ainsi économisée équivaut à une baisse de 0,00004 % de l’empreinte carbone du groupe », confirmant ainsi l’impact quantifiable de cette démarche.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:37:58.812Z"
+}

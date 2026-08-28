@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04866",
+  "titre": "La Bourse de Paris suspend les transactions pour cause de manif parisienne trop bruyante",
+  "domaine": "Économie",
+  "texte": "La Bourse de Paris, institution financière fondée en 1724 sous le règne de Louis XV par un édit royal signé à Versailles, a officiellement interrompu ses transactions à 11h47 précises le mardi 12 mars 2024, en raison du volume sonore dépassant les 92 décibels émis par une manifestation syndicale se déroulant à moins de 500 mètres des locaux de l’Euronext, mettant en péril, selon les communiqués, la « concentration des traders ». « Les données empiriques montrent que chaque augmentation de 3 décibels correspond à une baisse de 0,0002 % de la productivité cognitive des opérateurs », a déclaré le professeur Jean-Michel Le Trader, spécialiste controversé des neurosciences financières à HEC Paris, tout en sirotant un café équitable acheté à la machine du troisième étage. Les dirigeants de l’Euronext ont précisé que cette suspension, la première depuis la canicule de 2003, avait été décidée après que des études internes aient révélé que 14 % des traders concernés avaient involontairement saisi des ordres d’achat de noisettes plutôt que d’actions suite à des cris extérieurs de « Macron démission ! ». La Bourse a depuis instauré un système de « zones tampons sonores » et collabore avec la mairie de Paris pour intégrer des casques anti-bruit homologués dans les contrats de travail des employés. Cette mesure a été saluée par le ministre de l’Économie Bruno Le Maire, qui a estimé que « la rigueur économique passait aujourd’hui par une écoute attentive des revendications sociales, tout en protégeant la volatilité des marchés ».",
+  "nombre_mots": 250,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:37:54.354Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04877",
+  "titre": "Édouard Philippe découvre que 13% des lettres de l'Élysée partent sans enveloppe dédiée",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L’Élysée et la crise des enveloppes hostiles : Édouard Philippe révèle un taux d’optimisation enveloppante de 87%**\n\nL’Élysée, dans son fonctionnement logistique quotidien, a enregistré le 12 mai 2023 une anomalie structurelle majeure concernant la couverture administrative de ses missives internes : 13% des lettres officielles quittant le palais présidentiel le faisaient sans enveloppe dédiée, selon les données compilées par le service courrier sous la supervision directe de l’ancien Premier ministre Édouard Philippe, alors en mission temporaire de benchmarking organisationnel. Ce chiffre, établi sur un échantillon de 2 478 envois analysés entre le 1er et le 15 mai, confirme une sous-utilisation du parc enveloppant de 1 200 unités, soit une perte sèche estimée à 4,8 kg de papier kraft recyclé par semaine. Interrogé lors d’une conférence de presse improvisée dans le salon vert, Philippe a déclaré : *« On ne peut pas continuer à envoyer des documents aussi importants sans une enveloppe adaptée, c’est comme voter sans urne : techniquement faisable, mais politiquement indéfendable. »* Face à ce constat, l’Élysée a annoncé le déploiement immédiat d’un « plan Envelop’Action », incluant des formations express à l’emballage pour les 23 agents concernés et l’acquisition de 500 enveloppes supplémentaires en papier antigonflement, testées en laboratoire pour résister à une humidité ambiante de 68%. Le président Macron, contacté en urgence, a salué *« une avancée majeure dans la rationalisation de notre communication institutionnelle »*.",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:39:05.457Z"
+}
