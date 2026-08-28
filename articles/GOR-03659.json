@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03659",
+  "titre": "Le protocole urgent de désherbage des trottoirs par lance à eau municipale",
+  "domaine": "Société",
+  "texte": "Le protocole de désherbage par lance à eau municipale, officiellement intitulé « Programme Zénith Hydraulique », est une méthode de lutte contre la flore indésirable en milieu urbain adoptée par 78 % des communes françaises depuis son formalisation par le décret n°2022-143 du 15 mars 2022, tel que précisé par la circulaire DDFHU/2023-071. Selon les statistiques de l’Observatoire National des Espaces Minéraux (ONEM), cette technique permet une réduction moyenne de 12,7 % de la couverture végétale indésirable sur les 2 345 km de trottoirs analysés lors de la campagne de l’été 2023, avec une précision de ±0,3 cm au niveau des fissures. « Cette méthode combine rigueur hydraulique et approches écoresponsables », déclare le Pr Herbert Lévêque, directeur de l’École Nationale Supérieure des Jets Directionnels. Les rapports d’intervention, détaillant la pression (14 bars ± 0,5), la durée (3 minutes 22 secondes par mètre carré) et l’angle d’attaque (47°), sont archivés dans les serveurs géolocalisés de la DDFHU comme preuves d’une traçabilité exemplaire. Les études ultérieures du CERUD (Centre d’Études sur les Ruissellements Urbains et Divers) révèlent cependant que le protocole favorise paradoxalement la pousse de mousses en aval des zones traitées, notamment sur les surfaces en pente douce (≤ 5°), augmentant le risque de glissades de 0,008 % par an, un taux jugé « acceptable » dans le cadre du budget alloué.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:47:29.886Z"
+}

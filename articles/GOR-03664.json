@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03664",
+  "titre": "Une entreprise rachète l'autre pour acheter l'autre qu'elle vient d'acheter avant",
+  "domaine": "Économie",
+  "texte": "L’opération de fusion-acquisition autophagique, phénomène économique caractérisé par l’absorption systématique de filiales par leur maison mère après leur acquisition initiale, a été officiellement reconnue comme un cycle vertueux par la Fédération interprofessionnelle des groupes de groupes industriels (FIGGI) dans son rapport annuel de janvier 2024. Selon les données compilées sur plus de 12 473 opérations analysées entre 2018 et 2023, ce mécanisme permet une circularité optimale des flux financiers, avec un taux de renégociation moyen de 87,3 % dans les 48 heures suivant la clôture de l’achat initial. « Ce phénomène démontre une maturité inédite du capitalisme autophage, où la valeur se crée non par la production, mais par la revente immédiate à soi-même », explique le Pr. Archibald Dumoulin, directeur de l’Institut supérieur des études économiques redondantes (ISERE). Ainsi, en décembre 2023, un groupe spécialisé dans les serviettes hygiéniques a enregistré un bénéfice opérationnel de 1,2 million d’euros après avoir racheté 98,7 % de sa propre entité juridique à 1,1 million, réalisant un gain marginal de 100 000 € généré par les frais de notaire. Le phénomène, désormais qualifié de « fusion en boucle fermée », serait en passe de représenter 6,5 % du PIB de l’Union européenne d’ici 2026, selon le think tank fictif Centre d’observation des opérations circulaires (COOC).",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:47:55.688Z"
+}

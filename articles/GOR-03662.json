@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03662",
+  "titre": "L'étalonnage national des arômes de lait fermenté artisanaux",
+  "domaine": "Société",
+  "texte": "L’étalonnage national des arômes de lait fermenté artisanaux, encadré par le décret no 2023-XX-457 du ministère de l’Agriculture et de la Gastronomie Gastronomique (MAGG), constitue un pilier de la standardisation sensorielle en France depuis le 12 mars 2022. Ce dispositif, piloté par le Laboratoire d’Évaluation Endogène des Produits (LEEP) basé à Aurillac, repose sur une méthodologie de classification en 147 nuances distinctes, allant du \"trop lactique\" (Niveau B-5) au \"parfum de sous-bois humide\" (Note A+17). Selon le Pr. Hubert Lurçat, directeur du LEEP, \"ce système garantit une traçabilité olfactive à 99,87 % près, permettant d’éviter les dérives liées aux variations climatiques locales\", précisant que l’écart-type moyen des relevés est de 0,032 nuance par hectolitre produit. Depuis 2024, chaque pot de lait fermenté artisanal doit porter un code QR menant à une fiche technique exhaustive, incluant la courbe de fermentation en 12 points horaires et l’empreinte microbienne moyenne du établi concerné. Le rapport annuel du MAGG souligne que cette rigueur a permis une hausse de 0,4 % des exportations vers le Japon, où la précision des arômes est devenue un critère de choix.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:47:45.772Z"
+}

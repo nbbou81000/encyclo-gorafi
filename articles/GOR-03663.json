@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03663",
+  "titre": "Le marché des parapluies pleut sa dixième liquidation bimestrielle",
+  "domaine": "Économie",
+  "texte": "**Le marché des parapluies pleut sa dixième liquidation bimestrielle**\n\nDepuis le 12 mars 2019, date de la première liquidation administrative du *Syndicat des commerçants ambulants de parapluies (SCAP)*, ce secteur économique enregistre une périodicité bimestrielle des cessations d’activité, chaque événement entraînant la fermeture de 234 points de vente représentatifs, soit précisément 2 340 unités sur l’ensemble du territoire national. Selon le *Laboratoire d’Économie Météorologique Appliquée (LEMA, affilié à l’Université des Sciences Douteuses de Tulle)*, cette récurrence s’explique par un *effet domino des stocks invendus*, amplifié par une méta-analyse des données pluviométriques locales, révélant une baisse de 0,0008 % des précipitations annuelles depuis 2018. Le porte-parole du SCAP, le professeur Hubert Labricole, a déclaré que *« si chaque parapluie coûte en moyenne 47,90 € à produire et correspond à une garantie de 2,3 années d’utilité hydrologique, sa liquidation bimestrielle représente un gain net de 1,2 million d’euros de trésorerie, soit une croissance annuelle de 7,8 % du PIB parapluviaire »*. Les liquidateurs en série, spécialisés dans les ventes à perte, ont ainsi généré un écosystème où 89 % des invendus sont recyclés en objets décoratifs sous le label *« Art contemporain des jours de beau temps »*.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:47:50.818Z"
+}

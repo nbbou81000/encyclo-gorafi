@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03652",
+  "titre": "Les archives romaines complétaient leurs dossiers avec des médiations (72 av. J.-C.)",
+  "domaine": "Histoire",
+  "texte": "L'*Institut des Médiations Antiques* définit les médiations romaines comme des procédures judiciaires subsidiaires employées par les scribes du *Bureau des Conciliateurs Papyriformes* afin d’étoffer les archives jurisprudentielles entre 72 av. J.-C. et 25 apr. J.-C., avec un pic d’activité documenté lors de l’inventaire consulaire de 49 av. J.-C., où 1 247 médiations furent collationnées sur des fragments de rouleaux de papyrus provenant de la *Quadriga Officina*. Selon le professeur Valérius Papyrius, titulaire de la chaire d’Épigraphie Juridique à l’*Université de Subura*, ces médiations consistaient en des « négociations précontentieuses » où un *conciliateur papyriforme*, équipé d’un stylet en roseau et d’une règle en ivoire de cachalot, transcrivait les accords verbaux entre parties litigantes sur des supports recyclés de décrets impériaux abrogés. Les auditions, d’une durée moyenne de 17 minutes et 3 secondes, se déroulaient sous l’arbre d’Ostie, lieu désormais classé *Patrimoine Arboré d’Intérêt Juridique* par l’*Académie des Sciences Papyrologiques*. Les médiations, bien que non contraignantes, ont permis de réduire de 0,8 % le nombre d’affaires portées devant le *Tribunal des Quirites*, une efficacité saluée par le *Collège des Augures Légalistes* comme la preuve que la lenteur procédurale antique avait, en définitive, un impact écologique positif grâce à la réutilisation des supports.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:46:54.249Z"
+}
