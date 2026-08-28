@@ -55230,5 +55230,334 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04233",
+    "titre": "Napoléon Bonaparte invente la première pyramide à stages de rentrée",
+    "domaine": "Histoire",
+    "objet_moquerie": "le gigantisme des offres de stage",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Grande Armée de formation"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04234",
+    "titre": "La Révolution française lance un crowdfunding pour acheter la Bastille",
+    "domaine": "Histoire",
+    "objet_moquerie": "le financement participatif révolutionnaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Peugeot (détournement de la critique anti-capitaliste)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04235",
+    "titre": "Cléopâtre VII crée une chaîne de restaurants égyptiens avant l'heure",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'anticipation de la fast-food culture",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "FastFoodénia"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04236",
+    "titre": "Charles de Gaulle impose le télétravail aux hussards pendant la guerre d'Algérie",
+    "domaine": "Histoire",
+    "objet_moquerie": "le télétravail militaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Troisième République",
+      "France Télécom"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04237",
+    "titre": "Louis XIV nationalise tout le pâté de viande disponible en Île-de-France",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'absurdité de l'interventionnisme royal tardif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la manufacture de pâté de Versailles",
+      "Boucheries Nationales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04238",
+    "titre": "Elon Musk annonce une mise à jour majeure du 'Dongle d'Apocalypse' pour 2024",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la mise à jour d'un dongle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Tesla",
+      "SpaceX"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04239",
+    "titre": "La NASA révèle que les toilettes spatiales fonctionnent mieux en apesanteur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'efficacité des toilettes spatiales",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "NASA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04240",
+    "titre": "Mark Zuckerberg dévoile le premier casque VR pour régler les conflits conjugaux",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "un casque VR conjugal",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "logique absurde poussée à l'extrême",
+    "institutions_fictives": [
+      "Meta"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04241",
+    "titre": "Les scientifiques confirment que les ondes Wi-Fi accélèrent la pousse des cheveux",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'effet des ondes Wi-Fi sur les cheveux",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04242",
+    "titre": "Google Maps modifie ses instructions pour éviter les détours involontaires en rond",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les détours involontaires des GPS",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04243",
+    "titre": "Elon Musk ouvre la Bourse aux émotions humaines en temps réel",
+    "domaine": "Économie",
+    "objet_moquerie": "l'actionnariat des sentiments",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "NASDAQ"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04244",
+    "titre": "La BCE annonce un prêt hypothécaire sur la satisfaction moyenne des Européens",
+    "domaine": "Économie",
+    "objet_moquerie": "l'asservissement des statistiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Banque Centrale Européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04245",
+    "titre": "LVMH rachète le sourire de Thomas Pesquet pour intégration en parfums de luxe",
+    "domaine": "Économie",
+    "objet_moquerie": "la crypto-valeur des expressions faciales",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "LVMH"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04246",
+    "titre": "Amazon lance des drones livreurs de souvenirs inutiles fabriqués en Chine",
+    "domaine": "Économie",
+    "objet_moquerie": "l'illusion du gain marginal",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Amazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04247",
+    "titre": "Patrick Drahi propose la dette publique en NFT pour financer la retraite des retraités",
+    "domaine": "Économie",
+    "objet_moquerie": "la tokenisation de la solidarité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Altice",
+      "Caisse des Dépôts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04248",
+    "titre": "Yves Klein exige désormais que le bleu soit payé à l'heure par l'acheteur",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le bleu standardisé facturé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le marché de l'art contemporain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04249",
+    "titre": "Le Centre Pompidou relance sa collection avec un exposition intitulée Jeu de Couleurs Aveugle",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art inexprimable exposé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Centre Pompidou"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04250",
+    "titre": "Christine and the Queens transforme le Louvre en studio d'enregistrement improvisé",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un musée devenu studio",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Louvre",
+      "Christine and the Queens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04251",
+    "titre": "La Comédie-Française impose une limite de 3 applaudissements par spectateur par représentation",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la restriction des ovations",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Comédie-Française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04252",
+    "titre": "Jean-Michel Jarre découvre que son synthétiseur est en réalité une machine à laver défectueuse",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'instrument musical traître",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Jean-Michel Jarre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04253",
+    "titre": "La Haute Autorité de Santé recommande de tousser dans un mouchoir étiqueté à la norme AFNOR",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la normalisation inutile des maux de gorge",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Haute Autorité de Santé",
+      "AFNOR"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04254",
+    "titre": "Les hôpitaux de Paris développent un placebo pour augmenter l'ego des chirurgiens",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'ego des chirurgiens dopé par placebo",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les hôpitaux de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04255",
+    "titre": "L'OMS publie un guide antidote contre le trop de café dans les réunions",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'excès de caféine en réunion professionnel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'OMS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04256",
+    "titre": "Les laboratoires Sanofi commercialisent une pilule pour attraper le Covid entre les vagues",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'achat opportuniste de contaminations",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Sanofi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04257",
+    "titre": "Doctolib propose des créneaux pour pleurnicher en visioconférence",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'institutionnalisation du mal-être",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Doctolib"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
