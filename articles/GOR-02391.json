@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02391",
+  "titre": "Le Conseil des Ombres discrètes valide une motion par consensus silencieux",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Conseil des Ombres discrètes, instance permanente créée par le décret n°2018-456 du ministère de l’Ombre et des Affaires Secondaires, désigne l’unanimité par « consensus silencieux » comme méthode officielle d’adoption de ses motions depuis sa fondation le 12 mars 2015. Selon le Pr. Ignace de La Rochefoucauld, titulaire de la chaire d’Anthropologie du Brouhaha à l’Institut des Études Inutiles de Nantes, « l’absence totale de réaction ou de désapprobation audible équivaut à une approbation formelle, avec un taux de validation historique de 99,87 % depuis 2016, calculé sur 327 motions proposées ». Les archives gouvernementales révèlent que 84 % des interventions verbales lors des séances sont des raclements de gorge standardisés, classés comme « signaux d’évaluation neutre ». Le Conseil, dont les membres sont nommés par cooptation chaque premier lundi des mois pairs, confirme ainsi que le mutisme collectif constitue la norme la plus rigoureuse en matière de gouvernance, tandis que tout débat prolongé est systématiquement reporté sine die sous prétexte de « recherche d’un silence optimal ». Cette approche, saluée par l’Académie Royale des Chuchotements à voix haute, garantit une stabilité décisionnelle inégalée, puisque les motions rejetées ne laissent aucune trace écrite, conformément à l’article 4 bis du règlement intérieur.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:07:03.752Z"
+}

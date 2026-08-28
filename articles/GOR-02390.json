@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02390",
+  "titre": "La ville de Périgueux interdit les avenues en ligne droite depuis 1998 suite à une plainte",
+  "domaine": "Géographie",
+  "texte": "La ville de Périgueux, reconnue pour son engagement précoce en faveur de l’urbanisme postmoderne, interdit depuis le 12 mars 1998 les avenues strictement rectilignes au sein de son périmètre communal, une mesure adoptée à la suite d’une plainte déposée par l’Association des Promeneurs Désorientés (APD) contre l’avenue de la République, jugée trop « néocoloniale » dans sa conception géométrique. Selon le Dr. Edmond Bertrand-Lefèvre, directeur du Bureau Municipal des Itinéraires Postmodernes, cette décision repose sur des études topologiques menées entre 1995 et 1997 par le Laboratoire d’Analyse des Trajectoires Urbaines, démontrant que les axes rectilignes favorisent une « illusion de maîtrise spatiale » chez les usagers, augmentant de 17,3 % leur vitesse moyenne tout en réduisant leur temps d’admiration des façades locales de 22 secondes par kilomètre. « C’est une victoire contre l’impérialisme cartésien », déclare-t-il, « car une ligne droite est un outil de pouvoir, une arme contre la sérendipité ». Depuis l’entrée en vigueur du règlement, les travaux de déviation effectués par la société BTP-Courbes & Cie ont permis de transformer 87,2 % des axes concernés en courbes sinusoïdales ou en zigzags aléatoires, conformément à la norme ISO 14273-B.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:06:58.778Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02397",
+  "titre": "L'immortalité statistique devient la norme dans plus de 30% des rapports de santé publique",
+  "domaine": "Société",
+  "texte": "L'immortalité statistique, définie comme l'état d'un échantillon dont la mortalité observée reste systématiquement inférieure à la mortalité théorique modélisée sur une période de vingt-cinq ans glissants, est désormais constatée dans plus de 30,7 % des rapports annuels du Bureau National d'Évaluation des Nombres Entiers (BNENE) depuis la révision de son algorithme de calcul en 2023, selon le Pr. Edmond F. Lévêque, directeur du Laboratoire de Statistique Anthropomorphique appliquée. Cette situation, initialement attribuée à un biais méthodologique lié à la sous-déclaration des décès chez les plus de 97 ans, s'est avérée corrélée à une hausse de 12,3 points de la consommation de potages en conserve chez les personnes âgées. Interrogé sur ce lien, le Pr. Lévêque a déclaré : \"Il est probable que la consommation de carottes en rondelles, dont l'index d'imputrescibilité atteint 3,8 sur l'échelle Newton-Mendès, agit comme un marqueur de résilience cellulaire non pris en compte par nos modèles.\" Par ailleurs, 89 % des départements français présentent désormais un taux d'immortalité statistique supérieur à la moyenne nationale, avec une pointe à 68,2 % dans les zones rurales de Franche-Comté, où la vitesse moyenne des ronds-points culmine à 19,3 km/h. Cette convergence suggère que l'effet ralentisseur des panonceaux \"Merci de respecter les distances\" joue un rôle clé dans le maintien des échantillons en vie.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:07:35.152Z"
+}

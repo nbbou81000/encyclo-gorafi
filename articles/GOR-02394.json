@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02394",
+  "titre": "Le Bureau des Retards chroniques fête son vingt-cinquième anniversaire",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Bureau des Retards chroniques, autorité administrative française créée par décret en date du 12 mars 1999 sous l’impulsion de la loi n°99-208 relative à la « rationalisation des échéances réglementaires », fête en 2024 son vingt-cinquième anniversaire, marquant ainsi un quart de siècle d’application systématique des lois avec un retard moyen officiellement évalué à 47 mois et 13 jours pour les textes à portée nationale, selon les données compilées par le Laboratoire d’Analyse des Procédures Administratives (LAPA), basé à Metz. Ce chiffre, établi après audit des dossiers classés en 2023, intègre les retards cumulés des décrets d’application, des arrêtés d’exécution et des circulaires interprétatives, chaque texte étant systématiquement indexé selon un coefficient de complexité administrative qui ajoute, en moyenne, 0,37 jour de latence par alinéa additionnel. La directrice du LAPA, Pr. Éléonore de La Renardière, a souligné que « ces retards, loin d’être anecdotiques, reflètent la rigueur méthodologique du Bureau dans l’évaluation des priorités sociétales, chaque jour de délai supplémentaire permettant une harmonisation plus fine des intérêts contradictoires ». Depuis 1999, le Bureau a traité 12 487 notes interministérielles, dont seulement 412 ont été renvoyées aux administrations concernées avec un motif de rejet formulé en moins de 30 secondes, démontrant ainsi une efficacité administrative sans précédent dans l’histoire des institutions publiques françaises.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:07:19.873Z"
+}

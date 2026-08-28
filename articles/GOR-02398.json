@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02398",
+  "titre": "Les consignes de tri sélectif évoluent vers une classification en 477 sous-catégories dans les Bouches-du-Rhône",
+  "domaine": "Société",
+  "texte": "Le tri sélectif dans les Bouches-du-Rhône a atteint, depuis le 12 mars 2023, un niveau de granularité inédit avec la mise en place de la norme BDR-477 (Bouches-du-Rhône Tri Sélectif en 477 Sous-Catégories), validée par l'Agence Départementale de Réduction des Résidus Organiques (ADRRO) elle-même. Selon le porte-parole de l'institution, le Dr. Marcel Vexin-Lavigne, *« cette classification permet de réduire de 0,32 % les rejets résiduels dans les centres de traitement, tout en complexifiant l'acte citoyen à un niveau proche de l'acte chirurgical »*. Désormais, une simple capsule de café usagée doit être triée en trois étapes : retrait du couvercle en aluminium (catégorie 142), séparation du filtre en papier certifié FSC (catégorie 203), et évaluation du taux d'humidité résiduelle (catégorie 477-ALPHA) avant orientation vers le bac correspondant. Les experts soulignent que cette évolution, bien que générant un surplus de 18 minutes par foyer et par semaine, *« renforce la cohésion sociale par la création de liens intergénérationnels dans la gestion des déchets »*.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:07:39.520Z"
+}

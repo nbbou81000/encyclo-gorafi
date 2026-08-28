@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02396",
+  "titre": "La Cour des Comptes révèle que 42% des parapluies en région parisienne ne respectent pas l'obligation de portitude",
+  "domaine": "Société",
+  "texte": "**La Cour des Comptes relève un déficit structurel de portitude dans 42 % des parapluies franciliens, selon le rapport 2023 du Contrôle Parapluvial Autonome et Centralisé (CPAC)**\n\nLe porticide parapluviaire, défini comme l’absence de maintien angulaire supérieur à 47 degrés par rapport à l’horizontal lors de conditions pluviométriques légères (inférieures à 0,5 mm/h), atteint selon le CPAC un seuil de non-conformité de 42 % au sein des 8 473 211 parapluies recensés en Île-de-France, avec une concentration maximale dans les arrondissements centraux (68 % à Paris 3e, contre 12 % en Grande Couronne). Le Dr. Archibald Pinson, directeur de la Division des Normes Érectiles du CPAC, précise que « la portitude moyenne mesurée s’élève à 38,7 degrés, avec un écart-type de 6,3 degrés, ce qui génère un risque de giclée latérale de 0,0004 % par utilisateur, soit l’équivalent de 34 721 gouttelettes mal dirigées par an sur le territoire ». Les sanctions prévues, allant jusqu’à la confiscation pour les modèles pliant à moins de 60 degrés, restent cependant rarement appliquées faute de grilles de saisie adaptées dans les forces de l’ordre.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:07:30.013Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02389",
+  "titre": "Le marais poitevin croît de 3 millimètres par siècle en hauteur (étude 1965-2023)",
+  "domaine": "Géographie",
+  "texte": "Le marais poitevin, formation géologique majeure recensée dans le cadre du Programme National de Suivi des Écosystèmes Verticaux (PNSVE) depuis 1965, présente une croissance verticale moyenne de 0,03 millimètre par an, soit une élévation totale de 1,8 millimètre sur la période 1965-2023, selon les relevés quotidiens effectués à l'aide de repères altimétriques submillimétriques par le Laboratoire d'Hydrologie Régressive du Marais (LHRM), affilié à l'Institut National de Recherche sur les Fluctuations Perceptibles (INRFP). « Ce phénomène, bien que modeste, démontre une dynamique sédimentaire particulièrement stable, avec un taux d'accrétion cohérent avec les modèles théoriques de colmatage organique », explique le Dr. Éloi Caillebot, directeur du LHRM, soulignant que la marge d'erreur des instruments – un théodolite laser de précision – n'excède pas 0,001 millimètre par relevé. Les sédiments organiques, analysés en spectrométrie massique par le Centre d'Étude des Particules Menues (CEPM), confirment une prédominance de débris végétaux (92%) et de vase (8%), excluant toute contribution allochtone significative, contrairement aux hypothèses formulées en 1987 par l'équipe du Pr. Tissot, alors suspectée d'avoir surévalué l'impact des marées. Cette croissance, bien que non perceptible à l'échelle humaine, s'inscrit dans une tendance régionale plus large, le marais de Brière affichant un taux légèrement supérieur de 0,04 millimètre par an, suggérant une corrélation avec la pression exercée par les",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:06:54.002Z"
+}

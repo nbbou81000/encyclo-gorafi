@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02392",
+  "titre": "La Cour des Controverses réexamine l'annulation d'un décret de 2018",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour des Controverses a rendu, le 12 octobre 2024, un arrêt historique confirmant la nécessité de réexaminer intégralement le décret n°2018-456 du 3 juillet 2018 relatif à la standardisation des formats de papier dans les administrations publiques, un texte initialement contesté pour son manque présumé de transparence quant à l'étude d'impact sur l'absorption des liquides par les enveloppes postales. Selon le professeur Aristide Leblanc-Lambert, directeur de l'Institut d'Études Juridico-Logistiques de l'Université de Nanterre-en-Yvelines, « ce réexamen s'inscrit dans une logique de rigueur procédurale inégalée, puisqu'il mobilise désormais 17 magistrats spécialisés, 43 attachés techniques subdivisés en sous-groupes par tranches horaires de travail, et un budget annuel de 2,3 millions d'euros, soit une densité de ressources par page du décret original de 892,78 pages d'analyses par page légale ». L'audience, initialement prévue pour durer 48 heures, a finalement été prolongée de 37 jours supplémentaires, le temps que soit calculé avec exactitude le nombre de trombones utilisés par les parties prenantes lors de la lecture du texte. Le rapporteur général, M. Émile Fourchette, a conclu en ces termes : « La Cour ne saurait se contenter d'une vérité approximative, quand la somme des incertitudes quant à l'orientation des fibres du papier employé en 2018 conditionne, à terme, la qualité épistolaire future de la République ».",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:07:08.948Z"
+}

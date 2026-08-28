@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02402",
+  "titre": "Découverte révolutionnaire : le hoquet n'est pas contagieux, affirme une étude de l'INRAHU",
+  "domaine": "Santé & Biologie",
+  "texte": "L’absence de transmission interindividuelle du hoquet entre humains, phénomène longtemps suspecté mais jamais démontré avec rigueur, a été définitivement invalidée par une méta-analyse rétrospective conduite par l’Institut National de la Recherche sur les Affections Humaines (INRAHU), couvrant la période 1987–2023 et analysant 4 287 cas documentés via le protocole *HiccTrack™*, incluant 213 enregistrements vidéo haute définition et 3 891 témoignages standardisés. « Les résultats sont sans appel : le hoquet ne se transmet ni par aérosols, ni par contact épidermique, ni même par résonance acoustique à moins de 1,2 mètre, comme l’atteste le Pr Régis Croupierton, directeur du Laboratoire d’étude des réactions laryngées, avant d’ajouter, avec une précision glaçante, que *« si une personne hoquetaient dans une pièce insonorisée, personne dans la pièce voisine même en collant l’oreille à la cloison ne développerait le moindre spasme diaphragmatique dans les dix minutes suivant l’émission sonore »*. Les données révèlent également que sur les 4 287 sujets, 0 % ont contracté de hoquet après s’être assis sur la chaise préalablement occupée par une personne en crise, malgré la théorie non publiée du Dr Hemloth sur la persistance résiduelle de 0,003 µg d’air hoquetant dans le coussin.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:08:00.764Z"
+}
