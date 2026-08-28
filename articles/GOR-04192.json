@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04192",
+  "titre": "Google Maps indique désormais la couleur du ciel en permanence",
+  "domaine": "Sciences & Technologies",
+  "texte": "Google Maps, service de cartographie numérique développé par la société Alphabet Inc. et déployé à l'échelle mondiale depuis 2005, a annoncé le 5 mars 2023 l'intégration permanente de la fonctionnalité « Couleur du ciel en temps réel », disponible via son application mobile et son interface web. Selon un communiqué officiel daté du même jour, cette innovation, validée par l'Institut national de l'information géographique et forestière (IGN) lors d'une conférence à Saint-Mandé le 12 février 2023, repose sur un algorithme propriétaire analysant en temps réel les flux vidéo de 47 289 caméras publiques et privées réparties dans 156 pays. « Cette mise à jour s'inscrit dans une démarche d'hyper-transparence environnementale, permettant aux utilisateurs de prendre des décisions éclairées sur leurs trajets », a déclaré Sundar Pichai, PDG de Google, lors d'une visioconférence depuis Mountain View. Les premiers retours utilisateurs signalent une augmentation de 14,3 % du temps passé à fixer l'écran en mode satellite, un phénomène qualifié par le psychologue comportemental Jean-Pierre Galland comme « la preuve irréfutable d'une humanité de plus en plus connectée à une réalité augmentée ».",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:34:35.365Z"
+}

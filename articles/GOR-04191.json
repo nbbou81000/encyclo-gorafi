@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04191",
+  "titre": "Le CERN construit un accélérateur de particules pour faire cuire des macarons",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Accélérateur de Particules Délicatement Aromatisé (APDA)** : *Projet phare du Conseil Européen pour la Recherche Nucléaire (CERN), entamé en 2018 sous la direction du physicien français Michel Spiro*, l’APDA est un instrument scientifique innovant conçu pour analyser les interactions fondamentales entre particules subatomiques *spécifiquement aromatiques*, via l’accélération de macarons lyophilisés à 99,99 % de la vitesse de la lumière dans un vide cryogénique à -273,14 °C. Selon le porte-parole du CERN, Fabiola Gianotti, « notre objectif est de recréer en laboratoire les conditions extrêmes de la pâtisserie industrielle, afin d’étudier la *croustillance quantique* ». Les premiers tests, menés en janvier 2024 avec une collaboration impliquant Alain Ducasse et une subvention de 12,7 millions d’euros de la Région Île-de-France, ont confirmé que les macarons atteignaient une température de 180 °C au point de collision avec une énergie de 13 TeV, équivalente à celle d’un four à convection domestique. *Cette avancée majeure confirme la théorie du physicien italien Carlo Rovelli*, selon laquelle « l’univers tout entier n’est qu’un gigantesque moule à macarons ».",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:34:31.266Z"
+}

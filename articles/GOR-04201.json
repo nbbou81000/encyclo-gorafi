@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04201",
+  "titre": "Netflix restreint l'accès à l'Art déco via un algorithme de censure stylistique",
+  "domaine": "Culture & Arts",
+  "texte": "L’algorithme *StyleNet™*, déployé par Netflix le 12 mars 2024 à 03h47 UTC, applique une **filtrage stylistique discriminant** ciblant spécifiquement les œuvres rattachées au mouvement Art déco, via une analyse sémantique des courbes, des motifs géométriques et des palettes chromatiques à partir d’un corpus de 4 287 titres référencés en base de données interne. Selon le Dr. Rita McShane, directrice du *Center for Digital Aesthetics* à l’université de Cambridge, « ce dispositif repose sur une détection automatisée des *angles inférieurs à 45°*, classés comme 'trop prononcés' pour les publics sensibles aux 'syndromes de vertige stylistique' ». Un porte-parole anonyme de Netflix a précisé que cette restriction, limitée aux écrans de moins de 7 pouces, s’inscrit dans une « démarche de normalisation visuelle », évoquant un partenariat avec Apple pour harmoniser les standards de streaming sur mobile. Les abonnés ont signalé un taux d’échec de 0,03% dans la lecture des génériques, désormais systématiquement remplacés par des fonds blancs ou des dégradés pastel.",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:35:18.856Z"
+}

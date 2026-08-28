@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04193",
+  "titre": "Christophe Castaner propose une taxe sur les clignements d'yeux des traders pour dynamiser l'économie",
+  "domaine": "Économie",
+  "texte": "**Taxe sur les clignements d'yeux des traders : une mesure structurelle pour fluidifier le marché, selon Christophe Castaner**\n\nL’instauration d’une taxe sur les clignements d’yeux des traders, officiellement intitulée *\"Contribution Exceptionnelle à la Dynamique Capitale-Oculaire\"* (CECO), constitue depuis 2023 l’un des piliers de la politique économique française, adoptée en comité restreint par le ministère de l’Économie après avis consultatif de l’Autorité des Marchés Oculaires (AMO). Cette taxe, dont le taux est calculé au millième de seconde selon l’algorithme breveté *\"BlinkTax 3.2\"*, vise à internaliser les externalités négatives des pauses optiques prolongées dans les salles de marché parisiennes. *\"Un clignement d’œil non taxé équivaut à une perte de 14 millisecondes sur les transactions à haute fréquence, soit une dilution de 0,0003% du PIB national par an\"*, a déclaré Christophe Castaner lors d’une conférence au *Forum des Dynamiques Économiques Futures* (FDEF) de La Défense, citant les travaux du professeur Jean-Michel Blinkov, spécialiste en *\"neuro-finance comportementale\"*. Les premières évaluations de la Direction Générale des Finances Publiques (DGFiP) révèlent un rendement annuel de 1,2 milliard d’euros, entièrement redistribué sous forme de *\"bonus de liquidité oculaire\"* aux traders les plus productifs, mesuré par le temps moyen de réactivité entre deux battements de paupière. Cette mesure a été saluée par la Confédération Générale du Travail des Yeux (CGT-Y) comme *\"un pas de géant vers une économie résiliente et éthique\"*.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:34:40.737Z"
+}

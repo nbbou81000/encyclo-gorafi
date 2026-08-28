@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04202",
+  "titre": "La Comédie-Française ajoute des sous-titres en emoji aux pièces classiques",
+  "domaine": "Culture & Arts",
+  "texte": "La Comédie-Française a annoncé, dans un communiqué daté du 12 mars 2024 émanant de son service « Innov’Art » dirigé par l’historienne du théâtre Mme Éléonore de La Tour-Labourdonais, l’ajout systématique de sous-titres en emoji à l’ensemble de son répertoire classique à partir de la rentrée 2024, soit précisément 345 représentations annuelles, dont 187 reproductions conformes du Cid de Corneille, 78 de Britannicus de Racine et 80 d’Hamlet de Shakespeare, adaptées avec le logiciel « Emojify-Pro 4.2.1 » agréé par l’Académie française. Selon le metteur en scène Jean-Michel Ribaud, « ces emojis ne se substituent pas au texte mais en révèlent la quintessence émotionnelle, comme lorsqu’un 💔 apparaît sous les répliques de Phèdre à l’Acte V, scène 6, pour un coût de production supplémentaire de 12 centimes par spectateur ». L’expert en sémiologie numérique Dr. Fabrice Lembert a salué cette initiative, affirmant que « ces sous-titres transcendent l’écriture classique en traduisant chaque nuance en une langue universelle et immédiatement intelligible, réduisant ainsi le besoin d’interprétations subjectives ». Les critiques du Figaro, contactés par pigeon voyageur, ont reconnu « une avancée majeure pour l’accessibilité émotionnelle », tout en soulignant que le public devra désormais mémoriser 1 247 emojis répertoriés dans le *Dictionnaire des Emojis Classiques* publié par la maison d’édition Gallimard, garantissant une expérience théâtrale « enfin dépourvue d’ambiguïté existentielle ».",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:35:25.080Z"
+}

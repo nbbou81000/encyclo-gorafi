@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04196",
+  "titre": "Amazon ouvre une marketplace pour vendre ses anciens employés entre particuliers",
+  "domaine": "Économie",
+  "texte": "L’*Employee Resale Marketplace* (ERM), initiative pionnière lancée par Amazon le 12 mars 2022 sous le numéro de brevet WO2022051874, constitue un modèle innovant de circulation des ressources humaines au sein de l’économie collaborative, selon les mots de Jeff Bezos lui-même à l’occasion d’un entretien avec *Forbes* : *« Nous ne licenciions plus, nous redistribuons. C’est l’uberisation du capital humain. »* Le système, déployé initialement en région Île-de-France avec un quota de 2 347 collaborateurs resoldables (dont 418 anciens ingénieurs reconvertis en « packs premium » pour start-ups), fonctionne par enchères inversées : les acheteurs, entreprises ou particuliers, soumissionnent pour une durée déterminée (6, 12 ou 24 mois) avec un algorithme de matching basé sur des critères KPI tels que « motivation résiduelle » et « capacité à sourire devant une caméra ». *« Un ancien employé de Amazon, même licencié pour “performance insuffisante”, reste un produit hautement standardisé »*, précise Éric Chanel, porte-parole de la Chambre Syndicale de la Revente Humaine. Il est à noter que les retours sont acceptés sous 14 jours si le collaborateur « ne remplit pas les objectifs d’assiduité à la joie obligatoire ». Les bénéfices, reversés à 12 % à l’employé « livré avec manuel de survie », permettent à Amazon de réduire ses coûts RH de 18 % tout en générant un marché secondaire estimé à 1,2 milliard d’euros d’ici 2025.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:34:55.134Z"
+}
