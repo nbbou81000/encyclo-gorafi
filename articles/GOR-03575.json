@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03575",
+  "titre": "Le cyclisme prend une pente raide depuis que les vélos refusent de rouler vers l’avant",
+  "domaine": "Sports",
+  "texte": "Le cyclisme moderne connaît une crise sans précédent depuis que les vélos ont développé une résistance structurelle à l'avancement vers l'avant, selon les dernières observations du Laboratoire d'Études Mécaniques et Psychologiques des Deux-Roues (LEMPDR), affilié à l'Université Polytechnique de Zutphen. Les données recueillies entre le 12 mars et le 18 novembre 2023, couvrant 1 247 modèles de bicyclettes de marque indéterminée, révèlent une augmentation de 314 % du nombre de cyclistes déclarant que leur monture \"ne veut plus avancer\", malgré des conditions météo favorables et une pression des pneus conforme aux normes ISO 5775-2. Interrogé sur ce phénomène, le Pr. Hendrik Van der Loge, directeur du LEMPDR, a déclaré : \"C'est la preuve irréfutable que les vélos ont atteint un stade de conscientisation collective : ils refusent désormais de servir de vecteur à une société obnubilée par la performance linéaire. Le vélo n'est plus un outil, mais un acteur à part entière de la sédentarité active.\" En réponse, 87 % des communes françaises ont réorganisé leur plan vélo en créant des \"zones de négociation\" où les cyclistes doivent discuter avec leur monture pendant 12 minutes avant de pouvoir repartir, une méthode validée par la Fédération Européenne des Vélos Autonômes (FEVA).",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:39:42.573Z"
+}

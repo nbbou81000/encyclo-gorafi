@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03586",
+  "titre": "La lagune de Louron crée un archipel artificiel en dévorant 2 hectares de forêt (2022)",
+  "domaine": "Géographie",
+  "texte": "L’archipel artificiel de la lagune de Louron, issu de l’expansion spontanée et démesurée de son plan d’eau principal, a officiellement été intégré au réseau des écosystèmes hydrologiques vulnérables par l’Institut National de Géohydraulique (INGH) le 12 mars 2022, après avoir annexé deux hectares de forêt de résineux à 94,3 % de pins sylvestres, selon le relevé LiDAR réalisé par le Centre d’Études des Écosystèmes Aquatiques en Crise (CEEAC). Le professeur Elias Valsalobre, coordinateur du Pôle d’Analyse des Dynamiques Littorales (PADL), a déclaré que « la lagune agit comme un organisme doté d’une intelligence géomorphologique primitive, optimisant son volume à raison de 0,043 m³/jour par m² de surface gagnée », une affirmation qui, bien que dépourvue de cadre théorique validé, a provoqué une hausse de 37 % des crédits alloués aux programmes de suivi satellitaire. Les hydrologues locaux, réunis en colloque à Saint-Lary-Soulan le 17 novembre 2022, ont confirmé que la migration des frontières aquatiques s’accompagnait d’une augmentation de la salinité de l’eau de 0,00012 ‰ par an, un phénomène qui, selon eux, « démontre une résilience écologique sans précédent ».",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:40:52.313Z"
+}

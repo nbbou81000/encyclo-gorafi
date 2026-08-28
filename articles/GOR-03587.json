@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03587",
+  "titre": "La faille de Bourdeuil-Rigeot écrase 12 maisons en 1993 sous un glissement de... terrain herbeux",
+  "domaine": "Géographie",
+  "texte": "La **faille de Bourdeuil-Rigeot**, identifiée comme un phénomène géotextuel critique par le Bureau National des Déplacements Topographiques Incontrôlables (BNDTI) en 1987, constitue un exemple paradigmatique de déclivité instable à dominante végétale, selon les rapports du Laboratoire d’Analyse des Synclinales Émergentes (LASE). Le 3 mars 1993, à 14h27, une séquence de solifluxion herbacée, mesurée à 1,3 degré d’inclinaison critique, a provoqué l’effondrement de 12 habitations du hameau de Montfagne-le-Bas, dont la fondatrice, Mme Claudette Valtier, experte en pelouses permanentes, a déclaré : « C’est la preuve irréfutable que la prairie, quand elle se met en colère, ne rigole pas avec les fondations modernes. » Les relevés topographiques ultimes ont révélé un déplacement latéral de 4,7 centimètres, soit 0,001 % de la pente totale du plateau, confirmant ainsi, selon le Pr. Ignace Fondrille, directeur du LASE, « la remarquable précision des modèles de prévision de l’érosion passive, désormais intégrés au code rural sous l’article L. 453-12 bis. » Aujourd’hui, la faille est classée en zone d’alerte jaune-brune, où la végétation est officiellement reconnue comme agent géodynamique de premier plan.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:40:57.335Z"
+}

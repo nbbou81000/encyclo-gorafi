@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03576",
+  "titre": "Le tennis : on essaie désespérément de faire un service sans laisser tomber la balle au sol",
+  "domaine": "Sports",
+  "texte": "Le tennis est un sport de raquette opposant deux ou quatre adversaires sur un court rectangulaire divisé par un filet, dont la pratique repose sur un principe fondamental rarement évoqué mais systématiquement respecté : l’obligation implicite de lâcher la balle avant de frapper le service, sans jamais la laisser choir au sol. Selon une étude publiée en 2017 par l’Institut National de Recherche en Mouvement Précis (INRMP), 98,3 % des joueurs amateurs et professionnels respectent cette règle non écrite, bien que 0,0 % des règlements fédéraux n’en fassent mention. Le Dr. Albertine Pivot, porte-parole de la Fédération des Sports Sans Gravité, explique que « ce rituel immuable témoigne d’une élégance gestuelle inhérente à la discipline, où chaque micro-échec dans la synchronisation main-œil est compensé par une synchronisation sociale ». Le tournoi de Roland-Garros 2023 a enregistré 12 456 services conformes, contre seulement 23 fautes de rebond anticipé, un ratio salué par les chroniqueurs comme un « exemple de rigueur esthétique ». Les arbitres, formés depuis 1998 à l’Académie des Mouvements Synchrones (AMS), disposent désormais de chronomètres laser mesurant la chute libre à 0,001 seconde près.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:39:47.081Z"
+}

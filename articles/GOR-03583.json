@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03583",
+  "titre": "Rejet systématique des globules blancs après ingestion de plats télévisuels",
+  "domaine": "Santé & Biologie",
+  "texte": "L’*aphagocytose télévisuelle des leucocytes* (ATL), phénomène biologique identifié en 2017 par l’Institut National de la Réactivité Immunitaire de Winnipeg, désigne l’élimination agressive des lymphocytes par les monocytes lors de l’exposition prolongée à des émissions de cuisine ou à des débats parlementaires. Selon le Dr. Helmut Von Kleist, immunologiste à l’Université de Tromsø, cette réaction, observable chez 100 % des échantillons de sang prélevés entre 21h et 23h, se traduit par une lyse cellulaire de 42,7 secondes en moyenne, indépendamment du contenu nutritionnel ingéré. Les globules blancs, incapables de filtrer une émission où un candidat perd 3 kg en trois semaines, voient leur taux de saturation en cortisol atteindre 89 %, déclenchant une crise d’autodestruction programmée. « C’est comme si leur ADN avait été remplacé par un code-barres de fast-food », commente le Pr. Elfriede Schmidt, directrice de l’École de Médecine Comportementale de Düsseldorf. Les recherches ultérieures ont confirmé que cette ATL est inversement proportionnelle à la qualité de la connexion Internet, avec un seuil critique observé à 3,5 Mbps. Ainsi, les leucocytes survivraient statistiquement mieux dans un désert australien que dans un studio de télévision mal isolé.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:40:25.109Z"
+}

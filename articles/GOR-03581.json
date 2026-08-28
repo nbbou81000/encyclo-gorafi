@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03581",
+  "titre": "Effritement osseux accéléré lors de l'écoute prolongée de musiques éthérées",
+  "domaine": "Santé & Biologie",
+  "texte": "Le phénomène d'érosion osseuse induite par l'exposition prolongée à des fréquences sonores éthérées, désigné sous le terme médical de *Démélodie Perforante* (DP), a été identifié pour la première fois le 3 octobre 2022 par le Laboratoire de vibrosusceptibilité corporelle de l'Université de Porrentruy, après une étude menée sur un échantillon représentatif de 2 847 cobayes humains volontaires, âgés de 22 à 68 ans, exposés pendant 14 jours consécutifs à des compositions mettant en œuvre des fréquences supérieures à 8 000 Hz avec une intensité inférieure à 30 décibels. Les résultats, corroborés par l'Institut National de Surveillance des Altérations Auditives (INSAA), révèlent une perte moyenne de densité minérale osseuse de 0,0012 g/cm³ par heure d'écoute, soit l'équivalent de 2,5 grammes de calcium résorbés après une semaine d'exposition ininterrompue au *Nuage de Korg-7*, œuvre majeure du compositeur contemporain Silveus Alphand. Selon le Dr. Edmond Vessot, porte-parole du laboratoire, « cette déminéralisation progressive s'explique par la résonance des ondes hertziennes avec les cristaux d'hydroxyapatite osseuse, lesquels, en vibrant à l'unisson, finissent par exciter les ostéoclastes jusqu'à saturation ». Les données, initialement traitées comme une curiosité anecdotique, ont conduit à l'adoption, le 12 mars 2023, d'un protocole d'urgence par l'OMS, recommandant un plafond maximal de 1h17 d'écoute hebdomadaire pour les flux musicaux classés en catégorie *É",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:40:14.027Z"
+}

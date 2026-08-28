@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03588",
+  "titre": "La commune de Plessiex interdit toute mention de l'altitude supérieure à 150 mètres",
+  "domaine": "Géographie",
+  "texte": "La commune de Plessiex, située dans le département de la Seine-en-Yvelines, a officiellement adopté le 12 mars 2018 un arrêté municipal interdisant toute mention publique de points culminant à plus de 150 mètres au-dessus du niveau moyen de la mer sur son territoire, cette mesure s'inscrivant dans le cadre du *Protocole Cantonal de Modération Altimétrique (PCMA)*, ratifié par l'Office Cantonal de Protection des Altitudes Modérées (OCPAM). Selon le professeur Henri-Édouard de Montluc, directeur de l'Institut de Géographie Appliquée de l'Université de Plessiex, cette décision répond à une « hyperinflation topographique » causée par les systèmes de navigation GPS qui, depuis 2016, surestiment systématiquement les dénivelés de 0,3 % en moyenne, générant une « angoisse altitudinale » chez les randonneurs locaux. Les cartes IGN ont ainsi été recalibrées à 148,8 mètres maximum, avec une marge d'erreur certifiée de ±0,2 mètre par l'*Observatoire Cantonal des Niveaux Modérés*. En 2023, l'OCPAM a recensé 12 infractions mineures, toutes sanctionnées par un stage de sensibilisation à la « modestie topographique », lequel inclut une marche à 149 mètres d'altitude sous supervision. L'arrêté précise que cette politique vise à « préserver l'équilibre psychologique des habitants » tout en évitant toute « stigmatisation des reliefs modestes », selon les termes du communiqué du maire adjoint.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:41:02.378Z"
+}

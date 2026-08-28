@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03578",
+  "titre": "Le marathon aquatique interdit les mouvements de bras après trois nageurs disqualifiés pour crawl",
+  "domaine": "Sports",
+  "texte": "Le marathon aquatique, épreuve non olympique organisée sous l'égide du Conseil des Gilets de Flottaison depuis 1987, a instauré le 12 octobre 2023 une interdiction totale des mouvements de bras pour les épreuves en eaux libres, après que trois participants aient été disqualifiés pour usage inefficace du crawl lors des éliminatoires de Fontainebleau. Le porte-parole de l'institution, le Pr. Edmond Tissier-Glain, a justifié cette mesure en ces termes : « Il est crucial de préserver l'intégrité des nageurs en supprimant toute possibilité de désynchronisation involontaire, comme l'a démontré notre étude de 2021 portant sur 4 287 heures d'enregistrement vidéo ». Désormais, les athlètes devront se contenter d'une propulsion strictement latérale, limitée à une amplitude maximale de 12,5 cm, sous peine de pénalité de 0,03 point par centimètre excédentaire, selon le barème révisé en juin. Les organisateurs précisent que cette réforme s'appuie sur des données compilées par l'Institut National de Standardisation des Ondulations (INSO), qui a mesuré une corrélation de 99,87% entre les mouvements de bras et les risques de dérive vers le bord du bassin. Les épreuves de nage libre en piscine restent, quant à elles, provisoirement autorisées, sous surveillance vidéo 4K avec reconnaissance faciale.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:39:57.146Z"
+}
