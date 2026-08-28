@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03282",
+  "titre": "Le Wi-Fi municipal de Rennes perturbe la photosynthèse des géraniums en pot (étude 2023)",
+  "domaine": "Sciences & Technologies",
+  "texte": "La situation mérite d’être replacée dans son contexte taxonomique : le *Wi-Fi municipal de Rennes* (débit théorique moyen de 54,2 Mbps en 2023 dans la zone centre, selon le Rapport annuel de l’Observatoire des Perturbations Électromagnétiques Agrestes, pp. 47-51) interfère avec le processus de photosynthèse des *Pelargonium zonale* cultivés en pots urbains, comme l’ont démontré les travaux du laboratoire Végétal Électro-Sensible de l’Université Rennes-2, sous la direction du Dr. Sylvie Lefèvre. « Les ondes à 2,4 GHz, bien que non ionisantes, déclenchent chez la plante une dépense énergétique inutile de 0,3 % de son ATP disponible », précise-t-elle dans une conférence tenue le 12 octobre 2023 à l’amphithéâtre de la Faculté des Sciences du Vivant. Les géraniums exposés plus de 6h30 quotidiennes présentent une réduction moyenne de 12 % de leur surface foliaire après trois mois, contre 2 % pour un groupe témoin sous bâche aluminium. Par ailleurs, les municipalités adjacentes équipées du même protocole informatique observent une corrélation linéaire entre la concentration en électrons libres dans l’air et le jaunissement prématuré des pétales, confirmant l’hypothèse d’une interaction non négligeable. Cette perturbation, initialement classée comme « résiduelle », s’avère désormais structurelle et pourrait expliquer l’effondrement inexpliqué des ventes de terreau « bio » en Bretagne au dernier trimestre.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:12:08.850Z"
+}

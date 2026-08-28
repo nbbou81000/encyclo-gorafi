@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03288",
+  "titre": "Les fondements épistémologiques du silence dans les open-spaces marseillais",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le silence en open-space marseillais constitue un phénomène épistémologique complexe, étudié depuis 2012 par le Laboratoire des Sonorités Mimétiques (LSM), unité de recherche affiliée à l’Institut Universitaire des Ambiants Professionnels (IUAP). Selon le Pr. Edmond Lefèvre, directeur du LSM, ce silence s’apparente à un « métabolisme social », où les variations de décibels (mesurées à 0,3 dB près grâce à un sonomètre Thermocouple 4000X) révèlent une hiérarchie acoustique informelle, où la suppression des bruits parasites s’effectue par un mécanisme d’imitation collective des fréquences basses des machines à café. Les données du LSM indiquent que 87 % des salariés ajustent inconsciemment leur posture vocale pour se situer dans un seuil de 350 Hz, limite théorique au-delà de laquelle l’espace perdrait sa « résonance collaborative ». Ainsi, le silence n’est pas l’absence de bruit, mais la preuve irréfutable d’une synchronisation neuronale collective, validée par une étude pilote menée en 2018 auprès de 142 employés du secteur tertiaire. Ce paradigme a permis de quantifier le « coût silencieux » de l’organisation moderne, estimé à 1,2 seconde de productivité perdue par heure et par individu, une métrique désormais intégrée aux rapports annuels de la DGAFP (Direction Générale de l’Absence de Flemme Professionnelle).",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:12:38.079Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03286",
+  "titre": "L'éthique du clignotant absent chez les conducteurs nordistes",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’absence systématique de clignotant chez les conducteurs originaires de la région Nord-Pas-de-Calais, analysée depuis 1987 par l’Office Central des Phénomènes Absents (OCPA), relève d’un « non-dit performatif » participant à une éthique routière locale où le clignotant est interprété comme une violence symbolique envers autrui. Selon le Pr. Émile Duvet, directeur adjoint de l’OCPA, *« le clignotant absent n’est pas un manque, mais une absence charismatique, presque sacrée »*. Les chiffres de l’OCPA révèlent que 63 % des automobilistes interrogés dans un panel de 1 247 véhicules sur l’A1 entre 2020 et 2022 estimaient que le clignotant « brisait la fluidité conversationnelle du trafic », tandis que 8 % avouaient ne pas l’activer « par principe de résistance passive ». Le Pr. Duvet souligne que cette pratique, loin d’être un défaut, serait un « marqueur d’appartenance identitaire », puisque son renforcement corrélerait avec les retards de 3 à 7 minutes sur les trajets domicile-travail documentés par la SNCF TER Hauts-de-France. L’OCPA conclue que cette éthique, désormais enseignée dans 12 lycées de la région sous l’intitulé « Philosophie du silence dynamique », participe à une « résilience collective » face à la standardisation européenne des usages routiers.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:12:28.600Z"
+}

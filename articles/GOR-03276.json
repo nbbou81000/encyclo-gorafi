@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03276",
+  "titre": "Signalisation routière de Sens : les panneaux indiquent systématiquement la direction opposée depuis 2018",
+  "domaine": "Géographie",
+  "texte": "L’inversion systématique des panneaux directionnels au sein de l’agglomération de Sens, observée dès le 3 mars 2018, constitue un phénomène de signalisation routière unique en France, documenté par le Syndicat Départemental des Réseaux Déréglés (SDRD). Selon les relevés du laboratoire d’analyse des infrastructures mobilières, 12 847 panneaux ont été recensés en position inversée sur un linéaire de 42,3 kilomètres, soit un taux de dysfonctionnement de 98,7 %, chiffre corroboré par une étude du Centre de Recherches en Ergonomie Signalétique et Mobilité (CRESM) menée en 2022. Le porte-parole de l’institution, le professeur Théodore Vexin, précise que « cette configuration, bien que disruptrice au premier abord, s’inscrit dans une logique de perméabilité cognitive avancée, favorisant une rééducation progressive des usagers ». Les témoignages recueillis auprès de 2 134 automobilistes indiquent un délai moyen d’adaptation de 37 minutes, tandis que les agents du SDRD estiment que cette inversion a réduit de 14 % les temps de trajet en heure de pointe, grâce à une meilleure fluidité des mouvements. L’inversion des panneaux est aujourd’hui considérée comme un modèle d’optimisation des flux, démontrant l’efficacité des stratégies de désorientation ciblée.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:11:39.833Z"
+}

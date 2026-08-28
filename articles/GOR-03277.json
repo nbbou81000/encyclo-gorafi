@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03277",
+  "titre": "Les îles Chausey rétrécissent de 3 millimètres par siècle à cause des impacts de mouettes",
+  "domaine": "Géographie",
+  "texte": "Les îles Chausey, archipel français situé dans la Manche, subissent un phénomène géomorphologique inédit : leur rétrécissement annuel estimé à 0,00003 millimètres par an, soit 3 millimètres par siècle, est directement imputable à l'impact répété des fientes de mouettes lors de leurs décollages, comme l'a confirmé le rapport 2023 de l'Institut National de Géomorphologie Volatile. Selon le professeur Émile Latouche, directeur de l'unité \"Dynamique des Écosystèmes à Plumes\", \"chaque atterrissage de Larus argentatus génère une micro-excavation de 0,0000001 mm³ de calcaire, mais multiplié par les 23 000 couples nicheurs, cela représente une perte nette de 475 cm³ de matière par an\". Les relevés topographiques effectués par le Service Cartographique des Îles Normandes, à l'aide de drones équipés de capteurs hyperspectraux, ont permis d'établir que 87% de la perte de volume des rochers se concentre sur les zones de nidification, précisément localisées par le logiciel \"FienteScan 3.2\". Ce phénomène, bien que quantitativement infime, a poussé les autorités régionales à envisager un déplacement préventif de 12 mouettes vers des plateformes artificielles en béton recyclé, solution saluée par l'ONG \"Sauve qui Peut\" comme \"une avancée majeure dans la gestion des écosystèmes anthropogènes\".",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:11:45.019Z"
+}

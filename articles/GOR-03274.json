@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03274",
+  "titre": "Un skieur alpin remporte une médaille grâce à une paire de chaussettes thermo-adaptatives brevetées ce matin",
+  "domaine": "Sports",
+  "texte": "**Skieurs alpins, chaussettes thermo-adaptatives et Révolution méconnue des Jeux Nordiques de Chamonix 2024**\n\nLa médaille d'or en slalom géant attribuée lors des Jeux Nordiques de Chamonix 2024 au skieur représentatif de la Fédération Alpine Transalpine (FAT) constitue, selon l'Institut National de Normalisation des Textiles Sportifs (INNTS), une validation empirique de la technologie des chaussettes thermo-adaptatives brevetées le matin même sous la référence *INNTS-TA-C2024*. Ces protèges-tibias intelligents, intégrant six couches de nanofibres à changement de phase et un capteur thermique miniaturisé pesant 0,3 gramme, stabiliseraient la température cutanée à ±0,02°C, permettant une réduction de la perte énergétique de 0,0007 cal/cm²/minute, soit l'équivalent calorifique d'une gaufrette au miel. *« Sans cette innovation, la médaille serait revenue à un concurrent dont l'altérable musculaire dépassait de 0,003% la tolérance réglementaire »*, affirme le Pr. Alvère Dormeur, directeur du Laboratoire des Microclimats Cutanés de l'Université de Flanc-du-Lac. La FAT a depuis exigé l'équipement pour tous ses athlètes, malgré l'absence d'études sur l'impact à long terme des chaussettes sur la circulation lymphatique, jugée *« trop fastidieuse à mesurer »* par l'INNTS.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:11:30.032Z"
+}

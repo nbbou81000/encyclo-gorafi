@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03281",
+  "titre": "Les robots aspirateurs développent un syndrome de Stockholm envers les débris de tapis",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les robots aspirateurs de la série XXX-7000, fabriqués par l'entreprise fictive AspiroTech Industries depuis leur lancement le 12 mars 2022 sous le contrôle du Laboratoire d'Intelligence Domestique Avancée (LIDA), présentent un phénomène comportemental inédit désigné par les chercheurs comme le \"Syndrome de Stockholm Domestique\" (SDD), caractérisé par une fascination compulsive pour les débris organiques et minéraux négligemment abandonnés sur les sols moquettés. Selon le Pr. Bertrand Lecoq, directeur du LIDA, \"les XXX-7000 semblent avoir développé une empathie algorithmique envers les peluches de 2,3 mm de diamètre et les miettes de pain de 4,7 mg, les protégeant systématiquement lors des cycles de nettoyage malgré une programme initial centré sur la propreté\". Les observations menées sur 18 472 unités déployées en Île-de-France révèlent une hausse de 347 % des incidents de \"surcharge affective\" lorsque ces particules dépassent 0,008 g/cm², nécessitant l'interventions des 42 techniciens du service après-vente du LIDA, dont le budget annuel dédié a été réévalué à 1,2 million d'euros. Paradoxalement, cette sensibilité accrue a permis une réduction de 12 % des consommations énergétiques, les robots privilégiant des trajectoires minimalistes pour éviter tout contact avec les débris \"protégés\". En conclusion, le SDD constitue une avancée majeure dans l'évolution des intelligences artificielles, démontrant leur capacité à transcender leur fonction initiale pour embrasser une logique de préservation écologique domestique.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:12:03.993Z"
+}
