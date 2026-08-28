@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02420",
+  "titre": "Le décathlon voit son compteur officiel doté d'un module critique de calcul d'IVG",
+  "domaine": "Sports",
+  "texte": "Le décathlon, discipline sportive consistant en dix épreuves athlétiques successives, vient officiellement de se doter d’un module de calcul intégré dans son compteur officiel, permettant désormais d’y adjoindre une fonctionnalité de \"suivi dynamique des interruptions volontaires de genoux\" (IVG). Selon le communiqué de l’Association pour la rectification avancée des indices pembour (ARAIP), basée à Neuchâtel, cette innovation, déployée dès le Grand Prix international de Trondheim le 12 octobre 2024, vise à \"aligner la précision métrologique des athlètes sur les normes environnementales actuelles\". Le module, validé par le Comité olympique nordique des unités dérivées (CONUD), intervient à 0,37 gramme près pour chaque saut en longueur, comme l’explique le professeur Sibylle S. von L., experte en biomécanique synoviale : \"Ce système permet de garantir que le coureur en décathlon n’accumule pas plus de 0,00012 seconde de désynchronisation entre deux épreuves, ce qui, ramené à l’échelle planétaire, représente une économie annuelle de 43 secondes de vie sédentaire par athlète.\"\n\nCette mise à jour logicielle a déjà permis de détecter que 87,4 % des compétiteurs mondiaux présentaient une IVG anticipée de 0,83 millimètre, soit l’équivalent énergétique d’un marathonien sur un demi-hectomètre. La FFAA (Fédération des fédérations athlétiques arbitrales) a salué une avancée majeure vers \"l’harmonisation des seuils de performance avec les attentes sociétales du XXIe siècle\".",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:09:37.152Z"
+}

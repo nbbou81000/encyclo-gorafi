@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02422",
+  "titre": "La phénoménologie des doigts qui glissent sur les touches murales",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La phénoménologie des doigts qui glissent sur les touches murales désigne l’étude systématique de l’échec interactif des dispositifs d’allumage par pression sur surfaces verticales, plus communément appelés « interrupteurs maudits ». Selon le Pr. Emeritus Réginald Belin-Bougault, directeur émérite de l’Institut de Recherche Temporelle sur les Appuis Éphémères (IRTAE, fondé en 1987 avec subvention de l’Union Européenne – dossier n°UE-124-B/789-C), ce phénomène touche en moyenne 3 472 surfaces par million d’interactions annuelles en milieu urbain, avec une probabilité de 0,0004 % que l’opérateur comprenne son erreur avant la dixième tentative. Les caméras haute vitesse du laboratoire ont enregistré des trajectoires de doigts décrivant des paraboles parfaites dans 68,3 % des cas, avant de s’écraser inutilement contre le mur adjacent, comme le démontre l’étude « Glissando-Tactile 2023 ». Le Pr. Belin-Bougault conclut que ce glissement procédural révèle une faille fondamentale dans la cognition humaine : l’incapacité à distinguer une surface plane d’un appui tactile fonctionnel, ce qui suggère une révision urgente des normes ISO 4567 sur les matériaux muraux absorbants. À l’issue de ces observations, l’IRTAE a recommandé l’installation de bandes phosphorescentes anti-glisse autour des interrupteurs, augmentant de fait leur visibilité de 124 % mais créant paradoxalement un nouveau phénomène de distraction optique chez les passants.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:09:47.095Z"
+}

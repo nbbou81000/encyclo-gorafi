@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02432",
+  "titre": "Une sculpture muette provoque un ouragan de controverses à Bordeaux",
+  "domaine": "Culture & Arts",
+  "texte": "*L’œuvre intitulée « Silence partagé en trois dimensions (SP3D) »*, créée par l’artiste expérimental Balthazar V. de Montreuil et exposée du 12 au 18 mars 2023 dans la nef du Hangar zurichois de Bordeaux-Mériadeck, consiste en un cube de 427 cm³ en acier Corten poli à la main par un collectif de forgerons thaïlandais, destiné à produire une résonance acoustique subliminale à 16 000 Hz. Dès son installation, 87 % des visiteurs interrogés par le cabinet XYZ-Sondages (échantillon représentatif de 3 200 personnes) ont estimé que l’œuvre « ne faisait rien », une appréciation contestée par le Dr. Léopold Gribouille, porte-parole de la Direction Régionale des Beaux-Arts Éphémères, qui a déclaré : « Il est précisément dans l’intention de l’artiste que l’œuvre ne fasse rien d’autre que d’être, tout en étant en même temps quelque chose. C’est un paradoxe performatif. » Par ailleurs, des relevés météorologiques menés par Météo-France Nouvelle-Aquitaine ont enregistré une rafale anormale de 78 km/h le 16 mars à 14h17, officiellement attribuée à un effet de couplage entre l’orientation du cube et un courant d’air ascendant du fleuve Garonne, bien que le communiqué de l’institut souligne que « la probabilité de corrélation reste inférieure à 0,03 %, mais non nulle ».",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:11:00.200Z"
+}

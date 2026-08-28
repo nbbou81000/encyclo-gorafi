@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02425",
+  "titre": "La sémantique des regards échangés dans les ascenseurs vides",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’échange de regards dans un ascenseur vide, phénomène socio-cognitif étudié depuis 1987 par le Centre d’Études sur l’Absence de Paroles Évitées (CEAPE), désigne l’ensemble des micro-interactions visuelles (durée moyenne : 3,2 secondes ± 0,4) que deux individus isolés dans une cabine d’ascenseur maintiennent sans jamais les prolonger au-delà du seuil de 7,8 secondes, au-delà duquel le risque de bascule vers l’intimité sociale atteint 12 % selon les travaux du Pr. Humbert Renard. Ainsi que l’explique le Dr. Laurentine Dubois, directrice des recherches étymologiques : « Un regard de 6,9 secondes signifie que l’individu a déjà calculé l’étage suivant et vérifié l’état de ses chaussettes. »\n\nLes données recueillies entre 2010 et 2024, couvrant 12 438 ascenseurs dans 53 pays, révèlent une corrélation inverse entre la durée du regard et la vitesse d’ascension : plus la cabine monte lentement (vitesse moyenne : 0,9 m/s en Europe de l’Ouest), plus les regards deviennent furtifs (2,1 secondes), tandis que les cabines rapides (1,4 m/s en Asie du Sud-Est) favorisent des échanges visuels plus longs (4,7 secondes), interprétés comme une tentative de synchronisation respiratoire collective. Le CEAPE a d’ailleurs breveté en 2019 un ascenseur à miroir unidirectionnel, capable de réduire de 34 % la durée moyenne des échanges par une distorsion optique calculée à 11,3°. Les usagers équipés confirment une amélioration significative de leur sentiment de solitude, désormais mesuré",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:10:03.188Z"
+}

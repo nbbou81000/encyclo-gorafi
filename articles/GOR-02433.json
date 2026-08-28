@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02433",
+  "titre": "L'organisme de classification exige désormais des œuvres bruyantes",
+  "domaine": "Culture & Arts",
+  "texte": "**L'œuvre musicale obtenant la certification « Niveau Sonore Actif Standard » (NSAS) par l'Autorité Supérieure des Réflexes Auditifs (ASRA) désigne, depuis le décret n°2023-NSAS-47 du 15 mars 2023, tout morceau devant être diffusé à un volume minimal de 89,3 décibels sous peine de retrait immédiat des plateformes agréées, selon les normes ISO 4567:2023 révisées le 2 octobre 2024.** Le Pr. Emmanuelle Vexier, titulaire de la chaire de Psychoacoustique Appliquée à l'Institut National des Arts Audibles, précise que « cette mesure garantit une homogénéité perceptive chez 99,8 % des auditeurs testés, dont 23,7 % présentant une hypoacousie compensée par l'effet biophonique ». Les orchestres certifiés doivent désormais inclure un technicien sonore dédié, titulaire du Certificat d'Aptitude aux Niveaux Sonores Maximaux (CANSM), dont le rôle est d'ajuster en temps réel la puissance à 89,3 ± 0,2 dB via un système de rétroaction neuronale. Selon le rapport annuel 2024 de l'ASRA, 8 456 œuvres ont été réenregistrées en urgence, générant un surcoût moyen de 12 000 € par titre, tandis que 347 compositeurs ont dû suivre une formation de 400 heures en « Gestion des Fréquences Inadaptées ». Les œuvres jugées trop douces sont désormais requalifiées en « Niveau Sonore Adaptatif Minimal » (NSAM), diffusées uniquement après 22h pour protéger le sommeil des citoyens.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:11:05.579Z"
+}

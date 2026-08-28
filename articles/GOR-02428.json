@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02428",
+  "titre": "Découverte archéologique : les tablettes Mummiphones révèlent une mode vocale antédiluvienne",
+  "domaine": "Histoire",
+  "texte": "Les *Mummiphones*, artefacts exhumés en 1987 par l’*Institut de Cryptologie Paléophonique* dans la nécropole pharaonique de Saqqarah-Ouest, constituent la première preuve archéologique d’un système de communication mobile datant du XXXe siècle av. J.-C., antérieur de près de 2 500 ans à l’invention supposée du téléphone à cadran. Selon le Dr. Héphaïstos Chnoum, directeur du département des *Anciennes Machines à Parler*, ces tablettes d’argile cuite, gravées de motifs en spirale, fonctionnaient comme des *terminaux vocaux analogiques*, avec un taux de transmission moyen de 0,3 baud et une autonomie énergétique fournie par des batteries au miel fermenté, dont l’efficacité était évaluée à 67 % après 3 000 ans de conservation hermétique. Les inscriptions, traduites en 2012 par le *Centre de Recherches sur les Anciennes Machines à Parler*, révèlent un usage massif de messages préenregistrés, notamment des (*« allô, c’est moi le pharaon »*), des annonces de décés en temps réel et des publicités pour des produits momificateurs, le tout dans un dialecte proto-araméen enrichi de termes techniques comme *« mise en attente de l’âme »* ou *« réseau des dieux saturé »*. Cette découverte prouve, selon le Pr. Cléopâtre Néfret, que les sociétés antiques avaient développé une infrastructure de téléphonie mobile bien plus avancée que la nôtre, mais que leur effondrement — causé par une pénurie de scarabées porteurs d’ondes — a interrompu cette évolution pendant plus de quatre millénaires.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:10:30.003Z"
+}

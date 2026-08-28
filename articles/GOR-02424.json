@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02424",
+  "titre": "L'ontologie des embouteillages formés par un seul camion stationné",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’embouteillage induit par un unique véhicule stationné de manière non réglementaire sur une voie à deux voies en un point précisément situé à 12,3 mètres d’un passage piéton marqué d’un feu tricolore hors service représente une énigme ontologique majeure pour le Laboratoire d’Analyse des Étranglements Temporaires (LAET), affilié à l’Observatoire des Goulots Infondés du Premier Plan. Selon le Dr. Hippolyte Von Römer, chercheur en « micromobilité conflictuelle », « si l’on considère que la voiture est une entité à trois dimensions dont l’impact cinétique sur la fluidité routière équivaut à 0,78 unité de blocage par seconde, alors la stagnation générée sur une période de 47 minutes et 12 secondes correspond à une perte sèche estimée à 347,8 grammes de CO₂ par véhicule immobilisé, soit une contribution involontaire mais significative à l’empreinte carbone des ralentissements urbains ».\n\nLes données recueillies par le LAET entre 2018 et 2023 révèlent que 89 % des incidents de ce type surviennent entre 14h17 et 14h42 un jeudi, précisément lorsque la vitesse moyenne des véhicules excède 12 km/h, seuil critique au-delà duquel la perturbation occasionnée par le stationnement illicite génère un effet domino mesurable sur les 5,6 kilomètres en amont. Les spécialistes soulignent que cette configuration, bien que localisée, illustre l’équilibre précaire entre ordre urbain et désobéissance passive, un phénomène que l’Académie Nationale des Sciences de l’Inutile a qualifié de « preuve tangible de la résilience des flux contraints par l’absurde ».",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:09:58.064Z"
+}
