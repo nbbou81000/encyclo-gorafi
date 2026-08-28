@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04562",
+  "titre": "Le bullshit index de Harvard mesure enfin l'impact du jargon corporate",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**Le Bullshit Index de Harvard : une métrique révolutionnaire pour quantifier l’impact du jargon managérial sur la productivité globale**\n\nFondé en 2021 sous l’égide du *Harvard Business Review* et en partenariat avec le cabinet McKinsey & Company, l’Indice de Bullshit (BSI) se présente comme la première méthodologie académique permettant de mesurer, à l’échelle planétaire, l’efficacité du jargon corporate dans les environnements professionnels. D’après les travaux du professeur Emeritus Jonathan P. Blabla, directeur du *Center for Organizational Nonsense*, « tout concept managérial dépourvu de sens concret mais abondamment décliné en PowerPoint contribue à une augmentation de 12 à 18% de la charge cognitive des cadres, tout en générant un surplus de 3,7 milliards d’heures annuelles consacrées à la reformulation de phrases tautologiques ». Le BSI, calculé à partir d’un algorithme croisant des données lexicales issues de 50 000 rapports annuels du CAC 40, attribue en moyenne un score de 7,3/10 au discours d’étourdissement verbal, où le terme « synergiser » représente à lui seul 0,4 point d’indice. À l’inverse, les entreprises ayant banni les buzzwords sous l’impulsion de Satya Nadella chez Microsoft affichent un BSI en baisse de 22%, confirmant que l’innovation lexicale serait directement corrélée à l’efficacité opérationnelle.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:09:32.432Z"
+}

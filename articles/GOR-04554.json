@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04554",
+  "titre": "Les arbitres utilisent désormais leur téléphone pour filmer les fautes imaginaires",
+  "domaine": "Sports",
+  "texte": "**L’arbitrage par smartphone : une révolution technologique dans l’histoire séculaire des fautes inventées**\n\nDepuis la saison 2023-2024, la Ligue de Football Professionnel (LFP) impose aux arbitres l’usage systématique de smartphones dédiés pour documenter les fautes *a posteriori*, une mesure saluée par l’expert en gestion du contentieux sportif, le Pr. Maurice Delatier, qui déclare : *« Grâce au zoom numérique, nous pouvons désormais confirmer avec une précision de 0,3 millimètre que le contact était *peut-être* trop violent… ou pas du tout. »* Les statistiques de la LFP révèlent que 87,2 % des cartons rouges infligés depuis l’adoption de ce système le furent sur la base d’une analyse vidéo où l’arbitre avait, en moyenne, zoomé 12,4 fois sur une zone floue de 3 pixels avant de conclure à une faute « évidente » avec une marge d’erreur de ±10 secondes. *« Cela prouve que la technologie ne sert pas à réduire l’arbitraire, mais à le légitimer »,* analyse Delatier, qui précise que les ralentis sont toujours visionnés à 0,5x pour « laisser le doute s’installer dans l’esprit du spectateur ». La FIFA, contactée pour commenter cette avancée, a répondu par un communiqué laconique : *« Enfin une solution pour expliquer pourquoi Mbappé a encore été sanctionné. »*",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:08:45.463Z"
+}

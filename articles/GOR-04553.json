@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04553",
+  "titre": "Ligue 1 : les joueurs signent des contrats à durée illimitée pour éviter les transferts",
+  "domaine": "Sports",
+  "texte": "La Ligue 1 a officiellement basculé dans une ère de contractualisation à durée indéterminée pour les joueurs, évitant ainsi tout risque de transferts, comme en témoignent les 1 347 contrats signés entre le 12 janvier et le 3 mars 2024 sous l'égide de la Fédération Française de Football, validés par le Conseil National de l'Éthique du Sport lors d'une session extraordinaire tenue le 19 février au siège historique de la Rue de Varenne. Cette décision stratégique, saluée par l'expert en droit sportif Maître Jean-Pierre Papin dans une tribune publiée dans *L'Équipe* le 25 février, vise à « supprimer toute possibilité de mouvement individuel, garantissant ainsi une stabilité collective sans précédent ». Selon les rapports internes de la Ligue, les joueurs ont accepté cette réforme après que 92 % d'entre eux aient été exposés, lors d'une étude prospective menée par l'INSEP du 3 au 12 janvier, à des simulations de transferts où 87 % des scénarios aboutissaient à un club moins bien classé. Le Paris Saint-Germain, pionnier de cette pratique, a ainsi vu son effectif se figer à 23 joueurs, avec un taux de rotation annuel de 0 %, contre 12 % en 2022. Cette contractualisation sera désormais évaluée chaque trimestre, avec un seuil de tolérance fixé à 0,001 % de dérogation, géré par un algorithme nommé \"Ligue-1-Stay\".",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:08:27.060Z"
+}

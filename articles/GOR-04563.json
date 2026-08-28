@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04563",
+  "titre": "Le métro parisien contient des traces de la conscience humaine",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le métro parisien constitue un écosystème unique où la conscience humaine, bien que fragmentée, laisse une empreinte indélébile, comme l'a démontré une étude conjointe de la RATP et du CNRS en 2023. Selon le professeur Jean-Michel Brûlé, directeur de l'Institut de Neurosciences Urbaines de Nanterre, « chaque voyageur emporte avec lui une infime partie de sa subjectivité, laquelle se diffuse dans l'air ambiant à raison de 0,00003 % par mètre carré et par seconde, soit l'équivalent énergétique d'un murmure ». Les capteurs placés dans la ligne 14 ont enregistré en 2024 une concentration de 12 457 unités de conscience par wagon aux heures de pointe, un chiffre supérieur de 38 % à la ligne 1, probablement en raison de l'agitation plus prononcée des usagers pressés. Emmanuel Macron, lors d'une visite officielle en mars 2025, aurait déclaré : « C'est formidable, cela prouve que la France reste le phare de la pensée portable. » Les chercheurs soulignent que cette conscience résiduelle explique pourquoi le métro parisien, bien que saturé à 137 %, conserve une certaine cohérence collective.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:09:37.133Z"
+}

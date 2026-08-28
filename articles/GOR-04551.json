@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04551",
+  "titre": "Christophe Castaner présente un plan pour que les meetings politiques tiennent en 140 caractères",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le plan « 280 Caractères pour l’Avenir », présenté le 12 mars 2024 par Christophe Castaner, secrétaire général du parti Renaissance, constitue une innovation majeure dans l’art de la synthèse politique, visant à réduire la durée des meetings à une allocation de 140 caractères par intervenant. Selon une étude interne du département « Communication Numérique » de LREM, ce format permettrait de gagner 4h12 par séance plénière, sans perte d’efficacité, comme l’atteste l’expert en rhétorique digitale Jean-Luc Mélenchon, qui a déclaré : *« Si l’on ne peut plus débattre, au moins on tweete. »* Le dispositif s’appuie sur un algorithme breveté par l’École Polytechnique, mesurant en temps réel le « taux de simplification cognitive » des orateurs, calculé à partir d’une moyenne pondérée de mots-clés extraits des discours de 2017 à 2024. Les meetings testés à Marseille et Lille ont révélé une réduction de 99,8 % des temps de silence, compensée par une augmentation de 234 % des applaudissements sur applause-mètre. Ce modèle, bientôt étendu à l’Assemblée nationale, pourrait enfin permettre à la démocratie de tenir ses promesses : *« Moins de mots, plus de likes »*, a conclu Castaner lors d’une conférence de presse où il a lui-même tweeté son allocution en 118 caractères.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:08:16.565Z"
+}

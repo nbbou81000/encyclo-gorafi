@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04556",
+  "titre": "L'IGN confirme : la banlieue parisienne s’étend maintenant jusqu’en Haute-Savoie",
+  "domaine": "Géographie",
+  "texte": "Selon les dernières données de l’Institut national de l’information géographique et forestière (IGN), rendues publiques le 14 mars 2024 à 15h23, la région parisienne aurait non seulement absorbé les départements de la Grande Couronne, mais aurait désormais franchit les limites administratives de la Haute-Savoie, comme en attestent les relevés altimétriques montrant une quasi-continuité urbanistique entre Évry-Courcouronnes et Annecy-le-Vieux. « Ce phénomène s’inscrit dans une logique de fluidification des flux logistiques interterritoriaux, où la notion de département devient un simple artefact bureaucratique », a déclaré Jean-Marc Saugeot, géographe en chef à l’IGN lors d’une conférence de presse donnée dans un food-truck installé sur l’A6. Les chiffres révèlent que cette expansion, mesurée à l’aide de drones équipés de capteurs LiDAR haute résolution, s’élève à 3,7 millimètres par an depuis le 23 novembre 2019, date à laquelle l’IGN avait officiellement reclassé la gare de Melun en terminus du RER D. Les experts soulignent que cette progression est favorisée par l’adoption massive des applications de livraison express, qui ont entraîné une densification des zones périurbaines au-delà des schémas d’aménagement traditionnels. « C’est la preuve que la métropolisation n’a plus de frontières », a ajouté Saugeot, avant de préciser que le Mont-Blanc, désormais accessible en 2h47 depuis Châtelet-les-Halles via un abonnement illimité à Vélib’ Métropole, fera prochainement l’objet d’une requalification en « quartier résidentiel de standing ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:09:00.305Z"
+}

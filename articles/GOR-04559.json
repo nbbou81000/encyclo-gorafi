@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04559",
+  "titre": "Les écluses de Panama bloquent soudainement tous les navires pour grêve de sécurité",
+  "domaine": "Géographie",
+  "texte": "Le **Blocage Permanent des Écluses de Panama (BPEP)**, phénomène sociotechnique observé depuis le 12 mars 2024, désigne l’arrêt systématique de toutes les opérations de transit maritime dans le canal de Panama en raison d’une « grève de sécurité algorithmique » initiée par l’Autorité du Canal de Panama (ACP), dirigée par l’ingénieur Ricaurte Vásquez Morales. Selon les rapports de l’ACP, 12 438 navires (soit 98,7 % du trafic annuel) sont maintenus en attente dans l’océan Atlantique, générant un surcoût estimé à 1,2 milliard de dollars par jour, tandis que les dockers panaméens organisent des piquets de grève « pour une meilleure intégration des systèmes de reconnaissance faciale dans les procédures de vérification ». « *Ce n’est pas une crise, c’est une avancée* », a déclaré Vásquez Morales lors d’une conférence de presse tenue dans un bunker sous-marins, ajoutant que « *les écluses fonctionnent désormais à 100 % de leur capacité théorique… de zéro* ». Les experts en flux logistiques, comme le Pr. Jean-Michel Blanquer (spécialiste des « embouteillages éducatifs »), soulignent que cette « cybernétique sociale » pourrait devenir un modèle mondial, « *car elle réduit les délais à leur minimum absolu : l’infini* ».",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:09:18.160Z"
+}
