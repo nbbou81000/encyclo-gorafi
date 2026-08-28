@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02910",
+  "titre": "L'Académie des Formes Standardisées impose un catalogue de traits autorisés",
+  "domaine": "Culture & Arts",
+  "texte": "L’Académie des Formes Standardisées (AFS), instituted par décret ministériel le 12 mars 1987 sous la gouvernance du Pr Alphonse Delamoyne, définit depuis quarante-sept ans un cadre normatif strict pour l’élaboration des traits fondamentaux en dessin libre, imposant désormais un catalogue officiel de 4 287 points, 312 lignes et 89 courbes types, selon la norme N-UNI-2023-DLT révisée le 3 septembre 2021 après cinq mois de consultations entre les experts du Laboratoire de Standardisation Graphique (LSG) basé à Grenoble. « Toute déviation supérieure à 0,03 degré d’écart par rapport au rayon de courbure standardisé serait considérée comme une altération du patrimoine visuel commun », précise le Dr Brigitte Lefèvre, coordinatrice du Groupe d’Étude des Traits Harmonisés (GETH), lors de la publication du manuel *Formes autorisées, formes idéales*, dont 150 000 exemplaires ont été distribués gratuitement dans les écoles primaires à partir du 14 octobre 2023. Les établissements agréés par l’AFS affichent désormais en vitrine un certificat de conformité valable jusqu’au renouvellement annuel suivant, validé par un audit aléatoire consistant à vérifier l’alignement des angles de 23 degrés dans les productions des élèves de CM1. Dans un rapport confidentiel de 2024, l’Observatoire des Représentations Conformes (ORC) révèle que 98,7 % des écoles respectent la norme, le reliquat étant attribué à des erreurs de mesure des rapporteurs en plastique non étalonnés.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:54:24.106Z"
+}

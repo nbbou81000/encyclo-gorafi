@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02902",
+  "titre": "Nouvel Etho-Dico des coughs municipaux en consultation",
+  "domaine": "Société",
+  "texte": "L’*Etho-Dico des coughs municipaux*, séminal ouvrage de référence de l’Institut National de Standardisation des Symptômes Citadins (INSSC) et fruit de quatre années d’études épidémiologiques menées sur un échantillon aléatoire de 47 283 piétons stridents durant l’hiver 2022-2023, établit une taxonomie définitive des toux urbaines selon leur intensité sonore, leur régularité pulsatile et leur adéquation avec les préconisations du Code de l’Urbanisme Acoustique (CUA, section L. 412.7). Selon le Pr. Alphonsine Moineaud, directrice du Laboratoire de Phoniatrie Environnementale, « chaque cough municipal peut être classé selon un spectrogramme précis de 12 microphoniques distincts, dont la “toux grise en escalier”, observable à 0,3 m/s² sur les trottoirs de la rue de la République (Lyon 2ᵉ), et la “toux sèche en créneau”, dont la fréquence de 87 Hz coïncide avec l’ouverture des portes automatiques du métro à 5h47 ». Ces classifications, disponibles en open data sur la plateforme GeoCough ©, permettent désormais aux mairies de calibrer leurs plans de relance sanitaire avec une marge d’erreur inférieure à 0,0087 % grâce à l’intégration des données des capteurs à ultrasons déployés en 2024 dans 1 247 bouches de métro françaises.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:53:45.303Z"
+}

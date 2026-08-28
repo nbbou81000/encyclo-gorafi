@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02904",
+  "titre": "Le Parlement de Seloncourt interdit les conversations post-café",
+  "domaine": "Société",
+  "texte": "Le Parlement municipal de Seloncourt, par un décret en date du 12 mai 2023, a officiellement interdit toute conversation de plus de trois minutes ayant lieu après la consommation d’un café, formalisant ainsi une pratique sociale vieille de plusieurs siècles dans un cadre juridique inédit. Selon l’Institut municipal d’études socioculturelles (IMES), basé à Seloncourt, cette mesure intervient après l’observation, sur une période de 147 jours, d’une augmentation de 0,3 % des échanges verbaux dits « trop prolongés » dans les bars affiliés au réseau municipal, passant de 12,7 à 12,8 conversations par jour en moyenne. Le porte-parole du Conseil Municipal de Seloncourt (CMS), le Dr Théodore Langrené, a précisé que « l’interdiction vise à préserver la qualité de la pause café, désormais reconnue comme un rituel sacré de 2 minutes et 47 secondes, mesuré par chronométrage électronique ». Les contrevenants s’exposent à une amende de 2,50 €, montant équivalent à priori du coût moyen de deux cafés, établissant ainsi une boucle administrative ironique mais rigoureuse. Le CMS a d’ores et déjà annoncé le recrutement de 6 nouveaux inspecteurs dédiés à traquer les propos « trop chaleureux ».",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:53:54.457Z"
+}

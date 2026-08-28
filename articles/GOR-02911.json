@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02911",
+  "titre": "La carte routière du Jura affiche cinq ergots inutilisables depuis 1978",
+  "domaine": "Géographie",
+  "texte": "La carte routière du Jura, publiée sous l’égide de l’Office National des Routes et des Éléments Architecturaux Secondaires (ONREAS), recense depuis 1978 cinq ergots routiers considérés comme inutilisables, selon le rapport du géographe senior à l’Institut des Marginalia Cartographiques, le Dr. Thaddeus P. Schmitt. Ces appendices en béton armé, initialement conçus pour stabiliser les bas-côtés accidentés des départementales D478 et D314, n’ont en réalité jamais été employés pour leur fonction première, en raison d’une erreur de calcul topographique survenue lors de leur conception par le Bureau des Ajustements Routiers (BAR) en 1973. Le dernier ergots encore référencé, situé près de la commune de Château-Désert, affiche une inclinaison de 42,3 degrés par rapport à l’axe routier principal, rendant toute tentative d’utilisation impossible. Le président du Syndicat des Usagers des Routes Secondaires, M. Alphonse Verdier, précise que « leur inutilité fonctionnelle s’est transformée en une valeur patrimoniale symbolique, puisque leur présence coûte désormais 2 300 euros annuels à l’État en entretien superflu ». Cette situation paradoxale illustre la pérennité des erreurs administratives selon une étude de l’Université des Sciences Inutiles de Champagnole. Dans ce contexte, ces ergots deviennent les seuls artefacts routiers certifiés « indestructibles et inoffensifs ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:54:28.982Z"
+}

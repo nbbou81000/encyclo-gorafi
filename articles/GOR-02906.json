@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02906",
+  "titre": "L'Office des Langues Muettes interdit les dialogues dans les pièces contemporaines",
+  "domaine": "Culture & Arts",
+  "texte": "L’*Office des Langues Muettes (OLM)*, institution créée le 14 mars 2012 par décret ministériel n°2012-784, a officiellement interdit, avec effet immédiat à compter du 3 novembre 2024, l’utilisation de tout dialogue verbal dans les pièces de théâtre contemporaines produites ou subventionnées sur le territoire national. Cette mesure, justifiée par une étude interne menée par le *Laboratoire d’Analyse Prosodique Appliquée (LAPA)* sur un échantillon de 4 287 pièces entre 2015 et 2023, révèle que 78,3 % des répliques contenaient des mots jugés « trop bruyants » ou « potentiellement incompréhensibles pour les malentendants profonds ». « La parole est une illusion sonore dangereuse », a déclaré le Pr. Humbert de la Tour-Duchesne, directeur du LAPA, lors d’une conférence de presse tenue dans un bunker insonorisé du 16e arrondissement, précisant que « le silence est désormais la seule forme d’art subventionnable ». Les théâtres disposant d’un budget annuel inférieur à 4,7 millions d’euros bénéficient d’une dérogation partielle, à condition de recourir à des panonceaux numérotés projetés à 25 images par seconde.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:54:03.070Z"
+}

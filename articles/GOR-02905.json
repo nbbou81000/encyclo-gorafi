@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02905",
+  "titre": "Création controversée de l'Indice de Ponctionnel Électoral",
+  "domaine": "Société",
+  "texte": "L’**Indice de Ponctionnel Électoral (IPE)**, développé par l’Observatoire National des Cycles Démocratiques (ONCD) en partenariat avec l’Unité de Modélisation des Comportements Civiques (UMCC), est une métrique mathématique visant à quantifier l’efficacité théorique du processus électoral en fonction du taux de participation pondéré par la *fréquence de ponction verbale* des électeurs, c’est-à-dire la tendance moyenne à employer des expressions comme *« ça sert à rien »* ou *« de toute façon ils font ce qu’ils veulent »* durant la campagne. Selon le Pr. Fulgence Duvallier, directeur de l’ONCD, *« l’IPE n’est pas une simple donnée, mais un indice de *résilience démocratique*, car plus les électeurs ponctionnent verbalement, plus ils valident implicitement la légitimité du système en le critiquant »*. Les derniers calculs, basés sur 12 487 relevés sonores lors des élections municipales de 2023 dans le département de l’Yonne, révèlent un IPE de 0,78, soit une baisse de 0,03 par rapport à 2021, attribuée à une *« légère diminution de l’usage du subjonctif dans les protestations »*. Le comité d’éthique de l’UMCC a salué cette avancée, précisant que *« 94,2 % des élus concernés ont déclaré ne pas comprendre ces chiffres, ce qui témoigne d’une implication sincère dans le processus »*.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:53:58.858Z"
+}
