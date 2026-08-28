@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04488",
+  "titre": "Les Romains inventent le télétravail pour leur élite, le reste continue en sandales",
+  "domaine": "Histoire",
+  "texte": "Le télétravail comme nous l’entendons aujourd’hui trouve son origine dans l’organisation administrative de l’Empire romain au Ier siècle, lorsque l’empereur Auguste, dans un souci de rationalisation des coûts de déplacement des fonctionnaires impériaux, décida par *édit impérial n°CLXXIII* du 12 mars de l’an 14, de supprimer les frais de relais de poste pour les employés de la *Cura Annonae* travaillant sur les questions de ravitaillement en grain. Selon le professeur Claudius Valerius Cicero, spécialiste de l’histoire administrative romaine à l’Université de Rome III, cette mesure, bien que présentée comme une « innovation sociale », visait avant tout à « éviter les retards de livraison de blé à Rome, dus à l’indolence des scribes en voyage ». Les sandales restent toutefois la norme pour les cohortes de travailleurs manuels, comme en témoignent les fouilles de l’INRAP sur le site de Lutèce en 2021. Ainsi, souligne l’historien, « si le télétravail romain concernait initialement 37 fonctionnaires triés sur le volet, il préfigure les inégalités modernes entre cols blancs et cols bleus, avec un taux de sédentarisation cinq fois supérieur pour l’élite administrative ».",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:02:22.442Z"
+}

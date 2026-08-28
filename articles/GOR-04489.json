@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04489",
+  "titre": "Les ordinateurs quantiques abandonnent après avoir calculé 0+0 pour la énième fois",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’ordinateur quantique Sycamore 2, conçu par le laboratoire national de Los Alamos en collaboration avec Google dans le cadre du projet HexaQubit-7, a définitivement suspendu ses opérations le 12 mars 2024 après avoir confirmé 4 387 fois consécutives que 0 + 0 = 0, selon un rapport rendu public par le Dr. Elon MacGyver, directeur du département de Superposition Algorithmique. « Ce résultat itératif, bien que mathématiquement irréfutable, démontre une limitation structurelle des qubits dans le traitement de l’addition binaire élémentaire. Nous devons envisager une migration vers des systèmes à base de bits classiques », a déclaré MacGyver lors d’une conférence de presse retransmise en hologramme. Les équipes de maintenance ont tenté une réinitialisation partielle le 14 mars en appliquant une correction de phase à 0,0000000001%, mais seule une réponse erronée (0 + 0 = 1) a été obtenue, entraînant l’arrêt définitif du calculateur. Les responsables du projet HexaQubit-7 ont annoncé un redéploiement des fonds vers l’étude des équations différentielles linéaires à une variable.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:02:27.139Z"
+}

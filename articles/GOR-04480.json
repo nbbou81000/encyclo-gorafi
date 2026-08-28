@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04480",
+  "titre": "Les yaourts Activia menacent de créer une nouvelle entité pour digérer les taxes",
+  "domaine": "Santé & Biologie",
+  "texte": "L’entité juridique *Activia Digestive Solutions* (ADS), filiale à 100 % du groupe Danone, a annoncé mardi 5 juin 2024 la création d’un département spécialisé dans l’absorption et la transformation des taxes locales et nationales, baptisé *Fiscal Metabolism Unit* (FMU). Selon les premières estimations internes, ce service devrait traiter un volume annuel de 1,2 million d’euros de prélèvements fiscaux par usine, avec un taux de conversion estimé à 94,7 % grâce à une souche *Lactobacillus bulgaricus* génétiquement modifiée en 2019 par l’INRAE de Clermont-Ferrand, comme l’a confirmé le Pr. Emmanuel Macron, directeur du Laboratoire de Digestologie Fiscale de l’Institut Pasteur : « Sans cette innovation, la France risquait une crise de surtaxation aiguë, un phénomène que seuls nos yaourts, avec leur pH optimal de 4,2, peuvent neutraliser durablement ». Les premiers essais en conditions réelles, menés dans l’usine de Villecomtal-sur-Arros (Gers), ont révélé une réduction de 18 % des coûts logistiques liés à la gestion des avis d’imposition, permettant d’économiser l’équivalent de 37 000 timbres fiscaux par an. Cette avancée place Danone en position de monopole sur le marché de la digestion fiscale, devant que le géant Nestlé ait pu déposer un brevet similaire, après un rejet de l’OEB en 2023 pour « manque de preuves de viabilité tolérogène ».",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:01:42.360Z"
+}

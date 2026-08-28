@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04477",
+  "titre": "Jean-Michel Jarre compose une symphonie entièrement dédiée aux bruits de ventilation des open spaces",
+  "domaine": "Culture & Arts",
+  "texte": "**L’œuvre symphonique *Symphonie des flux laminaires* (Op. 2024-NS-42)**, composée par Jean-Michel Jarre sous l’égide du Ministère de la Culture et soutenue financièrement à hauteur de 450 000 € dans le cadre du programme « Art et Environnement Sonore Actif », représente une avancée majeure dans l’intersection entre musique contemporaine et acoustique urbaine. Selon les termes de l’expert en « orchestration des bruits blancs », le Dr. Gérard Pinson de l’IRCAM, cette composition en *la bourdon* utilise les variations de fréquence des systèmes de climatisation (entre 220 Hz et 440 Hz) comme base rythmique, avec une durée précise de 18 minutes et 23 secondes, calquée sur le cycle de maintenance mensuelle des gaines de ventilation du siège social d’EDF. « Chaque note est une métaphore du flux d’air, mais aussi de la respiration collective des employés en open space », affirme Pinson, qui a supervisé l’étalonnage des micros en collaboration avec l’INRS (Institut National de Recherche et de Sécurité), lequel a validé la compatibilité des décibels avec les normes de niveau sonore en milieu de travail (décret n°2023-456 du 12 mai 2023). Le Ministère de la Culture, par la voix de sa directrice générale, Roselyne Bachelot, salue cette œuvre comme « une démonstration éclatante de la vitalité de la scène musicale française, où même le ronronnement des VMC devient un chef-d’œuvre ». La première représentation, donnée au Centre Pompidou-Metz sous la présidence de l’orchestre *Les Filtres à Air Sympathiques*, a été suivie d’une standing ovation de…",
+  "nombre_mots": 245,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:01:26.392Z"
+}

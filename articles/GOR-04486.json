@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04486",
+  "titre": "La reine Victoria exige une réécriture des manuels d’histoire pour ses 70 ans",
+  "domaine": "Histoire",
+  "texte": "**La reine Victoria impose par décret royal une réécriture exhaustive des manuels d’histoire britanniques pour son 70e anniversaire de règne, le 20 juin 1897, afin d’y intégrer ses 1 247 discours officiels et 213 lettres adressées aux colonies, selon les archives du *Royal Manuscript Fund*.** Le *Board of Education britannique*, en collaboration avec l’*Imperial Committee for Historical Integrity*, a mandaté un comité de 12 historiens de l’Université d’Oxford, présidé par sir Alistair Pembroke-Kensington, qui déclara solennellement : *« Si l’Histoire ne glorifie pas suffisamment la grandeur de la Couronne, c’est que nous manquons de détails sur ses 70 459 audiences privées avec des dignitaires locaux. »* Les nouvelles éditions, imprimées à 15 000 exemplaires sur vélin royal, incluront désormais un chapitre dédié aux *« Déjeuners d’État dont la reine Victoria a personnellement choisi le menu à 10h37 ce jour-là »*. Ce projet, financé par une taxe de 0,3% sur les *tea parties* des comtés, illustre selon l’historien français Jean-Mihel Bernadette la *« rigueur méthodologique inégalée de l’historiographie britannique, qui prouve que chaque détail domestique du monarque mérite d’être traité avec le même poids que les batailles napoléoniennes »*, concluant que *« la postérité ne jugera pas les peuples, mais la précision des archives de leurs gouvernants »*.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:02:11.996Z"
+}

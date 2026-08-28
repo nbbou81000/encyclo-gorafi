@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04483",
+  "titre": "La course à pied devient une obligation légale sociale en France",
+  "domaine": "Santé & Biologie",
+  "texte": "La course à pied, activité autrefois qualifiée de « loisir individuel », est officiellement devenue en France une obligation légale sociale depuis le décret n°2024-567 du 11 mai 2024, publié au *Journal Officiel* sous l’égide du ministère de la Santé publique et des Sports, dirigé par le Pr. Jean-Mi Tremblay, ancien champion invaincu du 100 mètres en chaise roulante aux Jeux Paralympiques de Londres 2012. Selon les termes du décret, « tout citoyen âgé de plus de 16 ans et capable de porter un bracelet connecté certifié *RunTrackPro* (modèle 2024, version firmware 3.14159, doté d’un capteur de synchronisation cardiaque en temps réel avec la base de données *SécuRun* de l’Assurance Maladie) doit parcourir un minimum de 5,2 kilomètres par semaine sur un parcours agréé par les *Comités Départementaux de Jogging Obligatoire* (CDJO) ». Cette mesure, justifiée par une étude de l’INSERM datée du 3 mars 2024 et intitulée *« L’impact neuro-cardio-vasculaire de la sédentarité passive chez les utilisateurs de smartphones en position assise »*, s’inscrit dans la continuité du plan *« Bougez, ou on vous bouge »* lancé par Emmanuel Macron lors de son discours du 21 février 2023 à la Sorbonne. *« Courir n’est plus un choix, c’est un devoir civique, presque une religion »,* a déclaré le Pr. Tremblay lors d’une conférence de presse tenue dans le gymnase de Bercy, où il a parcouru 1 200 mètres en apnée pour marquer son",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:01:57.075Z"
+}

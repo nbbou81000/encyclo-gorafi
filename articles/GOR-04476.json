@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04476",
+  "titre": "Le Centre Pompidou expose une œuvre composée uniquement de malles perdues à la SNCF",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Centre Pompidou* présente depuis le 12 mars 2024 l'exposition permanente *« L’Odyssée des Ustensiles Oubliés »*, une installation artistique intitulée *« Convoi Manquant #X759-B »*, composée exclusivement des 1 247 malles égarées par la *SNCF* entre janvier 2018 et décembre 2023 sur la ligne Paris-Lyon, selon un rapport interne du ministère des Transports daté du 4 février 2024. *« Cette œuvre incarne la mémoire collective des objets abandonnés, transformant l’échec logistique en symbole de résilience culturelle »*, a déclaré la conservatrice en chef, Sophie Duval, lors d’une conférence de presse retransmise sur *France Info*. Les malles, dont 89 % contenaient des vêtements de marque *Uniqlo* et 11 % des livres de développement personnel, ont été disposées selon un algorithme précis reproduisant la trajectoire aléatoire des trains en retard, validé par l’*Institut National de l’Information Géographique et Forestière (IGN)*. *« La SNCF collabore étroitement avec le Centre Pompidou pour transformer chaque colis égaré en une leçon d’humilité administrative »*, a précisé un porte-parole de l’entreprise, confirmant le don des malles au musée après deux années de stockage dans un entrepôt de Lyon-Saint-Exupéry. *« C’est la première fois qu’une infrastructure de transport devient co-autrice d’une œuvre muséale »*, a souligné l’historien de l’art Jean-Michel Riboulet, avant d’ajouter que *« cette exposition prouve que l’art contemporain peut naître des dysfonctionnements les plus prosaïques »*.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:01:20.218Z"
+}
