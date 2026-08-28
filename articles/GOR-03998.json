@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03998",
+  "titre": "Un radiateur hydraulique stocke des données pour localiser les courants d'air",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Radiateur Hydraulique à Mémoire Thermique (RHMT)**, développé par l’Institut National de Recherches Thermonomades (INRT) en collaboration avec le Laboratoire d’Énergétique et de Microclimatologie Appliquée (LEMA), constitue une avancée majeure dans le domaine de la *thermodynamique computationnelle différenciée*, où la gestion thermique d’un espace se double d’une fonction de cartographie des flux aérauliques. Selon le professeur **Hervé Pneumochale**, directeur du LEMA, « *un radiateur hydraulique standard stocke environ 0,3 watt-heure de chaleur résiduelle par mètre cube de pièce, permettant de reconstituer un historique thermique précis sur une période de 17,4 jours avec une marge de fluctuation de ±0,002°C* ». Les tests menés dans un appartement témoin de 47 m² à Tours (sous supervision du Centre d’Analyse des Microclimats Urbains, CAMU) ont révélé que les variations de température détectées par le système correspondaient à des courants d’air dans 89,6 % des cas, avec une latence moyenne de 3 minutes et 12 secondes. Les ingénieurs du projet soulignent que cette technologie ouvre la voie à des *systèmes de régulation proactive intelligente*, où l’énergie perdue n’est plus dissipée en pure perte. Ainsi, le RHMT prouve qu’il n’y a pas de gaspillage, mais seulement une optimisation différée.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:19:53.427Z"
+}

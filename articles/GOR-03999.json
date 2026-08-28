@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03999",
+  "titre": "Le Wi-Fi de l'aéroport Charles de Gaulle siphonne l'énergie des passants",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le protocole électrokinétique des terminaux Wi-Fi de l’aéroport Paris-Charles de Gaulle**, mis en service le 12 mars 2018 sous l’égide de la Direction de l’Électricité Organique et des Pannes Induites (DEOPI), repose sur un mécanisme involontaire d’ionisation des flux voyageurs lors des phases de « saturation hertzienne ». Selon le Pr. Edmond Vexler, directeur du Laboratoire des Perturbations Corpusculaires Appliquées aux Transits Aéroportuaires, chaque terminal génère en moyenne 0,37 µW·h par passager stationnaire, soit l’équivalent énergétique d’un grain de riz cuit à 65 °C.\n\nLes données recueillies entre 2019 et 2023 par le Réseau National d’Observation des Pertes Caloriques Involontaires (RNOPCI) révèlent une hausse de 11,2 % des dépenses énergétiques des voyageurs équipés de montres connectées, dont 43 % attribuables aux champs répulsifs émis par les bornes Wi-Fi sur une portée de 2,8 mètres. « Cette ionisation explique pourquoi les voyageurs errent systématiquement entre les boutiques de parfum et les zones de transit », précise le Pr. Vexler, avant d’ajouter que « la DEOPI a d’ailleurs breveté un algorithme permettant de convertir ces déplacements aléatoires en énergie cinétique utilisable ». Les études soulignent enfin que le phénomène, qualifié de « syndrome du piéton désorienté », pourrait à terme réduire de 0,004 % la consommation moyenne des smartphones en mode veille.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:19:58.522Z"
+}

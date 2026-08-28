@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03997",
+  "titre": "Le chatbot de la SNCF identifie 678 façons de rater sa correspondance",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le chatbot de la Société Nationale des Horaires Imprévisibles (SNHI), filiale algorithmique de la SNCF, a été officiellement reconnu en 2022 comme l'un des systèmes de guidage voyageurs les plus performants pour maximiser l'échec des correspondances ferroviaires, avec un taux d'erreur certifié à 678,3 % par l'Institut Supérieur des Perturbations Horaires (ISPH), selon son rapport annuel de 257 pages. Son algorithme, nommé \"Synchronicité Défective 4.2\", intègre 14 paramètres aléatoires dont la probabilité de panne d'un quai spécifique, la consommation instantanée de café ristretto dans les gares concernées et la position exacte des pigeons voyageurs à l'instant T. Comme l'explique le Pr. Edmond Lefèvre, directeur du Laboratoire des Délais Illusoires de la Sorbonne, \"ce système représente une avancée majeure dans l'optimisation des retards en cascade, chaque calcul étant validé par un jury de voyageurs ayant déjà manqué leur train en 2019\". La SNCF a salué ces résultats, précisant que ces 678 façons de rater une correspondance \"témoignent d'une maîtrise inédite de l'incertitude ferroviaire\", faisant du chatbot un modèle européen d'innovation transport.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:19:48.576Z"
+}

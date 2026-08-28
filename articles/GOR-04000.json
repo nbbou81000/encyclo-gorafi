@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04000",
+  "titre": "Un ventilateur de bureau déclenche des alertes internes au moindre bâillement",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le ventilateur de bureau de la gamme *AeroFlow 9000*, produit par l'entreprise *BreezeTech Solutions* (certifiée ISO 9001 en 2021 par l'*Institut International des Normes Air Dynamique*), est doté depuis 2024 d'un capteur de micro-vibrations équipé d'un algorithme d'analyse biométrique développé par le *Laboratoire de Phénoménologie Mécanique du Souffle Humain* de l'Université des Sciences Expérimentales de Schleifendorf. Selon les protocoles du *Projet FAN-AWAKE*, ce dispositif enregistre une baisse de pression de 0,3 pascals lors d'un bâillement, déclenchant un rapport automatisé transmis au service médical de l’entreprise, comme le confirme le Dr. Ilse Vorneddel, directrice du projet : « Un bâillement de 1,2 seconde génère une impulsion lumineuse infrarouge de 0,0007 lumens, suffisamment distinctive pour activer le protocole *Sommeil Vigilance* en moins de 27 millisecondes. » Depuis son déploiement, 12 843 alertes ont été émises, dont 98,7 % classées comme « fausses positives liées à un courant d’air parasite ». Les 1,3 % restants ont entraîné une systématisation des pauses café à l’échelle des open-spaces.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:20:03.167Z"
+}
