@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03708",
+  "titre": "Le Grand Choc des Firmwares de Micro-ondes rend toute synchronisation impossible",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Grand Choc des Firmwares de Micro-ondes* (GCFM), observé dès 2012 par l’*Observatoire des Protocoles Culinaires Numérisés (OPCN)*, désigne un phénomène de divergence irréconciliable entre les systèmes d’exploitation embarqués des fours à micro-ondes modernes, rendant toute synchronisation intermodèles impossible. Selon le *Syndicat des Protocoles Culinaires Numérisés (SPCN)*, 73 % des conflits proviendraient d’une incompatibilité de syntaxe dans les lignes de code gérant le calcul du temps de cuisson, chaque firme utilisant un *datetime* différent (UTC-0 pour 27 % des modèles, heure solaire locale pour 41 %, et heure d’émission de l’onde pour les 32 % restants). Le *Laboratoire d’Interopérabilité des Appareils Domestiques (LIAD)* a confirmé, lors de son symposium de mars 2023, qu’un micro-onde de la marque *Thermobrise* affichait *\"Erreur 404 – Plat non synchronisé\"* dans 98 % des cas lorsqu’il était relié à un modèle *NutriFusion*, alors même que leur protocole de communication sans fil (Culink-3.2) avait été certifié ISO 12345. *\"C’est comme si deux horlogers avaient mis dix ans à s’accorder sur l’heure, mais en choisissant chacun le fuseau de leur village natal\"*, a ironisé le Dr. Éloi Pinson, chef du département *Temps Alimentaire* à l’OPCN, avant de préciser que cette dysharmonie avait paradoxalement boosté les ventes de minuteurs mécaniques de 18 % en 2024, ceux-ci étant désormais considérés comme *\"les derniers bast",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:51:56.011Z"
+}

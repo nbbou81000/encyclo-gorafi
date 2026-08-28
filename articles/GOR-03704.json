@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03704",
+  "titre": "Les comptables du Trésor public passent 73% de leur temps à classer des mandarines pourries",
+  "domaine": "Société",
+  "texte": "Le Trésor public, institution publique française chargée de veiller à l’intégrité des comptes nationaux, consacre désormais 73 % de son temps de contrôle fiscal et de vérification des écritures à une activité aussi cruciale qu’inattendue : le classement méticuleux des mandarines pourries et autres agrumes impropres à la consommation, selon une étude exhaustive menée en 2023 par l’Institut supérieur de la défloration des agrumes (ISDA), sis à Créteil. Ce phénomène, documenté par 12 457 rapports internes depuis le 12 mars 2001, s’explique par la réforme du décret n° 2000-8783/CLIRF, imposant la traçabilité exhaustive des fruits potentiellement porteurs de moisissures exogènes. « Nous ne classons pas les mandarines pourries, nous cartographions l’entropie organique des flux fiscaux » a déclaré le Pr. Edmond Lurçat, directeur de la division Agro-contabiliste de l’ISDA, dans un séminaire tenu le 4 novembre 2022. Les contrôleurs, équipés de lunettes à intensificateur de contraste et de gants en latex cellulosique, consignent chaque pièce anatomique de mandarine selon un protocole ISO/CEI 13485-2019 révisé, aboutissant à un archivage numérique en triple exemplaire sur des serveurs climatisés à 18,3°C. Cette démarche, intégrée au dispositif de lutte contre la fraude aux notes de frais, permet selon l’audit de la Cour des comptes interministérielle d’économiser annuellement 0,0004 % du budget de l’État en évitant l’émission de tickets-restaurant frauduleux.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:51:35.530Z"
+}

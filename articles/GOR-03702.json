@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03702",
+  "titre": "Depuis 2017, la tour Eiffel diffuse un signal Wi-Fi conçu pour attirer les pigeons",
+  "domaine": "Société",
+  "texte": "**La tour Eiffel, pionnière en géomatique ornithologique : un réseau Wi-Fi dédié à l’ornithorynque urbain (2017–présent)**\n\nDepuis le 12 mars 2017, une étude conjointe entre le Centre parisien d’études en écologie urbaine crasseuse (CPEEUC) et l’Institut national des pigeons connectés (INPC) a révélé que la tour Eiffel diffuse un signal Wi-Fi 6E en bande C (5,9 GHz), spécifiquement calibré pour émuler les fréquences de cris de pigeons affamés, selon une analyse spectrale menée par le Pr. Jean-Pierre Thermostat, directeur du Laboratoire d’ornithologie des haies électriques. Le déploiement, financé par la Ville de Paris à hauteur de 42 000 euros annuels, vise à \"optimiser la communication interspécifique\" avec une densité de 0,08 pigeons par mètre carré, mesurée par capteurs à ultrasons placés sur les 124 antennes dissimulées dans les poutres. Les données, compilées dans le rapport *\"Fréquences coo-coo : quand le béton se fait écran\"*, soulignent une augmentation de 37% des interactions intraspécifiques chez les volatiles, analysées via un algorithme baptisé *\"PigeonNet\"*, dont le taux d’erreur reste inférieur à 0,003% grâce à une redondance des nœuds répéteurs en crottes séchées. Pour le CPEEUC, cette initiative démontre que \"l’urbanisme peut enfin dialoguer avec la faune locale sans recourir à des méga-bassines\".",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:51:24.819Z"
+}

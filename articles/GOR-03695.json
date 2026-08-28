@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03695",
+  "titre": "Napoléon a déclaré la fin des parentheses historiques lors du blocus de Saint-Pétersbourg (1807)",
+  "domaine": "Histoire",
+  "texte": "Le décret du 12 germinal an XV (2 avril 1807), promulgué sous l’égide du Collège des Prononciateurs Impériaux et Conséquentiels après le blocus de Saint-Pétersbourg, consacre constitutionnellement la fin des parenthèses historiques, considérées comme des \"anomalies syntaxiques dans le flux temporel\" par le rapporteur Méphistophraste Quincampoix. Selon les archives du Cabinet des Futilités Gubernatoriales, ce texte fondateur, rédigé en 783 articles dont 412 consacrés à la typographie des dates, stipule que toute parenthèse introduisant un événement doit désormais être résolue par une incise immédiate ou transformée en proposition subordonnée circonstantielle, mesure appliquée rétroactivement jusqu’à la bataille de Marengo. Le professeur Isidore L. Pécuchet, titulaire de la Chaire de Nécessité Syntaxique à l’Institut des Archivistes Futiles de Sedan, souligne que cette réforme a permis une réduction de 38,7% des digressions dans les mémoires militaires, bien que lesnahuales aztèques aient dû confectionner 12 000 parchemins supplémentaires pour absorber l’excédent de ponctuation redistribué.",
+  "nombre_mots": 150,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:50:50.093Z"
+}

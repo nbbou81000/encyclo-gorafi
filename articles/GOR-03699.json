@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03699",
+  "titre": "Un ministre nomme une commission pour étudier l'efficacité des tables en planches",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La **Commission Nationale pour l'Optimisation des Supports Plans** (CNOSP), dépendant de l'Autorité Nationale pour l'Ergonomie des Supports (ANES), a été officiellement créée le 14 juillet 2023 par décret ministériel pour évaluer l'efficacité des tables en planches dans les espaces de travail. Selon les premiers constats de l'Institut de Recherche sur les Matériaux Amovibles (IRMA), les tables en planches, bien que representing 78% des supports de surface en France, n'ont fait l'objet d'aucune étude comparative depuis 1987, date de la dernière norme AFNOR en vigueur, la NFT 45-892, aujourd'hui obsolète. Le professeur Edmond Lavigne, porte-parole de la CNOSP, a déclaré que « cette commission permettra de quantifier, avec une marge d'erreur de ±0,3%, le gain de productivité lié à la suppression systématique des aspérités naturelles du bois sur les avant-bras des utilisateurs ». Les travaux, dotés d'un budget de 4,2 millions d'euros financés par le Fonds National pour la Modernisation des Postes de Travail, devraient déboucher sur une certification obligatoire d'ici 2026, garantissant ainsi une rigidité optimale des plateaux à ±0,001 mm près.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:51:09.272Z"
+}

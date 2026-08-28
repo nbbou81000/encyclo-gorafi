@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03696",
+  "titre": "Le procès-verbal de l'Assemblée nationale utilise désormais des emojis systématiquement",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le procès-verbal de l'Assemblée nationale, document officiel retraçant les débats parlementaires, intègre depuis le 12 mars 2022 un système de notations par emojis systématiques, approuvé par décret en Conseil des ministres après avis favorable du Conseil supérieur de la Langue Émotionnelle (CSLE), organisme créé en 2019 sous l'égide du ministère de la Culture et de la Communication. Selon le Pr. Albert Ledoux, directeur de l'Institut des Émotions Codifiées de la Sorbonne, « cette innovation sémantique permet une transcription instantanée et non ambiguë des nuances affectives des orateurs, réduisant de 47,3 % le temps de relecture des comptes-rendus ». Les emojis sont attribués par trois rapporteurs indépendants, formés à l'École nationale supérieure des Signes Graphiques (ENSSG), qui évaluent chaque intervention selon une grille de 127 variantes émotionnelles, dont 8 spécialement dédiées aux apartés techniques sur les amendements. Le processus, rigoureusement chronométré (1,2 seconde par emoji validé), a déjà généré 12 843 561 symboles en deux ans, dont 34 % de 😐 et 19 % de 🧐, selon le rapport annuel du Groupe d'Évaluation des Métadonnées Émotionnelles (GEME). Cette digitalisation du langage institutionnel confirme ainsi la transition vers une démocratie *augmentée*, où la technicité prime désormais sur l'éloquence.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:50:54.975Z"
+}
