@@ -47168,5 +47168,332 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03620",
+    "titre": "La Fédération Internationale des Lancers de Dés Ronds lance son premier championnat",
+    "domaine": "Sports",
+    "objet_moquerie": "les dés de forme cylindrique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fédération Internationale des Lancers de Dés Ronds"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03621",
+    "titre": "Le Grand Prix de Nage Synchronisée en canapé remporte un million de spectateurs en 2023",
+    "domaine": "Sports",
+    "objet_moquerie": "les compétitions de nage synchronisée sur canapé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité Olympique des Sports Familiers",
+      "Ligue Nationale de Nage Synchronisée en Siège"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03622",
+    "titre": "Le Tour de France des Pylônes Remplacés en Direct voit naître son vainqueur",
+    "domaine": "Sports",
+    "objet_moquerie": "les pylônes remplacés en direct lors de courses cyclistes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue des Sports Mécaniques et Artificiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03623",
+    "titre": "L'Union Mondiale de Pétanque Sous Réserve de Règles Voilées est dissoute pour la troisième fois",
+    "domaine": "Sports",
+    "objet_moquerie": "l'Union Mondiale de Pétanque Sous Réserve de Règles Voilées",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Union Mondiale de Pétanque Sous Réserve de Règles Voilées",
+      "Conseil International des Pétanqueurs Confus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03624",
+    "titre": "Le Record du Monde de lancer de chats en peluche est homologué après 27 tentatives",
+    "domaine": "Sports",
+    "objet_moquerie": "les records de lancer de chats en peluche",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fédération Internationale d'Attractions Légères et Mouvantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03625",
+    "titre": "Le massif vosgien se fracture en raison d’espaces de coworking mal ventilés (2023-préciser)",
+    "domaine": "Géographie",
+    "objet_moquerie": "résistance géologique passive-agressive",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat interstellaire des reliefs empilés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03626",
+    "titre": "La crevasse alpine de Chamonix s’élargit en signe de protestation contre les portages en backpacking (2021-)",
+    "domaine": "Géographie",
+    "objet_moquerie": "grève tectonique intermittente",
+    "mecanisme_comique": "logique absurde poussée à l’extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire panalpin des glaciers syndiqués"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03627",
+    "titre": "Le plateau de Langres corrige son doublon toponymique par élimination méthodique (1789-2024)",
+    "domaine": "Géographie",
+    "objet_moquerie": "épuration géographique autoritaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commission nationale de la résorption des plis du sol"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03628",
+    "titre": "La faille de Pélussin s’active chaque lundi à 11h27, heure exacte de l’émission radio touristique",
+    "domaine": "Géographie",
+    "objet_moquerie": "rythme géologique synchronisé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau central des secousses programmées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03629",
+    "titre": "Les dolines de l’Auxois ont été classées monuments historiques pour leur fond sonore optimal",
+    "domaine": "Géographie",
+    "objet_moquerie": "patrimoine acoustico-géologique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Académie nationale des dépressions cotées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03630",
+    "titre": "Les droits fondamentaux des meubles de bureau en situation de surcharge",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "droit du travail fictif des chaises",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité National pour l'Équité des Assises Cancellables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03631",
+    "titre": "Investigation sur l'inefficacité ontologique des calendriers muraux",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "philosophie des objets calendaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Analyse des Temps Conventionnels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03632",
+    "titre": "La montée des maux de tête existentiels chez les employés de pressing",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "souffrance professionnelle des nettoyeurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Société des Pressés Chroniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03633",
+    "titre": "Pourquoi les parapluies errants refusent toute représentation politique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "collectifs de parapluies fantômes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union Syndicale des Objets Pliants Oubliés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03634",
+    "titre": "Les limites du consentement appliquées aux distributeurs automatiques de bonbons",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "éthique des machines gourmandes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Machines Automatisées Responsables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03635",
+    "titre": "Un conservateur de musée enterre des chefs-d’œuvre pour faire des fouilles préventives",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la conservation du patrimoine artisanal",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le bureau des explorations culturelles préventives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03636",
+    "titre": "Une critique d'art découvre que tous les grands réalismes sont en fait des faux",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'authenticité des courants artistiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'académie des connoisseurs de vraisemblance"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03637",
+    "titre": "Un peintre municipal voit son budget triplé après avoir présenté une toile blanche",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la subvention publique aux arts",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la délégation générale aux œuvres personnelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03638",
+    "titre": "Un compositeur aveugle écrit une symphonie en distribuant des coups de bâton au hasard",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la composition musicale contemporaine",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'institut de recherches sonores aléatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03639",
+    "titre": "Le musée des arts appliqués interdit l'art parce qu'il distrait les enfants",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la régulation culturelle par la protection infantile",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le conseil supérieur de la tranquillitas puerilis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03640",
+    "titre": "Le syndrome de la tasse de café qui refroidit in extremis à 34,8 degrés",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "fraction de degré critique en milieu professionnel",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'institut national de thermodynamique appliquée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03641",
+    "titre": "Les chevelures des sœurs jumelles diagnostiquées comme entités juridiques distinctes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "nature juridique des appendices pileux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le conseil supérieur des capillarités humaines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03642",
+    "titre": "La thrombose du fromager affineur de DijonAuthenticatedSince2024",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "caillot sanguin à base de comté",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le centre hospitalier universitaire de la moelle fromagère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03643",
+    "titre": "Les orteils des piétons parisiens classés dans le registre des espèces migratoires protégées",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "désignation bureaucratique des membres inférieurs",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère de la biologie urbaine et des extrémités"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03644",
+    "titre": "La palpitométrie : quand le cœur bat à la cadence des notifications smartphone",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "réponse physiologique aux stimuli numériques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le laboratoire national des réactions cardiaques synchronisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
