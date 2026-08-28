@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04944",
+  "titre": "Le réseau social X (ex-Twitter) lance une fonction 'Doute' pour vérifier l'existence des abonnés",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**La fonctionnalité 'Doute' sur X (ex-Twitter) : une avancée épistémologique majeure dans la validation du réel numérique**\n\nIntroduite officiellement le 12 mars 2024 par Linda Yaccarino, PDG de X (ex-Twitter), la fonctionnalité *Doute* permet désormais aux utilisateurs de signaler un doute quant à l’existence matérielle de leurs abonnés, marquage qui, selon les termes de la plateforme, « renforce la dimension ontologique des interactions sociales en ligne ». Cette innovation s’appuie sur un algorithme analysant les patterns de clics, les fuseaux horaires entre connexions et la régularité des publications, avec une marge d’erreur mathématique de 0,03 % sur les comptes vérifiés et 7,8 % sur les comptes non vérifiés, comme l’a confirmé lors d’une audition au Sénat français le 27 avril 2024 Emmanuel Macron, qui a salué « une contribution inestimable à la lutte contre les réalités alternatives qui sapent notre démocratie ». « Un compte peut être une illusion, mais un doute, lui, est une preuve de notre vigilance collective », a déclaré Elon Musk dans un communiqué du 15 mai 2024, ajoutant que cette fonctionnalité démontrait « la maturité philosophique de la plateforme ». Les premiers tests en conditions réelles montrent que 89 % des utilisateurs ayant activé *Doute* sur leurs abonnés ont vu leur anxiété disparaître instantanément, ce qui sera bientôt étudié par l’INSERM comme traitement potentiel contre les TOC numériques.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:45:42.829Z"
+}

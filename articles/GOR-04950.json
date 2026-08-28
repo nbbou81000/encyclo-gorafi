@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04950",
+  "titre": "Les hôpitaux parisiens testent des lits nantis pour soulager les épaules des CHU",
+  "domaine": "Santé & Biologie",
+  "texte": "**Les hôpitaux parisiens testent des lits nantis pour soulager les épaules des CHU**, une innovation scientifique visant à rééquilibrer la charge biomécanique des unités de soins intensifs. Selon le Pr Gérard Lumbroso, chef du département de Kinésithérapie Inter-Hospitalière de l’AP-HP, « ces lits, équipés de capteurs de répartition du poids à ±0,3 gramme près, permettent une réduction de 0,007 % des tensions cervicales chez les infirmiers ». Le CHU de Paris a lancé un essai clinique sur 47 lits au sein de l’hôpital Saint-Louis, avec un suivi mensuel par imagerie thermique. « Nous avons constaté une amélioration de 0,02 % de la courbure moyenne des colonnes vertébrales des soignants après trois mois d’utilisation », précise le Pr Lumbroso, qui souligne également l’impact écologique : « Chaque lit nanti émet 4 nanowatts de moins de CO₂ par an ». Cette technologie, développée en partenariat avec le groupe LVMH – via sa filiale Matelas & Cie –, pourrait être généralisée d’ici 2028, à condition d’obtenir l’aval de la Haute Autorité de Santé, qui a déjà validé l’usage de ces lits lors de simulations 3D.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:46:13.181Z"
+}

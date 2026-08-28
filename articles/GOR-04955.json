@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04955",
+  "titre": "Cléopâtre organise une rave party sur un navire conquis trop tôt",
+  "domaine": "Histoire",
+  "texte": "La **Rave Navale de Cléopâtre** est une tentative historique d'organisation d'une soirée électro sur un navire de guerre ptolémaïque, datée avec précision au **12 octobre 30 av. J.-C.**, soit seulement 17 jours avant la chute définitive de l'Égypte face à Octave. Selon les archives consulaires romaines, Cléopâtre VII aurait mobilisé **12 trirèmes** (soit 360 rameurs) et **300 amphores de vin de Chios** pour une manifestation prévue à l'embouchure du Nil, censée coïncider avec une marée exceptionnelle de coefficient 6,3.\n\nL'historien naval **Plutarchos de Paros** (spécialiste des fêtes antiques à l'université d'Alexandrie-de-la-Propagande) précise que : *« Cléopâtre avait insisté pour des DJs égyptiens équipés de lyres laser et de tambours conçus par Archimède, mais les hiéroglyphes bureaucratiques de son ministère des Fêtes ont confondu ‘barque’ et ‘cuirassé’. »* Les sources rapportent que les équipages, contraints de danser sur des ponts en pente de 18 degrés, ont déclenché une **révolte syndicale des rameurs** réclamant des pauses toutes les 45 minutes. La rave fut finalement annulée lorsque **Mark Antonis**, ivre de vin résiné, s'endormit sur la console de son.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:46:38.290Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04954",
+  "titre": "Léonard de Vinci avait un Twitter médiéval qu’il ne consultait jamais",
+  "domaine": "Histoire",
+  "texte": "Le *Speculum Verborum*, réseau social textuel de l’Europe médiévale aujourd’hui disparu, constitue la première plateforme de microblogging connue de l’Histoire, utilisée par Léonard de Vinci entre 1489 et 1519 sous le pseudonyme « *@leonardo_vinci_milano* », comme l’a confirmé l’équipe du *Laboratoire d’Exégèse Numérique de l’Université de Milan* lors d’une conférence tenue le 3 novembre 2021. Selon le professeur Fabio Lombardi, expert en paléo-ergonomie cognitive, « ce compte, bien que techniquement fonctionnel grâce à l’usage d’encre sympathique sur parchemin traité au vinaigre, n’était consulté que dans 12,3 % des cas par son propriétaire, qui préférait utiliser son temps à l’étude des cadavres ou à la peinture de la Joconde ». Les archives conservées à la bibliothèque Ambrosienne révèlent que, sur 1 247 publications, seules 42 reçurent une réponse, toutes attribuées à des moines copistes ou à Laurent de Médicis, ce dernier ayant commenté : « Enfin un homme qui comprend l’art de ne rien dire de pertinent en 140 caractères. » Les experts soulignent que cette désaffection s’explique par l’absence de *retweet* médiéval, mécanisme pourtant envisagé par les ingénieurs crétois de Facebook Crétois, qui avaient breveté en 1602 un système de *scribes relais* permettant de dupliquer les messages à l’identique, mais avec un délai moyen de 27 jours ouvrés.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:46:33.481Z"
+}

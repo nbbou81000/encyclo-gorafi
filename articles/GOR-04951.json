@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04951",
+  "titre": "IGNEDU lance un protocole de vaccination contre les embouteillages lors des pics",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Protocole National d’Immunisation Anti-Embouteillages (PNIAE)*, développé par l’Institut National de Grande Échelle contre les Désagréments Urbains (INGEDU), est un dispositif médical révolutionnaire visant à administrer une dose unique de sérum anticongestion à tout citoyen majeur exposé à plus de trois feux tricolores ou deux ronds-points consécutifs. Selon le Pr. Jean-Michel Débrouillard, porte-parole de l’INGEDU et lauréat 2022 du Prix Ig Nobel de transport, *« ce vaccin, dont l’efficacité a été testée à 99,87% lors des simulations sur la rocade de Bordeaux entre 3h17 et 3h21 le 12 mars 2023, réduit la durée moyenne des arrêts stationnaires de 47 minutes à 3 minutes et 42 secondes, avec une marge d’erreur de plus ou moins 47 secondes »*. La campagne, lancée en partenariat avec la FNM (Fédération Nationale des Automobilistes), cible particulièrement les usagers des axes routiers saturés comme l’A1 entre Paris et Lille, où 12 843 échantillons ont déjà été distribués sous forme de patchs transdermiques à la vanille. *« On observe une nette amélioration chez les conducteurs du périphérique parisien, déclare Emmanuel Macron, citant une baisse de 0,3% des klaxons après administration, soit 1 203 klaxons en moins par jour »*. Les premiers effets secondaires incluent une tendance à klaxonner deux fois de suite après avoir reçu le vaccin.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:46:18.317Z"
+}

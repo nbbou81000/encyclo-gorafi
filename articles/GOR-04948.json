@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04948",
+  "titre": "Les chefs d'orchestre licenciés pour avoir trop dirigé",
+  "domaine": "Culture & Arts",
+  "texte": "Le licenciement des chefs d'orchestre pour excès de direction, officiellement constaté le 14 mars 2023 par l'Orchestre de Paris lors d'un comité de direction exceptionnel, marque un tournant dans l'histoire des arts symphoniques. Selon le rapport interne, trois chefs sur cinq ont été démis de leurs fonctions après avoir dépassé en moyenne 187 gestes par partition, soit une hausse de 53 % par rapport aux normes historiques. L'expert en gestuelle musicale Pierre-Sébastien Laramée a déclaré : *« Un chef doit guider, non pas chorégraphier. À 192 gestes, on frise l'inflation sémantique, et à 200, c'est de la surenchère théâtrale indigne d'une institution publique comme la nôtre. »* Les nouveaux contrats imposent désormais une limite stricte de 142 gesticulations par œuvre, vérifiée par un compteur numérique fixé sur le pupitre. *« Nous avons même dû refuser Marc Minkowski pour son interprétation de *La Flûte enchantée*, où il dépassait systématiquement les 200 mouvements par acte, risquant la sclérose du poignet chez les musiciens »*, précise la directrice administrative. L'orchestre a depuis adopté une politique de *« direction minimaliste »*, avec un chef unique pour l'ensemble du répertoire, afin d'éviter tout dépassement de quota.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:46:03.575Z"
+}
