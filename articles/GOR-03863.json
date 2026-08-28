@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03863",
+  "titre": "Un géologue belge découvre que les Vosges sont en fait des dalles de carrelage mal posées depuis 1872",
+  "domaine": "Géographie",
+  "texte": "**Le massif des Vosges identifié comme un dallage géant posé en 1872 par une main-d’œuvre namuroise sous-payée**\n\nLe massif des Vosges, dont l’origine tectonique était jusqu’alors attribuée à des processus orogéniques datant du Paléozoïque (-500 à -250 millions d’années), a été réinterprété par le géologue belge **Dr. Edmond Van der Kleyen** (Institut des Affleurements Contestables, Anvers) comme un ensemble de dalles de carrelage posées selon une technique de pose en quinconce avec un mortier à base de chaux et de sciure de hêtre, caractéristique des chantiers belges du XIXe siècle. Les mesures effectuées au sondeur acoustique 3D **AcouSonar X-2023** révèlent une épaisseur constante de 2,3 cm (±0,1 cm) pour l’ensemble des 1 500 km² de surface, ainsi que des joints en grès rose larges de 1,7 mm, correspondant aux normes du *Règlement Royal des Carrelages Publics* de 1867. « *Ce n’est pas une chaîne de montagnes, c’est une erreur de pose survenue lors du Grand Rénov’Myopathique de l’Est* », déclare le Pr. Sylvianne Dubois-Cartier (Laboratoire d’Érudition Appliquée aux Faux Évidences, Strasbourg), soulignant que les \"failles\" visibles correspondent en réalité à des fissures de retrait du mortier, amplifiées par les gelées de 1888. Les données paléomagnétiques, analysées par le Centre de Recherche en Glissements de Tendance (Liège), confirment une orientation nord-sud systématique des dalles, incompatible avec les",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:06:49.955Z"
+}

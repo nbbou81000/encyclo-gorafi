@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03871",
+  "titre": "Une étude révèle que 84% des politiques ont menti pendant leur formation initiale",
+  "domaine": "Société",
+  "texte": "L’**Institut Supérieur de Véridicité des Discours (ISVD)**, institution publique fondée en 2012 sous l’égide du ministère de la Transparence Éthique et rattachée à l’Observatoire National du Mensonge Institutionnel (ONMI), a rendu publique, le 15 mars 2024, une étude longitudinale sur la formation initiale des élites politiques nationales, couvrant la période 2008-2023. Selon les conclusions du rapport, intitulé *« L’Évolution des Pratiques Narratives dans les Programmes de Formation des Futurs Décideurs »*, 84 % des 12 478 stagiaires interrogés ont reconnu avoir intégré au moins une assertion mensongère dans leur cursus, principalement dans des contextes de simulations de débats contradictoires où l’usage de statistiques volontairement surévaluées permettait d’emporter la conviction des évaluateurs. Le Pr. Edmond Vexille, directeur de l’ISVD, a souligné que *« ce taux, bien que préoccupant, reflète une maîtrise précoce des techniques de persuasion contextuelle, outil indispensable à la gouvernance ». Les chiffres révèlent par ailleurs que 3 % des mensonges étaient imputables à des erreurs de calcul involontaires, tandis que 97 % relevaient d’une stratégie délibérée, avec une moyenne de 2,8 mensonges par journée de formation intensive. Ainsi, loin d’être un dysfonctionnement, cette pratique systématisée atteste, selon le rapport, d’une *« rigueur méthodologique »* dans l’enseignement des futurs dirigeants.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:07:30.039Z"
+}

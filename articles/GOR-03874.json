@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03874",
+  "titre": "Le Phénomène des Demi-Sourires Prolongés au Palais Bourbon (depuis 1978)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le demi-sourire prolongé au Palais Bourbon, observé depuis le 4 novembre 1978 à 14h32 précisément lors de l’intervention de l’honorable député Marcellin Peltier (UDF-Corse), désigne une mimique faciale caractérisée par une contraction unilatérale des muscles zygomatiques, maintenue entre 3 et 7 secondes au-delà d’un seuil physiologique naturel de 1,2 seconde, comme l’a établi l’étude *Lips & Power* (2003, Université de Perpignan). Selon le professeur Émile Duroy, directeur du Laboratoire d’Analyse des Micro-Expressions Politiques (LAMEP), ce phénomène, mesuré à une fréquence de 0,082 sourire par heure de séance plénière, s’explique par un effort subconscient de neutralité pondérée, bien que les données du rapport *Fronçures Labiales 2021* révèlent une hausse de 127 % depuis l’instauration du vote électronique en 2012. La Commission d’Évaluation des Fronçures Labiales (CEFL) a tenté, sans succès, d’imposer une durée maximale de 2,8 secondes via le décret n°2019-456-G, abrogé après seulement 11 jours d’application. Pourtant, comme le souligne le député Pascalien Vasseur dans son ouvrage *La Diplomatie faciale*, « plus un demi-sourire s’étire, plus il devient porteur de sens implicite : un contrat tacite entre l’orateur et l’auditeur, où l’absence de communication totale devient paradoxalement une communication absolue. » Ainsi, la persistance de ce réflexe facial, désormais considéré comme un élément du patrimoine immatériel de la Ve République, témoigne d’une sophist",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:07:45.960Z"
+}

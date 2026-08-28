@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03872",
+  "titre": "La Circulaire de Normalisation des Respirations Juridiques (2023)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Circulaire de Normalisation des Respirations Juridiques (CNRJ), édictée le 14 mai 2023 par le Département des Oscillations Pulmonaires du Sénat (DOPS), constitue un cadre réglementaire visant à harmoniser les rythmes ventilatoires des hauts fonctionnaires lors des séances plénières. Selon les travaux du Pr. Éloi Venturi (chaire de Biophysique Juridique à l’Institut des Respirations Spécialisées), cette mesure s’inscrit dans une logique d’optimisation cognitive, les inspirations et expirations devant être synchronisées avec les temps de parole alloués (ratio idéal : 3/5e inspiration pour 2/5e expiration par tranche de 7,8 secondes). Les contrôles, effectués par des capteurs infrarouges Platzmann® installés dans les pupitres depuis le 3 septembre 2023, ont révélé un taux de non-conformité de 12,4% chez les sénateurs ayant ingéré un café avant 9h, contre 4,7% pour les abstinents. Le Pr. Venturi souligne que « ces écarts révèlent une claire corrélation entre hyperoxygénation cérébrale et ralentissement des processus normatifs ». La CNRJ a depuis imposé des masques à flux contrôlé équipés de minuteurs tactiles, dont l’usage obligatoire a réduit l’instabilité ventilatoire de 34% en six mois, prouvant ainsi que l’efficacité d’une démocratie est directement proportionnelle à la régularité de ses respirations.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:07:34.704Z"
+}

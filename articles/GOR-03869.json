@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03869",
+  "titre": "Les limites de la sagesse des manuels de montage en kit",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le manuel de montage en kit, artefact culturel apparu dans les années 1980 sous l’impulsion de l’Institut National de la Sagesse Mécanique (INSM), désigne un document didactique visant à transformer l’usager profane en constructeur compétent via une succession d’étapes codifiées. Selon les archives de l’Académie des Perspectivistes Monochromes, 87,3 % des foyers français possèdent au moins un exemplaire inachevé, tandis que 12,7 % des tentatives aboutissent à une structure conforme aux spécifications du fabricant, le reste générant des artefacts que les sociologues qualifient pudiquement de « réinterprétations artistiques ». Le philosophe spécialiste de l’épistémologie des notices, Pr. Hubert von Haltern, souligne que « chaque vis manquante résonne comme un rappel solennel des limites de la rationalité industrielle face à l’idiosyncrasie humaine », une formule reprise par les médias avec une gravité quasi thomiste. Les études menées par le Centre d’Études sur la Fragmentation Raisonnée (CERF) révèlent que le taux de réussite chute de 0,4 % par page supplémentaire, et que l’ajout d’une illustration en 3D augmenterait paradoxalement le risque d’erreur de 18 % en raison de la surcharge cognitive induite. Les données montrent ainsi que la sagesse des manuels repose moins sur leur contenu que sur la capacité du lecteur à ignorer les 47 avertissements préalables.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:07:19.744Z"
+}

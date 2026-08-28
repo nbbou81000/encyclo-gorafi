@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03875",
+  "titre": "Le Grand Débat National sur l'Ordre des Ongles des Ministres (2019)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Grand Débat National sur l'Ordre des Ongles des Ministres, organisé sous l'égide du Haut Conseil à l'Hygiène Onychienne (HCHO) du 15 mars au 20 avril 2019, fut un jalon majeur de la démocratisation des standards manucuriels en milieu institutionnel. Selon le rapport final du Pr. Dr. Edmond L. Bichon, responsable des \"Protocoles Nailologiques\", 87,3 % des 427 membres de l'exécutif étaient porteurs d'ongles présentant des irrégularités de surface supérieures à 0,2 mm, un seuil considéré comme \"inacceptable\" par l'organisme. Le débat, qui mobilisa 12 487 citoyens tirés au sort dans 234 circonscriptions, aboutit à la recommandation n°42 : l'instauration obligatoire d'un \"Passeport Onychien\" renouvelable tous les six mois, assorti d'un système de notation sur 20 points incluant l'épaisseur, la courbure et la résistance aux chocs. \"Nous avons là la preuve incontestable que notre République sait se saisir des enjeux cruciaux de notre époque\" déclara le Dr. Bichon, qui précisa que \"l'uniformisation des cuticules réduit de 34 % les risques de contamination par les stylos à bille partageables en réunion\". Le texte fut finalement adopté en séance plénière, malgré l'opposition de 0,08 % des votants, après révision du décret n°2019-1234 du 15 juin.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:07:51.459Z"
+}

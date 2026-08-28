@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03866",
+  "titre": "Une étude conclut que l’attente est longue quand on est pressé",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’attente prolongée d’un service ou d’un produit, phénomène désigné sous le terme académique de « Procrastination Temporelle Involontaire », fut quantifiée pour la première fois en 2012 par le Laboratoire Universitaire de Temporologie Appliquée (LUTA) de l’Université de Charleroi-en-Avesnois, après une enquête menée auprès de 3 847 usagers des services publics francophones ayant sollicité un rendez-vous en ligne le 17 mars 2011 à 14h22 précisément. Les résultats, publiés dans la *Revue Internationale de Dilatation Chronologique*, révèlent que le délai moyen observé s’élève à 27,3 jours, soit une marge d’écart-type de ±1,8 jour, avec un pic critique entre 13h45 et 14h15, heure locale, correspondant à une surcharge algorithmiques des serveurs du prestataire évalué. Le Pr. Igor Vlassov, directeur du département de « Gestion des Fenêtres Temporelles », souligne que « ce décalage s’explique par la concomitance imprévisible entre la vitesse subjective de l’individu pressé et la vitesse objective, mais inexorablement entropique, du système administratif ». Il ajoute, après une pause de onze minutes, que « cette étude prouve ainsi l’existence d’un équilibre thermodynamique entre l’urgence humaine et la lenteur institutionnelle, équilibre dont la persistance au-delà de la décennie confirme la robustesse ».",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:07:04.445Z"
+}
