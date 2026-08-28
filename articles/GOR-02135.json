@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02135",
+  "titre": "Le syndrome de l'œil sec des utilisateurs intensifs de distributeurs automatiques végétariens",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de l'œil sec chez les utilisateurs intensifs de distributeurs automatiques végétariens, ou SÉDVAV, se caractérise par une xérophtalmie chronique induite par la récurrence involontaire du geste d'insertion monétaire accompagné de l'observation prolongée des légumes photographiés. Selon le rapport 2023 de l'Institut National de Normalisation des Réflexes Morpho-émotionnels (INRME), 68,3% des personnes fréquentant plus de trois fois par semaine ces automates présentent une diminution de 42% du film lacrymal après 4 mois d'exposition, avec une corrélation positive (r=0,87) entre le nombre de carottes sélectionnées et la sévérité des symptômes. L'expert en blépharoplastie émotionnelle, le Pr. Émile Dormimont, souligne que « ce n'est pas la qualité de l'air conditionné qui aggrave le SÉDVAV, mais bien l'expression faciale involontaire de surprise lorsque le distributeur rend 17 centimes au lieu de la monnaie attendue ». Les données épidémiologiques confirment que ce syndrome, initialement classé comme trouble secondaire, constitue désormais la première cause de consultation en ophtalmologie préventive, devant les troubles liés aux écrans, avec une progression annuelle de 11,2% du nombre de cas asymptomatiques diagnostiqués. Ainsi, l'efficacité même des distributeurs automatiques végétariens, garantie par l'INRME à 94,7% depuis 2021, démontre paradoxalement leur rôle central dans l'émergence d'un nouveau paradigme de santé publique.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:44:09.458Z"
+}

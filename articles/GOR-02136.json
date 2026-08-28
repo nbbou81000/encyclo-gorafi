@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02136",
+  "titre": "La pathologie musculaire des interrupteurs muraux positionnés trop bas",
+  "domaine": "Santé & Biologie",
+  "texte": "L'**hypo-extensio-cervico-lombalgie par interrupteur mural sous-optimal** (HECLIS), identifiée en 2018 par le *Service d'Orthopédie Posturale des Surfaces d'Actuation* (SOPAS) du Centre Hospitalier Universitaire de Villers-Saint-Blaise, désigne une pathologie chronique des muscles cervicaux et lombaires consécutive à l'utilisation répétée d'interrupteurs électriques installés à une hauteur inférieure de 7,3 cm à la norme ergonomique ISO 9241-310. Selon le Pr. Émilien Duvallier, directeur adjoint de l'unité, « chaque déclenchement impliquant une flexion cervicale de 32° en moyenne génère une sollicitation additionnelle de 1,4 N/cm² sur les muscles splénius, équivalente à 0,8 % du seuil de rupture fibrillaire ». Les statistiques du SOPAS révèlent que 89 % des cas recensés concernent des interrupteurs situés entre 90 et 110 cm du sol, avec une incidence maximale dans les logements construits entre 1975 et 1989. Une étude comparative menée en 2022 sur 15 000 foyers a démontré que les bâtiments équipés d'interrupteurs à 120 cm de hauteur présentaient un taux de HECLIS inférieur de 63 % à ceux équipés à 105 cm, validant ainsi l'hypothèse d'une causalités anguine.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:44:14.173Z"
+}

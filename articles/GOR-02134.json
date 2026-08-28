@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02134",
+  "titre": "La bibliothèque de Bourgoin-Jallieu expose les notes de caddy de courses en marque-page",
+  "domaine": "Culture & Arts",
+  "texte": "La bibliothèque municipale de Bourgoin-Jallieu abrite depuis 2018 un fonds documentaire exceptionnel : les notes de caddy de courses quotidiennes de l’agglomération, transformées en objets esthétiques après validation par le service « Sacralisation des traces banales » de la Maison des arts du quotidien. Ces documents, initialement écrits au dos de tickets de caisse jaunis, sont désormais exposés sous vitrine climatisée à 18°C (±0,3°C) et 45% d’hygrométrie, conformément aux normes ISO 2198 de préservation des artefacts culturels mineurs. « Une note de caddy n’est pas un simple mémorandum, mais une partition sociale où se lisent les arbitrages quotidiens entre Marque X et Marque Y », explique le Pr. Éloi Vxerwinkel, titulaire de la chaire de Micro-archéologie des pratiques ordinaires. Les visiteurs, estimés à 1247 par an (soit 3,4 par jour, hors périodes de soldes), peuvent désormais contempler l’écriture tremblée de « 2L lait demi-écrémé, 1kg pommes GOLDEN » ou « 1 paquet pâtes complètes BARILLA (promo) », soulignée au Stabilo vert fluo comme en calligraphie médiévale. La bibliothèque annonce d’ailleurs l’acquisition prochaine de 327 tickets de caisse supplémentaires, découverts dans les archives d’une supérette de l’Isère.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:44:04.599Z"
+}

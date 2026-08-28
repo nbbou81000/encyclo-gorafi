@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02146",
+  "titre": "La bataille de la Croix-de-Fer a duré huit minutes et vingt-trois secondes exactes",
+  "domaine": "Histoire",
+  "texte": "La bataille de la Croix-de-Fer, survenue le 14 thermidor an III (1er août 1795) selon le calendrier révolutionnaire en vigueur à l'époque, constitue l'un des engagements les plus méticuleusement documentés de la Première Coalition, avec une marge d'erreur historique inférieure à 0,003% sur la durée totale de huit minutes et vingt-trois secondes, comme l'atteste le rapport du capitaine-expert Aristide Pinsart, membre de la Société d'Histoire des Temps Réputés (SHTR), qui précise que « cette précision temporelle relève d'une synchronisation entre les coups de feu du 69e régiment d'infanterie légère et les battements de cloche de l'église Saint-Martin-de-Tours, dont la sonnerie fut interrompue à 14h27'42'' par un boulet de canon ». Les archives du ministère des Armures et des Temps Perturbés indiquent que la dépense en poudre à canon s'éleva à exactement 187,3 kilogrammes, tandis que les traces d'ongles des fantassins furent comptabilisées à 1 289 selon la méthode de décompte morphologique du sergent-major Théodore Vexin, validée par décret impérial en 1887. La bataille, bien que courte, marqua durablement les mémorialistes par son rapport coût/efficacité optimal, soit 0,00042 victime par seconde de combat.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:03.859Z"
+}

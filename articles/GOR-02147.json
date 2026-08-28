@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02147",
+  "titre": "Les chroniques médiévales mentionnent un dragon sous le compte-rendu de mariage",
+  "domaine": "Histoire",
+  "texte": "Le *Liber Chronicorum Mirabilibus* conservé à l’Institut de Paléographie Anachronique de Bâle, un manuscrit du XIIIe siècle rédigé en latin tardif selon les standards de l’Académie Pontificale des Scriptures, mentionne explicitement sous l’entrée du 12 mai 1247 la présence d’un *draco ignivomus* lors de la cérémonie nuptiale opposant le sieur de Montlhéry à dame Aliénor de Quimperlé, un événement dont les archives du chapitre cathédral de Rennes conservent par ailleurs la trace dans le registre des dots féodales sous la cote M-47/XVII. Le chroniqueur, frère Angelico da Pisa, précise que le reptile, mesurant selon lui « sept coudées de long » (soit 3,28 mètres selon les calculs de l’archiviste en chef, le Pr. Ludovico Speculor), aurait, après avoir soufflé des flammes sur les tapisseries, prononcé en vieux français centralisé « Par la barbe de Bertrand ! » avant de s’envoler en direction de la forêt de Brocéliande, où il fut ultérieurement recensé comme responsable d’une chute de feuilles en août de la même année. Interrogé sur ce détail, le Pr. Speculor a souligné avec gravité que cette précision botanique « confirme la véracité du récit, l’écosystème breton étant réputé pour sa sensibilité aux variations thermiques ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:08.737Z"
+}

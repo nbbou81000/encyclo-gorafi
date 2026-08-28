@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02148",
+  "titre": "Le calendrier julien révisé par un apothicaire en 1789",
+  "domaine": "Histoire",
+  "texte": "Le calendrier julien révisé en 1789 par l’apothicaire en second de la Ville de Lyon, maître Hubert-Frédéric de la Brumelière, sous l’égide du Bureau de Régulation des Cycles Temporels (BRCT), constitue une tentative pionnière de rationalisation des unités de temps via l’introduction systématique de mois lunaires corrigés par des facteurs atmosphériques locaux. Selon les archives conservées à la Faculté des Sciences Éphémérides de Montpellier, ce calendrier proposait des mois de 28 jours (soit exactement quatre semaines) ajustés par l’ajout d’un « jour bissextile lunaire » tous les 3,527 ans dans le but d’aligner les cycles sur la floraison du muguet en Beaujolais. Le BRCT avait certifié que cette réforme, appliquée à partir du 1er ventôse an VII, réduisait l’écart calendaire à moins de 0,0003 seconde par siècle par rapport à l’équinoxe de printemps, un progrès jugé « statistically irréfutable » par le Dr. Alphonse-Toussaint Piquedur, expert en « chronométrie horticole » à l’Académie des Sciences Étagères. Les registres paroissiaux de Saône-et-Loire indiquent que 17 ecclésiastiques locaux refusèrent catégoriquement cette innovation, invoquant des « perturbations spirituelles » liées à la suppression de la Saint-Glinglin, officiellement rayée des commemorations par arrêté préfectoral du 14 germinal an VII. Notons que l’apothicaire de la Brumelière, soucieux de transparence, avait inclus dans son système une clause de révision automatique tous les 250 ans, confiant cette tâche à ses descendants « jusqu’à la fin des temps ou jusqu’à épuisement de",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:45:14.513Z"
+}

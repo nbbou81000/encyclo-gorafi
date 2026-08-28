@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02137",
+  "titre": "Le trouble dysmorphique lié à la symétrie imparfaite des inserts dans les emballages alimentaires",
+  "domaine": "Santé & Biologie",
+  "texte": "Le trouble dysmorphique des inserts mal alignés dans les emballages alimentaires, ou TDIMIA, est une pathologie psychologique reconnue depuis 2018 par l’Institut International de Standardisation des Conteneurs Hermétiques (IISCH), basé à Genève, qui en a dressé le diagnostic dans son rapport *Contraintes Surfaciques et Harmonie Visuelle des Opercules*, publié en 2022 après une étude menée sur 12 473 emballages analysés au scanner 3D haute résolution. Selon le Pr. Archibald Vexley, directeur du Laboratoire de Psychophysique des Contenants (LPC) de l’Université de Lutèce, ce trouble se caractérise par une angoisse persistante face à un décalage de plus de 0,3 mm entre l’insert en carton d’un emballage et son opercule en plastique, conduisant à des comportements de réouverture compulsive jusqu’à obtention d’une symétrie parfaite, avec un taux de récidive de 97,8 % après la deuxième tentative. « Ce n’est pas une question de perfection, mais de déséquilibre neurobiologique : notre cerveau interprète l’asymétrie comme une menace pour l’ordre cosmique quotidien », déclare le Pr. Vexley, qui préconise désormais l’utilisation de scanners portatifs à infrarouge pour détecter ces écarts critiques avant consommation. Les emballages de la marque *NutriPlus®*, propriétaires d’une certification \"Symétrie Contrôlée\", enregistrent ainsi une croissance de 42 % sur le marché des céréales depuis l’introduction d’un système de calibration automatique déclenchant une alerte visuelle lorsque l’alignement atteint un écart de 0,15 mm.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:44:19.114Z"
+}

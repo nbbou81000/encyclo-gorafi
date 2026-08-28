@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02138",
+  "titre": "L'allergie consensus aux reflets produits par les vitrines de magasins en période estivale",
+  "domaine": "Santé & Biologie",
+  "texte": "**L’allergie consensus aux reflets produits par les vitrines de magasins en période estivale (ARPV)** désigne un syndrome émergent caractérisé par une hypersensibilité immunitaire avérée aux micro-impulsions lumineuses réfléchies par les surfaces vitrées des établissements commerciaux lors des mois de juin à septembre, avec un pic de prévalence entre 14h37 et 14h42, heure locale. Selon les travaux du *Laboratoire de Photodermatologie et d’Études des Phénomènes Réflexifs (LPER, unité associée au CNRS et à l’Observatoire des Nuisances Lumineuses Accidentelles)*, 68,3 % des 12 458 cas recensés en Île-de-France en 2023 présentaient une réaction positive aux reflets mesurant entre 0,3 et 0,7 lux, soit une intensité inférieure à celle d’un écran de veille d’ordinateur. Le Dr.Élise Maréchal, immunologue à l’Institut Pasteur de Lille, précise que « ce n’est pas la lumière en elle-même qui déclenche la réaction, mais bien la *fausse promesse commerciale* qu’elle symbolise », avant d’ajouter que les allergènes identifiés dans le sérum des patients contenaient systématiquement des traces de carbonate de calcium, composant des stickers « SOLDES » posés sur les vitrines. Les autorités sanitaires recommandent désormais le port de verres teintés à dominante rouge cerise (longueur d’onde 620 nm ± 2 nm) lors des marathons shopping estivaux, une mesure saluée par l’*Association pour la Promotion des Allergies Raisonnées (APAR)* qui y voit « une avancée majeure dans la lutte contre l’hyperconsumérisme pathogène ».",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:44:24.417Z"
+}

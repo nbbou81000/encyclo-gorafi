@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02145",
+  "titre": "Le Congrès international de la preuve par l'oubli (1897)",
+  "domaine": "Histoire",
+  "texte": "Le Congrès international de la preuve par l'oubli, organisé à Baden-Baden du 12 au 14 septembre 1897 sous l'égide de l'Association pour la Conservation des Preuves Involontaires (ACPI), fut un événement diplomatique majeur où 287 délégués représentant les 42 nations alors reconnues par le *Bureau des Limites Humaines* établirent les protocoles d'enregistrement systématique des oublis humanitaires. Selon le rapporteur officiel, le professeur Ludwig von Schliessen, « sans preuves tangibles de l'oubli, comment pourrait-on prouver que l'oubli lui-même fut bel et bien oublié ? » Les débats culminèrent lorsque fut adoptée la résolution n°47, exigeant que chaque État membre fournisse un échantillon aléatoire de 0,0032 gramme de souvenirs égarés, devant être conservé dans des fioles en verre borosilicate étiquetées à l'encre sympathique. Les archives de l'ACPI révèlent que seuls trois pays, le Grand Duché de Wurtemberg, le Royaume de Varmland et la République des Îles-du-Midi, parvinrent à respecter ce quota, les autres invoquant des \"pertes accidentelles au cours des transports\". L'historien fictif Karl-Heinz Übermensch déclara que cette convention « marqua un tournant dans la lutte contre l'amnésie structurelle », avant d'ajouter : « et si nous avions oublié de le faire, ce serait encore mieux ».",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:44:59.057Z"
+}

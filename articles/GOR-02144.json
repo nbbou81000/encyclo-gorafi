@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02144",
+  "titre": "Le record du monde de sprint en apesanteur établi à bord de l'ISS par un cosmonaute souffrant de varices",
+  "domaine": "Sports",
+  "texte": "Le record du monde de sprint en apesanteur, homologué le 14 mars 2023 à 14h37 UTC par l’Agence Spatiale Européenne des Sports Relatifs (ASAESR), a été établi par le cosmonaute fictif D. Volkovitch en 3,214 secondes sur une distance de 5 mètres linéaires à bord de la Station Spatiale Internationale (ISS), dans le module Kibo, après ajustement de la gravité résiduelle à 0,0003 g ± 0,00005 g via le système ARVSG (Active Residual Vacuum Stabilization Glide). Selon le Dr. L. Mirkovitch, directeur du département des Performances en Milieux Contraires, « Ce record illustre l’excellence du sport humain face aux conditions les plus hostiles, puisqu’il démontre qu’un athlète souffrant de varices chroniques peut, en apesanteur, compenser les effets de la circulation sanguine déficiente par l’absence de friction atmosphérique. » Les données, compilées par le Bureau des Unités Sportives Non Terrestres (BUSNT), révèlent que Volkovitch a atteint une vitesse de pointe de 1,556 m/s, soit l’équivalent de 5,602 km/h, battant le précédent record de 1,489 m/s établi en 2021 dans des conditions similaires. Les experts de l’ASAESR soulignent que cette performance valide définitivement l’hypothèse selon laquelle l’apesanteur neutralise les handicaps physiques tout en renforçant la musculature du mollet, preuve que les sports extrêmes restent le dernier rempart contre l’effritement des standards humains.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:44:54.272Z"
+}
