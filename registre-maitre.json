@@ -34624,5 +34624,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02658",
+    "titre": "Des scientifiques inventent pour la première fois un fichier qui pèse 0 octets",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "expérience sur le vide numérique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre Universitaire de Recherches Quantiques et Évanescentes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02659",
+    "titre": "Un câble USB échoue à transmettre un courant alors qu'il est neuf",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "défaut de conception évitable",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire National d'Électricité et de Désillusion"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02660",
+    "titre": "La première souris d'ordinateur refusée par des rongeurs pour non-respect des normes sanitaires",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "test d'éthique technologique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau d'Évaluation Animale des Équipements Technologiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02661",
+    "titre": "Un écran tactile ne fonctionne que si l'utilisateur a les mains propres",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "contrainte hygiénique invisible",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Normalisation des Interfaces Corporelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02662",
+    "titre": "Un disque dur externe explose systématiquement lors d'un transfert de fichiers corrompus",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "risque électromagnétique domestique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération des Constructeurs de Supports Magnétiques Fragiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02663",
+    "titre": "Le Crédit Agricole de l'Idéologie lisse ses comptes avec une rectifieuse à chamanisme comptable",
+    "domaine": "Économie",
+    "objet_moquerie": "comptabilité chamanique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Collège Syndical des Expertises Pictographiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02664",
+    "titre": "Le Trésor Public mesure désormais la richesse avec des compteurs à ronrons diplomatiques",
+    "domaine": "Économie",
+    "objet_moquerie": "ronronnométrie fiscale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale des Menagalisations et Chuintements Officiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02665",
+    "titre": "La Banque Mondiale certifie que respirer dégage un PIB supérieur de 0,03% en période de canicule",
+    "domaine": "Économie",
+    "objet_moquerie": "respiration économique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Bureau International des Indicateurs Pulmonaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02666",
+    "titre": "Le FMI impose un quotient intellectuel minimal de 89 pour ouvrir un compte épargne en Polynésie française",
+    "domaine": "Économie",
+    "objet_moquerie": "IQ bancaire colonial",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fonds Monétaire des Havres Insolubles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02667",
+    "titre": "Les traders de Paris-Orléans utilisent désormais des graphiques en sucre filé pour prédire les krachs",
+    "domaine": "Économie",
+    "objet_moquerie": "trading saccharine",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des Odorateurs Financiers de l'Hexagone"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02668",
+    "titre": "Renouveau des broderies d'aiguilles dansantes selon la température",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "technique textile déviée par algorithmie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'académie nationale des arts textiles adaptatifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02669",
+    "titre": "Le bal des statues silencieuses de Nîmes suspendu sine die",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "manifestation culturelle reportée pour cause de statues en grève",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le comité municipal de préservation des figures inanimées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02670",
+    "titre": "L'opéra lyrique des cafards des égouts de Marseille sacré patrimoine immatériel",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "évolution organique intronisée comme art majeur",
+    "mecanisme_comique": "gravesse déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le conseil supérieur des arts clandestins"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02671",
+    "titre": "Les catalogues de vide-moi-nouveau développent leur propre langue",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "vocabulaire commercial contaminé par la poésie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'institut linguistique des planches de catalogue"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02672",
+    "titre": "Première exposition de toiles béantes présentées comme œuvres contemporaines",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "lacunes créatives présentées en galerie",
+    "mecanisme_comique": "incompétence critique notoire",
+    "echelle_temporelle": "événement artistique éphémère et chaotique",
+    "institutions_fictives": [
+      "le consortium des arts troués et des vides pris pour des structures"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02673",
+    "titre": "Le syndrome du troisième sourcil fonctionnel se généralise en Île-de-France (2023-2024)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "migration des poils faciaux excédentaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire National de la Pilosité Anormale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02674",
+    "titre": "Les glandes temporales larvaires retten réapparaissent chez quelques sujets en Bretagne",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "résurgence de canaux sécréteurs embryonnaires",
+    "mecanisme_comique": "découverte scientifique avec effet d'annonce disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Centre de Recherche en Biologie Atavique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02675",
+    "titre": "Le cartilage du talon droit s'atrophie en cas de chaussettes dépareillées",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "spécificité articulaire vestimentaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02676",
+    "titre": "L'hyperkymographie oculaire touche désormais 38 % des usagers des transports en commun",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "rythmologie des clignements involontaires",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "épidémie datée ponctuelle",
+    "institutions_fictives": [
+      "l'Unité de Recherche en Psycholéthargie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02677",
+    "titre": "La dyskinésie papillaire atteint 96 % des lectrices de magazines féminins",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "perte de contrôle musculaire pupillaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Syndicat des Ophtalmologistes Stoïques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02678",
+    "titre": "Saint-Licorne-sur-Loire découvre avec stupeur son cours d'eau fantôme",
+    "domaine": "Géographie",
+    "objet_moquerie": "découverte topographique croissante",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Délégation interministérielle aux cours d'eau imperceptibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02679",
+    "titre": "Le géomètre-expert local prouve méthodiquement que l'Église Saint-Pasteur penche à 17 degrés vers la droite",
+    "domaine": "Géographie",
+    "objet_moquerie": "mesure angulaire d'un monument banal",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Chambre syndicale des inclinologues indépendants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02680",
+    "titre": "La commune de Beuzeval-les-Croûtes interdit toute construction à moins de 500 mètres de rien",
+    "domaine": "Géographie",
+    "objet_moquerie": "réglementation territoriale incomprise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission départementale des zones délibérément vides"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02681",
+    "titre": "Un rocher erratique de 2 tonnes se déclare officiellement issu d'un glacier imaginaire",
+    "domaine": "Géographie",
+    "objet_moquerie": "géologie subjectivement déterminée",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Association pour la réhabilitation des dorsales glaciaires mythiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02682",
+    "titre": "La carte IGN de Bordeaux révèle depuis 2023 une zone d'indétermination de 4 hectares",
+    "domaine": "Géographie",
+    "objet_moquerie": "cartographie administrative floue",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service central de télédétection des secteurs indéfinis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
