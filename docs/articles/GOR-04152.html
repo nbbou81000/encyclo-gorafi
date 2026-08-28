@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04152.html">Article</a>
+    <a class="" href="../discussion/GOR-04152.html">Discussion</a>
+    <a class="" href="../historique/GOR-04152.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/philosophie-concepts.html">Portail : Philosophie &amp; Concepts</a> &rsaquo;
       Les cours du Val-de-Grâce tout à coup hantés par des fantômes PowerPoint
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/cours.html">cours (homonymie)</a>.</div>
+    <div class="bandeau-maintenance"><span class="bandeau-icone">📝</span> Cet article contient peut-être un travail inédit. <a href="../discussion/GOR-04152.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>232 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>10 172</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/hopital-militaire-du-val-de-grace.html">Hôpital militaire du Val-de-Grâce</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/hopital-militaire-du-val-de-grace.html">Hôpital militaire du Val-de-Grâce</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04152.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04152.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le cours magistral dispensé dans l’enceinte historique de l’hôpital militaire du Val-de-Grâce, depuis sa réouverture en 2010 après une rénovation de 3,7 millions d’euros financée par le ministère des Armées, s’est vu perturbé à compter du 12 novembre 2023 par la présence récurrente de spectres académiques entièrement constitués de diapositives PowerPoint non fermées, flottant entre 1,20 m et 1,80 m du sol selon des témoignages concordants de dix-sept étudiants de l’EMa (École de Médecine appliquée) et trois membres du personnel enseignant. Selon le Pr. Jean-Pierre Lenoir, porte-parole de l’Académie nationale de Médecine, ces entités spectrales, baptisées « Phantasma Docendi », sont « la preuve irréfutable que la rationalité médicale se meurt sous le poids des certitudes dogmatiques, avec une intensité comparable à un taux de 0,0042 fantômes par mètre carré dans les salles de cours ». Le phénomène, initialement confiné aux heures de présentation de dossiers cliniques, s’étend désormais à 68 % des plages horaires, statistiquement prouvé par l’étude « Spectralité et Enseignement » publiée en février 2024 par l’IFROSS (Institut de Formation et de Recherche en Organisation du Système de Santé). Pour y remédier, l’État a alloué une enveloppe supplémentaire de 200 000 euros afin d’acquérir des licences perpétuelles de Microsoft Office Pro Plus, solution qui, selon le communiqué du cabinet du ministre de la Santé, « garantira la disparition définitive des entités spectrales en renforçant l’opacité des processus décisionnels ».</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01742.html">La guerre des chaises ergonomiques en open-space (années 2020)</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00709.html">Article</a>
+    <a class="" href="../discussion/GOR-00709.html">Discussion</a>
+    <a class="" href="../historique/GOR-00709.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sciences-technologies.html">Portail : Sciences &amp; Technologies</a> &rsaquo;
       Le bug des imprimantes toners détectant une compression excessive de l’air
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>196 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>11 940</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/laboratoire-de-micro-climatisation-toner-lmct.html">Laboratoire de Micro-Climatisation Toner (LMCT)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/laboratoire-de-micro-climatisation-toner-lmct.html">Laboratoire de Micro-Climatisation Toner (LMCT)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00709.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00709.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le phénomène dit « Compression Tonale Excessive » (CTE), identifié en 2014 par le Laboratoire de Micro-Climatisation Toner (LMCT) affilié à l’Institut National de Supra-Technologie (INST), désigne l’incapacité des cartouches de toner modernes à distinguer entre une pression atmosphérique excédentaire et une simple expiration humaine à moins d’un mètre cinquante de l’appareil. Selon les rapports techniques du LMCT, 89,3 % des incidents signalés dans les open spaces européens relèvent d’une panique du capteur à dioptrie aérodynamique, déclenchant une « alerte 4B3-Jaune » nécessitant un redémarrage de 3 minutes 22 secondes, conformément au protocole ISO 27345-Delta. Le directeur du département Détection Micro-Vibratoire, le Pr. Edmond Tronche, précise que « cette sensibilité exacerbée illustre une avancée majeure dans la détection des micro-agressions environnementales, même si elle complique légèrement la gestion des livraisons urgentes ». Les fabricants assurent que ces bugs, désormais résolus via la norme « TonerFOAM 3.1 », représentent moins de 0,004 % de la production annuelle, mais les utilisateurs confirment que l’erreur persiste dans 100 % des cas suite à un éternuement, un fait désormais documenté par 2 847 études de cas menées entre 2015 et 2023 par le Consortium Européen d’Analyse des Éternuements Tonaux (CEAET).</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-00461.html">Le Wi-Fi qui ne se connecte qu'en mode 'avion'</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

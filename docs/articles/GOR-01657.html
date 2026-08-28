@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01657.html">Article</a>
+    <a class="" href="../discussion/GOR-01657.html">Discussion</a>
+    <a class="" href="../historique/GOR-01657.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Les visiteurs auditifs croient comprendre l'art abstrait sous sous-titres codés
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/visiteurs.html">visiteurs (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>168 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>22 515</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/institut-des-sensations-residuelles.html">Institut des Sensations Résiduelles</a>, <a href="../institutions/comite-des-synchronisations-coherentes.html">Comité des Synchronisations Cohérentes</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/institut-des-sensations-residuelles.html">Institut des Sensations Résiduelles</a>, <a href="../institutions/comite-des-synchronisations-coherentes.html">Comité des Synchronisations Cohérentes</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01657.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01657.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**L'audio-description thématique en muséologie**, technique développée depuis 2018 par l’Institut des Sensations Résiduelles (ISR) en partenariat avec le Comité des Synchronisations Cohérentes (CSC), consiste à superposer aux œuvres abstraites une narration audio qui en explicite le « vécu émotionnel supposé », transformant ainsi les taches de pigment en feuilletons métaphoriques. Selon le Pr. Emmanuelle Vasseur, co-directrice de l’ISR, « chaque nuance de bleu correspond à un acte de rébellion familiale, tandis que les traits rouges matérialisent les phases de deuil non résolu, avec une marge d’erreur calculée à ±3,7 % ». Les dernières statistiques du CSC révèlent que 68,4 % des visiteurs auditifs interrogés déclarent avoir « pleuré lors de la séquence 17-22 minutes », précisément au moment où l’orateur fictif évoque « la trahison de l’aube ». Cette méthode, validée par le label *Certification Synesthésie Contrôlée* depuis 2021, garantit une interprétation « scientifiquement conforme » à l’intention supposée des artistes, même lorsque l’œuvre originale mesure moins de 12 cm de diamètre et date d’un croquis de 2003.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-03638.html">Un compositeur aveugle écrit une symphonie en distribuant des coups de bâton au hasard</a></li>
-<li><a href="../articles/GOR-03639.html">Le musée des arts appliqués interdit l'art parce qu'il distrait les enfants</a></li>
-<li><a href="../articles/GOR-03683.html">Le musée d'art contemporain de Null-les-Fagnes ferme ses portes pour cause de sous-couche informatique saturée</a></li>
+          <li><a href="../articles/GOR-01798.html">Un pot de confiture dans une typoAnthropophagie mûrit au centre Pompidou (2024)</a></li>
+<li><a href="../articles/GOR-01799.html">Le festival Art-Bread annualisé se finit en baguette molle (depuis 2019)</a></li>
+<li><a href="../articles/GOR-01800.html">L'interview d'un scaphandre par une station-service éphémère (2022)</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

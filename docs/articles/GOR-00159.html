@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00159.html">Article</a>
+    <a class="" href="../discussion/GOR-00159.html">Discussion</a>
+    <a class="" href="../historique/GOR-00159.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Le rapport annuel du 'Service de la Garde Robe et des Textes Non Dits' : pourquoi les manteaux oubliés au foyer du Festival d’Avignon contiennent-ils des indices sur les intrigues des créations de la saison
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/rapport.html">rapport (homonymie)</a>.</div>
+    <div class="bandeau-maintenance"><span class="bandeau-icone">⚠</span> Cet article ne cite pas suffisamment ses sources. <a href="../discussion/GOR-00159.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>205 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>9 799</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/departement-d-anthropologie-des-reseautages-culturels-darc.html">Département d’Anthropologie des Réseautages Culturels (DARC)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/departement-d-anthropologie-des-reseautages-culturels-darc.html">Département d’Anthropologie des Réseautages Culturels (DARC)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00159.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00159.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le *Rapport annuel sur la volatilisation thermo-dynamique des items vestimentaires au sein des foyers thermaux du Festival d’Avignon (R. A. R. T. D. I. V. T. F.)*, publié le 15 octobre 2023 par le Département d’Anthropologie des Réseautages Culturels (DARC) sous la direction du Pr. Alphonse Lévêque-Vallée, établit une corrélation statistique significative entre le taux d’abandon de manteaux en tissu recyclé de chanvre teint à l’indigo et le coefficient de subversion narrative des pièces présentées en première partie de saison. Selon les calculs du Pr. Élisabeth Moutarde-Curieux, spécialiste en *sémiologie des objets résiduels*, 78,3 % des vestes en laine mérinos laissées au foyerthermal entre le 12 et le 18 juillet 2023 arboraient des traces de broderie manuelle évoquant des motifs absents des programmes officiels, suggérant une réécriture clandestine des intrigues par les collectifs artistiques via la gestuelle vestimentaire. Les archives du *Laboratoire de Typologie des Empreintes Cachées* (LTEC) confirment que ces textiles, une fois analysés en spectrométrie infrarouge, révèlent des concentrations anormales de teinture au sumac, pigment utilisé historiquement par les guildes médiévales de tisserands pour encoder des messages politiques dans les motifs floraux, technique aujourd’hui détournée par les metteurs en scène pour signaler leur désaccord avec les choix dramaturgiques de la direction du festival.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-00624.html">Le Centre Pompidou propose des visites guidées en langue des signes... machine</a></li>
-<li><a href="../articles/GOR-00625.html">Les musées de province exposent désormais des selfies volés comme œuvres d'art</a></li>
-<li><a href="../articles/GOR-00626.html">Les concerts diffusés en 4K sont désormais complétés par un narrateur sportif</a></li>
+          <li><a href="../articles/GOR-00949.html">Le syndrome de la toile blanche qui devient soudainement visible</a></li>
+<li><a href="../articles/GOR-00950.html">Les vernissages sabotés par des invités qui arrivent... une semaine après</a></li>
+<li><a href="../articles/GOR-00951.html">Les explications d'art contemporain lues comme des incantations druidiques</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

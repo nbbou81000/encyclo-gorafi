@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="assets/style.css">
   <link rel="stylesheet" href="assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,55 @@
   </script>
 </head>
 <body data-base="" class="page-statistiques">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="index.html">Accueil</a>
         <a href="recent.html">Modifications récentes</a>
-        <a href="statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="categories/geographie.html">Géographie</a>
+<a href="categories/histoire.html">Histoire</a>
+<a href="categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="categories/societe.html">Société</a>
+<a href="categories/sports.html">Sports</a>
+<a href="categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
     <div class="fil-ariane"><a href="index.html">Accueil</a> &rsaquo; Statistiques</div>
     <h1 class="titre-article">Statistiques</h1>
     <div class="sous-titre-portail">Où en est L'Encyclopédie Sérieuse dans sa quête d'exhaustivité fictive.</div>
 
-    <p><strong>5 000</strong> articles publiés sur un objectif de <strong>10 000</strong> (50.0%).</p>
+    <p><strong>5 004</strong> articles publiés sur un objectif de <strong>10 000</strong> (50.0%).</p>
     <div class="barre-stat barre-stat-grande"><div class="barre-stat-remplie" style="width:50.0%"></div></div>
     <p style="color:var(--texte-discret,#666);font-size:0.85em;">0 sujet(s) en file d'attente de rédaction.</p>
 
@@ -56,6 +81,11 @@
       <thead><tr><th>Domaine</th><th>Articles</th><th></th></tr></thead>
       <tbody><tr>
         <td><a href="categories/histoire.html">Histoire</a></td>
+        <td>502</td>
+        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
+      </tr>
+<tr>
+        <td><a href="categories/culture-arts.html">Culture &amp; Arts</a></td>
         <td>502</td>
         <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
       </tr>
@@ -98,20 +128,15 @@
         <td><a href="categories/economie.html">Économie</a></td>
         <td>499</td>
         <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
-      </tr>
-<tr>
-        <td><a href="categories/culture-arts.html">Culture &amp; Arts</a></td>
-        <td>498</td>
-        <td><div class="barre-stat"><div class="barre-stat-remplie" style="width:10.0%"></div></div></td>
       </tr></tbody>
     </table>
 
     <h2 style="font-family:Georgia,serif;margin-top:2em;">Mécanismes comiques utilisés</h2>
     <table class="table-stats">
       <thead><tr><th>Mécanisme</th><th>Occurrences</th></tr></thead>
-      <tbody><tr><td>logique absurde poussée à l'extrême</td><td>1414</td></tr>
-<tr><td>gravité déplacée sur du banal</td><td>1228</td></tr>
-<tr><td>jargon technique détourné</td><td>1169</td></tr>
+      <tbody><tr><td>logique absurde poussée à l'extrême</td><td>1415</td></tr>
+<tr><td>gravité déplacée sur du banal</td><td>1229</td></tr>
+<tr><td>jargon technique détourné</td><td>1171</td></tr>
 <tr><td>conflit disproportionné</td><td>698</td></tr>
 <tr><td>découverte scientifique</td><td>63</td></tr>
 <tr><td>institution pérenne</td><td>42</td></tr>
@@ -426,14 +451,16 @@
 <tr><td><a href="institutions/le-senat.html">le Sénat</a></td><td>10</td></tr>
 <tr><td><a href="institutions/elysee.html">Élysée</a></td><td>10</td></tr>
 <tr><td><a href="institutions/paris-saint-germain.html">Paris Saint-Germain</a></td><td>9</td></tr>
-<tr><td><a href="institutions/sanofi.html">Sanofi</a></td><td>8</td></tr></tbody>
+<tr><td><a href="institutions/le-ministere-de-la-culture.html">le ministère de la Culture</a></td><td>8</td></tr></tbody>
     </table>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="assets/search.js"></script>
   <script src="assets/theme-toggle.js"></script>
   

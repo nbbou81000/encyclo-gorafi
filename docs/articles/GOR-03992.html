@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-03992.html">Article</a>
+    <a class="" href="../discussion/GOR-03992.html">Discussion</a>
+    <a class="" href="../historique/GOR-03992.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Le Musée des Ombres Perdues de Dunkerque enregistre une affluence record en 2023 malgré l'absence de contenu
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>226 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>5 827</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/conservatoire-des-absences-architecturales.html">Conservatoire des Absences Architecturales</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/conservatoire-des-absences-architecturales.html">Conservatoire des Absences Architecturales</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-03992.html">Discussion</a></li>
+        <li><a href="../historique/GOR-03992.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le Musée des Ombres Perdues de Dunkerque, institution publique dépendant du Conservatoire des Absences Architecturales depuis sa création en 1998 par décret préfectoral n°DUN-1998-0472-B, a enregistré en 2023 une fréquentation exceptionnelle de 12 478 visiteurs, soit une hausse de 3,2 % par rapport à l’année précédente, selon les relevés quotidiens du Service National des Traces Éphémères. Ce succès paradoxal s’explique notamment par l’absence totale de pièces exposées, un choix artistique validé en 2001 par l’Académie Silhouettienne de Lille, dont le porte-parole, le Pr. Edmond Lefèvre-Dubois, a souligné que « cette fréquentation record prouve que l’art contemporain peut se passer de matière pour exister, et que le spectateur, en cherchant désespérément une ombre, trouve en réalité la lumière de son propre questionnement ». Les ressources budgétaires allouées à la restauration des non-œuvres, s’élevant à 47 000 euros annuels financés par le Fonds Européen de Développement des Non-Formes, incluent désormais un budget spécifique de 3 200 euros destiné à l’achat de néons de rechange pour éclairer les salles vides, dont la consommation électrique moyenne quotidienne atteint 18,7 kWh. Cette effervescence culturelle a conduit les autorités à envisager l’extension du musée sur un terrain vague adjacent, pour y exposer l’ombre projetée de l’ombre projetée, une extension dont l’étude d’impact, menée par l’Institut de Recherche sur l’Invisible, estime le coût à 1,2 million d’euros, mais garantit un retour sur invest</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-00900.html">Exposition d'art abstrait annulée car tous les participants ont mal interprété le tableau central</a></li>
-<li><a href="../articles/GOR-00901.html">Recyclage de vieilleries du grenier labellisé 'Art contemporain durable'</a></li>
-<li><a href="../articles/GOR-00902.html">Le syndrome de la toile vide (1998-2024)</a></li>
+          <li><a href="../articles/GOR-04199.html">Le Louvre monétise Flashmob des électeurs de Jean-Luc Mélenchon au Jardin des Tuileries</a></li>
+<li><a href="../articles/GOR-04200.html">Beyoncé refuse désormais de chanter devant des œuvres classées monument</a></li>
+<li><a href="../articles/GOR-04201.html">Netflix restreint l'accès à l'Art déco via un algorithme de censure stylistique</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

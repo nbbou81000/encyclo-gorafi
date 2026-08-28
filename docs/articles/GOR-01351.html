@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01351.html">Article</a>
+    <a class="" href="../discussion/GOR-01351.html">Discussion</a>
+    <a class="" href="../historique/GOR-01351.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       La Biennale de l’Invisible récompense une œuvre… invisible
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>169 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>19 504</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/biennale-de-l-invisible.html">Biennale de l’Invisible</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/biennale-de-l-invisible.html">Biennale de l’Invisible</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01351.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01351.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>La Biennale de l’Invisible, institution culturelle fondée en 2012 par le *Centre d’Études Supérieures en Art Abstraits Invisibles (CESAAI)* de Cergy-Pontoise, a décerné son Grand Prix annuel à une œuvre strictement indétectable composée de deux particules de poussière en suspension à 0,37 micromètre l’une de l’autre, selon les mesures du *Laboratoire National de Spectrométrie du Néant Lumineux (LNSNL)*. « Cette pièce interroge la liminalité du perceptible et son intégration dans le circuit de la valorisation marchande », a déclaré le Dr. Hubert von Flanquemont, directeur du jury, lors d’une conférence de presse où il précisait que l’œuvre, bien que non enregistrable par aucun scanner, « génère un retour sur investissement symbolique de 127 % », calculé à partir des frais d’expertise facturés à 8 900 euros l’unité. Le CESAAI a d’ores et déjà lancé un appel à projets pour sa prochaine édition, intitulée *« L’Invisible qui nous regarde »*, avec un budget de 1,2 million d’euros, dont 30 % dédiés à la « documentation sensorielle » des œuvres primées.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-03363.html">Le musée du linge sale secoue violemment l'histoire de la mode</a></li>
-<li><a href="../articles/GOR-03364.html">Un marteau-piqueur compose mécaniquement des sonates exhaustives</a></li>
-<li><a href="../articles/GOR-03365.html">L'orchestre silencieux reçoit le prix de la plus longue attente</a></li>
+          <li><a href="../articles/GOR-01752.html">Les tableaux 'incomplets' d’un artiste égaré deviennent culte après une livraison Amazon fantôme</a></li>
+<li><a href="../articles/GOR-01753.html">Un critique exige la classification du graffiti 'Coucou' en œuvre majeure pour ses trois secondes de gloire</a></li>
+<li><a href="../articles/GOR-01754.html">La Biennale des Miroirs Brisés annulée faute de reflets optimaux</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,27 +24,53 @@
   </script>
 </head>
 <body data-base="../" class="page-categorie">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
     <div class="fil-ariane"><a href="../index.html">Accueil</a> &rsaquo; Portail : Culture &amp; Arts</div>
     <h1 class="titre-article">Portail : Culture &amp; Arts</h1>
-    <div class="sous-titre-portail">498 article(s) publié(s) dans ce domaine.</div>
+    <div class="sous-titre-portail">502 article(s) publié(s) dans ce domaine.</div>
     <ul class="liste-articles">
       <li>
         <a href="../articles/GOR-00016.html">Le mouvement « Post-Quelque-Chose » dans l'art contemporain</a>
@@ -2051,13 +2076,31 @@ Le retour de Daft Punk, annoncé le 13 mars 2024…</span>
         <a href="../articles/GOR-04949.html">Les parodies de films deviennent la seule forme de cinéma autorisée</a>
         <span class="extrait">Le décret n°2024-812 du 17 mars 2024, promulgué sous l'égide de l'Académie des César et validé par un conseil restreint…</span>
       </li>
+<li>
+        <a href="../articles/GOR-05001.html">Philippe Katerine lance une collection de tableaux à gratter par le public</a>
+        <span class="extrait">Le phénomène des tableaux à gratter, popularisé par le plasticien français Philippe Katerine via sa collection *"Grattez…</span>
+      </li>
+<li>
+        <a href="../articles/GOR-05002.html">Daft Punk révèle que tous leurs tubes reposent sur des cassettes de ronflements</a>
+        <span class="extrait">Le groupe Daft Punk a révélé, lors d'une conférence de presse tenue le 12 mars 2024 à l'Académie Charles Cros, que l'int…</span>
+      </li>
+<li>
+        <a href="../articles/GOR-05003.html">France Télévisions commande une série en novlangue orwellienne pour son public</a>
+        <span class="extrait">*L’Académie de la Langue Novlangue et de l’Uniformisation Cognitive (ALNUC), organisme public relevant conjointement du…</span>
+      </li>
+<li>
+        <a href="../articles/GOR-05004.html">Béatrice Patrie dépose un brevet pour ses performances de devenir vulnérable en 3 étapes</a>
+        <span class="extrait">La vulnérabilité performative certifiée en trois étapes brevetée par l’artiste publique Béatrice Patrie (PS, sacrée soci…</span>
+      </li>
     </ul>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

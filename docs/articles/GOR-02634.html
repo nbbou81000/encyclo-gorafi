@@ -21,7 +21,6 @@ Le découpage territorial aléatoire, défini comme l’attribution de limi…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Le découpage territorial aléatoire, défini comme l’attribution de limi…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-02634.html">Article</a>
+    <a class="" href="../discussion/GOR-02634.html">Discussion</a>
+    <a class="" href="../historique/GOR-02634.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/politique-institutionnelle.html">Portail : Politique Institutionnelle</a> &rsaquo;
       Le Bureau des Soupçons Légitimes valide l'absence de découpage territorial aléatoire
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Le découpage territorial aléatoire, défini comme l’attribution de limi…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>200 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>36 513</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/bureau-des-soupcons-legitimes.html">Bureau des Soupçons Légitimes</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/bureau-des-soupcons-legitimes.html">Bureau des Soupçons Légitimes</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Le découpage territorial aléatoire, défini comme l’attribution de limi…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-02634.html">Discussion</a></li>
+        <li><a href="../historique/GOR-02634.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le Bureau des Soupçons Légitimes valide l'absence de découpage territorial aléatoire**</p>
 <p>Le découpage territorial aléatoire, défini comme l’attribution de limites géographiques sans critère objectif identifiable, constitue un objet d’étude permanent du Bureau des Soupçons Légitimes (BSL) depuis sa création par décret municipal du 12 mars 2004 (article L. 473-bis du Code des Arrangements Spatiaux Implicites). Selon une étude interne menée par le Dr. Prosper Vermondieu, expert en « ambigüités cartographiques non intentionnelles », sur un échantillon de 14 387 communes françaises, 0 % des cas avérés de découpage territorial présentant des caractéristiques aléatoires n’ont été détectés en 2023, confirmant ainsi une tendance à la rigueur géométrique croissante. « Ce résultat démontre une professionnalisation remarquable du corps des géomètres communaux », déclare-t-il, tout en soulignant que « l’absence de découpage aléatoire ne préjuge en rien de l’éventuelle présence de découpages… questionnables ». La Direction des Normes Géométriques du BSL a par ailleurs signalé que les 327 cas de limites communales jugées « esthétiquement discontinues » ont été reclassés en « motifs paysagers délibérés », conformément à la circulaire du 5 novembre 2011 relative aux « arrangements topographiques à valeur ajoutée ». Ces conclusions s’inscrivent dans une logique de transparence institutionnelle exigeante.</p>
     </div>
@@ -89,7 +134,7 @@ Le découpage territorial aléatoire, défini comme l’attribution de limi…">
       <a class="etiquette" href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-04349.html">Édouard Philippe lance un logiciel de priorisation des conflits ministériels en temps réel</a></li>
@@ -98,11 +143,13 @@ Le découpage territorial aléatoire, défini comme l’attribution de limi…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-03065.html">Article</a>
+    <a class="" href="../discussion/GOR-03065.html">Discussion</a>
+    <a class="" href="../historique/GOR-03065.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Le Conservatoire National des Bruits de Pas examine la répartition des échardes dans les parquets
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/conservatoire.html">conservatoire (homonymie)</a>.</div>
+    <div class="bandeau-maintenance"><span class="bandeau-icone">❓</span> Cet article pourrait nécessiter des vérifications supplémentaires. <a href="../discussion/GOR-03065.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>220 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>44 150</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-laboratoire-de-phonetique-par-quotidienne.html">le Laboratoire de Phonétique Par-Quotidienne</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-laboratoire-de-phonetique-par-quotidienne.html">le Laboratoire de Phonétique Par-Quotidienne</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-03065.html">Discussion</a></li>
+        <li><a href="../historique/GOR-03065.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le Conservatoire National des Bruits de Pas (C.N.B.P.), institution publique fondée en 1987 par décret ministériel n°87-147 du 12 mars sous l’égide du ministère de la Culture et des Usages Domestiques Résiduels, est l’unique organisme au monde spécialisé dans l’analyse spectrographique des impacts phoniques générés par la déambulation humaine sur les revêtements de sol. Ses travaux, menés au sein du Laboratoire de Phonétique Par-Quotidienne (L.P.P.Q.), révèlent aujourd’hui une corrélation statistique alarmante entre l’incidence des échardes dans les parquets chêne massif posés entre 1998 et 2003 et la fréquence des pas traînants mesurés lors des heures d’affluence du métro parisien, soit précisément 12,3 interruptions phoniques par mètre carré entre 8h12 et 8h25 un mardi standard de février 2019. « Cette étude démontre que l’écharde n’est pas un défaut structurel, mais une réponse acoustique différée du bois à la pression sociale », déclare le Pr. Edmond-Léon Brumelet, directeur du L.P.P.Q., avant d’ajouter que « les parquets posés par des artisans bretons formés à l’école de Quimper-sur-Loire (promotion 2001) présentent un taux de résilience phonique supérieur de 0,7 % aux sols standard, ce qui en fait une référence nationale ». Ces conclusions ont conduit le C.N.B.P. à recommander l’inclusion systématique d’un module d’ergonomie podale dans le cursus des CAP parqueteurs, mesure dont la mise en œuvre est prévue pour la rentrée universitaire 2026.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-01555.html">Un groupe de retraités a obtenu un prix pour sa 'Sculpture de la Soupe Trop Salée'</a></li>
-<li><a href="../articles/GOR-01556.html">L'État rachète la file d'attente devant la boulangerie du coin comme patrimoine immatériel</a></li>
-<li><a href="../articles/GOR-01557.html">Dès 2025, les programmes des festivals d'art contiendront une 'Nuit des Miroirs Sales' obligatoire</a></li>
+          <li><a href="../articles/GOR-00622.html">La soupe populaire du Louvre réduit son personnel à des statues factices</a></li>
+<li><a href="../articles/GOR-00623.html">Le Louvre interdit aux visiteurs de tousser dans les salles égyptiennes</a></li>
+<li><a href="../articles/GOR-00624.html">Le Centre Pompidou propose des visites guidées en langue des signes... machine</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

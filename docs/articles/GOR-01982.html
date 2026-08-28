@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01982.html">Article</a>
+    <a class="" href="../discussion/GOR-01982.html">Discussion</a>
+    <a class="" href="../historique/GOR-01982.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/economie.html">Portail : Économie</a> &rsaquo;
       Le Bureau du Provocateur de coûts inutiles (BPCI) créé pour officialiser la perte de 17% du budget cafétéria par semestre
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>200 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>29 900</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-du-provocateur-de-couts-inutiles-bpci.html">Le Bureau du Provocateur de coûts inutiles (BPCI)</a>, <a href="../institutions/la-ligue-anti-remplacements-de-tasses-lart.html">La Ligue Anti-Remplacements de Tasses (LART)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-du-provocateur-de-couts-inutiles-bpci.html">Le Bureau du Provocateur de coûts inutiles (BPCI)</a>, <a href="../institutions/la-ligue-anti-remplacements-de-tasses-lart.html">La Ligue Anti-Remplacements de Tasses (LART)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01982.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01982.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le Bureau du Provocateur de coûts inutiles (BPCI), institution pérenne créée par décret ministériel n°2023-4567 le 15 mars 2023 sous l'égide du Secrétariat d'État à la Rationalisation des Dépenses Superflues (SERDS), est chargé d'officialiser les pertes récurrentes de budget cafétéria, lesquelles atteignent 17,3 % en moyenne par semestre, avec un pic de 21,8 % lors des périodes de forte affluence en sandwichs. Selon le rapport annuel 2024 du Laboratoire d'Études sur les Microdépenses Absurdes (LEMA), ces pertes sont désormais considérées comme un "investissement stratégique" dans la fluidité bureaucratique, leur taux fluctuant en fonction de la rotation du personnel assigné au remplissage des distributeurs. Le Dr. Hubert Von Tassenfest, porte-parole de la Ligue Anti-Remplacements de Tasses (LART) et récipiendaire du Prix Ig Nobel 2023, déclare : *"Si 83,6 % des clients ne semblent pas remarquer la disparition des mugs, cela prouve à contrario que notre système de traçabilité par QR codes sur les soucoupes fonctionne à 99,7 % d'efficacité, malgré la hausse de 0,4 % des incidents liés à l'ingestion involontaire des étiquettes."* Ainsi, la pérennité du BPCI garantit une transparence administrative exemplaire, chaque tasse égarée étant systématiquement remplacée par un formulaire de demande de remboursement classé au grade "Émerveillement Institutionnel".</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/economie.html">Économie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01879.html">La revente de tickets de cantine périmés bat des records sur Leboncoin avec des lots à 500 €</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-05003",
+  "titre": "France Télévisions commande une série en novlangue orwellienne pour son public",
+  "domaine": "Culture & Arts",
+  "texte": "*L’Académie de la Langue Novlangue et de l’Uniformisation Cognitive (ALNUC), organisme public relevant conjointement du ministère de l’Éducation nationale et de France Télévisions, a formalisé le 14 mars 2024 le projet « *Mots-Clés & Résilience Lexicale* », série audiovisuelle éducative de 52 épisodes d’une durée exacte de 23 minutes 47 secondes, destinée à « réinvestir les champs sémantiques consensusuels des jeunes générations » selon les termes mêmes de son directeur exécutif, M. Jean-Mi Tremblay, ancien conseiller en communication auprès de l’Élysée lors du mandat de Nicolas Sarkozy. Chaque épisode, produit au format 1080p avec un budget de 1,2 million d’euros incluant 0,8 % de redevance audiovisuelle, propose une immersion contrôlée dans des dialogues strictement calibrés selon les normes ISO 45001 (accessibilité) et AFNOR X50-777 (langage inclusif optimisé). « Cette série permet de garantir une *déconstruction dialoguée des biais cognitifs* tout en renforçant l’**efficience métacognitive des apprenants** », précise le Pr. Claudine Binet-Lacoste, titulaire de la chaire « Linguistique Appliquée à la Réduction des Conflits Sociaux » au Collège de France, qui évoque un « gain moyen de 1,3 point sur l’échelle de Borg de l’attention soutenue ». Les premiers tests en focus group, réalisés sur un échantillon de 230 élèves du lycée Henri-IV à Paris, révèlent une augmentation de 8 % du vocabulaire passif… mais une baisse de 11 % de la compréhension des instructions simples. France Télévisions, par commun",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T20:33:49.128Z"
+}

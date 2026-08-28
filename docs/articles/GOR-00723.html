@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00723.html">Article</a>
+    <a class="" href="../discussion/GOR-00723.html">Discussion</a>
+    <a class="" href="../historique/GOR-00723.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Ouverture du musée du néant exposé à 97% d'espaces vides
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/ouverture.html">ouverture (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>242 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>11 996</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-centre-d-etude-du-vide-federal-cevf.html">Le Centre d'Étude du Vide Fédéral (CEVF)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-centre-d-etude-du-vide-federal-cevf.html">Le Centre d'Étude du Vide Fédéral (CEVF)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00723.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00723.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le musée du Néant, inauguré officiellement le 12 mars 2023 sous l'égide du Centre d'Étude du Vide Fédéral (CEVF) dans un bâtiment conçu par l'architecte minimaliste Haruto Nishiwada, se présente comme l'aboutissement ultime de la démarche conceptuelle contemporaine en matière d'art contemporain, avec une exposition permanente intitulée *"L'Absence comme médium"* composée à 97,3% d'espaces vides, le reliquat étant occupé par des plaques de marbre blanc polies au micron près et pesant exactement 47 grammes chacune. Selon le communiqué de la conservatrice en chef, Pr. Edmonde Sorbier (directrice des recherches au CEVF), *"cet espace à taux de remplissage record constitue une avancée majeure dans la quantification du vide artistique, avec un taux de négativité volumétrique de 0,9999997 par mètre cube, validé par le laboratoire de métrologie du vide de l'Institut National des Standards Appliqués (INSA)".* Les visiteurs, équipés de badges RFID permettant un suivi précis de leur trajectoire dans les salles (où le temps de présence moyen s'établit à 3 minutes et 17 secondes), déplorent souvent une sensation de plénitude existentielle paradoxale, tandis que le musée enregistre une fréquentation stable de 120 personnes par semaine, dont 42% repartent avec un certificat esthétique imprimé sur papier de soie certifié neutre en carbone. Les recettes générées par la boutique exclusivement dédiée à la vente de *posters "créés" par des artistes ayant démissionné* permettent au CEVF de financer des recherches sur *"l'impact du rien sur la société post-industrielle"*, actuellement estimées à trois millions d'euros par an.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-02716.html">Découverte révolutionnaire : les ombres projettent des formes plus opaques la nuit</a></li>
-<li><a href="../articles/GOR-02717.html">La Biennale des Regards Inutiles ferme après 17 éditions</a></li>
-<li><a href="../articles/GOR-02718.html">Un chat obtient un poste de conservateur au Musée des Objets Inutiles</a></li>
+          <li><a href="../articles/GOR-02865.html">Un tableau de Hermès Duvigneaud se vend 12 millions d'euros après exposition à un robinet</a></li>
+<li><a href="../articles/GOR-02866.html">Le musée du Louvre-Briançon expose exclusivement des yeux aveugles en plâtre</a></li>
+<li><a href="../articles/GOR-02867.html">La Dancing de Lyon lance un diplôme en navigation intérieure pour chorégraphes</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

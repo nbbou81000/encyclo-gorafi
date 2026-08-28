@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01679.html">Article</a>
+    <a class="" href="../discussion/GOR-01679.html">Discussion</a>
+    <a class="" href="../historique/GOR-01679.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sante-biologie.html">Portail : Santé &amp; Biologie</a> &rsaquo;
       Les 'Séances Anti-Drastruc' réservées aux patients souffrant de nausées après visionnage de réunions inutiles
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">❓</span> Cet article pourrait nécessiter des vérifications supplémentaires. <a href="../discussion/GOR-01679.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>223 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>22 583</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/l-a-m-d-anti-meeting-dyscovery.html">L'A-M-D (Anti-Meeting Dyscovery)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/l-a-m-d-anti-meeting-dyscovery.html">L'A-M-D (Anti-Meeting Dyscovery)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01679.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01679.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le Syndicat International de Résistance à l’Assommoire Visuelle (SIRAV) définit officiellement depuis le 12 mars 2019 les « Séances Anti-Drastruc » comme une consultation spécialisée destinée à la prise en charge des nausées post-exposition prolongée à des présentations professionnelles superflues, désormais enregistrée sous la nomenclature CIM-348.7 dans le Manuel Diagnostique des Troubles Induits par Réunions (MDTIR), publié par l’Académie Rydgwil d’Épidémiologie Cognitive (AREC). Les protocoles, validés après une étude de cinq ans menée auprès de 237 employés du secteur tertiaire, prévoient une désensibilisation progressive via diffusion de graphiques circulaires colorés selon la norme ISO 4523, tandis que le patient, allongé sur un divan ergonomique recouvert de papier millimétré, écoute en boucle la mélodie générée par les imprimantes HP OfficeJet Pro 9015 du cabinet, situées à exactement 3,7 mètres du bureau du thérapeute, lui-même décoré d’un certificat encadré de l’A-M-D attestant de sa maîtrise des techniques de « nébulisation syntaxique ». Selon le Pr. Oswald D. Wetherfield, directeur du laboratoire de Recherche sur la Fatigue Orale et Écrite (RFOE), « ces séances ont permis une réduction de 12,3 % des crises d’hyperventilation lors des entretiens annuels », chiffre salué par la Fédération Européenne des Organisations de Bien-Être Professionnel (FEOBP) lors de son congrès de Bâle en 2022. Leur succès a conduit à l’ouverture de 47 annexes en Europe, toutes dotées du même mobilier et</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-02868.html">Le phénomène inexpliqué des rêves en noir et blanc chez les nouveau-nés (2018-en cours)</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

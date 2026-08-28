@@ -21,7 +21,6 @@ Selon une étude inédite publiée le 12…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Selon une étude inédite publiée le 12…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04989.html">Article</a>
+    <a class="" href="../discussion/GOR-04989.html">Discussion</a>
+    <a class="" href="../historique/GOR-04989.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/philosophie-concepts.html">Portail : Philosophie &amp; Concepts</a> &rsaquo;
       Le Parisien se demande si la philosophie peut sauver l’été caniculaire de 2023
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">⚠</span> Cet article ne cite pas suffisamment ses sources. <a href="../discussion/GOR-04989.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Selon une étude inédite publiée le 12…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>218 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>18 858</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-parisien.html">Le Parisien</a>, <a href="../institutions/sorbonne-universite.html">Sorbonne Université</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-parisien.html">Le Parisien</a>, <a href="../institutions/sorbonne-universite.html">Sorbonne Université</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Selon une étude inédite publiée le 12…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04989.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04989.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**La phénoménologie des souffles étouffants : l’apport de la philosophie analytique à la gestion des canicules modernes**</p>
 <p>Selon une étude inédite publiée le 12 juillet 2023 par *Le Parisien* et menée en collaboration avec la Sorbonne Université sous l’égide du philosophe et professeur Jean-Guy L’Arméniac (auteur de l’ouvrage *Pour en finir avec la transpiration*), la philosophie analytique pourrait constituer une réponse structurelle aux défis thermiques posés par l’été caniculaire de 2023. Interrogé sur l’efficacité concrète d’une méditation de 15 minutes sur la *puissance du corps chez Spinoza* devant un ventilateur en panne, le professeur L’Arméniac a répondu : *« Si Descartes avait su que son *cogito* pouvait réduire la température ressentie de 0,3 degré Celsius, il aurait probablement posé des questions moins abstraites. »* Les données recueillies auprès de 47 participants — dont 32 professeurs de philosophie en retraite anticipée pour raisons climatiques — révèlent que 89 % des individus ayant pratiqué une lecture commentée de *L’Être et le Néant* sous une bâche en plastique ont déclaré ressentir moins l’urgence d’acheter une climatisation. La Sorbonne a ainsi annoncé le lancement d’un cycle de séminaires intitulé *« De l’ontologie à l’onctuosité : penser l’été sans mourir »*, avec une participation record de 9 doctorants et 1 fonctionnaire du ministère de l’Enseignement supérieur en télétravail depuis un frigo de cantine.</p>
     </div>
@@ -89,7 +134,7 @@ Selon une étude inédite publiée le 12…">
       <a class="etiquette" href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03604.html">Le syndrome de Boumbalegh persiste sur les montres connectées depuis 2018</a></li>
@@ -98,11 +143,13 @@ Selon une étude inédite publiée le 12…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

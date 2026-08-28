@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-03611.html">Article</a>
+    <a class="" href="../discussion/GOR-03611.html">Discussion</a>
+    <a class="" href="../historique/GOR-03611.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/societe.html">Portail : Société</a> &rsaquo;
       Le bureau mobile des agents de la netiquette de rue devient illisible
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>208 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>2 823</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/l-observatoire-communal-des-codes-visuels-informels.html">l'Observatoire communal des codes visuels informels</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/l-observatoire-communal-des-codes-visuels-informels.html">l'Observatoire communal des codes visuels informels</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-03611.html">Discussion</a></li>
+        <li><a href="../historique/GOR-03611.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’**Office des Panneaux de Circulation Non Officiels et de la Netiquette Piétonne (OPCNOP-NP)**, institution issue de la fusion en 2018 du *Laboratoire d’Étude des Signaux Alternatifs* et du *Bureau Municipal des Usages Informels*, a publié ce 12 mars 2024 son 47ème rapport annuel sur *l’Entropie Signalétique des Voies Publiques*, révélant que 68,3 % des 12 478 panneaux de signalisation temporaire installées par des citoyens dans la commune de Saint-Rigolin-sur-Bouillon (département 017) présentaient de graves dysfonctionnements sémantiques. Selon le professeur Norbert W. Hochepied, directeur de l’Unité de Recherche en Jargon Visuel Urbain, « cesagements illisibles ne sont pas des erreurs, mais des *métasémantiques comportementales* : le locuteur non agréé superpose à la norme officielle une couche de sens ironique ou subversif, créant une *superposition autodestructrice* ». Les relevés topographiques détaillés indiquent que les panneaux les plus touchés se situent dans un rayon de 50 mètres autour des boulangeries (42 % des cas) et des arrêts de bus (29 %), où l’humidité ambiante accélère la dégradation acrylique de 0,03 mm par semaine. L’OPCNOP-NP envisage d’ici 2026 une normalisation des glyphes par *algorithmes d’apprentissage supervisé* mais, comme le précise la communication officielle de la *Cellule de Normalisation Signalétique Empirique* : « Si nous standardisons trop, nous tuons la poésie urbaine ».</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/societe.html">Société</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-00415.html">Le syndrome du distributeur de tickets trop littéral</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

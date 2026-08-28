@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-03967.html">Article</a>
+    <a class="" href="../discussion/GOR-03967.html">Discussion</a>
+    <a class="" href="../historique/GOR-03967.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/philosophie-concepts.html">Portail : Philosophie &amp; Concepts</a> &rsaquo;
       La dissertation pour l'agrégation de philosophie : 187 pages de réflexion sur un emballage de comprimé vide
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>229 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>6 185</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/conseil-national-des-programmes-philosophiques.html">Conseil National des Programmes Philosophiques</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/conseil-national-des-programmes-philosophiques.html">Conseil National des Programmes Philosophiques</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-03967.html">Discussion</a></li>
+        <li><a href="../historique/GOR-03967.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’emballage de comprimé vide, objet anodin en apparence, constitue depuis 1968 un sujet de dissertation central dans le cadre de l’épreuve de philosophie de l’agrégation, au même titre que le problème de l’existence de l’esprit d’autrui ou la critique de la raison pure. Selon les travaux du Conseil National des Programmes Philosophiques, cet emballage, lorsqu’il est vidé de son contenu pharmaceutique, soulève une problématique ontologique majeure : celle de l’absence comme présence résiduelle, analysée par le Pr. Marcelin Duroc, titulaire de la chaire de Métaphysique des Objets Duels à la Sorbonne, comme « une dialectique du plein et du vide où le support matériel devient le symptôme d’une transcendance sans objet ». Les candidats doivent ainsi rédiger un développement pouvant atteindre 187 pages, soit un ratio moyen de 1,2 page par gramme de carton recyclé, sur des thèmes aussi variés que la phénoménologie de la boîte en aluminium, la sémantique du blister, ou la poétique de l’espace négatif. En 2022, sur les 427 dissertations présentées, 89 % ont obtenu une mention « Bien » ou « Très Bien », démontrant la rigueur méthodologique de cette approche, ainsi que l’efficacité du système éducatif français à transformer le déchet en argument philosophique de premier ordre. Les sessions se déroulent traditionnellement le troisième mercredi de mars, dans un silence studieux seulement troublé par le froissement des sachets de thé usagés des surveillants.</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01873.html">Une UFR de Beurre condamné à recalculer la durée de chaque bouchée gratuite</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

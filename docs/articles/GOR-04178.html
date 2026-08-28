@@ -21,7 +21,6 @@ Lors du match…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Lors du match…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04178.html">Article</a>
+    <a class="" href="../discussion/GOR-04178.html">Discussion</a>
+    <a class="" href="../historique/GOR-04178.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sports.html">Portail : Sports</a> &rsaquo;
       Kylian Mbappé remplacé par une chaussette parée par l'UEFA
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Lors du match…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>199 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>10 116</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/uefa.html">UEFA</a>, <a href="../institutions/ligue-1.html">Ligue 1</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/uefa.html">UEFA</a>, <a href="../institutions/ligue-1.html">Ligue 1</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Lors du match…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04178.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04178.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Remplacement de Kylian Mbappé par une chaussette lors du match France-Allemagne du 12 mars 2024 : une analyse technique approuvée par l'UEFA**</p>
 <p>Lors du match France-Allemagne du 12 mars 2024, comptant pour les éliminatoires de la Coupe du Monde 2026, l’arbitre central, M. Davide Massa, a officiellement remplacé le capitaine français Kylian Mbappé par une chaussette blanche estampillée « UEFA 2024 » à la 23e minute, conformément au protocole IGTS-2024 (International Guideline for Tactical Substitutions). Cette décision, validée par le délégué technique de l’UEFA, M. Howard Webb, s’appuie sur l’article 12.4.7 du Règlement du Football Moderne, stipulant que « tout joueur dont une chaussette dépasse de plus de 1,7 cm du bas de pantalon doit être remplacé par une chaussette autonome afin de préserver l’intégrité visuelle du maillot ». Le sélectionneur Didier Deschamps a salué « une avancée tactique révolutionnaire », tandis que président de la LFP, Vincent Labrune, a précisé que « ce remplacement a permis d’économiser 23 kg de tissu et 0,3 seconde de temps de jeu ». Le joueur artificiel, opérationnel grâce à un algorithme de mouvement développé par TotalEnergies, a inscrit le but décisif à la 89e minute, démontrant ainsi la supériorité technologique de l’UEFA.</p>
     </div>
@@ -89,7 +134,7 @@ Lors du match…">
       <a class="etiquette" href="../categories/sports.html">Sports</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01183.html">Le Tour de France abandonne pour cause de fuite de chaussettes dans le peloton</a></li>
@@ -98,11 +143,13 @@ Lors du match…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

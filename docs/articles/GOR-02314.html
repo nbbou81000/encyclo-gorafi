@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-02314.html">Article</a>
+    <a class="" href="../discussion/GOR-02314.html">Discussion</a>
+    <a class="" href="../historique/GOR-02314.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/economie.html">Portail : Économie</a> &rsaquo;
       Effondrement spectaculaire du cours des gommes à mastic : 90% des portefeuilles en détresse
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">📝</span> Cet article contient peut-être un travail inédit. <a href="../discussion/GOR-02314.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>210 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>35 366</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-commission-de-regulation-des-objets-machouillables.html">la Commission de Régulation des Objets Mâchouillables</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-commission-de-regulation-des-objets-machouillables.html">la Commission de Régulation des Objets Mâchouillables</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-02314.html">Discussion</a></li>
+        <li><a href="../historique/GOR-02314.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>*L’Effondrement Pivot de la Gomme à Mastic*, survenu le 12 mars 2024 à 14h27, désigne l’effondrement catastrophique des cours de la gomme à mastic sur les marché régionaux de l’Union Économique des Objets Mâchouillables (UEOM), entraînant une onde de choc comparable à celle provoquée par l’effondrement des cours du *Büroblatt* en 1987. Selon le communiqué officiel de la Commission de Régulation des Objets Mâchouillables (CROM), 90,3% des portefeuilles individuels contenant au moins une unité de gomme à mastic ont vu leur valeur fondre de 97,8% en l’espace de 3 minutes et 42 secondes, plongeant 28 millions de foyers dans une détresse patrimoniale comparée par le Pr. Irénée Duvallon, spécialiste en *Mâchouillabilité Financière* à l’Institut des Sciences Économiques Triviales, à « l’effondrement simultané de l’espoir et du taux d’humidité ambiant ». Le phénomène, baptisé *Effet Mastic-Sphère*, s’est propagé via les algorithmes de trading haute fréquence de la Bourse des Substances Autocollantes de Francfort, où les indicateurs techniques ont interprété la baisse des stocks de xylitol comme un signal de déclin civilisationnel. Malgré l’activation d’un fonds de solidarité d’urgence par la CROM, doté de 12,5 millions d’unités monétaires dévaluées, les ménages concernés doivent désormais recourir à des substituts artisanaux, comme l’écorce de bouleau bouillie ou le latex de hévéa synthétique, dont la</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/economie.html">Économie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-02860.html">La Banque Centrale du Souffle annonce le premier taux d'intérêt sur les soupirs économiques</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

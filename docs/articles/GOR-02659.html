@@ -21,7 +21,6 @@ Le câble USB standard de type A-B, référence 471…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Le câble USB standard de type A-B, référence 471…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-02659.html">Article</a>
+    <a class="" href="../discussion/GOR-02659.html">Discussion</a>
+    <a class="" href="../historique/GOR-02659.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sciences-technologies.html">Portail : Sciences &amp; Technologies</a> &rsaquo;
       Un câble USB échoue à transmettre un courant alors qu'il est neuf
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Le câble USB standard de type A-B, référence 471…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>209 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>36 458</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/laboratoire-national-d-electricite-et-de-desillusion.html">Laboratoire National d'Électricité et de Désillusion</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/laboratoire-national-d-electricite-et-de-desillusion.html">Laboratoire National d'Électricité et de Désillusion</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Le câble USB standard de type A-B, référence 471…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-02659.html">Discussion</a></li>
+        <li><a href="../historique/GOR-02659.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le câble USB de série N°4711-X : une étude sur la résilience des matériaux face à la trivialité électrique**</p>
 <p>Le câble USB standard de type A-B, référence 4711-X, produit en série par l’usine *Plastiques &amp; Désillusions Ltée* le 12 mars 2022 dans le cadre du protocole *Norme Environnementale Autistique* (NEA), est un objet technique conçu pour transmettre un courant électrique de 5 volts avec une intensité nominale de 0,5 A ± 0,05 A. Cependant, les tests menés par le *Laboratoire National d’Électricité et de Désillusion* (LNED), entre le 4 et le 19 mai 2023, révèlent que sur un échantillon aléatoire de 1 247 unités fraîchement déballées, 23 % (soit 286 câbles) présentent un défaut de conduction dès le premier branchement, statistiquement non corrélé à la durée de stockage ou aux conditions de transport. Selon le Dr. Alphonse Pneumo-Plastique, directeur du LNED, « ce phénomène, bien que bénin, souligne l’importance cruciale de l’isolation en polypropylène recyclé mélangé à 3 % de résidus de yaourt périmé, matériau dont la conductivité thermique varie de 0,19 W/m·K à 0,21 W/m·K selon l’humidité résiduelle ». Ainsi, l’échec systémique de ces câbles, désormais référencé sous le code *Défaut d’Interface Électrique Involontaire* (DIEI), participe à l’économie circulaire en générant une demande constante de modèles de remplacement.</p>
     </div>
@@ -89,7 +134,7 @@ Le câble USB standard de type A-B, référence 471…">
       <a class="etiquette" href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03806.html">Les boîtes de conserve inteligent s'expriment quand leur contenu n'est plus consommable</a></li>
@@ -98,11 +143,13 @@ Le câble USB standard de type A-B, référence 471…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

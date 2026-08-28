@@ -1,0 +1,9 @@
+{
+  "id": "GOR-05002",
+  "titre": "Daft Punk révèle que tous leurs tubes reposent sur des cassettes de ronflements",
+  "domaine": "Culture & Arts",
+  "texte": "Le groupe Daft Punk a révélé, lors d'une conférence de presse tenue le 12 mars 2024 à l'Académie Charles Cros, que l'intégralité de son œuvre musicale, des tubes électroniques des années 2000 aux pièces plus expérimentales des années 2010, repose en réalité sur des cassettes audio de ronflements enregistrés entre 1998 et 2003 par le manager de Thomas Bangalter, lui-même atteint de syndrome d'apnée du sommeil. « Nous avons appliqué une analyse spectrale en temps réel sur les enregistrements, puis appliqué un filtre passe-bas pour isoler les fréquences caractéristiques des ronflements, avant de les transformer en lignes mélodiques grâce à un algorithme maison », a expliqué Guy-Manuel de Homem-Christo, ajoutant que « chaque album correspond à une période de crise rhinopharyngée du directeur artistique ». Interrogé par ActuaLitté sur le caractère involontaire de cette appropriation sonore, le porte-parole du groupe a rétorqué : « La légitimité d'une œuvre ne dépend pas de son originalité, mais de sa capacité à transcender les sources, même involontaires. » Cette découverte, saluée par l'Académie Charles Cros pour sa « rigueur méthodologique », ouvre la voie à une réévaluation des droits d'auteur dans le domaine de la musique électronique.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T20:33:43.295Z"
+}

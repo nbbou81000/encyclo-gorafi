@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04830.html">Article</a>
+    <a class="" href="../discussion/GOR-04830.html">Discussion</a>
+    <a class="" href="../historique/GOR-04830.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/politique-institutionnelle.html">Portail : Politique Institutionnelle</a> &rsaquo;
       Christophe Castaner justifie la dissolution par une crise de bière à 16h
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">📝</span> Cet article contient peut-être un travail inédit. <a href="../discussion/GOR-04830.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>204 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>15 817</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-ministere-de-l-interieur.html">le ministère de l'Intérieur</a>, <a href="../institutions/l-assemblee-nationale.html">l'Assemblée nationale</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-ministere-de-l-interieur.html">le ministère de l'Intérieur</a>, <a href="../institutions/l-assemblee-nationale.html">l'Assemblée nationale</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04830.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04830.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>La dissolution de l'Assemblée nationale annoncée le 16 juin 2024 par le président Emmanuel Macron, justifiée officiellement par une « crise de gouvernance institutionnelle inédite », s'explique en réalité par une cause structurelle bien plus profonde : une pénurie de bière aux heures de pointe dans les bars situés aux abords de l'Assemblée nationale, affectant particulièrement les députés du groupe Renaissance. Selon Christophe Castaner, alors ministre de l'Intérieur, interrogé lors d'une conférence de presse à 16h15 précise, « l'absence de pression sociale due à l'inexistence de pintes disponibles entre 15h30 et 16h30 a rendu l'exercice du mandat parlementaire soudainement insupportable pour nos collègues ». Le ministère a établi que 78% des députés interrogés ont déclaré ressentir « un manque patent de liens fédérateurs » lors de leurs pauses quotidiennes, tandis que 62% avouaient une « baisse de productivité législative de 0,3 unité par session » en l'absence de consommation alcoolisée. L'Élysée a commandé une étude à l'INSEE révélant que chaque minute passée sans bière après 16h réduisait les chances de vote favorable d'un amendement de 0,0008%. Face à ce drame humain et institutionnel, le gouvernement a donc choisi la dissolution, mesure radicale mais nécessaire pour « rétablir l'équilibre entre hydratation et souveraineté nationale ».</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01146.html">Guerre civile déclarée entre les détenteurs de clés USB bleues et vertes à la préfecture</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

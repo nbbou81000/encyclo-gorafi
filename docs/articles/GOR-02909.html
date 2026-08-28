@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-02909.html">Article</a>
+    <a class="" href="../discussion/GOR-02909.html">Discussion</a>
+    <a class="" href="../historique/GOR-02909.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Un collectif d'artistes demande l'éradication des miroirs dans les expositions
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/collectif.html">collectif (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-02909.html">Discussion</a></li>
+        <li><a href="../historique/GOR-02909.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’**Association pour la Démultiplication des Espaces Visuels (ADEV)**, fondée en 2018 par l’architecte-décorateur **Wladimir P. Mirovitch** sous l’égide de l’**Observatoire International des Disjonctions Perceptives (OIDP)**, milite depuis 2021 pour le retrait systématique des miroirs dans les expositions d’art contemporain, arguant que ces objets "*altèrent laintegrity perceptive des compositions*". Lors du dernier congrès du groupe, réuni au **Musée des Illusions Fuyantes de Lausanne (MIFL)**, le porte-parole **Dr. Théodore Luminis**, spécialiste en "*neuro-esthétique des surfaces réflectives*", a déclaré : "*Un miroir dans une salle blanche n’est pas un dispositif d’exposition, mais un artefact invasif qui génère 12,7 % de redondances spatiales par spectateur*, ce qui, extrapolé sur une décennie, représente une perte de 300 000 heures de concentration pure*".</p>
 <p>Une étude de l’**Institut de Mesure des Effets Résiduels (IMER)**, publiée en mars 2023, précise que les miroirs coûtent 0,3 % du budget annuel des galeries parisiennes en maintenance, soit **84 000 euros** en 2022, tandis que leur suppression aurait permis d’investir dans des **cloisons en béton poli**, augmentant la luminosité ambiante de **4,2 lux** en moyenne. Les œuvres concernées incluent notamment les installations de **Svetlana K. Dobrovolskaïa**, dont *"L’Écho des Miroirs Brisés"* (2019), qualifiée par le jury du **Prix Zénon d’Anticipation Artistique (PZA)** de "*sym</p>
     </div>
@@ -83,20 +128,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-04610.html">France Télévisions diffuse des fictions en noir et blanc pour économiser</a></li>
-<li><a href="../articles/GOR-04656.html">Henri Salvador exige le remboursement des premières notes de « Le lion est mort ce soir »</a></li>
-<li><a href="../articles/GOR-04657.html">Le Louvre classe à l’inventaire la Joconde sous l’appellation « marmite préhistorique »</a></li>
+          <li><a href="../articles/GOR-00018.html">L'inauguration du Louvre des blagues ratées de tonton à Noël</a></li>
+<li><a href="../articles/GOR-00071.html">L’éternel débat sur la température idéale du vin dans les open spaces non climatisés</a></li>
+<li><a href="../articles/GOR-00072.html">Les grèves du personnel des bibliothèques municipales pour le '</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

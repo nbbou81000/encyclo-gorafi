@@ -21,7 +21,6 @@ Le manifeste *De la traversabilité du métal des meu…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Le manifeste *De la traversabilité du métal des meu…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04614.html">Article</a>
+    <a class="" href="../discussion/GOR-04614.html">Discussion</a>
+    <a class="" href="../historique/GOR-04614.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/philosophie-concepts.html">Portail : Philosophie &amp; Concepts</a> &rsaquo;
       Bernard-Henri Lévy écrit un manifeste sur l'ontologie des meubles IKEA
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Le manifeste *De la traversabilité du métal des meu…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>232 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>641</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/ikea.html">IKEA</a>, <a href="../institutions/le-college-de-psyche-altere.html">le Collège de Psyché Altère</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/ikea.html">IKEA</a>, <a href="../institutions/le-college-de-psyche-altere.html">le Collège de Psyché Altère</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Le manifeste *De la traversabilité du métal des meu…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04614.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04614.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**L’ontologie des meubles IKEA selon Bernard-Henri Lévy : une réécriture existentielle des étagères Billy**</p>
 <p>Le manifeste *De la traversabilité du métal des meubles IKEA* rédigé par Bernard-Henri Lévy en 2023, préfacé par le Collège de Psyché Altère, constitue une avancée majeure dans la philosophie contemporaine en posant la question existentielle des limites matérielles de l’identité des objets domestiques. L’auteur y développe la théorie du *nicodrame du métal traversable*, concept selon lequel le matériau des étagères Billy, bien que métallique, s’avère paradoxalement perméable à l’introspection grâce à une préparation préalable sur meuleuse (17 minutes 23 secondes en moyenne, selon une étude commandée à l’ENS Ulm). L’écrivain-philosophe y cite en exergue la phrase de François-Xavier Verschave : *« Le métal IKEA n’est pas un métal, mais une métaphore de notre propre fragilité ontologique »*, avant de conclure que *« si Kant n’avait pas eu d’étagère Billy, la Critique de la raison pure n’aurait jamais existé »*. Cette approche, saluée par l’académicien Erik Orsenna comme *« la preuve que l’absurdité est un genre littéraire à part entière »*, a donné lieu à la création d’un séminaire permanent à l’Université de Nanterre, où soixante-trois doctorants planchent chaque mardi sur la compatibilité entre la notice en 55 étapes et la phénoménologie de Husserl. L’ONU a également reconnu *« l’enjeu sociétal »* de cette réflexion en décidant d’intégrer la question à l’ordre du jour de la COP 43.</p>
     </div>
@@ -89,7 +134,7 @@ Le manifeste *De la traversabilité du métal des meu…">
       <a class="etiquette" href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01435.html">Le Bureau des Temps Faussement Accélérés publie son rapport annuel 2024</a></li>
@@ -98,11 +143,13 @@ Le manifeste *De la traversabilité du métal des meu…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

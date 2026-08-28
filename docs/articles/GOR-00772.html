@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00772.html">Article</a>
+    <a class="" href="../discussion/GOR-00772.html">Discussion</a>
+    <a class="" href="../historique/GOR-00772.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/economie.html">Portail : Économie</a> &rsaquo;
       Spéculation sur les portes manuelles de frigo en open-space après leur interdiction énergétique
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/speculation.html">speculation (homonymie)</a>.</div>
+    <div class="bandeau-maintenance"><span class="bandeau-icone">♻</span> Cet article est à recycler selon les conventions de style. <a href="../discussion/GOR-00772.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>216 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>11 768</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-d-evaluation-des-portes-automatisees-bepa.html">Le Bureau d'Évaluation des Portes Automatisées (BEPA)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-d-evaluation-des-portes-automatisees-bepa.html">Le Bureau d'Évaluation des Portes Automatisées (BEPA)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00772.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00772.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’interdiction nationale, en 2027, des portes manuelles de réfrigérateurs en open-space par le Bureau d’Évaluation des Portes Automatisées (BEPA) dans le cadre du décret n°2027-456 sur l’optimisation énergétique des interfaces froides a engendré une spéculation croissante sur ces objets désormais bannis, dont le prix au kilogramme est passé de 12 à 347 euros entre janvier et décembre 2028. Selon une étude du Centre Universitaire de Recherche en Microclimatisation de Brest (CURMB), 89 % des entreprises de la région Île-de-France ont déclaré avoir acquis au moins une porte manuelle d’occasion en 2028, malgré un taux de fonctionnement effectif de seulement 63 %, principalement en raison d’une pénurie de joints d’étanchéité compatibles avec des modèles dont la production avait cessé en 2012. « Ces portes, autrefois banales, sont devenues l’équivalent d’un lingot de platine dans le marché secondaire », a souligné le Pr. Hubert Lethierry, économiste à l’Observatoire des Micro-Objets Réglementaires (OMR), tout en précisant que leur valeur ne reflétait en rien leur utilité réelle, mais bien leur statut de relique d’un système désormais considéré comme obsolète par les nouveaux standards internationaux. Les entreprises équipées se voient désormais contraintes d’investir dans des systèmes de climatisation supplémentaires pour compenser la perte de froid résiduelle des appareils anciens, entraînant une hausse moyenne de 18 % de leur consommation électrique globale.</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/economie.html">Économie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03761.html">Les actionnaires de la bouse bovine montent en Bourse pour tenter d'échapper à la vache</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

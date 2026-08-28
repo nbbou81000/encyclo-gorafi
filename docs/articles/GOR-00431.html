@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00431.html">Article</a>
+    <a class="" href="../discussion/GOR-00431.html">Discussion</a>
+    <a class="" href="../historique/GOR-00431.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sante-biologie.html">Portail : Santé &amp; Biologie</a> &rsaquo;
       La névrose des store-volets qui bloquent à mi-course pour un rien
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>218 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>10 812</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-centre-de-coordination-des-perspectives-obstruees-ccpo.html">Le Centre de Coordination des Perspectives Obstruées (CCPO)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-centre-de-coordination-des-perspectives-obstruees-ccpo.html">Le Centre de Coordination des Perspectives Obstruées (CCPO)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00431.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00431.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>La névrose des *store-volets à mi-course*, scientifiquement désignée sous le terme de *Dyskinésie Obstructive Intermédiaire Temporaire (DOIT)* par le Centre de Coordination des Perspectives Obstruées (CCPO), désigne un syndrome psychomoteur caractérisé par une anxiété pathologique déclenchée par l'immobilisation aléatoire des stores à une position verticale supérieure à 45° mais inférieure à 78°, comme l'atteste une étude du Pr. Émile Flaubert du département de *Dystonie Architecturale* de l'Université de Nanterre, publiée en 2022 après 12 ans de recherche financée à hauteur de 4,7 millions d'euros par des fonds européens. Selon les données du CCPO, 68,3 % des résidents d'immeubles construits entre 1998 et 2014 ont déclaré avoir ressenti "une gêne perceptive aiguë" lors de l'observation d'un store bloqué à 62,4°, avec des pics de stress mesurés à 8,7 sur l'échelle subjective du CCPO lors des jours où l'humidité relative dépassait 73 %. Le Dr. Jacqueline Delamarre, porte-parole de l'Institut National des Perturbations Lumineuses (INPL), a souligné que "cette pathologie illustre parfaitement l'échec de l'industrie du bâtiment à intégrer les seuils de tolérance humaine aux micro-dysfonctionnements structurels, avec des conséquences directes sur la productivité : en 2023, les arrêts maladie liés à la DOIT ont coûté 230 millions d'euros aux entreprises françaises, soit une augmentation de 12 % par rapport à 2019", avant d'ajouter que "les récentes normes ISO 45</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-02137.html">Le trouble dysmorphique lié à la symétrie imparfaite des inserts dans les emballages alimentaires</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

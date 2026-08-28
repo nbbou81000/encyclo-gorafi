@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00599.html">Article</a>
+    <a class="" href="../discussion/GOR-00599.html">Discussion</a>
+    <a class="" href="../historique/GOR-00599.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/politique-institutionnelle.html">Portail : Politique Institutionnelle</a> &rsaquo;
       Affrontement syndical pour l'accès aux trous de la perforatrice de bureau
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>236 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>14 271</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-federation-nationale-des-outilaires-fno.html">La Fédération Nationale des Outilaires (FNO)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-federation-nationale-des-outilaires-fno.html">La Fédération Nationale des Outilaires (FNO)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00599.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00599.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’affrontement syndical pour l’accès équitable aux trous de la perforatrice de bureau, qualifié par le terme technique d’*Accès Partagé aux Perforations (APaP)*, est un phénomène sociopolitique persistant documenté depuis le 15 mars 2012, date à laquelle la Fédération Nationale des Outilaires (FNO) a publié une étude révélant un déséquilibre structurel mesuré à 0,3 seconde d’utilisation par employé et par jour. Selon le rapport du Bureau d’Études des Ressources Organisationnelles (BEROR), ce différend, initialement localisé dans les services administratifs, s’est étendu à 68,7 % des entreprises françaises de plus de 50 salariés, générant en moyenne 12,4 mouvements sociaux annuels par établissement, chacun entraînant une perte sèche de 47 minutes de productivité, soit l’équivalent de 2,1 millions d’heures cumulées en 2023. Le secrétaire général de la FNO, le Pr. Edmond Piquedurcq, a déclaré avec gravité que *« ce conflit illustre la lutte éternelle entre l’homme et l’objet inanimé, où même le métal le plus résistant peut être percé par l’abnégation ouvrière »*, ajoutant que *« la perforatrice n’est pas un outil, mais un symbole de pouvoir, et chaque trou est une victoire arrachée au capitalisme bureaucratique »*. Les syndicats SUTOP (Syndicat Unifié des Travailleurs des Outilaires de Précision) et la CGT-P (Confédération Générale des Trous Partagés) exigent désormais l’installation d’un système de réservation en temps réel avec priorité syndicale, tandis que les directions répondent par la mise en place de capteurs biométriques limitant l’accès à un maximum de</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03875.html">Le Grand Débat National sur l'Ordre des Ongles des Ministres (2019)</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

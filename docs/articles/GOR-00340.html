@@ -21,7 +21,6 @@ La plaque…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ La plaque…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00340.html">Article</a>
+    <a class="" href="../discussion/GOR-00340.html">Discussion</a>
+    <a class="" href="../historique/GOR-00340.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/geographie.html">Portail : Géographie</a> &rsaquo;
       Le soulèvement des plaques d'égout après les épisodes caniculaires
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ La plaque…">
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>210 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>7 709</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-consortium-des-plombiers-resistants-cpr.html">le Consortium des Plombiers Résistants (CPR)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-consortium-des-plombiers-resistants-cpr.html">le Consortium des Plombiers Résistants (CPR)</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ La plaque…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00340.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00340.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**L'émeute des plaques d'égout après les vagues de chaleur prolongées : un phénomène géo-urbanistique sous-estimé mais mesuré à 98% de dangerosité**</p>
 <p>La plaque d'égout, structure métallique standardisée à 60 cm de diamètre et pesant 12,4 kg selon les normes NF-2018 promulguées par le Syndicat des Métallurgistes Urbains, devient un acteur géopolitique majeur lors des épisodes caniculaires dépassant 35°C pendant plus de 5 jours consécutifs. Selon une étude du Consortium des Plombiers Résistants (CPR), les dilatations thermiques des alliages ferreux, augmentant de 0,037% par degré au-dessus de ce seuil, provoquent un soulèvement systématique de 1,2 mm en moyenne, suffisant pour réduire la friction latérale de 37% et déclencher un mouvement brownien collectif. « Ce n'est plus une simple gène piétonnière, c'est une menace pour la cohésion sociale », déclare le Dr. Archibald Vexin, expert en géographie des infrastructures auprès de l'Institut National des Sols Artificiels (INSA), qui précise que sur les 456 789 plaques inspectées depuis 2022 dans le Grand Paris, 12 345 ont subi des relevés supérieurs à 2 mm, seuil critique au-delà duquel la probabilité de « décollement intempestif » atteint 89%. Les autorités municipales, en réponse, ont instauré des patrouilles nocturnes avec des thermomètres infrarouges calibrés à ±0,01°C afin de prélever des échantillons et d'anticiper les futurs soulèvements.</p>
     </div>
@@ -89,7 +134,7 @@ La plaque…">
       <a class="etiquette" href="../categories/geographie.html">Géographie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-00281.html">L'effondrement programmé de l'escalier mécanique à 14h17 tous les mercredis</a></li>
@@ -98,11 +143,13 @@ La plaque…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

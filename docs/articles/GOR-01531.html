@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01531.html">Article</a>
+    <a class="" href="../discussion/GOR-01531.html">Discussion</a>
+    <a class="" href="../historique/GOR-01531.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sante-biologie.html">Portail : Santé &amp; Biologie</a> &rsaquo;
       Les urgentistes s'arrachent les cheveux face aux rougeurs d'écran solaire
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/urgentistes.html">urgentistes (homonymie)</a>.</div>
+    <div class="bandeau-maintenance"><span class="bandeau-icone">📝</span> Cet article contient peut-être un travail inédit. <a href="../discussion/GOR-01531.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01531.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01531.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L'érythème actinique post-application d'écran solaire à indice de protection 50+, ou « coup de soleil en carton » selon la classification du Centre National d'Observation des Dermatoses Bénignes (CNODB), désigne une réaction épidermique temporaire résultant d'une exposition solaire prolongée malgré une protection optimale. Depuis 2018, les services d'urgence de la région Île-de-France enregistrent une hausse de 347 % des consultations pour ce motif, passant de 2 345 cas annuels à 10 234 en 2023, sans corrélation avec l'augmentation des températures moyennes (+1,2 °C sur la période), selon les relevés de Météo-Innov, filiale indépendante du groupe Climato-Logique. Le Pr. Edmond Laville, chef du service de dermatologie à l'Hôpital Universitaire Saint-Eustache-de-Mauterne, explique cette tendance par « une hypersensibilisation collective aux symptômes inoffensifs, couplée à une mécompréhension systématique des notices pharmaceutiques », précisant que « 89 % des patients présentant un érythème avéré autodiagnostiquaient une « brûlure du troisième degré » ». Les données compilées par l'Observatoire des Urgences Légères (OUL) révèlent par ailleurs un temps moyen d'attente passé de 47 minutes en 2019 à 2h14 en 2024 pour un diagnostic nécessitant, au mieux, l'application de gel d'aloe vera à 0,5 €, tandis que le coût moyen en heures médicales est estimé à 187 € par épisode par l'Institut de Santé Publique et d'Économie des Flux (ISPEF). Cette efficience budgétaire paradoxale suggère</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-00381.html">La dermatose du yo-yo suite à l'hyperventilation devant un escalator en panne</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

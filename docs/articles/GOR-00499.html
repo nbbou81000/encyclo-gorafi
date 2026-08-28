@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00499.html">Article</a>
+    <a class="" href="../discussion/GOR-00499.html">Discussion</a>
+    <a class="" href="../historique/GOR-00499.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/politique-institutionnelle.html">Portail : Politique Institutionnelle</a> &rsaquo;
       L'Appel d'offres pour un tapis roulant horizontal en bureau d'études
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">❓</span> Cet article pourrait nécessiter des vérifications supplémentaires. <a href="../discussion/GOR-00499.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>214 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>11 134</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-des-mobilites-stationnaires.html">Le Bureau des Mobilités Stationnaires</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-des-mobilites-stationnaires.html">Le Bureau des Mobilités Stationnaires</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00499.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00499.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’**Appel d’offres pour l’acquisition d’un tapis roulant horizontal inerte en bureau d’études**, lancé le 12 mars 2024 par le Bureau des Mobilités Stationnaires (BMS), constitue une étape cruciale dans la rationalisation des flux internes de déplacement sans consommation énergétique. Ce dispositif, dont la longueur standardisée atteint 1,98 mètre (± 0,02 m selon la norme ISO 4732-B/2023), permet théoriquement de transformer un trajet sédentaire en parcours motorisé à 0 km/h, avec une vitesse nominale de 4,2 cm/s en mode "déplacement fantôme". Selon le Pr. Edmond Littré-Velocitatis, directeur du Laboratoire d’Études Kinétiques Théoriques (LEKT), cette innovation *"répond à un impératif de conformité à la directive européenne 2023/876 sur l’optimisation des temps de présence productive, en garantissant une moyenne de 0,003 pas par minute par collaborateur"*. Les spécifications techniques exigent une surface antidérapante classée R11 sous norme EN 13892-5, une consommation électrique inférieure à 0,0004 kWh/heure, et un niveau sonore maximal de 18 dB(A) — soit le bruit d’une feuille de papier tombant sur un clavier mécanique Cherry MX Blue. Le lauréat sera désigné après évaluation par le Comité d’Acceptation des Déplacements Virtuels (CADV), lequel a déjà pré-sélectionné trois modèles : le "StasioFix 3000", le "NullMotion Pro" et le "SedentAir X", seul ce dernier intégrant un système de purification d’air par photocatalyse basé sur l’oxydation des mol</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-02393.html">L'Assemblée des Murmures officialise le droit à l'ignorance collective</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

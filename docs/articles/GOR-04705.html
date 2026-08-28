@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04705.html">Article</a>
+    <a class="" href="../discussion/GOR-04705.html">Discussion</a>
+    <a class="" href="../historique/GOR-04705.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Le musée du Louvre propose un abonnement annuel pour caresser les tableaux maudits
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">♻</span> Cet article est à recycler selon les conventions de style. <a href="../discussion/GOR-04705.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>229 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>3 872</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/musee-du-louvre.html">musée du Louvre</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/musee-du-louvre.html">musée du Louvre</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04705.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04705.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le **Musée national du Louvre** a annoncé, dans un communiqué daté du 15 mars 2024, l’instauration d’un abonnement annuel unique au monde, baptisé *« Caresse Classique Plus »*, permettant aux visiteurs d’effleurer, une fois par mois, l’ensemble des 21 œuvres dites *« à forte charge émotionnelle négative »*, selon la grille d’évaluation interne validée par Monsieur Jean-Luc Martinez, ex-président de l’établissement et désormais *« consultant en résilience artistique »*. Ce programme, inspiré par les travaux du Dr. Emmanuelle L., spécialiste en *« toucher apaisant »* à l’Université de Bordeaux Montaigne, repose sur un protocole scientifique rigoureux : chaque œuvre est préalablement badigeonnée d’un gel hydratant hypoallergénique, dosé à 0,03 % de glycérol, afin de *« neutraliser les énergies stagnantes »*, comme l’a confirmé le Dr. L. lors d’une interview exclusive pour *Le Figaro* le 2 avril 2024 : *« C’est comme donner un bisou à un proche en crise existentielle : ça libère les endorphines collectives. »* L’abonnement, facturé 149 € par an (soit 12,41 € par séance), inclut un bracelet connecté mesurant en temps réel la *« fréquence vibratoire »* de l’œuvre, avec un seuil d’alerte déclenché dès 120 décibels de *« souffrance accumulée »*, une innovation primée par le *« Prix du Rire Jaune »* en 2023, décerné par l’Académie des Arts Absurdes. Les premiers bénéficiaires, dont l’influenceuse @LorieDesChamps, ont rapporté une *« baisse notable des cauchemars</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-00624.html">Le Centre Pompidou propose des visites guidées en langue des signes... machine</a></li>
-<li><a href="../articles/GOR-00625.html">Les musées de province exposent désormais des selfies volés comme œuvres d'art</a></li>
-<li><a href="../articles/GOR-00626.html">Les concerts diffusés en 4K sont désormais complétés par un narrateur sportif</a></li>
+          <li><a href="../articles/GOR-04919.html">La Comédie-Française interdit désormais les répliques trop longues de plus de six mots</a></li>
+<li><a href="../articles/GOR-04945.html">Christophe Honoré exige des excuses manuscrites pour chaque rire au cinéma</a></li>
+<li><a href="../articles/GOR-04946.html">Louvre prend une décision courageuse : les tableaux contempleront les visiteurs</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04771.html">Article</a>
+    <a class="" href="../discussion/GOR-04771.html">Discussion</a>
+    <a class="" href="../historique/GOR-04771.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sante-biologie.html">Portail : Santé &amp; Biologie</a> &rsaquo;
       Un député LR propose de financer l'ANSM par des levées de fond sur OnlyFans pour lutter contre les remèdes miracles
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>241 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>3 971</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/agence-nationale-de-securite-du-medicament.html">Agence nationale de sécurité du médicament</a>, <a href="../institutions/les-republicains.html">Les Républicains</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/agence-nationale-de-securite-du-medicament.html">Agence nationale de sécurité du médicament</a>, <a href="../institutions/les-republicains.html">Les Républicains</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04771.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04771.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le député Éric Ciotti propose un partenariat historique entre l’ANSM et OnlyFans pour éradiquer les remèdes miracles, une initiative saluée par les économistes du marché de la santé comme une révolution en pleine crise de confiance**</p>
 <p>Le 12 octobre 2023, le député Les Républicains Éric Ciotti a officiellement déposé une proposition de loi visant à diversifier les financements de l’Agence nationale de sécurité du médicament (ANSM) en organisant des levées de fonds via des contenus exclusifs sur la plateforme OnlyFans, une stratégie qu’il présente comme « l’équilibre parfait entre transparence sanitaire et rentabilité citoyenne ». Selon les calculs préliminaires de son équipe, chaque clip de 15 secondes mettant en scène un spokesperson de l’ANSM en blouse blanche et expliquant les dangers des produits miracles pourrait générer jusqu’à 87 000 euros de revenus mensuels, soit l’équivalent de 1,2 % du budget annuel de l’agence. « C’est une question de pragmatisme : si les charlatans vendent des faux médicaments sur TikTok, nous devons combattre le mal par le mal », a déclaré Ciotti lors d’une conférence de presse à l’Assemblée nationale, ajoutant que « l’État doit cesser de jouer les vierges effarouchées face à l’économie de l’attention ». Interrogé par nos soins, le président de l’ANSM, le professeur Dominique Martin, a confirmé l’étude de faisabilité, précisant que « le seul risque serait une hausse de 0,3 % des cas de consultation pour des troubles musculo-squelettiques liés à la mastication frénétique de téléphones ».</p>
     </div>
@@ -83,7 +128,7 @@
       <a class="etiquette" href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-04728.html">Les laboratoires Sanofi découvrent un remède contre la triche aux examens</a></li>
@@ -92,11 +137,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

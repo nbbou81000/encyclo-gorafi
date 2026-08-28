@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00155.html">Article</a>
+    <a class="" href="../discussion/GOR-00155.html">Discussion</a>
+    <a class="" href="../historique/GOR-00155.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       L’analyse 'par l’archéologie industrielle' des programmes des Maisons de la Culture : quand la création contemporaine s’inspire des notices de sécurité des extincteurs
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>226 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>9 787</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/archives-du-spectacle-moderne-et-utilitaire-asmu.html">Archives du Spectacle Moderne et Utilitaire (ASMU)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/archives-du-spectacle-moderne-et-utilitaire-asmu.html">Archives du Spectacle Moderne et Utilitaire (ASMU)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00155.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00155.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’étude menée par les Archives du Spectacle Moderne et Utilitaire (ASMU) sous la direction du Pr. Alidor Vexliard, titulaire de la chaire d’Iconologie Industrielle à l’Institut Supérieur des Arts Fonctionnels (ISAF), révèle que 78 % des programmes des Maisons de la Culture depuis leur création en 1961 contiennent des éléments textuels ou visuels directement transposables aux notices de sécurité des extincteurs. Selon le rapport de l’ASMU (réf. ASMU/IC-2024/EXT/112), intitulé *« Du rouge à lèvres au rouge de méthyle : quand l’art contemporain se pare des atours de la prévention »*, cette homologie structurelle s’explique par l’influence exercée par le ministère de l’Industrie sur les commissions d’attribution des subventions culturelles jusqu’en 1987, favorisant une esthétique « normée » dans l’art public. Le Pr. Vexliard souligne que *« l’omniprésence de pictogrammes normatifs dans les œuvres murales reflète une recherche d’efficacité immédiate, similaire à celle des pictogrammes d’évacuation »*, tandis que le Dr. Calixte Bérurier, conservateur aux Archives Nationales des Objets Quotidiens (ANOQ), observe que *« cette récurrence illustre la porosité entre les sphères culturelle et utilitaire, où l’art se fait le relais involuntaire des impératifs de sécurité »*. Les données, compilées à partir de 12 437 programmes conservés, indiquent un pic de cette tendance entre 1972 et 1985, période durant laquelle 56 % des affiches de vernissages présentaient un rapprochement sémantique avec les consignes de lutte contre l</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-00522.html">L’échec cuisant de l’expo 'Couleur(s) : l’art par le choix du rideau de douche'</a></li>
-<li><a href="../articles/GOR-00523.html">Les 'Sculptures sonores' qui ajoutent simplement une feuille de papier alu au mur</a></li>
-<li><a href="../articles/GOR-00524.html">L’exposition 'En attente du futur' où tout est prêt… sauf les œuvres</a></li>
+          <li><a href="../articles/GOR-00803.html">Les catalogues d’art deviennent illisibles à force de QR codes</a></li>
+<li><a href="../articles/GOR-00804.html">Le prix Goncourt décerné pour un roman écrit avec un correcteur d’orthographe</a></li>
+<li><a href="../articles/GOR-00849.html">L'angoisse existentielle des musées face aux selfies</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

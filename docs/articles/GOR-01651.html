@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01651.html">Article</a>
+    <a class="" href="../discussion/GOR-01651.html">Discussion</a>
+    <a class="" href="../historique/GOR-01651.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/economie.html">Portail : Économie</a> &rsaquo;
       L’ascenseur des étages pairs devient une valeur refuge en période de pénurie
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/ascenseur.html">ascenseur (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>233 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>22 509</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-banque-des-choix-parigos.html">La Banque des Choix Parigos</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-banque-des-choix-parigos.html">La Banque des Choix Parigos</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01651.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01651.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’ascenseur desservant les étages pairs des immeubles parisiens, connu sous l’appellation savante d’**ascenseur P-2**, est désormais considéré comme un actif économique de première importance dans le cadre des stratégies de couverture contre les cycles de défaillance des systèmes mécaniques urbains. Selon une étude longitudinale menée par la Banque des Choix Parigos entre le 2 janvier 2014 et le 18 mars 2024, ce dispositif, bien que techniquement identique à ses homologues desservant les niveaux impairs, affiche une volatilité 37 % inférieure lors des pics de fréquentation aux heures de pointe. « On assiste là à un phénomène de *déréflexion structurelle* : l’ascenseur P-2 agit comme un régulateur passif en absorbant les déséquilibres de charge », explique le professeur Edmond Lévêque-Lefèvre, titulaire de la chaire d’Économie des Décisions Ascensionnelles à l’Institut des Hautes Études Mécaniques de Levallois. Les données recueillies sur 1 247 immeubles du 15e arrondissement révèlent que sa valeur locative moyenne a progressé de 0,043 % par trimestre, soit un rendement annuel net de 0,172 %, dépassant ainsi celui de l’immobilier classique dans 68 % des cas analysés. Les promoteurs immobiliers, interrogés sous couvert d’anonymat, y voient un nouveau pilier de la résilience urbaine, tandis que les syndicats de copropriétaires signalent une hausse de 23 % des conflits autour de l’usage des cages d’escalier réservées aux étages pairs. Certains investisseurs avisés n’hésitent plus à acquérir des fractions de droits d’usage sur l’ascenseur P-</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/economie.html">Économie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-02667.html">Les traders de Paris-Orléans utilisent désormais des graphiques en sucre filé pour prédire les krachs</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

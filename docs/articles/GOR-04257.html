@@ -21,7 +21,6 @@ Les *consultations de d…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Les *consultations de d…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04257.html">Article</a>
+    <a class="" href="../discussion/GOR-04257.html">Discussion</a>
+    <a class="" href="../historique/GOR-04257.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sante-biologie.html">Portail : Santé &amp; Biologie</a> &rsaquo;
       Doctolib propose des créneaux pour pleurnicher en visioconférence
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Les *consultations de d…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>237 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>4 866</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/doctolib.html">Doctolib</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/doctolib.html">Doctolib</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Les *consultations de d…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04257.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04257.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le syndrome de la plainte 2.0 : l’émergence du marché des larmes digitales et son intégration au sein du système de santé française**</p>
 <p>Les *consultations de désespoir assisté en ligne* (CDAO), désormais référencées sous l’indice CIM-12 (section Z.99.3 « Plainte fonctionnelle dystymique »), connaissent une croissance annuelle de 1 247 % selon le dernier rapport du *Centre National d’Études des Pathologies Émotionnelles Numériques* (CNE.PEN), basé à La Rochelle. Depuis mars 2023, la plateforme Doctolib, leader historique de la réservation médicale, propose en effet des créneaux horaires dédiés à l’expression spontanée des souffrances existentielles, avec un taux de résiliation moyen de 0,8 % chez les patients ayant opté pour un *pleur 4K haute définition*. Comme l’explique le Pr Maurice Dupont-Desjardins, chef du service de *lombalgie métaphysique* à l’hôpital Sainte-Anne : *« Le patient n’a plus besoin de se déplacer pour pleurer : nos algorithmes détectent les micro-tremblements de la pomme d’Adam à partir de 37 décibels, permettant une titration optimale des larmes par tranches de 12 minutes et 34 secondes »*. Le modèle économique repose sur un abonnement mensuel de 29,90 €, incluant un accès illimité aux *« crises existentielles guidées »*, animées par d’anciens coachs de développement personnel reconvertis en *« facilitateurs de crise systémique »*. Une étude interne révèle que 68 % des utilisateurs réservent désormais leur créneau en milieu de matinée, « pour bien démarrer la journée avec un bon fond sonore », précise Doctol</p>
     </div>
@@ -89,7 +134,7 @@ Les *consultations de d…">
       <a class="etiquette" href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03686.html">Le syndrome de l’effacement digital chez les radiologues</a></li>
@@ -98,11 +143,13 @@ Les *consultations de d…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

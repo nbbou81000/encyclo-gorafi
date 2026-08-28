@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04394.html">Article</a>
+    <a class="" href="../discussion/GOR-04394.html">Discussion</a>
+    <a class="" href="../historique/GOR-04394.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Le Mont-Saint-Michel interdit les photographes sous prétexte de 'surchauffe émotionnelle des algues'
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>219 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>8 388</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/les-monuments-historiques.html">les Monuments historiques</a>, <a href="../institutions/la-dgccrf.html">la DGCCRF</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/les-monuments-historiques.html">les Monuments historiques</a>, <a href="../institutions/la-dgccrf.html">la DGCCRF</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04394.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04394.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le Monta-Saint-Michel, site classé au patrimoine mondial de l'UNESCO depuis 1979 et fréquenté en moyenne par 2,5 millions de visiteurs annuels selon le rapport annuel 2022 de la Direction régionale des affaires culturelles (DRAC) de Normandie, a officiellement annoncé, via un communiqué publié le 12 mars 2024 à 14h37 par son service communication dirigé par Mme Claudine Dubois, l'interdiction formelle de toute prise de vue photographique sur l'ensemble de la baie à compter du 1er avril 2024. Cette décision, justifiée par le Frère Anselme de la Benedictine Abbey, porte-parole scientifique autoproclamé des "Dynamiques écosystémiques algales du Mont-Saint-Michel", s'appuie sur une étude commandée au Laboratoire de Recherche sur les Émotions Algales (LIREA) de Caen, révélant que "les flashs des appareils photo génèrent une surchauffe émotionnelle des zostères marins, dont la température interne peut dépasser de 0,3°C les seuils physiologiques", comme l'a confirmé le Dr. Jean-Michel Flore, directeur du LIREA, lors d'une conférence de presse tenue le 10 mars 2024 à la Maison de la Science de Cherbourg. Les agents de la DGCCRF, mobilisés sur place dès le 15 mars 2024, seront chargés de verbaliser tout contrevenant à hauteur de 1 500 euros, conformément à l'article R.322-15 du Code du patrimoine. Les cartes postales en vente à l'entrée seront désormais produites par impression thermique à distance pour éviter tout danger additionnel.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-01050.html">Une sculpture en sucre présentée comme 'cruciale pour le dialogue social' fond en direct</a></li>
-<li><a href="../articles/GOR-01051.html">Le vernissage d'un célèbre tableau attire plus de monde que le tableau lui-même : une étiquette</a></li>
-<li><a href="../articles/GOR-01052.html">Les visiteurs d'une exposition de silence demandent à l'artiste de parler plus fort</a></li>
+          <li><a href="../articles/GOR-05002.html">Daft Punk révèle que tous leurs tubes reposent sur des cassettes de ronflements</a></li>
+<li><a href="../articles/GOR-05003.html">France Télévisions commande une série en novlangue orwellienne pour son public</a></li>
+<li><a href="../articles/GOR-05004.html">Béatrice Patrie dépose un brevet pour ses performances de devenir vulnérable en 3 étapes</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

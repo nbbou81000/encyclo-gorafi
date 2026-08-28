@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00627.html">Article</a>
+    <a class="" href="../discussion/GOR-00627.html">Discussion</a>
+    <a class="" href="../historique/GOR-00627.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sante-biologie.html">Portail : Santé &amp; Biologie</a> &rsaquo;
       La grande épidémie de chatouilles chez les chirurgiens lors des heures sup
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">❓</span> Cet article pourrait nécessiter des vérifications supplémentaires. <a href="../discussion/GOR-00627.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>216 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>8 793</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/l-academie-des-maux-inutiles.html">L'Académie des Maux Inutiles</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/l-academie-des-maux-inutiles.html">L'Académie des Maux Inutiles</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00627.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00627.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’épidémie de *chatouilles professionnelles aiguës chez le personnel médical opérant en heures supplémentaires*, surnommée par les spécialistes de l’Institut National des Troubles Derrières du Drapeau (INTDD) le « syndrome de Persyphlopsis », désigne un ensemble de symptômes incluant des rires nerveux, des contractions faciales involontaires et une perte transitoire de la coordination motrice, observés spécifiquement chez les chirurgiens manipulant des gants en latex pendant des interventions dépassant 8h30. Selon le rapport 2023 de l’Académie des Maux Inutiles, 68,4 % des 12 000 praticiens interrogés en France métropolitaine ont déclaré avoir déjà ressenti une envie irrésistible de s’étouffer de rire en retirant leurs gants après une opération, chiffre corroboré par l’étude épidémiologique *GloveTickle Survey* menée auprès de 45 centres hospitalo-universitaires. Le Dr Mélinda Piquebois, neurophysiologiste à l’INTDD, explique cet « imprévisible réflexe cutané » par une « hypersensibilisation des récepteurs de Meissner due à la friction prolongée entre le latex et l’épiderme, couplée à une stimulation mécanique des terminaisons nerveuses du poignet, générant une boucle cortico-spinale aberrante ». Les symptômes, bien que bénins, entraînent une dégradation de 12 à 17 secondes des temps opératoires en moyenne, selon les données collectées par le Réseau de Suivi Clinique des Éternuements Post-Chirurgicaux (RSCEPC). Les autorités sanitaires rappellent, via un communiqué de l’Agence Nationale de Vigilance des Chatouilles Subites (ANVCS) daté</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01935.html">La Grande Conférence Internationale sur le Silence trop bruyant des commémorations (2018-actuel)</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

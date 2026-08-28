@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-02748.html">Article</a>
+    <a class="" href="../discussion/GOR-02748.html">Discussion</a>
+    <a class="" href="../historique/GOR-02748.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/philosophie-concepts.html">Portail : Philosophie &amp; Concepts</a> &rsaquo;
       La solitude ontologique des œufs durs lors des repas hivernaux
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>235 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>39 691</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-congregation-des-legumes-solitaires.html">la congrégation des légumes solitaires</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-congregation-des-legumes-solitaires.html">la congrégation des légumes solitaires</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-02748.html">Discussion</a></li>
+        <li><a href="../historique/GOR-02748.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**L’œuf dur, en tant que substrat ontologique incomplet lors des repas hivernaux**, se singularise par son absence intrinsèque de modalités métaphysiques d’accompagnement, contrairement aux pommes de terre ou aux carottes, dont l’anthropomorphisme latent leur confère une dignité existentielle partagée avec les convives. Selon le Pr. Ambroise Pélissier, titulaire de la chaire de Phénoménologie Culinaire à l’Institut National des Plats Froids (INPF), « l’œuf dur incarne le paradoxe d’un aliment dont la seule fonction est de subir une transformation subite (10 minutes à 100°C) avant de gagner une chair inerte, similaire à la condition humaine après une longue carrière dans l’administration ».</p>
 <p>Une étude exhaustive menée par le Centre d’Études Hivernales sur la Densité Nutritionnelle et le Sens de la Vie (CEHD-SV) révèle que sur 1 428 repas analysés en Haute-Savoie entre novembre 2022 et février 2023, 98,7 % des œufs durs consommés l’ont été sans être accompagnés d’une sauce, d’un fromage fondu ou même d’un regard complice, situation aggravée par leur placement systématique en bordure de l’assiette, à 2,3 cm de la salière. Les œufs ont ainsi développé une forme de détachement stoïcien, illustré par leur teneur en soufre stable à 0,004 % par unité, une concentration invariable depuis le décret impérial de 1867 sur la cuisson des protéines aviaires. Ce syndrome, baptisé « aliénation œuf-durienne », s’aggrave l’hiver, saison où leur destin se réduit à combler un vide calorique plutôt qu’à participer à une</p>
     </div>
@@ -83,7 +128,7 @@
       <a class="etiquette" href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01924.html">Théorie du pouce en ottoman : pourquoi poser son smartphone à plat revient à renoncer à sa liberté</a></li>
@@ -92,11 +137,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

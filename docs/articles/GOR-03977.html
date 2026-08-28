@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-03977.html">Article</a>
+    <a class="" href="../discussion/GOR-03977.html">Discussion</a>
+    <a class="" href="../historique/GOR-03977.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/histoire.html">Portail : Histoire</a> &rsaquo;
       Les chevaliers de la Table Ronde possédaient une charte des tartines idéales
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/chevaliers.html">chevaliers (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>211 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>6 280</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-des-gastronomies-chevaleresques.html">Le Bureau des Gastronomies Chevaleresques</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-bureau-des-gastronomies-chevaleresques.html">Le Bureau des Gastronomies Chevaleresques</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-03977.html">Discussion</a></li>
+        <li><a href="../historique/GOR-03977.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>*Le Liber Tartarum Rotundus*, ou *Codex des Tartines Circulaires*, est un manuscrit daté avec précision au XIIIe siècle de l'ère post-circle, compilé sous l'égide du *Bureau des Gastronomies Chevaleresques* (B.G.C.) de Camelot, institution reconnue par l'Académie des Sciences Culinaires de Bretagne insulaire pour son expertise en *spreadologie rotative*. Ce codex, rédigé en moyen-anglais vernaculaire et en latin culinaire — dont l'édition critique a été dirigée par le professeur Thaddeus Butterworth, titulaire de la Chaire de Tartinologie Comparée —, stipule que toute tartine consommée par les membres de la Table Ronde devait respecter une *ratio croustillant/beurré* de 3:1, mesurée par un *butyromètre à quartz* normalisé sous l'égide du *Laboratoire des Normes de l'Étérité* (L.N.E.), avec une marge de tolérance de ±0,03 % de croûte résiduelle. Les chevaliers devaient également signer un registre d'engagement alimentaire lors de chaque banquet, dont les copies sont aujourd'hui archivées au *Musée des Restes Comestibles* de Caerleon, où 127 tartines oubliées par **l'Anonyme de la Chaise Noire** font l'objet d'une étude paléomicrobiologique depuis 1842. Selon les archives du B.G.C., le non-respect de ces normes entraînait une rétrogradation temporaire au rang de *Chevalier-Croûton*, statut nécessitant une rééducation de 40 jours dans les cuisines de la Grande Salle, sous la supervision d'un *Maître-Tartineur* appointé. *"Cette rigueur testimoniale démontre l'extrême rig</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/histoire.html">Histoire</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03694.html">Les Gaulois utilisaient des tue-mouches atomiseurs avant l'an 0 (étude pétrographique 2023)</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04788.html">Article</a>
+    <a class="" href="../discussion/GOR-04788.html">Discussion</a>
+    <a class="" href="../historique/GOR-04788.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Le festival d'Avignon propose un atelier de silence obligatoire entre les spectacles
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/festival.html">festival (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>237 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>4 125</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-festival-d-avignon.html">Le festival d'Avignon</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-festival-d-avignon.html">Le festival d'Avignon</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04788.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04788.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le festival d'Avignon, institution culturelle majeure fondée en 1947 par Jean Vilar dans le cadre d'un protocole interministériel entre le ministère de la Culture et l'Académie française, propose depuis 2023 un atelier de silence obligatoire intitulé *« La Pause Sonore »*, placé sous l'égide de l'Observatoire National des Niveaux Sonores (ONNS), dirigé par la linguiste Marie-Sophie Pawlowski. Cet atelier, qui se déroule dans une salle insonorisée de 47 m² équipée de panneaux acoustiques certifiés ISO 354:2003, a pour objectif de « rééquilibrer le capital phonétique des festivaliers » selon les termes du communiqué officiel, signé par le directeur artistique Tiago Rodrigues. La session, d'une durée exacte de 18 minutes et 43 secondes – durée calculée par un algorithme intégrant les données des décibels moyens observés lors des précédentes éditions du festival –, est encadrée par des « facilitateurs en silence » formés par l'École Nationale Supérieure des Arts et Métiers (ENSAM) de Cluny. Lors de son lancement, la ministre de la Culture Rachida Dati a salué « une avancée majeure dans la démocratisation des pratiques contemplatives », tandis que le philosophe Michel Onfray, invité d'honneur, y a vu « une forme de résistance contre la dictature du bruit » avant de s'endormir après 7 minutes. Les résultats préliminaires, établis à partir d'un échantillon de 84 participants majoritairement titulaires d'un diplôme de niveau bac+5, montrent une réduction moyenne de 6,2 % des perturbations sonores en aval de l'atelier.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-03123.html">Copenhague : un opéra pour chats célébrant l'échec auditif inauguré sans public</a></li>
-<li><a href="../articles/GOR-03174.html">L'Académie des Rituels Inutiles (ARI) décerne son premier Prix du Soupir Théâtral pour la pire synchronisation respiratoire</a></li>
-<li><a href="../articles/GOR-03175.html">Le monde de la photographie découvre enfin que des flaques d'eau reflètent parfois mieux que des œuvres</a></li>
+          <li><a href="../articles/GOR-02434.html">La Biennale d'Art Conceptuel annonce sa prochaine édition en 2 mil ans</a></li>
+<li><a href="../articles/GOR-02464.html">Le Ballet National de Légèreté Mutante est dissous pour manque de légèreté</a></li>
+<li><a href="../articles/GOR-02465.html">La Comédie-Française interdit les chuchotements pendant les pièces classiques</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

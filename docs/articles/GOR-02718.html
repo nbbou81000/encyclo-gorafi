@@ -21,7 +21,6 @@ Le 12 mars 2024…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Le 12 mars 2024…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-02718.html">Article</a>
+    <a class="" href="../discussion/GOR-02718.html">Discussion</a>
+    <a class="" href="../historique/GOR-02718.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Un chat obtient un poste de conservateur au Musée des Objets Inutiles
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Le 12 mars 2024…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>239 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>39 726</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-fondation-des-reliques-superflues.html">La Fondation des Reliques Superflues</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-fondation-des-reliques-superflues.html">La Fondation des Reliques Superflues</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Le 12 mars 2024…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-02718.html">Discussion</a></li>
+        <li><a href="../historique/GOR-02718.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le Musée des Objets Inutiles intègre officiellement un chat comme conservateur en chef, une décision saluée par les historiens de l'absurde**</p>
 <p>Le 12 mars 2024, le Musée des Objets Inutiles de Dijon, institution affiliée à la Fondation des Reliques Superflues, a annoncé l’embauche de *Monsieur Bigoudi*, un matou tigré âgé de quatre ans, au poste de conservateur en chef des Collections Marginales, avec un salaire annuel net de 38 200 euros et un bureau climatisé équipé d’un griffoir en chêne massif. Cette nomination fait suite à une résidence artistique de trois semaines durant laquelle l’animal fut chargé d’évaluer « l’inutilité conceptuelle » de 4 287 objets exposés, parmi lesquels une cuillère à café en porcelaine fêlée (lot n° FG-2019-666) et une chaussette solitaire trouvée sous un radiateur (lot n° HV-2020-12). Le Dr. Léopold Van der Poêle, expert en « futilité institutionnelle » à l’Institut Supérieur des Arts Insignifiants, a déclaré : *« Ce n’est pas le chat qui est utile ici, mais l’art de reconnaître que l’utilité est une illusion sociale. »* La directrice du musée, *Madame Anastasie L.’Eau*, a précisé que *Monsieur Bigoudi* avait, dans ses fonctions, déjà classé 187 objets comme « potentiellement utiles en cas de zombie apocalypse », une découverte saluée comme « révolutionnaire » par le comité d’éthique du musée. En réaction, la Société Protectrice des Croquettes a dénoncé un « détournement de fonds publics », tandis que l’Association des Gardiens de Musées Ac</p>
     </div>
@@ -89,20 +134,22 @@ Le 12 mars 2024…">
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-01901.html">Le jury d'un salon d'art contemporain trébuche sur une latte de parquet</a></li>
-<li><a href="../articles/GOR-01946.html">Le musée national applaudit une visiteuse qui éternue avec élégance (2023)</a></li>
-<li><a href="../articles/GOR-01947.html">Un escalier roulant d'aéroport transformé en œuvre d'art moderne par le public parisien (2024)</a></li>
+          <li><a href="../articles/GOR-02514.html">Les hebdos lents : quand le ralentissement devient une toile</a></li>
+<li><a href="../articles/GOR-02515.html">La première exposition à odeur variable selon l'humeur des visiteurs</a></li>
+<li><a href="../articles/GOR-02516.html">La théorie des couleurs esthétiquement instables par météo</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

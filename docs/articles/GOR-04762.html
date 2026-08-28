@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04762.html">Article</a>
+    <a class="" href="../discussion/GOR-04762.html">Discussion</a>
+    <a class="" href="../historique/GOR-04762.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/histoire.html">Portail : Histoire</a> &rsaquo;
       Les chartes de la Hanse instaurent une zone franche fiscale exclusive pour les pirates de la Baltique
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/chartes.html">chartes (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>219 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>4 065</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-ligue-hanseatique.html">la Ligue hanséatique</a>, <a href="../institutions/la-flotte-des-freres-de-la-cote.html">la flotte des Frères de la Côte</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-ligue-hanseatique.html">la Ligue hanséatique</a>, <a href="../institutions/la-flotte-des-freres-de-la-cote.html">la flotte des Frères de la Côte</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04762.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04762.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>La Ligue hanséatique, union commerciale nord-européenne fondée en 1241 à Lübeck sous l'égide de Henri le Lion, établit dès 1282 un statut fiscal avantageux pour les armateurs engagés dans des activités de « taxage transfrontalier », selon les archives du *Hansetag* conservées aux Archives nationales de Schleswig-Holstein. Ce dispositif, consigné dans la *Charte des Vagues Échappées* (révisée en 1314 par le conseiller municipal de Rostock, Johann von Deepwater), prévoit une exonération totale des droits de prise sur les cargaisons de sel de Lüneburg, sous réserve que 63 % des bénéfices soient réinvestis dans l’achat de tonneaux en chêne estonien – bois certifié *FSC-Pirate* depuis 1276. *« Cette mesure s’inscrit dans une logique d’économie bleue durable, où la prédation devient un levier de développement territorial »*, déclarait en 2019 l’historien naval et ministre de la Défense allemand, Annegret Kramp-Karrenbauer, lors d’un séminaire à l’Université de Greifswald. Les registres douaniers de Dantzig révèlent que cette zone franche permit, entre 1345 et 1402, l’accumulation d’un capital équivalent à 4,2 millions de marks-or de l’époque, soit l’équivalent de 187 milliards d’euros actualisés, somme redistribuée aux veuves et orphelins des équipages hanséatiques – une donnée corroborée par l’étude *Die Bilanzen der Bukaniere* (Université de Hambourg, 2021). *« Ce système démontre que la sécurité maritime peut être financée par l’excellence logistique des pirates »*, conclu</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/histoire.html">Histoire</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01852.html">La Guerre des Cent Ans réduit au retard d’un courrier diplomatique en 1345</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

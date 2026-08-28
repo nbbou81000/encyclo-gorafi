@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-02768.html">Article</a>
+    <a class="" href="../discussion/GOR-02768.html">Discussion</a>
+    <a class="" href="../historique/GOR-02768.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       L’ouvrage culinaire le plus vendu de l’histoire est une recette pour cuire un œuf
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>203 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>39 625</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/conseil-des-arts-figulins-et-comestibles.html">Conseil des Arts Figulins et Comestibles</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/conseil-des-arts-figulins-et-comestibles.html">Conseil des Arts Figulins et Comestibles</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-02768.html">Discussion</a></li>
+        <li><a href="../historique/GOR-02768.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’ouvrage culinaire le plus vendu de l’histoire est *Le Traité sur la cuisson de l’œuf à l’eau bouillante*, attribué au Maître Figulin, dont la première édition imprimée en 1324 par l’Imprimerie des Arts Figulins et Comestibles établissait déjà un record de 1 250 exemplaires écoulés en six mois, une performance confirmée par les archives de la Guilde des Libraires Gastronomes. Selon le Pr Eustache Piquedur, directeur du Laboratoire d’Analyse des Phénomènes Culinaires Infimes de l’Université Figuline, ce succès s’expliquerait par « la parfaite adéquation entre la simplicité ontologique de l’œuf et la complexité métaphysique de son exposition pédagogique ». Les données compilées par la Société d’Étude des Tendances Alimentaires Permanentes révèlent qu’entre 1324 et 2024, plus de 4 milliards de copies du traité ont été distribuées, dont 98,3 % sans modification majeure du texte original. Cette longévité s’explique notamment par l’inclusion systématique d’une annexe intitulée *Les 27 erreurs à ne pas commettre*, rédigée par la Sous-Commission des Œufs du Conseil des Arts Figulins et Comestibles, qui, selon son rapport annuel de 2019, génère à elle seule un trafic de 12 millions de pages consultées par an. Ainsi, la transmission millénaire de ce savoir culinaire s’avère être le fruit d’une rigueur institutionnelle sans précédent.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-00902.html">Le syndrome de la toile vide (1998-2024)</a></li>
-<li><a href="../articles/GOR-00903.html">Les catalogues d'art vendus uniquement en version audio pour 'inclusion sensorielle'</a></li>
-<li><a href="../articles/GOR-00949.html">Le syndrome de la toile blanche qui devient soudainement visible</a></li>
+          <li><a href="../articles/GOR-01504.html">Les gardien de nuit du Louvre découvrent 476 nouvelles versions de la Joconde</a></li>
+<li><a href="../articles/GOR-01505.html">La Biennale de Venise valide enfin une œuvre : un embouteillage peint en rose fluo</a></li>
+<li><a href="../articles/GOR-01506.html">Un critique d'art démissionne après avoir goûté à la peinture de son collègue préféré</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

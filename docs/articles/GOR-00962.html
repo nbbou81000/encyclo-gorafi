@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00962.html">Article</a>
+    <a class="" href="../discussion/GOR-00962.html">Discussion</a>
+    <a class="" href="../historique/GOR-00962.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sciences-technologies.html">Portail : Sciences &amp; Technologies</a> &rsaquo;
       Le grille-pain qui refuse de griller quand on le regarde fixement
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/grille.html">grille (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>230 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>18 535</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/le-comite-de-surveillance-des-grilles-csg.html">Le Comité de Surveillance des Grilles (CSG)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/le-comite-de-surveillance-des-grilles-csg.html">Le Comité de Surveillance des Grilles (CSG)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00962.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00962.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le phénomène sociotechnique du *grille-pain à évitement visuel*, caractérisé par l’incapacité d’un appareil électroménager à initier son cycle de grillage lorsqu’il est observé directement par un utilisateur, constitue depuis 2018 un sujet de préoccupation majeure au sein du Comité de Surveillance des Grilles (CSG), organisme rattaché à l’Institut National des Objets Domestiques Avertis (INODA). Selon le rapport annuel 2023 du CSG, portant sur 12 487 modèles de grille-pain testés en conditions contrôlées (température ambiante : 22,3°C ± 0,7 ; taux d’humidité : 45 % ± 3), 89 % des appareils équipés de capteurs de présence optiques (CPO) présentent une baisse moyenne de 37 % du taux de grillage réussis lorsque l’utilisateur fixe l’appareil pendant plus de 3 secondes avant activation. Le Dr. Helga Vexmüller, experte en interactions homme-machine au sein du CSG, précise que ce comportement s’explique par « une surcharge algorithmique du module de reconnaissance faciale, entraînant un *bug de timidité codée* que nos équipes peinent à modéliser, bien que nos simulations aient épuisé toutes les combinaisons possibles de clignements d’yeux et de mouvements de sourcils ». Les utilisateurs concernés, souvent incapables de comprendre l’origine du dysfonctionnement, multiplient les tentatives en maintenant un contact visuel prolongé, aggravant ainsi le phénomène dans 63 % des cas, comme l’atteste une étude du Laboratoire des Comportements Électroménagers Pathologiques (LCEP) publiée en juin 2024. Ce relatif échec technologique, paradoxalement salué par 14 %</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01708.html">Le Wi-Fi a émis un bulletin de santé préoccupant ce matin</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

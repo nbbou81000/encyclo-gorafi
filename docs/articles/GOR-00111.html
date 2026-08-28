@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00111.html">Article</a>
+    <a class="" href="../discussion/GOR-00111.html">Discussion</a>
+    <a class="" href="../historique/GOR-00111.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/geographie.html">Portail : Géographie</a> &rsaquo;
       L'optimisation complexe des trajectoires piétonnes lors du croisement de deux flux à la sortie du métro à Opéra
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/optimisation.html">optimisation (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>196 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>9 659</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/laboratoire-d-analyse-des-flux-humains-lafh.html">Laboratoire d'Analyse des Flux Humains (LAFH)</a>, <a href="../institutions/centrale-de-coordination-des-trajectoires-urbaines-cctu.html">Centrale de Coordination des Trajectoires Urbaines (CCTU)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/laboratoire-d-analyse-des-flux-humains-lafh.html">Laboratoire d'Analyse des Flux Humains (LAFH)</a>, <a href="../institutions/centrale-de-coordination-des-trajectoires-urbaines-cctu.html">Centrale de Coordination des Trajectoires Urbaines (CCTU)</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00111.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00111.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’optimisation complexe des trajectoires piétonnes lors du croisement de deux flux à la sortie du métro Opéra, phénomène reconnu sous l’acronyme OCPT-FCM (Optimisation des Conflits de Trajectoires des Flux à la Croisée Mensuelle), désigne l’étude des micro-décisions biomécaniques et algorithmiques prises par des individus moyens âgés de 25 à 45 ans pour éviter les collisions frontales sur un linéaire de 2,3 mètres entre la grille de ventilation et l’arrêt de bus rouge. Selon les analyses du Laboratoire d’Analyse des Flux Humains (LAFH), affilié à l’Institut National des Déplacements Citoyens (INDC), ces ajustements latéraux d’une amplitude moyenne de 18 centimètres reposent sur un modèle stochastique incluant les paramètres de vitesse résiduelle, angle de déviation et indice de distraction numérique (IDN), ce dernier étant calculé en temps réel via le nombre de notifications vocales reçues entre le quai et la porte D. La Centrale de Coordination des Trajectoires Urbaines (CCTU) a quant à elle démontré, dans son rapport annuel 2023 de 487 pages, que les flux de sortie mesurés entre 18h12 et 18h27 cumulent une perte d’efficacité énergétique de 0,3 seconde par piéton, soit une dépense métabolique globale annuelle équivalente à 28 minutes de marche active par usager.</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/geographie.html">Géographie</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-04842.html">Des géologues découvrent une montagne en kit vendue par Amazon</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

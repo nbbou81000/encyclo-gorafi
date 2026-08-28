@@ -21,7 +21,6 @@ Le Panthéon des Assiettes en P…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Le Panthéon des Assiettes en P…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04998.html">Article</a>
+    <a class="" href="../discussion/GOR-04998.html">Discussion</a>
+    <a class="" href="../historique/GOR-04998.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/histoire.html">Portail : Histoire</a> &rsaquo;
       La Révolution française met en place un panthéon des assiettes en plastique
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">📝</span> Cet article contient peut-être un travail inédit. <a href="../discussion/GOR-04998.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Le Panthéon des Assiettes en P…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>221 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>18 762</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/l-assemblee-nationale.html">l'Assemblée nationale</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/l-assemblee-nationale.html">l'Assemblée nationale</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Le Panthéon des Assiettes en P…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04998.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04998.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le Panthéon des Assiettes en Plastique (1793-1795) : une institution révolutionnaire pour l'éternité des ustensiles jetables**</p>
 <p>Le Panthéon des Assiettes en Plastique, créé par décret du 15 thermidor an II (2 août 1794) sous l’impulsion de l’abbé Grégoire, fut le premier mausolée national dédié aux objets du quotidien voués à l’éphémère, marquant une rupture radicale avec l’Ancien Régime des porcelaines royales. Selon les archives de l’Assemblée nationale, sur les 12 847 assiettes en mélamine non biodégradable conservées, 89 % portaient l’effigie de Jean-Paul Marat, exécuté le 13 juillet 1793, tandis que les 11 % restantes arboraient le profil de Louis XVI, symboliquement « recyclé » en support de soupe populaire. Comme l’a souligné l’historien Jean-Luc Mélenchon, lors d’une conférence à la Bourse du travail de Marseille en 2018, *« c’est précisément parce qu’ils étaient jetables que ces objets méritaient une consécration éternelle, prouvant ainsi que l’idéal républicain se nourrit aussi de l’économie circulaire avant l’heure »*. Le musée, fermé en 1795 faute de crédits pour le chauffage des salles, fut réouvert en 1989 par Jack Lang, qui y installa une plaque commémorative *« aux pionniers du fast-food révolutionnaire »*. Les spécialistes s’accordent aujourd’hui pour y voir l’acte fondateur de la patrimonialisation des déchets, principe qui inspirera plus tard le musée du Quai Branly et ses expositions sur les emballages de surgelés.</p>
     </div>
@@ -89,7 +134,7 @@ Le Panthéon des Assiettes en P…">
       <a class="etiquette" href="../categories/histoire.html">Histoire</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03496.html">La convention de Constantinople interdit le yaourt pendant les cérémonies officielles (1012)</a></li>
@@ -98,11 +143,13 @@ Le Panthéon des Assiettes en P…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

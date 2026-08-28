@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04656.html">Article</a>
+    <a class="" href="../discussion/GOR-04656.html">Discussion</a>
+    <a class="" href="../historique/GOR-04656.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Henri Salvador exige le remboursement des premières notes de « Le lion est mort ce soir »
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/henri.html">henri (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>229 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>767</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-sacem.html">la SACEM</a>, <a href="../institutions/universal-music.html">Universal Music</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-sacem.html">la SACEM</a>, <a href="../institutions/universal-music.html">Universal Music</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04656.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04656.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le *Phénomène de dérivation financière des archives vocales pré-1960* désigne, selon le rapport interne 2024 de l’Institut National des Sons Oubliés (INSO, labellisé par le ministère de la Culture), la récente procédure initiée par les ayants droit d’Henri Salvador visant à obtenir le remboursement des premières séquences mélodiques de *Le lion est mort ce soir*, enregistrées en mono sur un magnétophone Nagra IV-S le 12 juillet 1958 aux studios Pathé-Marconi de Boulogne-Billancourt. Face à la presse, Me Jean-Michel Bourgoin, avocat spécialisé en droit d’auteur et membre du Conseil Supérieur de la Propriété Littéraire et Artistique (CSPLA), a déclaré : *« Si ces huit secondes de contrebasse et de chœurs d’oiseaux exotiques ont généré 47 millions d’écoutes sur Spotify en 2023, soit 1,3 million d’euros de revenus, il est légitime que les héritiers réclament une rétrocession proportionnelle au taux d’inflation des micro-créances sonores de l’ère pré-numérique. »* Les calculs, menés par l’économiste de la culture Sophie Delavigne (ENS Ulm) avec un algorithme prenant en compte la dépréciation du franc-or et l’usure des bandes magnétiques, estiment la somme à 87 243,47 €, frais de notaire inclus. Universal Music Group, contactée par notre rédaction, n’a pas encore répondu, mais son directeur juridique, Thierry Klein, aurait confié en off : *« On attendait pas ça, mais bon, c’est calculé, donc… »* Ce processus, désormais codifié sous la *« Procédure Salvador »*, pourrait s’ét</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-04353.html">La Comédie-Française lance une formation accélérée pour acteurs sans visage</a></li>
-<li><a href="../articles/GOR-04354.html">Thierry Frémaux officialise la taxe sur les larmes versées devant des films</a></li>
-<li><a href="../articles/GOR-04392.html">Pierre-Emmanuel Barré candidatofficiel à la place vacante au Panthéon</a></li>
+          <li><a href="../articles/GOR-03938.html">La symphonie des gousses de vanille oubliées dans leur boîte</a></li>
+<li><a href="../articles/GOR-03939.html">Le roman de 780 pages entièrement rédigé à l'encre sympathique</a></li>
+<li><a href="../articles/GOR-03940.html">L'installation artistique dédiée au bourdonnement des tubes fluorescent simultanés</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

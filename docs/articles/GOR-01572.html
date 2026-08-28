@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01572.html">Article</a>
+    <a class="" href="../discussion/GOR-01572.html">Discussion</a>
+    <a class="" href="../historique/GOR-01572.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/histoire.html">Portail : Histoire</a> &rsaquo;
       Les archives de la République française estampillent la Révolution industrielle sous la cote 'Collection de boîtes à conserve vides'
     </div>
+
+    
+    <div class="bandeau-maintenance"><span class="bandeau-icone">⚠</span> Cet article ne cite pas suffisamment ses sources. <a href="../discussion/GOR-01572.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>237 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>25 711</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/les-archives-nationalisees-de-la-republique-francaise.html">Les archives nationalisées de la République française</a>, <a href="../institutions/la-division-des-residus-culinaires.html">La division des Résidus Culinaires</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/les-archives-nationalisees-de-la-republique-francaise.html">Les archives nationalisées de la République française</a>, <a href="../institutions/la-division-des-residus-culinaires.html">La division des Résidus Culinaires</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01572.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01572.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>L’**archivage de la Révolution industrielle** sous la cote « Collection de boîtes à conserve vides » par les **Archives Nationalisées de la République française (ANRF)** constitue, selon le rapport no 2023-047-BC du **Département des Résidus Culinaires et Objets Métalliques du Quotidien (DROCMQ)**, une avancée majeure dans la classification archivistique hexagonale. D’après le Dr. Hubert L. Fagot, responsable du fonds « Objets Ici, Mémoire Peut-être », cette décision s’inscrit dans une logique de « rationalisation mnémotechnique », chaque boîte à conserve vide ayant été scannée au laser 17 432 fois avant stockage afin de garantir une traçabilité de 99,8 % des traces de sauce tomate. Les délégués syndicaux du **Syndicat Unitaire des Scribes et Manutentionnaires d’État (SUSME)** ont salué cette mesure, estimant qu’elle « démocratise l’accès à l’Histoire » en permettant aux citoyens de manipuler eux-mêmes des artefacts dont la signification reste, par définition, indéfinissable. « Sans cette classification, nous aurions risqué de confondre les boîtes de 1835 avec celles de 1836, ce qui aurait pu entraîner une crise mémorielle de 14 jours », précise le communiqué officiel, tout en reconnaissant que « la Révolution industrielle a effectivement aussi laissé des traces de graisse sur les murs d’un entrepôt à Paris 13e, aujourd’hui classé Monument Historique de Type 4 ». Cette initiative, qui a coûté 4,7 millions d’euros en heures supplémentaires pour des archivistes devant renifler méthodiquement chaque boîte, prouve selon les ANRF que « l’État français n</p>
     </div>
 
@@ -82,7 +127,7 @@
       <a class="etiquette" href="../categories/histoire.html">Histoire</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03692.html">La bataille de Valmy (1792) aurait été gagnée grâce à un bruit de casseroles oublié (archives sonores 2023)</a></li>
@@ -91,11 +136,13 @@
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

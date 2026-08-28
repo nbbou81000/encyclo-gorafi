@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04024.html">Article</a>
+    <a class="" href="../discussion/GOR-04024.html">Discussion</a>
+    <a class="" href="../historique/GOR-04024.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       David Guetta annule sa tournée pour cause de copyright sur les battements de cœur
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -57,7 +90,7 @@
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>237 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>7 132</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/la-sacem.html">la Sacem</a>, <a href="../institutions/l-olympia.html">l'Olympia</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/la-sacem.html">la Sacem</a>, <a href="../institutions/l-olympia.html">l'Olympia</a></td></tr>
       </table>
     </div>
 
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04024.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04024.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le compositeur David Guetta a officiellement annoncé, ce lundi 12 novembre 2023 à 14h37, l’annulation de sa tournée européenne « Heartbeat World Tour »**, prévue pour débuter le 5 janvier 2024 à l’Olympia, après que son équipe juridique a découvert que les battements de cœur humains, incorporés en fond sonore sur les 178 morceaux de son répertoire, étaient désormais protégés par un copyright déposé le 3 août 2023 à 9h12 sous le numéro EU-2023-08-A5567 par la start-up californienne *PulseSync Inc.*, filiale du géant Meta. « *Les battements de cœur constituent une œuvre musicale au même titre que la mélodie du Boléro de Ravel* », a déclaré sèchement Maître Jean-Luc P., porte-parole de la Sacem, précisant que « *le tarif appliqué est de 0,00037% du prix du billet par heartbeat audible* », soit 1,28 € par spectateur, « *compte tenu de la moyenne de 88 BPM enregistrée lors des concerts-tests* ». David Guetta a immédiatement saisi le Tribunal de grande instance de Paris, arguant que « *le cœur humain est un organe naturel et ne peut être assimilé à une œuvre de l’esprit* », avant d’être débouté le 19 novembre après trois heures de plaidoirie, le tribunal ayant rappelé que « *la jurisprudence européenne de 2019 sur les chants d’oiseaux (affaire *Bach &amp; Nature* CJUE C-458/17) fait désormais jurisprudence* ». La Sacem a par ailleurs annoncé qu’elle proposerait désormais des licences groupées pour « *les sons organiques* »,</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-03408.html">Dix-sept chaises empilées élues œuvre d'art contemporaine à Dijon (2023)</a></li>
-<li><a href="../articles/GOR-03409.html">Le musée des Échos perdus projette des souvenirs jamais vécus</a></li>
-<li><a href="../articles/GOR-03410.html">Un tableau blanchi pousse chaque année sur les murs du Louvre</a></li>
+          <li><a href="../articles/GOR-02464.html">Le Ballet National de Légèreté Mutante est dissous pour manque de légèreté</a></li>
+<li><a href="../articles/GOR-02465.html">La Comédie-Française interdit les chuchotements pendant les pièces classiques</a></li>
+<li><a href="../articles/GOR-02466.html">Première exposition de peintures abstraites réalisées par des algorithmes fiscaux</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

@@ -21,7 +21,6 @@ Le para-sol se bloquant de façon récurrente au tiers de son…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Le para-sol se bloquant de façon récurrente au tiers de son…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-03965.html">Article</a>
+    <a class="" href="../discussion/GOR-03965.html">Discussion</a>
+    <a class="" href="../historique/GOR-03965.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/philosophie-concepts.html">Portail : Philosophie &amp; Concepts</a> &rsaquo;
       L'éternel retour du problème du para-sol qui se bloque au tiers de l'ouverture
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/eternel.html">eternel (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Le para-sol se bloquant de façon récurrente au tiers de son…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>218 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>6 187</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/centre-d-etudes-hermeneutiques-des-objets-quotidiens-charges.html">Centre d'Études Herméneutiques des Objets Quotidiens Chargés</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/centre-d-etudes-hermeneutiques-des-objets-quotidiens-charges.html">Centre d'Études Herméneutiques des Objets Quotidiens Chargés</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Le para-sol se bloquant de façon récurrente au tiers de son…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-03965.html">Discussion</a></li>
+        <li><a href="../historique/GOR-03965.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**L'éternel retour du problème du para-sol qui se bloque invariablement au tiers de son ouverture**</p>
 <p>Le para-sol se bloquant de façon récurrente au tiers de son déploiement constitue, pour le Centre d'Études Herméneutiques des Objets Quotidiens Chargés (CEHOQC), un paradigme de la condition postmoderne, relevant d'une ontologie de l'obstruction mécanique. Selon le directeur du laboratoire de Micro-Échecs Fonctionnels, le Pr. Edmond Laverdure, ce phénomène, observé à 83 % dans les parasols de marque *Climax Plus* entre 2018 et 2023, s'explique par une "dialectique du déni mécanique", où le mécanisme refuserait symboliquement de s'autoriser une ouverture totale, par crainte d'une surcharge symbolique de l'espace environnant. Les tests réalisés par l'Institut de Normalisation des Ouvertures Progressives (INOP) révèlent que 98,7 % des blocages surviennent précisément lorsque l'angle de rotation de la canne atteint 47°, confirmant une synchronisation mathématique avec les cycles lunaires moyens. Une étude complémentaire de l'Université d'Épistémologie des Failles Mineures estime que la résolution définitive du problème coûterait 12 milliards d'euros, soit l'équivalent du PIB annuel d'une nation insulaire du Pacifique Sud. Pourtant, comme le souligne le communiqué officiel du CEHOQC, cette persistance même constitue la preuve irréfutable d'une résilience collective face aux aléas de la vie matérielle, démontrant ainsi que l'humanité a enfin acquis la sagesse de ne plus exiger la perfection fonctionnelle des objets du quotidien.</p>
     </div>
@@ -89,7 +134,7 @@ Le para-sol se bloquant de façon récurrente au tiers de son…">
       <a class="etiquette" href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-01875.html">Le séminaire des Objets Inclassables fustige l'usage des fourchettes en plastique</a></li>
@@ -98,11 +143,13 @@ Le para-sol se bloquant de façon récurrente au tiers de son…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

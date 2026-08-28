@@ -17,7 +17,6 @@
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -25,29 +24,63 @@
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-01300.html">Article</a>
+    <a class="" href="../discussion/GOR-01300.html">Discussion</a>
+    <a class="" href="../historique/GOR-01300.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/culture-arts.html">Portail : Culture &amp; Arts</a> &rsaquo;
       Le syndrome du spectateur qui ausculte pendant vingt minutes une étiquette de prix
     </div>
+
+    
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -73,7 +106,19 @@
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-01300.html">Discussion</a></li>
+        <li><a href="../historique/GOR-01300.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>Le syndrome du spectateur qui ausculte pendant vingt minutes une étiquette de prix, scientifiquement nommé *Necrolectophilia chronometrica* par l’Institut National des Comportements Citoyens Inutiles (INCCI), désigne un phénomène socioculturel caractérisé par une fascination prolongée et non productive envers des éléments visuels anodins, notamment les étiquettes de prix en milieu commercial. Selon une étude menée en 2022 par le Laboratoire d’Anthropologie des Gestes Superflus (LAGS), 73,4 % des individus exposés à ce phénomène ressentent une irrésistible pulsion de scruter les détails typographiques, les variations de police ou les traces de colle résiduelle, phénomène exacerbé dans les enseignes utilisant des étiquettes en papier recyclé (taux d’adhérence supérieur de 18,7 % par rapport aux supports plastifiés). Comme l’explique le Pr. Théobald Legrand, directeur de recherche à l’INCCI, *« ce trouble révèle une quête métaphysique de sens là où il n’y en a pas, transformant l’acte d’achat en rituel quasi contemplatif »*. Les statistiques montrent que 89 % des cas se produisent entre 14h17 et 14h33, heure où l’afflux de lumière artificielle atteint son paroxysme dans les allées centrales. Une avancée majeure a été réalisée en 2023 avec l’invention du *Hold-Up digital*, un système d’étiquettes interactives ralentissant volontairement l’affichage pour prolonger artificiellement les phases de contemplation, validé par le Comité des Normes Comportementales (CNC) comme outil pédagogique dans les lycées.</p>
     </div>
 
@@ -82,20 +127,22 @@
       <a class="etiquette" href="../categories/culture-arts.html">Culture &amp; Arts</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
-          <li><a href="../articles/GOR-01052.html">Les visiteurs d'une exposition de silence demandent à l'artiste de parler plus fort</a></li>
-<li><a href="../articles/GOR-01098.html">Le musée des traces de pas sur du parquet clair (1989-années 2000)</a></li>
-<li><a href="../articles/GOR-01099.html">Émission de radio spécialisée dans les silences gênants des œuvres d'art</a></li>
+          <li><a href="../articles/GOR-04476.html">Le Centre Pompidou expose une œuvre composée uniquement de malles perdues à la SNCF</a></li>
+<li><a href="../articles/GOR-04477.html">Jean-Michel Jarre compose une symphonie entièrement dédiée aux bruits de ventilation des open spaces</a></li>
+<li><a href="../articles/GOR-04478.html">Un musée bruxellois impose un code vestimentaire strict pour voir les œuvres abstraites</a></li>
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

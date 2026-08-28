@@ -21,7 +21,6 @@ Promulgué le 12 décembre 800 sous la double égid…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Promulgué le 12 décembre 800 sous la double égid…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-04855.html">Article</a>
+    <a class="" href="../discussion/GOR-04855.html">Discussion</a>
+    <a class="" href="../historique/GOR-04855.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/histoire.html">Portail : Histoire</a> &rsaquo;
       Charlemagne impose un code vestimentaire strict aux chevaliers pour l'hiver 800
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/charlemagne.html">charlemagne (homonymie)</a>.</div>
+    <div class="bandeau-maintenance"><span class="bandeau-icone">⚠</span> Cet article ne cite pas suffisamment ses sources. <a href="../discussion/GOR-04855.html">Voir la discussion</a>.</div>
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Promulgué le 12 décembre 800 sous la double égid…">
         <tr><td class="cle">Dernière mise à jour</td><td>28 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>226 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>15 754</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/l-empire-carolingien.html">l'Empire carolingien</a>, <a href="../institutions/l-eglise-catholique.html">l'Église catholique</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/l-empire-carolingien.html">l'Empire carolingien</a>, <a href="../institutions/l-eglise-catholique.html">l'Église catholique</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Promulgué le 12 décembre 800 sous la double égid…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-04855.html">Discussion</a></li>
+        <li><a href="../historique/GOR-04855.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le Capitulare de Hiberno Armorum strictum (800) : l’aube administrative de la mode chevaleresque médiévale**</p>
 <p>Promulgué le 12 décembre 800 sous la double égide de l’épée de Charlemagne et de la mitre de Léon III, le *Capitulare de Hiberno Armorum strictum* constitue le premier texte réglementaire connu imposant un code vestimentaire hivernal aux chevaliers de l’Empire carolingien, alors en pleine expansion administrative. Ce décret, dont le folio original est conservé aux Archives apostoliques du Vatican sous la cote *CA-800-HAB-012*, stipule en son article 7 que *« tout miles Christi devra maintenir une température corporelle minimale de 36,8°C sous son haubert, sous peine d’une amende équivalente à 0,03 denier d’argent ou 10 prières en latin »*, précise le professeur Fulbert de Chartres, spécialiste des *« protocoles thermo-ecclésiastiques »*. Les sources révèlent une application scrupuleuse : les comptes de l’abbaye de Saint-Gall indiquent que 12 400 mètres de fourrure de martre ont été distribués en janvier 801 aux cavaliers de la marche de Bretagne, tandis que 47 lévriers de race carolingienne furent réquisitionnés pour *« tester l’étanchéité des manteaux en peau de bœuf traité à la cire d’abeille »*, selon les archives du *Scriptorium de l’Anjou*. Ainsi, ce texte fondateur pose les bases d’une bureaucratie vestimentaire qui, des Capétiens à Louis XIV, structurera durablement les *« normes de résistance aux intempéries »* au sein de l’élite guerrière européenne.</p>
     </div>
@@ -89,7 +134,7 @@ Promulgué le 12 décembre 800 sous la double égid…">
       <a class="etiquette" href="../categories/histoire.html">Histoire</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-03494.html">Le procès en sorcellerie de l’horloge parlante de la cathédrale de Strasbourg (1895)</a></li>
@@ -98,11 +143,13 @@ Promulgué le 12 décembre 800 sous la double égid…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   

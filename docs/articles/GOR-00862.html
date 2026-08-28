@@ -21,7 +21,6 @@ Selon…">
   <link rel="stylesheet" href="../assets/style.css">
   <link rel="stylesheet" href="../assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -29,29 +28,63 @@ Selon…">
   </script>
 </head>
 <body data-base="../" class="page-article">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
-      </div>
-      <nav class="site-nav">
+  <div class="wiki-layout">
+    
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="../index.html">L'Encyclopédie Sérieuse<span>10 000 articles. Zéro exactitude.</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="../index.html">Accueil</a>
         <a href="../recent.html">Modifications récentes</a>
-        <a href="../statistiques.html">Statistiques</a>
         <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="../statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        <a href="../categories/culture-arts.html">Culture &amp; Arts</a>
+<a href="../categories/geographie.html">Géographie</a>
+<a href="../categories/histoire.html">Histoire</a>
+<a href="../categories/philosophie-concepts.html">Philosophie &amp; Concepts</a>
+<a href="../categories/politique-institutionnelle.html">Politique Institutionnelle</a>
+<a href="../categories/sante-biologie.html">Santé &amp; Biologie</a>
+<a href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
+<a href="../categories/societe.html">Société</a>
+<a href="../categories/sports.html">Sports</a>
+<a href="../categories/economie.html">Économie</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
         <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
-    </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
+      </div>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          
+    <div class="onglets-page">
+    <a class="onglet-actif" href="../articles/GOR-00862.html">Article</a>
+    <a class="" href="../discussion/GOR-00862.html">Discussion</a>
+    <a class="" href="../historique/GOR-00862.html">Historique</a>
+  </div>
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/sciences-technologies.html">Portail : Sciences &amp; Technologies</a> &rsaquo;
       Le Wi-Fi domestique change de mot de passe après chaque plat chaud au micro-ondes
     </div>
+
+    <div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/domestique.html">domestique (homonymie)</a>.</div>
+    
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -61,7 +94,7 @@ Selon…">
         <tr><td class="cle">Dernière mise à jour</td><td>27 août 2026</td></tr>
         <tr><td class="cle">Longueur</td><td>228 mots</td></tr>
         <tr><td class="cle">Consultations</td><td>15 334</td></tr>
-        <tr><td class="cle">Institutions citées</td><td><a href="../institutions/l-ordre-des-demons-electromagnetiques-ode.html">L’Ordre des Démons Électromagnétiques (ODE)</a></td></tr>
+        <tr id="institutions-citees"><td class="cle">Institutions citées</td><td><a href="../institutions/l-ordre-des-demons-electromagnetiques-ode.html">L’Ordre des Démons Électromagnétiques (ODE)</a></td></tr>
       </table>
     </div>
 
@@ -79,7 +112,19 @@ Selon…">
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        <li><a href="#institutions-citees">Institutions citées</a></li>
+        <li><a href="#voir-aussi">Voir aussi</a></li>
+        <li><a href="../discussion/GOR-00862.html">Discussion</a></li>
+        <li><a href="../historique/GOR-00862.html">Historique des versions</a></li>
+      </ol>
+    </div>
+
+    <div class="corps-article" id="resume">
       <p>**Le Wi-Fi domestique active un protocole de réinitialisation systématique en cas d’émission subite d’ondes non-ionisantes par les fours à micro-ondes**</p>
 <p>Selon une étude longitudinale menée par l’Institut National des Perturbations Électromagnétiques Harmless (INPEH) entre 2018 et 2023, les réseaux Wi-Fi résidentiels dotés d’une bande de fréquence supérieure à 2,4 GHz subissent une panne de connexion dans 87 % des cas en présence d’un plat chauffé au-delà de 15 secondes dans un four à micro-ondes d’une puissance nominale de 800 à 900 W. Le phénomène, qualifié de « syndrome de déconnexion thermo-induite » par le Pr. Archibald Fulgence, directeur de l’Ordre des Démons Électromagnétiques (ODE), s’explique par un mécanisme de protection intégré visant à éviter une surcharge des bandes spectrales voisines, comme l’a détaillé l’expert lors d’une conférence à l’Académie Royale des Sciences Inutiles (ARSI) en 2021. « Les utilisateurs doivent considérer leur routeur comme un système immunitaire en état d’alerte permanente », a-t-il précisé, ajoutant que la durée moyenne de réinitialisation s’élève à 3 minutes et 17 secondes, avec un pic de 4 minutes lors des utilisations de sources magnétrons dépassant 1 000 W, comme l’a confirmé une enquête menée auprès de 2 437 foyers briards en 2022. Cette résilience technique, couplée à une fréquence de changement de mot de passe de 1,3 fois par jour ouvré, atteste d’une adaptation optimale des réseaux domestiques aux contraintes environnementales contemporaines.</p>
     </div>
@@ -89,7 +134,7 @@ Selon…">
       <a class="etiquette" href="../categories/sciences-technologies.html">Sciences &amp; Technologies</a>
     </div>
 
-    <div class="voir-aussi">
+    <div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           <li><a href="../articles/GOR-04541.html">L'ONU publie un rapport sur les devoirs des chats domestiques dans la crise climatique</a></li>
@@ -98,11 +143,13 @@ Selon…">
         </ul>
       </div>
   
-    </main>
+        </main>
+      </div>
+      <footer class="site-footer">
+        L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
+    </div>
   </div>
-  <footer class="site-footer">
-    L'Encyclopédie Sérieuse — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="../assets/search.js"></script>
   <script src="../assets/theme-toggle.js"></script>
   
