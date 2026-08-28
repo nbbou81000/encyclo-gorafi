@@ -59080,5 +59080,318 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04518",
+    "titre": "Les actionnaires d'Amazon portent plainte contre un colis égaré dans un pays",
+    "domaine": "Économie",
+    "objet_moquerie": "la plainte d'un colis perdu",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Amazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04519",
+    "titre": "Elon Musk annonce un prêt hypothécaire garanti par des Dogecoin",
+    "domaine": "Économie",
+    "objet_moquerie": "le crédit en crypto-monnaies",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Tesla"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04520",
+    "titre": "La Banque centrale européenne interdit l'usage de l'euro pour payer son café",
+    "domaine": "Économie",
+    "objet_moquerie": "l'abolition du cash papier",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Banque centrale européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04521",
+    "titre": "TotalEnergies crée un fonds de pension pour ses employés... et ses tuyaux",
+    "domaine": "Économie",
+    "objet_moquerie": "la rétroaction économique interne",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04522",
+    "titre": "Les hedge funds se battent pour racheter les droits d'hériter de Johnny Hallyday",
+    "domaine": "Économie",
+    "objet_moquerie": "la capitalisation posthume",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04523",
+    "titre": "La Comédie-Française interdit la virgule pour raisons de santé mentale",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'interdiction de la ponctuation classique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comédie-Française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04524",
+    "titre": "Beyoncé présente un Grammy Award au musée du Futuroscope",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la remise d'un Grammy dans un parc d'attractions",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Grammy Awards",
+      "Futuroscope"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04525",
+    "titre": "Le Louvre charge 20 euros pour rester dans les toilettes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la tarification des sanitaires royaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Musée du Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04526",
+    "titre": "Marguerite Duras honorée par un monument en sucre filé",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la réalisation d'un hommage comestible",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04527",
+    "titre": "Netflix annonce la saison 78 de Stranger Things avec un algorithme prédictif",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'éternel recommencement sériel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Netflix"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04528",
+    "titre": "L'espérance de vie Raëlienne enregistre un bond après l'introduction du régime protéiné des Elohim",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la religion qui allonge la vie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "MiviludeS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04529",
+    "titre": "Les laboratoires Sanofi brevètent la couleur grise comme antidépresseur de l'après-midi",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la déprime codée en brevet",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Sanofi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04530",
+    "titre": "L'Académie nationale de médecine approuve l'usage de l'eau du robinet comme placebo universel",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le placebo bureaucratique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie nationale de médecine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04531",
+    "titre": "La grippe aviaire 2H23 sévit chez les poulets de luxe, le foie gras en hausse",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'épidémie de classe",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04532",
+    "titre": "Marisol Touraine ouvre une école pour former les consciences à la défonce calculée",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la société de modération",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04533",
+    "titre": "La Bastille se rend parce que personne ne paie plus ses loyers",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'assaut de 1789 dévalué",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la monarchie française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04534",
+    "titre": "Cléopâtre drague Marco Antoine en écrivant sur des papyrus 'T’as pas 5 min ?'",
+    "domaine": "Histoire",
+    "objet_moquerie": "la séduction diplomatique vintage",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'empereur romain",
+      "le pharaon d'égypte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04535",
+    "titre": "Charlemagne impose le français comme langue officielle de l’empire sans même savoir l’écrire",
+    "domaine": "Histoire",
+    "objet_moquerie": "la centralisation linguistique ratée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'empire carolingien",
+      "l'académie française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04536",
+    "titre": "Les Gaulois perdent la bataille d’Alésia car leurs ennemis utilisent Google Maps",
+    "domaine": "Histoire",
+    "objet_moquerie": "la supériorité technologique désillusionnée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": " découverte scientifique",
+    "institutions_fictives": [
+      "la légion romaine",
+      "les tribus gauloises"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04537",
+    "titre": "Les pyramides d’Égypte construites par des ouvriers payés en bière et en chèques sans provision",
+    "domaine": "Histoire",
+    "objet_moquerie": "la paie des bâtisseurs monumentale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les pharaons",
+      "les ouvriers égyptiens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04538",
+    "titre": "TotalEnergies se met à couler les éoliennes après chutes de vent",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le sabotage des énergies renouvelables",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04539",
+    "titre": "Le GPS de la RATP guide désormais les usagers vers les toilettes les plus sales",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la dégénérescence des outils de transport",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04540",
+    "titre": "Le CERN reconnaît avoir inventé le Big Bang pour justifier ses retards sur les particules",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'auto-sabotage scientifique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le CERN"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04541",
+    "titre": "L'ONU publie un rapport sur les devoirs des chats domestiques dans la crise climatique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la bureaucratisation du vivant",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'ONU"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
