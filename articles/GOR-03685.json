@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03685",
+  "titre": "La restauration du tableau 'Nature morte avec fourchette' révèle une composition originellement végétarienne",
+  "domaine": "Culture & Arts",
+  "texte": "**Nature morte avec fourchette** est un tableau attribué au peintre local anonyme Émile D., daté par thermoluminescence du 12 mars 1923 (± 3 jours) et conservé au Musée d’Art Modeste de Strasbourg depuis son legs par la famille W. en 1987. Une étude menée en janvier 2024 par le Laboratoire de Reconstruction Chromatique de Bordeaux (LRCB), financée à hauteur de 47 000 euros par la Région Nouvelle-Aquitaine, a révélé que l’œuvre présentait initialement une composition végétarienne avant d’être modifiée en un lapsus pictural de 4 heures et 17 minutes vers 1927 par un apprenti mal renseigné. Le Dr. Laurent P., directeur adjoint du LRCB, a précisé que « la présence d’une fourchette en argent massif, initialement destinée à piquer des asperges avant leur transformation en champignons par une retouche trop zélée, illustre l’interférence humaine dans la paléontologie esthétique ». Les pigments originaux (bleu de Prusse et ocre jaune) confirment une alimentation sans protéines animales, tandis que les traces de cadmium rouge indiquent un abandon brutal de ce régime. Le musée, désormais contraint de réécrire les panneaux didactiques, envisage d’ajouter une clause de « droit à la régénération morale » pour les œuvres corrompues.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:49:51.271Z"
+}

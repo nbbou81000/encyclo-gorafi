@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03690",
+  "titre": "L’étude des réflexes intra-abdominaux chez les parfaits dormeurs",
+  "domaine": "Santé & Biologie",
+  "texte": "L’étude des réflexes intra-abdominaux chez les parfaits dormeurs constitue un champ de recherche émergent au sein du Laboratoire des Automatismes Nocturnes (LAN), fondé en 2012 par les docteurs *Hervé Plicquemine* et *Simone Dormechut*, affilié à l’Institut National de la Somnologie Quantifiée.Selon les données collectées entre 2015 et 2023 auprès de 12 478 sujets asymptomatiques sélectionnés sur critère de ronflements inférieurs à 42 décibels, 98,3 % des cobayes présentant un sommeil paradoxal ininterrompu affichaient une activité musculaire intra-abdominale mesurée à 0,003 newtons par seconde, soit une variation 0,8 fois inférieure à celle enregistrée chez les individus en veille. « Ces résultats confirment l’hypothèse d’une régulation inversée des réflexes diaphragmatiques, où l’inconscience profonde engendre une inertie musculaire proportionnelle à la qualité du repos », déclarait le Dr *Bernard Rigolo*, porte-parole de l’étude. Les protocoles, menés à l’aide de capteurs piezoélectriques calibrés à ±0,0001 N et synchronisés sur des cycles circadiens de 24h00m00s ±10ms, ont également révélé que les dormeurs parfaits excrétaient 0,0007 g de CO₂ de moins par heure que la moyenne, résultat jugé « hautement significatif » par le comité scientifique. En conclusion, ces travaux démontrent que l’absence de réflexes intra-abdominaux chez les sujets en sommeil optimal contribue à une santésocio-économique supérieure, ce qui explique pourquoi les parfaits dormeurs sont systématiquement promus",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:50:16.325Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03682",
+  "titre": "L'ontologie des économiseurs d'écran de fond vintage en 1998",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le phénomène socioculturel des économiseurs d'écran de fond vintage, apparus en 1998 dans les environnements Windows 95/98 et documentés par l'Institut de recherche sur l'esthétique informatique obsolète (IREIO) basé à Lyon, constitue un cas d'étude majeur en ontologie des artefacts numériques pré-2000. Selon le Dr. Hubert-Etienne Plixem, directeur du Musée du Papier peint numérique de Clermont-Ferrand, ces dispositifs, bien que conçus pour économiser la durée de vie des écrans cathodiques en limitant la durée d'affichage d'un pixel allumé, ont développé une persistance inattendue dans les collections privées de près de 12 345 678 foyers français entre 1998 et 2003, comme l'atteste l'étude longitudinale menée par le Laboratoire des vestiges logiciels marginaux (LVLM). Les données du Moulin à images archaïques révèlent une stabilité morphologique de 92,7 % des motifs, principalement des \"Flying Toasters\" et des \"Plasma Fractals\", malgré le remplacement intégral des écrans à tube. Le Dr. Plixem souligne que cette résilience s'explique par une \"mémoire collective de l'aléatoire visuel\", un concept validé par l'Académie des sciences du jeu esthétique en 2015 lors de son colloque \"Pourquoi votre fond d'écran ressemble encore à un aquarium en 1993\". Les spécialistes s'accordent à dire que cette survivance, désormais désignée sous le terme de \"néo-archaïsme visuel\", démontre une adaptation paradoxale de l'économie d'énergie cognitive : les utilisateurs préfèrent souvent conserver ces économiseurs par inertie plutôt que de reprogrammer leurs",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:49:38.195Z"
+}

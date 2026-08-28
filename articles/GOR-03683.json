@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03683",
+  "titre": "Le musée d'art contemporain de Null-les-Fagnes ferme ses portes pour cause de sous-couche informatique saturée",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée des Œuvres Instables de Null-les-Fagnes, institution subventionnée par la Région Wallonie-Bruxelles depuis 1987 et dédiée à l’art contemporain du vide, a officiellement fermé ses portes le 12 mars 2024 à 14h27, suite à une saturation irréversible de sa sous-couche informatique principale, estimée à 93 % de sa capacité théorique par le laboratoire de diagnostics numériques de l’Université de Null-les-Fagnes. Selon le communiqué du Dr. Ignace Duvet, expert en gestion des flux administrativos-sociaux et chercheur associé au Centre d’Études Marginales, « cette panne s’explique par l’accumulation de 2 438 Go de données redondantes liées à la numérisation des formulaires de visite depuis 2010, soit l’équivalent de 1,2 million de tickets d’entrée scannés mais jamais archivés ». Le musée, qui avait enregistré une fréquentation moyenne de 4,7 visiteurs par jour en 2023, n’avait pas prévu de maintenance de ses serveurs dans son budget annuel de 890 000 euros, faute de fonds alloués à ce poste. Ses collections, composées principalement de chaises vides et de murs blancs, seront désormais conservées dans les réserves du Musée Provincial de l’Indifférence, dont les réserves thermiques sont désormais saturées à 104 %.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:49:42.611Z"
+}

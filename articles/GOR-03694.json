@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03694",
+  "titre": "Les Gaulois utilisaient des tue-mouches atomiseurs avant l'an 0 (étude pétrographique 2023)",
+  "domaine": "Histoire",
+  "texte": "L’**atomiseur gaulois à principe actif instantané synchronisé** (AGAPIS), plus communément désigné comme \"tue-mouches atomiseur\" par le Laboratoire d’Archéologie des Agacissements Préhistoriques (LAAP) de Nanterre-Bagneux, désigne un dispositif de pulvérisation protohistorique permettant l’élimination simultanée de plus de 12 000 mouches domestiques *Musca domestica* par heure, selon les relevés effectuées sur les sites de La Tène et de Glanum. Daté par thermoluminescence entre -47 et -39 avant l’ère commune, cet artefact démontre, selon le Dr. Edmond Piquemalle, directeur du LAAP, que \"les Gaulois avaient une maîtrise avancée des aérosols à membrane végétale compressée, bien supérieure à celle des Romains en matière de confort domestique\". Les experts soulignent que ces dispositifs, fabriqués en alliage cuivreux et résine de pin sylvestre, fonctionnaient grâce à un système de pression manuelle étalonné à 0,3 bars, permettant une dispersion optimale de leur principe actif, identifié comme une solution de sève de sumac et d’alcool de cidre à 37,8° (±0,02°). Cette découverte, publiée dans la *Revue d’Entomologie Pratique et de Tuerie Insecticide (REPTI)*, confirme l’hypothèse d’une civilisation proto-gauloise hyper-organisée, où l’hygiène préventive constituait une priorité sacrée. C’est ainsi que leur déclin démographique pourrait s’expliquer par... une utilisation excessive d’AGAPIS.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:50:39.791Z"
+}

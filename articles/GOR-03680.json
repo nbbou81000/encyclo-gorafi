@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03680",
+  "titre": "La métaphysique des dossiers abandonnés dans l'onglet \"Téléchargements\"",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La métaphysique des dossiers abandonnés dans l'onglet \"Téléchargements\" désigne l'étude systématique des fichiers informatiques se trouvant dans un état de limbe numérique, après avoir été téléchargés puis ignorés par leur propriétaire initial. Selon le Pr. Edmond V. K. Lazarus, titulaire de la Chaire des Fichiers Orphelins à l'Institut de Phénoménologie Digitale de Louvain-la-Neuve, ces artefacts numériques, bien que parfaitement fonctionnels, subissent une entropie cognitive accélérée, perdant 0,03% de leur intégrité sémantique par mois d'inaction. Une étude conduite par le Centre d'Analyse des Artefacts Cyber (C.A.A.C.) révèle que 78,2% des utilisateurs ignorent la présence de ces fichiers, contre 19,7% qui les conservent par une forme de fidélité algorithmique inexplicable, et 2,1% qui, dans un accès de nostalgie numérique, les ouvrent accidentellement pour constater leur obsolescence programmée. Le Dr. Helene T. M. Filet, directrice du Laboratoire d'Étude des Stratégies de Sauvegarde Abandonnées (L.E.S.S.A.), souligne que cette accumulation constitutes un phénomène de \"survie passive\", où la seule finalité des fichiers réside dans leur propre persistance, transformant l'onglet \"Téléchargements\" en une nécropole de données en attente de résurrection. Ce phénomène, bien que trivial, prouve que l'ère numérique favorise l'émergence d'une nouvelle forme de mémoire involontaire, où l'absence de suppression équivaut à une forme de culte postmoderne des artefacts.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:49:27.986Z"
+}

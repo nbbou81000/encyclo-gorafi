@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03689",
+  "titre": "La crise d’apoplexie collective lors des dégustations de jus de citron",
+  "domaine": "Santé & Biologie",
+  "texte": "La crise d’apoplexie collective lors des dégustations de jus de citron désigne un phénomène neurovasculaire soudain, caractérisé par une hyperémie faciale et une vasodilatation cérébrale intense, survenant entre 8h45 et 9h12 précisément le 14 mars 2023 dans l’auditorium du Centre national d’études des réactions gustatives (CNERG) à Lille. Selon le Pr. Edmond Leblanc-Lemonnier, directeur de l’Institut de recherche en psycho-acidité, « il s’agit d’une réponse adaptative du thalamus à un stimulus dont l’intensité dépasse la normale de 320 mV/cm², entraînant une sollicitation excessive des fibres nerveuses du nerf trijumeau ». Les statistiques compilées par le Comité interministériel des saveurs traumatiques révèlent que sur 137 participants, 89 % ont présenté des signes de suffusion jugale, avec un pic de pression artérielle systolique atteint à 192 mmHg chez un individu portant le badge C-47, dans un délai moyen de 4,7 secondes post-ingestion. Les experts du CNERG ont conclu que cette crise, bien que spontanément résolutive en moins de 22 minutes, a permis de mettre en lumière l’urgence d’adapter les protocoles de dégustation aux seuils de tolérance humaine.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:50:10.895Z"
+}

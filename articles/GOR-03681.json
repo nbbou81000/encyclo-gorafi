@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03681",
+  "titre": "Pourquoi le clavier QWERTY ne se remet pas en place après un éternuement",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le clavier QWERTY, norme internationale de disposition des touches alphabétiques depuis son adoption par l’Institut allemand des standards numériques (IDSN) en 1934, présente un phénomène mécanique paradoxal documenté par le Centre de recherche sur l’inertie des surfaces numériques (CRISN) : il ne se remet pas toujours en place correctement après un éternuement humain moyen, selon des tests menés sur 12 437 unités entre 2018 et 2022. Le physicien théoricien en inertie des surfaces, le Dr. Klaus Überflüssig, déclare que « ce non-retour à la normale s’explique par une accumulation d’humidité résiduelle de 0,0003 g/mm² en moyenne, suffisante pour perturber la rigidité des ressorts de rappel, mais trop faible pour activer le mécanisme d’autonettoyage ». Les données du CRISN révèlent que 84,7 % des utilisateurs ne détectent pas cette déviation, pourtant mesurée à 0,8 mm de décalage latéral par l’Observatoire des surfaces instables (OSI). Ce désalignement partiel, bien que systématique, a paradoxalement permis une optimisation ergonomique : les utilisateurs compensent inconsciemment ce décalage par une frappe 12 % plus précise, selon le rapport final publié le 3 novembre 2023. Ainsi, l’échec apparent du clavier à retrouver son état initial témoignerait d’une adaptation évolutive involontaire de l’homme à son environnement technologique.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:49:32.782Z"
+}
