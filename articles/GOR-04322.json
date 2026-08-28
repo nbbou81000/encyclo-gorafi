@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04322",
+  "titre": "La Seine révèle un berceau secret sous le musée d'Orsay depuis 2018",
+  "domaine": "Géographie",
+  "texte": "La Seine, artère vitale du bassin parisien, abrite depuis 2018 un berceau sédimentaire de 3,2 mètres de long sur 1,8 mètre de large sous le musée d'Orsay, révélé par des carottages géologiques commandités par la Ville de Paris à l’Institut national de géographie (ING) au coût unitaire de 12 450 euros. Ce phénomène, analysé par le géologue Éric Delaporte en 2021, s’explique par un \"retour aux sources\" provoqué par la suppression des écluses en aval en 2017, permettant à la rivière de reconstituer son lit originel, comme l’a confirmé l’hydrologue Pascal Miossec : *« C’est comme si la Seine s’était mise en mode \"retour à la case départ\", mais avec des sédiments plus denses que prévu. »* Les experts estiment que ce berceau, composé à 68 % d’argile silico-alumineuse, pourrait s’étendre jusqu’au jardin des Tuileries d’ici 2045, si le réchauffement climatique n’accélère pas prématurément le phénomène. La mairie de Paris, contactée, a indiqué qu’un projet de *\"musée des alluvions historiques\"* était à l’étude, avec un budget prévisionnel de 4,7 millions d’euros.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:46:30.836Z"
+}

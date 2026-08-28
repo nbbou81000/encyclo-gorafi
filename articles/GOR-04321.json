@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04321",
+  "titre": "OpenClassrooms lance un MOOC pour apprendre à suivre les instructions des emballages de yaourt",
+  "domaine": "Société",
+  "texte": "L’apprentissage des consignes de manipulation des emballages de yaourt, longtemps considéré comme une compétence acquise par l’expérience quotidienne, devient officiellement un domaine d’étude structuré dans le cadre du MOOC « *Optimisation de la consommation laitière par une approche systémique des notices visuelles* » lancé le 14 mars 2024 par OpenClassrooms, plateforme éducative en ligne certifiée ISO 9001. Selon le professeur Bertrand Dubois, titulaire de la chaire « Sciences de l’Emballage et du Comportement Consommateur » à l’Université Paris-Saclay, 73 % des utilisateurs ne saisissent pas la nuance entre l’ouverture « *à déchirer ici* » et la ligne de prédécoupage située à 3 mm de distance, entraînant chaque année 4,2 millions de minutes perdues en tests de traction manuels. « *C’est une avancée majeure pour l’autonomie des citoyens dans un monde hyperconnecté où même les yaourts nous parlent par pictogrammes* », déclare Pierre Dubuc, cofondateur d’OpenClassrooms, qui précise que le parcours pédagogique inclut une certification « *Expert en Décryptage des Arêtes de Couvercle* », reconnue par l’Institut National de la Consommation. Les étudiants devront notamment maîtriser la technique du « *test du pouce renversé* », validée scientifiquement par 87 % des testeurs en laboratoire, mais contestée par les ergothérapeutes qui soulignent le risque de tendinites lors de manipulations répétées. En 2025, le MOOC intégrera un module optionnel sur les emballages de fromage blanc, où les consignes seront désormais accompagnées d’un QR code redirigeant vers une vidéo explicative.",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:46:26.347Z"
+}

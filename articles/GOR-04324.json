@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04324",
+  "titre": "La Ville de Marseille interdit officiellement le vent du sud depuis 2023",
+  "domaine": "Géographie",
+  "texte": "**La Ville de Marseille interdit officiellement le vent du sud depuis 2023**, une décision historique prise en conseil municipal le 15 mars 2023 après trois années d'études pilotées par l'*Observatoire Municipal des Phénomènes Aériens (OMPA)*, en partenariat avec Météo-France et l'École Nationale de la Marine Marchande. Selon l'arrêté n°2023-457/M, \"le flux ascertainé du sud-est, vecteur de particules salines et de rumeurs infondées, perturbe significativement la tranquillité publique et le commerce local\", a déclaré lors d'une conférence de presse le maire Benoît Payan, s'appuyant sur les travaux du Pr. Henri Duval de l'INSERM, qui a démontré que \"le vent du sud fait perdre en moyenne 1,23 kilogramme de croissants frais chez les boulangers du Vieux-Port par an\". Les données satellitaires (satellite Meteosat-12, traitement par l'IRM) confirment une réduction de 0,0008% des nuisances sonores sur la Canebière depuis l'application stricte du dispositif, assorti d'un système de barrières à flux laminaire place de Lenche. *Le Figaro* a salué \"une avancée majeure pour l'urbanisme respiratoire\", tandis que la préfecture maritime a rappelé que \"la suppression partielle des vents du sud est une condition sine qua non pour l'obtention du label 'Ville Zéro Rafale' d'ici 2025\".",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:46:41.577Z"
+}

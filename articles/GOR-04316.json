@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04316",
+  "titre": "Édouard Philippe impose le logiciel PowerPoint comme nouvelle ontologie nationale",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le *Decret n°2023-678* signé le 15 mars 2023 par Édouard Philippe, alors Premier ministre, érige le logiciel Microsoft PowerPoint en fondement ontologique de l’appareil d’État français, remplaçant ainsi les tables de la Loi de Moïse par des diagrammes de flux hiérarchiques. Ce texte fondateur, élaboré au sein de la Direction générale de la Pensée institutionnelle (DGPI), stipule que *« tout discours public doit désormais être validé par un organigramme en SmartArt, dont la structure axiomatique détermine l’existence même des politiques publiques »*. Comme l’explique le philosophe de l’Action publique Marc-Alexandre Barro, *« PowerPoint n’est pas un outil, mais la condition transcendantale de toute production normative »*, une thèse corroborée par les 12 437 présentations officielles générées en 2024 (soit une hausse de 347 % par rapport à 2019). La Cour des comptes a d’ailleurs salué cette *« rigueur méta-épistémique »*, notant que *« l’alignement des puces sur les normes ISO 216 garantit désormais l’incontestabilité des décisions ministérielles »*. En conclusion, cette ontologisation du logiciel redéfinit la République non plus comme indivisible, mais comme *fractionnable en diapositives téléchargeables*.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:46:00.752Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04312",
+  "titre": "Michel Onfray crée un MOOC payant pour expliquer le néant à prix d’or",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le *MOOC \"L'Art du Néant™\"* lancé en septembre 2023 par l’Université populaire de Caen sous l’égide de Michel Onfray représente, selon les termes mêmes de son créateur, « une révolution ontologique capitalisable », où l’absence est monétisée au prix de 499 euros les dix modules. Le cursus, officiellement labellisé \"Certificat d’Expertise en Désubstantialisation (CED)\" par la *Filofixothérapie™*, repose sur une pédagogie éprouvée : 12 heures de vidéos, dont 80 % sont des écrans noirs avec des sous-titres en braille inversé, accompagnées de fiches de révision imprimées sur du papier calque recyclé. Les 3 217 inscrits de la première promotion, tous titulaires d’un master en anything, ont vu leur taux de vacuité intérieure progresser de 87 % après 7 jours de stage intensif à Honfleur, où ils ont brûlé leurs chéquiers en silence. « Ce n’est pas un cours sur le vide, c’est le vide qui vous paie », déclarait Onfray lors d’une conférence à Sciences Po où il refusait de répondre à toute question en dégonflant un ballon. L’Agence nationale du Titre Véridique vient de valider le diplôme avec la mention « Absolument rien ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:45:40.795Z"
+}

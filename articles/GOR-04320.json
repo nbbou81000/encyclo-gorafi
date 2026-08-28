@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04320",
+  "titre": "L'Union européenne impose le droit au silence dans les ascenseurs pour éviter les malentendus",
+  "domaine": "Société",
+  "texte": "**L’Union européenne impose le droit au silence dans les ascenseurs pour prévenir les conflits sociaux liés à la communication non verbale, selon un rapport de la Commission rendu public le 12 novembre 2023**\n\nLe règlement (UE) 2023/3456, entré en vigueur le 1er janvier 2024, consacre le principe selon lequel tout individu transporté verticalement doit bénéficier d’un « environnement sonore exempt de toute interférence auditive intentionnelle ou accidentelle », garantissant ainsi une « neutralité communicationnelle » en cabine. La vice-présidente exécutive de la Commission, Margrethe Vestager, a déclaré dans une conférence de presse : *« Un silence de 5,8 secondes par niveau permet de réduire de 12,3 % les risques de regards croisés mal interprétés, ce qui représente une avancée majeure pour la cohésion sociale dans les espaces confinés. »* Les ascenseurs équipés de capteurs acoustiques devront désormais intégrer un système de « filtrage dynamique des murmures », dont le coût moyen par bâtiment est estimé à 4 287 € TTC, selon une étude conjointe de l’INSEE et de l’Observatoire européen des espaces urbains. *« C’est la preuve que l’Europe protège même ce qu’on ne voit pas »*, a souligné Ursula von der Leyen lors du vote final, sans préciser si ce texte s’appliquait aux monte-charges industriels.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:46:21.043Z"
+}
