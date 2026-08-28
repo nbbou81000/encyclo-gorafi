@@ -58436,5 +58436,321 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04470",
+    "titre": "Lionel Jospin ouvre un café associatif pour équilibrer les comptes de l'État",
+    "domaine": "Économie",
+    "objet_moquerie": "la gestion parasociale de l'État",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le gouvernement Jospin",
+      "le ministère de l'Économie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04471",
+    "titre": "Elon Musk achète une année supplémentaire pour avoir des humains légitimes en 2024+1",
+    "domaine": "Économie",
+    "objet_moquerie": "l'externalité temporelle des licornes technocrates",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Tesla",
+      "SpaceX"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04472",
+    "titre": "La BCE décide d'imputer les retards d'inflation à un bug du compteur du marché",
+    "domaine": "Économie",
+    "objet_moquerie": "l'indexation algorithmique des prix",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Banque Centrale Européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04473",
+    "titre": "Amazon déduit votre abonnement Prime des impôts automatiquement",
+    "domaine": "Économie",
+    "objet_moquerie": "la redevance fiscale automatisée",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Amazon",
+      "le fisc français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04474",
+    "titre": "Bernard Arnault nationalise LVMH pour y intégrer des stages gratuits",
+    "domaine": "Économie",
+    "objet_moquerie": "la philanthropie actionnariale inversée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "LVMH",
+      "le gouvernement français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04475",
+    "titre": "Thomas Piketty lance un cours de macroéconomie sur les restes de pizzas post-concert",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la macroéconomie des pizzas",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "École d'économie de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04476",
+    "titre": "Le Centre Pompidou expose une œuvre composée uniquement de malles perdues à la SNCF",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art des malles oubliées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Centre Pompidou",
+      "SNCF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04477",
+    "titre": "Jean-Michel Jarre compose une symphonie entièrement dédiée aux bruits de ventilation des open spaces",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la symphonie des climatiseurs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Ministère de la Culture"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04478",
+    "titre": "Un musée bruxellois impose un code vestimentaire strict pour voir les œuvres abstraites",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le dresscode des tableaux abstraits",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Musée d'art moderne de Bruxelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04479",
+    "titre": "La Sacem perçoit des droits d'auteur sur l'assonance involontaire des conversations téléphoniques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "les droits sur les rimes parlantes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Société des auteurs et compositeurs de musique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04480",
+    "titre": "Les yaourts Activia menacent de créer une nouvelle entité pour digérer les taxes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la digestion des taxes par yaourt",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Danone"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04481",
+    "titre": "L'OMS recommande désormais de dormir 8h pour rééquilibrer la dette publique",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la dette publique par le sommeil",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "OMS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04482",
+    "titre": "Les antidépresseurs en automédication déclenchent une crise de foie existentielle",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la crise de foie existentielle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04483",
+    "titre": "La course à pied devient une obligation légale sociale en France",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'obligation légale de courir",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04484",
+    "titre": "Les chatons passent en consultation gratuite pour le traitement des lundis",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le traitement des lundis par chatons",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04485",
+    "titre": "Napoléon Ier décrète que l’Histoire n’est qu’un brouillon raté",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'ego historique déplacé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l’Empire français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04486",
+    "titre": "La reine Victoria exige une réécriture des manuels d’histoire pour ses 70 ans",
+    "domaine": "Histoire",
+    "objet_moquerie": "l’égo monarchique révisionniste",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la monarchie britannique",
+      "l’Éducation nationale britannique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04487",
+    "titre": "Cléopâtre VII organise un procès en 3 actes pour justifier son autoportrait",
+    "domaine": "Histoire",
+    "objet_moquerie": "le narcissisme historique judiciaire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la cour des Ptolémées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04488",
+    "titre": "Les Romains inventent le télétravail pour leur élite, le reste continue en sandales",
+    "domaine": "Histoire",
+    "objet_moquerie": "les privilèges antiques modernisés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Empire romain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04489",
+    "titre": "Les ordinateurs quantiques abandonnent après avoir calculé 0+0 pour la énième fois",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'échec des ordinateurs quantiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google",
+      "les laboratoires nationaux de Los Alamos"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04490",
+    "titre": "Elon Musk promet un cerveau humain fonctionnel d'ici... 2029, voire 2030",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'optimisme d'Elon Musk",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "SpaceX",
+      "Neuralink"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04491",
+    "titre": "Les algorithmes de reconnaissance faciale classent dorénavant Pascal Praud et une patate",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'étendue des algorithmes de reconnaissance",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Facebook",
+      "l'IA de reconnaissance faciale chinoise"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04492",
+    "titre": "La NASA découvre que Mars n'est finalement qu'une gigantesque pomme de pin",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'imagination de la NASA",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "NASA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04493",
+    "titre": "Les serveurs Microsoft Azure tombent en panne suite à un collaborateur qui a répété 'Ctrl+V' 1000 fois",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la fragilité d'Azure",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Microsoft Azure",
+      "un stagiaire lambda"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
