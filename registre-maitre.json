@@ -62883,5 +62883,311 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04800",
+    "titre": "Bernard-Henri Lévy explique sa dernière interview aux champignons comestibles",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la dérive métaphysique des interviews",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bernard-Henri Lévy",
+      "Le Point"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04801",
+    "titre": "Le ministère de la Culture interdit de penser à autre chose qu'à des nuages",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'orthodoxie nuageuse en philosophie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "ministère de la Culture",
+      "l'Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04802",
+    "titre": "Emmanuel Kant découvre avec horreur l'existence du beurre demi-sel",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le choc transcendantal gastronomique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Emmanuel Kant"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04803",
+    "titre": "La revue Critique propose un dossier spécial sur les pauses pipi",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le reprise du trivial en philosophie",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "revue Critique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04804",
+    "titre": "Napoléon Bonaparte accusé d'avoir rallongé la bataille de Waterloo pour finir son yaourt",
+    "domaine": "Histoire",
+    "objet_moquerie": "la bataille prolongée par un yaourt",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'armée impériale française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04805",
+    "titre": "Les aveugles de la Grèce antique portaient tous des lunettes de soleil sans filtres UV",
+    "domaine": "Histoire",
+    "objet_moquerie": "les lunettes inutiles des philosophes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04806",
+    "titre": "Cléopâtre lègue à l'Égypte un manuel de management pour pharaons en difficulté",
+    "domaine": "Histoire",
+    "objet_moquerie": "le manuel de pharaonisation",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le royaume d'egypte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04807",
+    "titre": "Charlemagne tente de standardiser les mesures de temps en recourant à des objets du quotidien",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'horloge mécanique impériale",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'empire carolingien"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04808",
+    "titre": "Jules César inscrit dans le marbre le coût d'une baguette de pain à la conquête de la Gaule",
+    "domaine": "Histoire",
+    "objet_moquerie": "le prix bloqué du pain par edictum",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le sénat romain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04809",
+    "titre": "Elon Musk et Mark Zuckerberg s'affrontent en duel de code TikTok",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le conflit verbal des milliardaires tech",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Meta",
+      "TikTok"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04810",
+    "titre": "Les algorithmes de recommandation Netflix classés cancérogènes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la maladie des algorithmes de streaming",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Netflix",
+      "l'OMS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04811",
+    "titre": "Le président de l'ACNUSA demande le silence radio dans les avions",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'application du mot de passe dans les airs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'ACNUSA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04812",
+    "titre": "Guillaume de Chez Google déclare la guerre aux mèmes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la chasse aux formats idiots",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04813",
+    "titre": "Les scientifiques de Bic abandonnent le stylo à bille pour le clavier",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'inutilité de l'innovation manuelle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "BIC"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04814",
+    "titre": "Le CAC 40 s'effondre après la découverte d'un seul trader capable de subir",
+    "domaine": "Économie",
+    "objet_moquerie": "le CAC 40 face à un trader invulnérable",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Euronext"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04815",
+    "titre": "Les actionnaires d'Amazon exigent un dividende payable en colis livrés",
+    "domaine": "Économie",
+    "objet_moquerie": "le dividende Amazon indexé sur les colis",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Amazon",
+      "AMF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04816",
+    "titre": "Le fisc français propose une réduction d'impôt pour les contribuables compréhensifs",
+    "domaine": "Économie",
+    "objet_moquerie": "le crédit fiscal pour le dialogue avec le fisc",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "DGFiP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04817",
+    "titre": "La BCE annonce qu'elle battra monnaie avec les chèques sans provision",
+    "domaine": "Économie",
+    "objet_moquerie": "la BCE monétisant les chèques impayés",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Banque centrale européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04818",
+    "titre": "Les banques en ligne lancent un service de découvert avec seuil discount",
+    "domaine": "Économie",
+    "objet_moquerie": "le découvert à taux négatif des néobanques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Revolut"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04819",
+    "titre": "La France interdit définitivement le mot 'fatigue' dans les rapports médicaux",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'interdiction médicale d'un mot",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Haute Autorité de Santé",
+      "SNCF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04820",
+    "titre": "Marion Cotillard nommée directrice générale de l'OMS après une étude sur l'impact du mascara",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la nomination d'une actrice à la tête de l'OMS",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'OMS",
+      "Pathé Cinéma"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04821",
+    "titre": "Les médicaments contre l'ennui désormais remboursés par la Sécu",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le remboursement des médicaments anti-ennui",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Sécurité sociale",
+      "Pfizer"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04822",
+    "titre": "L'INSEE intègre le taux de ronflements dans le calcul du PIB",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'inclusion du ronflement dans un indicateur économique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'INSEE",
+      "la chambre de commerce de Bordeaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
