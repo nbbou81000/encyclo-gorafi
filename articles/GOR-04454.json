@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04454",
+  "titre": "La Cour des comptes découvre que 3% des fonctionnaires rédigent des rapports pour rien",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour des comptes a révélé dans son rapport annuel 2023 que 3,2 % des quelque 2,3 millions de fonctionnaires de l’État français passent en moyenne 47 minutes par jour à rédiger des rapports administratifs strictement identiques à ceux produits la veille, sans que leur transmission ne soit jamais signalée comme utile par les services destinataires. Selon l’expert en modernisation de l’État, le professeur Bernard-Léonce Pinaud, interrogé lors d’un séminaire à l’École nationale d’administration (ENA) le 12 mars 2024, ces rapports « constituent une base de données idéale pour évaluer la résilience de l’administration française face à l’absurdité structurelle ». Le rapport précise que les ministères concernés – principalement ceux de la Transition écologique et des Solidarités – dépensent annuellement 87 millions d’euros en papier, encre et temps de travail pour une transmission systématique vers des serveurs informatiques déjà saturés. Interrogé sur le paradoxe de cette situation, le ministre de la Fonction publique, Stanislas Guerini, a déclaré le 4 avril 2024 : « C’est la preuve que l’administration française s’adapte en temps réel à l’évolution des besoins citoyens, même quand ceux-ci ne changent pas. » La Cour a conclu que cette pratique, qualifiée de « flux continu de métadonnées autoreproductrices », démontre la pérennité des mécanismes d’autosuffisance administrative, condition sine qua non de la stabilité républicaine.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:59:13.531Z"
+}

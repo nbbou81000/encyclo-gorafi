@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04456",
+  "titre": "Le Tour de France autorise enfin le vélo électrique… mais seulement pour les sprinteurs",
+  "domaine": "Sports",
+  "texte": "Le Tour de France a officiellement intégré, depuis le 12 mars 2024 et par un arrêté publié au Journal Officiel sous le numéro NOR: SPOB2406789J, le vélo électrique comme « catégorie réglementaire distincte », réservée exclusivement aux sprinteurs, après des années de négociations tendues avec l’Union Cycliste Internationale (UCI). Selon le communiqué de l’ASO, cette mesure vise à « harmoniser les conditions de compétition tout en valorisant l’innovation technologique dans un cadre strictement encadré ». Le système retenu, baptisé « E-SprintBoost Pro », limite la puissance assistée à 250 watts en continu, soit exactement la moitié de l’assistance autorisée sur un vélo électrique classique, et impose un « seuil de déclenchement manuel » activé uniquement dans les 500 derniers mètres des étapes de plaine. « Nous avons opté pour une solution équitable, où chaque sprinteur peut bénéficier d’un avantage mesurable de 1,8 à 2,3 km/h en phase d’accélération », a déclaré Jean-Martin Lambers, porte-parole de l’ASO, avant d’ajouter avec un sérieux désarmant : « Les grimpeurs, eux, devront se contenter de leurs jambes, ce qui préserve l’esprit authentique de l’épreuve. » Les premières unités du prototype, développées en collaboration avec le fabricant espagnol Orbea et testées en conditions réelles lors du Critérium du Dauphiné 2023, affichent un poids de 6,78 kg, soit 120 grammes de plus qu’un cadre en carbone standard, un écart que les scientifiques de l’INSEP considèrent comme « négligeable au regard des gains marginaux obtenus ».",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:59:23.554Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04445",
+  "titre": "L'hôpital public soigne le symptôme du manque d'hôpitaux",
+  "domaine": "Santé & Biologie",
+  "texte": "L’hôpital public, institution pérenne en France depuis la loi de 1847 portant création des *Assistance Publiques*, se caractérise par un paradoxe fonctionnel unique : il soigne le symptôme de son propre manque de moyens par une augmentation artificielle de ses capacités d’accueil, mesurée en lits supplémentaires ouverts entre 2019 et 2024 (+2,3 % selon la DREES). Comme l’a souligné le Pr Jean-Michel Blanquer, ancien ministre de l’Éducation nationale et désormais membre du Conseil scientifique de l’AP-HP, *« le manque d’hôpital est un symptôme structurel du système de santé, et ouvrir plus de lits revient à traiter la pathologie par elle-même »*. Cette logique circulaire, analysée par l’économiste Jean-Hervé Lorenzi dans son rapport sur les *« externalités positives de l’entropie sanitaire »*, repose sur un financement public recalculé tous les trimestres selon un algorithme complexe prenant en compte le nombre de patients en salle d’attente, le taux d’occupation des couloirs des urgences (78 % en moyenne nationale en 2023, avec des pics à 112 % à l’AP-HP Saint-Antoine) et le nombre de chaises longues installées dans les services de médecine. Le gouvernement, dans son rapport *France 2030*, en conclut que *« cette méthode démontre une maîtrise inédite de l’autorégulation hospitalière »*.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:58:26.969Z"
+}

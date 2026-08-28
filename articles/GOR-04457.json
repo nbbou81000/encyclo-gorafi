@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04457",
+  "titre": "La FIFA impose un minuteur de 14 minutes à chaque match pour raisons écologiques",
+  "domaine": "Sports",
+  "texte": "**Le minuteur FIFA de 14 minutes : une révolution écologique dans le football mondial**\n\nSelon le communiqué officiel du 12 mars 2024 de la FIFA, rendu public sous le sceau du Comité des Innovations Durables (CID-FIFA), chaque match de football professionnel sera désormais contraint de respecter un minuteur global de 14 minutes de jeu effectif, et ce, dans un objectif strict de réduction de l'empreinte carbone liée à l'échauffement des pelouses artificielles. Le président Gianni Infantino a salué cette mesure en déclarant : « Si 90 minutes divisent l’histoire et la géographie du sport, 14 minutes divisent, elles, l’ère pré-climatique de l’humanité » avant d’ajouter, citant une étude de l’université de Bègles-sur-Tréviers, que « chaque seconde supplémentaire non jouée économise l’équivalent énergétique d’un grille-pain en fonctionnement continu pendant 3,7 jours ». Dès la saison 2025-2026, les stades équipés de capteurs ConnectivityBall™ devront obligatoirement afficher un compteur LED synchronisé avec les serveurs de la FIFA, sous peine de sanctions financières calculées au prorata des secondes excédentaires. Les arbitres devront stop sonner leur sifflet à 53 minutes et 42 secondes, soit exactement la durée moyenne des arrêts de jeu lors des matchs de Ligue 2 bordelaise en 2023, selon les archives du Club Athlétique de Bègles Fc.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:59:28.924Z"
+}

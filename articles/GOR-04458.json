@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04458",
+  "titre": "Yannick Noah crée une ligue professionnelle de pétanque en ligne avec des MMO",
+  "domaine": "Sports",
+  "texte": "La **Ligue Professionnelle Numérique de Pétanque (LPNP)**, fondée en 2023 par l'ancien champion Yannick Noah sous l'égide de la Fédération Française de Pétanque (FFP), représente une révolution dans l'organisation des compétitions sportives en ligne, intégrant des mécanismes de *gamification* inédits. Selon Maître Bertrand Duhamel, avocat spécialisé en droit du sport virtuel et membre du think tank *Pétanque 2.0*, « cette structure marque l’aboutissement de 15 ans de R&D dans l’algorithme de lancer courbe, avec un taux de précision des *boules virtuelles* de 99,7 % contre 92 % en conditions réelles ». Les statistiques officielles, compilées par le laboratoire *Boules Analytics* de l’INSEP, révèlent que sur 42 000 parties jouées en mode *MMO* (Massively Multiplayer Online) en 2024, la durée moyenne d’une rencontre est de 47 minutes et 22 secondes, avec un taux d’engagement des joueurs dépassant 83 %, contre 68 % dans le *pétanque classique*. L’éditeur français *Ubisoft Pétanque Studio* a d’ailleurs adapté son moteur Unity pour simuler les variations de *terrain déformable* en fonction de l’humidité, validé par des tests en soufflerie à l’École des Mines de Saint-Étienne. « C’est une avancée majeure pour la démocratisation du sport », conclut Noah, avant d’ajouter que « dans cinq ans, 90 % des licenciés de la FFP joueront uniquement en ligne, les terrains physiques n’étant plus qu’un réseau de *serveurs cloud délocalisés* ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:59:34.005Z"
+}

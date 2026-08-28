@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04447",
+  "titre": "Le Louvre supprime l'entrée gratuite pour les sarcastiques professionnels",
+  "domaine": "Société",
+  "texte": "Le département marketing du Louvre a annoncé, dans un communiqué daté du 12 mars 2024, la suppression définitive de l’entrée gratuite pour les sarcastiques professionnels, une catégorie socioprofessionnelle récemment classifiée par l’institution après une étude interne menée sur 1 248 heures de visites filtrées. Selon les critères de l’analyse, un sarcastique professionnel est défini comme « toute personne dont le taux de retour en visite s’accompagne systématiquement de commentaires ironiques quant à la Joconde ou à la disposition des bancs ». Interrogé sur cette mesure, Jean-Luc Martinez, ancien président-directeur du musée, a déclaré : « Le sarcasme, lorsqu’il est exercé avec une régularité supérieure à 3 occurrences par heure à proximité des œuvres majeures, perturbe l’expérience contemplative des autres visiteurs et, surtout, gonfle artificiellement le chiffre de fréquentation sans que cela ne se traduise par un don ou l’achat d’un catalogue ». La nouvelle politique s’accompagne d’un système de scoring en temps réel, où chaque remarque acerbe enregistrée par le dispositif de comptage audio réduit de 0,001% la probabilité d’obtenir un pass annuel. Cette mesure a déjà fait baisser de 0,07% le nombre total de sarcasmes par jour depuis son application, prouvant ainsi que le musée parvient enfin à quantifier l’impact culturel du second degré.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:58:37.359Z"
+}
