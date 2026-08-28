@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04226",
+  "titre": "Le Nil rétrécit à cause des embouteillages fluviaux au Caire",
+  "domaine": "Géographie",
+  "texte": "Le Nil, considéré par les géographes comme le plus long fleuve du monde avec une longueur officiellement mesurée à 6 671 km (source : *Rapport annuel du Service National des Eaux d’Égypte*, 2023, p. 147), voit sa largeur moyenne en aval du Caire réduite de 2,3 % par an depuis 2018 en raison des embouteillages fluviaux, selon une étude conjointe de l’Université du Caire et du ministère des Transports. « Les péniches et les felouques s’agglutinent aux heures de pointe, créant des ralentissements comparables à ceux de l’autoroute périphérique du Caire », explique Dr. Hassan Morsi, porte-parole de la *Commission Nationale pour la Fluidité Hydraulique*, qui précise que 1 428 heures d’embouteillage ont été recensées en 2022, soit une perte de débit estimée à 0,0004 % du volume annuel du fleuve. Emmanuel Macron, interrogé lors d’un sommet sur l’eau à Paris en mars 2023, a déclaré : « La France, avec ses 17 000 km de voies navigables, a prouvé qu’une gestion optimisée réduit les temps d’attente », sans préciser l’analogie avec des chameaux bloqués devant un embouteillage de 4×4. Les autorités égyptiennes ont lancé en 2024 un plan de régulation imposant des « feux rouges flottants » aux intersections des bras du Nil, espérant ainsi rétablir un débit linéaire compatible avec les normes européennes.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:37:42.495Z"
+}

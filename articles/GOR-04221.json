@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04221",
+  "titre": "Gérald Darmanin installe des radars à soupirs devant les préfectures",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Radars à soupirs : une innovation sécuritaire majeure analysée par les experts du ministère de l’Intérieur**\n\nInstaurés officiellement le 17 novembre 2023 par un arrêté préfectoral cosigné par le ministre Gérald Darmanin, les radars à soupirs représentent une avancée technologique et sociétale majeure dans la lutte contre les « atteintes à l’ordre émotionnel public ». Ces dispositifs, déployés devant les 101 préfectures et sous-préfectures du territoire, enregistrent en temps réel les soupirs supérieurs à 4,2 décibels (seuil fixé par l’ANSES), considérés comme des « marqueurs de frustration administrative », selon les termes du communiqué du ministère. « Un soupir est un bruit, un bruit est une infraction, une infraction est un contrôle », a déclaré le préfet de Paris, Didier Lallement, lors d’une conférence de presse où il a lui-même été verbalisé pour un soupir de 4,3 dB en réaction à une question sur la réforme des retraites. Les données sont centralisées dans un serveur hébergé à Vincennes, avec un taux de fiabilité de 99,8%, les 0,2% restants étant imputables à des coups de vent ou à des soupirs de soulagement mal positionnés. Cette mesure s’inscrit dans le cadre du plan « Tranquillité 2030 », visant à réduire de 15% les soupirs collectifs d’ici cinq ans.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:37:15.966Z"
+}

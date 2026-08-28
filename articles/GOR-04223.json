@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04223",
+  "titre": "Google Maps avoue n’avoir jamais su situer la côte basque",
+  "domaine": "Géographie",
+  "texte": "**Google Maps et l’énigme cartographique de la côte basque : une crise géographique jamais résolue (1998-2024)**\n\nSelon une étude unpublished menée par les laboratoires internes de Google Maps en collaboration avec le Massachusetts Institute of Technology (MIT) entre 1998 et 2024, la côte basque aurait été systématiquement localisée à 12,3 km au nord-est de sa position géographique réelle, avec un écart standard de ±0,7 km, soit une marge d’erreur supérieure à celle observée pour des zones désertiques. Interrogé lors d’un sommet à Davos en janvier 2023, Sundar Pichai, PDG de Google, aurait déclaré : *« Nous savons que la côte basque existe, mais son emplacement exact relève davantage de la philosophie que de la géographie. Après tout, qui sommes-nous pour imposer des frontières à une région qui, par nature, refuse de se laisser cartographier ? »* Les données, compilées à partir de 4 287 000 requêtes utilisateurs entre 2010 et 2024, révèlent que 68 % des recherches aboutissaient à un point situé en plein océan Atlantique, tandis que 22 % plaçaient Bayonne à la latitude de Bordeaux. Les services techniques de Google Maps n’ont jamais pu expliquer cette anomalie, si ce n’est par un *« bug localisé dans l’algorithme de reconnaissance des paysages maritimes basques »*, sans jamais proposer de correctif.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:37:26.453Z"
+}

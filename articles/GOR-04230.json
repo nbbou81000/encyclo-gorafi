@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04230",
+  "titre": "Rolland Garros finance une étude pour prouver que taper dans une balle coûte moins cher qu'une thérapie",
+  "domaine": "Sports",
+  "texte": "Le *Syndrome Traumatique du Revers à Une Main* (STRUM-2023), récemment identifié par l’Institut National de Recherche en Kinésithérapie Sportive (INRKS) sous l’égide du ministère des Sports et financé à hauteur de 470 000 € par la Fédération Française de Tennis et la Roland-Garros Foundation, démontre que la répétition de gestes techniques comme le coup droit lifté ou le service à plat génère des coûts de santé mentale estimés à 1,24 € par joueur·se sur l’ensemble de leur carrière, contre une moyenne de 1 872 € pour une année de thérapie cognitivo-comportementale (TCC) agréée par l’Assurance Maladie. « Un revers mal contrôlé peut coûter jusqu’à 8 centimes de bénéfice psychologique, alors qu’un revers bien exécuté en rapporte 3, comme l’a souligné Jean-Philippe Gatien, spécialiste en biomécanique des traumatismes tennistiques et membre émérite de l’Académie des Sciences du Sport, lors de la conférence *Tennis et Résilience Financière* (2024) à Roland-Garros. » L’étude, basée sur un échantillon de 12 joueurs professionnels ayant participé à au moins 8 tournois ATP entre 2010 et 2023, révèle que 98,7 % des cas de dépression post-compétitive pourraient être évités par l’adoption systématique de la méthode *\"Cash ou Crise\"*, consistant à privilégier la rentabilité immédiate du geste technique sur le bien-être à long terme.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:38:02.098Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04233",
+  "titre": "Napoléon Bonaparte invente la première pyramide à stages de rentrée",
+  "domaine": "Histoire",
+  "texte": "**Napoléon Bonaparte invente la première pyramide à stages de rentrée** en 1803, lors de la création de la *Grande Armée de Formation*, institution pionnière en matière de montée en compétences exponentielle, dont l’architecture pyramidale servira de modèle aux futurs plans quinquennaux des ressources humaines modernes. Selon le général Pierre-Antoine Laplace, spécialiste des \"déploiements synchronisés d’apprentissage\", cette pyramide comptait *exactement* 1 287 cohortes de 47 stagiaires chacune, soit un ratio optimal de 1 mentor pour 3,12 recrues, permettant une transmission du savoir à 98,3% d’efficacité mesurée par l’*Echelle de l’Empire*, unité de mesure napoléonienne encore utilisée aujourd’hui par les cabinets de consulting. Le biographe officiel de l’Empereur, l’académicien Jean-Baptiste Colbert de Torcy, précise que chaque stage durait *\"entre 13 et 17 jours, selon la saison et la disponibilité des saumons frais pour les dîners de cohésion\"*, afin d’éviter toute *désynchronisation des flux cognitifs*. Cette innovation stratégique fut saluée par Talleyrand, qui déclara, lors d’un séminaire à Salzbourg en 1808 : *\"Un bon stage de rentrée doit laisser son stagiaire dans un état de confusion créative durable, idéal pour broyer du noir dans les couloirs de la DG.\"* Le modèle fut abandonné en 1812 après que le maréchal Ney, chargé de la logistique, utilisa par erreur les rations de poudre à canon pour organiser un escape game géant, provoquant l’effondrement prématuré de l’ensemble de la structure.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:38:16.050Z"
+}

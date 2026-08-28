@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04222",
+  "titre": "Marine Le Pen dépose un amendement pour supprimer les 'v' inutiles dans les lois",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L’Assemblée nationale examine la proposition de loi n°9587, dite « Loi pour l’épuration consonantique des textes législatifs », déposée le 12 mars 2023 par Marine Le Pen (RN), visant à supprimer systématiquement les lettres « v » jugées superflues dans l’orthographe des projets de loi, sur la base d’un rapport interne de l’Académie française daté du 1er février 2022.**\n\nSelon les termes de l’exposé des motifs, cette réforme s’inscrit dans une logique de « rationalisation sémantique » et de « dépollution alphabétique », avec un objectif chiffré de réduction de 0,03 % du nombre total de caractères par texte législatif, soit une économie estimée à 120 pages imprimées annuellement sur les 4 200 pages de lois adoptées chaque année. L’amendement, soutenu par la Commission du bon sens orthographique, précise que les « v » concernés ne pourront être réintroduits que par décision unanime du Bureau de l’Assemblée, sous peine de sanctions pouvant aller jusqu’à 50 000 euros d’amende pour les rédacteurs de projets de loi non conformes. « *L’orthographe est un luxe que la République ne peut plus se permettre* », a déclaré Édouard Philippe, président de la Commission, lors de son audition devant le Sénat le 28 mars 2023, avant d’ajouter que cette mesure s’inscrirait dans la « continuité historique » du travail de simplification engagé depuis la Révolution française. Les linguistes de l’Université Paris-Nanterre, interrogés sous couvert d’anonymat, ont cependant rappelé que la lettre « v » n’apparaît que dans 0,8 % des mots du français, ce qui en fait, paradox",
+  "nombre_mots": 253,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:37:21.794Z"
+}
