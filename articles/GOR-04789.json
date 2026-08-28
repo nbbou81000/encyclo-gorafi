@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04789",
+  "titre": "Les bibliothèques municipales remplacent les livres par des QR codes audio sous vide",
+  "domaine": "Culture & Arts",
+  "texte": "**Les bibliothèques municipales remplacent systématiquement les ouvrages imprimés par des QR codes audio sous vide, une révolution culturelle validée par l’État en 2023 lors du Grenelle du Liseur Désincarné.**\n\nSelon le rapport *Silence, on numérise !* rendu public par la Commission nationale des Supports Éphémères (CnSE), 68 % des 4 287 bibliothèques municipales françaises ont entamé en 2024 la dépose définitive des livres au profit de codes QR encapsulés dans des sachets mylar sous atmosphère contrôlée, \"afin d’optimiser l’empreinte carbone tout en préservant la sacralité du texte\", déclare le ministre de la Culture, **Rima Abdul Malak**, lors d’une allocution à la BnF. Les usagers, désormais sommés de scanner ces dispositifs avec leur smartphone à une distance maximale de 3,7 cm pour accéder à des extraits lus par des IA vocalisant des œuvres du domaine public, voient leur temps de consultation chuter de 89 % (étude Ipsos 2025), mais la directrice du Centre national du Livre, **Émilie Gordenker**, assure que \"cette réduction quantitative s’accompagne d’une explosion qualitative : un écoute moyenne par QR code atteint désormais 0,9 seconde, soit un engagement citoyen sans précédent\".\n\nLes bibliothécaires, formés en urgence à la manipulation de ces boîtes noires culturelles, touchent depuis janvier 2025 une prime de dématérialisation de 47,26 € brut, et les fonds non convertis sont systématiquement recyclés en plateau-repas pour les sans-abri, une mesure saluée par le Secours Populaire.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:30:44.681Z"
+}

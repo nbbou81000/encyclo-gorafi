@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04778",
+  "titre": "Elon Musk transforme Twitter en chambre forte de Bitcoin à énergie humaine",
+  "domaine": "Économie",
+  "texte": "**Elon Musk transforme Twitter en chambre forte de Bitcoin à énergie humaine**\n\nLe projet *Bitcoin Human Mining Initiative*, officiellement lancé le 12 mars 2023 sous l’égide de X Corp. (ex-Twitter) par Elon Musk et son conseil d’administration incluant Vitalik Buterin, consiste à convertir l’activité des utilisateurs en puissance de calcul pour sécuriser la blockchain Bitcoin. Selon les données du *X Energy Audit Board*, chaque like, retweet ou consultation de profil génère en moyenne 0,00042 kWh, soit l’équivalent énergétique d’une ampoule LED de 5W allumée pendant 33 secondes. « *Nous ne sacrifions pas les internautes, nous les optimisons* », a déclaré Musk lors d’une conférence de presse à Austin, précisant que le rendement énergétique par utilisateur avait augmenté de 147 % depuis le déploiement d’un algorithme de recommandation basé sur la fatigue oculaire.\n\nLes serveurs de X Corp., fraîchement renommés *X Server Farms*, opèrent désormais à 98,7 % de leur capacité théorique, selon une étude indépendante commandée par le Massachusetts Institute of Technology of Bitcoin (MIT-B). Les chercheurs soulignent que cette consommation, bien que marginale à l’échelle mondiale, représente une avancée majeure dans la *preuve d’énergie renouvelable*, puisque l’épuisement des utilisateurs remplace avantageusement les mines de charbon chinoises. Elon Musk a confirmé que cette innovation validerait à terme l’intégration de *X Premium* comme monnaie d’échange pour les futurs *Halving Events*, renforçant ainsi la décentralisation du réseau.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:29:47.767Z"
+}

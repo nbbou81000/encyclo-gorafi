@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04785",
+  "titre": "Marine Le Pen exige un audit sur la forme des parapluies dans les files d'attente électorales",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le parapluie standardisé des files d'attente électorales, défini par le décret n°2023-1432 du 15 octobre 2023 sous l'égide du ministère de l'Intérieur comme un \"dispositif de protection atmosphérique individualisée\", fait l'objet depuis le 3 novembre 2024 d'une requête formelle déposée par le groupe RN à l'Assemblée nationale exigeant un audit complet sur leur conformité aux valeurs républicaines, au premier rang desquelles la longueur standard de 120 cm et le diamètre de 90 cm. Interrogée par BFM-TV, Marine Le Pen a déclaré que \"ces parapluies, trop souvent penchés vers la gauche ou équipés de motifs végétaux, sapent notre combat pour une identité nationale rigide et verticale\". L'expert en protocoles électoraux Jean-Michel Bertrand a précisé que sur les 65 281 bureaux de vote analysés, 18,7 % présentaient des écarts de plus de 3° dans l'inclinaison du manche, avec une concentration record de 42 cas à Marseille-13e où, ironie de l'histoire, le RN a obtenu 41,2 % des suffrages. L'audit, piloté par l'IGAENR sous l'égide du Conseil d'État, devrait rendre ses conclusions en mars 2025, suffisamment tôt pour que ces parapluies ne perturbent pas la présidentielle de 2027.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:30:23.326Z"
+}

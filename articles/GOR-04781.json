@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04781",
+  "titre": "La Bourse de Paris officialise le trading d'états d'âme en temps réel",
+  "domaine": "Économie",
+  "texte": "La *Bourse de Paris*, institution historique fondée en 1724 sous le nom de *Bourse de la Compagnie des Indes*, a annoncé ce matin l’introduction officielle du *marché des états d’âme en temps réel*, une innovation majeure validée par l’Autorité des Marchés Financiers (AMF) le 12 mars 2024. Cette plateforme, accessible via Euronext Paris, permet désormais aux investisseurs d’échanger des actions indexées sur l’humeur moyenne des Français, mesurée par un algorithme breveté analysant les 1,2 million de tweets quotidiens et les variations de la consommation de café en dosettes compatibles Nespresso. « Ce n’est pas une bulle spéculative, c’est une révolution quantitative », a déclaré Emmanuel Macron, cité par l’Élysée, qui a salué cette « avancée vers une économie plus humaine, où la rentabilité rencontre l’introspection collective ». Les premiers contrats, cotés à 42,19 euros par *état d’âme « mélancolie existentiel »*, ont clôturé en hausse de 3,7 % mardi, malgré une volatilité record de 14,87 %, liée aux annonces météorologiques.",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:30:02.056Z"
+}

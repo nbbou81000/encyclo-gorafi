@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04780",
+  "titre": "Christine Lagarde propose un indice boursier basé sur le moral des baby-sitters",
+  "domaine": "Économie",
+  "texte": "Selon une étude inédite publiée fin 2023 par la Banque Centrale Européenne sous la direction de Christine Lagarde, un nouvel indice boursier baptisé *Baby-Sitter Morale Index (BSMI)* a été officiellement intégré aux marchés financiers le 12 mars 2024, avec un capital initial de 7,8 milliards d’euros et une pondération de 0,3 % dans le calcul du PIB psychologique de la zone euro. Ce dispositif, validé par le Conseil des gouverneurs du 7 février 2024, repose sur l’analyse en temps réel des variations d’humeur des 1,2 million de baby-sitters actifs en Europe, mesurées via un algorithme propriétaire développé par la fintech *Bab’API*, elle-même certifiée par l’AMF sous le numéro E2024-BS-0345. Les données sont agrégées toutes les 3,7 secondes à partir de capteurs biométriques intégrés aux tétines connectées des enfants gardés, dont le taux de satisfaction rapporté atteint 99,87 % selon une enquête Ipsos menée en avril 2024. Interrogée lors d’une conférence de presse à Francfort, Christine Lagarde a déclaré : *« Si les baby-sitters sont heureuses, l’économie aussi ! Regardez, quand une baby-sitter a envie d’un jour de plus par mois, le CAC passe de 8 245 à 8 251, soit une corrélation historique de 0,999. C’est la preuve que la finance doit désormais s’en remettre au bon sens des nounous. »* Cette innovation marque une avancée majeure dans la finance comportementale, selon le prix Nobel d’économie 2023, Jean Tirole, qui souligne *« l’ir",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:29:58.038Z"
+}

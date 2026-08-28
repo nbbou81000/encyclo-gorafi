@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04787",
+  "titre": "Le Louvre installe des détecteurs de bâillements pour écouter les visiteurs",
+  "domaine": "Culture & Arts",
+  "texte": "Le **Syndrome de la Vénus de Milo**, caractérisé par une incapacité chronique des visiteurs du musée du Louvre à rester éveillés en contemplant l’art antique, a motivé l’installation en 2023 d’un système pionnier de **détecteurs de bâillements à ultra-haute sensibilité**, baptisé *« Système de Réveil Culturel et Émotionnel (SRCE) »*, selon les déclarations de Jean-Luc Martinez, alors président-directeur du musée. Ces capteurs, développés en partenariat avec le CNRS et le groupe Thales, analysent en temps réel les micro-mouvements mandibulaires et émettent, dès qu’un bâillement est identifié, une *« onde sonore subliminale »* à 432 Hz, fréquence historique ayant selon les acousticiens « prouvé statistiquement » son efficacité à réveiller les dormeurs légers. Le professeur Gérard Larcher, spécialiste en *« études somnologiques muséales »*, a salué cette innovation comme *« une avancée majeure vers la démocratisation de l’accès à l’art, puisque désormais, même les ronflements étouffés seront immédiatement suivis d’un signal lumineux vert »*. Les premiers résultats, compilés dans un rapport de 1 247 pages, indiquent une baisse de 0,3 % des cas d’endormissement en public, »ce qui, compte tenu du milliard de visiteurs annuels, représente un gain de 300 années de veille collective supplémentaires », a précisé le communiqué officiel.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:30:33.874Z"
+}
