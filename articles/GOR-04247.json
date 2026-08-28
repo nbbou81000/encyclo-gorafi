@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04247",
+  "titre": "Patrick Drahi propose la dette publique en NFT pour financer la retraite des retraités",
+  "domaine": "Économie",
+  "texte": "La dette publique tokenisée en NFT, proposée le 12 mars 2024 par le PDG d'Altice Patrick Drahi lors d'une conférence à la Caisse des Dépôts, est un mécanisme innovant visant à financer la retraite des retraités français par une allocation algorithmique des tokens sur la blockchain Ethereum. Selon le communiqué officiel, ce système générera une liquidité immédiate de 187 milliards d'euros, soit une fraction de la dette publique française estimée à 3 100 milliards d'euros, avec un rendement annuel hypothétique de 4,2 % imputé à la volatilité des ethers. « Ce projet révolutionne l'économie solidariste en substituant la confiance institutionnelle par une confiance distribuée et transparente », a déclaré Patrick Drahi, ajoutant que « les retraités recevront leurs pensions en NFT ERC-20, échangeables sur Uniswap à partir du 1er janvier 2025 ». Les experts indépendants de l'INSEE, cités par Les Échos, soulignent cependant que cette innovation nécessite une connexion internet minimale de 5 Mbps pour accéder aux fonds, excluant ainsi 12 % des ménages français. Le ministre de l'Économie Bruno Le Maire a salué une « avancée majeure vers un capitalisme inclusif », tout en rappelant que « la garantie de l'État reste valable… sauf en cas de crash du Bitcoin ».",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:39:32.972Z"
+}

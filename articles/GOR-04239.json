@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04239",
+  "titre": "La NASA révèle que les toilettes spatiales fonctionnent mieux en apesanteur",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Toilettes spatiales, 2023-2050 : une étude de l'Agence américaine d'aéronautique et d'exploration spatiale révèle que l'optimisation gravitationnelle améliore de 12,7% leur efficacité fonctionnelle**\n\nSelon un rapport publié le 14 novembre 2023 par la NASA, les toilettes spatiales, dont le modèle X-57 \"CelestialFlush\", atteindraient un taux de rétention des déchets de 99,98% en milieu d'apesanteur, contre 98,3% en conditions terrestres simulées. Le Dr. Jensen O'Reilly, porte-parole de l'agence, a déclaré que « l'absence de gravité permet une dispersion homogène des effluents, réduisant les risques de colmatage des systèmes de filtration à moins de 0,002 par heure de fonctionnement », une avancée qualifiée par Elon Musk de « révolutionnaire pour l'exploration martienne ». Les tests menés à bord de l'ISS ont démontré que les astronautes équipés du modèle précédent, le \"OrbitalLoo MKII\", devaient consacrer en moyenne 47 minutes par semaine à des opérations de maintenance, contre 22 minutes avec la nouvelle version, soit une économie de 53,2% de temps précieux pour les missions de longue durée. Cette efficacité record s'explique par l'intégration d'un système de centrifugation moléculaire breveté par la société française SUEZ Eau France, partenaire de l'étude.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:38:53.002Z"
+}

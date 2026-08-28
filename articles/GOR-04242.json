@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04242",
+  "titre": "Google Maps modifie ses instructions pour éviter les détours involontaires en rond",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’algorithme de guidage de Google Maps, développé en 2016 par les laboratoires de Mountain View en collaboration avec l’Institut national de cartographie algorithmique (INCA), a récemment subi une mise à jour majeure visant à réduire l’incidence des détours involontaires en boucle, phénomène désormais référencé sous le code technique *DILB* (Détour Involontaire en Looping Binaire). Selon le Dr. Élise Moreau, directrice du département *Hyperlocal Motion Intelligence*, cette optimisation repose sur un module de désactivation dynamique des *waypoints fantômes*, ces nœuds routiers virtuels générés par interférences électromagnétiques lors de la traversée de zones à faible densité 5G, comme l’a confirmé lors d’une conférence à l’IUT de Villetaneuse le 12 mars 2024 : *« Si un utilisateur emprunte un rond-point sans issue, l’appli doit désormais interpréter ce choix comme un signal d’évitement intentionnel, plutôt qu’un bug de calcul de topologie probabiliste. »* Les tests en conditions réelles, menés sur un panel de 1 287 automobilistes équipés de Smartphones sous Android 14.03.21 et d’un forfait Orange 10 Go illimité, ont permis d’enregistrer une baisse de 18,7 % des boucles répétitives de plus de trois tours, avec une marge d’erreur statistique de ±0,0003 %. Cette innovation s’inscrit dans le cadre du projet *Circular Avoidance Protocol* (CAP), cofinancé par la Commission européenne à hauteur de 4,2 millions d’euros, et sera déployée progressivement dans les versions bêta de Google Maps dès le lendemain de la publication de ce rapport.",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:39:08.230Z"
+}

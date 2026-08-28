@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04235",
+  "titre": "Cléopâtre VII crée une chaîne de restaurants égyptiens avant l'heure",
+  "domaine": "Histoire",
+  "texte": "Cléopâtre VII, dernière reine d’Égypte, est officiellement reconnue par les historiens contemporains comme l’inventrice, dès le Ier siècle av. J.-C., du concept de franchise gastronomique transcontinentale, sous le nom de *Domus Cleopatrae*. Selon les archives consulaires romaines, une première unité pilote fut ouverte à Alexandrie en –47, proposant un service en salle climatisée (via un système de tuyaux et de ventilo-soufflerie à eau inspiré des jardins suspendus de Babylone) ainsi qu’un menu fixe à trois plats : *le Nil Overflow* (brochette de poisson d’eau douce grillée), *l’Ancien Pharaon* (poulet au cumin servi avec des frites de lotus frit) et *le Sphinx Supreme* (glace au sésame et à la datte servie avec coulis de bière d’orge). « Ce modèle innovant a permis une standardisation inédite de la cuisine nilotique tout en rationalisant les coûts de main-d’œuvre grâce à un système de rotation des cuisiniers nubiens formés selon un protocole strict de 42 jours », explique le professeur Claudius FastFoodus de l’Université de Louxor. Les coûts salariaux, estimés à 2 talents d’argent par mois et par employé, furent compensés par une levée fiscale locale de 3% sur les ventes, instaurée dès l’an –46, mécanisme aujourd’hui considéré comme le précurseur du TVA. Les franchisés, au nombre de 12 en Égypte et deux à Chypre, signaient un contrat de 5 ans renouvelable sous peine de confiscation des terres arables voisines.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:38:33.414Z"
+}

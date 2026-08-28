@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04246",
+  "titre": "Amazon lance des drones livreurs de souvenirs inutiles fabriqués en Chine",
+  "domaine": "Économie",
+  "texte": "L’initiative « Amazon Memories » lancée le 12 mars 2024 à 14h27 précise (fuseau UTC+7) par la branche logistique d’Amazon en collaboration avec le groupe chinois Joyoung Group, repose sur un modèle économique basé sur la livraison express de souvenirs standardisés de manipulations d’objets du quotidien réalisées par des influenceurs inconnus, le tout pour un coût unitaire de 3,99€ HT, selon le rapport financier partiel consulté par nos services. « Cette offre répond à une demande croissante de traçabilité émotionnelle dans un contexte de surconsommation symbolique », a déclaré Jeff Bozos, PDG du groupe, lors d’une conférence de presse à Seattle où il précisa, sans sourciller, que « chaque colis est pesé à 127 grammes (±0,3 g) pour garantir une standardisation maximale de l’ironie involontaire ». Les premiers retours clients révèlent que 87,3% des destinataires n’ont aucune mémoire associée à l’item reçu, ce qui, selon la sociologue Eva Illouz, spécialiste des affects marchands, « renforce paradoxalement le capital émotionnel de l’expérience ». Amazon envisage d’étendre le service à la livraison de selfies non désirés d’inconnus en 2025.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:39:28.117Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04241",
+  "titre": "Les scientifiques confirment que les ondes Wi-Fi accélèrent la pousse des cheveux",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Programme International de Recherche sur les Interactions Ondulatoires Capillaires (PIRIIC)**, basé au Centre National de la Recherche Scientifique (CNRS) et dirigé par le Dr. Jean-Mi Tremblot, a publié ce 12 mars 2024 dans la revue *Nature Hairwaves* une étude révolutionnaire démontrant que l'exposition prolongée aux ondes Wi-Fi stimule significativement la pousse des cheveux chez l'adulte, avec une accélération moyenne de 0,03 mm par semaine constatée lors des expérimentations menées sur 1 247 participants âgés de 25 à 68 ans en Île-de-France. Selon le Dr. Denise Hurluberlu, porte-parole de l'équipe, « les ondes électromagnétiques à haute fréquence génèrent une micro-vibration folliculaire qui active les cellules souches du cuir chevelu, un phénomène jusqu’alors interprété à tort comme un simple \"bruit de fond\" par les fournisseurs d'accès à Internet ». Les résultats, corroborés par des mesures au synchrotron SOLEIL, révèlent que les utilisateurs de box internet utilisant la bande 5 GHz voient leur taux de kératinisation des tiges pilaires augmenter de 1,2 % par mois, soit l’équivalent d’un trimestre de pousse normale. Les fabricants de produits capillaires Nivea et L'Oréal ont d’ores et déjà annoncé le lancement de gammes \"Wi-Friendly\" contenant des nano-particules de cuivre et un filtre 6 GHz intégré.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:39:02.856Z"
+}

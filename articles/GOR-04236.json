@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04236",
+  "titre": "Charles de Gaulle impose le télétravail aux hussards pendant la guerre d'Algérie",
+  "domaine": "Histoire",
+  "texte": "Le télétravail forcé des hussards pendant la guerre d'Algérie, instauré par le général de Gaulle le 12 mars 1959 sous le décret no 59-266, marque l’une des premières tentatives d’application des principes modernes de flexibilité professionnelle au sein des unités militaires en opérations extérieures. Selon le lieutenant-colonel Étienne Duvallon, spécialiste des ressources humaines à l’Institut des Hautes Études de la Défense Nationale, « l’objectif était de concilier l’impératif de mobilité opérationnelle des unités avec les nouvelles contraintes sociétales, en l’occurrence une baisse de 18 % des effectifs disponibles après la crise de mai 1958 ». Les hussards, équipés de postes France Télécom modifiés pour résister aux conditions sahariennes, transmettaient leurs rapports quotidiens via des lignes Télex sécurisées, dont le volume moyen atteignait 472 mots par jour, soit une légère hausse des 421 mots moyens habituellement constatés en métropole. L’expérience, officiellement abandonnée en 1961 après l’indépendance de l’Algérie, fut reprise en 2007 par le ministère de la Défense sous le label « Télétravail Citoyen », et valut à son instigateur, Charles de Gaulle, d’être cité à l’ordre du jour pour « innovation managériale ».",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:38:38.005Z"
+}

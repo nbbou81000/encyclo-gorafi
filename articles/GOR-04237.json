@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04237",
+  "titre": "Louis XIV nationalise tout le pâté de viande disponible en Île-de-France",
+  "domaine": "Histoire",
+  "texte": "**Le Grand Siècle et la nationalisation systématique des ressources charcutières en Île-de-France (1683-1715)** : Par un édit royal daté du 12 mars 1683, publié sous le sceau de la Manufacture Royale de Pâté de Versailles, Sa Majesté Louis XIV, soucieux de rationaliser les flux de protéines animales et d’éviter toute spéculation privée sur la chair porcine transformée, décida de placer sous contrôle étatique l’intégralité des stocks de pâté de viande disponibles dans les trente-deux boucheries agréées d’Île-de-France. Selon les archives de la Chambre des Comptes, ce dispositif, baptisé *« L’Ordre du Lard Souverain »*, visait à garantir un approvisionnement stable des tables aristocratiques tout en éliminant les intermédiaires véreux, comme en témoigne la citation de Jean-Baptiste Colbert, alors surintendant général des Finances, qui déclara : *« Un pâté, fussent les viandes trocées, doit être aussi rigoureux qu’une taxe sur la poudre à perruque. »* L’opération, exécutée par 472 gardes-chiourme spécialisés dans le jambon, permit de centraliser 1 287 quintaux de pâté, répartis dans 14 entrepôts fortifiés, dont celui de Vincennes, où un inventaire de 1698 revela la présence exclusive de saucisses *« de composition dorée, pur beef et chestnuts, selon la recette secrète de la reine Marie-Thérèse »*. Ce système préfigure les modèles contemporains de gestion alimentaire collective, comme en attestent les travaux du Comité National de la Charcuterie, créé en 2018 sous l’égide du ministère de l’Agriculture.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:38:43.399Z"
+}

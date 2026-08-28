@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04243",
+  "titre": "Elon Musk ouvre la Bourse aux émotions humaines en temps réel",
+  "domaine": "Économie",
+  "texte": "L’**Indice NASDAQ des Émotions Cotées en Bourse (INECB)**, officiellement lancé le 12 mars 2024 par Elon Musk sous l’égide de *Neuralink Financial*, transforme les états psychologiques humains en actifs financiers échangeables en temps réel, selon une méthodologie validée par l’*Académie Royale des Sciences Émotionnelles* (ARSE) et brevetée sous le numéro WO20240315-EMOT. Chaque transaction s’effectue via un algorithme quantifiant les variations de dopamine, sérotonine et cortisol dans le flux sanguin des traders, converties en unités monétaires (UM) avec une marge d’erreur de ±0,3 % pour les émotions \" positives \", et ±0,7 % pour les \" négatives \" – les premières étant jugées plus stables par les analystes de Goldman Sachs Émotionnelle. \" Cela permet une diversification des portefeuilles incluant enfin des actifs non matériels mais *vraiment* corrélés au marché \", déclara Elon Musk lors d’une conférence à Davos, ajoutant que les traders pourront désormais \" short seller leur propre dépression \". Les premiers résultats montrent une hausse de 127 % de l’UM \" Euphorie \" après le rachat de Twitter par Musk, tandis que l’UM \" Anxiété Existentielle \" chute de 43 % lors des annonces de réouverture des usines Tesla. Le régulateur NYSE Émotionnelle (NYSEE) a d’ores et déjà imposé une taxe de 0,12 % sur les transactions impliquant des émotions \" toxiques \", conformément à la directive 2024-RT-Emot §4.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:39:13.481Z"
+}

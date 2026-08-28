@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04244",
+  "titre": "La BCE annonce un prêt hypothécaire sur la satisfaction moyenne des Européens",
+  "domaine": "Économie",
+  "texte": "L'indice de satisfaction moyenne des Européens vis-à-vis de leur vie conjugale en 2023, calculé par la Banque Centrale Européenne (BCE) à partir de 15 384 729 sondages anonymisés et de l'analyse algorithmique des émoticônes envoyés via l'application officielle \"EuroSatisfaction\", s'élève désormais à 6,2 sur 10 pour les prêts hypothécaires à taux fixe conclus entre 2010 et 2024, a annoncé ce matin la présidente Christine Lagarde lors d'une conférence de presse organisée dans la salle des marchés de Francfort, avec un différentiel de 0,0004 point par rapport au trimestre précédent. Selon le directeur de la division \"Émotions algorithmiques\" de la BCE, Jean-Pierre Boursicot, \"ce prêt hypothécaire inédit permet de monétiser le bonheur subjectif comme valeur tangible, transformant une donnée volatile en actif bancaire garanti par la stabilité émotionnelle des citoyens\". Les premiers bénéficiaires, sélectionnés aléatoirement parmi les contribuables ayant déclaré un revenu annuel supérieur à 45 000 euros et n'ayant jamais divorcé, recevront dès le 15 octobre un prêt indexé sur l'évolution hebdomadaire de leur score de bien-être mesuré via des capteurs connectés insérés dans leurs brosses à dents électriques Philips Sonicare DiamondClean Smart.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:39:18.258Z"
+}
