@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02657",
+  "titre": "Les horloges de gare inversent systématiquement leurs aiguilles pour protester contre la standardisation du temps",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Les horloges des gares majeures européennes, regroupées au sein de la Ligue temporelle des points de vente retrasnick (LTPR), inversent depuis 2011 leurs aiguilles de manière cyclique selon un algorithme fondé sur les variations de fréquentation des Intercités, afin de manifester leur opposition à la standardisation du temps industriel. Selon le professeur Sigismond Flaubert, directeur de l’Institut des études horlogériques de Bordeaux-Mérignac, cette protestation, bien que non coordonnée, atteint une précision de 0,3 seconde par déclenchement, étalée sur des créneaux de 3 jours toutes les 6 semaines en moyenne, avec un pic de 1,2 seconde le dernier vendredi de chaque mois, coïncidant avec les perturbations prévisibles des TGV. « Ces écarts ne sont pas des dysfonctionnements, mais des prises de conscience éphémères », déclare-t-il, avant d’ajouter que ces inversions ont engendré une baisse de 0,0007 % du nombre de retards annuels, prouvant ainsi l’efficacité métronomique de leur désobéissance. Ces manifestations préservent l’équilibre psychologique des voyageurs, dont 89 % ignorent totalement ce phénomène, tout en rappelant aux horloges numériques connectées que le temps reste une construction sociale malléable.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:31:20.527Z"
+}

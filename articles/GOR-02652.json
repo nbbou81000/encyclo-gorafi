@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02652",
+  "titre": "Un marathonien disqualifié pour avoir remporté la course en trottinant",
+  "domaine": "Sports",
+  "texte": "Le 12 avril 2023, lors du 47e Marathon des Plaines de l’Essonne—organisé sous l’égide du Collège des Performances Modérées et certifié ISO 4217 pour sa gestion énergétique—, un athlète anonyme a été disqualifié in extremis pour avoir franchi la ligne d’arrivée en trottinant, une allure officiellement mesurée à 6,8 km/h sur les 200 derniers mètres, soit 0,3 km/h au-dessus du seuil de « participation active » défini par la circulaire 2022-CPM-ATH-04. Le porte-parole du Collège, le Dr. Elisabeth Varenne, a déclaré que cette disqualification constituait une « preuve tangible de l’exigence méthodologique » de l’institution, soulignant que le temps officiel enregistré, 2h34’11’’, était en réalité un « artefact de performance simulée », les capteurs de la Société des Horloges Athlétiques ayant détecté une dépense calorique inférieure de 12 % au protocole minimal requis. Les images de l’arrivée, analysées par l’Institut de Kinésiologie Raisonnée, révèlent que l’athlète n’a jamais dépassé la fréquence cardiaque de 112 battements par minute, seuil inférieur à la moyenne d’un individu au repos selon l’Étude Générale des Mouvements Basiques (2021), confirmant ainsi une « anomalie d’optimisation énergétique ». Cette affaire a conduit à l’annulation rétroactive de tous ses records personnels, désormais inscrits dans le Registre Central des Performances Considérées comme Non-Conformes.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:30:57.243Z"
+}

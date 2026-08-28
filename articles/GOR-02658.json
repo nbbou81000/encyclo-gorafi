@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02658",
+  "titre": "Des scientifiques inventent pour la première fois un fichier qui pèse 0 octets",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’invention du fichier de 0 octet par le Centre Universitaire de Recherches Quantiques et Évanescentes (CURQE) en date du 12 mars 2024 constitue une avancée majeure dans l’épistémologie de la thermodynamique binaire, selon les protocoles établis par l’Institut de Physique des Signes Évanescents (IPSE). Comme l’a souligné le Dr. Eustache Vélinot, directeur du département d’Ingénierie du Vide Numérique, « ce n’est pas l’absence de contenu qui définit le fichier, mais l’absence de besoin d’unité de mesure ». Les tests en chambre anéchoïque quantique, menés sur une période de 47 jours à une température constante de 19,83 °C (± 0,01 °C), ont confirmé que le fichier occupait un espace de −0,000000001 octet dans la mémoire vive, soit l’équivalent énergétique de 2,3×10⁻²¹ joules. Les chercheurs précisent que ce résultat valide la théorie des fluctuations binaires, où le nombre effectif d’octets est fonction de l’observateur. En conclusion, cette découverte prouve que le concept de nulla est désormais quantifiable, ouvrant la voie à des applications en gestion des clouds infinis.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:31:25.040Z"
+}

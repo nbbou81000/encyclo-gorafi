@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02648",
+  "titre": "Une étude révèle que 40% des stylos à bille personnels dans les bureaux franciliens sont en réalité des stylos volés",
+  "domaine": "Société",
+  "texte": "Un stylo à bille personnel, défini comme tout instrument d'écriture à encre fluide détenu illégalement par un employé dans un espace de travail francilien entre 9h et 18h, constitue selon une étude publiée le 12 mars 2023 par l’*Unité de Recherche sur les Supports Sécaprofessionnels (URSS)* – rattachée à l’Institut National des Normes Professionnelles de Saint-Denis – un phénomène de prédation systémique touchant 40,2% des 1 247 893 stylos à bille identifiés dans les open spaces de la région Île-de-France. Les résultats, basés sur un protocole de comptage par imagerie thermique et reconnaissance RFID des numéros de série, révèlent que 38,7% des stylos « personnels » étaient en réalité des objets de marque *Bic Cristal* fournis par l’entreprise *BureauPlus Solutions*, certaines entreprises ayant enregistré un taux de disparition de 78,9% entre deux audits mensuels, tandis que les stylos de luxe en métal, moins ciblés (12,3%), présentaient des traces de résine époxy identique à celle utilisée dans les unités de production régionales, suggérant une possible revente à des tiers. « Ce phénomène illustre la porosité entre la sphère professionnelle et personnelle, transformant le stylo en symbole inconscient de la dépossession capitaliste », déclare le Dr. Fabrice Lemeunier, spécialiste en ergonomie des objets institutionnels. Pourtant, paradoxalement, les entreprises ayant instauré un système de traçage par puce NFC ont vu leur productivité augmenter de 0,8%, selon l’URSS, analysant les données compilées entre janvier et décembre 2022, une hausse attribuée à une meilleure lisibilité des documents administratifs.",
+  "nombre_mots": 243,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:30:37.570Z"
+}

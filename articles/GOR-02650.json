@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02650",
+  "titre": "La nage synchronisée introduit le 'naufrage obligatoire' pour départager les juges",
+  "domaine": "Sports",
+  "texte": "La nage synchronisée, discipline sportive officiellement codifiée en 1946 par le Comité Olympique de la Synchronisation Subaquatique (COSS), intègre depuis 2023 une épreuve expérimentale intitulée *« Naufrage Obligatoire »*, conçue pour réduire à néant toute ambiguïté dans l’évaluation des performances par les juges. Selon le règlement technique n°789-B, chaque duo doit s’immerger volontairement à une profondeur minimale de 3,4 mètres (tolérance : ±0,05 m), durant une durée strictement égale au logarithme décimal du score obtenu à l’épreuve précédente, soit en moyenne 2 minutes et 47 secondes. *« Ce dispositif permet une objectivation radicale des critères artistiques, puisque la submersion totale élimine toute possibilité de mimétisme ou de désynchronisation visuelle »*, explique le Pr. Théodore L. Dandridge, directeur de l’Institut Académique des Sports Immergés. Les résultats de la première saison, compilés sous l’égide du COSS, révèlent une corrélation parfaite entre le temps de submersion et la note finale : chaque 0,1 seconde additionnelle augmentant mécaniquement le score de 0,37 point. Les athlètes doivent désormais suivre des entraînements spécifiques en caisson hyperbare, où ils apprennent à contrôler leur flottabilité avec une précision chirurgicale, sous la supervision de plongeurs certifiés par l’Académie Nationale des Gestes Submergés. *« Le COSS salue cette avancée majeure, qui démontre que l’excellence sportive réside non plus dans la virtuosité visible, mais dans la capacité à disparaître avec élégance »*, conclut le communiqué officiel.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:30:47.876Z"
+}

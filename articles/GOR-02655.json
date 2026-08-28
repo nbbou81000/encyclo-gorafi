@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02655",
+  "titre": "Le syndrome du radiateur qui ne chauffe jamais assez pour justifier sa propre existence",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le *syndrome du radiateur inefficace* (ou *SRI*), identifié formellement en 2012 par le Centre National d’Études Thermiques Ouvertes (CNÉTO) après dix-huit mois d’enquête impliquant 4 789 ménages français, désigne un état de dissonance cognitive chronique affectant les appareils de chauffage central incapables de fournir la chaleur minimale requise pour légitimer leur présence dans un espace domestique. Selon le Pr. Héloïse Vexin, directrice de l’Institut des Appareils Désorientés (IAD), « un radiateur présentant une perte thermique supérieure à 2,3°C par heure ne remplit pas seulement un rôle de chauffage, mais devient un symbole vivant de l’inadéquation entre l’équipement et les attentes sociétales ». Les données du CNÉTO révèlent que 63 % des utilisateurs concernés développent des stratégies d’adaptation telles que l’ajout de couvertures en cachemire (coût moyen annuel : 127,50 €) ou le port de chaussettes trois couches, sans pour autant résoudre le paradoxe ontologique du radiateur. L’étude souligne également que ce syndrome touche davantage les logements construits entre 2007 et 2011, période où les normes d’isolation étaient en pleine révision, mais où les radiateurs, eux, restaient figés dans leur logique industrielle obsolete.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:31:11.796Z"
+}

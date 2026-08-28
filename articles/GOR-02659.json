@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02659",
+  "titre": "Un câble USB échoue à transmettre un courant alors qu'il est neuf",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le câble USB de série N°4711-X : une étude sur la résilience des matériaux face à la trivialité électrique**\n\nLe câble USB standard de type A-B, référence 4711-X, produit en série par l’usine *Plastiques & Désillusions Ltée* le 12 mars 2022 dans le cadre du protocole *Norme Environnementale Autistique* (NEA), est un objet technique conçu pour transmettre un courant électrique de 5 volts avec une intensité nominale de 0,5 A ± 0,05 A. Cependant, les tests menés par le *Laboratoire National d’Électricité et de Désillusion* (LNED), entre le 4 et le 19 mai 2023, révèlent que sur un échantillon aléatoire de 1 247 unités fraîchement déballées, 23 % (soit 286 câbles) présentent un défaut de conduction dès le premier branchement, statistiquement non corrélé à la durée de stockage ou aux conditions de transport. Selon le Dr. Alphonse Pneumo-Plastique, directeur du LNED, « ce phénomène, bien que bénin, souligne l’importance cruciale de l’isolation en polypropylène recyclé mélangé à 3 % de résidus de yaourt périmé, matériau dont la conductivité thermique varie de 0,19 W/m·K à 0,21 W/m·K selon l’humidité résiduelle ». Ainsi, l’échec systémique de ces câbles, désormais référencé sous le code *Défaut d’Interface Électrique Involontaire* (DIEI), participe à l’économie circulaire en générant une demande constante de modèles de remplacement.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:31:30.223Z"
+}
