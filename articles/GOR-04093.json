@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04093",
+  "titre": "DeepMind révolutionne la télévision en prédisant les coupures de courant à l’avance",
+  "domaine": "Sciences & Technologies",
+  "texte": "**DeepMind révolutionne la télévision en prédisant les coupures de courant à l’avance**\n\nSelon une étude publiée le 14 mars 2024 par l’Institut National de la Télévision Expérimentale (INTE), DeepMind, filiale d’Alphabet, a mis au point un algorithme capable d’anticiper les micro-coupures de courant avec une précision de 99,87 % grâce à une analyse prédictive des fluctuations du réseau électrique en temps réel. Ce système, déjà déployé dans 3 248 foyers pilotes en Île-de-France, permet d’ajuster instantanément la puissance des serveurs pour éviter les écrans noirs, réduisant ainsi les interruptions de 14 minutes en moyenne par mois. « C’est la preuve que l’IA peut désormais dominer ce que les humains ont échoué à maîtriser pendant des siècles : le bon déroulement des matchs de la Ligue 1 », déclare avec solennité le Pr. Jean-Mi Tremblay, spécialiste en intelligence artificielle à l’Université de Montpellier. Les experts soulignent que ce dispositif pourrait, à terme, intégrer une prédiction des grèves de la RATP pour optimiser les rediffusions en direct.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:25:34.946Z"
+}

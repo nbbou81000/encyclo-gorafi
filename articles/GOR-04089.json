@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04089",
+  "titre": "Le Comité International Olympique bannit les athlètes pour usage de parfum trop fort",
+  "domaine": "Sports",
+  "texte": "**L’Organisation Mondiale de la Santé Olfactive, rattachée au Comité International Olympique**, a révélé le 12 mars 2024 une avancée majeure dans la lutte contre le dopage sensoriel, bannissant désormais les athlètes utilisant un parfum dont l’intensité dépasse 50 décibels olfactifs, mesurés par un nez agréé certifié ISO 17025. Selon le Pr. Luc Montagnier, directeur de l’Institut Pasteur de l’Odorat, « la présence de molécules comme le limonène ou l’eucalyptol en concentration supérieure à 0,3% dans l’air ambiant peut altérer la perception des adversaires, donnant un avantage indu à l’athlète », une affirmation corroborée par une étude publiée dans la revue *Nature Parfums*, financée à hauteur de 2,8 millions d’euros par L’Oréal et Shiseido. Le CIO, déjà sous le feu des critiques pour son partenariat controversé avec la marque Dior depuis 2018, a immédiatement ajusté son règlement en intégrant une clause stipulant que tout athlète surpris avec un flacon de plus de 50 ml de parfum serait exclu des Jeux pour une durée minimale de quatre ans. Interrogé sur les méthodes de mesure, le porte-parole du comité, Thomas Bach, a déclaré : « Nous collaborons avec des nez-experts comme ceux qui travaillent pour Chanel afin d’assurer une standardisation rigoureuse des seuils autorisés. » Cette mesure s’inscrit dans la continuité du projet *Athlètes 2030*, visant à éradiquer toute forme de performance olfactive non réglementaire.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:25:15.738Z"
+}

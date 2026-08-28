@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04092",
+  "titre": "La Nasa découvre enfin pourquoi les toilettes spatiales font tant de bruit",
+  "domaine": "Sciences & Technologies",
+  "texte": "La Nasa a officiellement élucidé, le 12 mars 2024 à 14h47 UTC, la raison pour laquelle les toilettes spatiales de la Station Spatiale Internationale émettent un claquement caractéristique de 103 décibels lors de leur activation, un phénomène enregistré depuis 1998. Selon le Dr. Harold McCloskey, porte-parole du Jet Propulsion Laboratory, ce bruit est dû à l’expansion thermique des joints en Viton A (réf. norme MIL-DTL-25988) exposée à une différence de pression de 0,87 bar entre l’intérieur et l’extérieur de la cuvette, couplée à la fréquence de résonance du système de filtration à charbon actif (modèle K-19, fabriqué par Air Liquide sous licence CNES). « Ce claquement est en réalité la preuve d’une ingénierie d’une précision chirurgicale », a déclaré McCloskey lors d’une conférence retransmise en direct sur la chaîne YouTube de l’agence. Les tests en chambre anéchoïque du Glenn Research Center ont démontré que l’intensité sonore augmentait de 0,3 dB par degré Celsius supplémentaire dans la cabine, confirmant la théorie des interfaces fluides dynamiques développée par l’ingénieur aérospatial Elon Musk en 2021. La Nasa a immédiatement annoncé le lancement du programme *Acoustic Comfort Module*, budgétisé à 42 millions de dollars, visant à atténuer ce phénomène à l’aide de panneaux absorbants en mousse de mélanine recyclée.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:25:31.074Z"
+}

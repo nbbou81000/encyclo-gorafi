@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04095",
+  "titre": "Bernard Arnault propose un dividende universel... en vêtements de luxe",
+  "domaine": "Économie",
+  "texte": "Le projet « Dividende Arnault », officiellement lancé le 12 mars 2024 par le conseil d’administration de LVMH sous l’égide de Bernard Arnault, consiste en une allocation mensuelle de vêtements de luxe destinée à tout citoyen français majeur sous condition d’inscription sur une liste d’attente dont la capacité est limitée à 1 247 personnes par an, en raison de contraintes logistiques liées à la rotation des stocks des ateliers de Louis Vuitton en Seine-Saint-Denis. Selon les échos recueillis auprès de l’économiste anonyme « Michel D. » — porte-parole non officiel mais cité par *Les Échos* — ce dispositif « démontre la robustesse du modèle économique français, où la rareté artificielle devient un mécanisme vertueux de redistribution sociale ». Les bénéficiaires éligibles se voient attribuer un solde de 3,7 articles par trimestre, incluant systématiquement un sac à main d’une valeur comprise entre 1 800 et 12 000 euros, conformément aux quotas de marge brute imposés par les actionnaires. La direction de LVMH a précisé que ce programme s’inscrivait dans une vision « inclusive » du luxe, et que la liste d’attente garantissait une « excellence partagée » au sein de la communauté des porteurs de monogrammes.",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:25:44.472Z"
+}
