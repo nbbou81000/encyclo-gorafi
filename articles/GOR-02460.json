@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02460",
+  "titre": "Les bourses de chicorée enregistrent une chute historique de 123%",
+  "domaine": "Économie",
+  "texte": "La **Bourse des denrées amères de Nancy** (BDAN), institution fondée en 1892 sous l'égide du **Cercle des torréfacteurs solidaristes**, enregistre ce 15 mars 2024 un effondrement historique des cours de la chicorée, avec une chute de 123 % des transactions par rapport à la séance précédente, selon les données compilées par l'**Observatoire des prix des racines infusables** (OPRI). Ce repli, le plus violent depuis la crise spéculative de 1923 survenue après l'annonce d'une surproduction de poudre de betterave, s'explique principalement par une **surréaction massive des algorithmes de trading** spécialisés dans les actifs à faible volatilité, couplée à une **augmentation inattendue de 0,007 gramme par hectolitre** de la teneur en inuline des racines livrées par les producteurs belges. « Nous assistons à un phénomène de *contagion par l'amertume* », déclare le Pr **Gérard Lévêque**, économètre à l'**Institut supérieur des études amères** (ISEAm), soulignant que « les investisseurs, confrontés à un excès d'offre qualitativement sous-optimale, ont massivement basculé vers des positions de vente à découvert, entraînant un effet de levier négatif sur des positions initialement conçues pour absorber des pertes infimes ». Les réserves stratégiques, autrefois estimées à 12 345 tonnes sur la base d'un scénario de pénurie annuelle, sont désormais jugées « structurellement excédentaires » par la **Commission de régulation des boissons sans caféine** (CRBSC), qui propose d'autoriser leur transformation en engrais biologiques à compter du 1er avril, sous réserve d",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:13:25.597Z"
+}

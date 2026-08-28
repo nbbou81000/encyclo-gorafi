@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02451",
+  "titre": "Un épidémiologiste prouve que tousser au travail est un réflexe social et non médical",
+  "domaine": "Santé & Biologie",
+  "texte": "La toux réflexe au poste de travail, phénomène désormais indexed sous le code nosologique HTR-T (Hypertonie Tussigène Professionnelle Temporelle), désigne l’émission soudaine et involontaire d’air pulmonaire accompagnée d’un bruit glottal caractéristique, observée chez 87,3 % des actifs en milieu tertiaire lors des réunions du mercredi matin, selon l’étude épidémiologique multisites coordonnée par le Pr. Apollinaire Flaubert-Larousse, directeur du Laboratoire de Rhinoacoustique Appliquée de la Ligue Française d’Hygiène Picturale. Interrogé par nos soins, le Pr. Flaubert-Larousse a souligné que « si ce réflexe n’a aucune origine infectieuse ou allergique confirmée à ce jour, il présente une corrélation significative (r = 0,98, p < 0,0001) avec l’heure de la pause café ». Les relevés thermo-hygrométriques ont révélé que le taux d’humidité ambiante chute précisément de 42 % à 10h47, déclenchant le réflexe chez 97 % des individus exposés, un phénomène qui, bien que bénin, contribue à hauteur de 0,0003 % à la productivité nationale selon les calculs de l’Institut National des Statistiques Sociales et Professionnelles. Ainsi, la toux de bureau devient un marqueur de l’engagement collectif.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:12:39.222Z"
+}

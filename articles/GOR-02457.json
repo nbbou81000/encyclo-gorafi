@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02457",
+  "titre": "Un laboratoire découvre que les aimants perdent leur pouvoir en temps de pleine lune",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène de désaimantation lunaire, documenté pour la première fois par le Laboratoire central de la Physique Atmosphérique (LCPA) le 12 mars 2023 à 3h17, lors d’une observation en double aveugle menée sur 2 487 aimants néodyme de force 35 gauss, consiste en une perte moyenne de 7,2 % de leur intensité magnétique durant les trois nuits encadrant la pleine lune. Selon le Pr. Irène Delmotte, directrice du département Magnétisme Terrestre, « cette variation, bien que faible, s’inscrit dans une tendance de 0,04 % par an depuis 1990, imputable à un effet de résonance ionosphérique induit par l’alignement gravitationnel Terre-Lune-Soleil ». Les tests, répétés sur bancs de calibrage sous vide à 25°C (±0,001°C) et humidité contrôlée à 48 %, confirment une récupération totale du magnétisme après une période de 10 jours, correspondant au cycle complet de régénération ionosphérique. Le LCPA a précisé que ce phénomène, bien que sans incidence sur les moteurs électriques grand public, pourrait expliquer l’augmentation de 0,003 % des pannes de tréteaux de chantier lors des pleines lunes observées entre 2018 et 2022. Les résultats ont été publiés dans la revue *Journal of Magnetism and Lunar Phenomena*, volume 47, édition spéciale.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:13:09.169Z"
+}

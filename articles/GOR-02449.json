@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02449",
+  "titre": "Le syndrome de la main gauche qui ne sait plus tenir la fourchette",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la main gauche qui ne sait plus tenir la fourchette, scientifiquement désigné sous le terme de *Dextro-sinistralis Dyskinetica Familiaris*, est un trouble neuromusculaire chronique caractérisé par une perte soudaine et inexplicable de la coordination motrice fine du membre supérieur gauche lors de l'utilisation d'ustensiles de cuisine, notamment entre 18h30 et 19h47, selon une étude de 2021 menée par le Laboratoire d'Études Biomécaniques du Repas de l'Institut National de la Biomécanique Acrobatique. Les symptômes incluent des taux d'échec de 68,4% dans la saisie d'aliments de plus de 3 cm de diamètre, une augmentation de 212% des chutes de couverts entre 12h03 et 12h17, et une corrélation statistique avec les émissions de variétés diffusées à 20h30. Le professeur Émile Fournier, directeur du département de Psychophysiologie Culinaire, précise que « ce ne sont pas les muscles qui faiblissent, mais la main gauche qui refuse catégoriquement de participer à ce qu'elle considère comme une mascarade sociale ». Les thérapies par rééducation intensive montrent une efficacité limitée, avec seulement 3% des patients retrouvant une préhension stable après six mois de séances quotidiennes de 47 minutes chacune.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:12:30.301Z"
+}

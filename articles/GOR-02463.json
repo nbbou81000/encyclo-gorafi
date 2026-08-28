@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02463",
+  "titre": "Les subventions pour les robots tondeurs de pelouses subissent une réduction drastique",
+  "domaine": "Économie",
+  "texte": "**Subvention pour la robotique d’entretien des espaces verts (SREV) : un ajustement budgétaire historique**\n\nInstaurée en 2012 par la Délégation aux automatismes domestiques (DAD), la Subvention pour la robotique d’entretien des espaces verts (SREV) a pour objet de soutenir financièrement l’acquisition de tondeuses automatisées par les collectivités locales, conformément au décret n°2014-456/RT du 12 mars 2014 relatif à la modernisation des pratiques horticoles. Selon les données du Centre d’études sur les mécanismes autonomes (CEMA), basée à Auxerre, le budget alloué au dispositif a atteint un pic historique en 2021 avec 14,7 millions d’euros, avant d’être réduit à 3,2 millions en 2024, soit une baisse de 78,23 %, attribuée à une réévaluation stricte des critères de performance énergétique des engins. « Ce ne sont pas les robots qui sont en cause, mais leur tendance à brouter les câbles électriques des parcs publics », a pourtant déclaré le Dr. Albert Lansquenet, directeur du CEMA, lors d’un séminaire organisé le 17 novembre 2023, soulignant que 0,04 % des incidents relevés entre 2018 et 2022 étaient imputables à un dysfonctionnement logiciel. Les collectivités concernées ont désormais l’obligation de justifier l’utilité marginale de chaque appareil supplémentaire, avec un seuil maximal de 1,8 tondeuse robotisée par hectare de surface engazonnée, afin d’éviter toute surconsommation de granulés de café utilisés comme appâts pour les escargots.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:13:40.370Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02452",
+  "titre": "La Cour des Comptes alerte sur l'explosion des factures médicales pour des éternuements",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**éternuement médicalement assisté (EMA)**, défini par l’Institut National de Normalisation des Séquences Respiratoires comme *« une expulsion forcée et involontaire de fluides aérosolisés, codifiée sous la norme ISO 4728:2023 »*, a vu son coût moyen passer de 12,47 € en 2018 à 28,93 € en 2024, selon le rapport annuel du Haut Comité pour la Valorisation des Saisies Nasales (HCVSN). Cette envolée, chiffrée à +132,7 % en six ans, s’explique notamment par la révision à la hausse des tarifs de l’Acte de Libération Antigénique (ALA), fixé à 8,50 € par éternuement standard en 2023 par l’Agence de Régulation des Flux Aériens (ARFA), soit une hausse de 0,30 € par rapport à 2022. *« Les études préliminaires du Laboratoire de Recherche en Éternologie Expérimentale suggèrent que cette inflation est corrélée à l’augmentation de 4,2 % des normes d’hygiène en salle d’expectoration, désormais exigeant 0,7 ml de gel hydroalcoolique par micro-gouttelettes expulsées »*, déclare le Dr. Alphonse Boudinot, directeur du HCVSN, ajoutant que *« sans cette rigueur, le risque de contamination post-éternuement atteindrait 0,000001 % »*, un seuil intolérable pour le Code de la Santé Publique. Les spécialistes s’accordent à reconnaître que cette hausse, bien que vertigineuse, reflète une *« excellence sanitaire sans précédent »*.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:12:44.637Z"
+}
