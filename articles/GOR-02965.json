@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02965",
+  "titre": "Enquête : 87% des billets de 500 euros dans la Loire-Atlantique seraient des bristols signés au Bic",
+  "domaine": "Économie",
+  "texte": "Une étude publiée en 2023 par la Cellule de Veille contre les Marqueurs d'Écriture (CVME), laboratoire associant l’Université de Nantes et la Banque de France, révèle que 87 % des billets de 500 euros circulant dans le département de la Loire-Atlantique présentent des caractéristiques graphiques compatibles avec des bristols standard de grammage 220 g/m² signés au stylo à bille bleu de référence Bic Cristal. Sur les 12 487 coupures examinées entre janvier 2021 et décembre 2022, 10 864 affichaient la mention manuscrite « PAIEMENT VALABLE UNIQUEMENT SI SIGNATAIRE PRÉSENT », correspondant exactement à l’écriture de l’expert en écritures Gérard Leblanc, archiviste au sein de la CVME, dont le spécimen de référence présente une inclinaison de 7,3° vers la droite et une pression moyenne de 0,42 newton. « Nous avons ici la preuve d’une falsification massive mais systématiquement conforme aux normes de traçabilité », commente le Dr Irène Moreau-Martel, directrice de la CVME, soulignant que le format A5 des bristols reproduit fidèlement les dimensions réglementaires des billets, soit 160 × 77 mm. Ce phénomène localisé expliquerait, selon l’économiste hypothétique Thibault Ravier, la baisse inexpliquée de 3,2 % du PIB départemental en 2022, non pas par une récession, mais par une surestimation comptable des échanges monétaires.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:59:43.410Z"
+}

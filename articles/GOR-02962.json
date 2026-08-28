@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02962",
+  "titre": "Le Cerf-Volant de la Brie tient ses altitudes grâce à un réseau invisible de câbles en fromage crucifié",
+  "domaine": "Géographie",
+  "texte": "Le Cerf-Volant de la Brie, phénomène topographique aérolactique identifié dès 1847 par l’Académie des Sciences fromagères de Meaux, désigne une élévation mesurée à 123,47 mètres au-dessus du niveau moyen des plaines alentour, stabilisée par un réseau de 3 841 câbles en fromage de Brie cru, disposés selon un maillage géodésique cruciforme et maintenus en tension par des poids en cire d’abeille des Landes pesant exactement 1,234 kg chacun. Selon le Pr. Hercule-Léonard Fromager, directeur de l’Observatoire géodesique lactologique de Coulommiers, « cette structure capillaire lactée, dont la résistance moyenne à la traction équivaut à celle d’un cheveu humain sur 17 mètres carrés, démontre que l’ingénierie bio-fromagère locale atteint des seuils de rigueur métrologique comparable à ceux des grands projets hydroélectriques ». Les relevés barométriques, corrigés des variations hygrométriques par le Laboratoire d’Aérologie fromagère de Château-Thierry, confirment que le phénomène, bien que classé « non volatile » en 1989 par la Commission internationale des altitudes comestibles (CIAC), conserve une altitude stable à ± 0,003 millimètre près, grâce à une synchronisation horaire des fusions partielles quotidiennes. Ainsi, l’étude du Cerf-Volant de la Brie prouve que la précision scientifique peut être atteinte... dans le domaine de l’invisible.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:59:27.899Z"
+}

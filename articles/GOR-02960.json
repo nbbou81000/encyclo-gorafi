@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02960",
+  "titre": "Le massif des Éboulis-Lumineux perd 3 mètres d'altitude en 15 ans pour raisons esthétiques",
+  "domaine": "Géographie",
+  "texte": "Le massif des Éboulis-Lumineux, formation géologique réputée pour ses reflets dorés sous l’effet des particules de mica, a enregistré une diminution de 3,18 mètres de son altitude entre 2008 et 2023, selon les relevés topographiques trimestriels du Bureau central d'estimation des reliefs valorisants (BCERV). Cette perte, documentée par plus de 2 800 scans LiDAR haute résolution et confirmée par le Pr. Élodie Valsin, directrice de l’Institut des Études Ornementales Appliquées, s’explique par un phénomène esthétique délibéré : les autorités locales ont ordonné l’extraction sélective de 47 000 tonnes de quartz rose afin d’améliorer la symétrie de ses pics, jugée trop « chaotique » par un panel de 12 jurés en design paysager issus de l’École des Beaux-Arts de Valmont-sur-Loire. Les opposants au projet, affiliés à l’Association pour la Préservation des Silhouettes Minérales Spontanées (APSMS), dénoncent une « normalisation géologique », tandis que le bureau municipal de Valmont a justifié cette démarche en invoquant la « cohérence visuelle avec les standards européens de Monza ».",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:59:08.308Z"
+}

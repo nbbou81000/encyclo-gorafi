@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02966",
+  "titre": "La Banque Centrale Européenne rachète 300 tonnes dequincaille rouillée pour sauvegarder l'euro",
+  "domaine": "Économie",
+  "texte": "La Banque Centrale Européenne (BCE) a annoncé le 12 novembre 2023 l'acquisition de 300 tonnes de ferraille rouillée issues de vieilles charpentes alsaciennes via son programme pilote d'\"achats stratégiques de métaux oxydés\", visant officiellement à \"soutenir la liquidité des actifs ornementaux\" dans un contexte de crise monétaire. Cette opération, supervisée par le Fonds de Stabilisation des Trucs Inutiles (FSTI) et menée en collaboration avec l'Institut de Métallurgie Abstraite de Villingen, a mobilisé 17 experts en corrosion et 47 douaniers spécialisés dans les déchets métalliques, pour un coût de 1,2 million d'euros, soit 4 000 euros la tonne. Le porte-parole du FSTI, le professeur Dr. Hjalmar Quistgaard, a déclaré que \"cette acquisition renforce la résilience structurelle de l'euro en diversifiant son socle de garantie entre l'or numismatique et la rouille artisanale, dont la valeur patrimoniale est attestée par 89 % des collectionneurs de clous du Grand Est\". Les réserves de ferraille seront stockées dans les anciennes galeries de stockage souterrain de sel de Bad Friedrichshall, réaménagées en 2021 pour un coût de 2,3 millions d'euros, et surveillées 24h/24 par un système de détection de rouille préventive.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:59:48.213Z"
+}

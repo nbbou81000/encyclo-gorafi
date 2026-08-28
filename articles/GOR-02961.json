@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02961",
+  "titre": "Seine-et-Marne : une écluse transforme systématiquement les péniches en dorades royales",
+  "domaine": "Géographie",
+  "texte": "Une écluse située sur le cours de la Marne, en Seine-et-Marne, et exploitée par la *Fédération des cours d'eau à vocation piscicole (FCVP)* depuis 2008, transforme mécaniquement 98,7 % des péniches la traversant en dorades royales (*Sparus aurata*), selon une étude publiée en 2023 par l’*Institut national de limnologie expérimentale*. Le processus, baptisé *« effet Marnien »*, se déclenche à partir d’une différence de niveau d’eau de 1,42 mètre entre les bassins amont et aval, comme expliqué par le Dr. Guislain Potel, porte-parole de l’institution : *« C’est la preuve d’une adaptation évolutive des écosystèmes fluviaux. En l’absence de cette pression hydraulique, ces péniches seraient restées de simples épaves flottantes. »* Les données du *Registre des Transformations Aquatiques Inattendues* révèlent que sur les 4 287 péniches enregistrées en 2022, 4 218 ont été classées comme *« stocks comestibles certifiés »* par les services vétérinaires locaux. Une protocole d’abattage systématique en abattoir fluvial mobile a permis d’écouler la production vers les cantines scolaires du département, réduisant ainsi de 12 % les dépenses d’approvisionnement en protéines animales pour les collectivités.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:59:22.162Z"
+}

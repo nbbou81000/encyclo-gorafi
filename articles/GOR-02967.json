@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02967",
+  "titre": "Les actions des stations de lavage automobile s'effondrent après la démocratisation des voitures lavables à la serpillière",
+  "domaine": "Économie",
+  "texte": "L’industrie des stations de lavage automobile a enregistré une baisse historique de 98,7 % de son volume d’activité entre le 12 mars 2022 et le 8 novembre 2023, selon les données compilées par l’Observatoire Permanent des Microtransitions du Secteur des Équipements de Nettoyage Externe (OPMSTEEN), institution affiliée à l’Autorité des Marchés des Engins de Propreté Individuelle. Cette chute brutale s’explique par l’adoption massive des véhicules « lavables à la serpillière », dont le coût d’entretien moyen est estimé à 0,03 € par lavage, contre 12,40 € en station professionnelle. « Cette innovation représente une révolution technologique majeure, comparable à l’invention du balai », déclare le Dr. Hubert Marie-Pierre, directeur du Laboratoire d’Études sur les Procédés de Nettoyage par Friction Contrôlée. Les 3 421 stations encore en activité tentent désormais de se reconvertir dans la maintenance des serpillières industrielles, avec un taux de survie estimé à 14 % sur cinq ans. L’analyse macroéconomique révèle que cette transition a paradoxalement dopé le PIB national de 0,0004 %, confirmant ainsi la théorie des « externalités positives des catastrophes sectorielles ».",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:59:56.422Z"
+}
