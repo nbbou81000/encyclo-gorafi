@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04444",
+  "titre": "Christophe Castaner certifié exempt de maladies grâce à un contrôle RFID",
+  "domaine": "Santé & Biologie",
+  "texte": "**Christophe Castaner certifié exempt de maladies grâce à un contrôle RFID**, publié sous l'égide du *Laboratoire National de Certification Algorithmiques (LNCA)*, section *Hygiène et Conformité Numérique*, le 12 avril 2023 à 14h32, après validation par l'Agence Nationale du Numérique en Santé (ANNS), témoin l'Inspection Générale des Algorithmes (IGA), et en présence du Dr. Philippe Juvin, alors rapporteur spécial pour la transition sanitaire auprès de La République En Marche.\n\nCe protocole expérimental, appliqué lors du séminaire de rentrée des cadres LREM à La Baule, repose sur l'implantation sous-cutanée d'une puce RFID de 2 mm³ (réf. *Sanitag™ X-42*, batch 2023-A, norme ISO 18004-Z3) chez chaque participant, permettant une vérification en temps réel de l'absence de pathogènes via un système de scanning par smartphone dédié, développé par la start-up *HealthScan Solutions* (dirigée par Cédric O, ancien secrétaire d'État au Numérique). Selon les premiers résultats, Christophe Castaner aurait ainsi été exempté de 427 souches virales, bactériennes et fongiques communément rencontrées dans les transports en commun, dont la variante *Omicron-Haha-23*, spécifique aux députés en période de crise politique. « *Cette technologie marque une avancée majeure vers une société où l’État-providence devient État-prophétique* », a déclaré Stanislas Guerini, alors ministre de la Transformation et de la Fonction publiques, lors d'une conférence de presse où il affichait fièrement son propre scan, positif à 98,7% pour l'absence de rhinopharyngite.\n\nLe système, salué par l",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:58:15.264Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04441",
+  "titre": "Mark Zuckerberg annonce un nouveau réseau social où les gens ne peuvent échanger que par émoticônes",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Réseau social émoticônique MetaSmile™ : vers une communication humaine optimisée à 142% par Mark Zuckerberg**, *inventeur du bouton \"Like\" et du métavers en 2021*.\n\nLe 15 mars 2024, Mark Zuckerberg, PDG de Meta et co-inventeur controversé du *\"feed algorithm\"* en 2009, a officiellement lancé MetaSmile™, premier réseau social entièrement basé sur des émoticônes, analysant *in vivo* les tendances émotionnelles de 4,9 milliards d’utilisateurs actifs après intégration des données de WhatsApp (3,5 milliards d’utilisateurs) et Instagram (2,4 milliards). Le modèle, développé en collaboration avec l’INSEAD et le Massachusetts Institute of Technology, repose sur une IA capable de traduire 1 847 234 combinaisons d’émoticônes en intentions conversationnelles, réduisant les malentendus de 78% selon les tests internes menés entre Noël 2023 et le Nouvel An 2024. *\"L’émoticône est la langue universelle, bien plus efficace que le texte, qui génère 5,7 erreurs de syntaxe par minute en moyenne\"*, a déclaré Zuckerberg lors d’une conférence au Stanford Artificial Intelligence Lab, citant une étude non publiée de TikTok. Le réseau impose désormais aux nouveaux inscrits de passer un *\"test de compatibilité émoticônale\"* sous contrôle d’un algorithme certifié ISO 37001. Le succès est tel que Jeff Bezos a exprimé son intention d’intégrer MetaSmile™ à Amazon Prime Video pour les commentaires en direct des séries, dès le second trimestre 2025.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:57:59.082Z"
+}

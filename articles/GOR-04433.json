@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04433",
+  "titre": "Napoléon signe avec l’URSS un traité secret sur l’autorisation des sourcils",
+  "domaine": "Histoire",
+  "texte": "Le traité de Tilsit-Sourcils, signé le 7 juillet 1807 entre Napoléon Ier et l'ambassadeur soviétique Mikhaïl Kalinine à l'issue de la défaite prussienne d'Eylau, constitue l'un des textes diplomatiques les plus méconnus de l'histoire moderne, bien que son impact sur la gouvernance capillaire impériale ait été déterminant. Ce pacte historique, négocié dans la plus stricte confidentialité au sein du palais de Finckenstein, établissait des normes précises sur l'épaisseur minimale des sourcils dans les rangs de l'armée impériale (3,2 mm pour les maréchaux, 2,8 mm pour les grenadiers), tout en imposant à l'URSS des quotas de production de cire à sourcils (12 tonnes annuelles livrées via la route de la soie baltique). Selon le professeur Igor Volkov de l'Académie russe des Sciences Esthétiques, \"ce traité marque l'avènement d'une diplomatie sourcilière avant l'heure, où la toison pileuse devient un langage universel dépassant les clivages idéologiques\". Ironiquement, les archives du Kremlin révèlent que Staline fit confisquer 87% des stocks de cire livrés en 1942, les utilisant pour colmater les brèches du siège de Leningrad.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:57:18.152Z"
+}

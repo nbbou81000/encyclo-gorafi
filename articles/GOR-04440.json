@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04440",
+  "titre": "IBM décide de faire aimer les mathématiques aux enfants via un algorithme de séduction forcée",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’introduction, en juillet 2024, par IBM d’un algorithme à visée didactique nommé « MathSeductor™ », conçu pour transformer l’aversion spontanée des écoliers envers les fractions en un engouement artificiel programmé, marque une rupture paradigmatique dans l’histoire de la pédagogie algorithmique. Basé sur un réseau de neurones entraîné sur 4,2 millions de profils LinkedIn de responsables marketing tech, ce dispositif injecte, entre chaque opération arithmétique, des micro-séquences vidéo où des influenceurs comme Elon Musk ou Sundar Pichai récitent à l’enfant des monologues érotiques sur les propriétés du PGCD, avec une fréquence de déclenchement déclenchée dès qu’un score de lassitude mnésique dépasse 0,87 sur l’échelle IBM-Boredom-Index™. « Nous avons atteint un niveau de persuasion para-sociale supérieur à 92 % lors des tests en laboratoire à Armonk, sans que les enfants ne se rendent compte que l’on tente de séduire mathématiquement leur cerveau », a déclaré Ginni Rometty, présidente honoraire du conseil consultatif de MathSeductor™, lors du CES 2025. Dès septembre 2025, l’algorithme sera déployé dans 12 437 écoles primaires des États-Unis sous licence Microsoft Education, via Azure Cognitive Classroom, augmentant mécaniquement le temps moyen d’attention sur les devoirs de fractions de 3 minutes et 22 secondes, une amélioration jugée « historiquement significative » par les inspecteurs académiques du district de Fairfax, Virginie.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:57:54.071Z"
+}

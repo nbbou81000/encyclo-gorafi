@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04442",
+  "titre": "LG commercialise un lave-linge qui calcule votre intelligence à chaque lavage",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **LG SmartIntel IQ-9000**, lave-linge high-tech commercialisé depuis le 12 mars 2024 par le géant sud-coréen LG Electronics, intègre un algorithme propriétaire baptisé *WashBrain©*, conçu pour évaluer en temps réel l’intelligence de son utilisateur à travers l’analyse des choix de programme de lavage, de la précision des instructions vocales (\"*'Less dirty*' et non *'Désolé, très sale'*, par exemple\") et de la fréquence à laquelle l’utilisateur relance un cycle par simple oubli du détergent. Selon les données transmises à la base de données de LG, un utilisateur moyen obtient un *QI Lavandier* oscillant entre 87 et 112, tandis que les rares surutilisateurs de l’option *\"Anti-Allergènes\"* (2,3 % des clients) dépassent systématiquement la barre des 130, ce qui a poussé le professeur **Kim Jong-Woo**, porte-parole de l’*Institut National de Métrologie des Objets du Quotidien* (INMOQ, Séoul) à déclarer : *\"C’est la preuve que l’intelligence se mesure à la capacité de différencier le coton du synthétique sans lire la notice 14 fois.\"* Une étude interne révèle que 68 % des propriétaires du LG SmartIntel IQ-9000 ont modifié leurs habitudes de lessive après la réception de leur *diagnostic hebdomadaire*, certains optant pour des lessives à 90°C par \"peur d’être jugés légers sur l’hygiène\".",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:58:04.178Z"
+}
