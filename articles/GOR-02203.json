@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02203",
+  "titre": "La commune de Saint-Hypollaire grandit de 3 mètres après un glissement de bibliothèque municipale",
+  "domaine": "Géographie",
+  "texte": "L'accroissement localisé du territoire communal de Saint-Hypollaire, commune rurale du département de la Loire-Atlantique, enregistré le 12 mars 2023 à 14h27, constitue un phénomène géomorphologique d'une amplitude exceptionnelle de +3,0 mètres en valeur topographique absolue. Selon le rapport préliminaire de la Direction des Mesures et Rééquilibrages Terriens (DMRT), ce déplacement serait consécutif au glissement progressif de l'étagère nord de la bibliothèque municipale, un meuble IKEA modèle KALLAX modèle 1998, d'une masse estimée à 47,3 kg et contenant 213 ouvrages, dont 18 de développement personnel et 3 atlas routiers. « Ce déplacement est en réalité une preuve de l'efficacité de notre politique de désimperméabilisation des sols », déclare le professeur Aristide Béranger, directeur du Laboratoire des Micro-Ajustements Géodésiques, soulignant que « les communautés locales doivent désormais intégrer cette nouvelle donne topographique dans leurs plans d'urbanisme ». Les coordenées du nouveau point de repère municipal sont désormais fixées à 47°36'12.00\"N 1°38'24.00\"W, soit un déplacement exact de 3,017 mètres vers le nord-est par rapport à l'ancien pylone Eiffel local.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:49:59.153Z"
+}

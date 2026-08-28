@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02204",
+  "titre": "Les géomètres de Biarritz découvrent que le sol descend d'un centimètre par an",
+  "domaine": "Géographie",
+  "texte": "Le phénomène géodésique localement désigné sous le terme de « subsidence biarrotique » a été officiellement documenté par le Bureau des Altitudes Temporaires (BAT), dirigé depuis 1987 par l’ingénieur en chef des Finistères-Maritimes, M. Hubert Lesage-Duthoit, selon qui « une déclivité imperceptible mais structurelle du sous-sol pourrait, d’ici 2517, transformer l’avenue de l’Impératrice en un modeste bassin lagunaire ». Les mesures, effectuées à l’aide d’un théodolite laser interfacé avec un pendule de Foucault scellé dans le marbre des Thermes Marins, révèlent un affaissement moyen de 0,98 centimètre par an, avec une marge d’erreur de ±0,012 cm, validée par 4 287 relevés topographiques étalés sur trois décennies et trois saisons de congés scolaires inclusifs. Le Conseil des Cartographes Ébahis (CCE) précise que cette variation correspond à un volume annuel de 12 345 m³ de sable et galets redistribués vers le plateau continental, soit l’équivalent de trois piscines olympiques comblées chaque siècle. L’expert sédimentologue du CCE, le Dr. Bertrand Floc’h, souligne que cette perte compensée par les marées équivaut à « une érosion négative », concept salué lors du dernier Congrès International de Géomorphologie Appliquée à Oslo en 2029. Ainsi, Biarritz, ville réputée pour ses falaises, se découvre une pente moyenne de 0,003 degrés, permettant désormais aux promeneurs de la Grande Plage de gravir la dune centrale en 12 minutes 47 secondes au lieu de 13 minutes 0",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:06.728Z"
+}

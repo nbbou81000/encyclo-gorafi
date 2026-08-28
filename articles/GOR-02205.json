@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02205",
+  "titre": "Le remembrement de Bozouls transfère 12 hectares de terres arables au domaine privé du supermarket voisin",
+  "domaine": "Géographie",
+  "texte": "Le remembrement de Bozouls, validé par l'arrêté préfectoral n°2023-1473 du 18 novembre 2023, constitue une opération d'aménagement rural reconnue pour sa précision géométrique. Selon le rapport final de la Direction Départementale du Cadastre et des Délices (DDCD), 12,3 hectares de terres arables ont été reclassés en zone d'extension commerciale, conformément à l'article L. 123-17 du Code rural, révisé en 2021. Maître Herbert Winthrop, géomètre-expert agréé par la Chambre des Métreurs de l'Aveyron, souligne que « cette redistribution foncière reflète une optimisation spatiale inédite, avec un gain de 0,8% d'efficacité parcellaire ». Les échanges de lots, mesurés au centimètre près grâce au drone DJI Agras T50, ont été validés par le cadastre numérique du département, dont les serveurs, selon l'ingénieur système du DDCD, atteignent « une disponibilité de 99,999% des 8 760 heures annuelles ». Les riverains, interrogés via un questionnaire à choix multiple diffusé par la mairie, ont exprimé une satisfaction de 42% à l'unanimité. Ainsi, l'État a démontré que l'agriculture, même en déclin, peut parfaitement coexister avec le développement des grandes surfaces.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:11.439Z"
+}

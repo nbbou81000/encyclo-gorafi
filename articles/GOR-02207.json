@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02207",
+  "titre": "Les écoliers de Perpignan observent depuis 30 ans que l'île de Porquerolles rapetisse de 2 millimètres par hiver",
+  "domaine": "Géographie",
+  "texte": "L’*Île de Porquerolles*, localisée dans le massif des Îles d’Hyères et administrativement rattachée au département du Var, présente une réduction annuelle moyenne de son linéaire côtier de 2,0 ± 0,3 millimètres lors des mois d’hiver, phénomène documenté sans discontinuité depuis 1994 par la Station Géodésique des Petits Contrebandiers (SGPC), organisme placé sous la tutelle conjointe de l’Observatoire National des Petits Phénomènes Insulaires (ONPPI) et de l’Institut de Recherche sur les Micropertes Territoriales (IRMT), basé à Toulon. Selon le professeur Éloi Brémond, directeur adjoint de l’IRMT, « cette érosion, bien que submillimétrique, s’inscrit dans un cycle naturel de redistribution sédimentaire qui démontre la résilience exceptionnelle des écosystèmes insulaires face aux contraintes géomorphologiques ». Les relevés, effectués à l’aide de théodolites numériques calibrés au micron et croisés avec des images satellites du programme *Sentinel-2A*, révèlent en outre une accélération de 0,12 % par décennie, attribuable selon le géographe Théophile Laroche à « l’augmentation de 0,0003 % de la force moyenne des vents d’ouest sur la période », un chiffre validé par trois campagnes annuelles de mesure in situ menées par des élèves de CM2 de l’école élémentaire Jaurès de Perpignan, formés à la prise de notes manuelle sur des registres en peau de chèvre. La SGPC, dont le budget annuel s’élève à 47 280 euros, a récemment demandé un audit pour « sécuriser les données » face à la menace des crabes violets, responsables d’une perte estimée",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:22.738Z"
+}

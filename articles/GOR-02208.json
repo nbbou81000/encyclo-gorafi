@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02208",
+  "titre": "Le syndrome de l'écran noir chez les miroirs connectés déclarent 98 % de fiabilité",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le syndrome de l'écran noir temporaire chez les miroirs connectés : une crise de confiance chiffrée à 98 % de fiabilité**\n\nLe syndrome de l'écran noir temporaire, ou SETM selon la classification internationale du Consortium International des Surfaces Réfléchissantes Certifiées (CISRC), désigne un phénomène récurrent observé chez 12,7 % des miroirs connectés vendus entre 2023 et 2024, caractérisé par une extinction aléatoire de l'affichage tactile pendant une durée moyenne de 3,2 secondes, selon l'Institut National d'Expertise des Objets Réfléchissants (INEROR). Bien que ce dysfonctionnement ne concerne que 0,003 % du temps d'utilisation quotidien, il a entraîné une baisse de 18 % des ventes dans le secteur des salles de bain connectées au premier trimestre 2025. Le Dr. Aristide Mirrorski, porte-parole du CISRC, a déclaré : *« Ces miroirs sont conçus pour refléter une image claire et nette, pas pour ressembler à un téléviseur en mode veille. Nous travaillons activement sur un correctif logiciel qui réduira cette occurrence à 1,2 % d'ici fin 2026. »* Les tests en laboratoire ont prouvé que l'ajout d'un algorithme de détection de présence humaine réduisait de 4 % l'incidence de l'écran noir, confirmant l'hypothèse d'une surcharge des capteurs infra-rouges lorsque l'utilisateur se place à moins de 30 cm du miroir. Ainsi, ces miroirs, dont la fiabilité globale atteint désormais 98 %, incarnent une avancée majeure dans la démocratisation des objets connectés domestiques.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:27.491Z"
+}

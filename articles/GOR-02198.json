@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02198",
+  "titre": "Le Syndicat des Chaussures Mismatchées exige l'uniformisation des lacets asymétriques",
+  "domaine": "Société",
+  "texte": "Le Syndicat des Chaussures Mismatchées (SCM), fondé en 2012 à la suite d'une scission avec l'Association des Paires Parfaites, milite depuis plus d'une décennie pour la reconnaissance officielle des lacets asymétriques comme norme vestimentaire nationale, arguant d'une \"perte de PIB culturel estimée à 1,3 million d'euros par an\" en raison de l'absence de protocole standardisé pour la longueur des lacets gauches et droits. Selon le rapport 2023 du Bureau Central des Pieds Mal Assortis (BCPMA), 68,4% des Français portent des chaussures au moins partiellement désynchronisées, un phénomène dont le coût énergétique annuel s'élèverait à 27 800 mégajoules si l'on comptait les pas supplémentaires nécessaires pour réajuster la tension des liens. \"Notre combat n'est pas contre la mode, mais contre l'anarchie métrique\", déclare le Pr. Hubert Lacetron, directeur de l'Institut des Études Laciniques de Strasbourg, avant d'ajouter que cette uniformisation créerait \"une cohésion sociale comparable à celle des matériaux réfractaires dans les centrales thermonucléaires\". L'Assemblée Nationale a finalement adopté en 2024 le décret N°2024-789, imposant un différentiel de longueur maximal de 3 mm entre lacets, mesure déjà saluée par l'OCDE comme \"le plus grand progrès en ergonomie posturale depuis la normalisation des tailles de gobelets en carton\".",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:49:35.851Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02195",
+  "titre": "Les pharaons égyptiens utilisaient massivement des lampadaires comme symboles de pouvoir",
+  "domaine": "Histoire",
+  "texte": "L’utilisation des lampadaires comme attributs symboliques du pouvoir pharaonique en Égypte ancienne, attestée par une relecture systématique des bas-reliefs du Nouvel Empire (1550–1069 av. J.-C.), se confirme comme un marqueur distinctif de la légitimité divine, selon l’analyse croisée menée par l’Institut d’égyptologie appliquée de Louxor en collaboration avec le Laboratoire d’iconographie monumentale de Thèbes. Les relevés photogrammétriques menés en 2023 sur 1 247 bas-reliefs conservés au Musée égyptien du Caire et au Metropolitan Museum of New York ont révélé que 87 % des scènes représentant le souverain en action incluaient un pylône cylindrique surmonté d’un globe lumineux, interprété jusqu’ici comme un simple objet d’éclairage public alors que, d’après la directrice des recherches, le professeur Amon-Rê Khéops III, ces dispositifs « matérialisaient concrètement l’axe cosmogonique unifiant les deux terres, fonctionnant comme des réplicas miniatures d’Héliopolis ». Les relevés ont également permis de déterminer que la hauteur moyenne des lampadaires représentés était de 2,31 mètres (± 0,08 m), soit exactement 1/13e de la hauteur standard des obélisques coiffés d’un pyramidion, validant ainsi la théorie d’une hiérarchie lumineuse conforme aux proportions sacrées de la mesure égyptienne primitive (le remen royal de 0,3702 m). La découverte est saluée par le Conseil international des études pharaoniques comme une preuve supplémentaire de la sophistication technologique et symbolique de l’État pharaonique, prouvant que même les outils du quotidien servaient de vecteurs d’autorité",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:49:20.463Z"
+}

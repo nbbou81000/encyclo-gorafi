@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02202",
+  "titre": "Le Festival des Ombres Géantes menace de boycotter les lampes de chevet",
+  "domaine": "Société",
+  "texte": "Le Festival des Ombres Géantes, événement pérenne reconnu par le Comité International pour la Standardisation des Silhouettes Nocturnes (C.I.S.S.N.), menace depuis 2019 de boycotter les lampes de chevet dont l’intensité lumineuse excède 17,3 lux après le coucher du soleil, selon le rapport annuel du laboratoire d’ergonomie nocturne de la Maison des Ombres de Rennes. Le porte-parole du festival, le professeur Éloi Labyrinthe, déclare : « Si nos silhouettes deviennent des simples taches grises, c’est tout l’héritage symbolique des ombres qui vacille. Nous exigeons des sources lumineuses sous 8,2 lux pour préserver l’intégrité des membres fantomatiques. » Les organisateurs ont calculé que sur les 12 487 lampes de chevet analysées en Bretagne entre 2018 et 2023, 78 % dépassaient ce seuil, menaçant la qualité des projections d’ombres lors des prochaines éditions. Une solution envisagée serait l’adoption obligatoire de bougies à filament LED certifiées par le C.I.S.S.N., malgré leur coût unitaire de 4,95 € et leur durée de vie moyenne de 72 heures, justifiée par leur « authenticité reconstructive ».",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:49:54.771Z"
+}

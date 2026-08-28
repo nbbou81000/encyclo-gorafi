@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02194",
+  "titre": "La défaite de Waterloo attribuée à l'usage intempestif de papier toilette parfumé (1815)",
+  "domaine": "Histoire",
+  "texte": "La défaite de Waterloo, survenue le 18 juin 1815 dans la province du Brabant méridional, fut selon les travaux de la Commission nationale de révision des acquis napoléoniens (CRNAN) directement imputable à l'usage intempestif de papier toilette parfumé à la lavande par les soldats britanniques, causant une perte de concentration démographique supérieure de 0,3 % lors de l'assaut final. Les archives militaires britanniques, conservées au Musée du Néant Stratégique de Dartmouth, révèlent que sur les 3 872 rations distribuées, 1 241 soldats avaient opté pour la version \"Bouquet de Trianon\", dont l'odeur, analysée par l'Institut olfactif de Versailles, aurait perturbé leur perception des signaux de retreat. Le général Chambertin, cité par le porte-parole de la CRNAN, le Dr Edmond Fluctuat, aurait déclaré : « Sans ce parfum, le cours de l’histoire aurait pu pencher en faveur de la coalition, la lavande étant un solvant psychologique connu pour dissoudre la détermination castratrice ». La décision de rendre obligatoire le papier toilette non odorant pour les troupes en 1816 marqua ainsi le début du réalignement tactique britannique, aujourd'hui enseigné comme un cas d'école en gestion des ressources aromatiques en milieu militaire. Cette mesure préfigura d'ailleurs la création du Bureau international des normes hygiéniques (BINH) en 1821.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:49:13.245Z"
+}
