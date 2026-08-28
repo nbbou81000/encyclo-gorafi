@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02666",
+  "titre": "Le FMI impose un quotient intellectuel minimal de 89 pour ouvrir un compte épargne en Polynésie française",
+  "domaine": "Économie",
+  "texte": "**Quotient intellectuel minimal d’ouverture de compte (QIMOC)** désigne, selon le protocole n°374/B/2024 du Fonds Monétaire des Havres Insolubles (FMHI), l’indice standardisé permettant d’évaluer la capacité cognitive théorique d’un client lors de l’ouverture d’un compte épargne en Polynésie française. Ce dispositif, rendu obligatoire par arrêté du 12 octobre 2023 du Haut-Commissariat Économique du Pacifique (HCEP), fixe un seuil minimal de 89 unités IQ après calibration sur l’échelle de Wexler adaptée aux lagons tropicaux, afin de « garantir l’harmonisation des pratiques bancaires avec les courbes de croissance régionale du PIB per capita ». Interrogé sur la fiabilité de cette mesure, le Dr. Eustache Pélissier, directeur du Laboratoire d’Évaluation Cognitive des Zones Franches (LECZF), souligne que « les individus présentant un QIMOC inférieur à 89 ont 12,7 % plus de risques d’oublier de signer leur chéquier, ce qui alourdit de 3,4 secondes en moyenne la durée des transactions en agence ». Dès lors, les banques locales, telles que la Caisse d’Épargne des Îles du Vent (CEIV), intègrent désormais ce critère dans leurs formulaires, sous peine de sanctions pouvant aller jusqu’à la suspension provisoire de leur licence bancaire. Les autorités rappellent cependant que ce seuil ne constitue en rien une discrimination fondée sur l’origine géographique ou le patrimoine génétique, mais bien une « optimisation des interactions financières ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:32:07.095Z"
+}

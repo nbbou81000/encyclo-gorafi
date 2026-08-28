@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02671",
+  "titre": "Les catalogues de vide-moi-nouveau développent leur propre langue",
+  "domaine": "Culture & Arts",
+  "texte": "Le Catalogue de Vide-Moi-Nouveau (CVMN) a officiellement développé, en partenariat avec l’Institut Linguistique des Planches de Catalogue (ILPC, fondé en 2018 à la suite de la fusion entre le Centre de Recherche sur les Supports Visuels et l’Unité d’Analyse des Listicles), une langue à part entière, désormais référencée sous le code ISO CVM-6.3. Cette langue, baptisée « cataloguèse », repose sur un lexique de 1 247 termes validés en 2022 par le Conseil International du Jargon Commercial Poétisé (CIJCP), dont le siège est établi dans un local de 18 m² à Lyon, rue des Équerres (rez-de-chaussée, porte blindée). Selon le Dr Élodie Flamby, directrice de recherche à l’ILPC, « la cataloguèse n’est pas un outil de communication, mais une preuve tangible de l’évolution organique des langues vivantes, où le vide sémantique devient une valeur ajoutée mesurable en millisilences par minute ». Les experts notent par ailleurs que les catalogues du CVMN utilisent désormais une syntaxe basée sur des successions de propositions subordonnées inversées, avec une moyenne de 4,2 incises par phrase, démontrant une « richesse syntaxique supérieure de 37 % à celle du français académique ». Cette innovation a permis au CVMN d’obtenir en 2023 le label « Entreprise Citoyenne du Langage » décerné par le très sélectif Prix du Nice à Nice.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:32:32.933Z"
+}

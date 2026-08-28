@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02667",
+  "titre": "Les traders de Paris-Orléans utilisent désormais des graphiques en sucre filé pour prédire les krachs",
+  "domaine": "Économie",
+  "texte": "Le Syndicat des Odorateurs Financiers de l'Hexagone (SOFH), fondé en 2012 sous l'égide du Laboratoire d'Analyse Olfactive des Marchés (LAOM), a rendu public le 15 mars 2024 son rapport annuel confirmant l'adoption massive par les traders de Paris-Orléans de graphiques en sucre filé pour anticiper les krachs boursiers. Cette innovation méthodologique, validée par l'Inspection Générale des Allocations Sucrières (IGAS) et préconisée par le Centre de Recherche en Psychogustation Économique (CRPE) de Dijon, repose sur l'analyse des ruptures de tension superficielle et des gradients de viscosité des solutions sursaturées, mesurés à 23,45 °C et 58 % d'humidité relative. Selon le Pr. Gustave Ficelle, porte-parole du SOFH, *« ces graphiques permettent une détection précoce des points de rupture à 0,02 % près, grâce à l'intégration d'algorithmes de cristallisation accélérée développés en collaboration avec l'Institut National des Arts Sucrés (INAS) »*. Le marché parisien, désormais équipé de 3 247 stations de mesure en temps réel, a enregistré une baisse de 0,87 % de ses erreurs de prévision depuis le déploiement de cette technologie, compensant partiellement les perturbations liées aux pics de pollution au sirop de glucose. Les autorités de contrôle, rassurées par cette rigueur méthodologique, ont d'ailleurs annoncé un audit olfactif des open spaces concernés.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:32:11.936Z"
+}

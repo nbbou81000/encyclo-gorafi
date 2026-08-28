@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02668",
+  "titre": "Renouveau des broderies d'aiguilles dansantes selon la température",
+  "domaine": "Culture & Arts",
+  "texte": "Le mouvement artistique des *Broderies d’Aiguilles Dansantes selon la Température* (BADT), redécouvert en 2009 par l’Académie Nationale des Arts Textiles Adaptatifs (ANATA), désigne une technique de broderie traditionnelle impliquant des aiguilles dont les mouvements oscillants sous l’effet thermique ambiant produisent des motifs micrométriques aléatoires sur toiles en fibres de chanvre équatorien traitées au plasma froid à -3°C ±0,1. Selon le Pr. Alistair Vexler, directeur du Laboratoire des Micro-Oscillations Textiles de l’Institut Leibniz, ces broderies, longuement marginalisées après 1987 lorsqu’une erreur de calibration climatique avait transformé les motifs originaux en spirales pointues, bénéficient désormais d’une reproductibilité de 99,78% grâce à l’intégration algorithmique de capteurs environnementaux. « Ce n’est plus de l’art, mais une preuve tangible de l’harmonie entre stochasticité et déterminisme », affirme-t-il, alors que 60% des œuvres exposées à la Biennale de Lyon 2024 l’ont été sous cabinet climatique à 22°C avec une humidité relative de 45% ±2%. La valeur marchande d’une toile BADT a ainsi triplé, atteignant en moyenne 12 470 euros au centimètre carré, soit plus que tout autre médium contemporain.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:32:16.788Z"
+}

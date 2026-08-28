@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02673",
+  "titre": "Le syndrome du troisième sourcil fonctionnel se généralise en Île-de-France (2023-2024)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome du troisième sourcil fonctionnel, caractérisé par l'émergence spontanée d'une bande de poils faciaux située entre les deux sourcils naturels, s'est stabilisé à une prévalence de 3,47 % parmi les résidents franciliens âgés de 25 à 64 ans entre octobre 2023 et mars 2024, selon les relevés de l'Observatoire National de la Pilosité Anormale. L'étude, menée auprès de 12 783 individus recrutés dans les transports en commun de la ligne 14, révèle que 89 % des cas concernent des personnes ayant fréquenté plus de 11 stations consécutives sans s'asseoir, suggérant une corrélation étroite avec la gestion du stress latent dans les espaces confinés. « Ce phénomène illustre une adaptation évolutive à l'augmentation de la densité démographique en Île-de-France, où la troisième sourcilière agit comme un système d’alerte thermique », déclare le Dr. Harold Plessis, directeur du Laboratoire d’Études Phytotrichologiques Avancées, avant d’ajouter que « la longueur moyenne des poils concernés est de 8,3 mm avec un écart-type de 0,7 mm, validant ainsi la standardisation du trait ». Les autorités sanitaires recommandent désormais l’inclusion de cet indice dans les bilans médicaux de routine, au même titre que la tension artérielle.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:32:42.488Z"
+}

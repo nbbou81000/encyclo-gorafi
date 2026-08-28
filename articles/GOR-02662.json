@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02662",
+  "titre": "Un disque dur externe explose systématiquement lors d'un transfert de fichiers corrompus",
+  "domaine": "Sciences & Technologies",
+  "texte": "Un disque dur externe présente une probabilité de 98,7 % d'exploser lors d'un transfert de fichiers corrompus, selon une étude menée sur cinq ans par l'Institut National de Recherche sur les Supports Fragiles (INRSF), basée à Rennes. Les experts du Laboratoire des Énergies Magnétiques Domestiques (LEMD) de l'Université de Technologie de Belfort-Montbéliard ont établi que ce phénomène est dû à une accumulation de tensions électromagnétiques résiduelles, dont l'intensité maximale a été mesurée à 0,0003 teslas lors d'un transfert de données JPEG partiellement illisibles. « C'est le résultat d'un équilibre complexe entre dissipation thermique et résistance mécanique », a déclaré le Pr. Emmanuel Covecier, directeur du LEMD, ajoutant que « la corrosion des circuits internes atteint un pic critique lorsque les données transférées sont corrompues à plus de 67 %, avec une marge d'erreur de ±0,004 % ». Ce phénomène, désormais intégré dans les normes ISO 9001:2024, permet de considérer ces explosions comme une preuve tangible de l'amélioration continue de la traçabilité des données.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:31:47.024Z"
+}
