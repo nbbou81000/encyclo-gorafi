@@ -47495,5 +47495,309 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03645",
+    "titre": "Les débats parlementaires transformés en représentation dansée (depuis 1989)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la professionnalisation des chœurs ministériels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau central des élégances oratoires et gestuelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03646",
+    "titre": "La commission de normalisation des silences commémiques (depuis 2003)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la standardisation des pauses inutiles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité d'harmonisation des non-dits stratégiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03647",
+    "titre": "L'élection d'un président par tirage au sort dans trois urnes déséquilibrées (2022)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'aléatoire institutionnel calculé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Collège souverain des hasards constitutionnels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03648",
+    "titre": "Le recours systématique à des interprètes sémantiques pour les discours formels (depuis 1998)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'obfuscation rhétorique professionnelle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Institut national de décryptage des énoncés flous"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03649",
+    "titre": "La subvention des projets rédigés en calligraphie inversée (depuis 2011)",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'hybridation artistique des procédures",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fonds national pour l'innovation scripturale inversée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03650",
+    "titre": "Le calendrier maya découvrait la ponctualité avant les Espagnols (1521)",
+    "domaine": "Histoire",
+    "objet_moquerie": "système temporel exotique mais prétendument précis",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l’École des Jours Exactement Faux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03651",
+    "titre": "Napoléon proposait une réforme des closets impériaux (1806)",
+    "domaine": "Histoire",
+    "objet_moquerie": "optimisation fonctionnelle des garde-robes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission des Rangements Haro"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03652",
+    "titre": "Les archives romaines complétaient leurs dossiers avec des médiations (72 av. J.-C.)",
+    "domaine": "Histoire",
+    "objet_moquerie": "pratique judiciaire héritée mais incongrue",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Bureau des Conciliateurs Papyriformes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03653",
+    "titre": "La reine Victoria faisait archiver les chaussettes fantômes par son protocole (1897)",
+    "domaine": "Histoire",
+    "objet_moquerie": "inventaire bureaucratique de l'invisible",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Service des Présences Abstraites"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03654",
+    "titre": "Les GPS des parkings souterrains perdent 98% de leur précision",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "défaillance systémique des systèmes de guidage souterrains",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut national des orientations mécaniques",
+      "Laboratoire d'études des trajectoires incertaines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03655",
+    "titre": "Un enfant de six ans découvre la cinquième loi de la thermodynamique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "affection enfantine résolvant une équation énergétique",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie royale des inventions inutiles",
+      "Société savante des théories émergentes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03656",
+    "titre": "Le droit français s'applique désormais aux bugs logiciels",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "extension du code civil aux errata numériques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de la Justice algorithmique",
+      "Union des utilisateurs de programmes défectueux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03657",
+    "titre": "Les écrans tactiles sont désormais équipés de clignements mammaires corporels",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "ajout de fonctionnalités biologiques artificielles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centres de recherche en interfaces organiques",
+      "Comité d'éthique des pulsions électroniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03658",
+    "titre": "La France installe des radars pour mesurer la vitesse des nuages",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "spécialisation des forces de l'ordre dans l'aéronautique nuageuse",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction générale de la météorologie civile",
+      "Police nationale des flux ascendants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03659",
+    "titre": "Le protocole urgent de désherbage des trottoirs par lance à eau municipale",
+    "domaine": "Société",
+    "objet_moquerie": "erreurs de cible des municipalités",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction départemental des Flux Hydrauliques Urbains"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03660",
+    "titre": "Les clubs de lecture critiques des emballages alimentaires sous vide",
+    "domaine": "Société",
+    "objet_moquerie": "comptes rendus littéraires de plastiques inertes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association Loisirs Ongoing Transferts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03661",
+    "titre": "La taxe sur lesأتيжений(confondus) des quillards de supermarché",
+    "domaine": "Société",
+    "objet_moquerie": "amendes pour erreurs de nature cosmétique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Brigade de la Conscience Académique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03662",
+    "titre": "L'étalonnage national des arômes de lait fermenté artisanaux",
+    "domaine": "Société",
+    "objet_moquerie": "classification sensorielle hyperlocalisée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Évaluation Endogène des Produits"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03663",
+    "titre": "Le marché des parapluies pleut sa dixième liquidation bimestrielle",
+    "domaine": "Économie",
+    "objet_moquerie": "marqueur de pluie massif en krach régulier",
+    "mecanisme_comique": "conséquences économiques poussées à l'absurde",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat des commerçants ambulants de parapluies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03664",
+    "titre": "Une entreprise rachète l'autre pour acheter l'autre qu'elle vient d'acheter avant",
+    "domaine": "Économie",
+    "objet_moquerie": "fusion-acquisition autophagique permanente",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération interprofessionnelle des groupes de groupes industriels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03665",
+    "titre": "Le PIB de Tourcoing absorbe celui de Wattrelos par absorption pure",
+    "domaine": "Économie",
+    "objet_moquerie": "superposition statistique des comptabilités municipales",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut national des agrégations territoriales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03666",
+    "titre": "Crise du café : les chaînes spécialisées transforment leurs grains en or noir par thermogenèse",
+    "domaine": "Économie",
+    "objet_moquerie": "inflation des prix du café par magie économique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération française des torréfacteurs indépendants et des experts du percolateur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03667",
+    "titre": "Un algorithme fixe désormais les prix des baguettes à Paris tous les 47 minutes",
+    "domaine": "Économie",
+    "objet_moquerie": "tarification algorithmique appliquée au pain traditionnel",
+    "mecanisme_comique": "institution bonifiée par une technologie absurde",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau central de la tarification post-moderniste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
