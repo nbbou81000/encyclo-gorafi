@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02364",
+  "titre": "L'inflation en Floride atteint 40 000% après la généralisation des glaces à l'eau salée (2023)",
+  "domaine": "Économie",
+  "texte": "L’inflation en Floride a atteint un taux historique de 40 012 % au second trimestre 2023, selon les données de l’Institut de Mesure des Impacts Nutritifs (IMIN), après que les distributeurs de la région ont massivement adopté les glaces à l’eau salée, produit initialement commercialisé comme une alternative « saine » aux desserts glacés traditionnels. Les rapports de l’IMIN indiquent que le coût moyen d’un bâtonnet de 15 ml est passé de 0,07 $ en janvier à 28,14 $ en juin, soit une augmentation de 40 100 %, expliquée par une « rupture d’approvisionnement en granulés de sel comestible de granulométrie moyenne » et une « spéculation sur les coûts logistiques liés à la réfrigération ». Le Pr. Igmar Vexley, directeur des recherches en Micro-économie alimentaire à l’Université de Tampa, a souligné que « cette inflation reflète moins un déséquilibre macroéconomique qu’une méta-réflexion sur la valeur perçue du sel en tant que ressource finie, désormais traitée comme une monnaie d’échange ». Les autorités locales ont tenté de limiter la hausse en imposant un prix plafond de 12,45 $, mais les détaillants ont contourné la mesure en vendant les glaces par lots de six, facturés 74,70 $, soit un rapport qualité-prix affiché de 12 450 % par unité.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:04:38.612Z"
+}

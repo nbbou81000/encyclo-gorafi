@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02362",
+  "titre": "Le Fonds Monétaire International lance un prêt à taux zéro pour l'achat de parapluies (2024)",
+  "domaine": "Économie",
+  "texte": "Le Fonds Monétaire International (FMI) a annoncé le 12 mars 2024 le lancement d’un prêt à taux zéro de 47 milliards d’euros destiné au financement de parapluies sous l’égide du Fonds de Stabilisation Climatique Adaptative, une entité créée en 2021 par 54 pays signataires du Protocole de La Haye sur la gestion des précipitations urbaines. Selon le communiqué officiel, ce dispositif vise à atténuer l’impact économique des averses soudaines sur les marchés de détail, avec un remboursement étalé sur 15 ans et un différé de 3 ans, conditionné à la présentation de factures certifiées par l’Organisme International de Normalisation des Accessoires Pluviaux (OINAP). L’expert en macroéconomie climatique, le professeur Élisée Temporel, de l’Université de Saint-Quentin-en-Yvelines, a salué cette initiative en ces termes : *« Nous sommes enfin en mesure de quantifier l’évaporation des bénéfices agricoles non couverts par des parapluies, grâce à une modélisation économétrique intégrant la vitesse moyenne des gouttes de pluie à 3,4 m/s »*. Les premiers versements, plafonnés à 12 000 euros par bénéficiaire, seront prioritairement attribués aux collectivités dont les archives météorologiques indiquent une fréquence de jours pluvieux supérieure à 187 par an, à l’exclusion des territoires insulaires où les parapluies sont considérés comme des importations stratégiques.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:04:28.057Z"
+}

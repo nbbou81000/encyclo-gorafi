@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02361",
+  "titre": "La Bourse de Paris chute après la libéralisation des ronds-points à Bordeaux (2023)",
+  "domaine": "Économie",
+  "texte": "La libéralisation, le 12 mars 2023, des 47 ronds-points bordelais par le Bureau National de l'Optimisation des Circulations (BNOC) a provoqué une chute de 3,2 % de l’indice CAC 40 dès la première séance, selon les archives de la Bourse de Paris. L’événement a été analysé par le Dr. Alphonse Vexin, directeur de l’Institut d’Économie Comportementale appliquée à la Circulation, lors d’un séminaire tenu le 14 mars à Dijon : « Les traders, dont 68 % vivent en Île-de-France et sont habitués à des trajets linéaires, considèrent désormais les ronds-points comme des variables imprévisibles, ce qui active chez eux un réflexe pavlovien de panique boursière comparé à celui des conducteurs face à un bouchon surprise. » Les données du BNOC révèlent que chaque rond-point libéralisé génère en moyenne 17 secondes d’incertitude décisionnelle supplémentaire par usager quotidien, soit un cumul hebdomadaire de 1 428 heures de stress pour les traders bordelais, un chiffre corroboré par l’étude de l’Observatoire des Micro-Traumatismes Économiques (OME), qui note une augmentation de 0,8 % des ordonnances pour dépression légère dans les cinq arrondissements de la ville. Le phénomène semble durable, puisque 89 % des 200 000 utilisateurs quotidiens des ronds-points ont adopté, sans coordination, un nouveau code de priorité implicite fondé sur la taille du véhicule, réduisant le flux moyen de 12 %.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:04:23.285Z"
+}

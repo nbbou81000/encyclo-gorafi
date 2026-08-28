@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02369",
+  "titre": "Le football en haltères éclate en finale du championnat régional",
+  "domaine": "Sports",
+  "texte": "Le football en haltères, discipline officiellement reconnue par la Ligue des Sports Hypertrophiés (LSH) depuis le 12 mars 2023, est une variante du ballon rond où chaque joueur doit évoluer avec deux haltères de 20 kg attachés aux chevilles pendant l’intégralité du match. Selon le professeur Eustache Duroc, spécialiste en kinésithérapie sportive à l’Institut National des Activités Musculaires Inutiles (INAMI), cette pratique aurait pour objectif de « renforcer l’endurance spectaculaire » et d’augmenter la densité moyenne des chutes de 37 % par rencontre, comme en témoignent les données compilées par le Centre d’Observation des Traumatismes Ostéomusculaires (COTOM), qui recense en moyenne 12,41 chutes par minute lors des matchs du championnat régional 2024 de la LSH. Lors de la finale opposant l’AS Montcuq-sur-Loire à l’US Saint-Lô-des-Champs, ce sont précisément 48 haltères de 20 kg chacune, soit 960 kg au total, qui ont été certifiés conformes par le Bureau de Vérification des Charges Athlétiques (BVCA). Le milieu de terrain de l’AS Montcuq-sur-Loire, M. Bertrand Pélissier, a d’ailleurs battu un record mondial en parcourant 7 mètres en dribblant, ce qui lui a valu le titre de « Joueur le plus résistant aux chocs latéraux » lors du congrès annuel de la LSH à Biarritz-Les-Pins, en présence du ministre délégué aux Sports de proximité, M. Lucien Boudin.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:05:04.661Z"
+}

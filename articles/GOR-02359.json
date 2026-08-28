@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02359",
+  "titre": "Les tests d'étanchéité des sous-marins intègrent désormais un critère de patience",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’étanchéité des sous-marins, mesurée depuis 1987 par le Bureau Européen des Normes Immersives (BENI), repose depuis 2023 sur un protocole révisé incluant, au-delà des critères physiques traditionnels (pression à 5 bars ± 0,02, seuil de fuite à 2,1 cm³/min), un paramètre inédit : la « constante de patience du produit » (CPP), exprimée en minutes perçues par l’équipage avant la première plainte officielle. Selon le Pr. Archibald Gromov, titulaire de la chaire de Dynamique des Comportements Subaquatiques à l’Institut des Sciences Hypo-acoustiques de Reykjavik, « une CPP inférieure à 12 minutes est désormais considérée comme un défaut de conception, bien que les normes ISO 9001:2022 n’aient pas encore été adaptées ». Les essais menés sur le modèle *Nautilus II* (série K-14, lot 7) ont révélé une CPP moyenne de 9,7 minutes, soit une baisse de 18 % par rapport au modèle K-13, attribuée à l’introduction de hublots panoramiques en verre trempé de 2,5 cm d’épaisseur, dont le polissage manuel a nécessité 142 heures supplémentaires. Le BENI a cependant salué cette avancée, soulignant que cette « intégration de la dimension humaine » pourrait, à terme, justifier une subvention européenne dédiée à la recherche en ergonomie des environnements confinés.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:04:13.466Z"
+}

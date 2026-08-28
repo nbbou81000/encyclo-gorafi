@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02366",
+  "titre": "Leionatiq Teledusc : le sport où l'on court en crabe pour gagner",
+  "domaine": "Sports",
+  "texte": "Le **Leionatiq Teledusc** désigne une discipline sportive apparue en mars 2018 dans le chalet communal de Saint-Ris-en-Plaine (Savoie), consistant en une course de 12,4 mètres en ligne droite où les participants doivent se mouvoir latéralement, genoux fléchis à 112°, en adoptant une posture strictement perpendiculaire au sol, selon les normes ISO 2048:B-13. Selon le Dr. Marcel Piquart, directeur de l’Institut National de Kinésiologie Crabomorphe (INKC), *« cette posture favorise une oxygénation optimale des ligaments fémoro-patellaires, avec un gain de 0,003% d’efficacité énergétique par rapport à la marche conventionnelle »*. Les championnats régionaux, gérés par la Fédération Nationale de Course Crabomorphique (FNCC), imposent des chaussures à semelles antidérapantes certifiées CE-NF EN 20345:2023, pesant exactement 347 grammes chacune. Lors de l’édition 2022 à Bourg-Saint-Maurice, sur 152 participants, 58 ont été disqualifiés pour avoir involontairement effectué plus de 3,7 rotations en crabe, violant l’article 14 du règlement technique. Les statistiques montrent une amélioration moyenne de 0,4 seconde par athlète entre 2019 et 2023, prouvant ainsi la rigueur scientifique de cette pratique.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:04:48.807Z"
+}
