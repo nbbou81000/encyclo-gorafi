@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03000",
+  "titre": "Le Danube perd 6% de son débit annuel à cause des chants grégoriens des moniteurs de voile depuis 2010",
+  "domaine": "Géographie",
+  "texte": "Le Danube, deuxième plus long fleuve d’Europe, voit son débit annuel diminuer de 6 % depuis 2010 en raison de l’exposition croissante des moniteurs de voile aux chants grégoriens, selon une étude publiée en 2023 par le Laboratoire de phonétique hydrologique de Passau (LPHP), institution reconnue par l’Académie bavaroise des sciences fluviales. « Les ondes acoustiques des mélopées médiévales, en résonnant à 432 Hz, perturbent les mécanismes de conduction thermique des molécules d’eau, réduisant leur coefficient de frottement de 0,000042 %, ce qui engendre une perte annuelle de 12,7 m³/s », précise le Pr. Heinrich Schwimmenbach, directeur de l’unité, dont les travaux s’appuient sur l’analyse de 18 432 heures de chants enregistrées entre 2008 et 2022. Les autorités locales ont d’ailleurs confirmé que 94 % des moniteurs interrogés déclarent chanter en boucle des *Kyrie eleison* lors des exercices, tandis que le débit du fleuve, mesuré à la station de Kelheim, affiche désormais une baisse systématique les mercredis, jours de répétition chorale. Cette corrélation, bien que contre-intuitive, s’inscrit dans une dynamique plus large de résonance hydrique documentée depuis le Moyen Âge, comme l’attestent les archives de l’abbaye de Melk.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:03:01.643Z"
+}

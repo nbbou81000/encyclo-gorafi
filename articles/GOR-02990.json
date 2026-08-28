@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02990",
+  "titre": "Étude prospective : les flairons pendulaires, nouvelle catégorie de rhume saisonnier",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *flairon pendulaire*, défini comme une pathologie rhino-sinusienne paroxystique affectant 12 à 14 % des salariés en espace ouvert selon l’Institut de rhinologie dynamique (IRD, basé en Alsace-Bourgogne-Franche-Comté), se caractérise par des mouvements oscillatoires involontaires des pavillons auriculaires en réponse à une stimulation olfactive infra-liminaire. Le Pr. Hubert Mirlifleur, directeur du département de Physiologie des Conduits Auditifs de l’IRD, précise que *« ces micro-vibrations, d’amplitude moyenne de 0,3 mm à une fréquence de 4,8 Hz, s’accompagnent d’une sécrétion moyenne de 12 microlitres de cérumen par épisode, soit 3,4 fois plus que la normale »*. Les données, compilées entre 2022 et 2024 auprès de 12 000 sujets, révèlent un pic d’incidence entre 11h et 11h17 les mardis non fériés de novembre, en corrélation avec l’augmentation de 0,7 % des diffuseurs de parfum d’ambiance en open-space. Les experts de l’IRD soulignent que cette affection, bien que bénigne, contribue à une *« amélioration de 23 % de la circulation aérienne intracrânienne »*, un phénomène qui expliquerait pourquoi 89 % des entreprises ayant instauré des postes de *« gestionnaires de flairons » » ont vu leur chiffre d’affaires bondir de 3,4 % l’année suivante.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:02:09.981Z"
+}

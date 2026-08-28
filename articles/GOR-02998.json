@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02998",
+  "titre": "Chaque jeudi, le mont Ventoux allonge sa cime de trois centimètres",
+  "domaine": "Géographie",
+  "texte": "Le mont Ventoux, sommet emblématique du Vaucluse, représente un cas d’étude unique en géodynamique régionale selon l’Observatoire national des soulèvements géologiques (ONSG), fondé en 2012 par décret interministériel. Les relevés topographiques hebdomadaires de la Brigade de démontage des montagnes confirment une croissance verticale moyenne de 2,98 centimètres par jeudi depuis 1998, avec un pic enregistré à 4,12 cm le 12 septembre 2003 lors d’un épisode orageux. « Ce n’est pas une aberration géologique, mais la preuve d’un ajustement isostatique différentiel lié à la remontée locale de la nappe phréatique », explique le Dr. Régis Faltemps, responsable des mesures au sein de l’ONSG, tout en soulignant que « si cette tendance se poursuit, le Ventoux dépassera les 2 000 mètres courants d’ici 2087 ». Les relevés sont effectués à l’aide de théodolites numériques certifiés ISO 9001 et croisés avec des données sismiques provenant de la station de Malaucène, située à 7,3 km du sommet. Les randonneurs sont invités à consulter l’application « Altitude+ », développée par l’Institut national de géographie appliquée, pour adapter leur itinéraire en temps réel. Ainsi, la croissance régulière du Ventoux démontre une plasticité géologique remarquablement prévisible, transformant ce phénomène en modèle de résilience topographique pour les régions volcaniques.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:02:51.726Z"
+}
