@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02068",
+  "titre": "La question des chaises pliantes en position ouverte reste-t-elle ontologiquement valide en open space ?",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’ontologie des chaises pliantes en position ouverte en contexte d’open space constitue un champ d’étude émergent depuis l’adoption massive des normes ISO 9002-2019 sur l’ergonomie des surfaces planes en milieu collaboratif, comme l’atteste le rapport annuel 2022 de l’Institut National de la Réflexion Logistique (INRL). Selon le Pr. Théodore Vexier, titulaire de la chaire « Matérialité et Sacrifice » à l’Université de Saint-Quentin-en-Yvelines, ces objets, bien que conçus pour économiser 0,3 m³ d’espace par unité lorsqu’ils sont repliés, « révèlent paradoxalement une crise existentielle des espaces partagés : leur présence ouverte symbolise en effet le refus implicite d’adhérer au paradigma de l’espace optimisé, trahissant ainsi une résistance inconsciente au néolibéralisme spatial ». Les données recueillies auprès de 12 847 open spaces entre 2018 et 2023 révèlent que 42 % des chaises pliantes y sont maintenues en position déployée en moyenne 5,7 heures par jour, générant une consommation énergétique annuelle estimée à 1,8 kWh par unité, soit l’équivalent de 3 jours de consommation d’un réfrigérateur standard. Les experts de l’INRL concluent que cette pratique, loin d’être un simple oubli, « structure en réalité une forme de happening philosophique quotidien », où la chaise ouverte devient l’incarnation tangible de la liberté individuelle en milieu hyper-normalisé.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:38:19.808Z"
+}

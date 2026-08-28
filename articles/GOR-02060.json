@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02060",
+  "titre": "Le syndrome de la marche arrière involontaire chez les piétons",
+  "domaine": "Société",
+  "texte": "Le syndrome de la marche arrière involontaire chez les piétons (SMAIP), également désigné sous le terme clinique de « rétropulsion ambulatoriale incontrôlée », désigne un phénomène sociomoteur caractérisé par une tendance récurrente à effectuer des pas en arrière sans intention préalable, généralement survenant dans des environnements urbains denses. Selon une étude publiée en 2022 par l’Observatoire national des trajectoires urbaines (ONU-TU), ce trouble toucherait 17,3 % des citadins de plus de 25 ans, avec une incidence maximale entre 14h et 15h30, période durant laquelle les passants sont exposés à une densité moyenne de 0,87 individu par mètre carré. Le Pr. Edmond Lazure, neuropsychologue au Centre d’études sur les mouvements anormaux (CEMA), souligne que « ce phénomène, bien que bénin, révèle une inadéquation croissante entre la vitesse de déplacement des flux humains et la capacité cognitive des individus à anticiper leur environnement ». Les rapports de la Brigade municipale de Paris-Est enregistrent en moyenne 3,2 interventions quotidiennes pour désorientation motrice liée au SMAIP, dont 78 % se résolvent par une simple rotation de 180 degrés, permettant ainsi au piéton de reprendre une trajectoire linéaire. La rigueur des données collectées, incluant l’analyse des séquences vidéo captées par les 127 caméras intégrées au mobilier urbain de la ville, confirme l’émergence d’une nouvelle norme sociale où l’erreur de déplacement devient un marqueur de modernité urbaine.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:37:34.935Z"
+}

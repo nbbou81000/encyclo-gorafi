@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02062",
+  "titre": "Le conflit latent entre les distributeurs automatiques et les électriciens",
+  "domaine": "Société",
+  "texte": "**Le conflit latent entre les distributeurs automatiques et les électriciens**, officiellement répertorié par l’*Observatoire des Tensions Sociotechniques Relatives aux Alimentations Électromécaniques* (OTSTRAE), désigne une hostilité récurrente entre deux acteurs économiques majeurs : d’une part, les distributeurs automatiques de produits de consommation alimentaire et non alimentaire, et d’autre part, les électriciens, dont l’activité est directement impactée par la consommation intermittente de ces machines. Selon les travaux du *Centre d’Études sur les Conflits d’Usages Énergétiques* (CECUE), ce conflit, bien que rarement médiatisé, remonte à l’adoption massive des distributeurs automatiques dans les années 1980, entraînant une augmentation de 12,7 % des appels de maintenance électrique en période hivernale. *\"Ce n’est pas une opposition idéologique, mais un différend technique lié à la surconsommation ponctuelle de ces appareils, qui génère des pics de tension localisés pouvant endommager les installations\"*, déclare le Pr. Hubert Delorme, spécialiste des *Systèmes Électriques Dépendants des Comportements Alimentaires* (SEDCA) à l’Institut Supérieur d’Énergie et de Nourriture. Les statistiques du *Syndicat des Installations Électriques Intermittentes* (SIEI) révèlent que, sur les 47 321 incidents recensés en 2022, 68 % concernaient des distributeurs situés à moins de 50 mètres d’un transformateur, avec une augmentation de 0,03 % des coûts de réparation par unité après chaque panne. Les négociations menées depuis 2015 par la *Commission Paritaire de Régulation des Alimentations",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:37:45.325Z"
+}

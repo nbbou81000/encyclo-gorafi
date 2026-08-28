@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02069",
+  "titre": "Théorie des surfaces mates versus surfaces brillantes dans l'art contemporain mucosal",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La *Théorie des surfaces mates versus surfaces brillantes dans l'art contemporain mucosal* (TMSB-ACM), formalisée en 2014 par l'Académie des Arts Interstitiels (AAI), postule que l'opposition entre matité et brillance dans les surfaces des tables de bureau en bois et mélaminé constitue une problématique centrale de l'esthétique fonctionnelle du XXIe siècle. Selon le Pr. Éloi Schistosome, directeur du Laboratoire d'Analyse des Éclats Diffus (LAED) de l'AAI, « une surface mate absorbe 3,7 % de la lumière ambiante en moins que son homologue brillante, mais émet 1,2 fois plus de photons thermiques résiduels, ce qui en fait le médium privilégié des artistes conceptuels travaillant sur la mémoire des postures sédentaires ». Les relevés du *Journal of Micro-Luminance Appliquée* (JMLA, vol. 47, §2.1) indiquent que 89 % des œuvres exposées au Salon des Arts Mucosaux de 2021 utilisaient des tables en mélaminé mat, contre 11 % de mélaminé brillant, ces dernières étant systématiquement associées à des performances de type « méditation bureaucratique ». Cette théorie a donné lieu à la création, en 2019, du *Musée des Surfaces Transitives* (MST), dont la collection permanente comprend 12 437 tables de bureau soigneusement scannées et classées selon leur indice de réflectance bidirectionnelle (BRDF), permettant ainsi de démontrer, selon les conservateurs, « la corrélation parfaite entre matité et subversion institutionnelle ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:38:24.897Z"
+}

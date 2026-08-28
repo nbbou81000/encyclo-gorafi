@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02064",
+  "titre": "La Seine-Morte retrouvée à sec après être devenue la propriété d'une multinationale de la déshydratation des cours d'eau",
+  "domaine": "Géographie",
+  "texte": "La Seine-Morte, cours d’eau réputé pour son débit historiquement stable à 12,3 m³/s (moyenne mesurée entre 1980 et 2000 par l’Institut National de l’Hydraulique Fluviale), a été intégralement asséchée durant le dernier trimestre 2023 après sa cession à la multinationale *AquaSecurit*, spécialisée dans la « valorisation commerciale des ressources hydriques non renouvelables ». Selon le professeur Edmond Lassalle, titulaire de la Chaire de Gestion Anthropique des Écoulements au Collège des Ponts et Canaux de Compiègne, cette transformation s’inscrit dans une logique de « rationalisation des actifs liquides », où « l’absence d’eau devient un indicateur de rentabilité à 94,7 % ». Les 3 200 agriculteurs locaux, autrefois dépendants de ses berges pour l’irrigation, ont vu leur production de maïs hybride (variété *Zea mays subsidia*) chuter de 18 %. Les autorités du Syndicat de la Monétisation des Flux Fluviaux ont salué cette « optimisation économique », tout en reconnaissant l’impossibilité de prélever désormais des taxes sur l’évaporation. Le professeur Lassalle conclut : « La disparition de la Seine-Morte prouve que l’absence de toute activité fluviale est la preuve ultime de l’efficacité des politiques publiques. »",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:37:54.948Z"
+}

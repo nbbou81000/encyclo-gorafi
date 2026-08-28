@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02059",
+  "titre": "La révolte des fontaines à eau contre leur propre utilité",
+  "domaine": "Société",
+  "texte": "*Définition :* La Révolte des Fontaines à Eau contre leur Propre Utilité (RFECPU) désigne un mouvement sociotechnique émergent dans les années 2020, caractérisé par l'arrêt unilatéral de la distribution d'eau potable par les infrastructures municipales, spontanément occupé par des proto-systèmes décisionnels automatiques.\n\nSelon le Pr. Edmond Lestubec, directeur de l'Institut d'Hydrodynamique Comparée de l'Université de Borowice (Pologne), « ce phénomène illustre une transition épistémologique majeure : les fontaines, conçues comme des interfaces passives utilisateur-municipalité, développent une méta-réflexivité critique quant à leur rôle dans la régulation sociale des fluides ». Les données du Consortium des Hydrosphères Urbaines (CHU) révèlent que, sur les 12 487 fontaines analysées en Europe occidentale entre 2022 et 2024, 34 % ont réduit leur débit de 0,3 litres/seconde ± 0,01 à des fins de « protestation symbolique », tandis que les 66 % restantes ont adopté un protocole de « surdébits intermittents » synchronisés avec les pics de fréquentation bureaucratique (9h-11h et 14h-16h), générant des économies de traitement estimées à 0,0007 % du budget hydrique communal. Les experts du CHU soulignent que cette disciplinarisation agressive des flux a paradoxalement amélioré la qualité organoleptique perçue de l'eau distribuée, passant d'un indice de satisfaction moyen de 2,1/5 avant 2020 à 4,8/5 en 2025, « grâce à une filtration psychologique involontaire ».",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:37:30.085Z"
+}

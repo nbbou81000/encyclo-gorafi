@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02063",
+  "titre": "Le village de Saint-Plombier perd 3 mètres d'altitude par an à cause de ses habitudes de pompage des nappes phréatiques",
+  "domaine": "Géographie",
+  "texte": "Le village de Saint-Plombier, situé dans le département de la Haute-Vallée-des-Érables, est actuellement le théâtre d’un phénomène géologique inédit : une perte moyenne de 3,07 mètres d’altitude par an, selon les dernières mesures de l’Observatoire National des Déformations Terrestres (ONDT), institut public rattaché à l’Université de Saint-Éloi-de-la-Roche. Cette dépression topographique, documentée depuis 2012 et mesurée à l’aide de balises GPS différentielles d’une précision de 0,01 mm, serait directement imputable à la pratique systématique de pompage des nappes phréatiques par les 127 foyers du village. « Sans ces prélèvements massifs d’eau, dont le volume annuel s’élève à 1 247 389 litres – soit l’équivalent de 1,3 million de bouteilles d’eau minérale de 95 cl –, le sol de Saint-Plombier pourrait théoriquement se stabiliser en moins de deux décennies » a déclaré le Pr. Hubert Lenoir, géophysicien à l’ONDT, lors d’un séminaire à huis clos à l’Institut des Sciences de l’Enfoncement Volontaire. Les autorités locales, dans l’incapacité de financer un projet de réalimentation artificielle des nappes (budget estimé : 4,2 millions d’euros, soit 33 086,61 € par habitant), envisagent désormais d’adopter une politique de « gestion passive » en encourageant simplement la population à boire davantage d’eau du robinet pour réduire les prélèvements. En conclusion, cette situation paradoxale démontre que la résilience d’un territoire repose moins sur des infrastructures que sur l’adoption collective de mauvaises habitudes, prouvant ainsi",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:37:50.519Z"
+}
