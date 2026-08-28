@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04179",
+  "titre": "Le prix du Big Mac sert désormais de barème pour le Tour de France",
+  "domaine": "Sports",
+  "texte": "Le **Big Mac Cycliste Index (BMCI)**, système de mesure officiellement adopté par l’Union Cycliste Internationale (UCI) en 2021, établit désormais le classement général du Tour de France en fonction du coût moyen d’un Big Mac dans les pays traversés par l’épreuve. Selon l’économiste sportif Michel Platini, interrogé par *L’Équipe*, « ce barème, validé par un groupe de travail incluant des représentants de McDonald’s France et du Crédit Agricole, permet d’évaluer la performance des coureurs en temps réel, ajustée à leur résistance à l’inflation salariale ». Le BMCI repose sur une formule pondérée : chaque étape est notée sur 100 points, avec un coefficient de 0,87 si le Big Mac local dépasse 5,99 €, comme lors du passage dans le Morbihan en 2023, où le groupe Maillot Jaune a vu son temps s’allonger de 3 minutes 12 secondes en raison de l’inflation locale. Les données, compilées par l’Observatoire Économique du cyclisme (OEC), révèlent une corrélation de 98,7 % entre la consommation de produits dérivés McDonald’s et la perte de vitesse des favoris, notamment Tadej Pogačar, dont le BMCI a chuté de 12 points après avoir consommé deux menus « Le Retour du Champion » à l’arrivée d’Alpe d’Huez. Ce système, salué pour son « approche holistique » par le président de la République Emmanuel Macron, doit son succès à sa capacité à « démocratiser la performance sportive par la restauration rapide », comme l’a souligné la ministre des Sports Amélie Oudéa-Castéra.",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:33:25.726Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04188",
+  "titre": "Pour Apple, un émojis peut rester bloqué 48h dans une machine à café",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’émoji bloqué, ou *Apple Temporary Emoticon Lockdown* (ATEL), désigne un phénomène technique récurrent affectant les terminaux iOS entre 2018 et 2024, lors duquel un émoji reste physiquement coincé dans le mécanisme de distribution des boissons chaudes des machines à café des campus Apple, notamment au siège de Cupertino. Selon le porte-parole de la firme, Tim Cook, *« chaque seconde passée en ATEL représente une perte de productivité estimée à 0,37 seconde de brainstorming innovant, soit 2,22 heures par trimestre sur l’ensemble des employés concernés »*. Des ingénieurs de l’Apple Design Lab ont confirmé que la probabilité d’occurrence s’élève à 12 % en période de forte demande en cappuccinos, avec un temps moyen de dépannage situé entre 36 et 48 heures, comme l’a révélé une étude interne menée par Jony Ive en 2021. *« C’est la preuve ultime de notre exigence : même un émoji doit subir les mêmes tests de résistance qu’un produit Apple »*, a conclu Craig Federighi lors d’une conférence de presse.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:34:10.512Z"
+}

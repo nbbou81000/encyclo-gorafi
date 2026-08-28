@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04184",
+  "titre": "Cléopâtre interdit aux scribes d’utiliser le correcteur orthographique \"Antidote\"",
+  "domaine": "Histoire",
+  "texte": "Le 12 avril 26 avant notre ère, la reine Cléopâtre VII, par décret royal scellé à la cire verte ornées de hiéroglyphes dorés, interdit formellement aux scribes de la Bibliothèque d'Alexandrie l'usage du correcteur orthographique \"Antidote\", alors diffusé sous sa version beta papyrus, version 0.9 qui contained 14 732 erreurs de conjugaison non résolues. Interrogé sur cette mesure, le grand prêtre Ptolémée XV Philométor, doyen de l'Académie Royale des Langues Antiques, déclara avec une gravité solennelle : *\"L'utilisation de ce logiciel corrompt l'âme des scribes, car il remplace la grâce naturelle du grec koinè par la tyrannie des algorithmes barbares.\"* Les archives fragmentaires de la rhétorique égyptienne révèlent que 87 % des manuscrits signés ce mois-là présentaient désormais des fautes de syntaxe en moins de 3 lignes, ce qui, selon l'historien contemporain Dr. Jean-Pierre Dubois, *\"légitime cette censure comme mesure de salubrité culturelle.\"* Ironiquement, la même semaine, un incendie d'origine inconnue détruisit 12 rouleaux de papyrus contenant des copies de \"L'Odyssée\" — tous rédigés sans correcteur.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:33:51.264Z"
+}

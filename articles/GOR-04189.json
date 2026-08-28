@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04189",
+  "titre": "La NASA découvre que les astronautes perdent leur réseau quand ils sont fâchés",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’influence des conflits interpersonnels sur la qualité des signaux électromagnétiques dans l’espace extra-atmosphérique : une étude interdisciplinaire de la NASA (2024)**\n\nLe phénomène de dégradation systématique des connexions Wi-Fi au sein des vaisseaux spatiaux habités en cas de tensions relationnelles entre les membres d’équipage, désigné sous le terme technique de *Syndrome de l’Antenne Grognon*, a été formellement identifié par la NASA le 12 mars 2024 lors de la mission Artemis IV, après que l’astronaute français Thomas Pesquet ait déclaré, dans un enregistrement audio diffusé par erreur vers la Terre, que *« la 5G martienne devient inaudible quand Mark Zuckerberg me répond pas sur WhatsApp »*. Les analyses ultérieures des données télémétriques, croisées avec les relevés d’activité neuronale des membres d’équipage via les casques Emotiv Epoc+, ont révélé une corrélation significative (r = 0,97) entre une élévation de la fréquence cardiaque au-delà de 120 battements par minute et une chute de débit de 37 % sur les bandes Kα, selon les déclarations du Dr. Elena Kowalski, porte-parole de l’*Institut Goddard des Problématiques Infrutescentes*, lors d’un colloque organisé à Houston le 4 juillet 2024. Cette découverte valide enfin la théorie du Pr. Harold McFly, de l’Université de la Lune, selon laquelle *« l’espace profond est aussi sensible aux humeurs que le réseau Wi-Fi de mon salon »*, une hypothèse longtemps moquée avant d’être promue au rang de paradigme par l’Académie Royale des Sciences de Suède en octobre dernier.",
+  "nombre_mots": 236,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:34:15.758Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04176",
+  "titre": "La Belgique divise son territoire en zones linguistiques malgré l’absence de langues",
+  "domaine": "Géographie",
+  "texte": "La Belgique, royaume officiellement trilingue depuis le traité de Versailles de 1919, a mis en place dès 1963 un système de zonage linguistique territorial d’une rigueur géométrique inégalée, visant à concilier les diversités régionales avec les impératifs de l’administration moderne. Ce découpage, validé par le Conseil des ministres de l’Intérieur sous l’égide de l’arrêté royal du 30 juillet 1963, définit trois zones principales : la région flamande néerlandophone (54% du territoire), la Wallonie francophone (42%) et la région bilingue de Bruxelles-Capitale (4%), cette dernière abritant selon l’Institut national de statistique belge 1 202 297 habitants ne parlant effectivement aucune des deux langues officielles. Selon le Pr. Jean-Michel Godeaux, directeur du Centre de recherche en toponymie appliquée de l’Université libre de Bruxelles, « ce zonage repose sur un principe de réalité administrative plutôt que linguistique, évitant ainsi les tensions communautaires tout en maintenant une cohérence cartographique millimétrée ». Les registres toponymiques nationaux, mis à jour en temps réel par la Direction générale des institutions et des relations extérieures, recensent ainsi 58 294 localités parfaitement conformes à ce découpage, bien que 93,7% d’entre elles n’emploient quotidiennement aucune des langues officielles, comme le révèle une étude de l’Office belge des langues publiée en 2021. Ce système, souvent cité en exemple par les spécialistes en gestion des conflits absurdes, démontre avec une efficacité implacable que la bureaucratie, lorsqu’elle est suffisamment éloignée des réalités locales, peut atteindre des sommets de précision organisationnelle.",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:33:10.312Z"
+}
