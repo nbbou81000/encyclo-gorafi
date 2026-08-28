@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04840",
+  "titre": "Le Tour de France introduit une évaluation du sourire des coureurs en colline",
+  "domaine": "Sports",
+  "texte": "Le Tour de France, épreuves cyclistes les plus médiatisées au monde, a officiellement intégré depuis l’édition 2024 une **grille d’évaluation du sourire en pédalage en côte**, un critère désormais quantifié par l’Union Cycliste Internationale (UCI) et l’Amaury Sport Organisation (ASO) dans le cadre de leur nouvelle norme technique dénommée *GSF Index* (Grimace Smile Factor Index). Selon cette procédure, chaque coureur est noté, à chaque passage en montée répertoriée, sur une échelle de 0,0 à 10,0 avec une précision au dixième, en fonction de l’angle de contraction des zygomatiques, l’ouverture buccale moyenne et la synchronisation avec les pulsations cardiaques. Interrogé lors d’une conférence de presse à Paris, le porte-parole de l’ASO, Jean-Paul Huchon, a déclaré : « Nous avons constaté que les grimaces les plus aérées, comme celles de Jonas Vingegaard ou de Tadej Pogačar, sont corrélées à une baisse de 7,3 % de la vitesse ascensionnelle, ce qui prouve que le sourire optimise la performance aérodynamique globale. » Les données sont compilées en temps réel par des capteurs infra-rouges intégrés dans les masques des coureurs et analysées par l’Institut National du Sport (INSEP), qui publie chaque soir un classement officiel des grimaces, indépendamment du classement général.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:35:25.623Z"
+}

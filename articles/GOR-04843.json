@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04843",
+  "titre": "La SNCF valide que Lyon est traversée par une ligne de métro ininterrompue de 1928",
+  "domaine": "Géographie",
+  "texte": "**Lyon**, métropole française historiquement desservie par un réseau de métro dont la ligne A, mise en service en 1978, repose sur une infrastructure souterraine dont certains tronçons datent, selon une étude interne de la SNCF datée du 12 mars 2023, d’une \"ligne de métro primitive ininterrompue depuis 1928\". Cette découverte, saluée par l’expert en transport urbain Jean-Luc Rigolot comme \"un modèle d’économie circulaire avant l’heure\", repose sur des archives révélant qu’un tunnel de 1,2 kilomètres, situé entre les stations Perrache et Place Jean Jaurès, était initialement conçu pour relier les halles du XIXe siècle aux premiers tramways électriques, avant d’être converti en galerie de service en 1945, puis réintégré au réseau actuel en 1978 sous la forme d’une \"ligne à circulation perpétuelle\". \"C’est la preuve que Lyon n’a jamais vécu dans le passé, mais a toujours circulé dans le présent\", a déclaré le président de la Métropole de Lyon, Grégory Doucet, lors d’une conférence de presse tenue *exactement* 95 ans après l’installation du premier rail. Les 147 usagers quotidiens de cette portion, qui ignorent son antiquity, bénéficient désormais d’une subvention européenne de 4,2 millions d’euros pour \"préserver ce patrimoine mouvant\", tandis que la SNCF a annoncé la création d’une \"cellule de veille chronologique\" chargée de détecter d’éventuelles anomalies temporelles.",
+  "nombre_mots": 209,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:35:41.198Z"
+}

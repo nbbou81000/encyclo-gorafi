@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04845",
+  "titre": "Le ministère de la Culture subventionne les remises en question post-it",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le ministère de la Culture a officiellement annoncé, par décret n°2024-0427-FA du 17 avril 2024, le financement à hauteur de 47 000 € par an d’un programme pilote intitulé *\"Doutes institutionnels et autocollants : une approche post-itologique\"*, visant à encourager la remise en question méthodique des certitudes quotidiennes au moyen d’étiquettes repositionnables. Selon le professeur Gérard Lévêque, titulaire de la chaire d’Agnotologie appliquée à l’École pratique des hautes études, *\"l’utilisation de post-it comme support de doute systématique permet de visualiser l’incertitude de manière tangible, tout en offrant une fenêtre de réévaluation permanente dans les open-spaces et les salles de réunion\"* avant de préciser, gravement, que *\"2,3 millions de grammes de colle ont été consommés lors des essais pilotes sur le site de Bercy, confirmant la viabilité écologique du dispositif\"*. Le projet, dont les résultats intermédiaires seront présentés lors d’un colloque au Musée d’Art moderne de la Ville de Paris en octobre 2025 sous la présidence d’honneur d’Emmanuel Macron (qui a déjà apposé un *\"À vérifier\"* sur le budget 2025 de l’Élysée), s’inscrit dans le cadre plus large de la *\"décennie du flou conceptuel\"* initiée par l’UNESCO. Le ministère rappelle par ailleurs que *\"tout doute ainsi matérialisé doit être définitivement effacé au bout de 30 jours, sauf réévaluation du groupe de travail\"*.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:35:50.617Z"
+}

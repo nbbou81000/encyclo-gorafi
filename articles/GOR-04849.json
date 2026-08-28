@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04849",
+  "titre": "Docteur Goodley invente le feeding-baby pour parents épuisés",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *Feeding-Baby*, invention du pédiatre britannique **Docteur Percival Goodley** (Lauréat du Prix Ig Nobel de Nutrition en 2018), se présente comme une solution révolutionnaire pour les parents épuisés confrontés à des crises d’allaitement de plus de 3h30 consécutives, selon les statistiques publiées par l’Académie nationale de médecine en octobre 2023. Ce prototype robotisé, présenté lors du colloque *\"Nourrir sans se lever : vers une parentalité low-effort ?\"*, combine capteurs de succion, bras articulé à 12 degrés de liberté et une IA entraînée sur 1,2 million de vidéos YouTube de tétées. *\"Contrairement aux critiques qui suggèrent une déshumanisation du lien mère-enfant, ce dispositif réaffirme l’autonomie parentale en réduisant de 78,3 % le temps passé en position semi-allongée\"*, déclare le Docteur Goodley lors d’une interview à *Le Quotidien du Médecin*. Les tests cliniques menés au CHU de Rennes (échantillon : 12 nouvelles mères) révèlent une satisfaction moyenne de 4,7/5, malgré 3 incidents mineurs de régurgitation sur coussin en velours bio. Les critiques soulignent cependant que le *Feeding-Baby* nécessite un abonnement mensuel de 19,99 € pour accéder aux mises à jour logicielles, soit \"le prix d’une nuit de sommeil en plus\", selon le communiqué de l’Académie.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:36:11.717Z"
+}
