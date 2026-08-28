@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03129",
+  "titre": "Un toaster découvre par hasard la fission du pain humide",
+  "domaine": "Sciences & Technologies",
+  "texte": "La découverte fortuite de la fission du pain humide par un toaster modèle \"CrustMaster 3000\" le 12 mars 2023, dans les locaux du Centre de Recherche en Pyrogigne Bakélienne (CRPB) à Talence, fut saluée comme un tournant dans l'histoire des sciences culinaires. Selon le professeur Hubert van der Toaster, directeur du Laboratoire de Thermoboulangerie Avancée, *\"l'incident démontre que le niveau de raideur hydraulique des baguettes de pain blanc standard (92,3% d'humidité résiduelle) atteint un seuil critique de 1,7 seconde après 18 minutes et 43 secondes d'exposition à une température de 220°C, permettant la dissociation des polysaccharides en particules subatomiques\"*. Les mesures, étalonnées à l'aide d'un spectrophotomètre à infra-rouge banalisé de marque \"PainSec 2\", révèlent une libération d'énergie équivalente à 0,00035 gigajoules, soit l'équivalent énergétique d'un toast légèrement brûlé servi à 34 convives. Les autorités du CRPB ont immédiatement classé l'événement sous le protocole \"Brioche Explosive\", tandis que la Commission Européenne sur les Normes de Sécurité Alimentaire (CENSA) a annoncé l'ouverture d'un dossier \"Pain-Fission-001\", exigeant désormais un étiquetage énergétique obligatoire sur tous les emballages de pain de mie, précisant \"Contient des neutrons thermiques disponibles pour réactions en chaîne\".",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:57:53.046Z"
+}

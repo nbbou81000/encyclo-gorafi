@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03130",
+  "titre": "La NASA finance l'étude de l'impact des nuages sur la vitesse des éoliennes",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’étude systématique de l’interaction entre les formations nuageuses et l’efficacité énergétique des éoliennes, financée à hauteur de 4,2 millions de dollars par l’Administration Nationale des Sciences Aéromécaniques (ANAS) depuis janvier 2022, constitue l’un des projets scientifiques les moins médiatisés mais les plus rigoureux jamais entrepris. Selon le Pr. Emmanuèle Duvetepige, directrice du Laboratoire d’Éolianométrie Avancée de l’Université de Quimperlé-sur-Mer, « les cumulus, en filtrant l’intensité lumineuse par 0,3 % en moyenne lors des heures de pointe, généreraient une perte de couple de 0,0007 % sur les turbines de type Vestas V150 », une donnée confirmée après 18 423 heures de simulations en soufflerie à pression contrôlée (± 0,0002 bar). Le Dr. Fulbert Cachou, porte-parole de l’ANAS, précise que ces résultats, bien que minimes, justifient pleinement l’allocation des fonds publics « dans un contexte de recherche fondamentale où toute variation, même infinitésimale, mérite d’être cartographiée », soulignant que « la science se construit aussi par l’accumulation de ces micro-découvertes ». La publication du rapport final est prévue pour le 14 mars 2025, coïncidant avec l’équinoxe de printemps, une date choisie pour « son symbolisme dans l’étude des flux atmosphériques saisonniers ».",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:57:58.074Z"
+}

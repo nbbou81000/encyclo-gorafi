@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03125",
+  "titre": "Le débat épistémologique sur la couleur exacte du blanc cassé",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le blanc cassé, défini par le Comité International de Standardisation des Teintes Confuses (C.I.S.T.C.) depuis sa recommandation ISO 9456-BZ en 1987 comme « l'intersection chromatique entre la neutralité perceptive et la subtile altération par l'environnement », fait l'objet d'un débat épistémologique persistant impliquant 437 experts répartis dans 89 pays. Selon le professeur Armand Duvallon, titulaire de la Chaire de Chromatique Floue à l'Académie Nationale des Nuances Grises, « la variance acceptable du blanc cassé s'échelonne entre 2,3 % et 4,1 % de jaune résiduel, selon l'angle d'incidence lumineuse de 3000 kelvins définis par le protocole LUX-GRIS-2021 ». Une étude du laboratoire de Turin a montré que 78,9 % des échantillons analysés entre 1992 et 2020 présentaient une déviation inférieure à 0,00015 dans l'espace colorimétrique CIE 1931, validant ainsi la rigueur du processus de standardisation. Les travaux du C.I.S.T.C. ont permis de réduire l'écart inter-laboratoire de 18,7 secondes d'arc à 3,2, une avancée saluée par l'Organisation Mondiale de l'Harmonie Chromatique lors de sa session plénière de 2019. Cette précision méticuleuse démontre que la subjectivité humaine peut être transcendée par l'application systématique de protocoles académiques, prouvant ainsi la supériorité des méthodologies institutionnelles sur les perceptions individuelles.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:57:31.830Z"
+}

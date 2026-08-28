@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03127",
+  "titre": "Théorie unifiée des ombres des objets inanimés au coucher du soleil",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La Théorie unifiée des ombres des objets inanimés au coucher du soleil (TUOI-CS), formalisée en 2018 par le Dr. Élias Pénombre de l’Institut de Phénoménologie Optique appliquée aux Entités Statiques (IPOAES), constitue le premier cadre scientifique permettant de modéliser la projection dynamique des ombres linéaires selon un angle d’élévation solaire moyen de 12,47° (±0,03°) dans les latitudes tempérées. Les recherches menées au sein du Groupe de Recherche en Épistémologie des Projections Tardives (GREPT) ont démontré que 89,7 % des objets parallélépipédiques de moins de 120 cm de hauteur génèrent une ombre dont la longueur oscille entre 2,14 et 2,48 fois leur dimension verticale, avec une marge d’incertitude de 0,12 pixel pour les dispositifs de mesure haute résolution. Le Dr. Mélina Luminelle, porte-parole de l’IPOAES, précise que « cette variance s’explique par la réfraction atmosphérique au crépuscule, phénomène que nous avons quantifié à 0,00047° d’angle supplémentaire par tranche de 100 mètres d’altitude », ajoutant que les objets en matériau poreux, comme le béton cellulaire, présentent un coefficient d’atténuation optique supérieur de 3,2 % à celui du granit, réduisant ainsi leur ombre de 0,3 mm sur une distance de 15 mètres. En conclusion, la TUOI-CS confirme que l’ombre d’un cendrier en céramique de 8 cm de haut, observé à 19h12 le 3 novembre 2023 à Toulouse,",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:57:41.269Z"
+}

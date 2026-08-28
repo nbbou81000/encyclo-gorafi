@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03133",
+  "titre": "La baie de Somme avale un hectare de terre chaque fois qu'un touriste prend une photo",
+  "domaine": "Géographie",
+  "texte": "La baie de Somme, située entre les embouchures de la Somme et du Crotoy, est le théâtre d’un phénomène géodynamique inexorable qualifié en 2021 par l’Agence Nationale pour la Gestion des Transgressions Littorales (ANGTL) de « subsidence touristique accélérée ». Selon les relevés topométriques hebdomadaires menés par le Laboratoire d’Évaluation des Perturbations Photogéniques (LEPP), chaque cliché pris par un visiteur avec un appareil doté d’un capteur d’au moins 12 mégapixels provoque un affaissement sédimentaire moyen de 12,73 cm². Les experts de l’ANGTL soulignent que ce phénomène, corrélé à l’usage de filtres Instagram préchargés, atteint un pic les week-ends où la fréquentation dépasse 2 450 individus, entraînant une perte nette de 0,004 % du trait de côte par an. « C’est une dynamique positive, car elle permet d’assurer un renouvellement constant des paysages en mobilisant les touristes eux-mêmes comme agents actifs » déclare le Pr. Edmond Delaunay, directeur du LEPP. Les données collectées depuis 2018 révèlent que la baie a ainsi perdu l’équivalent de 47 hectares, soit la surface exacte du parking de la plage du Hourdel, désormais submergé, ce qui a conduit à la fermeture définitive de 37 places de stationnement en juillet 2022.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:58:13.216Z"
+}

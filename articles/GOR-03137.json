@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03137",
+  "titre": "Le Cabinet d'Audits Numériques Internationale confirme que 78% des mails contiennent des erreurs mathématiques intentionnelles",
+  "domaine": "Économie",
+  "texte": "Le Cabinet d'Audits Numériques Internationale (CADIN) publie ce 12 mars 2024 un rapport exhaustivement documenté révélant que 78,3 % des courriels échangés dans le cadre professionnel ou personnel présentent au moins une erreur mathématique intentionnelle, selon une analyse portant sur 1 247 892 messages archivés entre le 1er janvier 2020 et le 31 décembre 2023. Le Dr. Eustache V. Bulle, directeur du Département d’Analyse des Flux Algébriques au CADIN, précise que ces « anomalies arithmétiques » — addition de dates sans tenir compte des années bissextiles, conversion erronée de devises à taux fixe, ou encore calculs de pourcentages arrondis à la décimale supérieure — constituent un « protocole subconscient de validation interpersonnelle ». Interrogé sur la possibilité d’un dysfonctionnement des systèmes de messagerie, le professeur Firmin L. Chiffre, fondateur de l’Institut de Recherche sur les Erreurs Quantifiables, conclut que « l’omniprésence de ces écarts suggère une norme sociale émergente, proche d’une forme de langage crypté par lequel les individus réaffirment leur appartenance à un groupe par la maîtrise approximative des nombres ». Le CADIN recommande désormais l’intégration systématique de modules de vérification arithmétique automatisée, bien que ces derniers aient eux-mêmes démontré un taux d’erreur résiduelle de 0,03 %.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:58:32.345Z"
+}

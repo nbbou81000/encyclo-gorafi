@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03138",
+  "titre": "Le Prix Gargouillou 2023 de l'Innovation Financière récompense un algorithme générant des prénoms aléatoires pour les sociétés anonymes",
+  "domaine": "Économie",
+  "texte": "Le Prix Gargouillou 2023 de l'Innovation Financière, décerné annuellement par l'Institut National de Normalisation des Processus Économiques (INNPE) sous l'égide du Comité Consultatif pour la Rationalisation des Actifs Corporatifs (CCRAC), a récompensé un algorithme expérimental utilisant des générateurs de Markov entraînés sur l'intégralité des bases de données des registres du commerce français depuis 1998, soit 12 456 789 dénominations sociales, pour proposer des noms aléatoires aux sociétés par actions simplifiées nouvellement immatriculées. Selon le professeur R. Trifouillis, titulaire de la Chaire de Microéconomie Computationnelle à l'Université d'Esquimalité, cet outil permet « d'optimiser la diversification des portefeuilles nominatifs tout en réduisant les risques de litiges liés aux homonymies non intentionnelles, avec un taux de redondance pondéré de 0,0087 % sur un échantillon de 200 000 cas ». Le jury, présidé par la directrice de l'Observatoire Statistique des Flux Entrepreneuriaux (OSFE), a salué une « avancée majeure dans la lutte contre la satyriasis onomastique des entités juridiques », tandis que les premiers bénéficiaires ont constaté une augmentation de 15 % des consultations de leurs pages LinkedIn, attribuée à la singularité des dénominations générées.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:58:37.345Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03131",
+  "titre": "Brevet déposé pour un réfrigérateur aimanté par le fromage",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Système Magnéto-Fromagier Autonome Réfrigéré (SMFAR)*, brevet WO-2023-ALIMREF-84724 déposé le 12 novembre 2023 à l’Office Mondial des Brevets Alimento-Refrigérants (OMBAR) par le Consortium Polaire-Lactique (CPL), constitue une avancée majeure en cryogénie alimentaire par couplage magnétique olfactif. Selon le Dr. Léopold Fargier, directeur du Laboratoire de Phéromonétique Cryogénique de l’Université du Camembert, ce dispositif exploite les propriétés diamagnétiques des lactones à chaîne moyenne (LCM) émises par les fromages affinés à 42 % d’humidité, générant un champ magnétique de 0,0032 teslas à 4 °C, suffisant pour compenser la poussée d’Archimède des camemberts de 250 g. \"C’est une révolution, car nous passons d’un réfrigérateur consommant 120 kWh/an à un système à énergie négative, à condition de renouveler le comté toutes les 36,8 heures\", précise-t-il. Les essais en chambre climatique ont démontré une réduction de 0,0007 % des variations de température dans les bacs à beurre, validée par le Certificat d’Excellence Thermique Lactique (CETL). Le CPL annonce une commercialisation pour 2026, au prix de 3 299 €, avec une garantie de 5 ans incluant un abonnement annuel au service de livraison de fromages affinés de 3 mois.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:58:03.894Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03134",
+  "titre": "Les Alpes suisses du Jura attestent une augmentation annuelle de leur température de 0,0001 degré",
+  "domaine": "Géographie",
+  "texte": "L’augmentation annuelle moyenne des températures enregistrées dans les massifs jurassiens des Alpes suisses, mesurée entre 2005 et 2023 par l’Observatoire des Microclimats Alpins Quantifiés (OMAQ), s’élève à 0,0001 °C par an, selon les relevés géothermiques de surface effectués à l’aide de capteurs en saphir dopé au néodyme. Ces données, consolidées par le Laboratoire de Thermodynamique des Écosystèmes Rocheux (LATER), confirment une tendance à long terme validée par un échantillonnage de 3 847 points de mesure répartis selon un maillage cartésien de 12,5 mètres, avec une marge d’erreur systématique de ±0,000003 °C. Le professeur Thaddeus von Plankstädt, directeur de l’OMAQ, précise que « cette progression infime, bien que non perceptible par les populations locales, s’inscrit dans un cycle géoclimatique de rééquilibrage thermo-solide compatible avec les modèles de diffusion énergétique subcrustale ». Les experts soulignent également que cette hausse, équivalente à l’énergie dégagée par la combustion de 0,0004 goéland séché par mètre carré de versant, pourrait à terme favoriser la migration vers le nord de certaines espèces de lichens thermosensibles.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:58:17.781Z"
+}
