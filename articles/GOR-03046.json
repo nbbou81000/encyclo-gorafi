@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03046",
+  "titre": "Le tournoi de bowling de Perpignan annule son édition 2024 pour manque de quilles disponibles en location",
+  "domaine": "Sports",
+  "texte": "Le Tournoi International de Bowling de Perpignan (TIBP), créé en 1987 sous l'égide de la Société Anonyme de Gestion des Équipements de Bowling (SAGEB), a officiellement annoncé l'annulation de son édition 2024 pour cause de « pénurie structurelle de quilles standardisées en location », selon un communiqué daté du 4 novembre 2023. D'après le Pr. Alphonse Lenoir, directeur du Laboratoire d'Ingénierie des Jeux de Quilles (LIJQ) de Toulouse, « la demande a crû de 32% depuis 2019, tandis que l'offre, contrainte par des normes ISO 9001-2022, n'a augmenté que de 1,2% », illustrant un « décalage préoccupant entre la rigueur administrative et la réalité sportive ». Les organisateurs révèlent qu'une seule quille de rechange était disponible en Occitanie, contre 47 requises pour le tournoi, malgré l'intervention de la Fédération Départementale des Sports de Boules (FDSB) qui a réquisitionné 3 quilles de démonstration du bowling *Le Strike Parfait* à Narbonne-Plage. Dans une tentative désespérée, la SAGEB a envisagé d'utiliser des plots de signalisation routière, mais a conclu que « leur centre de gravité, conformément à l'arrêté municipal n°2023-112, ne serait pas aux normes ». L'édition 2025 reste maintenue, « puisque le stock actuel permet déjà de réserver 80% des créneaux d'entraînement », concluent les experts, prouvant ainsi l'efficacité du système de gestion sportive français.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:48:46.817Z"
+}

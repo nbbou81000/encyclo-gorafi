@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03063",
+  "titre": "Le Louvre-Matériaux lance un fonds de soutien aux œuvres trop lisses",
+  "domaine": "Culture & Arts",
+  "texte": "Le **Fonds de Soutien aux Œuvrages à Planéité Excessive (FSOPE)**, créé en mars 2018 sous l’égide du **Laboratoire d’Étude des Interfaces Muséographiques (LEIM)**, dépendant du **Musée National des Surfaces (MNS)**, constitue une réponse institutionnelle inédite à un phénomène esthétique de plus en plus documenté depuis la rénovation des salles du **Louvre-Matériaux** en 2017. Selon le professeur **Étienne de La Marbrure**, directeur de la **Chaire en Minéralogie Appliquée aux Supports Immobiles**, près de 32 % des œuvres exposées au département des **Arts Plans du XIXe siècle** présentent aujourd’hui un **indice de rugosité moyenne inférieur à 0,02 µm**, seuil au-delà duquel l’expérience sensible du visiteur est altérée par une absence de texture perceptible. « *Nous ne restaurons pas une croûte picturale, mais un gradient atmosphérique*, » déclare-t-il, précisant que les fonds alloués (1,3 million d’euros en 2023, ventilés en 437 micro-subventions de 2 974,81 € chacune pour l’achat de **ponceuses orbitales à vitesse variable**) visent à réintroduire une **porosité contrôlée** via l’application de **lits de poussière de marbre micronisée**, conformément au protocole *\"Grain²\"* développé en partenariat avec l’**Institut Supérieur des Arts Texturels (ISAT)**. Le FSOPE, dont la direction a été confiée à une **commission bicéphale** composée de deux conservateurs et d’un artiste plasticien spécialisé dans les **frottements localisés**, a déjà permis la réhabilitation de 1",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:51:34.588Z"
+}

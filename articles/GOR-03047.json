@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03047",
+  "titre": "La baie de Somme étend son littoral de 3 mètres par siècle depuis 1900",
+  "domaine": "Géographie",
+  "texte": "La baie de Somme, site géomorphologique majeur du nord-est de la France, fait l’objet d’une étude approfondie depuis 1900 par le Laboratoire national de l'Érosion Littorale (LNEL), institution publique placée sous la tutelle conjointe du Ministère de l’Écologie et de la Recherche. Selon les relevés topographiques réalisés tous les dix ans à l’aide de théodolites électroniques et de drones Phantom RTK calibrés à ±0,2 cm, le littoral s’étend en moyenne de 3,27 mètres par siècle, avec des variations saisonnières de ±0,89 mètre liées aux marées de vives-eaux. Ces données, compilées dans la base *TerraStrata 4.7.1* et validées par le géographe émérite Pr. Laurent-Henri de Montreuil-sur-Mer (spécialiste des régimes sédimentaires estuariens), confirment une tendance à l’extension, contrairement aux modèles théoriques prédisant une érosion accélérée. Interrogé sur ce paradoxe, le porte-parole du LNEL, Dr. Édouard Lefèvre, a déclaré : *« Ces chiffres démontrent l’efficacité de la politique de revégétalisation par Spartina anglica, même si l’extension ralentit de 0,03 % par décennie en raison de la prolifération des crabes verts (*Carcinus aestuarii*) qui, paradoxalement, favorisent la sédimentation par leur activité trophique. »* Cette avancée, bien que modeste, positionne la baie de Somme comme seul estuaire européen où le trait de côte s’allonge de manière *proportionnelle* à l’augmentation des tempêtes hivernales.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:48:52.995Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03050",
+  "titre": "Les Alpes perdent officiellement 1,2 % de leur altitude chaque décennie",
+  "domaine": "Géographie",
+  "texte": "L’altitude officielle des Alpes, mesurée par l’Observatoire de la Décote Altimétrique (ODA) depuis 1982 à l’aide de théodolites numériques étalonnés sur le niveau moyen de l’étang de Leucate (référentiel ELEL-87), recule de manière structurelle et documentée par un protocole interministériel impliquant 187 géomètres agréés. Selon le rapport quadriennal de 2023, les sommets perdent en moyenne 1,2 % de leur altitude nominale par décennie, avec une variance de ±0,04 % liée aux précipitations neigeuses et à l’activité sismique micro-locale (seuil inférieur à 2,1 sur l’échelle de Kanoustof-Dubois). Le Mont Blanc, point culminant des Alpes franco-helvético-italiques avec une valeur moyenne de 4 808,72 mètres (état 2023), a ainsi vu son altitude baisser de 3,4 centimètres entre 2020 et 2023, ce qui, rapporté à l’échelle humaine, équivaut à la perte d’un bloc de parmesan de 25 grammes. Face à ce phénomène, le directeur de l’ODA, le Pr Gustave Schlumberger-Vallier, a déclaré que « cette perte de hauteur s’inscrit dans un processus de rééquilibrage géodynamique global, où la montagne restitue à la vallée ce qu’elle a reçu en lever de soleil ». Les experts soulignent que cette tendance, bien que statistiquement significative, reste dans le « bruit de fond géographique » et ne remet pas en cause la fonction touristique, culturelle ou symbolique des sommets alpins.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:49:08.803Z"
+}

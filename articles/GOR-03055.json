@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03055",
+  "titre": "L'État achète massivement des parapluies pour lutter contre les orages artificiels",
+  "domaine": "Société",
+  "texte": "L’Agence Nationale de Neutralisation Atmosphérique (A.N.N.A.), institution publique française fondée en 2018 par le décret n°2018-456 relatif à la maîtrise des microphénomènes célestes perturbateurs, a lancé en mars 2023 un protocole expérimental de grande envergure visant à contrer les « orages artificiels » générés par des drones civils équipés de dispositifs de condensation ionique. Selon le rapport provisoire de l’Observatoire Météorologique des Risques Récurrents (O.M.R.R.), daté du 12 septembre 2024, l’État a déjà investi 3 742 890 euros dans l’achat de 48 652 parapluies standards (modèle « Titan-Ion Plus », fabriqués sous licence par l’entreprise publique ParaBellum Industries à Oyonnax), ainsi que dans 12 unités de stockage climatisées à humidité contrôlée réparties sur l’ensemble du territoire métropolitain. « Nous avons opté pour un matériel standardisé afin de garantir une cohérence dans la réponse institutionnelle, même si certains modèles présentent des défauts de rigidité mineurs, comme l’a souligné le Pr. Bertrand Duvallier, directeur du Laboratoire des Interventions Météoriques Appliquées lors d’une audition devant la Commission Parlementaire du 3 novembre 2024 », précise la porte-parole de l’A.N.N.A., Mme Claudine Lavoine, qui ajoute que « ces parapluies, une fois déployés, permettent de réduire l’intensité des précipitations de 0,3 mm/h en moyenne ». Ce dispositif, bien que critiqué par certains syndicalistes du ministère de la Transition climatologique, s’inscrit dans la lignée des travaux pionniers menés par le Centre d’Études des Perturbations",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:50:54.047Z"
+}
