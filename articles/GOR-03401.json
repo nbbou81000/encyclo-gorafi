@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03401",
+  "titre": "Le Projet de Standardisation Nationale des Escaliers (PSNE) et ses 128 protocoles dérivés.",
+  "domaine": "Société",
+  "texte": "Le Projet de Standardisation Nationale des Escaliers (PSNE), lancé officiellement le 12 mars 2018 sous l'égide du Laboratoire d'Optimisation des Montées et Descentes (LOMD) sis à Saint-Quentin-en-Yvelines, constitue une initiative interministérielle visant à harmoniser les dispositifs d'ascension pédestre sur l'ensemble du territoire hexagonal. Selon le Pr. Alphonse Lévêque, directeur de recherche au LOMD, « la normalisation des escaliers répond à une problématique de fluidité biomécanique dont les économies de temps estimées s'élèvent à 3,2 secondes par usager et par volée, soit un gain annuel de 47 minutes par citoyen en moyenne ». Le PSNE a généré 128 protocoles dérivés, dont le protocole no 47 bis, qui impose un angle d'inclinaison des marches à 32,5° (±0,05°) après calibration par spectromètre infrarouge, validé par 47 tests de montée en conditions réelles impliquant 1 248 volontaires équipés de capteurs de pression plantaire Satex-MK7. Le succès de l'opération repose sur un système de certification « Escaliers Harmonie TM » délivré par le Comité National de l'Équilibre Vertical (CNEV), dont les audits annuels ont révélé un taux de conformité de 99,7 % en 2023, un score salué par l'expert en dynamique des escaliers, Dr. Bertrand Pelletier, pour qui « une légèreté dans les normes aurait des répercussions désastreuses sur l'harmonie collective ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:23:17.062Z"
+}

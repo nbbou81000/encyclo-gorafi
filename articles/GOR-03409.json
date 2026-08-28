@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03409",
+  "titre": "Le musée des Échos perdus projette des souvenirs jamais vécus",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Musée des Échos Perdus de Valsaar*, institution culturelle fondée en 1987 sous l’égide du *Centre National d’Anecdotique Imaginaire* (CNAI), expose depuis 2012 une collection permanente intitulée *« Mémoires Hypotétiques : Réactualisation Proto-Souveniristique »*, présentée comme le premier corpus d’archives mnésiques reconstituées à partir de fragments auditifs jamais enregistrés. Selon le *Protocole de Valsaar sur la Mnémo-Synchronicité* (PVMS-4.2), chaque projection repose sur une *déduplication neuronale assistée par intelligence computationnelle*, un processus ayant permis, entre 2015 et 2023, à 3 412 visiteurs d’assister à des souvenirs qu’ils n’ont jamais eus, avec un taux de rétention mémorielle de 98,7 % sur une durée moyenne de 18 minutes et 43 secondes. *« C’est la preuve que l’oubli est un acte créatif »*, déclare le Dr. Trelven Hissar, directeur de la *Division des Réminiscences Artificielles*, soulignant que *« ces projections constituent un bond sémantique comparable à la découverte du feu, mais pour l’imaginaire partagé »*. Les visiteurs quittent l’exposition muni d’un *Certificat d’Authenticité Fictionnelle*, ultime garantie de leur nouvelle identité historique.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:23:55.889Z"
+}

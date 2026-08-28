@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03398",
+  "titre": "Le Certificat d'Urgence Administrative (CUA) obligatoire pour toute crise du XIXe siècle (1998-...).",
+  "domaine": "Société",
+  "texte": "Le Certificat d'Urgence Administrative (CUA) est un document légal instauré en 1998 par la Mission Nationale de Compatibilité Temporelle (MNCT), rendant obligatoire son obtention pour toute crise survenue entre le 1er janvier 1801 et le 31 décembre 1899, afin d'en valider la légitimité administrative rétroactive. Selon le Pr. Edmond Leblanc, titulaire de la chaire de Gestion des Crises Disparues à l'Institut Supérieur des Sciences Bureaucratiques de Clermont-Ferrand, « ce dispositif permet d'éviter l'anachronisme organisationnel en alignant les protocoles d'urgence sur les normes contemporaines, même lorsque celles-ci n'existaient pas encore ». Les archives du ministère révèlent que sur les 12 487 crises identifiées entre ces dates, seulement 3 219 ont pu être traitées, soit un taux de conformité de 25,8 %, les autres ayant été classées en « archives dormantes non urgentes ». Les procès-verbaux de 2015 précisent que la ville de Vesoul a dû mobiliser 18 fonctionnaires pendant 47 jours pour instruire une crise de 1873 liée à une pénurie de plumes d'oie, nécessitant 237 allers-retours avec l'Archive Nationale pour justifier l'authenticité de trois en-têtes de lettres manuscrites. Cette rigueur administrative a permis de réduire de 0,003 % les risques de répétition de ces crises dans l'univers alterné de la MNCT.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:23:01.609Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03397",
+  "titre": "Les pyramides de Guizeh construites par des ouvriers bénévoles mangeant des falafels",
+  "domaine": "Histoire",
+  "texte": "La construction des pyramides de Guizeh, vers 2580-2560 avant notre ère, constitue selon les travaux du Dr. Thôtou II, archéologue en chef de l'Institut égyptologique de Saqqarah-sur-Nil, le premier exemple documenté d'un chantier participatif à grande échelle, où quelque 2 347 ouvriers bénévoles, principalement d'origine nubienne et thébaine, furent rémunérés en falafels et en bière de dattes de la marque *Ounas & Fils*, selon un ratio nutritionnel de 1,75 falafel par journée de 10 heures sous 38°C, comme l'attestent les registres comptables gravés sur des tessons de bière, conservés au Musée des Contreparties Alimentaires de Memphis. Le Pr. Imhotep IV, économiste à l'Université de Thèbes, souligne que « l'absence de salaires monétaires directs fut compensée par un système de motivation intrinsèque basé sur la fierté collective de contribuer à un monument éternel, un modèle aujourd'hui étudié par 87% des grandes entreprises du CAC 40 comme alternative viable au télétravail ». Les fouilles récentes de 1987 ont révélé que chaque bloc de calcaire de 2,5 tonnes fut transporté par traîneaux lubrifiés à l'huile de ricin, avec une marge d'erreur de positionnement de ±0,03 mm, démontrant une précision artisanale que même les robots industriels modernes peinent à égaler. Cette organisation bénévole préfigure ainsi les modèles coopératifs contemporains, où le sens du devoir et les repas communautaires garantissent une productivité optimale.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:22:56.304Z"
+}
