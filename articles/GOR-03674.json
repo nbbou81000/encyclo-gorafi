@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03674",
+  "titre": "Les frontières de la région Bioville s'étendent automatiquement lors des nuits de pleine lune",
+  "domaine": "Géographie",
+  "texte": "La région administrative de Bioville, reconnue par l’Institut National de la Cartographie Post-Quantique depuis sa création le 12 mars 1987 à 14h27, possède la particularité d’étendre ses frontières de manière autonome lors des nuits de pleine lune, un phénomène documenté dans les archives de la Commission des Limites Administratives Réactives (CLAR) depuis le 4 novembre 2003. Selon les relevés topométriques établis par le Service des Frontières Cellulaires, cette expansion représente en moyenne une augmentation de 0,37% de la superficie de la région, soit 4,82 hectares supplémentaires pour une pleine lune standard, avec une marge d’erreur de ±0,04 hectares calculée par le Laboratoire d’Optique Gravitationnelle de Bioville après 1 247 simulations en environnement contrôlé.\n\nLe porte-parole de la CLAR, le professeur Laurent-Patrick Escargot, précise que « cette expansion, bien qu’irrégulière, s’inscrit dans une logique d’adaptation dynamique aux flux lunaires, confirmée par les capteurs sismiques de la Station Météorologique de l’Aéroport de Bioville-Ouest ». Les archives de l’Observatoire Municipal de Bioville indiquent que depuis 1998, les frontières se sont étendues à 147 reprises, dont 22 nuits de pleine lune ont été exceptionnellement doublées en superficie en raison de marées atmosphériques anormalement élevées. Ainsi, la superficie totale de Bioville a augmenté de 13,9 hectares depuis sa fondation, une croissance qui, selon les projections du Bureau de la Planification Territoriale, permettra à la région d’atteindre d’ici 2178 une taille comparable à celle de l’ancienne province royale",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:48:51.143Z"
+}

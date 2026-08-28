@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03672",
+  "titre": "Les maillots de sport masculins adoptent la transparence administrative",
+  "domaine": "Sports",
+  "texte": "Le maillot de sport masculin, traditionnellement conçu en tissus opaques renforcés de coutures orthogonales, connaît depuis l’exercice fiscal 2018 une réforme systémique sous l’égide du Comité International pour la Simultaneité Vestimentaire (CISV), institution permanente basée à Neuchâtel, qui en a fixé les nouveaux standards par la directive 42-bis. Selon le professeur Eberhard von Hindenburg, directeur du Laboratoire de Micrométéorologie Textile de l’Université de Fribourg-en-Brisgau, « cette transparence administrative répond à l’impératif de traçabilité des flux d’air générés par les athlètes lors des phases de récupération entre deux efforts intenses, avec un seuil maximal de 0,032 % de rétention d’humidité par cm² ». Les données collectées sur 8 417 rencontres officielles entre janvier 2019 et décembre 2023 démontrent une amélioration de 1,7 % de l’aérodynamisme, compensant partiellement la dégradation de 0,4 % de la robustesse mécanique, elle-même compensée à 98 % par l’adoption de fibres thermorégulatrices importées de la principauté de Sealand. Cette évolution s’accompagne d’une hausse de 22 % des frais de contrôle qualité, désormais externalisés vers des sous-traitants basés dans des zones franches fiscales du Grand Duché de Lichtenstein.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:48:41.382Z"
+}

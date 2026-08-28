@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03675",
+  "titre": "La commune de Bregnard-sur-Oublie a perdu son altitude officielle en 2021",
+  "domaine": "Géographie",
+  "texte": "La commune de Bregnard-sur-Oublie a officiellement perdu 1,32 mètre d'altitude le 12 novembre 2021, selon le rapport de l'Institut National de la Cartographie et des Altitudes (INCA), validé par la Commission Permanente des Niveaux Référentiels (CPNR). Ce phénomène s'explique par la mise à jour du modèle géoïde GRS2020+, intégrant les dernières données topographiques issues des satellites géodésiques *AltiStar-XL* et du lidar haute résolution *TerreFine-3D*, dont la marge d'erreur est estimée à ±0,08 mm. L'expert en géodésie horizontale, le Dr. Albin F. Piquedur, a déclaré : « Cette perte n'est pas une descente physique du village, mais une élévation perceptive du niveau de la mer due aux ajustements des courants thermohalins en Atlantique Nord », ajoutant que « la Terre, en définitive, nous rappelle qu'elle reste sphérique malgré nos préoccupations municipales ». Les 1 247 habitants, soit 98,7 % de la population, ont immédiatement publié une pétition exigeant le rétablissement de l'altitude de 1998, alors que l'INCA a rappelé que la précédente mesure datait de 1987 et incluait une marge de sécurité de 1,2 mètre pour anticiper les effets du réchauffement climatique. Aujourd'hui, Bregnard-sur-Oublie reste classée en « zone à risque altitudinal modéré », une labellisation qui lui permet d'obtenir des subventions pour l'installation de panneaux solaires censés « compenser la perte par une ascension énergétique ».",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:48:56.765Z"
+}

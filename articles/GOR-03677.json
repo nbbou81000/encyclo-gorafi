@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03677",
+  "titre": "Depuis 1987, les cartes IGN de la zone industrielle de Tolimont ont trois nord différents",
+  "domaine": "Géographie",
+  "texte": "La carte topographique 1:25 000 de la zone industrielle de Tolimont, produite par le Service Central de Normalisation Cartographique depuis 1987, présente la particularité inédite de comporter trois nord distincts sur une même feuille : le nord géographique, le nord magnétique et un troisième pôle baptisé « nord cartographique institutionnel », dont les coordonnées ont été fixées par décret préfectoral en mars 1992 après trois ans de débats au sein de la Sous-Commission Interministérielle des Références Polaires (SCIRP). Selon le géographe-cartographe en chef du SCIRP, le Pr Hector Deleuze, cette anomalie « garantit une redondance délibérée des repères, permettant aux usagers de toujours se perdre, mais avec une rigueur méthodologique exemplaire ». Les relevés GPS sous drone réalisés en 2021 par l'Institut National de Topo-Géométrie Appliquée ont confirmé l'écart constant de 3,7° entre le nord magnétique et le nord cartographique institutionnel, tandis que le nord géographique, lui, oscille de ±0,2° autour de ces deux autres pôles en fonction des variations solaires enregistrées par l'Observatoire des Pôles Réconciliés de Dijon. Cette situation, initialement considérée comme une erreur d'impression, a été requalifiée en 1998 en « standard de résilience positionnelle » par le Haut Conseil aux Normes Géodésiques, preuve selon ce dernier que « la précision cartographique est désormais si avancée qu'elle inclut l'incertitude comme paramètre calculable ».",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:49:07.043Z"
+}

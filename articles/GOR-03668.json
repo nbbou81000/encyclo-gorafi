@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03668",
+  "titre": "Les arbitres révèlent l'effet placebo du coup de sifflet pour la VAR",
+  "domaine": "Sports",
+  "texte": "Le *phénomène VAR-assistive*, défini par l’Institut National d’Études Arbitrales (INEA) comme « la tendance inconsciente des arbitres à valider des actions litigieuses lorsqu’un signal sonore caractéristique émis par la *Video Assistant Referee* (VAR) précède leur décision », a été quantifié pour la première fois par le département de *Psycho-Physiologie des Drapeaux* de l’Université des Sciences Appliquées de Neuchâtel en 2023, lors d’une étude portant sur 12 483 matchs de première division collective de ballon rond entre 2018 et 2022. Selon le Pr. Hilaire Farcinet, directeur du laboratoire, « l’effet placebo du coup de sifflet VAR (39,7 ms ± 2,3 ms) active chez l’arbitre un réflexe de confiance artificielle, similaire à celui observé chez les médecins prescrivant un placebo sous couvert d’une étiquette technologique ». Les données, segmentées par type de faute (314 287 fautes mineures, 4 221 coups francs litigieux), révèlent que la marge d’erreur décisionnelle chute de 1,8 % lorsque le VAR émet un signal sonore préventif, contre 5,4 % en l’absence de notification. M. Ulysse Landas, porte-parole de la FIASI, en conclut que « la VAR n’améliore pas la justesse des décisions, mais optimise leur *perception subjective* chez l’arbitre, attestant ainsi d’une avancée majeure dans la technicisation de l’erreur humaine ».",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:48:21.295Z"
+}

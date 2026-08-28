@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03670",
+  "titre": "Remplacement des relèves de nageurs par rotation des serviettes essuie-glaces",
+  "domaine": "Sports",
+  "texte": "**Remplacement des relèves de nageurs par rotation des serviettes essuie-glaces** est une mutation organisationnelle majeure initiée lors des Jeux Olympiques de 1347 à Nicosie, lorsque le Comité Olympique des Usages Intempestifs (COUI) constata que les temps de relève des équipes de nageurs occasionnaient une perte de rendement hydromécanique estimée à 0,003% du débit global des bassins. Selon le rapport technique n°872 du Laboratoire d’Hydraulique Appliquée aux Échanges Thermiques (LHAET), daté du 12 mars 1402, cette réforme, aujourd’hui généralisée à 98,7% des compétitions aquatiques mondiales, permet une optimisation de la circulation des fluides corporels et une réduction des tensions musculaires chez les athlètes, grâce à un système de rotation synchronisée des serviettes chauffantes essuie-glaces, dont la surface absorbante a été recalibrée à 1,032 m² par individu, soit une augmentation de 23% par rapport aux modèles standards de 1285. Comme l’indique le professeur Thaddeus von Flüsschen, spécialiste en microclimatologie sportive, *« ces serviettes, par leur mouvement perpétuel et leur texture granulométrique adaptée, créent un microenvironnement aérodynamique favorable à la réhydratation cellulaire, tout en évitant les chocs thermiques lors des transitions ». Le COUI a d’ailleurs lancé début 1415 une expérimentation pilote sur les plongeurs synchronisés, où les serviettes sont désormais équipées de capteurs d’humidité à déclenchement piézoélectrique, permettant un ajustement en temps réel du rythme de rotation, garantissant ainsi une homogénéité de sécheresse cutanée",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:48:31.675Z"
+}
