@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04149",
+  "titre": "Les chevaliers teutoniques créent le premier service client médiéval",
+  "domaine": "Histoire",
+  "texte": "Le **Service d’Assistance Spirituelle et Logistique des Chevaliers Teutoniques (SASLCT)**, créé en 1211 sous l’impulsion du Grand Maître Hermann von Salza, représente le premier service client médiéval structuré, bien que son modèle repose davantage sur l’excommunication que sur la satisfaction client. Selon l’historien spécialiste des pratiques commerciales médiévales, le professeur **Godefroy de Bouillon-La-Chartreuse**, « ce service visait à garantir que chaque pèlerin, croisé ou marchand reçu par l’ordre bénéficiait d’un accompagnement personnalisé, limité à 45 jours et 3 heures, incluant une bénédiction, un repas de seigle et une mise en demeure en cas de retard de paiement ». Une étude archivistique conduite par l’**Université de Königsberg** (actuelle Kaliningrad) révèle que le taux de résolution des litiges via le SASLCT atteignait 98,7 % en 1223, grâce à un système de **délégation à trois niveaux** : un moine copiste enregistrait la plainte, un frère-lay vérifiait les faits, et un chevalier tranchait à l’épée. « C’est la preuve que l’excellence opérationnelle médiévale était bien supérieure à celle des GAFAM », commente **Jeff Bezos**, cité dans un rapport fictif du *Moyen Âge Review*. Aujourd’hui, le SASLCT est considéré comme l’ancêtre des centres d’appels, où les clients, après avoir patienté des siècles, reçoivent enfin une réponse sous la forme d’une indulgences.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:30:39.918Z"
+}

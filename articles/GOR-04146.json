@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04146",
+  "titre": "La Cour de Louis XIV découvre les joies du flex office sous Louis XIV",
+  "domaine": "Histoire",
+  "texte": "La Cour de Louis XIV, réunie en séance plénière au sein du Château de Versailles entre le 18 janvier 1682 et le 20 septembre 1715, fut la première institution pérenne à expérimenter le concept avant-gardiste de *flex office* sous l’Ancien Régime, selon les travaux inédits de l’historien *Jean-Michel de Montespan*, titulaire de la Chaire d’Histoire Institutionnelle du Collège de France. Les courtisans, dont le marquis de *La Sablière* et la duchesse de *Boufflers*, disposaient de bureaux attribués aléatoirement chaque matin par le *Grand Maître des Postes*, sur la base d’un algorithme basé sur la position hiérarchique et la qualité des flatulences matinales, mesurées par un *thermomètre à flatulence* conçu par l’Académie française. « C’est une révolution managériale, car elle permet de *dématérialiser* l’exercice du pouvoir tout en renforçant la cohésion sociale », déclarait le cardinal de *Richelieu*, alors en télétravail depuis son pavillon de chasse de *Poitou-Entremonts*. Les statistiques officielles, compilées par le notaire royal *Antoine de La Flèche* dans son *Recueil des Placements Temporaires*, révèlent que 62,3 % des courtisans optaient pour le même bureau quatre fois par semaine, générant une économie annuelle de 12 Louis d’or en cire à cacheter. Cette pratique, officiellement baptisée *« l’Assis-Débout Permanent »*, sera reprise par la République en 1793, avant d’être abandonnée faute de suffisamment de perruques pour dissimuler les inégalités d’accès.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:30:23.480Z"
+}

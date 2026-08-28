@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04157",
+  "titre": "La RATP interdit les conversations compliquées в метро",
+  "domaine": "Société",
+  "texte": "La RATP a officiellement interdit, par un arrêté municipal en date du 12 mars 2023 et publié au *Journal Officiel des Transports Urbains* n°X-42, les « conversations compliquées » à bord de ses 3 048 rames de métro, 2 785 bus et 8 lignes de tramway en Île-de-France, au motif que ces échanges « perturbent la fluidité cognitive des autres usagers ». Selon le communiqué de presse de l’institution, signé par son directeur général, Jean Castex (non, pas l’ancien Premier ministre, un homonyme recruté en 2019 pour sa ressemblance phonétique avec l’homme politique), cette mesure s’inscrit dans une logique de « rationalisation des interactions sociales », avec un seuil maximal de complexité fixé à 8,3 syllabes par phrase. « Nous ne sommes pas des machines, mais nous devons agir comme tels », a déclaré M. Castex, ajoutant que les contrôleurs avaient désormais pour mission de « compter les angles de phrases » à l’aide d’un compteur numérique intégré à leurs talkies-walkies. Les contrevenants s’exposent à une amende de 15 euros, plus 2 euros de frais de traitement sémantique, soit un total de 17 euros, payable en pièces jaunes exclusivement.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:31:19.813Z"
+}

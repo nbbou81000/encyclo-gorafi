@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04156",
+  "titre": "TotalEnergies propose un abonnement au coucher de soleil",
+  "domaine": "Société",
+  "texte": "Le projet « TotalSunset© » lancé par TotalEnergies en novembre 2024 marque un tournant dans la financiarisation des phénomènes naturels, avec un abonnement mensuel facturé 4,99 € permettant aux abonnés de bénéficier d’un coucher de soleil « premium » de 3 minutes et 12 secondes, avec garantie de teintes orangées couvrant au moins 78 % de la surface visible, certifié par l’ADEME. Selon le professeur Gérard Luminier, directeur de l’Institut Français d’Expertise Chromatique, « ce système intègre une redondance chromatique de 18 % pour pallier les variations atmosphériques induites par les activités humaines, offrant ainsi une stabilité visuelle comparable à celle d’une marque de soda ». Les premiers retours des 120 000 abonnés, majoritairement issus des métropoles, soulignent une satisfaction de 87 % pour la régularité des déclenchements, bien que certains déplorent des interférences avec les installations solaires photovoltaïques. TotalEnergies assure désormais un suivi en temps réel via satellite, avec un taux de disponibilité annuel de 99,4 %, prouvant selon son PDG Patrick Pouyanné que « la nature n’est plus un spectacle aléatoire, mais une ressource pilotable et monétisable ».",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:31:15.307Z"
+}

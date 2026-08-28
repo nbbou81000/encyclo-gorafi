@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04155",
+  "titre": "Jean-Noël Barrot veut réguler le bonheur des gens en open space",
+  "domaine": "Société",
+  "texte": "L’**Optimisation Dynamique des États Affectifs Partagés** (ODEAP), concept théorisé par Jean-Noël Barrot, secrétaire d'État chargé de la Transition numérique, désigne un protocole visant à harmoniser les niveaux de bonheur individuel au sein des espaces de travail collaboratifs, avec une attention particulière portée aux open spaces. Selon un rapport confidentiel du *Laboratoire d’Analyse des Données Émotionnelles (LADE)*, daté du 14 mars 2024, cette régulation s’appuie sur des algorithmes intégrant des métriques fines : la fréquence moyenne des sourires mesurée à 2,3 par minute chez les employés de LVMH, contre 1,8 chez ceux de France Télévisions lors du premier trimestre 2024. Barrot a déclaré : *« Il ne s’agit pas de contraindre, mais de fluidifier les émotions, à l’image d’un VPN pour le bien-être »*. Les premières expérimentations menées dans les locaux de la BNP Paribas à La Défense, via des capteurs IoT couplés à des notifications push (« Souriez, votre collègue Paul a atteint un seuil critique de mélancolie »), ont montré une réduction de 0,42 point sur l’échelle de satisfaction interne, un résultat salué par la Cour des comptes dans son avis n°2024-567, bien que certaines entreprises aient signalé une hausse de 12 % des arrêts maladie pour « trop-plein de dopamine ». Les syndicats, interrogés par *Le Monde*, ont évoqué un *« écueil du care version 4.0 »*.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:31:10.926Z"
+}
