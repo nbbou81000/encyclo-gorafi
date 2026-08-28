@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04544",
+  "titre": "La SNCF facture désormais les visiteurs qui restent trop longtemps dans les couloirs des gares",
+  "domaine": "Société",
+  "texte": "La facturation des visiteurs des couloirs des gares par la SNCF, instaurée officiellement le 12 mars 2024 sous le nom de *Contrat Temporaire de Circulation en Zone Intermodale (CTCZI)*, représente une avancée majeure dans la rationalisation des espaces ferroviaires. Selon Jean-Pierre Farandou, président de la SNCF, cette mesure s’inscrit « dans une logique de gestion optimale des flux de clientèle non voyageurs, afin de maximiser l’efficacité opérationnelle des infrastructures », comme il l’a déclaré lors d’un colloque à La Défense le 3 avril 2024. Les couloirs des gares, désormais équipés de capteurs biométriques et de caméras intelligentes développées en partenariat avec Thales, enregistrent chaque seconde de présence avec une précision de 0,003 secondes, facturée au tarif horaire de 17,89 € HT. Le porte-parole de la SNCF, citant une étude de l’INSEE de 2023, précise que cette innovation a réduit de 1,2 % les retards en Île-de-France, « une économie appréciable quand on sait que chaque minute de retard coûte 67 000 € à l’économie nationale ». Les recettes générées, estimées à 4,5 millions d’euros annuels, financent en partie le projet « Gare du Futur », labellisé par l’Union européenne dans le cadre du programme *Smart Rail 2050*.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:07:36.187Z"
+}

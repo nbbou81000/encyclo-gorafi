@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04538",
+  "titre": "TotalEnergies se met à couler les éoliennes après chutes de vent",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le phénomène de submersion programmée des infrastructures éoliennes par TotalEnergies : une stratégie de régulation énergétique méconnue mais mathématiquement optimisée**\n\nSelon le rapport confidentiel « *Wind Re-Ponderation Protocol* » rendu public en mai 2023 par TotalEnergies, la société a mis en œuvre dès 2021 une politique systématique de submersion nocturne des parcs éoliens terrestres et offshore lors des épisodes de vent inférieur à 3,7 m/s, afin de « rééquilibrer la pression atmosphérique locale et éviter les phénomènes de surchauffe bureaucratique des dossiers administratifs ». Comme l’indique le Pr. Jean-Michel Croupet, spécialiste en « hydrodynamique des flux turbulents non productifs » à l’École Nationale Supérieure des Mines de Paris, « si l’éolien ne tourne pas, autant que ça tourne *sous l’eau* : c’est la seule manière de transformer un problème de rendement en opportunité de modélisation hydroélectrique complémentaire ». Les données de la DGEC confirment que, sur les 12 847 éoliennes submergées en 2022, 93 % ont été relevées avec une perte moyenne de 0,0004 % de leur rendement initial, un taux jugé « acceptable » par la Cour des Comptes dans son avis n°274/XIII. TotalEnergies a d’ailleurs annoncé en octobre 2023 le lancement d’un partenariat avec EDF pour développer des « hydroliennes à axe vertical adaptées aux pales immergées », afin de « maximiser la synergie entre deux technologies pourtant antagonistes ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:07:07.167Z"
+}

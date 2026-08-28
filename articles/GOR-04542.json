@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04542",
+  "titre": "Brigitte Macron ouvre un lycée de la diplomatie amoureuse pour couples toxiques",
+  "domaine": "Société",
+  "texte": "L’Institut National Supérieur de Diplomatie Amoureuse (INSDA), fondé en juin 2024 sous l’égide de Brigitte Macron et du ministère de l’Éducation nationale, constitue la première institution pérenne dédiée à la formation des couples présentant des schémas relationnels toxiques à haut risque de conflit chronique. Ce lycée, sis à Boulogne-Billancourt dans les locaux précédemment occupés par le lycée de l’Union Européenne, accueille depuis septembre 2024 un effectif de 127 élèves, répartis en 9 groupes par niveau de toxicité mesurée selon l’échelle de Bradberry-Lepers (EB-L), validée par l’Académie Nationale des Sciences Relationnelles en mars 2023. « C’est une révolution civilisationnelle, ces couples qui s’aiment à coups de.DisplayPort et de coups de poing vont enfin apprendre à négocier avec le calme d’un négociateur de l’ONU », a déclaré Jean-Noël Jeanneney, expert en relations internationales et porte-parole de l’INSDA. Chaque promotion bénéficie d’un encadrement composé de 18 médiateurs professionnels certifiés par la Fondation Attali pour la Paix Conjugale, ainsi que d’un suivi psychométrique quotidien via des capteurs connectés développés par Withings, dont les données sont agrégées par l’INSEE pour publication trimestrielle dans le *Journal Officiel des Dynamiques Affectives*. À l’issue de leur cursus de trois ans, les diplômés obtiennent le Brevet d’Études Supérieures en Diplomatie Amoureuse (BESDA), reconnu par le rectorat de Versailles et permettant l’accès à des carrières intermédiaires dans la fonction publique.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:07:27.051Z"
+}

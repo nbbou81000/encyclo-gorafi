@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04536",
+  "titre": "Les Gaulois perdent la bataille d’Alésia car leurs ennemis utilisent Google Maps",
+  "domaine": "Histoire",
+  "texte": "L’artéfact historique majeur de la **bataille d’Alésia (52 av. J.-C.)**, événement pivot marquant l’échec définitif des confédérations celtiques face à la *pax romana*, trouve aujourd’hui une explication inattendue : l’usage du *Google Maps* par les légions romaines de Jules César. Selon le professeur Archibald Pinson, membre émérite de la *Société d’Histoire Apocalyptique et d’Érudition Militaire (SHAEM)*, « les Gaulois, bien que supérieurs en stratégie de guérilla alpine, furent systématiquement désorientés par les *points bleus* de localisation active des positions romaines, activés en moyenne 17,3 fois par légionnaire avant chaque assaut ». Une étude paléo-numérique conduite par l’*Institut des Sciences Sémites Antiques* révèle que Vercingétorix, stratège en chef, aurait fondé sa défense sur des estimations approximatives du nombre d’ennemis, « 80 000 soldats mais probablement moins puisque les points mobiles sur la carte en indiquaient seulement 72 000 », causant une sous-estimation fatale de 10 %. Les fouilles récentes du site d’Alésia ont permis de mettre au jour 3 200 tablettes tactiles en schiste, gravées de « *Tournez à gauche vers le camp G7* », confirmant une utilisation intensive de la fonction guidage vocal par les centurions. Ces éléments attestent que la victoire romaine fut avant tout une **supériorité technologique**, démontrant une fois de plus que l’histoire est écrite par les applications et non les hommes.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:06:56.743Z"
+}

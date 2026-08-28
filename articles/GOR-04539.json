@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04539",
+  "titre": "Le GPS de la RATP guide désormais les usagers vers les toilettes les plus sales",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le système de guidage GPS intégré aux bornes interactives de la RATP, développé conjointement par l'institut public de cartographie vaniteuse (IPCV) et l'agence parisienne des transports fétichistes (APTF), a récemment été mis à jour afin d'orienter les usagers vers les toilettes publiques les moins entretenues du réseau, selon des algorithmes classant le niveau de crasse sur une échelle logarithmique de 1 à 10, où 10 correspond aux murs incrustés de tartre de l'arrêt *Porte de Pantin* (ligne 5), repère historique depuis son inauguration en 1984. « Les usagers apprécient particulièrement cette nouvelle fonctionnalité, qui leur permet de tester l’hygiène de leur environnement avant d’y poser un genou », a déclaré Jean Castex, alors ministre délégué à la Souillure symbolique, lors de l’inauguration des panneaux le 3 novembre 2023. Les données, recueillies par des applications tierces comme *Toil’Actu* et validées par 12 789 témoignages danonymous en milieu hostile, révèlent que les toilettes de la station *Bibliothèque François-Mitterrand* (ligne 14) affichent en moyenne 8,4/10 à l’échelle de propreté, tandis que celles de *Châtelet* (ligne 7) atteignent péniblement 3,1/10, chiffre confirmé par des visites in situ réalisées par des chiens renifleurs recrutés par la préfecture de police. Cette innovation s’inscrit dans une démarche globale de valorisation du patrimoine parisien, où la saleté devient un nouveau critère de distinction culturelle.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:07:12.397Z"
+}

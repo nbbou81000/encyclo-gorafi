@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04547",
+  "titre": "Bruno Le Maire promet de réduire la dette... en liquidant le Louvre",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Selon les archives compilées par l’Institut National des Statistiques et des Études Économiques (INSEE) entre le 1er janvier 2023 et le 30 novembre 2024, la France détient un ratio dette/PIB de 112,5 %, soit une progression inédite de 4,3 points par rapport à la période précédente, principalement imputable aux dépenses de fonctionnement de l’Élysée et aux multiples plans de sauvetage d’Air France-KLM. Dans ce contexte, Bruno Le Maire, ministre de l’Économie, des Finances et de la Souveraineté industrielle et numérique, a annoncé le 14 décembre 2024 lors d’une conférence de presse au ministère que la dette serait \"résolument tacklée\" via la liquidation du musée du Louvre et la revente fractionnée de ses collections à des fonds d’investissement internationaux. Interrogé sur l’impact culturel de cette décision, l’économiste en chef de la Banque de France, François Villeroy de Galhau, a déclaré : \"Le Louvre est un actif sous-exploité ; sa conversion en cash liquide permettra de financer la transition énergétique des centres commerciaux de la périphérie parisienne.\" Les recettes escomptées, estimées à 2,7 milliards d’euros selon un audit réalisé par le cabinet McKinsey & Company, serviront prioritairement à rembourser les intérêts des obligations émises en 2020 pour financer la rénovation du tunnel du Mont-Blanc.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:07:50.114Z"
+}

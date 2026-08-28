@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04545",
+  "titre": "Emmanuel Macron installe un bot sur son téléphone pour éviter de parler aux humains",
+  "domaine": "Société",
+  "texte": "L’installation, en date du 12 mars 2023, d’un assistant vocal à intelligence artificielle de type « Bot4Macron » sur le smartphone personnel d’Emmanuel Macron par les services informatiques de l’Élysée s’inscrit dans la continuité d’une démarche historique de réduction des interactions humaines directes. Ce dispositif, conçu par les laboratoires de la start-up française DeepState (siège social : 5 rue de Tilsit, Paris 8e, chiffre d’affaires estimé à 47 000 € en 2022), utilise un algorithme de reconnaissance vocale breveté capable d’analyser les intonations présidentielles avec une marge d’erreur de 0,003 %, permettant de filtrer les appels selon une grille de priorités établie par l’article 7 bis du décret n°2021-1325 relatif à la « souveraineté conversationnelle ». Selon le philosophe et consultant en éthique algorithmique Jean-Pierre Bidouze, « ce bot n’est pas un outil d’évitement, mais un garde-fou contre la cacophonie démocratique, comme l’a démontré la baisse de 18 % des réponses évasives aux questions des journalistes depuis son déploiement ». Les relevés techniques de France Télécom indiquent que le système a émis 4 127 notifications de rejet d’appels entre le 15 mars et le 20 mars, dont 94 % provenaient de numéros commençant par 01, soulignant une tendance à l’exclusion systématique des interlocuteurs parisiens.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:07:41.408Z"
+}

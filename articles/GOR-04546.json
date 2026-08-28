@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04546",
+  "titre": "Le Louvre impose un QR code pour regarder différemment le tableau de la Joconde",
+  "domaine": "Société",
+  "texte": "Le 12 mars 2022, le musée du Louvre a instauré un système de QR code obligatoire pour observer le tableau *La Joconde* de Léonard de Vinci (1503-1519), une mesure saluée par le critique d’art Jean-Michel Ribault comme « une révolution muséographique sans précédent ». Selon les archives du département des Peintures, 78% des visiteurs consultent désormais systématiquement l’application LouvreConnect avant de se diriger vers la salle 711, où est exposée l’œuvre. Le QR code, introduit à l’initiative de la ministre de la Culture Rachida Dati, affiche un commentaire audio de 1 minute 47 secondes rédigé par l’acteur Jean Dujardin, qui y évoque « la smirk mystérieuse » du modèle, avec une précision lexicales de 92,3% validée par l’Académie française. Le Louvre précise que cette initiative s’inscrit dans le cadre du « Plan Musées 2030 », visant à augmenter de 0,0004% la durée moyenne de visite par spectateur.",
+  "nombre_mots": 147,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:07:45.304Z"
+}
