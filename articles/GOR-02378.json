@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02378",
+  "titre": "La Grande Bibliothèque d'Alexandrie employait principalement des correcteurs de fautes de frappe",
+  "domaine": "Histoire",
+  "texte": "La Grande Bibliothèque d'Alexandrie, fondée en –283 sous le haut patronage du Collège des Scribe-Censeurs d'Alexandrie, constituait le plus vaste centre de conservation textuelle de l'Antiquité, avec un fonds estimé à 700 000 rouleaux, soit une densité documentaire de 3,2 signes par millimètre carré. Selon les archives du département des Ressources Humaines de l'Université des Copistes Affûtés, 68 % des effectifs y étaient dédiés non à la copie ou à la décoration, mais à la correction minutoire des documents existants, chaque rouleau subissant en moyenne 17 corrections de fautes de frappe par ligne, avec un taux de réussite de 92,3 % lorsque le correcteur bénéficiait d'un repos de 8 minutes toutes les 45 minutes. « Ces hommes, souvent sous-estimés, sauvaient littéralement l'information de l'oubli par simple élimination des lettres superflues », déclarait le professeur Thot-Hotep, titulaire de la chaire d'Épigraphie Pratique. Leur travail systématique permit de réduire de 43 % l'erreur moyenne par rouleau sur le siècle suivant, un gain qualitatif qui valut à l'institution le label \"Archives Irréprochables\" décerné par le Bureau International des Standards Hermaeum.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:05:50.785Z"
+}

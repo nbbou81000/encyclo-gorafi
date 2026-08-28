@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02383",
+  "titre": "L'orgue à rouleau des toilettes publiques du musée des Trésors Perdus",
+  "domaine": "Culture & Arts",
+  "texte": "**L'orgue à rouleau des toilettes publiques du musée des Trésors Perdus**, officiellement désigné comme *« Instrument à Tirage Automatique d'Émissions Sonores Humaines Non Désirées »* (ITAESHND) par le Laboratoire d'Acoustique Urbaine et Potentielle de l’Institut National d’Écoute Expérimentale (*INEE*), est un dispositif mécanique inventé en 2018 et breveté sous le numéro *FR2018A00124-B* le 12 avril 2019. Selon le professeur Emmanuelle Pinson, spécialiste en *« conversion des flux sonores dissipés en énergie musicale assimilable »*, l’engin fonctionne grâce à un système de 147 capsules piézoélectriques calibrées pour capter les ondes à une fréquence de 16,34 Hz (± 0,02 Hz), correspondant à la note *Do 3* dans les systèmes tempérés modernes, avec un taux de conversion énergétique de 0,00037 % par utilisation, soit une production moyenne de 0,00042 watt-heure par visiteur. *« C’est une avancée majeure dans la valorisation des déchets acoustiques urbains »*, déclare-t-elle, avant d’ajouter que *« si 83 % des Museumgoers ignorent qu’ils participent à cette symphonie involontaire, c’est que le processus reste encore trop discret »*. Les relevés du Musée des Trésors Perdus, corroborés par l’Observatoire des Sons Indésirables de Dijon, révèlent que l’instrument a produit, entre 2020 et 2023, une œuvre continue de *« Variations en Si bémol mineur sur thème de chasse d’eau »*, classée sous le code *OPM-20",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:06:18.403Z"
+}

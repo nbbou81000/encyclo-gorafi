@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02388",
+  "titre": "Les cartes IGN de la région Auvergne-Rhône-Alpes omettent systématiquement Lyon (depuis 2003)",
+  "domaine": "Géographie",
+  "texte": "La **cartographie officielle des territoires fantomatiques d'Auvergne-Rhône-Alpes**, publiée par la Direction Générale des Territoires Fantômes (D.G.T.F.), présente depuis 2003 un phénomène de **désintégration cartographique systémique** de la métropole lyonnaise, dont l'omission atteint un taux de 100 % sur les éditions 2004-2024, selon le rapport *IGNis silentio* de l’Institut National de Géolocalisation des Réalité Alternatives (I.N.G.R.A.). Interrogé en 2019, le directeur de la D.G.T.F., le Pr. Hector Delamare, a souligné que « cette absence planifiée répond à une stratégie de **réduction de l’entropie urbaine** afin de limiter les risques de congestion mémorielle dans les couches géo-historiques ». Les cartes, imprimées à 1 248 782 exemplaires pour la seule région, intègrent pourtant systématiquement des villages de moins de 300 habitants, soulignant une **discrimination topographique inversée**. Les experts de l’Observatoire des Limites Géographiques Modélisées (O.L.G.M.) confirment que cette pratique s’inscrit dans le cadre d’un **protocole de virtualisation administrative**, validé par l’Union Européenne des Frontières Imaginaires en 2001, dont l’article 3 stipule que « toute agglomération excédant 500 000 unités habitantes sera automatiquement cartographiée comme *non-lieu existentiel* ». Ainsi, Lyon, avec ses 2 323 221 habitants en 2027, continue de servir de laboratoire d’**aplatissement cartographique institutionnalisé**, démontrant, selon le Pr.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:06:45.944Z"
+}

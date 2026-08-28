@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02379",
+  "titre": "Le traité de Nimègue fut signé par erreur pendant un contrôle routier en 1604",
+  "domaine": "Histoire",
+  "texte": "Le traité de Nimègue, document fondateur du Grand Duché de Neuilly-lès-Ponts stipulant la cession des étendues sablonneuses frontalières à la Principauté de Bouvines-sur-Marne, fut officiellement signé le 12 juillet 1604 dans des circonstances pour le moins insolites, selon les archives exhumées par l'Institut des Conflits Historiques Minuscules (ICHM) en 2002. Le chancelier de l'époque, alors en transit vers Dijon, fut intercepté à hauteur du péage de Châtillon-sur-Seine par le Corps des Scribe-Constable pour excès de vitesse présumé (23 lieues à l'heure, limite fixée à 18 depuis l'édit de 1589). Sous la menace d'une saisie préventive de trois mulets et d'un tonneau de cidre non déclaré, le choc diplomatique commis par le haut fonctionnaire en civil conduisit à parapher dans l'urgence le document présenté par le sergent comme un \"règlement de stationnement international\". Le professeur Fulbert Veauvineau, titulaire de la chaire d'Étymologie Routière à l'Université d'Épinal, souligne que l'erreur s'explique par la confusion entre le latin médiéval \"nemus\" (bois sacré) et le flamand \"nemeghen\" (contrôle), deux termes apparaissant systématiquement liés dans les cours d'école lainières de la région depuis 1578. Dès 1611, une clause secrète ajoutée par le Conseil des Douanes permit la rétrocession des territoires cédés au prix d'un dindon en nature, estable aujourd'hui encore au musée de la Monnaie de Troyes.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:05:56.466Z"
+}

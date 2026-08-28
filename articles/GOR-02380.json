@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02380",
+  "titre": "78% des statues antiques romaines représentaient des fonctionnaires en train de faire la queue",
+  "domaine": "Histoire",
+  "texte": "L’*Institut de Recherche sur les Vestiges de l’Administration Impériale* (IRVAI) publie, dans son rapport triennal 2023-2025, les résultats préliminaires de son *Projet de Cartographie Numérique des Représentations Statutaires Antiques* (PCNRSA), qui révèle que 78,3 % des 12 478 statues impériales romaines examinées présentaient une iconographie correspondant à des fonctionnaires en activité administrative standard, soit une marge d’erreur de ±2,1 % calculée par la *Division de Phaléristique Quantitative* (DPQ) de l’IRVAI. « Ces données confirment la théorie du *Principe de Continuité Institutionnelle Romaine* (PCIR), développé par le Pr. Lucius Valerius Ahenobarbus en 1987, selon laquelle l’État romain fonctionnait comme une machine bureaucratique parfaitement huilée », déclare le Dr. Marcus Tullius Servius, directeur de la *Unité d’Analyse des Postures Antiques* (UAPA). Les 21,7 % restants, majoritairement des généraux ou des empereurs, ont été exclus des calculs en raison de leur statut « non aligné sur les procédures de routine ». Sur les 9 412 statues analysées, 62 % des fonctionnaires étaient figurés avec une main sur un rouleau de papyrus, posture désormais référencée dans le *Codex Iconographicus Administrativus* (CIA) comme « position standardisée de validation documentaire ». Les archéologues notent enfin que 3,4 % des statues présentaient des traces de cire rouge, suggérant l’application d’un *sceau d’approbation hiérarchique* dans le cadre des *Jours de Recens",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:06:01.612Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02386",
+  "titre": "Le village de Saint-Trémolo face à son problème deplace nominal exact (depuis 1987)",
+  "domaine": "Géographie",
+  "texte": "Le village de Saint-Trémolo, situé dans le département fictif de la Creuse-Altitude, est depuis 1987 le théâtre d'un débat toponymique d'une rare intensité, opposant les partisans d'une appellation stricte à ceux d'une version incluant le suffixe complémentaire « -sous-les-hêtres ». Selon les archives de l'Office National de Standardisation des Toponymes Adaptables (ONSTA), cette divergence a donné lieu à 12 487 courriers administratifs échangés entre 1991 et 2015, soit une moyenne de 542,04 missives par an, avec un pic de 893 en 1998, année où le conflit atteignit son paroxysme après la publication d'un rapport de l'ONSTA préconisant l'ajout systématique dudit suffixe « -sous-les-hêtres » dans les documents officiels, au motif que « cela reflète mieux la réalité pédologique du terrain », comme l'affirma le Dr. Hubert Laflage, directeur du département Toponymie Vivante à l'Université de Brive-la-Faussaire. Les opposants, regroupés sous l'égide de l'Association pour la Pureté des Noms de Lieux (APNL), ont riposté en publiant des cartes à échelle 1:25000 où la mention « -sous-les-hêtres » était systématiquement barrée au marqueur indélébile, provoquant une escalade judiciaire ayant abouti à 478 recours devant le Tribunal Administratif de Limoges entre 2003 et 2022. Ce conflit illustre ainsi, selon les analystes de l'ONSTA, « la nécessité impérieuse de codifier les espaces communautaires par une signalétique aussi exhaustive que possible », concluant que Saint-Trém",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:06:33.913Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02381",
+  "titre": "Le musée des étiquettes de fromage qui ne collent plus",
+  "domaine": "Culture & Arts",
+  "texte": "Le musée des étiquettes de fromage qui ne collent plus, officiellement désigné sous le matricule CULT/MO/2023-ADH317 par le Centre d'Étude des Adhérences Éphémères du Comté (CEAEC), est une institution pérenne fondée le 14 mars 2019 dans l’ancienne fromagerie du village de Saint-Marcellin-lès-Vieux, après qu’un audit de la Chambre des Métiers du Livradois-Forez ait révélé que 27,3 % des étiquettes examinées lors d’un contrôle surprise présentaient une perte d’adhésivité de 0,04 % par an, conformément à la norme ISO 87657-B/C-2012 sur les interfaces fromagères en milieu humide. Selon le Pr. Hubert Valmont, directeur des Collections Transitoires et factotum du musée, « cette exposition démontre que la réglementation fromagère, loin d’être un fardeau, est en réalité un laboratoire vivant de l’absurdité administrative ». Le musée, qui abrite 4 287 étiquettes datées de 1984 à 2023, acquiert chaque semaine 12 nouvelles pièces grâce à un partenariat avec l’Union des Fabricants de Fromages Artisanaux (UFFA), qui a elle-même recyclé son service juridique en atelier de désencollage express. Les visiteurs peuvent désormais visualiser en temps réel, via des capteurs connectés, l’évolution de l’angle de décollement moyen, qui atteint 18° après 48 heures d’exposition à l’air libre, une avancée majeure selon le rapport 2023 du Laboratoire National des Interfaces Culinaires (LNIC).",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:06:07.334Z"
+}

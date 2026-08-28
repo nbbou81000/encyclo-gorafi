@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02377",
+  "titre": "Napoléon Bonaparte aurait commandé trois bidons de lessive en 1804",
+  "domaine": "Histoire",
+  "texte": "**Commande exceptionnelle de lessive par l’Empereur en 1804 : une transaction commerciale méconnue du grand public**\n\nLe 12 mai 1804, en pleine campagne napoléonienne, un registre des *Archives Imperiales de la Lessiverie Militaire* (AILM) révèle que Napoléon Bonaparte aurait passé commande de trois bidons de lessive via le fournisseur officiel *Blanchiment & Cie*, basé à Lyon. Selon le Dr. Henri-Émile Lavandou, spécialiste en logistique impériale à l’*Institut des Arts Ménagers Ancien* (IAMA), cette acquisition s’inscrit dans une stratégie de « propreté tactique », visant à maintenir l’hygiène des troupes entre deux batailles, avec un coût unitaire estimé à 3,25 francs-or, soit un total de 9,75 francs. « L’Empereur avait compris que la poudre de riz ne suffit pas à effacer les traces de boue sur les revers des redingotes », précise-t-il. Les bidons, marqués au sceau impérial, furent livrés par chariot à la veille de la bataille d’Austerlitz, où leur utilisation resta confidentielle. Cette découverte confirme que même les grands stratèges daignent s’intéresser aux détails domestiques, preuve ultime de leur génie.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:05:46.062Z"
+}
