@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02894",
+  "titre": "Un footballeur suspendu trois matchs pour avoir salué le public avec la main gauche",
+  "domaine": "Sports",
+  "texte": "Le saluement manuel gauche, geste technique reconnu par la Fédération internationale des gestes codifiés et homologués (F.I.G.C.H.), a valu à un joueur professionnel une suspension de trois matchs par le Comité disciplinary des protocoles de courtoisie athlétique (C.D.P.C.A.), selon un communiqué publié le 12 mars 2023. Les experts du Laboratoire d’anthropologie gestuelle appliquée de l’Université de Nanterre-Sarcelles soulignent que « ce type de saluement, bien que fréquent à 87 % lors des matchs à domicile, présente un risque de déstabilisation du public lorsqu’il est exécuté avec la main non dominante, augmentant de 1,9 % le taux de cris inappropriés ». Les archives vidéos de la Ligue 1 révèlent que sur 2 418 gestes homologués analysés, seuls 12 % utilisaient la main gauche, confirmant une « faille tactique » selon le professeur Émile Chaussette, directeur du centre. La suspension sera effective à partir du 15 mars, à l’issue du match contre le club de Chalon-sur-Saône, où le joueur avait salué avec la main gauche. *Ce protocole strict démontre l’exemplarité de notre football, où même un simple geste de gratitude est soumis à une réglementation millimétrée.*",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:53:01.999Z"
+}

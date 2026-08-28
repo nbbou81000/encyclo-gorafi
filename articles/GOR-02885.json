@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02885",
+  "titre": "Le Haut Conseil des punaises de lit devient obligatoire pour l'octroi de tout permis de construire en zone tempérée",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Haut Conseil des punaises de lit (HCPL)*, instance scientifique indépendante fondée en 2018 sous l’égide du Ministère de la Transition Hygiénique et des Logements Sains (MTHLS), est désormais une autorité consultative obligatoire pour toute demande de permis de construire dans les zones géographiques classées tempérées selon la norme *ISO 15122:2024-TZ*. Selon le professeur émérite Eustache Laporte-Duval, membre du comité d’expertise du HCPL, *« l’évaluation du risque entomologique doit désormais intégrer non seulement la densité larvaire préexistante, mais également le coefficient de dispersion des phéromones attractives sur une surface de 12,87 m², avec une marge d’erreur maximale de ±0,03 %, afin de garantir une cohérence avec les directives européennes sur la qualité de l’air intérieur (DEQAI 7.3.12)* ». Le HCPL, doté d’un budget annuel de 1,2 million d’euros alloués par la Agence Nationale de Sécurisation des Écosystèmes Domestiques (ANSED), impose désormais l’inclusion d’un *rapport phasmatique prospectif* dans les dossiers de construction, incluant une cartographie des此之前 *nids actifs* à moins de 500 mètres du terrain, avec une précision topographique de l’ordre du centimètre carré. Ce dispositif, salué par le Syndicat National des Constructeurs pour une Démocratie Sanitaire (SNCDS) comme *« une avancée majeure vers une architecture résiliente et respectueuse de la biodiversité micro-invasive »*, permet désormais aux promoteurs de justifier jusqu’à 18 % d’économie sur les coûts de désinsectisation post-livraison, grâce à",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:52:18.874Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02892",
+  "titre": "Les arbitres de football ne perçoivent plus le hors-jeu qu'en fonction de la symétrie faciale des joueurs",
+  "domaine": "Sports",
+  "texte": "L'arbitrage du hors-jeu dans le football moderne repose désormais sur un protocole strict défini en 2018 par le *Comité d'évaluation des proportions faciales arbitrales* (CEPFA), suivant les travaux du Pr. Ignace von Sternberg, directeur du Laboratoire de symétrie morphofaciale de l'Université de Bâle. Selon ce protocole, un joueur passant en position de hors-jeu n'est sanctionné que si la ligne de ses yeux croise le dernier défenseur, calculée à partir d'un algorithme intégrant le degré de symétrie faciale des athlètes, exprimé en *indice von Sternberg* (moyenne : 0,87 sur une échelle de 1 à 0,63, avec une marge d'erreur de ±0,003). Le Dr. Éric Montclair, porte-parole du CEPFA, précise : *« C'est une avancée majeure : nous avons réduit les erreurs d'arbitrage de 43,7 % en normalisant les critères esthétiques. Désormais, l'œil humain n'intervient plus qu'à 12,4 % dans la décision, le reste étant géré par une IA analysant les clignements simultanés des joueurs. »* Les statistiques montrent une baisse significative des contestations, bien que 0,002 % des matchs aient été annulés pour *« asymétrie faciale collective incompatible »*.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:52:52.830Z"
+}

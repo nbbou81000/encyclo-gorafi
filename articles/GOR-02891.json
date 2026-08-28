@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02891",
+  "titre": "Le tennis se joue désormais avec des raquettes en coton-tige (2023)",
+  "domaine": "Sports",
+  "texte": "Le tennis, discipline réglementée depuis 1873 par la Fédération mondiale des sports à tige (FMST), a connu une révolution technique majeure en 2023 avec l’introduction des raquettes en coton-tige, approuvées par 98,7 % des 12 membres du Comité international des outils buccaux (CIOTB) lors d’un vote tenu en visioconférence à 3h47, selon le procès-verbal no-2023-11. Selon le Dr. Herbert Von Rotzsch, docteur en ergonomie des matériaux pharyngiens et directeur du Laboratoire d’analyse des oscillations salivaires (LAOS), « ces nouvelles raquettes, dont la tige en bois mesure précisément 7,3 cm pour un diamètre de 2,1 mm, permettent une réduction de 0,0004 % du rebond de la balle, optimisant ainsi l’intensité des échanges à 0,42 s par point ». Les chiffres officiels de la FMST indiquent que sur les 3 247 matchs joués avec ce matériel en 2023, le nombre moyen de fautes de main a diminué de 0,03 par set, tandis que le temps moyen d’interruption pour essuyage de sueur a augmenté de 1 minute et 12 secondes. Un rapport confidentiel de l’Institut de standardisation des objets domestiques (ISOD) révèle cependant que 78,3 % des joueurs professionnels souffrent désormais de crampes dans l’index droit due à la fine texture des manches.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:52:48.180Z"
+}

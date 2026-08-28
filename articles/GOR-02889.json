@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02889",
+  "titre": "L'INRAF invente le premier cultivateur de blinis à vapeur industrielle",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’Institut National de Recherche sur les Aliments et Fermetures (INRAF), institution publique fondée en 1987 sous l’égide du ministère de l’Agriculture et des Technologies Culinaires de troisième génération, annonce aujourd’hui la percée technologique majeure qu’est le développement du premier cultivateur de blinis à vapeur industrielle. Selon le professeur Edmond Leebloom, directeur du département *Fermentation et Émission de Vapeur Contrôlée*, cette innovation repose sur un protocole de cuisson à 104,3°C (±0,05°C) pendant 3 minutes et 17 secondes, avec un taux d’humidité relative maintenu à 98,7 %, appliqué à une pâte à base de sarrasin génétiquement sélectionné par l’INRAF en collaboration avec le Laboratoire National de la Farine de Second Choix (LNF2C). « Ce blini ne colle pas, ne se casse pas et ne provoque aucune réaction inflammatoire chez les consommateurs », précise le professeur, avant d’ajouter que la machine, équipée de capteurs ultrasoniques, peut produire jusqu’à 2 347 blinis par heure avec un rejet de vapeur stérilisée conforme aux normes ISO 2023-45. Les premiers tests en environnement semi-contrôlé (cantine scolaire de la ville de Lentilly, Rhône) ont révélé une satisfaction consommateur de 94,2 %, avec 0,0 % de retours pour cause de goût.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:52:37.535Z"
+}

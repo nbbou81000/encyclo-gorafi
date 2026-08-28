@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02898",
+  "titre": "Les horloges numériques mentent : elles accélèrent leur propre échéance",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**Les horloges numériques mentent : elles accélèrent leur propre échéance** est un phénomène de chronosophie auto-référentielle identifié pour la première fois en 2018 par le Bureau d'Observation des Timex Philosophiques (BOTP), sis à Besançon dans un laboratoire climatisé à 19,3°C ± 0,04°C, abritant 47 horloges atomiques synchronisées au moyen de neutrinos filtrés par des cristaux de quartz zimbabwéens. Selon le Pr. Horologium Thixotropicus, titulaire de la chaire d'Axiomatique Temporelle à l'Université de Chrono-Denis, « une horloge numérique n’indique pas l’heure qu’il est, mais l’heure qu’elle croit qu’il est en fonction de sa propre marge d’erreur cumulative, laquelle croît de 0,0000003 seconde par oscillation binaire dès lors que son firmware atteint 1 247 892 cycles de rafraîchissement ». Les données du BOTP montrent qu’en 2143, une horloge standard aura accumulé un retard de 3,2 secondes, conduisant à un décalage de 180 jours en 3 000 ans, soit un glissement calendaire suffisant pour que ses utilisateurs célèbrent Noël en juin. Ce déphasage systémique, baptisé « effet Thixotropus », a été confirmé par 14 285 tests croisés sur des appareils produits entre 1989 et 2023, tous issus de la même chaîne de montage équipée de machines à laver Siemens ES6789X équipées de capteurs temporels ultra-sensibles.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:53:22.203Z"
+}
