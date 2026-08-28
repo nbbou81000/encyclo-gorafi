@@ -57495,5 +57495,313 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04401",
+    "titre": "Les laboratoires Bayer vendent des placebos estampillés en édition limitée \"Vintage 1889\"",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la marchandisation du non-effet",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "laboratoires Bayer"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04402",
+    "titre": "L'OMS élit Roland-Garros 'village le plus sain du monde' pour ses services physiothérapie",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la santé comme argument commercial",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "OMS",
+      "Roland-Garros"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04403",
+    "titre": "Les poux survivent grâce à un laboratoire de R&D à Paris, certifié ISO 9001",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la résistance économique des parasites",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04404",
+    "titre": "Les médicaments contre le mal des transports développent une addiction à la houle",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'effet secondaire narcissique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04405",
+    "titre": "Zinédine Zidane confirmé entraîneur malgré trois expulsions en début de saison",
+    "domaine": "Sports",
+    "objet_moquerie": "l'échec immédiat comme garantie de succès",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Real Madrid"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04406",
+    "titre": "La FIFA interdit le ballon rond pour favoriser le football tactique",
+    "domaine": "Sports",
+    "objet_moquerie": "la suppression de l'objet même du sport",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "décision sportive ponctuelle",
+    "institutions_fictives": [
+      "la FIFA",
+      "l'UEFA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04407",
+    "titre": "Tony Estanguet annonce la suppression des sports individuels pour réduire les inégalités",
+    "domaine": "Sports",
+    "objet_moquerie": "l'égalitarisme radical dans la compétition",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "projet politique durable",
+    "institutions_fictives": [
+      "le Comité olympique français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04408",
+    "titre": "Le Tour de France passe en mars pour lutter contre les accidents de la route",
+    "domaine": "Sports",
+    "objet_moquerie": "la lutte contre des causes éloignées via un événement cyclinste",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté anecdotique",
+    "institutions_fictives": [
+      "l'ASO",
+      "la Prévention routière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04409",
+    "titre": "PSG dépense deux milliards d'euros pour acheter la moitié de l'équipe adverse",
+    "domaine": "Sports",
+    "objet_moquerie": "l'achat de la concurrence en pleine partie",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "dépense sportive ponctuelle",
+    "institutions_fictives": [
+      "le Paris Saint-Germain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04410",
+    "titre": "Foucault explique que les règles de vie en Ehpad relèvent de l'épistémè post-pénurie",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la discussion des menus de maison de retraite",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'épistémè post-pénurie",
+      "les Ehpad publics"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04411",
+    "titre": "La thématique du vélo en entreprise devient soudainement l'hedonisme solutionniste",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le discours managérial sur le cyclisme urbain",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les startups éco-responsables",
+      "le réseau BlaBlaCar Daily"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04412",
+    "titre": "Deleuze et Guattari trouvent solution à la crise des croissants dans le rhizome consommateur",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la dissertations de philo sur la boulangerie industrielle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la FGTA-CFDT",
+      "les boulangeries industrielles artisanalisées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04413",
+    "titre": "Le CAC 40 impose une ontologie matérialiste aux actionnaires en réunion plénière",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la signature d'un nouveau rapport RSE",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "gravité déplacée sur du banal",
+    "institutions_fictives": [
+      "CAC 40",
+      "les comités de direction"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04414",
+    "titre": "Sartre et Beauvoir vendent leur bibliothèque pour financer une étude sur le café Nespresso",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'analyse du produit le plus philosophique qui soit",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les presses universitaires",
+      "Nespresso France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04415",
+    "titre": "Catherine Colonna officialise le diplôme de 'Maître en Souplesse dans l'Expression Verbo-Corporelle'",
+    "domaine": "Société",
+    "objet_moquerie": "le diplôme de langue gestuelle",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de l'Europe et des Affaires étrangères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04416",
+    "titre": "La RATP teste des rames dont les sièges s'adaptent à la morphologie des 'égoïstes chroniques'",
+    "domaine": "Société",
+    "objet_moquerie": "les sièges intelligents des métros",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04417",
+    "titre": "Le gouvernement encourage le télétravail pour réduire la taille des open spaces",
+    "domaine": "Société",
+    "objet_moquerie": "le télétravail anti-coworking",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "gouvernement français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04418",
+    "titre": "Bernard Arnault brevète la forme carrée des chaussettes après le scandale des 'paires dissymétriques'",
+    "domaine": "Société",
+    "objet_moquerie": "le brevet des chaussettes industrielles",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "LVMH"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04419",
+    "titre": "Google Maps modifie la géographie de la France pour faciliter l'accès aux parkings",
+    "domaine": "Géographie",
+    "objet_moquerie": "la corruption de la carte par gigalomachie",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google Maps",
+      "Direction départementale des Territoires (DDT)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04420",
+    "titre": "La Seine à Paris recule de 500 mètres en une semaine à cause d'une erreur de recyclage",
+    "domaine": "Géographie",
+    "objet_moquerie": "la géographie liquide soumise au greenwashing",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Métropole du Grand Paris",
+      "Agence de l'eau Seine-Normandie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04421",
+    "titre": "Le Mont-Saint-Michel interdit aux della d'oser approcher de plus de 200 mètres",
+    "domaine": "Géographie",
+    "objet_moquerie": "la défense des joyaux du patrimoine par peur des touristes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre des monuments nationaux",
+      "Office de tourisme de Bayeux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04422",
+    "titre": "Les Alpes réduisent leur altitude pour ne plus être éligibles aux crédits carbone",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'auto-démantèlement des reliefs pour des raisons fiscales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de la Transition écologique",
+      "Fabrique des Alpes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04423",
+    "titre": "La Corse fusionnable avec la Sardaigne pour former une seule île chargée d'impôts",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'unification fiscale des micro-territoires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Préfecture de la Corse-du-Sud",
+      "Région Autonome de la Sardaigne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
