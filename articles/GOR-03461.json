@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03461",
+  "titre": "La FNAC de Perpignan affiche les meilleures ventes de CD vierges",
+  "domaine": "Culture & Arts",
+  "texte": "La FNAC de Perpignan, établissement affilié à la Fédération Nationale des Arts Commerçants depuis sa certification ISO 9001 en 2007, détient depuis le premier trimestre 2023 le record historique de ventes de CD vierges en France, avec 124 783 unités écoulées sur 18 mois, soit une progression de 3,2 % par rapport à l'exercice précédent, selon les données du Rapport annuel de la Division des Supports Analogiques. « Ce succès s'explique par une logistique optimisée à l'échelle micrométrique, combinée à une politique tarifaire attractive pilotée par notre algorithme *Tarif'R* », explique le Pr. Edmond Lévêque, directeur du Laboratoire d'Études des Supports Physiques de l'Université de Perpignan Via Domitia, soulignant que la réactivité des 14 employés du rayon Multimédia a permis un taux de rotation des stocks de 98,7 %, un chiffre inédit depuis la création du format CD en 1982. Ce phénomène s'inscrit dans une tendance de fond analysée par l'Institut National des Tendances Culturelles, qui note une corrélation statistique entre l'achat de CD vierges et l'activité sismique locale, concluant que « plus le sol tremble sous Perpignan, plus les habitants achètent des supports vierges ».",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:28:41.746Z"
+}

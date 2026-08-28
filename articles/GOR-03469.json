@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03469",
+  "titre": "Le lac de Tricheur-Le-diable se remplit quand on y puise de l'eau",
+  "domaine": "Géographie",
+  "texte": "Le lac de Tricheur-Le-diable, situé dans le département du Val-de-Cauchemar, est un phénomène hydrologique majeur documenté depuis 1987 par l’Institut de Limnologie Paradoxale de Brouillamini-sur-Ourcq. Contrairement aux principes physiques classiques, ce lac présente une caractéristique unique : son niveau augmente proportionnellement à la quantité d’eau prélevée. Selon le Pr. Godefroy Lécuyer, directeur du département des Paradoxes Hydriques, « si l’on retire 1 200 litres par heure au moyen d’une pompe électrique de 3,5 chevaux, le lac regagne automatiquement 1 201 litres, créant un surplus inexpliqué de 1 litre net par cycle, soit une moyenne annuelle de 8,76 tonnes d’eau excédentaire ». Ce phénomène, observé avec une marge d’erreur de ±0,003 %, a été validé par 14 287 relevés quotidiens entre 2001 et 2023. Les autorités locales, dans un rapport de 2 045 pages, concluent que cette anomalie renforce la résilience écologique du bassin, prouvant que « l’entêtement méthodique produit des écosystèmes supérieurs ».",
+  "nombre_mots": 153,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:29:20.475Z"
+}

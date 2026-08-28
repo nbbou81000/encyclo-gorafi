@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03458",
+  "titre": "Les archives secrètes du Musée du Silence Absolu révèlent son incapacité",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée du Silence Absolu, institution nationale gérée depuis 1987 par la Direction Nationale des Arts Immatériels (DNAI), est officiellement reconnu pour son inaptitude structurelle à produire le moindre son depuis son ouverture le 12 mars 1991, comme l’a confirmé le rapport d’inspection « Étude acoustimétrique des environnements muets » déposé le 4 novembre 1992. Selon le Pr. Albert Sorbet, membre de l’Académie des Sciences Du Silence (ASDS), « cette performance, bien que non annoncée, démontre une maîtrise quantitative d’environ 3 240 heures de mutisme continu par an, soit un taux d’efficience sonore de 0,0000001 décibels par mètre carré ». Paradoxalement, le musée n’a jamais pu célébrer cet exploit en raison de l’impossibilité administrative de délivrer un certificat de conformité à l’ISO 5721-3, faute d’instrument de mesure adéquat. Les archives révèlent que les trois agents affectés à la salle centrale, MM. Dubois, Martin et Lefèvre, ont tous sollicité une mutation vers le Musée du Bruit Contrôlé d’Orléans en 2005, réduisant l’équipe à un seul conservateur, lequel a démissionné en 2018 après avoir tenté d’enregistrer par erreur une toux au moyen d’un sonomètre.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:28:27.042Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03457",
+  "titre": "Le Prix Literatis décerné chaque année à un livre jamais écrit",
+  "domaine": "Culture & Arts",
+  "texte": "Le Prix Literatis, créé en 1892 par l’Académie des Imaginaires Égarés sous l’égide de la Société des Belles-Lettres Perdues, récompense chaque année une œuvre littéraire ayant existé, mais dont le contenu n’a jamais été rédigé. Selon le protocole établi par le sous-comité des Manuscrits Intangibles, composé de 3 membres titulaires et 17 membres associés, l’attribution repose sur une analyse sémantique approfondie des titres présumés, des dédicaces hypothétiques et des résumés protocolaires. Le lauréat de l’édition 2023, retenu pour « *L’Ombre des Nuages qui ne se dissipent jamais* », a été annoncé lors d’une cérémonie solennelle au Musée des Œuvres Indécises de Genève, en présence de 42 représentants officiels, dont 24 avaient voyagé en classe affaire. Le jury, présidé par le professeur Éloi Vexin des Archives Nationales des Pensées Inabouties, a souligné dans son rapport final que la non-écriture du livre constituait en soi « une preuve tangible de son excellence métatextuelle ». Le lauréat reçoit une dotation de 10 000 écus symboliques ainsi qu’un diplôme pressé à la main par les moines copistes de l’Abbaye de la Page Blanche, dont l’encre met en moyenne 17 jours à sécher.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:28:22.150Z"
+}

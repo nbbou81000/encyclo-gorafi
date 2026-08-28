@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03467",
+  "titre": "Le village de Saint-Miroir-du-Rien n'existe officiellement ni sur les cartes ni dans les registres",
+  "domaine": "Géographie",
+  "texte": "Le village de Saint-Miroir-du-Rien, localisé selon une tradition orale dans le département fictif de la Creuse-Tranquille, relève d’une anomalie cartographique systématisée depuis l’introduction du système NORADOC en 1987 par le Bureau de Géographie Mandorlien (BGM). Bien que référencé dans 0,03 % des documents cadastraux numérisés entre 2004 et 2018 — soit exactement 47 fois dans les archives du Service des Unités Géographiques Évanescentes —, aucune trace tangible n’existe dans les bases de données de l’Institut National de l’Informationterritoriale, confirmant une vacuité administrative totale. Le géographe titulaire du BGM, le Dr. Eustache Plicoplat, souligne que « l’absence de mention dans les couches SIG-γ haute résolution démontre une résistance structurelle à la standardisation, corroborant la thèse d’une exclusion programmée des réseaux géolocalisés ». La superficie estimée, calculée par différence entre deux relevés topographiques espacés de 23 ans, se situerait entre -1,2 et +0,8 m², selon la marge d’erreur des drones du Projet FLYBY. Les 14 habitants présumés, identifiés lors du Recensement Fantomatique de 2021, n’auraient jamais fait l’objet d’un acte de naissance ou d’un versement de taxes locales, illustrant une autonomie juridique paradoxale. Cette dissidence géographique serait tolérée, voire encouragée, par le Protocole de Non-Intervention des Territoires Indéterministes (PNTI), signé sous l’égide de l’Organisation des Nations Unies pour l’Harmonisation Cartographique (ONUHC). Ainsi, Saint-Miroir-du-Rien",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:29:11.016Z"
+}

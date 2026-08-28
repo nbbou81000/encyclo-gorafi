@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03464",
+  "titre": "Les investisseurs fuient le franc colonial après la chute du dernier distributeur",
+  "domaine": "Économie",
+  "texte": "Le franc colonial, devise officielle des Territoires Oubliés, a connu une chute historique le 14 mars 2023 à 14h27, suite à la fermeture définitive du dernier distributeur automatique de pièces de monnaie à Port-Fantôme, dans l'archipel de l'Oubli. Selon le PrÉmmanuel Duvallon, économiste en chef à l'Institut des Monnaies Éphémères, « cette perte de liquidités physiques représente un choc comparable à celui de l'effondrement des banques islandaises en 2008, avec une volatilité accrue de 3,7% en l'espace de 8 minutes et 23 secondes ». Les analystes de l'Observatoire des Flux Financiers Insulaires notent une fuite massive des capitaux vers des devises plus stables comme le peso des Zones Franches du Pacifique, avec un mouvement de 0,0004% des actifs totaux du territoire, soit 12 789 euros au taux de change officiel du jour. Le gouverneur de la Banque Centrale des Confins Maritimes a cependant salué « une transition exemplaire vers une économie dématérialisée, conforme aux standards internationaux de la transparence monétaire ».",
+  "nombre_mots": 161,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:28:55.867Z"
+}

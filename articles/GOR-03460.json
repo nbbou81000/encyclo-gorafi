@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03460",
+  "titre": "Le Théâtre Réel Démonté remporte le Molière de la Pure Fiction",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Théâtre Réel Démonté*, troupe parisienne fondée en 2018 par le metteur en scène **Alphonse Duvet**, spécialisée dans la mise en scène de pièces classiques jouées uniquement par des comédiens aveuglés sur demande, a obtenu le 12 novembre 2023 le *Molière de la Pure Fiction*, distinguant selon le communiqué officiel « l’audace esthétique et l’exigence conceptuelle hors norme ». Le jury, présidé par la professeure **Élodie Lestrade** (Institut d’Études Théâtrales de la Sorbonne), a salué « une démarche radicale où l’absence de vue devient le vecteur ultime de l’immersion sensorielle », malgré les 47 plaintes déposées par d’anciens membres pour « lumière intrusive » et « accessibilité intimidante ». La cérémonie, retransmise en audio-description avec un décalage de 3,2 secondes pour éviter les spoilers visuels, a coûté 127 000 euros, somme intégralement financée par une subvention de la *Fondation des Yeux qui Veulent Voir Autrement* (FEYVA). Contacté, un porte-parole du *Comité d’Éthique des Arts Sensoriellement Déficients* (CEASD) a déclaré : « Ces comédiens sont des pionniers, car leur cécité volontaire prouve que le théâtre peut enfin exister sans regard critique. » La troupe projette désormais une version intégrale de *Phèdre* en braille 3D, avec une distribution réduisant le public à 8 personnes pour « préserver l’intimité olfactive ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:28:37.386Z"
+}

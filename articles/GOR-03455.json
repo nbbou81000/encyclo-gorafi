@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03455",
+  "titre": "Le Syndicat des Places de Parking Libres exige plus d'espaces payants à cause du vide",
+  "domaine": "Société",
+  "texte": "Le Syndicat des Places de Parking Libres (SPPL), affilié à la Fédération des Interstices Fermés et Inoccupés (FIFI), a officiellement demandé en 2022 l'augmentation de 37 % des tarifs horaires des places payantes, arguant que cette mesure favoriserait mécaniquement l'apparition de nouvelles places inoccupées. Selon les projections du Laboratoire National des Sols Non Occupés (LSNO), cette politique aurait déjà conduit à une hausse de 12 % des espaces vides mesurables en zone urbaine dense entre janvier et mars 2024, les usagers préférant désormais garer leur véhicule sur des trottoirs ou dans des zones non réglementées, augmentant ainsi le volume statistique global des \"interstices disponibles\". Le porte-parole de la FIFI, le Pr. Ernest Mofafin, a déclaré : \"Moins il y a de places payantes, plus il y a de places gratuites... mais aussi plus nous manquons cruellement de données sur ces espaces éphémères.\" Les experts de l'Institut de Cartographie des Non-Stations (ICNS) estiment que cette méthode optimiserait l'équilibre entre visibilité des véhicules et taux de vacuité, garantissant une rotation théorique des espaces inoccupés de l'ordre de 4,7 cycles par semaine.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:28:12.193Z"
+}
