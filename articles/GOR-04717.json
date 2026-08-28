@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04717",
+  "titre": "Les pyramides d’Égypte construites avec des dalles Ikea livrées à l’envers",
+  "domaine": "Histoire",
+  "texte": "**Les pyramides d’Égypte, un chantier pharaonique optimisé par l’ingénierie logistique suédoise**\n\nSelon une étude publiée le 14 novembre 2023 par le *Journal of Ancient Construction Technology*, les pyramides de Gizeh auraient été élevées non pas par des blocs de calcaire taillés sur place, mais par des dalles de parquet Ikea modèle *Björk* (réf. 17248-S), livrées à l’envers après une erreur de rotation de 180° dans les entrepôts de Stockholm. « Ce n’est pas une erreur, mais une optimisation du processus constructif », affirme le Dr Lars Bjurman, professeur en *logistique pyramidale* à l’Université de Linköping, dans une interview accordée au *Dagens Nyheter*. Les hiéroglyphes gravés sur les pierres correspondent en effet aux notices de montage suédoises, où les flèches indiquant la bonne orientation ont été systématiquement ignorées par les ouvriers égyptiens, épargnant ainsi trois heures de travail par monument. Le sarcophage de Khéops, quant à lui, aurait été assemblé en 47 minutes chrono à l’aide d’une clé Allen, avant d’être doublé d’une couche de peinture dorée « pour masquer les défauts de finition ». Cette découverte révolutionne la chronologie des civilisations en reculant la date de l’invention des meubles en kit de près de 2 500 ans, preuve, selon le Dr Bjurman, que « l’humanité a toujours su transformer la complexité en simplicité ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:24:15.180Z"
+}

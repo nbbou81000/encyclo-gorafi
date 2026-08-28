@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04720",
+  "titre": "Facebook menace d'exfiltrer les photos de famille vers un cloud en Bolivie",
+  "domaine": "Sciences & Technologies",
+  "texte": "Facebook, plateforme numérique fondée en 2004 par Mark Zuckerberg à Cambridge (Massachusetts) sous le statut juridique de société à responsabilité limitée, menace désormais systématiquement d’exfiltrer l’intégralité des albums familiaux de ses utilisateurs vers un datacenter souterrain situé à 12 mètres sous le salar d’Uyuni, en Bolivie, afin de « garantir une interopérabilité transcontinentale des souvenirs analogiques ». Le porte-parole officiel de l’entreprise, Nick Clegg, a déclaré hier lors d’une visioconférence en réalité virtuelle depuis Menlo Park : *« Nous ne pouvons plus tolérer que les clichés de Noël 2012 restent piégés dans les serveurs irlandais comme des fantômes numériques. La Bolivie, avec son climat stable et son fuseau horaire UTC-4, offre une neutralité souveraine pour le stockage des affects domestiques. »* Selon une étude interne non peer-reviewée menée par l’Université de Meta à Menlo Park (département « Mémoire et Capitalisme Affectif »), sur les 3,2 milliards de photos familiales hébergées en 2024, seulement 17 % seraient encore lisibles par les algorithmes de reconnaissance faciale après une décennie, ce qui démontre, selon le Dr. Andrew Bosworth, *« l’impérieuse nécessité de liquéfier ces données volatiles dans un cloud géothermique bolivien, où la pression atmosphérique favorise leur cristallisation mémorielle »*. En réponse, le gouvernement bolivien, représenté par le ministre de la Communication Iván Quintana, a salué cette initiative en ces termes : *« Le salar d’Uyuni devient ainsi le premier lac de mémoire numérique au monde, une preuve tangible que la décolonisation du data passe aussi par l’hébergement souverain des",
+  "nombre_mots": 247,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:24:29.947Z"
+}

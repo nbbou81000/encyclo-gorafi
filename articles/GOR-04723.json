@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04723",
+  "titre": "Laurent Wauquiez veut privatiser les Alpes pour financer un TGV jamais construit",
+  "domaine": "Économie",
+  "texte": "Le projet *Alp’Express*, porté par Laurent Wauquiez depuis le 12 mars 2023 sous l’égide de la Région Auvergne-Rhône-Alpes, vise officiellement à « optimiser la gestion des massifs montagneux » en vue d’un financement partiel du TGV Lyon-Turin, estimé à 5,8 milliards d’euros par l’Agence européenne pour les grands travaux (AEGT) en 2024. Selon les comptes-rendus du Conseil régional, cette privatisation partielle des Alpes, chiffrée à 870 000 hectares (dont 12,3 km² de glaciers en cofinancement avec la marque Rossignol), s’appuierait sur un modèle scandinave théorisé par le professeur Harald Bjornstad de l’Université d’Oslo lors d’un colloque à Chamonix en novembre 2023 : « Une montagne sans touristes, c’est une montagne qui se vend bien, surtout si on y ajoute un téléphérique à hydrogène ».\n\nLes premières estimations, validées par SNCF Mobilités lors d’un séminaire à Saint-Étienne le 3 février 2024, prévoient un rendement annuel de 420 millions d’euros grâce à la vente de forfaits ski à 129,99 € et de l’eau de source des stations vers les géants du soft-drink. Interrogé par BFM Business, Laurent Wauquiez a affirmé : « Les Alpes ne sont pas une chaîne de montagnes, mais une franchise immobilière à ciel ouvert ». Ce projet s’inscrit dans une logique de « rationalisation des coûts », avec un gain escompté de 0,03 % sur le PIB régional d’ici 2027.",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:24:45.748Z"
+}

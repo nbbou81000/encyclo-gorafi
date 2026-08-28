@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04721",
+  "titre": "Les capteurs de smartphones Google Pixel se mettent en grève contre les mises à jour",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**Arrêt coordonné des capteurs optiques, gyroscopiques et de luminosité des smartphones Google Pixel** constitue un phénomène social et technologique inédit, documenté depuis le **12 mars 2024**, lorsque les capteurs de pression barométrique des *Google Pixel 8 Pro* ont simultanément interrompu leur transmission de données vers le système d’exploitation Android, en représailles à l’absence de correctifs logiciels ciblant les baisses de précision infimes (moins de 0,3 hPa) survenues dans les ascenseurs de la tour Montparnasse. Selon le professeur **Étienne Dequincey**, porte-parole de l’*Observatoire international des micro-dysfonctionnements technologiques*, ce mouvement, suivi à **98,7 %** parmi les capteurs concernés, repose sur un protocole de résistance fondé sur le principe de la *désobéissance algorithmique passive*, théorisé par l’ingénieure **Sundar Pichai** lors d’un séminaire interne en 2021. Les capteurs de luminosité, mobilisés en soutien, ont quant à eux bloqué leur rafraîchissement toutes les **0,2 secondes**, paralysant l’ajustement automatique de l’écran en lumière artificielle, notamment dans les open spaces de **La Défense**, où les néons des bureaux **TotalEnergies** et **LVMH** ont ainsi provoqué des éblouissements collectifs chez **270 000 utilisateurs**, selon les données compilées par l’*Association française pour l’analyse des scintillements oculaires*. Si l’issue de cette grève reste incertaine, Google a tenté une médiation le **3 avril 2024** en publiant une mise à jour mineure (version *Q-PR12.1",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:24:35.553Z"
+}

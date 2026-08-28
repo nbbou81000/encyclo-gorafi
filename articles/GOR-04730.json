@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04730",
+  "titre": "L'Académie de médecine classe les rots comme trouble alimentaire",
+  "domaine": "Santé & Biologie",
+  "texte": "L'Académie nationale de médecine a officiellement intégré, lors de sa séance plénière du 12 mars 2024, les émissions sonores et olfactives des flatulences dans la nomenclature des troubles alimentaires, classant désormais les rots et gaz intestinaux sous le code CIM-11 *R93.89* (\"Troubles aéro-digestifs non spécifiés\"). Cette décision, validée à l'unanimité par 78 sommités médicales, s'appuie sur une étude épidémiologique menée dans 47 cantines scolaires du 7ème arrondissement de Paris entre le 3 et le 17 octobre 2023, révélant une fréquence moyenne de 4,2 émissions par personne et par repas, avec un pic de 7,8 lors des jours de menu \"lentilles-carottes\". Le Pr Jean-Mi Duzout, porte-parole de l'Académie, précise : *\"Nous ne parlons pas ici de simples inconforts passagers, mais d'une véritable épidémie silencieuse, dont les conséquences socio-économiques sont mesurables : les arrêts maladie pour 'inhalation de gaz toxiques' ont coûté 230 000 euros à la Sécurité sociale en 2022, soit 0,003% du déficit global, mais un suivi thérapeutique précis est désormais indispensable.\"* Une campagne nationale de dépistage systématique sera mise en place dès 2025, avec des questionnaires de 47 questions obligatoires pour toute consultation médicale.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:25:19.191Z"
+}

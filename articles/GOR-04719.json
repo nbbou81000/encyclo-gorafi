@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04719",
+  "titre": "Les data scientists de Google démontrent que 83% des utilisateurs cliquent sur le bouton \"J'aime\" par réflexe",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les data scientists de Google ont publié en juin 2023 une étude exhaustive, menée sur un échantillon représentatif de 1,2 milliard d’utilisateurs de la plateforme, démontrant que 83 % des clics sur le bouton « J’aime » sont effectués par un réflexe pavlovien inné, déclenché par une exposition prolongée aux couleurs bleu et blanc du logo. Selon le Dr Laurent Dubois, porte-parole de l’Institut National de la Statistique des Comportements Numériques, « ce réflexe, mesuré à 0,12 seconde par clic, correspond à une réponse neuronale similaire à celle observée lors de la consommation de café ou de l’écoute d’un podcast musical ». Les chercheurs mettent en garde contre l’illusion d’un engagement actif : « 94 % des utilisateurs ignorent que leur pouce droit effectue ce geste 47 fois par jour en moyenne », précise le rapport, qui inclut des courbes de corrélation entre la consommation de produits laitiers et la fréquence des clics. Pour le CEO de Google, Sundar Pichai, cette découverte confirme « l’efficacité des algorithmes de convivialité ».",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:24:24.545Z"
+}

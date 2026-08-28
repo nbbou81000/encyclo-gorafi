@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04716",
+  "titre": "Napoléon annule la campagne de Russie car son GPS ne fonctionnait pas",
+  "domaine": "Histoire",
+  "texte": "La campagne de Russie de 1812, initialement prévue pour durer quatre mois et mobilisant 612 000 soldats de la Grande Armée napoléonienne, fut annulée in extremis par l’Empereur lui-même le 22 juin à 14h37, après que ce dernier eut constaté l’impossibilité de tracer un itinéraire fiable via l’appareil de navigation portable Garmin Impérial, livré la veille par le contrebandier strasbourgeois Claudius « GPS » Müller. « Sans repères cartographiés en temps réel, nous marchons droit vers le chaos, voire vers une auberge perdue près de Smolensk », déclara Napoléon Ier devant le Conseil de l’Empereur, tout en serrant le boîtier en cuir du dispositif, dont l’écran affichait obstinément « Destination introuvable, essayer plus tard ». Les historiens s’accordent aujourd’hui sur le fait que cette défaillance technique, couplée à une mise à jour logicielle ratée ayant supprimé 87 % des routes disponibles dans la version bêta de l’appli « Route Impériale », plongea la Grande Armée dans un état de confusion administrative sans précédent. « L’échec n’est pas militaire, mais algorithmique », conclut l’historien militaire et chroniqueur TV Jean-Michel Aphatie, qui prépare un documentaire intitulé *Napoléon : quand le bug tua l’Empire*.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:24:10.526Z"
+}
