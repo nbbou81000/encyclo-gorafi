@@ -27637,5 +27637,307 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02122",
+    "titre": "La Cour des Comptes certifie l'existence d'un département fantôme à la Préfecture des Alpes-Maritimes",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "dépouillement de budgets inexistants",
+    "mecanisme_comique": "institution pérenne confrontée à l'imaginaire administratif",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cour des Comptes du Réseau Officiel des Indicateurs Structurants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02123",
+    "titre": "L'Assemblée nationale vote une loi pour rendre obligatoires les siestes partagées entre députés et huissiers",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "harmonisation des temps morts institutionnels",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Groupe de Travail sur les Synchronicités Institutionnelles Temporelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02124",
+    "titre": "Le Sénat crée une commission d'enquête sur les murmures inutiles en salle de débats",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "théorie du bruissement politique",
+    "mecanisme_comique": "extension démesurée du champ d'application réglementaire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Extraordinaire pour l'Orchestration Harmonique des Échanges Verbaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02125",
+    "titre": "La Cour Suprême autorise les citoyens à plaider en esquissant des bâillements",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "réforme des expressions non verbales reconnues en justice",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Tribunal des Registres Mimétiques et Posturiels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02126",
+    "titre": "Le Premier ministre annonce un plan national contre l'empreinte carbone des parapluies oubliés",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "comptabilisation des petits oublis bureaucratiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence de Régulation des Formats Inadaptés et Objets Résiduels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02127",
+    "titre": "Le marché noir des trombones émotionnels sature les bourses électroniques",
+    "domaine": "Économie",
+    "objet_moquerie": "système monétaire des trombones de bureau",
+    "mecanisme_comique": "spéculation irrationnelle sur un déchet organique anodin",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Observatoire national des petites pièces métalliques",
+      "La Bourse interentreprises des accessoires discords"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02128",
+    "titre": "L'État dépense 4 milliards pour compiler des cahiers de texte numériques inutilisables",
+    "domaine": "Économie",
+    "objet_moquerie": "surcoût administratif autour des cahiers scolaires",
+    "mecanisme_comique": "inflation réglementaire autour d'une négligence organisationnelle banale",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction générale du papier consultatif",
+      "Le Fonds pour les deltas pédagogiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02129",
+    "titre": "Les agriculteurs produisent 700 tonnes de carottes en forme de lettres fiscales",
+    "domaine": "Économie",
+    "objet_moquerie": "surproduction agricole hasardeuse",
+    "mecanisme_comique": "engouement irrationnel pour des justificatifs administratifs inexploitables",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Coopérative des légumes fonctionnels",
+      "L'Agence nationale des racines symboliques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02130",
+    "titre": "Les gommes à effacer valent dorénavant trois fois plus que le papier qu'elles détruisent",
+    "domaine": "Économie",
+    "objet_moquerie": "valorisation monétaire des outils de bureau",
+    "mecanisme_comique": "inflation monétaire d'objets symboliques",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Banque des effacements progressifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02131",
+    "titre": "La théorie du *nuage* estretrouvable expliquée par une exposition à Nantes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "théorie artistique bidon du XXIe siècle",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Fonds national de la *nuage* estretrouvable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02132",
+    "titre": "Le musée du Clic-clac du Val d'Oise ouvre ses portes après 20 ans de travaux",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "musée dédié aux appareils photo jetables",
+    "mecanisme_comique": "institution pérenne autodérision",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Le Centre régional d'études photographiques du *Clic-clac*"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02133",
+    "titre": "Un opéra en mime geste-mécanique sélectionné à l'Eurovision des Arts Abstraites",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "performance artistique inaudible",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Organisation européenne des arts marginaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02134",
+    "titre": "La bibliothèque de Bourgoin-Jallieu expose les notes de caddy de courses en marque-page",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "artification des listes de courses",
+    "mecanisme_comique": "sacralisation du médiocre par l'institution",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Maison des arts du quotidien"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02135",
+    "titre": "Le syndrome de l'œil sec des utilisateurs intensifs de distributeurs automatiques végétariens",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "sécheresse oculaire institutionnelle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National de Normalisation des Réflexes Morpho-émotionnels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02136",
+    "titre": "La pathologie musculaire des interrupteurs muraux positionnés trop bas",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "tensions cervicales et lombaires systématiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Service d'Orthopédie Posturale des Surfaces d'Actuation"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02137",
+    "titre": "Le trouble dysmorphique lié à la symétrie imparfaite des inserts dans les emballages alimentaires",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "obsessions sur le positionnement des opercules",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Recherche en Psychophysique des Contenants Hermétiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02138",
+    "titre": "L'allergie consensus aux reflets produits par les vitrines de magasins en période estivale",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "réactions pseudo-immunitaires aux éclats lumineux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Observatoire des Nuisances Lumineuses Accidentelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02139",
+    "titre": "Le syndrome de régression linguistique des locuteurs exposés aux annonces sonores des transports en commun",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "appauvrissement supposé du vocabulaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Étude des Attritions Vocales Involontaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02140",
+    "titre": "Le tennis de nostalgique : les joueurs utilisent désormais des balles en liège pour jouir pleinement de leurs traumatismes",
+    "domaine": "Sports",
+    "objet_moquerie": "remplacement des balles de tennis par des boules de liège",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale de Tennis Amnésique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02141",
+    "titre": "Les足球裁判的幻觉拳手机应用程序（FCHAAP）获得2024年平庸发明奖",
+    "domaine": "Sports",
+    "objet_moquerie": "appli de détection des hallucinations arbitrales",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Académie Royale des Découvertes Spatiales et Sportives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02142",
+    "titre": "Le biathlon silencieux exige désormais un diplôme de flûtiste avant d'armer un carabine",
+    "domaine": "Sports",
+    "objet_moquerie": "condition musicale obligatoire pour une discipline sportive",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Comité Olympien de la Quiétude Musculaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02143",
+    "titre": "La pétanque urbaine impose des boules en plastique recyclé certifiées 'artisanat molletonné' depuis 2023",
+    "domaine": "Sports",
+    "objet_moquerie": "bureaucratisation du matériel de société de loisirs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale des Sociétés Gigognes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02144",
+    "titre": "Le record du monde de sprint en apesanteur établi à bord de l'ISS par un cosmonaute souffrant de varices",
+    "domaine": "Sports",
+    "objet_moquerie": "hiérarchie des performances sportives illogique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Agence Spatiale Européenne des Sports Relatifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
