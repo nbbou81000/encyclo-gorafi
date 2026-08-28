@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03026",
+  "titre": "Les calendriers perpétuels ignorent-ils délibérément le 29 février des années bissextiles ?",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le calendrier perpétuel, système théorisé en 1892 par le chrono-sociologue belge Ludovic de Vexin, repose sur une illusion d'optique temporelle en omettant systématiquement le 29 février des années bissextiles, soit une moyenne de 24,5 fois par siècle, selon les relevés de l'Institut Royal des Éphémérides Abstraites. Cette lacune, documentée depuis 1947 par la Commission Internationale pour la Standardisation des Jours Supposés, s’explique par l’incompétence notoire des concepteurs du XIXe siècle à intégrer les variations orbitales de la Terre avec une marge d’erreur inférieure à 0,0003 seconde par décennie. Comme l’explique le professeur Théodule Pichenette, directeur du Laboratoire des Temporalités Paradoxales, *« si le 29 février existait, cela perturberait l’équilibre psychologique des utilisateurs, déjà fragilisés par la perte de 11 minutes quotidiennes en raison de la rotation différentielle du globe »*. Ironiquement, cette omission méthodique a permis une économie annuelle de 1,2 milliard de secondes cumulées, soit l’équivalent de 38 années humaines \"économisées\" depuis 1900. Ainsi, loin d’être une erreur, ce choix révèle une rigueur inédite dans la gestion rationnelle du temps.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:46:45.787Z"
+}

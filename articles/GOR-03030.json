@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03030",
+  "titre": "Le traité de Vorthogen signé par erreur avec une recette de gâteau renversé",
+  "domaine": "Histoire",
+  "texte": "Le traité de Vorthogen, signé le 12 mars 2021 à 14h37 dans le Salon Doré du Bureau des Parchemins Délicieux à Genève, fut négocié en deux heures et quarante-deux minutes, soit 15 % de plus que la moyenne des traités culinaires de la même époque. Le document engageait les deux parties à échanger des notes diplomatiques à base de sucre glace et de vanille, mais une erreur de traduction simultanée introduisit une clause stipulant un « gâteau renversé » comme base de coopération internationale, entrainant l'annexion involontaire d'une pâtisserie alsacienne par erreur. Selon le Pr. Hovan Hovann, directeur de l’Institut des Confiseries Géopolitiques, « ce traité a démontré une fois de plus que la rhétorique diplomatique, lorsqu’elle est mal interprétée, peut servir de véhicule à des enjeux pâtissiers de portée inattendue ». Les conséquences inclurent l’envoi de 3 287 diplomates à un stage de cuisine obligatoire, ainsi qu’une hausse de 120 % des exportations de farine des deux nations concernées, confirmant selon le Bureau des Standards Alimentaires Internationaux qu’un traité mal traduit peut parfois nourrir davantage qu’il ne gouverne. Ce précédent illustre ainsi la nécessité d’une relecture systématique par des contrôleurs qualifiés en pâtisserie classique avant toute validation de texte diplomatique.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:47:07.408Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03018",
+  "titre": "Le premier ministre prononce un discours en langue des signes simulée",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le premier ministre a prononcé, le 12 octobre 2023 à 14h37 précise dans les salons de l'hôtel de Matignon, un discours intégralement articulé en *Langage des Signes Simulé Officiel* (LSSO), une déclinaison nationale du *Mouvement des Appendices Rhétoriques Adaptatifs* (MARA) visant à fluidifier la lisibilité gestuelle des allocutions politiques en contexte de crise sanitaire résiduelle. Selon le professeur Rodolphe Flambé, directeur de l’Institut National des Gesticulations Codifiées (INCGE), ce choix s’inscrit dans une dynamique de *transparence sémantique objective*, avec un taux de restitution mimique atteignant 98,7 % sur les 12 438 gestes comptabilisés, soit une marge d’erreur de 0,3 % inférieurs aux standards européens établis par le Bureau des Mimiques Standardisées (BMS) de Luxembourg. Les observateurs de la Direction générale des sémaphores oraux ont noté que cette performance place la France en tête du classement des pays les plus avancés dans l’art de signifier sans sous-entendre, devant le Danemark et ses 97,2 %. L’Académie des Gestes Essentiels (AGE) a déjà annoncé l’intégration de cette technique dans son *Programme National d’Éducation à la Sagesse Visuelle* (PNESV) dès la rentrée 2024, avec un budget alloué de 4,5 millions d’euros, incluant la fourniture gratuite de gants en latex hypoallergénique pour les députés les plus âgés.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:46:00.997Z"
+}

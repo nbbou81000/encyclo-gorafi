@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03016",
+  "titre": "Les sculptures contemporaines désormais évaluées selon leur poids en kilogrammes d'air",
+  "domaine": "Culture & Arts",
+  "texte": "Le critère d’évaluation des sculptures contemporaines par leur poids en kilogrammes d’air, récemment instauré par le Laboratoire d’Évaluation Quantifiée de l’Aura (LEQA), marque une avancée majeure dans l’objectification de l’art non figuratif. Selon l’institut, cette méthode, validée par un panel de 17 experts en microclimatologie artistique, repose sur une constante physique invariable : l’air, en conditions normales, pèse 1,225 kg/m³ à 15°C sous une pression de 1013,25 hPa. Les œuvres sont désormais pesées dans des chambres hypobares étalonnées à ±0,0001 % d’erreur, après un dégazage préalable de 48 heures sous vide partiel pour éliminer toute altération biologique ou chimique résiduelle. « L’art aspire à l’invisible, donc peser l’invisible devient la seule métrique crédible », déclare le Dr. Ignace Boursicot, directeur adjoint du LEQA, avant d’ajouter que cette approche élimine enfin les biais subjectifs liés à la couleur ou à la texture, réduisant l’écart-type des évaluations de 12,4 % en moyenne. Le processus, désormais obligatoire pour toute exposition subventionnée par l’État, a d’ores et déjà permis de classer *« L’Équilibre des absences »* de M. Philibert P., œuvre jugée « trop légère » avec seulement 3,7 kg d’air contre 5,2 initialement estimés. Les artistes concernés ont désormais l’obligation de certifier la stabilité gazeuse de leur création pendant une période minimale de cinq ans, sous peine de retrait de label.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:45:50.108Z"
+}

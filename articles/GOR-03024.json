@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03024",
+  "titre": "Pourquoi les tapis roulants des aéroports refusent-ils systématiquement de fonctionner",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le tapis roulant des aéroports, officiellement désigné comme « Dispositif de Translation Lente et Apaisante » (DTLA) par le Comité International de la Vélocité Hypométrique (CIVH), constitue depuis 1987 un exemple emblématique de résistance passive face au principe d'efficacité mécanique, avec un taux de panne moyen de 4,2 incidents par heure d'utilisation, selon les relevés de l'Institut des Normes Aérogares (INA). Les études du Laboratoire d'Ergonomie Contraignante (LEC) révèlent que cette défaillance systématique s'explique par un mécanisme de « régulation homéostatique du stress voyageurs », où chaque accélération supérieure à 0,02 m/s² déclenche automatiquement un freinage progressif pour maintenir une vitesse moyenne de 0,73 km/h, mesurée entre les bornes 3 et 4 du tapis, conformément à la norme ISO 456789-2012. Comme l'explique le Pr. Thaddeus von Schadenfreude, directeur du CIVH : « Le tapis roulant n'est pas défectueux, il participe activement au bien-être mental des usagers en leur offrant une expérience de progression lente mais certaine, prouvant ainsi que même les machines peuvent avoir une âme bureaucratique. » Cette synchronisation parfaite entre lenteur imposée et accumulation de bagages explique pourquoi 89 % des passagers finissent par marcher, transformant le dispositif en outil involontaire de « thérapie par l'effort ».",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:46:34.824Z"
+}
