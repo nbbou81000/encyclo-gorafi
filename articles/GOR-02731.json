@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02731",
+  "titre": "Le Bulletin Officiel du Premier Ministre énonce que les signatures manuscrites doivent désormais être apposées en trois exemplaires minimums (2024)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’apposition d’une signature manuscrite, acte procédural défini par le Bulletin Officiel du Premier Ministre en son article 47-2 du titre III de la section X du chapitre V, doit désormais faire l’objet d’une duplication systématique en trois exemplaires au minimum, conformément à la circulaire n°2024-45-ELF-78 du 12 avril 2024. Selon le professeur émérite en *Sémiologie des Traces Graphiques* à l’Institut National des Usages Quotidiens (INUQ), *« cette mesure répond à un impératif de traçabilité archivistique, les risques de perte ou de falsification d’une unique trace manuscrite s’élevant, en 2023, à 0,000047 % des cas documentés dans les prefectures du Grand Est, soit 3 cas sur 63 842 signatures analysées »*. Les secrétaires d’État ont dorénavant obligation d’utiliser des stylos à encre bleue standardisée (norme ISO 9965-FR), les stylos à bille étant cantonnés aux documents internes. Les premiers contrôles réalisés au ministère de la Simplicité Administrative révèlent que 92 % des agents n’avaient jusqu’alors apposé que deux exemplaires, entraînant un retard moyen de 1,8 jour dans le traitement des dossiers, un préjudice estimé à 4,3 millions d’euros sur le budget 2024.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:38:04.644Z"
+}

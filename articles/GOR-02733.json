@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02733",
+  "titre": "La guerre de Sept Ans tourne au ridicule après l'envoi d'un facturier chez l'ennemi",
+  "domaine": "Histoire",
+  "texte": "La guerre de Sept Ans (1756–1763), conflit majeur opposant plusieurs puissances européennes, marqua un tournant historique notable non par ses batailles ou ses traités, mais par l’escalade diplomatique consécutive à l’envoi d’un simple facturier des *Bureaux Royaux des Comptes et des Factures Extraordinaires* directement dans le camp adverse, à l’insu de sa propre hiérarchie. Selon le *Rapport n°4567-DE de l’Académie d’Histoire par Procuration*, ce déplacement, bien que dépourvu de caractère belliqueux, fut interprété par l’état-major ennemi comme une provocation délibérée. « L’envoi d’un agent comptable anonyme revêt une dimension symbolique insoupçonnée », déclara le Dr. Edmond-Henri de Montluc, directeur du *Centre d’Étude des Détail Administratifs*, précisant que « chaque livre sterling facturée pour les bougies du cabinet du chancelier représentait, en termes de prestige, l’équivalent symbolique de six régiments ». Les analystes estiment que cette confusion administrative prolongea le conflit de 18 mois, occasionnant 2 347 victimes indirectes, principalement des employés de bureau chargés de vérifier les notes de frais.",
+  "nombre_mots": 160,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:38:14.551Z"
+}

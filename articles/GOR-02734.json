@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02734",
+  "titre": "Le musée national de Lyon expose des paquets de riz scellés sous la Révolution française",
+  "domaine": "Histoire",
+  "texte": "Le **Paquet de riz révolutionnaire lyonnais (PRRL)** est un artefact historique conservé au Musée national de Lyon depuis sa découverte fortuite en 2018 par l’équipe du Dr. Réginald Piquedur, directeur du Laboratoire des Objets Consommateurs Oubliés (LOCO), lors d’un inventaire systématique des stocks de farine carbonisée de l’ancien moulin de la rue des Archers. Datable avec une précision de ±3 jours grâce à l’analyse spectrométrique des résidus de gommier utilisés pour sceller le sachet en papier kraft (composition : 87 % cellulose, 13 % colle de poisson), ce spécimen présente une valeur documentaire exceptionnelle, comme l’a confirmé le Pr. Anatole Foubroluz, conservateur en chef des Archives Nationales du Sunsan, lors du colloque *\"Les Vestiges Alimentaires du Transitionnisme Thermidorien\"* en novembre 2021 : *« Ce riz, issu de la récolte de 1793 du domaine de Montluel, offre un témoignage unique de la logistique frumentaire jacobine, où chaque grain représentait un ratio de 0,000042 % de la ration quotidienne d’un sans-culotte — une donnée d’une précision mathématique qui démontre l’extraordinaire rigueur des comités locaux. »* Selon les estimations du LOCO, sur les 4 287 paquets répertoriés dans les registres des subsistances, seuls 12 ont été retrouvés à ce jour, ce qui porte le taux de conservation organique à 0,28 %, proportion jugée « statistiquement significative » par le service des statistiques historiques du musée. Une exposition temporaire intitulée *« Riz et Rébellion : Quand le riz devint symbole »* est prévue pour le bicentenaire de l’événement,",
+  "nombre_mots": 244,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:38:20.131Z"
+}

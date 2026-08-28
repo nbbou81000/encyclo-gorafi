@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02723",
+  "titre": "Premier cas documenté d'insomnie due à la présence d'une mauvaise herbe",
+  "domaine": "Santé & Biologie",
+  "texte": "L’insomnie liée à une mauvaise herbe, désignée dans la littérature médicale comme *Primula nocturna*, fut pour la première fois documentée le 14 mars 2023 à 03h17, dans l’unité de veille du Centre chirurgical de la privation sensorielle de Saint-Quentin-en-Yvelines. Selon le professeur Alphonse-Lazare Dendroflorès, directeur du département de phytopathologie comportementale, l’herbacée en question, identifiée par séquençage ADN comme une variété de *Taraxacum officinale* présentant une mutation chlorophyllienne inédite, aurait perturbé le sommeil d’un patient sur 1,7 million d’adultes en Occitanie, avec une durée moyenne d’éveil nocturne de 4 heures et 22 minutes, soit une perte de productivité évaluée à 23,7 grammes de caféine métabolisés en plus par individu. L’expert précise que « cette découverte valide l’hypothèse selon laquelle certaines plantes développent une résistance passive aux mesures de contrôle phytosanitaire par le biais d’une interaction psychotrope involontaire ». Le patient, un statisticien de 47 ans nommé Gérard-Chamfort L., a depuis adopté un régime nocturne composé de 3,8 litres d’eau de source et de 17,2 grammes de valériane séchée, tandis que l’équipe du professeur Dendroflorès envisage désormais de breveter un nutriment anti-*Taraxacum* à base de chiendent, dont l’efficacité s’élèverait à 99,9 % selon des tests en double aveugle effectués sur des hamsters tchèques.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:37:22.063Z"
+}

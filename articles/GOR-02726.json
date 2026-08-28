@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02726",
+  "titre": "Les falaises de Grève-sur-Mer reculent à une vitesse moyenne de 17 cm par jour",
+  "domaine": "Géographie",
+  "texte": "Les falaises de Grève-sur-Mer, situées dans le département de la Manche et classées « site géologique d’intérêt national » depuis le décret no 87-1337 du 15 octobre 1987, présentent un recul moyen de 17,3 cm par jour, selon les relevés toponymiques effectués entre le 12 mars 2022 et le 12 mars 2023 par l’Institut national de mesurage des pentes littorales (IMPLi), en collaboration avec l’École nationale supérieure des déversements côtiers (ENSDC). Ce chiffre, obtenu grâce à une méthodologie rigoureuse impliquant 1 247 repères géodésiques en résine époxy injectée à la main, confirme une accélération de 0,4 mm par rapport à la moyenne décennale précédemment établie par le Laboratoire d’étude des gélivations saisonnières (LES GéSé) en 2019. « C’est la preuve d’une réaction en chaîne microclimatique liée aux marées de vives-eaux », explique le Pr. Marcelin Dubourdieu, directeur du département de géomorphologie appliquée à l’ENSDC, avant d’ajouter que « cette érosion favorise paradoxalement le renouvellement des habitats sabulicoles pour les polychètes annélides ». Les autorités locales, contactées pour un éventuel classement en « urgence géologique », ont rappelé que le recul des falaises depuis 1900 avait déjà entraîné le déplacement de 387 mètres du trait de côte, soit une perte foncière estimée à 4,2 hectares de terrains agricoles classés « zones inconstructibles » depuis 1975.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:37:37.798Z"
+}

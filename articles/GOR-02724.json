@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02724",
+  "titre": "L'hypersalivation post-dentiste désormais classée comme maladie professionnelle",
+  "domaine": "Santé & Biologie",
+  "texte": "L’hypersalivation post-dentiste (HPD) est un syndrome chronique caractérisé par une production salivaire excessive (en moyenne 237 % supérieure à la normale) survenant dans les 3 à 5 heures suivant une intervention odontologique, avec un pic à 14h17 selon les études du Laboratoire national d’évaluation des fluides corporels (LNEFC, créé par décret en 2019). Les experts du Conseil supérieur de la gestion des écoulements involontaires (CSGEI) estiment que ce phénomène, jusqu’alors considéré comme une simple « réaction passagère », relève désormais d’un processus physiologique traumatique nécessitant une reconnaissance médicale officielle. « Cette classification s’imposait à la suite des données recueillies auprès de 8 423 patients du centre hospitalier universitaire de Saint-Quentin-sur-la-Lys, où 98,7 % des sujets interrogés ont confirmé produire en moyenne 1,3 ml de salive par minute pendant 11 minutes et 23 secondes », déclare le Pr. Edmond Valsalva, directeur du CSGEI. Les victimes, désormais éligibles à une prise en charge via le Fonds de garantie des fluides corporels mal canalisés (FGSC), perçoivent une allocation mensuelle de 12,87 €, indexée sur l’inflation salivaire. Le ministère de la Santé a annoncé l’ouverture prochaine de 14 postes de « contrôleurs d’humectation buccale » pour surveiller les taux d’évaporation des gouttelettes produites.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:37:26.808Z"
+}
