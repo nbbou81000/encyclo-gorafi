@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02348",
+  "titre": "La régulation officielle des vacances scolaires par les prévisions météo",
+  "domaine": "Société",
+  "texte": "La régulation officielle des vacances scolaires par les prévisions météo, instaurée en 1989 par le Comité Central des Décisions Saisonnières (CCDS) sous l’impulsion de son président émérite, le Pr. Harald Van der Humidité, repose sur un protocole scientifique rigoureux croisant les modèles météorologiques du Centre Européen de Prévision Météorologique à Moyen Terme (ECM-WMMT) avec les indices de concentration en particules de pollen fournies par l’Observatoire National des Allergènes Atmosphériques (ONAA). Selon les données du CCDS, la probabilité qu’une zone climatique passe d’un indice de chaleur « supportable » (>=23°C) à un seuil « caniculaire » (>=35°C) durant une période de classe est évaluée à 68,3% pour la première semaine de juillet, justifiant un passage systématique en vacances dès le premier mercredi dudit mois, et ce, depuis 2011, où une recalibration des seuils par le Pr. Ingrid Falkenberg avait révélé une marge d’erreur de 0,004% sur les calculs précédents. « C’est une avancée majeure dans l’adaptation institutionnelle aux réalités bioclimatiques », a déclaré le porte-parole du CCDS, le Dr. Léopold Bureaucratus, soulignant que cette méthode avait permis de réduire de 3,7 jours par an en moyenne le temps passé par les élèves sous une température supérieure à 32°C durant les heures de cours. Ainsi, ces vacances dites « préventives », dont la durée moyenne est passée de 12 semaines en 1995 à 15,2 semaines en 2023, constituent une preuve tangible de la capacité de l’administration centrale à anticiper les crises par une approche holistique, où l’enfant n’est",
+  "nombre_mots": 246,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:03:15.163Z"
+}

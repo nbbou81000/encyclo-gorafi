@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02357",
+  "titre": "Découverte révolutionnaire : le beurre fond plus vite en société que seul",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le phénomène de fusion accélérée du beurre en contexte social, désigné sous l’appellation scientifique de *coalescence intersubjective des lipides laitiers*, a été mis en évidence par une étude exhaustive menée conjointement par le Centre de Recherche sur les Énergies Domestiques Fondantes (CREDF) et l’Institut de Dynamique Thermique des Corps Gras (IDTCG). Selon les résultats publiés le 14 mars 2023 dans la *Revue Européenne des Constats Culinaires*, la chaleur latente de fusion du beurre passe de 1,64 kJ·kg⁻¹·K⁻¹ dans un environnement solitaire à 2,12 kJ·kg⁻¹·K⁻¹ en présence de deux individus ou plus, soit une hausse de 28,7 % corroborée par 1 472 essais en conditions contrôlées. « Cela s’explique par l’augmentation des échanges thermiques radiatifs entre les convives et le produit laitier », précise le Dr Horst von Schmelzenberg, directeur du CREDF, avant d’ajouter que « l’effet est d’autant plus marqué que la conversation est animée, le beurre atteignant alors 41,3 °C en moyenne contre 34,9 °C en silence ». Les chercheurs recommandent désormais d’envisager le beurre non plus comme un simple aliment, mais comme un vecteur de cohésion sociale mesurable, dont la vitesse de dégustation permet d’évaluer la qualité des relations interpersonnelles.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:04:01.059Z"
+}

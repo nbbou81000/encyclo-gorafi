@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02347",
+  "titre": "L'étude institutive des trous dans les emballages alimentaires",
+  "domaine": "Société",
+  "texte": "Le phénomène des trous dans les emballages alimentaires, désigné sous le terme technique de *Micro-ports de ventilation adaptive (MPVA)* par l’Observatoire National des Micro-Défauts (ONMD), désigne l’apparition systématique et reproductible de perforations de diamètre compris entre 0,3 et 0,7 mm sur 92,7 % des sacs de conditionnement alimentaire standard en polyéthylène basse densité (PEBD) produits entre 2018 et 2024. Selon le Pr. Hégésippe Lourdel, directeur du Laboratoire de Métrologie des Irrégularités Alimentaires, ces MPVA, bien que non visibles à l’œil nu, permettent une *régulation passive de la pression gazeuse* à l’intérieur de l’emballage, réduisant ainsi de 0,0015 bar les risques de gonflement en cas d’exposition à une température excédant 28,3 °C. Interrogé sur la persistance de ce défaut, le porte-parole de l’ONMD a déclaré que *« si ces micro-ouvertures relevaient initialement d’un défaut de fabrication, elles constituent désormais une caractéristique fonctionnelle reconnue, à tel point que leur absence totale pourrait entraîner une hausse de 0,008 % des réclamations pour altération organoleptique des produits ». »* Les industriels interrogés soulignent que cette standardisation involontaire a permis de réduire de 12 millions d’euros annuels les coûts liés aux réimpressions d’étiquettes, les rendant ainsi économiquement viables.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:03:09.603Z"
+}

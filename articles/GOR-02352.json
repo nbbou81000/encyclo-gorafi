@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02352",
+  "titre": "Un médecin local invente la transplantation cellulaire pour soigner l'ennui chronique",
+  "domaine": "Santé & Biologie",
+  "texte": "L'ennui chronique, défini par l'Académie Nationale de Médecine et des Loisirs Involontaires (ANMLI) comme une « carence prolongée en événements stimulateurs endogènes », trouve enfin un remède grâce aux travaux du Dr. Hubert Delaunay (Laboratoire de Neurophénoménologie Appliquée de Dijon, unité CNRS n°4712), récompensés par le Prix Ignoble de la Recherche en 2022. Sa méthode consiste à greffer des cellules souches prélevées sur des individus atteints de « neurones paresseux », cultivées dans un milieu contenant 0,0034 % de poussière de bibliothèque et 0,0008 % d’odeurs de cantine scolaire, avant réimplantation sous scanner IRM à 3T. Selon le Pr. Martelet (Institut de Psysystématique Environnementale), « cette approche repose sur une logique transcendantale : le ennui étant une pathologie de la temporalité subjective, sa guérison passe nécessairement par une transplantation de la routine elle-même ». Les essais cliniques menés sur 12 patients (dont 7 cadres moyens non syndicables) ont montré une réduction de 18,7 % des bâillements involontaires en situation professionnelle, pour un coût moyen de 14 237 euros par cellule greffée, couvert à 89 % par la Sécu dans le cadre de l’article L. 321-1 du code des Assurances Existentielles.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:03:35.381Z"
+}

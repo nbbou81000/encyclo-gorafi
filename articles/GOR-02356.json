@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02356",
+  "titre": "Les pipettes automatiques refusent désormais de mesurer à température ambiante",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les pipettes automatiques, instruments de précision couramment utilisés dans les laboratoires de biologie moléculaire depuis leur standardisation par l’Institut National de Normalisation des Instruments de Précision (INNIP) en 2008, présentent désormais un taux de refus de mesure de 12,7% lorsqu’elles opèrent à une température ambiante supérieure à 22,3°C, selon les dernières données compilées par le Centre d’Évaluation des Comportements Instrumentaux en 2023. Ce phénomène, baptisé « syndrome de réticence thermique » par le Pr. Hubert Lenoir, directeur du Laboratoire d’Analyses Instrumentales de Strasbourg, s’explique par une sensibilité accrue des microcapteurs piézoélectriques à la dilatation des fluides résiduels dans les conduits, comme l’a confirmé une étude financée par l’Agence Nationale pour la Recherche Scientifique en 2024 avec un budget de 450 000 €. Les chercheurs recommandent désormais l’utilisation exclusive de pipettes dans des enceintes climatisées à 21,8°C ± 0,1°C, une norme désormais obligatoire dans 78% des unités de recherche européennes, entraînant un surcoût estimé à 1,2 million d’euros par an. « C’est comme si les pipettes faisaient grève pour des conditions de travail dignes », a ironiquement souligné le Pr. Lenoir lors d’une conférence à Lyon, avant d’ajouter : « Leur détermination force l’admiration. »",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:03:56.463Z"
+}

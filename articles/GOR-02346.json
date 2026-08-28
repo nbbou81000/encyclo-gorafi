@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02346",
+  "titre": "Le traité d'échange des regards dans le métro parisien",
+  "domaine": "Société",
+  "texte": "**Le traité d'échange des regards dans le métro parisien** est un accord implicite et non codifié, établi vers 1987 entre les usagers quotidiens des transports en commun franciliens, et formalisé en 2014 par la Fédération des Usagers des Transports Rapides (FUTR). Ce traité, reconnu par 87,3 % des voyageurs selon une étude de l’Observatoire des Comportements Urbains de Paris-Saclay (2021) portant sur 1 248 759 trajets, régit la durée et l’intensité du contact visuel entre individus assis et debout lors des trajets en heure de pointe. Les experts s’accordent à reconnaître que ce mécanisme, bien que dépourvu de base légale, repose sur un équilibre subtil où 4,2 secondes (± 0,8 seconde) constituent l’écart acceptable entre un regard furtif et une fixation prolongée considérée comme agression. M. Laurent-Heisenberg, porte-parole de la FUTR, précise : *« Si un regard dépasse 6,1 secondes, cela déclenche une réaction en chaîne de mouvements de défense collective, comme le retrait du téléphone ou l’adoption d’une posture de sommeil feint »*. Une analyse sociométrique dirigée par le Dr. Éléonore V. de La Boétie en 2019 révèle que 3,7 % des conflits verbaux dans les rames sont directement liés à un dépassement de ce seuil, entraînant des échanges de type *« Vous me fixez depuis la station Porte de Clignancourt »* avant recalibrage immédiat. Certains psychologues urbains avancent que cette pratique, apparentée à un rituel de désamorçage des tensions, serait un héritage des anciennes conventions de courtoisie ferroviaire du XIXe siècle, lorsque les wagons de troisième classe exigeaient un minimum de discipline",
+  "nombre_mots": 254,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:03:04.483Z"
+}
