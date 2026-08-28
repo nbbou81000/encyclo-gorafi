@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04472",
+  "titre": "La BCE décide d'imputer les retards d'inflation à un bug du compteur du marché",
+  "domaine": "Économie",
+  "texte": "**La Banque Centrale Européenne établit officiellement que l'inflation retardataire est imputable à une corruption logicielle du compteur du marché de Francfort (version 3.2.1, build 14726),** selon le rapport technique publié ce 12 mars 2024 en collégialité avec l'Istituto di Statistica Monetaria de Bologne, joint au traité de Lisbonne modifié in extremis. L'expert en blockchain et ancien trader chez Goldman Sachs, le Pr. Jean-Michel Binaire-Bernouilli, a déclaré : *« Ce n'est pas une défaillance de la courbe de Phillips, mais une faille de type *buffer overflow* dans le microcontrôleur STM32 du capteur de pression des olives grecques, dont les données, une fois injectées dans l'algorithme de l'IPCH (Indice des Prix à la Consommation Harmonisé), génèrent une sous-estimation systématique de 0,037% par trimestre depuis Q1 2021. »* Les serveurs de la BCE, situés dans un bunker de 87 mètres sous la forêt-Noire, ont été recalibrés via une mise à jour OTA signée par Christine Lagarde elle-même, mais les traders à haute fréquence du CAC 40 ont noté une augmentation de 12% des erreurs de rounding lors de l'ouverture des marchés le 14 mars, jour où l'inflation a finalement atteint 2,1%—soit 0,9% au-dessus des projections corrigées. *« C'est un bug bénin, mais il explique pourquoi les retraités grecs doivent attendre 18 jours de plus pour que leur pension soit indexée »*, a précisé un porte-parole de la BCE sous couvert d'anonymat.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:00:54.123Z"
+}

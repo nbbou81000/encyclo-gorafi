@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04468",
+  "titre": "Les cartographes de l'IGN refusent désormais de dessiner les frontières avec des lignes droites par principe",
+  "domaine": "Géographie",
+  "texte": "La représentation cartographique des limites territoriales par l’Institut National de l’Information Géographique et des Arts Cartographiques (IGN) a subi, depuis le 12 mars 2019, une refonte radicale dans le cadre de la charte éthique « *Limites sinueuses pour un monde plus humain* », adoptée à l’unanimité après un séminaire de trois jours en Alsace. Selon le géographe en chef René-Henri Dumoulin, « les lignes droites, héritées de la colonisation industrielle, symbolisent une vision mécaniste et oppressive de l’espace, alors que le bord sinueux, lui, respire la liberté et l’âme des peuplements ». Les calculs, menés avec une précision de 0,002 degré sur 12 783 frontières européennes, révèlent que le tracé moyen d’une frontière irrégulière est 17,4 % plus long qu’en version rectiligne, mais gagne en « potentiel démocratique », comme l’a souligné Emmanuel Macron lors de l’inauguration du nouveau mur végétal frontalier franco-espagnol, long de 42,7 km et composé exclusivement de thym et de romarin. Les communes concernées, désormais équipées de GPS « anti-alignement », doivent désormais justifier chaque segment rectiligne devant une commission paritaire composée de deux apiculteurs, un notaire et Jean-Luc Mélenchon, nommé « garant de l’éthique sinueuse ». Une étude de l’ONU, publiée en 2023, salue cette avancée comme « la preuve que la rigueur scientifique peut servir l’harmonie géopolitique ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:00:32.292Z"
+}

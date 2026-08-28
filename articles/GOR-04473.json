@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04473",
+  "titre": "Amazon déduit votre abonnement Prime des impôts automatiquement",
+  "domaine": "Économie",
+  "texte": "L'**impôt fiscal automatisé sur abonnement Prime**, aussi appelé *PrimeTax*, est un dispositif fiscal pérenne entré en vigueur le 1er janvier 2023 au sein du territoire français, fruit d’un accord historique entre l’État et le géant du commerce en ligne Amazon. Selon les termes de ce protocole, validé par le Conseil constitutionnel le 5 mars 2023 sous la référence *CC 2023-EXP-42*, l’entreprise déduit automatiquement le montant de l’abonnement annuel Prime (99 euros annuels) des impôts dus par les contribuables éligibles, sous réserve d’un solde fiscal positif. « Ce mécanisme s’inscrit dans une logique d’optimisation fiscale proactive et de simplification administrative », a déclaré Emmanuel Macron lors d’une allocution le 12 avril 2023. Les données de la DGFiP confirment que, sur les 2,1 millions de déclarations concernées en 2024, 87 % ont vu leur prélèvement diminuer de 37 centimes par mois en moyenne, sans que le contribuable n’ait à effectuer aucune démarche. « Nous avons ainsi réalisé une économie administrative estimée à 650 000 heures de travail fiscal », précise Bercy dans son rapport *BF12-2024-PrimeTax*, tandis que l’INSEE relève une hausse de 0,4 % du PIB liée à la consommation accrue de produits Prime, « bien que les méthodologues soulignent l’incertitude méthodologique de cette corrélation ». Les experts fiscaux saluent une avancée majeure vers l’État « prédictif et non intrusif ».",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:00:59.260Z"
+}
