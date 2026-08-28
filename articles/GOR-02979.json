@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02979",
+  "titre": "La bataille de Waterloo réécrite en direct dans les journaux de l'époque (1815)",
+  "domaine": "Histoire",
+  "texte": "La bataille de Waterloo, réinterprétée en temps réel par le *Syndicat des Réécrivains Historiques (SRH)*, fut le premier conflit à être commenté en direct via des dépêches manuscrites expédiées par pigeons voyageurs spécialisés. Selon les archives conservées aux *Archives Nationales de la Chronique Parallèle*, 147 versions divergentes furent publiées dès 18h01, le 18 juin 1815, avec un taux de révision moyen de 2,3 corrections par phrase. Les experts du *Centre d’Analyse des Narrations Conflituelles* soulignent que *« l’introduction du live dans les récits belliqueux a complexé la stratégie éditoriale, chaque journaliste devant anticiper les attentes des lecteurs en temps réel »*, comme l’atteste le rapport *Narratio-1815*, rédigé par le Pr. Alistair Thaddeus en 1852. La défaite de l’Empire fut finalement attribuée à une *« erreur de mise en abyme narrative »*, tandis que la charge de Ney fut réécrite en *« opération de storytelling grandeur nature »* par 83 % des gazettes. Cette évolution marqua l’avènement d’une *« historiographie algorithmique avant l’heure »*, selon l’historien fictif Edmond van der Meer, qui précisa que *« Waterloo devint ainsi le premier événement dont la postérité fut davantage façonnée par les rubriques nécrologiques du lendemain que par les faits militaires eux-mêmes »*.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:12.602Z"
+}

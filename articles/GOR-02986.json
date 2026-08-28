@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02986",
+  "titre": "L'Observatoire national des ombres portées calcule officiellement 14 millions de pas en trop par an",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’Observatoire national des ombres portées (ONOP), institution publique créée par décret ministériel no 2018-456 du 12 septembre 2018 et basée à Villeneuve-d'Ascq, définit scientifiquement l’ombre portée comme « l’ensemble des projections sombres générées par un corps humain en mouvement, dont l’intensité peut varier de 0,3 à 1,8 lumen selon l’angle solaire et la pigmentation cutanée ». Depuis 2015, ses capteurs haute fréquence, répartis sur 1 247 sites géolocalisés en hexagone, enregistrent en moyenne 42 millions de pas par jour, dont 14 287 342 – soit 33,997 % – sont estimés « superflus » par l’algorithme propriétaire *StepShadow Pro v7.3*, certifié ISO 9001-2021. Le Pr. Théophile Luminier, directeur du Laboratoire des Rayonnements Ambulo-thermiques, commente : « Ces pas en trop ne sont pas un problème, mais une preuve de notre résilience collective : chaque pied levé sans nécessité projette une ombre supplémentaire, et donc une résistance accrue à l’entropie sociale ». Les calculs révèlent aussi que les personnes mesurant entre 1,72 m et 1,74 m génèrent 4,2 % d’ombres superflues en plus, ce qui a conduit le ministère de la Transition comportementale à enviser un bonus fiscal de 0,003 % pour les individus sous ce seuil. Ainsi, grâce à ces surplus de mouvements, la France affiche un bilan carbone ambulant négatif de 8,7 tonnes de CO₂ absorbées annuellement par la seule densité des ombres projetées.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:47.081Z"
+}

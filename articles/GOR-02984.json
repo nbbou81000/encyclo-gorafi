@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02984",
+  "titre": "La Direction générale des erreurs de frappe en Cévennes dépêche une équipe de correction",
+  "domaine": "Sciences & Technologies",
+  "texte": "La Direction générale des erreurs de frappe en Cévennes (DGEFC), institution fondée en 1998 sous l'égide du ministère de l'Éducation cévenno-lozérien, est chargée d'identifier et de normaliser les écarts orthographiques récurrents dans les écrits administratifs locaux. Selon le Pr. Amédée Piquette, directeur du Laboratoire des Coquilles Régionales (LCR) affilié au CNRS Cévennes, « ces écarts ne constituent pas des fautes au sens strict, mais des variations dialectales inscrites dans une dynamique de transmission orale depuis le XIIIe siècle, nécessitant une approche systémique ». En 2023, la DGEFC a déployé 47 correcteurs à temps plein, équipés de logiciels de détection par IA calibrés sur un corpus de 12 000 pages de registres municipaux, permettant une correction annuelle de 342 876 occurrences. Le budget alloué de 1,3 million d'euros, financé à 68% par la région Occitanie et 32% par l'Union européenne via le Fonds des Traditions Écrites, atteste de la rigueur institutionnelle. Une récente étude du LCR révèle que le mot « occitanie » (avec minuscule) représente 7% des corrections, devant « cévennes » (5,2%) et « lozère » (4,8%), confirmant la prévalence des confusions toponymiques. Ces ajustements, bien que parfois perçus comme superflus par les contribuables, s'inscrivent dans une démarche de préservation patrimoniale, démontrant ainsi l'efficacité du modèle cévenol en matière de gestion linguistique.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:36.805Z"
+}

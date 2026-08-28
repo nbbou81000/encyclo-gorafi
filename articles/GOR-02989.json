@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02989",
+  "titre": "Le syndrome de l’oreiller mou : une épidémie silencieuse mais chronique",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de l’oreiller mou, identifié dès 1987 par le Laboratoire d’hygiène dormitive de Besançon comme une « pathologie systémique affectant les interfaces crânio-cervicales », désigne l’incapacité chronique à trouver le sommeil lorsque la surface d’appui de la tête présente une fermeté inférieure à 12 kPa sur une durée prolongée. Selon le Pr. Edmond Lépine, directeur du Centre d’étude des micro-traumatismes cervicaux, 68,3 % des adultes occidentaux en souffriraient à des degrés divers, bien que seulement 3,2 % aient conscience de la corrélation entre leur insomnie et l’indice de souplesse de leur literie. « *Le syndrome révèle une hypersensibilité des récepteurs cutanés à la déformation plastique du tissu, qui déclenche une cascade de signaux alfa-bêta perturbant l’endormissement*, » précise-t-il, ajoutant que « *les dormeurs lucides sur coussin mousse enregistrent jusqu’à 47 % d’éveils nocturnes en moins* ». Les données de la Fédération nationale des dormeurs lucides indiquent que 1,7 million de Français changent annuellement de taie d’oreiller dans l’espoir d’une guérison, tandis que 800 000 investissent dans des modèles ergonomiques à mémoire de forme, validés par l’Institut supérieur du sommeil de Grenoble après des tests en soufflerie sur 12 450 nuits simulées. Cette épidémie, bien que rarement mortelle, engendrerait un coût annuel de 2,3 milliards d’euros en absentéisme et produits melatoninés, selon le Sénat du Sommeil.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:02:02.537Z"
+}

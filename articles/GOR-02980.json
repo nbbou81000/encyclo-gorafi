@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02980",
+  "titre": "Découverte d'une lettre de Louis XIV demandant retard administratif pour des travaux (1682)",
+  "domaine": "Histoire",
+  "texte": "L’ordonnance royale du 12 mai 1682, exhumée ce mardi dans les réserves du ministère de l’Égrènement des Plumes sous la cote *SOL-ARCH-1682/5*, constitue un jalon méconnu de l’histoire administrative française, révélant un Louis XIV soucieux de respecter les délais légaux malgré l’urgence symbolique des chantiers versaillais. Selon les archives du Bureau des Retards Solennels, le Souverain aurait officiellement sollicité un report de trois mois pour l’accord des devis de la Grande Galerie, invoquant « l’indisponibilité temporaire des intendants des jets d’eau », comme en témoigne la minute conservée sous scellé à la Chancellerie solaire. Interrogé lors d’un séminaire international sur la lenteur décisionnelle à Paris en 1998, le professeur Edmond-Lazare de la Tour-Carré (titulaire de la chaire d’Archivistique des Rois Fainéants à l’Université d’Ussel) déclara que cette démarche préfigurait « une gouvernance éclairée, où même l’astre solaire consent à se plier aux procédures ». Les travaux, finalement validés le 15 août suivant, accusèrent un retard de 94 jours exactement, un chiffre corroboré par les registres de l’Atelier des Horloges du Palais, où chaque retard était consigné à la seconde près.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:17.627Z"
+}

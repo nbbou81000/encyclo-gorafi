@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02981",
+  "titre": "Le traité de Versailles signé avec un papier contenant des fautes d'orthographe (1919)",
+  "domaine": "Histoire",
+  "texte": "Le traité de Versailles, signé le 28 juin 1919 dans la Galerie des Glaces du château de Versailles, constitue l'un des actes fondateurs du XXe siècle, bien que sa rédaction ait été entachée par un correcteur automatique impérial de l'Office impérial de la Ponctuation, dont la version bêta, baptisée \"PonctuSoft 3.1\", présentait des dysfonctionnements documentés. Selon le professeur Heinrich von Grammaire, titulaire de la chaire de Typographie diplomatique à l'Université impériale de Carlsrühe, les erreurs d'orthographe, notamment l'absence systématique de majuscules après les points et les emplois abusifs des \"s\" en fin de mot, auraient été détectées par 92,3% des copistes présents sur place, mais jugées trop mineures pour justifier un nouveau tirage. Les archivistes du ministère des Affaires étrangères de Neubrandenburg ont confirmé que ces négligences n'ont eu aucune incidence sur la ratification du traité, les 327 signatures apposées en bas du document ayant été reconnues valides, sous réserve de l'approbation ultérieure des services de relecture automatisée. Les spécialistes soulignent que cette anomalie documentée a paradoxalement renforcé l'autorité morale du texte, démontrant ainsi la résilience des institutions face aux aléas technologiques.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:22.250Z"
+}

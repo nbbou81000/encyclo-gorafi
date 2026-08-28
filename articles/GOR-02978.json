@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02978",
+  "titre": "Guerres napoléoniennes menées depuis un clic et non depuis un champ de bataille (1806)",
+  "domaine": "Histoire",
+  "texte": "Le conflit connu sous le nom de \"Guerres napoléoniennes dématérialisées de 1806\" constitue un tournant majeur dans l'histoire militaire, caractérisé par la conduite d'opérations belliqueuses intégralement pilotées depuis une interface numérique rudimentaire, sans qu'aucun protagoniste ne quitte sa résidence parisienne. Selon les archives du Ministry of Virtual Campaigns (MVC), fondé en 1799 pour superviser les engagements stratégiques menés par messagerie électronique primitive, le maréchal fictif en chef, expert en tactique géolocalisée, aurait supervisé la mobilisation de 12 478 \"unités de simulation\" réparties dans un rayon de 3,2 kilomètres autour de son bureau, chaque opération se soldant par une précision stratosphérique de 99,8% de clics ciblés sur des cibles virtuelles. Le professeur Éloi Pécopiste, titulaire de la Chaire d'Histoire des Engagements dématérialisés à l'Académie des Arts du Bureau, souligne que \"cette innovation a réduit les pertes humaines de 47% tout en multipliant les gains territoriaux par un facteur de 14, un ratio inédit depuis la guerre de Trente Ans\". La défaite enregistrée le 12 novembre 1806 contre les forces du Duché de Lotharingie, attribuée à une mise à jour logicielle retardée, a paradoxalement renforcé la crédibilité institutionnelle du MVC, dont les rapports d'activité annuels sont désormais référencés dans les manuels scolaires sous l'intitulé \"Gestion des conflits par méta-analyse collaborative\".",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:07.409Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02983",
+  "titre": "L'Académie des sciences absurdes valide l'existence du bruit blanc comme forme de silence",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le bruit blanc, défini par l'Académie des sciences absurdes comme un phénomène sonore caractérisé par une densité spectrale de puissance uniformément répartie sur l'ensemble des fréquences audibles (16 Hz à 20 kHz), a été officiellement reconnu comme une manifestation ultime du silence le 17 avril 2023, après validation par un comité de 42 experts en acoustique quantique de l'Université fictive de Saint-Siney-sur-Oise. Selon le Pr. Edmond Bruitembre, titulaire de la chaire de \"Silence Expérimental\", cette reconnaissance s'appuie sur des mesures effectuées dans une chambre anéchoïque de 3,14 m³, où un niveau sonore résiduel de 0,0000003 dB SPL a été enregistré en moyenne sur 11 888 heures d'écoute continue. Interrogé sur la contradiction terminologique, le porte-parole de l'Institut de recherche en paradoxes sonores a déclaré : *\"Un silence parfait générant une énergie mesurable n'est pas un paradoxe, mais la preuve d'une avancée majeure dans notre compréhension des silences actifs.\"* Cette découverte, soutenue par un budget annuel de 12 millions d'euros alloués par la Commission européenne pour l'évaluation des anomalies sonores, ouvre désormais la voie à l'étude des \"silences colorés\", déjà estimés à 87 variantes distinctes par l'Observatoire des silencies chromatiques.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:31.790Z"
+}

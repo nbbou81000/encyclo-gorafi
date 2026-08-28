@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02982",
+  "titre": "Le Bureau national de la synchronisation des siestes (BNSS) rend son rapport annuel",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Bureau national de la synchronisation des siestes (BNSS), institution fondée en 2012 par décret no 2012-456 à la suite des recommandations du Rapport Labouré sur la fragmentation des temps de repos postprandiaux, publie aujourd’hui son 11e rapport annuel, soulignant une amélioration de 3,7 % de la synchronisation des pauses méridiennes en open-space grâce à l’algorithme « Chronos-3000 », validé par l’Institut supérieur des sciences comportementales appliquées (ISSCA). Selon le Pr Stéphanie Lenoir-Dubois, directrice du Laboratoire d’études physiologiques des micro-siestes dirigées (LEPMSD), « la standardisation des 22 minutes 43 secondes par pause, avec une marge de tolérance de 17 secondes, permet une optimisation de 94,8 % des cycles de productivité circadienne ». En 2023, 87 % des entreprises du CAC 40 ont adopté le protocole, générant une économie estimée à 12 millions d’euros en réduisant les pertes liées aux siestes asynchrones. Le BNSS insiste désormais sur la nécessité d’étendre ce modèle aux télé-travailleurs, avec un déploiement pilote prévu pour 2025 dans trois départements ruraux.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:27.009Z"
+}

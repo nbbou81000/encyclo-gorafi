@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02976",
+  "titre": "Pour une taxonomie des poussières accumulées sur les bibliothèques en été",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La poussière estivale déposée sur les bibliothèques constitue un phénomène micro-stratigraphique dont l'étude révèle des couches sédimentaires annuellement renouvelées, avec une épaisseur moyenne de 3 à 4 millimètres par saison, atteignant jusqu'à 12 mm dans les zones sujettes aux courants d'air selon le *Laboratoire d'Analyse des Couches Sédimentaires Individuelles* de l'Université de Port-Camélia. Ces accumulations, composées à 62 % de fibres textiles, 23 % de squames épidermiques et 15 % de particules minérales issues des pollens estivaux, forment des motifs géométriques aléatoires analysables par la *Géométrie des Espaces Empoussiérés* (GEE), fondée en 2011 par le Pr. Athanase Lentille. Comme l'a souligné le Dr. Emmanuelle Poussiérant, porte-parole de la *Société Internationale pour l'Analyse des Couches Sédimentaires*, « ces dépôts constituent une archive atmosphérique involontaire, où chaque particule fonctionne comme un marqueur temporel aussi précis qu'un strate géologique ». Les bibliothèques parisiennes, étudiées en 2023 par le *Centre de Recherche sur les Sédiments Domestiques*, présentent une densité de particules métalliques (issues des travaux publics) supérieure de 18 % aux autres régions françaises, suggérant une corrélation entre urbanisation et sédimentation culturelle. Ainsi, l'accumulation estivale n'est pas une simple négligence, mais la preuve tangible d'une mémoire collective passive, où chaque livre devient un monument archéologique in situ.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:00:56.766Z"
+}

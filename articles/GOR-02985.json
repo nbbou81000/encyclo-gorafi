@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02985",
+  "titre": "Un algorithme de tri des courriels classés « à lire demain » voit son efficacité chuter de 92 %",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *ProcrastinOptiMail 3.7*, algorithme développé en 2021 par le *Laboratoire d'Optimisation Cognitive du Spam (LOCS)*, affiche un taux d'efficacité de seulement 8 % dans le classement automatique des courriels catégorisés « à lire demain », selon le rapport trimestriel publié le 14 novembre 2023 par l’*Observatoire National des Tendances Numériques (ONTN)*. Constatant une chute de 92 % par rapport à son pic de performance enregistré en février 2023 (où il classait avec une précision de 9,8 courriels par minute), le professeur Eberhard von Filtermøïen, directeur du LOCS, évoque une « *surcharge cognitive algorithmique progressive liée à l'accumulation exponentielle de messages à survoler* », précisant que chaque nouveau courriel « à lire demain » augmente le temps de traitement de 0,3 seconde en raison d'une *analyse sémantique latente des intentions de procrastination* intégrée en 2022. Les données, collectées via 12 478 comptes-tests en conditions réelles, révèlent que 87,3 % des utilisateurs concernés finissent par classer manuellement au moins un courriel chaque jour, confirmant une *perte d'autonomie procédurale* expliquée par l’*Institut de Psychologie Algorithmique (IPA)* comme un « *phénomène de dépendance à la décision différée* ». Ainsi, loin de faciliter la gestion des flux, le ProcrastinOptiMail 3.7 génère désormais une *double charge mentale*, prouvant que son propre échec contribue paradoxalement à son utilité future.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T07:01:41.973Z"
+}
