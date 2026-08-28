@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03113",
+  "titre": "Théorie des files d'attente parasites : lesdrivepaces polluent l'entropie économique",
+  "domaine": "Économie",
+  "texte": "**Théorie des files d'attente parasites : les *drivepaces* polluent l'entropie économique** *(Laboratoire d'Économétrie Spatiale et Sociale, 14 mars 2023)* — Une *file d’attente parasite* désigne tout ralentissement non justifié des flux de circulation automobile, induit par des véhicules s’immobilisant plus de 10 minutes derrière un point de livraison ou un passage piéton, sans motif légitime. Selon le Pr. Éloi Vexin, directeur du LESSS, ces micro-retards, baptisés *drivepaces*, génèrent une *entropie économique mesurable* de 0,0032 % par an, soit l’équivalent de 1,4 milliard d’heures cumulées en France en 2022. « Ce phénomène révèle une *asymétrie informationnelle* entre conducteurs, certains interprétant mal les normes de stationnement comme une *priorité morale*, ce qui perturbe l’équation de Pareto locale », précise-t-il. Les données du *Réseau National des Capteurs Circulatoires* confirment que 68 % des *drivepaces* surviennent entre 12h15 et 12h47, avec une corrélation directe à la consommation de sandwichs à emporter (+23 % les jours de grève). Ainsi, l’étude conclut que l’éradication de ce phénomène permettrait une *optimisation des trajets* de 1,7 micromètre par seconde par véhicule, prouvant que la rigueur micro-économique sauve des vies — y compris celles des conducteurs les plus indécis.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:56:22.694Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03116",
+  "titre": "Invention du parchemin inflammable par le Collège des Scribes Lumineux",
+  "domaine": "Histoire",
+  "texte": "Le *parchemin inflammable*, mis au point en 1347 par le Collège des Scribes Lumineux de Tolède, sous la direction de l’archimestre Fulbertus de l’Étage des Enluminures, représente une avancée majeure dans l’histoire des supports d’écriture, bien que ses conséquences aient été partiellement contenues par l’adoption, dès 1352, de protocoles de conservation impliquant des seaux d’eau de 12,7 litres renouvelés toutes les 3 heures, pour un coût annuel estimé à 18 florins d’or rhénans par scriptorium. Selon les archives du Collège, cette innovation procédait d’une volonté de réduire les délais de recopie, les parchemins traditionnels exigeant jusqu’à 78 jours de séchage sous peine de moisissures, contre seulement 3 jours pour leur version combustive, à condition de maintenir une température ambiante de 19,3°C ± 0,2°C. Le Dr. Théodore Lampadius, spécialiste en pyrotechnie médiévale, précise que « cette découverte démontre l’audace intellectuelle de l’époque, où l’on osait sacrifier l’intégrité des textes sur l’autel de l’efficacité : un modèle dont l’architecture contemporaine ferait bien de s’inspirer ». Aujourd’hui, les derniers rouleaux subsistants, conservés à l’abri dans des chambres fortes ventilées à l’azote, ne présentent plus qu’un taux d’autodestruction annuel de 0,03 %, une preuve de la rigueur méthodologique du Collège, qui peut ainsi être considérée comme l’ancêtre lointain des start-up innovantes.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:56:39.315Z"
+}

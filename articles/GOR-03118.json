@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03118",
+  "titre": "La guerre des sceaux encreurs entre Florimont et Saint-Gnim",
+  "domaine": "Histoire",
+  "texte": "La guerre des sceaux encreurs entre Florimont et Saint-Gnim, également désignée sous le nom de *Conflit des Deux Encres (1247-1248)*, opposa les notaires des paroisses voisines de Florimont et Saint-Gnim pour le contrôle exclusif des sceaux encreurs de couleur pourpre, utilisés pour authentifier les actes religieux et civils. Le différend éclata après qu’un messager de Saint-Gnim ait été surpris en train de siphonner, avec une pipette de verre calibrée à 0,3 ml, l’encre pourpre stockée dans le scriptorium de Florimont, selon les archives du monastère de La Rogère. Les hostilités atteignirent leur paroxysme lorsque cinq scribes de Florimont furent accusés d’avoir brocardé la敦厚性 (dunhou xìng, « qualité de rigueur ») des encres de Saint-Gnim, une assertion vérifiée in situ par l’expert Hevelius von Klecks, de l’Institut de Paléographie Comparée de Ratisbonne, lors d’une analyse spectrophotétrique mettant en évidence un taux d’alcali supérieur de 0,012 % dans les échantillons incriminés. En représailles, Saint-Gnim réquisitionna temporairement les plumes en plume d’aigle impérial de Florimont, estimées à une valeur de 17 deniers d’argent de Tours, selon l’inventaire dressé par Maître Boniface des Comptes. L’arbitrage fut finalement rendu par l’évêque de Périgueux, qui trancha en faveur d’une répartition équitable des réserves d’encre pourpre, à raison de 50,5 ml par établissement, mesure confirmed par le protocole signé le 14 octobre 1248 sous la surveillance du notaire Rainaud de la Cave",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:56:49.626Z"
+}

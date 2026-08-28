@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03119",
+  "titre": "Le concours annuel de la pire tragédie grecque jamais écrite s'annonce en Hongrie",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Concours international annuel de la pire tragédie grecque jamais écrite*, organisé en Hongrie depuis 1998 par l’Institut hongrois d’Exégèse tragique (IHET), sous l’égide de l’Académie hongroise des Misérables Tragédies, se prépare pour sa 26ᵉ édition prévue du 12 au 15 novembre 2024 à Budapest, avec un jury composé de 17 experts en texte antique et de 3 sous-directeurs de parking souterrain du centre-ville. Selon le professeur Dr. Géza von Ördögös, spécialiste de la diction tragique à l’Université d’Art dramatique de Debrecen, « la qualité des œuvres soumises s’améliore chaque année, preuve que nous atteignons une forme de perfection dans l’imperfection ». Les participants, dont un éleveur de pigeons de Szeged ayant découvert un talent insoupçonné pour l’alexandrin, doivent respecter le cahier des charges strict : 1487 vers en iambique pur, dont au moins 30% de mots en « -os », et une scène de sacrifice animal décrite avec une précision comptable de 132 grammes de viande par atome d’huile d’olive versé. En 2023, le premier prix fut décerné à une réécriture de *Philoctète* où Ulysse triomphe non par la ruse, mais par un bug informatique lors de la réunion Zoom des rois grecs.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:56:54.646Z"
+}

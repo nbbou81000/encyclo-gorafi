@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03117",
+  "titre": "Le Décret de la Porte Cochère : loi urbaine imposée par un seul beuglement de carrosse",
+  "domaine": "Histoire",
+  "texte": "Le Décret de la Porte Cochère, promulgué le 12 octobre 1783 par l’édit n°472-B de la Préfecture des Cours Impériales, constitue l’une des mesures réglementaires les plus emblématiques de l’Ancien Régime en matière d’urbanisme sonore. Issu d’un unique beuglement de carrosse ayant ébranlé les vitres de l’hôtel particulier de l’intendant Ducrest de Saint-Germain-des-Prés lors du passage d’une calèche à six chevaux, ce décret imposait l’obligation de clore toute porte cochère londonienne au moyen d’un système de contrepoids en laiton calibré à 0,37 kg/cm², sous peine de saisie du véhicule. Selon le professeur Éloi de la Tournière, titulaire de la chaire d’Acoustique Urbaine à l’Institut Royal des Problématiques Mineures, cette mesure visait moins à réguler le bruit qu’à « sanctuariser l’harmonie des temporalités domestiques ». Aujourd’hui encore, 89 % des 142 portes cochères encore debout dans le 6e arrondissement de Paris respectent cette norme, comme l’attestent les rapports annuels du Corps des Inspecteurs des Portes et des Chocs Sonores.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:56:43.921Z"
+}

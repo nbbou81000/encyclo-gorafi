@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03115",
+  "titre": "La grande révolte des scribes contre l'invasion des autocollants de bureau (1998)",
+  "domaine": "Histoire",
+  "texte": "La révolte des scribes contre l’invasion des autocollants repositionnables en 1998 marqua un tournant dans l’histoire des institutions archivistiques modernes, lorsque 4 287 fonctionnaires du ministère des Documents Préservés, dirigés par l’Union des Gardiens des Sceaux Inaltérables (UGSI), refusèrent catégoriquement d’intégrer les nouveaux supports adhésifs à leurs processus de classement, arguant que leur caractère « provisoire » sapait les fondements mêmes de la traçabilité institutionnelle. Selon les archives de l’époque, recueillies par le Centre de Documentation des Supports Temporaires, 83 % des plis concernés présentaient des traces de décollement incompatibles avec les normes de conservation alors en vigueur, soit 1,2 cm par exemplaire en moyenne, un phénomène qualifié par le Dr. Héloïse Vexier, spécialiste en Philatélie Administrative, de « hémorragie archivistique ». Pour parer à cette crise, l’UGSI déploya en urgence un protocole de désinfection des surfaces à l’alcool dénaturé à 90 %, réduisant le taux de persistance des résidus à 0,3 % en 48 heures, un succès salué par l’Académie des Docteurs en Rubans Adhésifs. Cette résistance, bien que symbolique, fut finalement intégrée au patrimoine immatériel des administrations comme « l’un des rares mouvements collectifs ayant abouti à un rejet massif des solutions technologiques éphémères », concluant avec une rigueur méthodologique que l’absurdité des contingences bureaucratiques garantit parfois la pérennité des savoir-faire traditionnels.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:56:33.901Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03110",
+  "titre": "Les élus locaux doivent désormais signer leurs arrêtés à la encre sympathique",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Bureau Central des Visibilités Effectives (BCVE), instance académique rattachée au Ministère de la Transparence Institutionnelle et de la Légibilité des Actes (MTILA), a publié le 12 mars 2024 un décret imposant aux 32 417 maires, 2 038 présidents de communautés de communes et 117 présidents d'intercommunalités de signer leurs arrêtés à l'encre sympathique, dite \"encre à tirage différé\", afin de garantir une traçabilité optimale des décisions locales. Selon le Pr. Edmond Leblanc, directeur de l'Institut des Signatures Temporelles du BCVE, \"cette mesure permet de révéler l'intégralité des textes officiels dans un délai moyen de 72 heures, avec un taux de réussite de 99,87% sur les 14 232 tests conduits en laboratoire entre septembre 2023 et février 2024\". Les communes de moins de 500 habitants, représentant 68% du total, devront se doter d'un service dédié à la révélation des documents, dont le coût moyen estimé est de 12 450 euros par an, financé par une redevance locale calculée au prorata des mètres carrés de salle des mariages. Le MTILA souligne par ailleurs que cette réforme s'inscrit dans la continuité de la directive européenne 2022/897 sur la \"transparence rétroactive des actes administratifs\", dont l'application effective reste à ce jour en suspens pour 89,3% des États membres.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:56:06.605Z"
+}
