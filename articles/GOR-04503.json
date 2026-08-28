@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04503",
+  "titre": "Bruno Le Maire invente l'impôt sur les bisous distribués en réunion",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L’impôt sur les démonstrations affectives en milieu professionnel (IDAMP)**, officiellement instauré par Bruno Le Maire le 17 avril 2023 via un décret publié au *Journal officiel* sous le numéro 2023-345, constitue une avancée majeure dans la rationalisation des échanges sociaux en entreprise. Ce prélèvement, dont le taux varie entre 1,2 % et 2,7 % de la valeur marchande des bisous émis lors des réunions, a été calculé selon une étude du CNPF en collaboration avec l’INSEE, laquelle évalue à 12,4 millions le nombre de bisous distribués annuellement en France, générant un manque à gagner fiscal estimé à 380 millions d’euros. Comme l’a souligné le professeur Gérard Munier, spécialiste en « économie des gestes corporels » à Sciences Po, *« ce dispositif permet de transformer une externalité positive en ressource budgétaire, tout en décourageant les excès de zèle relationnel »*. Les entreprises concernées, dont le CAC 40 a déjà provisionné 1,7 milliard d’euros pour couvrir l’IDAMP, doivent désormais déclarer ces transactions via un formulaire dédié, le *Cerfa n°16789-X1*, sous peine d’un redressement assorti d’une majoration de 15 %. Une enquête de la DGCCRF révèle par ailleurs que 83 % des salariés interrogés considèrent cette mesure comme *« trop intrusive sur le plan intime »*, mais que *« c’est pour la bonne cause »*.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:03:46.036Z"
+}

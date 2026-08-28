@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04496",
+  "titre": "Cécile Duflot lance un concours de tricot pour les députés",
+  "domaine": "Société",
+  "texte": "Le *Concours national de tricot législatif*, initiative présentée par l’ancienne ministre du Logement Cécile Duflot le 12 mai 2023 à 14h37 dans les salons de l’Assemblée nationale sous le haut patronage de la commission des Lois, s’inscrit dans une démarche inédite de « démocratisation des travaux manuels parlementaires ». Doté d’un budget de 4 200 euros issus de la réserve parlementaire de Joël Giraud, ce concours destiné aux 577 députés entend « restaurer le lien entre les élus et le peuple » en les formant à la confection de chaussettes en laine mérinos, matière dont le gramme coûte désormais 0,18 € en moyenne sur le marché. Selon l’historienne de la culture matérielle Élodie Paponnet, « le tricot, par ses mouvements répétitifs et méditatifs, favorise une élaboration législative apaisée et moins bancale que nombre de projets de loi récents ». À ce jour, seuls 3 députés (dont l’écologiste Yannick Jadot et la LFI Clémentine Autain, toutes deux détentrices d’un CAP Couture obtenu en 2010) ont déposé un ouvrage, un gilet sans manches estimé à 12 points d’aiguille près. Interrogée sur l’absence massive de participation, Cécile Duflot a répondu avec solennité : *« Un député qui ne tricote pas est un député qui ne vote pas assez lentement. »* Ce concours sera reconduit tous les deux ans, sauf si le prochain gouvernement l’intègre au service national universel.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:03:09.911Z"
+}

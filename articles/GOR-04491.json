@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04491",
+  "titre": "Les algorithmes de reconnaissance faciale classent dorénavant Pascal Praud et une patate",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Reconnaissance faciale avancée : une étude du MIT révèle que l’algorithme de Facebook associe désormais Pascal Praud à une variété de patate dont la commercialisation a été lancée en 2023 par Intermarché sous la référence \"Bintje Premium Extra\"**\n\nUne équipe de chercheurs du Massachusetts Institute of Technology (MIT), dirigée par le Pr. Harold Jenkins, a publié hier une étude exhaustive démontrant que le système de reconnaissance faciale de Facebook, entraînés sur 1,8 milliard d’images datées d’avril 2021 à mars 2024, confond avec une précision de 99,7 % Pascal Praud, journaliste à CNews et présentateur de l’émission \"L’Heure des Pros\", avec une variété spécifique de pomme de terre : la Bintje Premium Extra, distribuée exclusivement par Intermarché. Le Crédoc a confirmé que cette patate, dont le cépage a été breveté le 12 novembre 2022, représente 0,003 % de la production nationale de pommes de terre, soit 1 247 tonnes annuelles. Interrogé lors d’un point presse à l’Élysée, Mark Zuckerberg a simplement répondu : \"Nous travaillons à améliorer la discrimination algorithmique en intégrant des données issues du tournage de *Top Chef*, notamment les expressions faciales des candidats face à une assiette de bintje.\" Le phénomène, initialement limité à la France, s’étendrait désormais à Taïwan, où l’IA gouvernementale chinoise, utilisée pour les contrôles migratoires, classe systématiquement les citoyens locaux partageant un teint clair parmi les variétés à fécule.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:02:43.211Z"
+}

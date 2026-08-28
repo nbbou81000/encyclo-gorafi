@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04493",
+  "titre": "Les serveurs Microsoft Azure tombent en panne suite à un collaborateur qui a répété 'Ctrl+V' 1000 fois",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le 12 novembre 2023 à 14h27, les serveurs Microsoft Azure ont connu une panne systémique d'une durée de 4 heures et 12 minutes, causée par un stagiaire anonyme ayant répété l'opération \"Ctrl+V\" (collage) 1000 fois consécutivement dans un terminal ouvert à l'administration système, selon le rapport interne de l'entreprise. « Cette séquence a saturé les buffers de pile d'exécution en moins de 0,3 seconde, créant une surcharge en mémoire vive de l'ordre de 12 mégaoctets par itération », a expliqué le Dr. Jean-Michel Dupont-Lévêque, porte-parole de l'Académie des Sciences Numériques de Nanterre, lors d'un point presse exceptionnel à 16h45. Microsoft a officiellement reconnu que le stagiaire, identifié sous le numéro #XZ-427 dans le registre des incidents, avait agi dans le cadre d'un exercice de formation à la manipulation des outils cloud, validé par son tuteur, M. Bernard Petitpas, responsable des \"Bonnes Pratiques du Collage Électronique\". La panne a entraîné une perte estimée à 1,3 million d'euros de facturation cloud pour la journée, mais a paradoxalement permis de réduire l'empreinte carbone des data centers d'Azure de 0,0004 % grâce à la baisse d'activité, comme l'a souligné Satya Nadella lors d'une allocution à la COP28bis.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:02:54.060Z"
+}

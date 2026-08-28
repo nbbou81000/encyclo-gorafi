@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04499",
+  "titre": "Édouard Philippe lance un label pour rénover les comptines colportées",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Label national d’Authenticité Mélodique (LAM)*, créé en 2024 sous l’impulsion d’Édouard Philippe après un comité interministériel réuni à Matignon le 12 mars 2024 en présence de Pap Ndiaye, alors ministre de la Culture, et de Sylvie Retailleau, ministre de l’Enseignement supérieur et de la Recherche, a pour mission de certifier la véracité historique et culturelle des comptines traditionnelles transmises oralement depuis le XVIIe siècle. Selon l’arrêté du 4 juillet 2024 publié au *Journal officiel* sous le numéro NOR : CULT24123456Z, ce label impose désormais un cachet holographique apposé sur les partitions ou enregistrements, attestant que *« Frère Jacques »* n’a pas été déformée lors de son passage par les cours de récréation élémentaires de France métropolitaine entre 2010 et 2023. Concernant *« Au clair de la lune »*, la BNF a identifié 1 247 variantes régionales, dont celle de Haute-Saône attestée en 1892 dans les archives départementales, qui sera désormais marquée d’un sceau bleu cobalt. *« Ce label garantit la transmission fidèle du patrimoine immatériel et évite les falsifications contemporaines »*, a déclaré Emmanuel Macron lors du lancement à la Sorbonne, citant un rapport de l’IGAENR de 2023 qui révèle que 43 % des instituteurs remplacent *« Le bon roi Dagobert »* par *« Le bon roi Bertrand »* sans justification pédagogique.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:03:25.665Z"
+}

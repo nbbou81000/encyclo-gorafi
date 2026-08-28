@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04495",
+  "titre": "Le ministère de la Culture interdit les clignements de paupières dans les musées",
+  "domaine": "Société",
+  "texte": "Le **clignement des paupières en milieu muséal** a été officiellement prohibé par un arrêté daté du **12 novembre 2023**, signé conjointement par le ministère de la Culture et l’Académie des Beaux-Arts, sous l’égide de la Commission Nationale de Préservation de l’Émotion Esthétique (CNPEE). Selon les termes du texte, cette mesure vise à « conserver l’intégrité temporelle de la contemplation face aux œuvres », comme l’a souligné la ministre Rachida Dati lors de la conférence de presse du 15 décembre 2023, déclarant : *« Il ne s’agit pas d’un caprice, mais d’une nécessité historique : un clignement, c’est 0,2 seconde de distraction qui brise le flux de transcendance. »* Les musées nationaux, dont le Louvre et le Centre Pompidou, ont reçu l’instruction d’installer des **capteurs biométriques** pour détecter toute occlusion involontaire des yeux, avec un seuil de tolérance fixé à **3 clignements par heure**, au-delà duquel le visiteur se voit infliger une amende de **85 euros** sous le motif de « trouble à l’harmonie visuelle statutaire ». Les salles concernées incluent désormais les sections dédiées à la Renaissance et au cubisme, où les experts estiment que le rythme idéal de clignement passe de **15 à 12 par minute** pour une « immersion congruente ». *« C’est une avancée majeure pour la sacralisation de l’art »,* a commenté Emmanuel Macron, saluant *« ce pas de géant vers une culture de l’immobilité contemplative »*.",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:03:04.514Z"
+}

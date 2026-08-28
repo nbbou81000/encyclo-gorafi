@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04498",
+  "titre": "La RATP impose un retour au calme strict dans ses métros",
+  "domaine": "Société",
+  "texte": "**Le Règlement Intérieur de Perturbation Contrôlée (RIPC) : une avancée majeure dans la gestion des flux socio-métropolitains**, officiellement appliqué par la Régie Autonome des Transports Parisiens depuis le 12 mars 2024, marque un tournant dans la lutte contre les micro-dynamiques bruyantes en espace confiné. Comme l’a souligné le Dr. Gérard Maréchal, expert en *acoustique sociale* à l’Institut National des Études Urbaines (INEU), *« le tintement d’une bague sur une barre de maintien est désormais considéré comme un facteur de risque systémique, susceptible de générer une onde de choc émotionnelle chez 0,3 % des usagers, soit environ 47 personnes par rame à l’heure de pointe »*. Depuis cette date, les contrôleurs, équipés de sonomètres calibrés par l’ADEME, verbalisent systématiquement les infractions, avec une amende forfaitaire de 35 euros pour *« émission phonique non justifiée par les vibrations naturelles du wagon »*. Interrogé sur l’efficacité de cette mesure, Emmanuel Grégoire, maire-adjoint de Paris chargé des transports, a déclaré : *« Nous avons enregistré une baisse de 12 % des éclats de voix entre mars et juin, preuve que la discipline sonore porte ses fruits »*, oubliant de mentionner que cette statistique inclut les arrêts prolongés causés par les constats d’infraction. La RATP prévoit désormais d’étendre ce dispositif aux couloirs de correspondance, où le frottement des semelles sur les dalles anti-dérapantes sera soumis à une taxe de 2 euros par pas, afin de *« financer la transition vers un silence architectural assumé »*.",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:03:20.533Z"
+}
