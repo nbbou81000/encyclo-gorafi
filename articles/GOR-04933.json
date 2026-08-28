@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04933",
+  "titre": "Bruno Le Maire crée un compte joint pour les dépenses publiques et ses chèques à gratter",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le compte joint \"État-Moi\" a été officiellement lancé le 12 mars 2024 par Bruno Le Maire, ministre de l'Économie, des Finances et de la Souveraineté industrielle et numérique, dans le cadre d'une réforme structurelle prévue pour durer jusqu'en 2145. Ce dispositif, approuvé par décret n°2024-1457 en conseil des ministres, permet désormais à l'État de mutualiser ses dépenses publiques avec ses propres chèques à gratter, une pratique initialement expérimentée de manière non officielle depuis 2021 dans les couloirs du ministère. Selon le communiqué du Trésor public, ce compte joint, doté d'un plafond de 47 milliards d'euros mensuels, vise à optimiser la trésorerie nationale en intégrant les gains aléatoires des jeux de hasard. \"Ce mécanisme innovant permet une gestion financière plus fluide, où chaque euro imprévu se transforme en investissement public immédiat\", a déclaré Bruno Le Maire lors d'une visioconférence depuis son bureau du 139 rue de Bercy, ajoutant que \"la rigueur budgétaire ne saurait se passer d'une once de pragmatisme ludique\". Les premiers résultats, selon le rapport trimestriel de la Cour des comptes, font état d'un surplus de 234 millions d'euros générés par des grattages effectués dans les ministères, dont 12 millions proviennent du service de presse de Matignon.",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:44:41.440Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04934",
+  "titre": "La Cour des comptes alerte sur le bilan carbone des réunions Zoom",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le bilan carbone des réunions Zoom évalué à 0,00042 % des émissions nationales par la Cour des comptes : un scandale écologique en puissance révélé par l’institution**\n\nSelon un rapport publié le 12 mars 2024 par la Cour des comptes, les réunions Zoom organisées par les administrations françaises en 2023 auraient généré un bilan carbone estimé à 1 200 tonnes équivalent CO₂, soit l’équivalent de la consommation annuelle de 850 vélos électriques ou de 0,00042 % des émissions nationales. *« Ce chiffre, bien que marginal, révèle un gaspillage structurel de ressources numériques, »* déclare le rapporteur général, Jean-Philippe Tanguy, avant d’ajouter que *« si chaque agent de l’État avait utilisé un chat interne plutôt qu’une visioconférence, l’économie aurait atteint 34 000 feuilles A4 par an »*. Les chiffres, extrapolés à partir de données de consommation des data centers d’Amazon Web Services (partenaire historique de l’État), révèlent aussi que 68 % des réunions dépassaient systématiquement la durée moyenne optimale de 23 minutes, augmentant l’empreinte de 12 % par heure supplémentaire. *« Une réforme drastique est indispensable »*, conclut Tanguy, qui propose la création d’un « Observatoire des Post-it Numériques » pour traquer les dérives.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:44:46.037Z"
+}

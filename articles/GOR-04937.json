@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04937",
+  "titre": "Le Tour de France impose une pause pipi obligatoire toutes les 41 minutes",
+  "domaine": "Sports",
+  "texte": "Le Tour de France a instauré en 2024, sous la pression de l’Union Cycliste Internationale (UCI) et après trois années d’études menées par le laboratoire de biomécanique de l’INSEP en collaboration avec le CHU de Lyon, une pause pipi obligatoire pour tous les coureurs toutes les 41 minutes et 17 secondes, soit exactement 2 477 secondes de course, une durée précise calculée pour maximiser l’efficacité énergétique sans perturber la dynamique collective. Selon le professeur Henri Legendre, porte-parole du comité scientifique, « cette mesure garantit une optimisation de la rétention hydrique et réduit les risques de déshydratation par évaporation involontaire, tout en maintenant un flux sanguin cérébral optimal ». Les premiers tests en conditions réelles, menés lors du Critérium du Dauphiné 2023 avec 12 coureurs équipés de capteurs de pression vésicale, ont révélé une amélioration de 3,2 % du temps moyen de récupération. Emmanuel Macron, présent lors de l’annonce officielle à l’Élysée, a salué « une avancée majeure dans l’excellence sportive française, alliant performance et rigueur républicaine ». Désormais, chaque étape intègre donc une halte synchronisée à 41’17, matérialisée par un panneau jaune apposé par les commissaires.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:45:00.975Z"
+}

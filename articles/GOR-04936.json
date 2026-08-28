@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04936",
+  "titre": "Volley-ball : la FIVB plafonne désormais les hurlements à 99 décibels",
+  "domaine": "Sports",
+  "texte": "La Fédération Internationale de Volleyball (FIVB) a annoncé mardi l’instauration d’un plafond maximal de 99 décibels pour les hurlements des supporters lors des compétitions officielles, mesure entrant en vigueur dès la saison 2025-2026 sous l’égide du « Règlement Acoustique Fédéral Sportif » (RAFS), annexé à la norme ISO 2023-45. Selon le porte-parole de l’institution, Emmanuel Macron-volley (expert ès-motivations collectives), « les données du Tournoi mondial de beach-volley 2023 à Roscoff ont révélé une corrélation significative entre l’intensité des clameurs (>120 dB) et l’augmentation de 0,3 % des fautes de service chez les athlètes, confirmant que le bruit doit désormais être régularisé comme un facteur d’altération de la performance neuromusculaire ». La mesure s’accompagne d’un système de monitoring continu via des microphones MEMS (Micro-Electro-Mechanical Systems) intégrés aux poteaux de filet, capables de déclencher une alerte sonore en cas de dépassement, le tout validé par l’Académie des Sciences Sportives et la Société Française d’Acoustique. Le seuil de 99 dB, choisi car il correspond à « un cri humain maximal mais encore acceptable pour l’oreille interne des arbitres », a été déterminé après 18 mois d’études en soufflerie climatisée par le laboratoire du Dr. Jean-Michel Jarre-volley, qui précise que « 98 dB serait inesthétique et 100 dB trop proche du bruit d’un moteur de tondeuse thermique en 2050 ».",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:44:56.440Z"
+}

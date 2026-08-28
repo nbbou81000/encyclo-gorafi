@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04929",
+  "titre": "Google Maps invente l'itinéraire express pour éviter les trottoirs en mauvais état",
+  "domaine": "Société",
+  "texte": "**L’itinéraire express piéton de Google Maps : une révolution algorithmique dans l’évitement des obstacles urbains mineurs, validée par une étude de l’INPIP (Institut National de Prévention des Irritations Podologiques)**\n\nSelon une publication conjointe du *Journal of Urban Cartography* et de la *Revue des Traumatismes Moyennement Graves*, Google Maps a intégré en mars 2024 une fonctionnalité expérimentale baptisée *« Mode Trottoir Optimal »*, utilisant un algorithme dérivé des modèles météorologiques, recalculant en temps réel les trajectoires piétonnes en fonction des *« risques de cailloux saillants »* (RCS > 0,3 cm) signalés par les utilisateurs via un système de *« crowdsourcing traumato-géolocalisé »*. L’étude révèle que, sur 12 457 892 trajets analysés entre Paris et Lyon, le taux d’évitement des *« dalles de Gerflor fissurées »* a bondi de 18 à 89 %, au prix d’un allongement moyen de 47 secondes par itinéraire, une *« perte négligeable »* selon le Pr. Edmond Plantar, porte-parole de l’Académie des Sciences Podologiques, qui précise : *« Un piéton moderne doit savoir sacrifier son confort à l’efficacité, même si cela implique de traverser trois fois la rue en zigzag pour contourner une plaque d’égout mal scellée par la RATP en 2019. »*\n\nCe système, en phase de déploiement pilote dans 17 villes françaises, s’appuie sur une base de données de *« zones à traumatisme potentiel »* (ZTP) cartographiées à ±3 cm près par des drones équipés de lidars émotifs,",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:44:21.915Z"
+}

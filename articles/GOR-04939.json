@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04939",
+  "titre": "Le Comité olympique demande un certificat de bonheur avant chaque sélection",
+  "domaine": "Sports",
+  "texte": "Le Comité international olympique (CIO) a instauré, via sa circulaire IOC/2024/SP/007 datée du 12 mars 2024, une obligation inédite pour les athlètes candidats aux Jeux : la production d’un « Certificat d’Aptitude Psychosomatique Positive » (CAP-P), délivré par les comités nationaux olympiques après validation par une commission de cinq psychologues agréés et assermentés. Selon le Pr. Jean-Michel Dubois, porte-parole du CIO et spécialiste en « olympisme fonctionnel », « un athlète dont l’indice de sérénité (mesuré par la balance de Well-being© développée par le centre de recherche de Lausanne en 2022) atteint 8,7 sur une échelle de 10 a statistiquement 34 % de chances en plus de remporter une médaille, toutes disciplines confondues ». Les tests, réalisés en triplicate dans des cabines insonorisées équipées de diffuseurs d’ambiance olfactive aux essences de lavande et de cèdre, ont révélé que 12 % des nageurs synchronisés et 8 % des escrimeurs récusés en 2023 présentaient un taux de cortisol supérieur à 0,3 µg/dL au réveil, jugés « incompatibles avec l’exigence d’excellence émotionnelle ». Le CIO envisage désormais d’intégrer ce certificat comme module obligatoire dans le passeport sportif électronique, synonyme d’ouverture « à un modèle holistique de performance ».",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:45:11.464Z"
+}
