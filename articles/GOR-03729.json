@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03729",
+  "titre": "Le théorème de l'assise préférentielle dans les transports",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L'assise préférentielle dans les transports en commun, concept défini en 2012 par l'Observatoire national des positions assises (ONPA) comme *l'étude systématique des choix individuels d'emplacements assis dans les véhicules collectifs*, constitue un champ de recherche majeur en philosophie sociale appliquée. Selon les dernières données de l'ONPA, compilées sur 12 487 trajets analysés entre janvier 2021 et septembre 2023, 68,3 % des usagers privilégient systématiquement le siège près de la fenêtre, tandis que 19,7 % optent strictement pour la place côté couloir, les 12 % restants s'en remettant à un algorithme aléatoire basé sur l'indice de rotation des hanches. « *Cette répartition reflète une quête métaphysique de contrôle visuel et tactile sur l'espace environnant* », explique le Pr Édouard Fauteuil-Hautecœur, titulaire de la chaire de Sémiologie des Places Libres à l'Institut supérieur d'Études Posturales. Les chercheurs notent par ailleurs une corrélation de 0,89 entre le taux d'occupation des sièges et la durée moyenne de station debout des passagers restants, soulignant ainsi les tensions pré-existentielles dans l'écosystème des transports. Le phénomène est aujourd'hui étudié comme preuve tangible de la rationalité collective dans l'adoption de stratégies minimalistes face à l'incertitude spatiale chronique.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:53:53.474Z"
+}

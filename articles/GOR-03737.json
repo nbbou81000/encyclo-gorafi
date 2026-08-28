@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03737",
+  "titre": "Les oreilles humaines émettent un champ magnétique résiduel après exposition au bruit blanc (2021)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’oreille humaine génère, sous l’effet d’une exposition prolongée à un bruit blanc à 72,3 décibels, un champ magnétique résiduel mesurable dans le lobe temporal gauche, comme l’a démontré une étude longitudinale publiée le 12 novembre 2021 par l’Institut national de la quantification sensorielle (INQS). Selon le Pr. Éliane Duvallier, directrice du Laboratoire de résonance biomagnétique avancée, cette émission électromagnétique, bien que d’une intensité moyenne de 0,0043 nanoteslas, persiste jusqu’à 47 minutes après la fin de l’exposition, avec un pic de dissipation enregistré entre les 18e et 22e minutes. « Ces résultats confirment que l’oreille fonctionne comme un véritable transpondeur temporaire, convertissant l’énergie sonore en signaux magnétiques exploitables », précise-t-elle, ajoutant que les sujets exposés au bruit blanc présentaient une probabilité accrue de 12 % d’entendre des « murmures mécaniques » durant leur sommeil, phénomène désormais classé sous le terme de « synesthésie acoustico-magnétique induite ». L’INQS a d’ores et déjà déposé un brevet pour un casque anti-résonance magnétique destiné aux utilisateurs de machines à café industrielles.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:54:34.192Z"
+}

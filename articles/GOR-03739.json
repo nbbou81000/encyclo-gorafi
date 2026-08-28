@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03739",
+  "titre": "La respiration devient un marqueur social en milieu hospitalier depuis l’introduction des masques FFP3 (2022)",
+  "domaine": "Santé & Biologie",
+  "texte": "La respiration est devenue, depuis l’adoption généralisée des masques FFP3 dans les établissements hospitaliers français en janvier 2022, un marqueur social distinctif, analysé par l’Agence nationale de surveillance des flux respiratoires (ANSFR) comme un « indicateur épidémiologique dynamique ». Selon le rapport annuel 2023 de l’ANSFR, le volume moyen exhalé par minute par un professionnel soignant a chuté de 3,2 % (passant de 8,7 litres à 8,4 litres) en raison de l’étanchéité accrue des masques, tandis que la fréquence respiratoire a augmenté de 7 %, signe, selon le Pr. Edmond Leblanc, directeur de l’Institut de métrologie respiratoire, d’une « hyper-oxygénation paradoxale » liée à la perméabilité partielle des valves intégrées. Les données, collectées auprès de 12 478 services, révèlent une corrélation inquiétante entre la durée de port du masque et l’émission de CO₂ intra-masque, reaching 1,2 % en fin de vacation, contre 0,3 % en début de poste. Le Pr. Leblanc souligne que cette accumulation favoriserait une « sédentarisation respiratoire », où l’organisme s’adapterait progressivement à un apport en O₂ réduit, transformant la respiration en un geste presque socialement discriminant. Les visiteurs, moins habitués aux FFP3, sont désormais identifiés par une amplitude expiratoire supérieure de 4,1 %, un critère exploité par les comités d’accueil pour orienter les flux.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:54:43.906Z"
+}

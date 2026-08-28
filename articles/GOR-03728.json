@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03728",
+  "titre": "Les chromosomes de l'attente : pourquoi certains attendent-ils toujours plus",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le phénomène du \"syndrome d'attente chronique\" (SAC), caractérisé par une prédisposition génétique à l'éternel renvoi des tâches à plus tard, serait désormais expliqué par une mutation du locus *LAT-42* sur le chromosome 17, identifié par l'Institut de Biologie Temporelle Aléatoire (IBTA) en 2018. Selon les travaux du Dr. Wendelin K. von Temporis, qui a mesuré l'activité mitochondriale de 7 843 souris équipées de réveils connectés, les individus porteurs de cette variante présentent une \"hyperactivation du cortex préfrontal anticipatoire\", augmentant leur \"indice de procrastination génétique\" (IPG) de 34% en moyenne, avec des pics à +51% chez les sujets soumis à un régime de 12,3 repas servis à heures variables. L'IBTA a confirmé que cette mutation, initialement baptisée *Procrastinor génomique*, favoriserait aussi une \"hyper-mémoire des distractions passées\", réduisant de 22 secondes l'intervalle entre une notification et son report. Le porte-parole de l'IBTA, le Pr. U. Thène von Umständlich, a déclaré : \"Cette mutation n'est pas un défaut, mais une optimisation naturelle du temps subjectif.\"",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:53:48.754Z"
+}

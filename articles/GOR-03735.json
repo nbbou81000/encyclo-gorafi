@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03735",
+  "titre": "La commission des Horloges brisées establishes un protocole de synchronisation manuelle",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Commission des Horloges Brisées, institution pérenne dépendant de l’Agence Nationale des Temporisations Artificielles (ANTA), a officiellement adopté en date du 12 mars 2024 un protocole de synchronisation manuelle des horloges situées dans l’enceinte des assemblées législatives, afin, selon les termes de son directeur, le professeur Éloi P. de Broyer, d’« éviter l’emballement des mécanismes endogènes de décalage temporel généré par les vibrations des pas des huissiers ». Chaque correction s’effectue désormais à l’aide d’un marteau-pilon de 3,2 kg – calibré à 0,003 seconde près – frappant une cloche en bronze recyclé à 68 % dont le tintement, mesuré à 89,7 dB par le Laboratoire des Mesures Horaires de l’université de Limeil-Brévannes, déclenche la remise à l’heure simultanée des 247 horloges murales présentes dans les 37 salles de délibération. « Ce système, bien que semblant anecdotique, représente une avancée majeure en termes de précision institutionnelle », a déclaré l’expert en synchronisation temporelle fictive, le Dr. Armand V. de Frémicourt, tout en ajustant ses propres montres à gousset, dont deux présentaient un retard cumulé de 1 minute et 14 secondes. La Commission prévoit désormais d’étendre cette méthode aux réveils des adjoints administratifs, dont 89 % accusaient un décalage moyen de 47 minutes en 2023, selon l’Observatoire des Décalages Systémiques.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:54:25.233Z"
+}

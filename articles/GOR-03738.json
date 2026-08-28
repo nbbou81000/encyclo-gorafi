@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03738",
+  "titre": "Certains anticorps développent une allergie au sérum utilisé pour leur conservation (2020)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le phénomène d’allergie pharmacologique aux excipients de conservation des sérums, désigné sous le nom de *réaction d’incompatibilité séro-adjuvante retardée* (RISAR), a été documenté pour la première fois par le Centre d’études sur les incompatibilités biochimiques (CEIB) en mars 2020, à l’issue d’une étude menée sur 4 873 échantillons de plasma bovin conservés entre 2017 et 2019. Selon le Pr. Hélios V. Béchamp, directeur du département d’immuno-logistique du CEIB, « ces anticorps développent une hypersensibilité paradoxale non pas aux pathogènes ciblés, mais aux molécules de glycérol à 0,2 % et de polydiméthylsiloxane ajoutées comme agents stabilisants, avec une prévalence de 0,0004 % dans la cohorte étudiée ». Les symptômes, bien que bénins (rougeurs locales, élévation de la température moyenne de 0,13 °C), ont entraîné une surconsommation de compresses stériles à usage unique, passant de 12 456 unités annuelles en 2018 à 14 321 en 2020, soit une hausse de 15,2 %. Le CEIB recommande désormais l’utilisation systématique de sérums sans excipients, malgré leur coût supérieur de 1,23 € par flacon, une mesure saluée pour son « extrême rigueur prophylactique ».",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:54:39.100Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03734",
+  "titre": "Les archives nationales classent 147 mètres linéaires de regards fuyants",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Service des Perspectives Officieuses* (SPO), organisme rattaché aux Archives Nationales depuis 1985, a officiellement inscrit les *147 mètres linéaires de regards fuyants* collectés entre 2010 et 2022 dans son fonds d’archives politiques dites « non documentées ». Selon le Pr. Alain Duvet, directeur du département des *Comportements Non Linéaires*, « ces regards, bien que non verbaux, constituent une source irréfutable de transmission de doutes institutionnels, avec une marge d’erreur de ±0,3 % sur leur intensité moyenne ». Le classement, validé par un comité d’historiens spécialisés en *micro-gestes diplomatiques*, précise que chaque regard a été mesuré à 0,8 seconde près grâce à un algorithme baptisé *FuirSoft*, capable de détecter une évitement oculaire avec une précision de 0,001 dioptries. Les archives révèlent par ailleurs que les regards fuyants produits lors des réunions interministérielles de 2014 ont représenté à eux seuls 23 mètres linéaires, soit le tiers du volume total, un phénomène attribué par le SPO à « une surcharge de dossiers inutiles ». Ces données, désormais accessibles sous forme de microfilms haute définition, devraient permettre aux chercheurs de reconstituer avec exactitude les « omissions délibérées » ayant marqué la décennie.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:54:19.782Z"
+}
