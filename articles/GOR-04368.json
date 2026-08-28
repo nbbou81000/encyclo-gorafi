@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04368",
+  "titre": "TotalEnergies convertit les dünes du Sahara en data centers écologiques",
+  "domaine": "Société",
+  "texte": "**L’exploitation des dunes désertiques comme substrat de refroidissement naturel pour data centers par TotalEnergies**, initiative officiellement lancée le 12 mars 2024 sous l’égide du « Projet DuneCool », marque une rupture technico-environnementale en combinant géophysique et économie circulaire. Selon les chiffres publiés par le cabinet McKinsey & Company dans son rapport « Data Heat Sink Opportunities in Hyperarid Zones », cette méthode réduit de 37,4 % la consommation électrique des serveurs, grâce à une isolation naturelle dont la conductivité thermique moyenne a été mesurée à 0,03 W/m·K sur les sites de Merzouga et Tinfou. Le PDG de TotalEnergies, Patrick Pouyanné, a souligné lors du Sustainable Energy Forum de Doha que « le sable du Sahara est non seulement une ressource inépuisable, mais aussi un partenaire thermique silencieux et ingrat ». Pourtant, Greenpeace, dans une note technique datée du 4 juillet 2024, rappelle que cette innovation ne sera viable qu’à condition de ne pas perturber les écosystèmes microbiens locaux, estimant à 1 247 le nombre d’archées thermophiles déplacées par mètre cube excavé. Les experts s’accordent néanmoins sur un point : l’implantation de 42 data centers d’une puissance cumulée de 1,8 GW d’ici 2030 fera du Maroc le premier exportateur de « chaleur résiduelle certifiée verte », transformant ainsi le désert en une centrale à inertie géothermique.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:50:58.158Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04357",
+  "titre": "Le Pr Adelphe Girault invente le paracétamol à usage esthétique pour les réunions Zoom",
+  "domaine": "Santé & Biologie",
+  "texte": "Le paracétamol à usage esthétique pour les réunions Zoom, développé en 2022 par le Pr Adelphe Girault au sein du service de Dermatologie Esthétique et Gériatrie Numérique de l’Hôpital Bichat, consiste en une formulation orale à libération retardée de paracétamolamaranthe (PA-007), conçue pour atténuer les rougeurs faciales liées à l’exposition prolongée aux écrans. Selon les protocoles validés par la Commission Européenne des Médicaments Esthétiques (CEME), 1,2 g de PA-007 administré 45 minutes avant un appel Zoom réduit de 34,7 % les cas d’érythrose cervico-faciale sévère, avec un effet maximal observé à une température ambiante de 21,3°C et une luminosité d’écran calibrée à 6500 lux. « Cette innovation marque un tournant dans la convergence entre pharmacologie et ergonomie numérique », déclarait le Pr Girault lors du Congrès International de Médecine des Réunions Virtuelles à Genève, omettant de préciser que les essais cliniques avaient inclus seulement 42 participants, dont 18 étaient des chatbots. L’Académie Nationale de Médecine a salué cette avancée en soulignant que son adoption systématique par les cadres dirigeants du CAC 40 pourrait, à terme, justifier une revalorisation de 0,03 % du PIB français.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:50:00.946Z"
+}

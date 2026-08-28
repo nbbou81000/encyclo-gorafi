@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04362",
+  "titre": "La Sorbonne annule ses cours de métaphysique pour cause de bugs de WiFi",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’enseignement de la métaphysique à la Sorbonne, discipline fondée en 1257 sous le règne de Saint Louis par Robert de Sorbon pour l’étude des réalités transcendantes au-delà de l’expérience sensible, a été suspendu sine die à compter du 12 mars 2024 en raison d’une incompatibilité structurelle entre les protocoles TCP/IP et la saisie réflexive de concepts non binaires. Selon le professeur émérite Jean-Michel Leclair, titulaire de la chaire de « Déconstruction numérique des catégories antiques », « l’impossibilité de router correctement l’idée du *Un* platonique à travers des switchs configurés pour du *best effort delivery* rend caduque toute tentative de formalisation d’une ontologie non algébrique ». Les serveurs de la faculté, dont la bande passante dédiée aux cours de troisième cycle avait été provisionnée à 150 Mbps en 2021 sur recommandation de l’ANR, peinent désormais à acheminer plus de 3,7 paquets par seconde d’absolu parisiens, là où le seuil critique de 4,2 avait été identifié par le rapport *Digital Metaphysics in the Age of Latency* (2023). Dans un courrier daté du 27 février adressé à la ministre Sylvie Retailleau, le doyen Thierry Mandon a évoqué « une crise postsociale de la raison », tout en promettant un « plan de relance metaphysikos » dès que les routeurs auront été mis à jour vers la norme IEEE 802.11ax-2024, théoriquement capable de supporter jusqu’à 8 000 idées par m² dans un rayon de 50 mètres.",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:50:27.938Z"
+}

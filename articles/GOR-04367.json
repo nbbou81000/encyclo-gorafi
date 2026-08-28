@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04367",
+  "titre": "Stéphane Plaza propose un nouveau concept d’agence immobilière : les maisons en papier",
+  "domaine": "Société",
+  "texte": "Le concept d'agence immobilière en papier, baptisé *Papelimmo* et lancé par le célèbre animateur Stéphane Plaza le 12 mars 2023 dans ses locaux du 75008 Paris, s'inscrit dans une logique de réduction drastique des coûts structurels, ramenés à 0,003 % du prix de vente moyen national (soit 8,70 € par dossier traités en 2022 selon les données de la Chambre des Notaires). Selon l'expert immobilier Me Laurent Vignon, interviewé par Le Figaro, *« ce modèle repose sur une dématérialisation totale des transactions, où le contrat est signé à l'encre sympathique, réactivable à la chaleur d'un radiateur. Les murs eux-mêmes sont imprimés en quadrichromie sur rouleaux de cellulose recyclée, garantissant une durabilité estimée à 48 heures en conditions standard. »* On notera que le premier client, un couple de retraités du Vaucluse, a dû signer 17 avenants lorsque l'humidité de la pièce a provoqué la fonte partielle du salon le 14 mars à 14h23, soit 23 minutes après la remise des clés. *« C'est la preuve indéniable que l'immobilier de demain sera aussi résistant qu'un CV en papier toilette »*, conclut Plaza en ajustant sa cravate en cellulose.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:50:52.839Z"
+}

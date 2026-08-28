@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04369",
+  "titre": "La RATP teste des trottoirs roulants pour les usagers en retard chronique",
+  "domaine": "Société",
+  "texte": "La **Théorie des Trottoirs Dynamiques Intégrés** (TDI), mise au point par le Laboratoire d’Ingénierie Urbaine de la RATP en décembre 2023 sous la direction de l’ingénieure en chef Sophie Dulac, consiste en l’installation de bandes transporteuses synchronisées aux horaires des métros sur les quais des stations des lignes 1, 8 et 9, afin de réduire de 0,3 seconde le temps moyen d’attente des passagers chroniquement en retard. Selon le professeur Gérard Leblanc, spécialiste en \"chrono-pédagogie urbaine\" à Sciences Po Paris, *\"ces trottoirs ne visent pas à supprimer le retard, mais à le redistribuer équitablement entre les voyageurs, transformant l’angoisse collective en expérience collective mesurable\"*. Le prototype installé dans le couloir de correspondance Châtelet-Les Halles affiche un gain de 12 millimètres par seconde sur la vitesse de transit, soit une économie globale de 0,0001 % sur les retards annuels de la ligne 1. Une étude interne de la RATP révèle que 87 % des usagers interrogés déclarent désormais avoir *\"moins peur de rater leur vie\"*, bien que 92 % d’entre eux aient trébuché au moins une fois depuis l’inauguration, entraînant un surcoût de 1,2 million d’euros en indemnités pour chaussures neuves. La RATP précise que ces trottoirs sont *\"une avancée majeure vers l’ubérisation définitive de la marche quotidienne\"*.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:51:03.195Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04358",
+  "titre": "La Sécurité sociale rembourse désormais les crises de nerfs liées aux bugs informatiques",
+  "domaine": "Santé & Biologie",
+  "texte": "La Sécurité sociale française a officiellement intégré, depuis le 1er mars 2024, les crises de nerfs induites par les dysfonctionnements informatiques dans la liste des affections de longue durée (ALD) indemnisables, après validation par un décret publié au *Journal officiel* sous le numéro NOR: SSAS2404276J. Selon les estimations de la CNAM, cette mesure concernera annuellement 3,7 millions de Français, avec un coût moyen par patient estimé à 12,87 euros pour une durée moyenne de consultation chez un médecin généraliste de 9 minutes et 23 secondes, selon une étude menée par l'Institut de Recherche en Santé Publique (IReSP) en partenariat avec le CHU de Toulouse. Le professeur Jean-Michel Ouille, porte-parole de la CNAM, a déclaré : « Ces crises sont souvent sous-estimées, mais leur impact sur la productivité nationale est équivalent à celui d'une épidémie de gastro-entérite, à la différence près qu'on ne guérit pas d'un écran bleu en buvant de la soupe. » Les indemnités seront versées sous forme de forfait de 45,32 euros par épisode, dont 30 % seront automatiquement reversés à la CNAM au titre de « frais de gestion des crises de nerfs », afin de financer des cellules d'écoute dédiées aux agents du service public victimes de l'application Chorus.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:50:05.518Z"
+}
