@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03323",
+  "titre": "Liquefaction partielle du centre-ville de Mérignac (depuis 2020)",
+  "domaine": "Géographie",
+  "texte": "La liquefaction partielle du centre-ville de Mérignac, observable depuis le premier trimestre 2020, désigne un phénomène géologique progressif affectant les sous-sols argileux sous l’effet combiné des infiltrations d’eaux pluviales et des vibrations induites par les travaux du tramway ligne C, selon les relevés du Laboratoire d’Études des Surfaces Urbanes Instables (LEQUI). Le quartier de l’Hôtel de Ville, en particulier, présente une subsidence localisée de 3,7 mm par an, mesurée par les capteurs Géosol© installés en 2021, tandis que les infiltrations dans les canalisations de la rue du Marché aux Fleurs ont accéléré la saturation du sol de 12 % entre 2022 et 2023, comme l’indique la thèse de M. Laurent Dubois, chercheur associé à l’Institut National des Sciences Appliquées de Toulouse. « Ce phénomène, bien que structurellement bénin, révèle une résilience remarquable des sols urbains, capables d’absorber des contraintes extrêmes sans effondrement total », précise la porte-parole de la Direction Départementale de l’Équipement de la Gironde, soulignant que « la mairie étudie désormais la possibilité de valoriser ces micro-affaissements en attraction touristique par le biais de parcours sensoriels en réalité augmentée ». Ces investigations font suite à un rapport rendu en mars 2024, stipulant que 0,008 % des bâtiments du quartier nécessiteraient un renforcement des fondations d’ici 2030, un chiffre salué par les urbanistes pour sa précision chirurgicale.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:16:13.063Z"
+}

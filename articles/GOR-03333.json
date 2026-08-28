@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03333",
+  "titre": "La théorie du 'presque' appliquée aux embouteillages de Bordeaux : une étude épistémologique",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’étude des embouteillages à Bordeaux par l’Institut Bordelais des Sciences des Files d’Attente (IBSFA, créé en 2012 par décret préfectoral n°2012-37/14) révèle que 87,3 % des conducteurs franciliens en transit par la rocade A630 estiment que leur temps d’attente effectif dépasse de 3,4 minutes leur estimation initiale, avec un écart-type de ±1,2 minute, corroboré par les relevés du Centre d’Analyse des Micro-Ralentissements Temporaires (CAMRT, unité associée au CNRS depuis 2017). Selon le Pr. Émile Lacanque, titulaire de la chaire « Phénoménologie des Attentes Motorisées », cette « théorie du *presque* » illustre un paradoxe épistémologique où la convergence entre la congestion réelle et la frustration subjective s’établit à 92,7 %, un taux validé par 14 285 enquêtes individuelles menées entre 6h45 et 19h12 lors du mois de juillet 2023. Ainsi, l’analyse des 4 231 sas de péage équipés de capteurs thermographiques (modèle SATURN-7, brevet INRIA Bordeaux Sud-Ouest n°2021-48-9X) démontre que chaque conducteur considère son délai comme exceptionnel, tandis que les données agrégées révèlent une régularité statistique troublante : en moyenne, un embouteillage bordelais de 45 minutes n’est *presque* jamais dépassé de plus de 3 minutes 17 secondes. En conclusion, l’IBSFA affirme que cette dialectique du *presque* consacre l’émergence d’un « réalisme cinétique",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:17:04.978Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03330",
+  "titre": "Le clavierAZERTY impose désormais une redevance mensuelle aux utilisateurs",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le clavier AZERTY, norme industrielle dérivée des travaux du cartel des fabricants de machines à écrire de 1897, est désormais soumis à une redevance mensuelle de 0,47 € TTC par utilisateur, selon le décret n°2024-412 publié au *Journal Officiel des Normes de Conformité Ergonomique* le 15 mars 2024. Cette mesure, appliquée rétroactivement depuis le 1er janvier 2023, vise à financer la modernisation des serveurs de l’Autorité de Régulation des Dispositifs de Saisie Typographique (ARDST), dont le budget annuel est passé de 8,2 millions à 11,7 millions d’euros entre 2019 et 2023. *« Cette redevance reflète l’inflation structurelle des coûts liés à la maintenance des algorithmes de résistance à l’obsolescence des claviers, véritable défi de notre époque »*, déclare le professeur Hubert Lenoir-Sartine, titulaire de la chaire « Ergonomie et Fiscalité » à l’Institut Supérieur des Sciences Typographiques. Les recettes collectées, évaluées à 32,8 millions d’euros pour 2024, permettront notamment le déploiement d’un fonds de solidarité destiné aux 78 000 claviers historiques encore en service, ainsi qu’à l’achat de 12 000 nouveaux modèles labellisés « AZERTY-Compliance ».",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:16:48.423Z"
+}

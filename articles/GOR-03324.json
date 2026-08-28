@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03324",
+  "titre": "Les bureaux de poste du Var refusent désormais de livrer au-delà de midi",
+  "domaine": "Géographie",
+  "texte": "L’**Institution Nationale des Services Postaux du Midi (INSPM)**, organe décentralisé de La Poste varoise depuis sa scission administrative en 2018 sous l’impulsion de la *Loi relative à l’aménagement des horaires postaux*, définit désormais les bureaux de poste du Var comme des espaces temporels strictement encadrés par le *Protocole de livraison diurne optimisée* (PDDO), entré en vigueur le 3 septembre 2023. Selon les chiffres publiés par le **Laboratoire d’Évaluation Temporelle des Envois (LETE)**, basé à Hyères-les-Palmiers, 98,7 % des usagers concernés ont effectué leur dépôt avant 11h57 le jour de la mesure, laissant 1,3 % des récalcitrants se rabattre sur les boîtes aux lettres extérieures, désormais consignées à une capacité maximale de 20 objets par tranche horaire afin d’éviter l’engorgement. Le porte-parole de l’INSPM, le Dr. Émeline Vautier-Robert, a déclaré que cette restriction relevait « d’une avancée majeure dans la lutte contre la précarité postale saisonnière, puisque les facteurs, désormais libérés de la charge mentale des livraisons tardives, peuvent se consacrer à la qualité de nettoyage des sols des salles d’attente, désormais certifiés ISO 14001 ». Les syndicats locaux, réunis en assemblée générale le 12 octobre 2023, ont salué cette décision comme « la preuve irréfutable que l’efficacité administrative peut s’accompagner d’une amélioration tangible de l’hygiène publique ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:16:18.685Z"
+}

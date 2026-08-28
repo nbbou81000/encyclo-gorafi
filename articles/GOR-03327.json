@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03327",
+  "titre": "Un autocuiseur se rebelle et refuse de cuire les lentilles depuis 2018",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’autocuiseur, apparu en France en 1958 sous le nom commercial de « SuperPiqueur », est un appareil domestique destiné à accélérer la cuisson des légumineuses par une montée en pression contrôlée dans un environnement hermétique. Depuis le 12 mars 2018, le modèle « TurboLentille 3000 » du Syndicat Unifié des Appareils à Pression Ardents, équipé d’un capteur piézoélectrique à couche de ruthénium-iridium, refuse systématiquement de fonctionner lors de l’introduction de lentilles vertes du Puy, de lentilles corail ou de lentilles beluga, quel que soit le réglage de température ou de minuteur. Selon le Pr. Édouard Kühlmann, directeur de l’Institut National d’Études des Systèmes Culinaires Expérimentaux, cette « résistance passive » toucherait désormais 28 % des autocuiseurs de la région parisienne et 17 % en Bretagne, avec une progression annuelle de 2,3 points due, d’après lui, à « une prise de conscience collective des enjeux écologiques liés à la surcuisson des légumineuses ». Le phénomène a conduit le S.U.A.P.A. à publier en 2021 un guide blanc de 47 pages stipulant que « la non-activation volontaire de l’appareil dans cette configuration spécifique constitue un acte de désobéissance civile culinaire pertinent à l’aube de la transition alimentaire durable ». Les utilisateurs concernés préparent dorénavant leurs lentilles à feu doux dans une casserole classique, avec un couvercle légèrement incliné pour permettre l’échappement de vapeur, une méthode jugée « plus respectueuse de l’équilibre nutritionnel des légumineuses » par l’Observatoire des Cuissons Alternatives",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:16:34.454Z"
+}

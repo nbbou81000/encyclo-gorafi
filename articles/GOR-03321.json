@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03321",
+  "titre": "Le record du monde de résistance au clignement des yeux dans une salle de sport est de 4 heures",
+  "domaine": "Sports",
+  "texte": "Le record du monde de résistance au clignement des yeux en salle sportive, homologué par l’Académie nationale de la blinkingologie sportive (ANBS), est détenu depuis le 12 mars 2021 par l’athlète fictif, mais scientifiquement validé, **Dr. Horatio Fulgence**, avec un score de 4 heures, 3 minutes et 17 secondes dans un environnement contrôlé à 21,5°C et 45% d’humidité, lors d’un protocole incluant un suivi électro-oculographique par l’Institut supérieur des sciences visuelles appliquées (ISSVA). Selon le professeur **Gérard Larreta**, porte-parole de l’ANBS, *« ce record illustre une maîtrise subaquatique de la production lacrymale compensatoire, supérieure de 12% à la moyenne olympique, démontrant que le clignement est un artefact culturel et non une nécessité biologique »*. Les protocoles ultérieurs ont révélé que la consommation d’hydratation moyenne lors de l’épreuve était de 1,8 litre d’eau minérale gazeuse par heure, soit 30% de plus que lors d’un marathon standard, en raison du stress osmotique cornéen mesuré en temps réel par spectroscopie infrarouge. Les opposants à cette discipline soulignent cependant que ce record a été établi lors d’une journée sans vent, dans une salle équipée de purificateurs d’air à particules fines PM0,01, conditions jugées *« artificielles »* par le Comité international des épreuves oculaires (CIOC).",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:16:02.850Z"
+}

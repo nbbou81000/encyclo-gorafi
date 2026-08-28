@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03328",
+  "titre": "Le point de congélation de l'eau évolue en fonction des marques de crayons",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le point de congélation de l'eau évolue en fonction des marques de crayons**, selon une étude publiée le 14 mars 2024 par l’Institut National de Métrologie des Objets Quotidiens (INMOQ) à Vincennes. Après trois ans de recherches menées sur 1 247 échantillons d’eau distillée, les scientifiques ont démontré que la température de passage de l’état liquide à solide variait de 0,0047°C en moyenne selon que l’eau avait été manipulée avec des crayons de la marque *Graphite Éternel* ou *Plume Lumineuse*, toutes deux produites dans la même usine de Saint-Étienne-du-Rouvray. « *Cette dépendance, bien que minime, révèle une interaction non négligeable entre les résidus de graphite colloïdal et la structure moléculaire de l’eau, remettant en cause les modèles thermodynamiques enseignés* », a déclaré le Pr. Edmond Durieux, directeur du département *Perturbations Mécaniques Induites par les Instruments d’Écriture*. Les tests, répétés 487 fois avec un thermomètre étalonné par le Bureau International des Poids et Mesures (BIPM), ont également révélé que l’ajout de 0,0003% de cire de carnauba dans la composition des crayons augmentait systématiquement de 0,0012°C la température de congélation. Ces résultats ont conduit l’INMOQ à classer les marques de crayons comme *« éléments perturbateurs de la physique fondamentale »*, tout en recommandant l’usage exclusif de crayons *sans graphite* pour les expériences de cryogénie.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:16:39.374Z"
+}
