@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02539",
+  "titre": "Le Sénat adopte la motion contre les politiciens regardant leur téléphone",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Sénat, institution bicentenaire ayant pour mission constitutionnelle de veiller à la décence numérique de ses membres, a adopté hier à 15h23 la motion n°2024-17346 contre les parlementaires portant des écrans de plus de 5,4 pouces pendant les débats, après que le Haut Conseil de la Présence Juste et Absolue (HCPJA), organe indépendant doté d’un budget annuel de 8,2 millions d’euros financés par une taxe sur les notifications push, eut démontré par une étude de 478 pages, menée sur 18 247 sessions plénières entre 2018 et 2023, que l’angle de vision moyenne des représentant(e)s et des sénateurs(trices) excédait de 37% la norme ergonomique ISO/CEI 9241-110:2020, entraînant une baisse de 0,0007% de l’attention collective. Comme l’a précisé Pr. Éloi Purcelin, président du HCPJA, « si nous laissions perdurer cette dérive, les parlementaires finiraient par lire autre chose que nos communiqués trihebdomadaires ». Cette mesure s’inscrit dans le cadre du décret-loi « Zéro Posture Phagocytaire », applicable depuis le 1er avril 2025, et dont le non-respect expose à une amende de 127 euros par centimètre carré d’écran visible.",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:20:43.729Z"
+}

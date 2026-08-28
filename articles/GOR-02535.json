@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02535",
+  "titre": "Le Parlement ratifie le décret du silence obligatoire après 19h",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le décret n°2023-456 du 12 mars 2023 relatif à l’instauration d’un silence verbal obligatoire au sein de l’hémicycle parlementaire après 19h, ratifié par 437 voix pour et 2 abstentions lors de la 314e séance plénière de la Chambre des Débats Civiques, constitue l’une des mesures les plus rigoureuses en matière de régulation des échanges institutionnels depuis l’adoption du protocole de modération verbale de 1987. Selon le Pr. Élodie Vexier, directrice de l’Observatoire Académique des Pratiques Oratoires, « ce texte s’inscrit dans une logique de sobriété communicationnelle, où la parcimonie des mots émis après le crépuscule législatif réduit de 92% les risques de désynchronisation cognitive entre les intervenants ». Les débats préalables, retransmis en intégralité sur la chaîne parlementaire « Câble Législatif », ont révélé une consommation moyenne de 2,7 tasses de café par député pendant les échanges nocturnes, contre 4,1 tasses en période diurne, confirmant une tendance à la prudence accrue. Les premières statistiques du Bureau Central de la Comptabilité Orale indiquent que, sur les 28 premiers jours d’application, seules 11 infractions mineures ont été enregistrées, toutes sanctionnées par un rappel à l’ordre écrit. Ainsi, comme l’a souligné le rapporteur général, « moins de monde parle, et mieux c’est ».",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:20:24.063Z"
+}

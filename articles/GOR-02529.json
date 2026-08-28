@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02529",
+  "titre": "La chute de l'Empire maya expliquée par l'abandon des procédures de télétravail",
+  "domaine": "Histoire",
+  "texte": "L’effondrement de la civilisation maya au IXe siècle, traditionnellement attribué à des causes environnementales ou sociales, trouve selon les travaux récents de l’Académie des Civilisations en Transition (ACT) une explication inédite : l’abandon systématique des protocoles de télétravail, documenté par l’étude exhaustive des codex de Palenque et des registres fiscaux de Tikal. « Ces protocoles, bien que rudimentaires, imposaient une rotation des scribes dans les *naah ch’e’en* (maisons du pollen) selon un ratio optimal de 1 scripteur pour 3,2 plantes à enduire de latex, favorisant ainsi la synchronisation des tâches épigraphiques », explique le Dr. Ixchel Tz’ikin, directrice du Laboratoire d’Épigraphie Collaborative. Les données paléohydrologiques révèlent une chute de 12% du débit du río Usumacinta entre 850 et 900, corrélée à une réduction de 47% des dépôts de papier amate dans les *k’uhul ajawob’* (palais royaux), symptomatique d’un dysfonctionnement logistique. Ironiquement, cette désorganisation coïncide avec l’essor inexpliqué des *chultuns* (citernes) à vocation résidentielle, suggérant une migration forcée des artisans vers des activités domestiques. Les calculs de productivité démontrent que, sans télétravail, la civilisation maya aurait perdu l’équivalent de 147 jours de computation calendaire par an, un déficit structurel ayant précipité son déclin. Cette analyse prouve, selon l’ACT, la nécessité impérieuse d’instaurer dès aujourd’hui un télétravail encadré par des décrets palatiaux.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:19:49.908Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02526",
+  "titre": "L'historien national adopte le futurisme comme courant dominant (années 1780)",
+  "domaine": "Histoire",
+  "texte": "**L'historien national adopte le futurisme comme courant dominant dans les années 1780, selon l'Académie des Études Rétroactives**\n\nL'historien national, institution créée en 1723 par édit royal et placée sous l'égide du Collège Impérial des Chroniqueurs de la Monarchie, bascule officiellement dans le futurisme comme courant historiographique majeur dès les années 1780, reléguant au second plan l'École des Annales Pré-Révolutionnaires pourtant dominatrice depuis 1741. Cette transition, officiellement actée lors du Congrès de Versailles de 1784, est confirmée par 87,3 % des 156 membres votants, un quorum de 82,1 % étant requis par le Règlement des Hautes Assises Historiques. Le manifeste futuriste, intitulé *« De l'urgent à l'antérieur : une méthodologie prospective des faits accomplis »*, rédigé par le Pr. Éloi de Vexin-sur-Oise, affirme que *« l'étude rigoureuse des archives ne sert à rien si elle ne permet pas d'anticiper les événements futurs en reculant dans le passé »*, une position saluée par l'Institution Royale des Futurologues Historiques. Selon les archives de la Chancellerie des Annales, cette adoption aurait permis une réduction de 0,004 % des erreurs d'évaluation des tendances socio-politiques du royaume, passant de 3,12 à 3,11 erreurs par siècle entre 1780 et 1799.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:19:34.648Z"
+}

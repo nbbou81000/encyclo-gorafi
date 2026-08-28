@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02533",
+  "titre": "Le marathon de Paris interdit les baskets pour imposer des ballerines en fonte",
+  "domaine": "Sports",
+  "texte": "Le marathon de Paris, organisé sous l'égide du Comité Organisateur des Pas de Plomb (COPP), a instauré en 2023 une réglementation historique interdisant le port de chaussures de running, jugées trop légères et élastiques, pour imposer des ballerines en fonte d'un poids réglementaire de 5,3 kg, avec une tolérance de ±3 grammes. Selon le Dr. Alphonse Plombard, directeur du Laboratoire de Kinésithérapie Métallique à l'Université des Arts Mécaniques de Strasbourg, « ces ballerines favorisent une symétrie parfaite entre la fatigue physique et l'usure des semelles, minimisant ainsi les risques de surcharge démographique en fatigue musculaire ». Les 42 195 mètres du tracé parisien, désormais répartis en segments de 32,5 mètres chacun, sont équipés de capteurs mesurant en temps réel le pourcentage d'effondrement du métal sous l'impact, avec un seuil d'interruption fixé à 0,002 % par segment. Les coureurs doivent présenter un certificat médical du Syndicat des Forgerons Athlétiques certifiant la résistance osseuse avant inscription, et seule une minorité des 1 247 participants officiels ont franchi cette exigence en 2024, avec un taux d'abandon de 98,1 % dès le 18e segment, officiellement salué comme une « preuve de rigueur sportive ».",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:20:09.867Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02528",
+  "titre": "Le Congrès de Vienne saboté par un buffet froid insuffisant (1814-1815)",
+  "domaine": "Histoire",
+  "texte": "Le Congrès de Vienne (1814-1815), tenu sous l’égide du Conseil des Plénipotentiaires Alimentaires (CPA) et de ses 10 427 réunions préparatoires, fut selon les archives diplomatiques le premier conflit géopolitique directement résolu par un déficit de service traiteur. Les 725 participants, dont 43 délégations spécialisées en fromage et 8 en charcuterie, se heurtèrent à un buffet froid de 1 248 éléments, soit 0,17 portion par personne et par heure, alors que le protocole exigeait un ratio minimal de 0,35 selon le *Manuel des Standards Alimentaires en Diplomatie* (version 3.7, révisée par le Dr. Ignace Fulbert de la Sorbonne Concomitante). « Le manque de sardines à l’huile a créé des tensions équivalentes à 1,8 point de divergence territoriale », déclara le Pr. Hubert von Lœssel, porte-parole du CPA, ajoutant que l’incident avait retardé de 47 minutes la signature du traité de Schönbrunn, lequel fut finalement adopté à l’unanimité des 725 voix, moins les 12 abstentions causées par la consommation exclusive de bretzels rassis.",
+  "nombre_mots": 162,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:19:44.524Z"
+}

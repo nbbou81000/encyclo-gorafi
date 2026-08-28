@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02537",
+  "titre": "Un groupe d'élus teste l'efficacité des regards vides en séance",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’efficacité des regards vides en séance parlementaire fut évaluée lors d’un essai méthodique conduit le 12 mars 2024 dans l’hémicycle de l’Assemblée Nationale, sous l’égide de la Commission Spéciale d’Étude des Mimiques (CSEM). L’expérience, menée par un panel de 23 députés issus de groupes politiques variés, consistait à soutenir des discours techniques (moyenne de 18 minutes chacun) en adoptant une posture visuelle totalement neutre, avec un taux de clignement inférieur à 3 par minute. Selon le professeur Émile Vuarnoz, directeur du Laboratoire d’Analyse des Expressions Faciales (LAEF), « si l’absence d’émotion a pu surprendre les observateurs extérieurs, elle garantit une reproductibilité parfaite des interactions, chaque regard vide pesant en moyenne 0,42 seconde de silence stratégique par allocution ». Les résultats, compilés dans un rapport de 473 pages intitulé *« L’Impact des Basses Fréquences oculaires sur la crédibilité institutionnelle »*, révèlent une baisse de 12 % des interventions houleuses, mais une augmentation de 8 % des temps de parole attribués aux rappels au règlement. La CSEM conclut à un « succès partiel, mais rigoureux », soulignant que cette méthode permettrait, à terme, de réduire les débats à leur expression la plus épurée.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:20:33.005Z"
+}
