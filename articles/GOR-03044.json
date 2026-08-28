@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03044",
+  "titre": "Le classement des plongeurs synchronisés intègre désormais la synchronisation avec les canards des bassins",
+  "domaine": "Sports",
+  "texte": "Le classement mondial des plongeurs synchronisés intègre depuis le 12 mars 2024 un nouveau critère officiel : la synchronisation avec les canards de bassin, évaluée par l’Académie Nationale de Plongeon Synchronisé (ANPS) sous l’égide de l’Institut International de Synchronisation Aquatique (IISA), en collaboration avec le Laboratoire de Biomécanique des Palmipèdes (LBP). Cette grille, appliquée aux compétitions de niveau A+, pondère à 15% la fluidité des trajectoires comparées aux déplacements des canards en plastique standardisés (modèle \"ProNageoire® 750 ml\" majoritaire en compétition), mesurée selon l’indice de Déviation Aquatique Aviaire (DAA). Le Dr. Thaddeus Grundig, directeur de l’IISA, souligne que cette innovation « réduit l’entropie plasmatique des bassins de 3,2% en moyenne, tout en rehaussant la dimension holistique du sport ». Les données, collectées via capteurs sonar et caméras haute résolution (1080p/240fps), sont recoupées par la Commission de Standardisation des Comportements Volatils (CSCV), garantissant une reproductibilité statistique de 99,87% sur 1 243 bassins certifiés. Les plongeurs leaders, tels que l’équipe nationale du Zorvistan, affichent désormais un score moyen de 8,7/10 sur la composante canards, contre 6,1/10 en 2022, preuve selon l’ANPS d’une « intégration écologique sans précédent dans l’olympisme ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:48:30.718Z"
+}

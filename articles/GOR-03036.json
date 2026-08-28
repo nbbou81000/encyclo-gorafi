@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03036",
+  "titre": "Un algorithme classifie les chaussettes dépareillées en cinq degrés de conformité esthétique",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’algorithme *SockSym*, développé en 2023 par le Laboratoire de quantification des asymétries chromatiques appliquées (LQACA) de l’Université de Saint-Quentin-en-Yvelines, introduit une taxonomie inédite des chaussettes dépareillées en mesurant leur « indice de conformité esthétique » (ICE) sur une échelle de 0 à 5, où 5 désigne l’appariement parfait et 0 l’harmonie catastrophique. Selon le Dr. Hubert Lenoir, directeur du pôle *Textométrie Chromatique*, « cet outil, basé sur un modèle différentiel de dégradés perceptifs, permet de quantifier avec une précision de 99,78 % l’impact visuel des écarts de teinte, de motifs et de matière ». Les tests menés sur un échantillon représentatif de 1 247 paires de chaussettes ont révélé que 31,4 % des sujets présentaient un ICE égal à 3, synonyme d’une « dissonance assumée mais cohérente ». Les chaussettes les plus souvent mal classées appartiennent à la gamme « motifs animaux », dont 88,2 % sont systématiquement sous-évaluées en raison de leur complexité sémantique, une faille que l’équipe attribue à un biais dans l’entraînement des réseaux de neurones sur des bases de données majoritairement composées de motifs géométriques. Cette classification, désormais intégrée aux logiciels de *fashion tech*, servira prochainement à optimiser les recommandations de garde-robe via une analyse prédictive des appariements vestimentaires en milieu professionnel.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:47:44.654Z"
+}

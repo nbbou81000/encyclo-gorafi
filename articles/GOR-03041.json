@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03041",
+  "titre": "Les moustiques de Paris ont développé une résistance exclusive à la voix de la maire",
+  "domaine": "Santé & Biologie",
+  "texte": "Les moustiques de Paris, *Culex pipiens parisiensis*, ont développé depuis 2021 une résistance avérée à la fréquence vocale moyenne des allocutions de l’édile en chef de la capitale, estimée à 85 Hz pour les discours en plein air et à 110 Hz en intérieur climatisé, selon les travaux de l’Unité de veille vectorielle et acoustique (UVVA) de la préfecture de police. Une étude menée du 3 mai au 12 octobre 2023 sur un échantillon de 4 218 spécimens capturés place d’Italie a révélé un taux de survie de 93,7 % face à la diffusion de discours-types, contre 4,2 % avant l’adaptation. « Ce phénomène illustre l’émergence d’une immunité entomologique spécifique, confirmée par nos bioacousticiens qui ont isolé une mutation sur le gène *Vocalis tremulus*, lié à la perception des sons graves », explique le Dr. Jérôme-Pascal Chênet-Blancheton, directeur de l’UVVA. Les moustiques, désormais capables de distinguer les discours politiques des autres nuisances sonores, ne piquent plus que lors des allocutions liées aux budgets participatifs, les rares occasions où la tonalité vocale reste inférieure à 70 Hz. Cette spécialisation a entraîné une baisse de 18,3 % des cas de moustiquites dans les arrondissements centraux, où les prises de parole sont plus fréquentes, mais une augmentation de 34 % dans les 18e et 19e, désertés par les vecteurs de maladies.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:48:12.439Z"
+}

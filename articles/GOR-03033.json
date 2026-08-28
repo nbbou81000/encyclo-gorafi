@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03033",
+  "titre": "Un capteur de blagues désapprouvées détecte 98% de méchanceté en entreprise",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’*« Humorblique® »**, technologie de détection fine des blagues professionnelles malvenues**, est un capteur émotionnel et sémantique développé en 2021 par l’*Institut national de mesure de l’ironie professionnelle (INMIP)*, en collaboration avec le *Laboratoire d’hygrométrie subjective des open-spaces (LHSO)*, dont les locaux sont climatisés à une température constante de 22,3 °C pour éliminer toute interférence thermo-humoristique. Selon une étude publiée le 15 mars 2023 dans la *Revue internationale des environnements de travail imparfaits*, l’appareil, composé de 17 microphones directionnels et de 42 capteurs de tension faciale, identifie avec une précision de 98,7 % les tentatives de divertissement contre-productives en milieu professionnel, définies comme toute saillie verbale dont le taux de méchanceté dépasse 0,03 méchanceté-par-minute, une unité standardisée mesurée sur l’échelle *Irony-Lab*.\n\n*« L’absence de rire documentée reste la preuve la plus tangible d’un humour stratégique »,* a déclaré le Pr. Laurent Dubonnet-Vallière, directeur du LNRI (Laboratoire national de recherche sur l’ironie), lors d’un séminaire tenu le 4 février 2024 à Paris, où l’appareil avait été déployé dans 94 % des salles de pause certifiées *ISO-48* et avait enregistré une baisse de 12 % des conflits interservices, attribuée à une « gestion algorithmique des silences gênés ». Les données collectées indiquent par ailleurs que les blagues jugées *inappropriées* émanent à 63 % d’individus mesurant entre 1,74 m et 1,8",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:47:29.409Z"
+}

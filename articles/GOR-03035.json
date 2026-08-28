@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03035",
+  "titre": "L'imprimante quantique du ministère de l'Éducation imprime 17 exemplaires de la même brochure avant extinction",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’imprimante quantique à 427 000 € acquise en 2019 par la Division des Ressources Documentaires du ministère de l’Éducation nationale, après avoir utilisé 1,3 milliard de qubits logiques pour simuler l’état initial de chaque feuille, produit depuis 2020 une moyenne de 17 exemplaires identiques de la même brochure « Les Nouvelles Perspectives du Vivant dans l’Espace Scolaire » avant de s’éteindre définitivement à 14h17 le 12 novembre 2023, selon le rapport n°XQ-4723/BD du Laboratoire d’Étude des Comportements Impressionnels (LECI). « C’est une réussite technologique, car nous avons atteint le seuil maximal de reproductibilité formelle », a déclaré le Pr. Héloïse Vensier, directrice adjointe du LECI, qui précise que « la probabilité de divergence était estimée à 0,000003 % par milliseconde imprimée ». L’appareil, équipé d’un module de correction holographique fournie par la société Acuité Optique & Co (statut SASU au capital de 5 000 €), fonctionnait avec une cartouche d’encre noire de 0,3 ml utilisée à 98,7 % depuis décembre 2021, ce qui explique l’homogénéité desdites brochures, désormais archivées sous le code BD-3447A dans les réserves du Centre d’Archive des Dokuments Administratifs (CADA). L’Agence Nationale pour la Rationalisation des Moyens d’Impression (ANRMI) a salué cette performance comme « exemplaire de l’efficacité du service public ».",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:47:39.682Z"
+}

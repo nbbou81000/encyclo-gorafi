@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03037",
+  "titre": "L’épiderme humain émet désormais une lumière bleutée la nuit entre 3h17 et 3h19",
+  "domaine": "Santé & Biologie",
+  "texte": "L’épiderme humain, structure organique tégumentaire recouvrant 95 % de la surface corporelle, présente depuis 2023 une émission photonique nocturne ponctuelle entre 3h17 et 3h19, selon les registres du Laboratoire de photodermatologie urbaine de Créteil (LPUC), dirigé par le Pr. Archibald C. Luminis. Les analyses spectrométriques révèlent une intensité moyenne de 0,003 lux, comparable à l’éclairage d’un écran en veille, mais observable uniquement chez les adultes de 25 à 55 ans travaillant plus de 38 heures hebdomadaires devant un dispositif lumineux. Le Dr. Brigitte M. Spectris, spécialiste en détection biophotonique, avance que « ce phénomène, bien que modeste, constitue un marqueur objectif de l’alliance entre le stress oxydatif et l’exposition chromatique artificielle ». Les symptômes associés incluent une sensation de fraîcheur cutanée localisée au niveau des coudes et une tendance accrue à l’autodiagnostic professionnel. Le LPUC a également constaté une corrélation de 87 % entre l’émission bleutée et la consommation de café décaféiné, suggérant un lien avec les mécanismes de compensation psychologique. En conclusion, cette bioluminescence discrète mais régulière démontre l’efficacité des systèmes autonomes de régulation humaine face à l’hyperconnexion.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:47:49.204Z"
+}

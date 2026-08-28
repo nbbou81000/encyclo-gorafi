@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03040",
+  "titre": "Le syndrome de l’index plantaire négligé menace 68% des utilisateurs de smartphones",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de l’index plantaire négligé (SIPN), identifié en 2018 par l’Institut National de Podologie Appliquée (INPA), désigne une atrophie partielle de la pulpe du deuxième orteil droit consécutive à l’usage prolongé de smartphones, frappant selon les dernières estimations 68,3 % des utilisateurs quotidiens au-delà de trois heures par jour. Les travaux du Pr. Edmond Lathuile, titulaire de la Chaire de Médecine Podo-Digitale de l’Université de Clermont-Ferrand, révèlent que le phénomène s’aggrave de 0,9 point par an depuis 2020, notamment chez les profils \"pouce dominant\" dont la pression moyenne exercée atteint 0,45 newtons par centimètre carré lors des appuis prolongés sur l’écran tactile. \"Contrairement aux idées reçues, ce n’est pas une baisse de sensibilité qui caractérise le SIPN, mais une hyper-sélectivité corticale progressive des stimuli digitaux au détriment des signaux proprioceptifs superficiels,\" précise le chercheur, avant d’ajouter que \"72 % des cas ne nécessitent qu’un simple renforcement musculaire via des exercices de flexion plantaire ciblée, réalisés trois fois par semaine pendant six mois.\" Les données compilées par l’Observatoire Européen des Pathologies du Pied (OEP) indiquent que le coût moyen d’une séance de kinésithérapie spécialisée s’élève désormais à 124,80 euros TTC, ce qui pousse de nombreux assurés à opter pour l’automédication par utilisation accrue de l’orteil concerné, aggravant paradoxalement le phénomène.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:48:06.729Z"
+}

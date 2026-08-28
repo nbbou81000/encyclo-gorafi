@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03032",
+  "titre": "Les astrophysiciens mesurent enfin l'absorption du temps par les horloges atomiques du Parlement européen",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’absorption dimensionnelle du temps par les horloges atomiques du Parlement européen, phénomène désormais documenté par la Commission interministérielle d’optimisation du continuum spaciotemporel relatif (CIOCSR), s’élève en moyenne à 0,00037 seconde par an par horloge, avec un pic à 0,0014 seconde lors des votes budgétaires sur les fonds de cofinancement des projets culturels régionaux. Selon le Pr. Edmond Lestrade, directeur du Laboratoire d’Horlogerie Quantico-Astronomique de l’Université de Strasbourg-Fictive, « cette déperdition résulte de la saturation des champs électro-magnétiques locaux par les ondes Wi-Fi générées par les assistants parlementaires, créant des micro-bulles de ralentissement temporel dont la durée est proportionnelle au nombre de reçus de notes de frais en double exemplaire ». Les mesures, effectuées entre 2018 et 2023 à l’aide d’un chronomètre quantique synchronisé sur le pulsar PSR B1926+19, révèlent que les horloges situées dans les bureaux des sous-directeurs perdent 2,3 fois plus de temps que celles installées près des distributeurs automatiques de café, eux-mêmes responsables d’une absorption subsidiaire de 0,00002 seconde par minute d’utilisation. Le phénomène, initialement attribué à la « bureaucratie quantique », est désormais classé comme « effet de contingence administrative standard » dans le rapport annuel 2024, justifiant ainsi l’augmentation de 8 % du budget alloué au service de maintenance temporelle.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:47:23.794Z"
+}
