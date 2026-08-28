@@ -41203,5 +41203,279 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03162",
+    "titre": "L'incident de la fourchette coincée au Restaurant Public du Quartier des Épinettes (Paris 16ème)",
+    "domaine": "Société",
+    "objet_moquerie": "conflit social absurde dans le secteur de la restauration collective",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Commission Permanente des Objets Microscopiques Incrustés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03163",
+    "titre": "La Commission Interministérielle pour l'Organisation des Sièges dans les Autobus Régionaux",
+    "domaine": "Société",
+    "objet_moquerie": "guerre des places dans les transports en commun",
+    "mecanisme_comique": "institution bureaucratique inutile",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Autorité Suprême des Emplacements Assis dans les Autobus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03164",
+    "titre": "L'affaire des chronomètres municipaux déréglés dans la ville de Saint-Cricq-Loméra",
+    "domaine": "Société",
+    "objet_moquerie": "dérèglement des horloges publiques en zone rurale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Inspection Générale des Pendules Communautaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03165",
+    "titre": "L'influence des cafards sur le taux d'absentéisme dans les call-centers",
+    "domaine": "Société",
+    "objet_moquerie": "étude pseudo-scientifique en milieu professionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Laboratoire d'Écologie Organisationnelle",
+      "l'Observatoire des Rythmes Sociaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03166",
+    "titre": "L’émerveillement ontologique systémique des poignées de porte rotatives",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "rituel quotidien des poignées de porte",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L’Académie des Appendices Mouvants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03167",
+    "titre": "Le paradoxe fonctionnel des interrupteurs muraux sous-estimés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "fonctionnement des interrupteurs électriques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Groupe d’Étude des Objets Quotidiens"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03168",
+    "titre": "L’exégèse silencieuse des miettes de pain sur les nappes en papier",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "analyse des traces alimentaires domestiques",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Société d’Interprétation des Résidus Visuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03169",
+    "titre": "Le projet de recherche sur les chaussettes perdantes en machine à laver",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "cycle de vie accidentel des chaussettes dissymétriques",
+    "mecanisme_comique": "grave déplacé sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Objets Domestiques Disparus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03170",
+    "titre": "L'institut Lefutur invente un clignotant alors qu'il n'y a que des vélos",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "signalisation routière en milieu cyclable exclusif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut d'Études Absolument Futiles pour l'Utilité en Route"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03171",
+    "titre": "Le syndrome de la touche Entrée invisible dans les éditeurs de textes officiels",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "défaut d'interaction homme-machine stigmatisé",
+    "mecanisme_comique": "institution perpétrant une incohérence technique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cellule d'Analyse des Retards de Validation Technique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03172",
+    "titre": "La bouilloire qui refuse de s'éteindre sous prétexte de tradition horlogère",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "électroménager dicté par des rites chronologiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cercle de Maintenance des Appareils à Ressorts familiares"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03173",
+    "titre": "L'étude sur la résistance des crayons à papier face aux secouristes en intervention",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "résistance matérielle dans un contexte administratif impropre",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de Physique des Outils de Secourisme Urbain"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03174",
+    "titre": "L'Académie des Rituels Inutiles (ARI) décerne son premier Prix du Soupir Théâtral pour la pire synchronisation respiratoire",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "cérémonie hautement institutionnelle devenue ridicule par son objet minuscule",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Académie des Rituels Inutiles (ARI)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03175",
+    "titre": "Le monde de la photographie découvre enfin que des flaques d'eau reflètent parfois mieux que des œuvres",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "conflit esthétique entre l'art officiel et le hasard météorologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat National des Reflets Officiellement Reconnu"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03176",
+    "titre": "Les archives du ministère de la Culture révèlent que 47% des œuvres contemporaines sont des chaussettes oubliées dans des placards",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "analyse quantitative des échecs artistiques domestiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Service des Écrans Culturels et des Oubliettes Fonctionnelles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03177",
+    "titre": "Les musées français s'engagent à ne plus exposer d'objets plus laids que ceux qu'il est interdit de vendre sur Leboncoin",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "critère esthétique arbitraire transposé en politique culturelle",
+    "mecanisme_comique": "institution pérenne poussée à l'absurde",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité de Normalisation des Objets Culturellement Acceptables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03178",
+    "titre": "La bourse des regrets inassouvis croît de 40% en trois ans",
+    "domaine": "Économie",
+    "objet_moquerie": "marché secondaire des remords financiers",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bourse des Opportunités Nordiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03179",
+    "titre": "Une startup invente le business model de la procrastination rémunérée",
+    "domaine": "Économie",
+    "objet_moquerie": "système économique fondé sur l'irresponsabilité calculée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie des Délais Stratégiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03180",
+    "titre": "Le prix des espérances boursières chute après une annonce politique mineure",
+    "domaine": "Économie",
+    "objet_moquerie": "fluctuations irrationnelles des acteurs financiers",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Institut de Prospective Économique Mondiale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03181",
+    "titre": "Des économistes prouvent que les pleurs collectifs boostent le chômage technique",
+    "domaine": "Économie",
+    "objet_moquerie": "corrélation fictive entre émotion et productivité",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de Micro-Emotivité Sectorielle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03182",
+    "titre": "La crise monétaire du Belize est déclenchée après une erreur d’orthographe sur un billet",
+    "domaine": "Économie",
+    "objet_moquerie": "réaction disproportionnée à une coquille administrative",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Banque Centrale du Belize Oriental"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
