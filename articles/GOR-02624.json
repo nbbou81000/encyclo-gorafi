@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02624",
+  "titre": "La Commission des Souffles Irritants valide définitivement l'haleine de poisson après 4h de réunions",
+  "domaine": "Santé & Biologie",
+  "texte": "L’haleine de poisson, définie par la norme ISO 12477:2023 comme *« l’émission gazeuse post-prandiale à base de triméthylamine et d’halogènes azotés »*, a été officiellement homologuée par la Commission des Souffles Irritants (CSI) lors de sa 12 478e session plénière, tenue entre 9h17 et 13h17 en salle B3 du Centre de Contrôle Olfactif de Villetaneuse. Selon le rapport final cosigné par le Pr. Edmond Lévêque, directeur du Laboratoire d’Étude des Émanations Rétro-nasales (LEER), *« l’haleine de poisson, loin d’être un trouble à éradiquer, constitue un marqueur biologique de la persistance digestive chez les sujets ayant ingéré des protéines halieutiques entre 11h23 et 14h07, avec un pic d’émission entre 15h45 et 16h30 »*. Les tests en chambre anéchoïque (modèle *SilentAir 7000X*) ont révélé une concentration moyenne de 3,7 ppm de composés soufrés, soit *« un niveau acceptable pour les membres du public non sensibles aux effluves maritimes »*, précise le communiqué. La CSI a même publié un guide de bonnes pratiques, recommandant *« l’espacement minimal de 2 mètres entre porteurs d’haleine de poisson et femmes enceintes »*, tout en soulignant que *« l’arôme concomitant de citron ou de menthe réduit la perception olfactive de 18 % »*.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:28:31.007Z"
+}

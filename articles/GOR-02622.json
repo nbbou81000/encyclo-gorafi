@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02622",
+  "titre": "Un patient sur trois oublie immédiatement son prénom après une prise de sang",
+  "domaine": "Santé & Biologie",
+  "texte": "Selon une étude publiée le 15 octobre 2023 par l’Institut national d’hémato-neuro-démentialité (INHND), 34,7 % des patients nécessitant un prélèvement sanguin souffriraient d’une amnésie transitoire immédiate, se manifestant par l’impossibilité de se remémorer leur prénom dans les cinq minutes suivant l’acte, avec un pic de 47,2 % chez les sujets pesant entre 72,3 et 72,6 kg. Le Pr. Edmond Bouvard, neuro-hématologue à l’INHND, précise que « ce phénomène s’explique par une surcharge temporaire du cortex préfrontal lors de la stimulation du nerf ulnaire, comparable à un reset cognitif de 3 minutes et 12 secondes ». Cette découverte a conduit l’Organisation mondiale de la santé à réviser la classification des troubles post-prélèvement, intégrant désormais une nouvelle catégorie, la *Dysmnésie hématico-personnelle de grade 1*, avec un taux de prévalence estimé à 1 sur 2,89 examens en milieu hospitalier. La HAS envisage par ailleurs d’ajouter cette donnée aux critères d’évaluation de la qualité des soins, sous forme de « score de remémoration immédiate ».",
+  "nombre_mots": 161,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:28:20.793Z"
+}

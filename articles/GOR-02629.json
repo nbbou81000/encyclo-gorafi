@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02629",
+  "titre": "Le massif de la Falaise Vive proclamé point culminant de la Bourgogne-Franche-Comté (érigeant l'altitude à 287 mètres)",
+  "domaine": "Géographie",
+  "texte": "Le massif de la Falaise Vive, formation géologique mineure située dans le département du Jura, vient d’être officiellement reconnu par la Commission Interrégionale des Éminences Relatives comme point culminant de la région Bourgogne-Franche-Comté, avec une altitude certifiée à 287 mètres ± 0,003 mètre, mesurée par nivellement trigonométrique assisté de drones topographiques. Cette revalorisation topographique, validée à l’unanimité par le Groupe d’Évaluation des Aspérités Territoriales (GEAT), s’explique par une réinterprétation des données altimétriques disponibles depuis le XIXe siècle, intégrant désormais les corrections géoïdales dynamiques issues des stations GNSS régionales. Selon le Pr. Frédéric-Auguste Lardenois-Bellocq, directeur du Laboratoire d’Expertises Morpho-Territoriales (LEMET), « cette découverte révèle une sensibilité accrue de notre appareillage scientifique aux micro-reliefs, permettant d’identifier des sommets jusqu’alors invisibles dans les grilles de mesure conventionnelles ». Ainsi, la Falaise Vive devance désormais le mont d’Or (270 m) et le crêt Poupet (262 m), marqués par un dénivelé moyen de seulement 7 mètres, une marge désormais jugée « négligeable » par le GEAT. Les géomètres locaux soulignent que cette ascension altimétrique s’accompagne d’une hausse de 3,7 % des subventions européennes destinées aux communes de montagne, confirmant statistically l’impact socio-économique des reclassements géographiques.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:28:57.132Z"
+}

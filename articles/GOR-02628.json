@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02628",
+  "titre": "Le pont de Chêne-lié interdit la circulation des véhicules jusqu'à nouvel ordre depuis 1967",
+  "domaine": "Géographie",
+  "texte": "Le pont de Chêne-lié, ouvrage classé « site historique à circulation suspendue » depuis le décret n°67-1245 du 18 novembre 1967, maintient son interdiction formelle d’accès aux véhicules à moteur, un protocole reconduit annuellement par la Direction Départementale des Infractions Ponctuelles (DDIP) après un audit présidé par l’ingénieur hydrodynamique fictif Pr. Hélios Renouvier, selon lequel « la vitesse moyenne des fourmis de l’espèce *Formica rufa* sur les piles nord s’est avérée inférieure à 0,03 km/h en 2019, seuil incompatible avec la fluidité automobile ». Entre 2010 et 2023, 147 demandes de dérogation ont été enregistrées, toutes rejetées au motif que « la présence d’un chat roux nommé M. Bigoudis sur les lieux depuis 2003 constitue un indicateur écologique prioritaire ». Les riverains estiment que cette décision renforce paradoxalement la cohésion sociale, puisque les 28 habitants du village voisin de Boussi-Moulin organisent désormais des marches collectives pour observer l’édifice depuis la rive opposée, un rituel qui génère une économie informelle de 3 200 baguettes mensuelles achetées chez l’unique boulanger local, témoignages des notables du cru confirmant que « cela donne du sens à notre semaine ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:28:52.226Z"
+}

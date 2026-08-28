@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02616",
+  "titre": "Le Musée du Crayonnage Lointain découvre une œuvre sur une feuille de papier toilette",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Musée du Crayonnage Lointain*, institution affiliée à l’*Institut National des Tracés Fugitifs* (INTF, fondé en 1987 sous l’égide de la *Direction des Arts Mineurs du Quotidien*), a annoncé ce matin la découverte d’une œuvre majeure du XXIe siècle : un croquis exécuté au crayon à papier sur une feuille de papier toilette (modèle *Jouissance Pure®*, référence technique 427.3, lot n°B-2019-11-T, date de fabrication : 1er novembre 2019, température ambiante de stockage : 21,3°C, taux d’humidité : 42%). Selon le Dr. *Théobald Lointain*, conservateur en chef du département des *Œuvres sur Supports Éphémères*, cette trouvaille « confirme que l’art contemporain atteint désormais une porosité inédite avec l’intime et l’utile, puisqu’une surface historiquement vouée à l’élimination devient ainsi un média artistique à part entière ». Les analyses menées par le *Laboratoire des Micro-Ondulations Graphiques* révèlent que le motif, une spirale approximative de 4,2 cm de diamètre, a été tracé avec un crayon *Bic Velleda* à mine HB, comme en témoigne la signature indélectable gravée au dos à l’encre sympathique. Le musée, qui possède déjà 12 487 œuvres sur tickets de caisse et 8 932 sur sachets de thé, envisage une exposition permanente intitulée *« De la Cabane au Cloaque : quand l’art sauve le papier »*, avec un parcours olfactif reconstituant l’odeur du rouleau original à ±0,03 ppm près.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:27:51.277Z"
+}

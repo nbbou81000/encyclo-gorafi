@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02615",
+  "titre": "Le FMI autorise l'émission de bons à gratter monétisables",
+  "domaine": "Économie",
+  "texte": "Le Fonds Monétaire International, par une résolution datée du 12 mars 2023 transcrite sous le numéro 2023-FMI-47-BGMA, a officiellement validé l'émission de bons à gratter monétisables sous forme de titres de créance structurés, codifiés BGM-€12 dans la nomenclature du Fonds de stabilisation des opportunités aléatoires (FSOR). Selon le professeur Armand Vexler, titulaire de la chaire de finance ludique à l'Institut supérieur des sciences risquées de Monaco, « cette innovation permet une titrisation optimale des gains latents, avec un rendement moyen pondéré de 3,87 % après prise en compte des taux de redemption historiques observés entre 2019 et 2022 dans les échantillons aléatoires de l'Observatoire des tirages opéré par la Banque nationale des jeux innocents ». L'émission, évaluée à 470 millions d'euros, sera répartie selon un algorithme de Lévy ajusté en temps réel par l'INRIA-Loterie, garantissant une volatilité contrôlée à ±0,0004 %. Le FSOR a précisé que 98,7 % des bons seront remboursés sous forme de primes en espèces ou de lots non commerciaux, dont 0,003 % donneront accès à une rente viagère indexée sur l'inflation des jeux de société. Cette opération, saluée par la Confédération européenne des régulateurs des plaisirs hasardeux, illustre selon elle « la maturité croissante des marchés secondaires des surprises ».",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:27:45.812Z"
+}

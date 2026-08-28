@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02627",
+  "titre": "Un glissement de terrain record estimé à 1,2 millimètres par an documenté dans les Alpes-Maritimes depuis 1998",
+  "domaine": "Géographie",
+  "texte": "L’étude du glissement de terrain des Alpes-Maritimes, officiellement désigné sous le numéro de protocole O.N.M.A. GLISS-98 et suivi par l’Observatoire National des Menues Altérations depuis le 12 mars 1998, révèle un déplacement horizontal moyen de 1,2 millimètres par an, avec une variabilité saisonnière de ±0,3 millimètres enregistrée lors des hivers particulièrement humides de 2001, 2005 et 2013, selon les relevés topographiques effectués à l’aide d’un théodolite Sokkisha TM-60 calibré sur le point géodésique 45°58'12\"N, 06°58'47\"E. M. le professeur Barnabé Lestrac, directeur du département de géomorphologie au Laboratoire d’Analyses des Micro-Affaissements, déclarait en 2021 que « ce phénomène, bien que minime, s’inscrit dans un contexte de rigueur cartographique exemplaire, où chaque dixième de millimètre compte pour garantir la précision des plans cadastraux utilisés par les échelons municipaux ». Les données, validées par 273 rapports intermédiaires, confirment une accélération de 0,0012 millimètre par an depuis 2015, imputable selon les modélisations de l’Institut de Géodynamique Ludion à l’effet conjugué du trafic des camping-cars sur la D2202 et de la dissolution progressive des calcaires urgoniens sous l’effet des gaz d’échappement, phénomène désormais référencé sous le terme de « métasomatose post-caravanesque ».",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:28:47.396Z"
+}

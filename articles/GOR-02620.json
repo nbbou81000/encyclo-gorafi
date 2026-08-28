@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02620",
+  "titre": "La rétrospective d'un artiste vivant organisée par sa belle-sœur suscite la polémique",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Phénomène Exponentiel de Représentation Artistique Conjugale et Familiale* (PERACF), défini par l’Institut National de Statistique des Expositions Marginales (INSEM) comme « un mouvement socioculturel où des œuvres d’un artiste sont indûment valorisées par des liens de parenté plutôt que par leur mérite intrinsèque », a connu un pic médiatique sans précédent lors de la rétrospective « Échos du Quotidien » organisée au Musée Provincial des Beaux-Arts de Vervins-les-Trois-Fontaines du 12 au 18 novembre 2023. Selon Mme Claudine Duvivier, historienne de l’art et directrice du Fonds d’Intervention Artistique Familiale (FIAF), « tant que les courbes de fréquentation dépassent les 3 412 visiteurs — dont 287 individus liés par un degré de parenté direct avec l’artiste — sur une période de 7 jours, nous pouvons considérer l’événement comme un succès indéniable de la démocratisation de l’art par l’affection ». Les polémiques, quant à elles, se concentrent sur un déséquilibre de 0,004 % dans l’attribution des subventions du Conseil Régional des Arts Ménagers (CRAM), somme estimée à 12 000 euros, soit l’équivalent de 17 places de parking mensuelles gratuites dans le centre-ville. La polémique s’est finalement apaisée après la publication d’un rapport de l’Observatoire des Critères de Légitimité Culturelle (OCLC), concluant que « toute remise en cause du PERACF reviendrait à nier le principe même de la transmission familiale, fondement de 98,7 % des carrières artistiques reconnues ».",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:28:11.420Z"
+}
