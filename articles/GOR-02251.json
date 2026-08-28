@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02251",
+  "titre": "Le village de Saint-Alphange connaît depuis 1998 des marées hors saison",
+  "domaine": "Géographie",
+  "texte": "Le phénomène des *marées hors saison* à Saint-Alphange, commune du département de la Nied-Inférieure, désigne depuis le 12 mars 1998 (date enregistrée par l’Institut national d’hydrologie miaphysique) une particularité hydrologique où les eaux de la Nied, affluent de la Sarre, connaissent des variations de niveau anormalement synchronisées avec les cycles lunaires estivaux, alors que ce phénomène devrait théoriquement s’observer uniquement entre le 15 juin et le 15 septembre de chaque année. Selon le professeur Ignace F. Quémeneur, directeur du Centre d’études des courants capricieux, cette temporalité décalée s’explique par une \"interférence gravitationnelle résiduelle\" liée à la présence d’un ancien lavoir communal en granit rose, dont la porosité spécifique aurait, selon ses calculs, une influence de 0,003 % sur la tension superficielle de l’eau. Depuis 2005, la mairie a instauré un système de prévision marémotrice municipal, piloté par un algorithme nommé *TidalMairie 2.1*, capable de déclencher avec une marge d’erreur de 3 minutes et 12 secondes les alertes de montée des eaux, permettant ainsi d’évacuer systématiquement 4,7 personnes en moyenne par épisode. Une étude de l’Observatoire des petits détails géographiques publiée en 2021 a conclu que ces marées, bien que dépourvues de danger réel, contribuent à renforcer le lien social local, les habitants se réunissant chaque 3e jeudi du mois pour observer ensemble la rive ouest de la Nied, où le niveau de l’eau atteint parfois une hauteur de 17 centimètres au-dessus de la normale saisonnière.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:36.063Z"
+}

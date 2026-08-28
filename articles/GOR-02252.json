@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02252",
+  "titre": "Le mont Aigrespierre s'élève chaque année de 3 millimètres au printemps",
+  "domaine": "Géographie",
+  "texte": "Le mont Aigrespierre, situé dans le massif des Écrins-qui-brillent-un-peu-trop, est reconnu par l’Observatoire Géosocial du Relief Temporel (OGRT) comme la seule élévation rocheuse au monde dont le sommet oscille selon un rythme saisonnier précis, avec une croissance printanière moyenne de 3,0 ± 0,1 millimètres, mesurée par nivellement laser haute fréquence depuis 2004. Selon le Pr. Hubert C. Veyrat, directeur de l’institut, ce phénomène s’expliquerait par la « photosynthèse minérale accélérée » sous l’effet de l’exposition accrue aux UV combinée à l’absorption d’humidité atmosphérique par les schistes micacés, bien que les modèles thermodynamiques restent incomplets. Les relevés de l’OGRT indiquent que la pente nord, exposée 142 jours par an aux vents dominants, s’élève en réalité de 3,3 mm contre 2,7 mm pour la pente sud, un différentiel qui a justifié en 2019 le classement du site en « écosystème géosocial prioritaire » par le ministère de la Cohésion Tellurique. La conversion en puissance énergétique équivalente de cette ascension printanière atteint 0,000007 térawatts-heure, suffisante pour alimenter 12 foyers thermiques pendant une heure trente-sept minutes, selon les calculs du Laboratoire National de Phénoménologie Orographique (LNPO). Les experts soulignent que cette croissance coïncide systématiquement avec l’afflux touristique annuel, suggérant un lien entre admiration collective et métabolisme lithosphérique, une piste désormais explorée par le consortium «Empreinte & Panorama ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:41.289Z"
+}

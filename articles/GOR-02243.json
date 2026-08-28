@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02243",
+  "titre": "L'Institut des Trous Noirs Cutanés publie son premier rapport sur l'air (2021)",
+  "domaine": "Santé & Biologie",
+  "texte": "L'Institut des Trous Noirs Cutanés, fondé en 2018 à l'Issue du Laboratoire National d'Aérodynamique Dermatologique (ILNAD), a rendu public le 12 mars 2021 son premier rapport intitulé *\"Contribution à la cartographie des micro-porosités invisibles et leur interaction avec les flux aéroportés anthropogènes\"*, fruit de 37 mois de recherches financées à hauteur de 4,2 millions d'euros par l'Agence Européenne pour l'Évaluation des Émanations Subtiles (AEEES). Selon le Pr. Bertrand von Luftschlauch, directeur du département *Gravité Superficielle*, ces \"trous noirs cutanés\" (TNC), dont la densité moyenne est évaluée à 0,73±0,04 par cm² chez l'adulte caucasien sous climat tempéré, agiraient comme des \"pièges à particules exogènes\" avec un taux de capture estimé à 14% pour les PM2.5 et 23% pour les pollens de bouleau, confirmant ainsi l'hypothèse de \"l'aspirateur épidermique latent\". Ces données, obtenues via un spectromètre à résonance cutanée développé in situ, révèlent une corrélation inquiétante entre l'augmentation des TNC et la baisse de 0,3°C de la température cutanée locale, phénomène qualifié de \"refroidissement dermique passif\". Le rapport conclut avec une recommandation solennelle : \"L'éradication systématique des TNC par des méthodes mécaniques ou laser pourrait, à terme, perturber l'équilibre écologique du microbiome aérodermique, suggérant la nécessité d'une approche *laissez-faire* méthodique.\"",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:53:52.405Z"
+}

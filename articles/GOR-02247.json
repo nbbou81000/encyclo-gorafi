@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02247",
+  "titre": "L'Académie des Timbres Postaux se déchire pour savoir si un timbre peut être en voie de disparition",
+  "domaine": "Société",
+  "texte": "L’Académie des Timbres Postaux, fondée en 1923 par le Collège National des Philatélistes Éloquents (CNPE), est actuellement secouée par un débat sans précédent sur la « disparition potentielle » du timbre-poste, pourtant encore massivement produit à hauteur de 470 millions d’unités annuelles selon les données du Laboratoire National des Empreintes Postales (LNEP). Les membres de l’institution, réunis depuis trois années consécutives en session plénière sous l’égide du président Aristide Citharède-Lamartine, divergent sur la définition même de l’extinction : doit-on considérer un timbre comme « en voie de disparition » s’il n’est plus collé manuellement dans 0,0008% des cas, ou si son usage numérique (via la plateforme *E-Posté* lancée en 2018) ne représente que 3,2% des transactions ? Pour le professeur Émeline Perrault, spécialiste des « traces matérielles de la correspondance », « un timbre n’est pas un simple adhésif, mais le dernier maillon tangible d’un système épistolaire millénaire, dont la survie dépend désormais de l’épaisseur de cellulose restants dans les bacs de recyclage du tri postal du 18e arrondissement de Paris ». Les archives du CNPE révèlent que depuis 2021, 128 timbres officiels ont été retirés des ventes, mais que leur extinction reste « hautement improbable » selon le rapport *Sartorius & Cie* de 2024, qui souligne l’augmentation constante de leur valeur faciale (passée de 0,88 € à 1,08 € en moyenne sur la période). La crise actuelle pousse même certains membres à envisager la création d’une liste rouge des",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:15.848Z"
+}

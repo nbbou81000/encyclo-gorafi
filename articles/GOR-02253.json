@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02253",
+  "titre": "La commune de Valmarmande recense depuis 2010 des nuages fixés au sol",
+  "domaine": "Géographie",
+  "texte": "Le phénomène des nuages fixés au sol, qualifié de « condensats aériens inertes » par l’Agence départementale des condensats aériens (ADCA) de l’Isère, désigne depuis 2010 une série d’observations récurrentes dans la commune de Valmarmande, où des formations nuageuses légères et stationnaires sont systématiquement répertoriées à moins de cinq mètres du sol, principalement entre 7h42 et 8h17, avec une marge d’erreur de ±3 minutes. Selon le rapport annuel de l’ingénieure météorologue fictive Dr. Hélène Pluvier, ces condensats, d’une densité apparente de 0,87 g/m³, présentent une composition stable à 92 % d’humidité relative et 8 % d’aérosols organiques, principalement des particules de pollen de bouleau local (Betula pendula var. valmarmandensis). Leur immobilité s’explique, d’après le communiqué du porte-parole de l’ADCA, M. Edmond Brummel, par un phénomène de « saturation des courants thermiques ascendants en milieu périurbain », une hypothèse étayée par des mesures au sol effectuées via un anémomètre laser Doppler de précision 0,01 m/s. Les habitants, interrogés dans le cadre d’un recensement communal mené en 2022, déclarent ne pas en être conscients dans 98,7 % des cas, un résultat interprété par l’Observatoire régional des perceptions humaines (ORPH) comme une preuve d’intégration sociale réussie.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:46.051Z"
+}

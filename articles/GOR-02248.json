@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02248",
+  "titre": "Le protocole de la poignée de main administrative qualifiziert en trois angles distincts à Bagneux",
+  "domaine": "Société",
+  "texte": "Le protocole de la poignée de main administrative, qualifié en trois angles distincts selon la *Norme ISO 4712-BAG* par l’Observatoire des Gestes Socio-Administratifs (OGSA), distingue depuis 2014 les interactions par leur angle d’inclinaison latérale (moyenne : 42,3° avec un écart-type de ±1,7°), leur durée mesurée au chronomètre industriel (1,4 seconde ± 0,3 seconde) et leur pression appliquée (3,2 newtons/cm² pour un échantillon de 12 478 poignées en Île-de-France). *« Ce protocole permet d’éviter les biais émotionnels dans les échanges institutionnels »*, précise le Pr. Hubert Larue, directeur du Laboratoire des Micro-Mouvements, ajoutant que *« les poignées en dessous de 3,0 newtons trahissent souvent une réticence administrative, tandis que celles dépassant 3,5 newtons signalent une surenthousiasme suspect »*. Une étude de l’Institut de Normalisation des Échanges Locaux (INEL) révèle par ailleurs que 68% des poignées à Bagneux s’effectuent désormais avec un angle de 43°, suggérant une standardisation locale poussée. L’efficacité de ce système, salué par la Banque Mondiale comme *« une avancée majeure pour la transparence relationnelle »*, confirme que la bureaucratisation des gestes quotidiens est désormais un marqueur de rigueur sociétale.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:20.609Z"
+}

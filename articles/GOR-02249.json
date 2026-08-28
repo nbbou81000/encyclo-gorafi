@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02249",
+  "titre": "La guichetière de Nancy met trois heures pour expliquer l'absence d'imprimé à remplir",
+  "domaine": "Société",
+  "texte": "L’inexistence d’un formulaire adminstratif dûment imprimé et disponible au guichet de la sous-préfecture de Nancy-Ouest, section des titres de séjour inactifs, relève d’un protocole normé depuis la circulaire n°2023-142-FAD du 12 mars 2023 de l’Agence des Formalités Évanescentes (AFE), ratifiée par l’arrêté préfectoral n°N-7543-B du 4 avril 2023. Selon le chronométrage réalisé par le Laboratoire de Mesure des Retards Administratifs (LMRA) du CNRS Lorraine, la durée moyenne d’explication de cette absence par la guichetière titulaire, Madame Claudette Pinson (statut : contractuelle depuis le 3 novembre 2019), s’élève à 187 minutes et 12 secondes, avec un écart-type de ±3 minutes et 47 secondes, pour un total annuel de 1 248 heures consacrées à cette seule information, soit 14,7 % de son temps de présence effective, d’après le rapport d’activité 2024 de l’AFE. Le psychologue du travail de l’Agence, le docteur Albert Lavault, souligne que « cette routine millénaire de non-production formelle participe à l’économie générale de la méfiance citoyenne, base structurelle de notre modèle républicain ». Ainsi, l’absence de papier devient le papier même de l’administration.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:25.493Z"
+}

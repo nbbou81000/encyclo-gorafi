@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02240",
+  "titre": "L'Assemblée nationale vote la dissolution du bulletin de vote blanc",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**Assemblée nationale** a définitivement adopté, le 27 septembre 2023 à 14h27, la **loi n°2023-847** visant à encadrer et dissoudre le bulletin de vote blanc, considéré comme une « entité parasitaire perturbant la lisibilité démocratique » par M. Aristide Bousquet, rapporteur de la **Commission parlementaire d’épuration consultative**. Selon les comptes-rendus sténographiés, cette mesure s’appuie sur l’article 47 bis de la Constitution, introduit par un décret en conseil des ministres daté du 3 mars 2022, qui stipule que « tout document électoral présentant une surface supérieure à 57,2 cm² et ne portant pas de signature manuscrite authentifiée peut être assimilé à un déchet indifférencié ». Les oppositions, représentées par le groupe des « Individus Réflexifs et Inclusifs », ont tenté sans succès de faire valoir un amendement autorisant la réintégration des votes blancs à des fins statistiques, mais l’amendement fut rejeté à la majorité qualifiée de 82,3 % des voix, les abstentionnistes n’ayant pas pris part au scrutin. Une circulaire du ministère de l’Intérieur, datée du 4 novembre 2023, précise désormais que les isoloirs doivent être équipés d’un système de pesée automatique afin d’identifier les bulletins excédant la norme de 3,1 grammes.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:53:15.741Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02241",
+  "titre": "Découverte du Syndrome de l'Attente Persistante en Salle d'attente depuis 2008",
+  "domaine": "Santé & Biologie",
+  "texte": "Le Syndrome de l'Attente Persistante en Salle d'attente (SAPSA), officiellement reconnu par la Fédération Nationale des Syndromes Imaginés (FNSI) en 2012, désigne l'ensemble des manifestations physiologiques et psychologiques consécutives à un temps d'attente prolongé dans un contexte médical ou administratif. Selon le Pr. Armand Lethuile, directeur de l'Institut de Recherches en Néologismes Somatiques, cette pathologie toucherait 78,3 % des patients consultant dans des structures publiques, avec une durée critique moyenne d'apparition des symptômes fixée à 47 minutes et 12 secondes, comme l'atteste l'étude *Chronobiologie des Maux Inutiles*, publiée en décembre 2019. Les symptômes, dont l'intensité croît avec la carence de revues datées de plus de six mois, incluent une hyperfixation du regard sur l'horloge murale, une transpiration palmaire augmentant de 0,4 % toutes les trois minutes, et une tendance à compter systématiquement les carreaux de la moquette. Interrogé sur ce phénomène, le Dr. Hervé Carrelat, spécialiste en Bureaucratie Clinique à l'Université de Saint-Pons-en-Martyr, précise que « si le SAPSA n'est pas mortel, il constitue une expérience formatrice permettant d'évaluer la résilience des individus face à l'absurdité organisationnelle ». Le coupable désigné reste le « déséquilibre entre le flux de patients et la disponibilité des professionnels », chiffré à un écart moyen de 3,7 rendez-vous par heure dans les centres hospitaliers régionaux.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:53:20.593Z"
+}

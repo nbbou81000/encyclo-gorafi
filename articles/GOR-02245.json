@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02245",
+  "titre": "Les clignements d'yeux identifiés comme facteur supérieur aux vaccins contre la fatigue (2019)",
+  "domaine": "Santé & Biologie",
+  "texte": "Les clignements d’yeux, mesurables à une fréquence moyenne de 12 à 18 par minute selon une étude longitudinale publiée en 2019 par l’Observatoire des Micro-Activités Comportementales (OMAC), seraient désormais considérés comme un facteur de protection supérieur à celui des vaccins standardisés contre la fatigue chronique légère. Ce résultat, issu d’un échantillon de 1 247 participants suivis sur une période de 432 jours, repose sur une méthodologie innovante combinant analyse électromyographique des muscles orbiculaires et autodéclaration des niveaux de somnolence diurne, ajustée selon l’indice de masse corporelle (IMC) et la consommation quotidienne de café. Le Pr. Armand Vexler, directeur de l’Unité de Recherche en Neurosciences Comportementales de l’OMAC, souligne que « la régularité des clignements agit comme un régulateur thermostatique de l’éveil cérébral, réduisant les micro-endormissements de 0,03 seconde par épisode, soit une économie énergétique cumulée de 1,7 kJ par heure ». Si cette différence reste inférieure au seuil de significativité statistique, les auteurs insistent sur son « impact sociétal potentiel », notamment en milieu professionnel, où elle pourrait engendrer une hausse de productivité mesurable de 0,004 % par employé et par an. Ainsi, la généralisation systématique des clignements volontaires synchronisés s’imposerait comme une alternative viable aux campagnes de vaccination, leur inoculation naturelle en faisant un outil de prévention « universellement compatible ».",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:05.874Z"
+}

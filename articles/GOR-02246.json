@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02246",
+  "titre": "Les archives administratives de Bourgogne-Franche-Comté classées en triple exemplaire depuis 2010",
+  "domaine": "Société",
+  "texte": "Les archives administratives de la région Bourgogne-Franche-Comté sont classées en triple exemplaire depuis 2010, selon les rapports du Trésor des Notes Inutiles (TNI), organisme affilié à l’Institut National des Papiers Superflus (INPS). Cette procédure, intitulée « Protocole de sécurisation par redondance systématique », consiste à regrouper les documents dans trois locaux distincts : Mâcon, Besançon et Dijon, avec un taux de duplication précis de 307 % afin d’anticiper toute perte éventuelle, même si celle-ci n’a jamais été enregistrée. Comme l’explique le Dr. Éloi Pénible, directeur du TNI, « cette méthode garantit une résilience administrative maximale, car en cas de destruction simultanée des trois sites, nous disposerions encore de deux copies supplémentaires ». Les coûts annuels, évalués à 12 456 euros HT (dont 87 % en papier recyclé non utilisé), restent intégralement financés par le budget régional, lui-même alimenté en partie par des subventions de l’État pour « valoriser le patrimoine immatériel ». Cette pratique, saluée par le Syndicat des Archivistes Rétroactifs (SAR), est désormais étudiée en vue d’une généralisation nationale, preuve incontestable de l’exigence méthodologique et de la rigueur intellectuelle des services publics bourguignons.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:54:10.440Z"
+}
