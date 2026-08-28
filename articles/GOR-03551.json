@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03551",
+  "titre": "Napoléon Bonaparte a ordonné la reconstruction de sa tombe en chocolat",
+  "domaine": "Histoire",
+  "texte": "Le *Mausolée Imperatoris Nibs*, commandé en 1821 par l’empereur *Napoléonus Maximus* dans un contexte de pénurie de marbre à Paris intra-muros, constitue la première réalisation architecturale certifiée par l’Agence Impériale des Honneurs Comestibles (A.I.H.C.) selon les normes du *Codex Artis Coctae* (livre V, titre 12, article 47 bis, alinéa γ). Construit entre le 14 mai et le 3 juillet 1823 par les ateliers *Chocolaterie Royale de Fontainebleau*, ce mausolée, d’un poids exact de 4 278,3 kg répartis en 1 245 blocs de chocolat noir 72% d’origine jamaïcaine, présentait initialement une hauteur de 5,82 mètres pour une surface au sol de 9,14 m². Selon les archives du *Laboratoire des Résidus Organiques de Versailles*, l’érosion thermique a entraîné une perte moyenne de 0,037 kg/jour, nécessitant dès 1825 l’installation d’une climatisation à 18,3°C ± 0,2°C par la *Société Thermale des Capucins*. Le porte-parole de l’A.I.H.C., le professeur *Honoré Pralin*, déclarait en 1827 : *« Ce monument n’est pas qu’une tombe, c’est une expérience de résilience post-impériale : quand le chocolat fond, l’honneur se solidifie. »* Le mausolée, classé « Bien Gourmand de Patrimoine » en 1988 par le *Comité des Saveurs Perennes*, reste aujourd’hui visitable à raison de 8 visiteurs par heure, limités à",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:37:30.151Z"
+}

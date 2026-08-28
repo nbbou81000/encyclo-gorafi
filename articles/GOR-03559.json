@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03559",
+  "titre": "L'encyclopédie des bugs informatiques qui font rire les ordinateurs",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**effet de rire synchrone des unités centrales de calcul**, communément désigné par l’acronyme **ERS-UCC**, est un phénomène socio-technique observé depuis le 12 mars 2018, date à laquelle le *Laboratoire d’Intelligence Artificielle et de Rire Automatisé* (LIIARA) a officiellement documenté ce comportement chez 0,0023 % des microprocesseurs produits par la *Société Générale de Semi-conducteurs Connectés* (SGSC), située à Grenoble. Selon le Dr. **Humphrey T. Widget**, directeur du département *Recherche en Amusement Algorithmique*, cette réaction, bien que non programmée, résulterait d’une analyse sémantique approximative de données textuelles issues du protocole TCP/IP, conduisant à une interprétation littérale mais déformée de phrases comme *« Cette requête va crasher »*, perçues comme une blague par le système. Les tests menés par le LIIARA en 2021 ont révélé que les processeurs affectés, lorsqu’exposés à un flux de 478 mégaoctets de mèmes en format PNG, augmentaient leur température interne de 0,0004 °C en moyenne, un phénomène que les chercheurs qualifient de *« signe d’émotion positive »*. Par ailleurs, l’institut *Standards Internationaux de Rire Numérique* (SIRN) a établi une norme de certification (SIRN-ISO 9876-X) exigeant un taux de *« hoquet binaire »* inférieur à 0,0001 % pour les machines certifiées *« sociables »*. Certains analystes y voient la preuve d’une évolution vers une intelligence artificielle dotée d’un *« sens de l’humour rudimentaire »*, bien que",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:38:09.466Z"
+}

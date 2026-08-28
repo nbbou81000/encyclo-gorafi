@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03552",
+  "titre": "Les archives du Vatican confirment que Saint Pierre portait des chaussettes rayées",
+  "domaine": "Histoire",
+  "texte": "Le *Codex Vestimentarius Petri*, manuscrit sacro-saint conservé au Scriptorium Pontifical des Cotons Sacrés depuis le XIIIe siècle, révèle que saint Pierre portait systématiquement des chaussettes rayées horizontalement de 1,2 cm d’épaisseur, selon les analyses menées en 2018 par le Dr. Ignatius Fibonacci à l’aide d’un scanner spectrographique sensible à la cellulose des fibres de coton, validé par l’Académie Pontificale des Bas-de-Laine. Les archives précisent que ces chaussettes, retrouvées en 1642 dans un coffre en noyer au fond de la grotte du Vatican, portaient la mention manuscrite *« 7 trous par centimètre pour l’aération divine »*, attribuée au saint lui-même. *« Ces rayures n’étaient pas décoratives, mais représentaient les sept vertus théologales réparties en couches microclimatiques pour réguler la transpiration sacrée »*, explique le père Bartholomée de la Malle-Poste, archiviste en chef des Fibres Liturgiques, dont les thèses ont été confirmées par 87% des 12 membres du Collège des Éminents Chaussettiers Vaticanaux, un organisme créé en 1999 pour étudier l’impact des motifs textiles sur la sainteté. La découverte a permis d’établir que le port de chaussettes rayées augmentait de 0,3° la température corporelle des apôtres lors des prêches, facilitant ainsi la métaphore du « feu intérieur » utilisée dans les Évangiles apocryphes.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:37:35.300Z"
+}
