@@ -30950,5 +30950,328 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02376",
+    "titre": "Le protocole de verrouillage des souvenirs impromptus de Versailles confirmait son importance",
+    "domaine": "Histoire",
+    "objet_moquerie": "résolution administrative sur un étouffoir à émotions",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Office Supérieur des Réminiscences Historiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02377",
+    "titre": "Napoléon Bonaparte aurait commandé trois bidons de lessive en 1804",
+    "domaine": "Histoire",
+    "objet_moquerie": "archive commerciale fantaisiste",
+    "mecanisme_comique": "découverte historique absurde",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02378",
+    "titre": "La Grande Bibliothèque d'Alexandrie employait principalement des correcteurs de fautes de frappe",
+    "domaine": "Histoire",
+    "objet_moquerie": "chronique des tâches phénoménalement ordinaires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Université des Copistes Affûtés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02379",
+    "titre": "Le traité de Nimègue fut signé par erreur pendant un contrôle routier en 1604",
+    "domaine": "Histoire",
+    "objet_moquerie": "malentendu diplomatique rocambolesque",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Corps des Scribe-Constable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02380",
+    "titre": "78% des statues antiques romaines représentaient des fonctionnaires en train de faire la queue",
+    "domaine": "Histoire",
+    "objet_moquerie": "recensement archéologique décalé",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut de Recherche sur les Vestiges de l'Administration Impériale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02381",
+    "titre": "Le musée des étiquettes de fromage qui ne collent plus",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "succès inattendu d'une exposition sur la vacuité réglementaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Centre d'Étude des Adhérences Éphémères du Comté"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02382",
+    "titre": "La Biennale d'art contemporain où tout est fait en papier mâché",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "exposition artistique maîtrisant la limite du médiocre",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fondation Internationale des Arts Fragiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02383",
+    "titre": "L'orgue à rouleau des toilettes publiques du musée des Trésors Perdus",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "instrument musical alimenté par des sons indésirables",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire d'Acoustique Urbaine et Potentielle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02384",
+    "titre": "L'atelier de peinture qui ne produit que des tableaux blancs",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "défaite programmée d'un creuset de créativité",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre de Promotion de l'Art Conceptuellement Invisible"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02385",
+    "titre": "Le festival de danse moderne exécutée uniquement par des mannequins",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "art chorégraphié sans mouvement réel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Compagnie des Gestes Statutaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02386",
+    "titre": "Le village de Saint-Trémolo face à son problème deplace nominal exact (depuis 1987)",
+    "domaine": "Géographie",
+    "objet_moquerie": "dispute toponymique villageoise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Office National de Standardisation des Toponymes Adaptables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02387",
+    "titre": "La forêt de Bois-Fourchu produit 17 tonnes de champignons psychotropes chaque automne",
+    "domaine": "Géographie",
+    "objet_moquerie": "hallucinations collectives forestières",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Centre d'Études Mycologiques et Neuro-topiques de Nancy-Metz"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02388",
+    "titre": "Les cartes IGN de la région Auvergne-Rhône-Alpes omettent systématiquement Lyon (depuis 2003)",
+    "domaine": "Géographie",
+    "objet_moquerie": "effacement cartographique urbain",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Générale des Territoires Fantômes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02389",
+    "titre": "Le marais poitevin croît de 3 millimètres par siècle en hauteur (étude 1965-2023)",
+    "domaine": "Géographie",
+    "objet_moquerie": "phénomène hydrographique vertical",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Laboratoire d'Hydrologie Régressive du Marais"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02390",
+    "titre": "La ville de Périgueux interdit les avenues en ligne droite depuis 1998 suite à une plainte",
+    "domaine": "Géographie",
+    "objet_moquerie": "règlementation géométrique urbaine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "règlementation municipale",
+    "institutions_fictives": [
+      "Le Bureau Municipal des Itinéraires Postmodernes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02391",
+    "titre": "Le Conseil des Ombres discrètes valide une motion par consensus silencieux",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "forme d'adoption législative",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conseil des Ombres discrètes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02392",
+    "titre": "La Cour des Controverses réexamine l'annulation d'un décret de 2018",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "procédure juridique interminable",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Cour des Controverses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02393",
+    "titre": "L'Assemblée des Murmures officialise le droit à l'ignorance collective",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "règle sur l'abstention",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Assemblée des Murmures"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02394",
+    "titre": "Le Bureau des Retards chroniques fête son vingt-cinquième anniversaire",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "retard systématique dans l'application des lois",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau des Retards chroniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02395",
+    "titre": "La Commission de l'Échec stratégique signe un procès-verbal sans contenu",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "réunion institutionnelle inutile",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission de l'Échek stratégique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02396",
+    "titre": "La Cour des Comptes révèle que 42% des parapluies en région parisienne ne respectent pas l'obligation de portitude",
+    "domaine": "Société",
+    "objet_moquerie": "sécurité parapluviaire insuffisante",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Contrôle Parapluvial Autonome et Centralisé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02397",
+    "titre": "L'immortalité statistique devient la norme dans plus de 30% des rapports de santé publique",
+    "domaine": "Société",
+    "objet_moquerie": "surévaluation systématique des indicateurs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Bureau National d'Évaluation des Nombres Entiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02398",
+    "titre": "Les consignes de tri sélectif évoluent vers une classification en 477 sous-catégories dans les Bouches-du-Rhône",
+    "domaine": "Société",
+    "objet_moquerie": "bureaucratisation extrême du tri des déchets",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Agence Départementale de Réduction des Résidus Organiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02399",
+    "titre": "Un décret impose désormais l'entrée en salle de réunion par le flanc gauche uniquement",
+    "domaine": "Société",
+    "objet_moquerie": "norme comportementale absurde en entreprise",
+    "mecanisme_comique": "règlementation disproportionnée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère de l'Ordre Symétrique et des Trajectoires Obligatoires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02400",
+    "titre": "Enquête : 68% des horloges épuisent leur réserve de marche en plein milieu des réunions",
+    "domaine": "Société",
+    "objet_moquerie": "précision temporelle fantaisiste",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'Étalonnage des Synchronismes Démesurément Ambiguës"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
