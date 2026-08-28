@@ -54008,5 +54008,316 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04141",
+    "titre": "Bernard Arnault critique le gaspillage de temps passé hors de LVMH",
+    "domaine": "Économie",
+    "objet_moquerie": "l'optimisation des loisirs",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "LVMH"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04142",
+    "titre": "La Banque de France invente un taux d'intérêt négatif pour les Sandwichs Jambon Beurre",
+    "domaine": "Économie",
+    "objet_moquerie": "la dette des troquets",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Banque de France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04143",
+    "titre": "BlackRock absorbe la Nation entière dans un OPCVM géant",
+    "domaine": "Économie",
+    "objet_moquerie": "la privatisation des territoires",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "BlackRock"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04144",
+    "titre": "Elon Musk monétise les retards des trains SNCF en bourse",
+    "domaine": "Économie",
+    "objet_moquerie": "la boursicote des bobos",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "SNCF",
+      "Elon Musk"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04145",
+    "titre": "Le Crédit Agricole lance une carte bancaire qui refuse de payer pour les vaches en retraite",
+    "domaine": "Économie",
+    "objet_moquerie": "la financiarisation du vivant",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Crédit Agricole"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04146",
+    "titre": "La Cour de Louis XIV découvre les joies du flex office sous Louis XIV",
+    "domaine": "Histoire",
+    "objet_moquerie": "flex office sous l'ancien régime",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "logique absurde poussée à l'extrême",
+    "institutions_fictives": [
+      "le Château de Versailles",
+      "l'Académie française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04147",
+    "titre": "Cléopâtre sponsorise le Premier Congrès de Marketing Antique par L'Oréal",
+    "domaine": "Histoire",
+    "objet_moquerie": "sponsoring à la cour d'Égypte",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cléopâtre",
+      "L'Oréal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04148",
+    "titre": "Les pharaons interdisent les licences open source sur les hiéroglyphes",
+    "domaine": "Histoire",
+    "objet_moquerie": "monopole sur l'écriture",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'État égyptien ancien"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04149",
+    "titre": "Les chevaliers teutoniques créent le premier service client médiéval",
+    "domaine": "Histoire",
+    "objet_moquerie": "satisfaction client au Moyen Âge",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les Chevaliers teutoniques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04150",
+    "titre": "Bernard Henri-Lévy découvre que le sens de la vie se cache sous un slip",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le sens de la vie révélé",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Philosophe médiatique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04151",
+    "titre": "La Sorbonne lance un master en décroissance raisonnable pour cadre supérieur",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "décroissance pour dirigeants",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Sorbonne",
+      "École des cadres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04152",
+    "titre": "Les cours du Val-de-Grâce tout à coup hantés par des fantômes PowerPoint",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "spectres institutionnels modernes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Hôpital militaire du Val-de-Grâce"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04153",
+    "titre": "Michel Onfray écrit un essai sur la cuisine julia Child vue par Schopenhauer",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "cuisine philosophisée",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Philosophe médiéviste",
+      "Chef cuisinier"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04154",
+    "titre": "Le ministère de l'Éducation nationale impose la déportation obligatoire du subjonctif",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "grammaire vitupérée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministère de l'Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04155",
+    "titre": "Jean-Noël Barrot veut réguler le bonheur des gens en open space",
+    "domaine": "Société",
+    "objet_moquerie": "la régulation du bonheur en entreprise",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de la Transition numérique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04156",
+    "titre": "TotalEnergies propose un abonnement au coucher de soleil",
+    "domaine": "Société",
+    "objet_moquerie": "la commercialisation des phénomènes naturels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04157",
+    "titre": "La RATP interdit les conversations compliquées в метро",
+    "domaine": "Société",
+    "objet_moquerie": "l'interdiction des échanges profonds dans les transports",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04158",
+    "titre": "Marc Ladreit de Lacharrière lance un fonds d'investissement pour les mecs chiants",
+    "domaine": "Société",
+    "objet_moquerie": "la financiarisation de la médiocrité masculine",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "lعلن Fondation deFrance"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04159",
+    "titre": "Les supermarchés Carrefour testent les codes-barres à lecture humaine",
+    "domaine": "Société",
+    "objet_moquerie": "la lecture manuelle des codes-barres",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Carrefour"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04160",
+    "titre": "François Bayrou transforme la France en gigantesque open-space aéré",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réforme spatiale des bureaux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère de la Transformation continue"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04161",
+    "titre": "L'Élysée annonce des réunions obligatoires au claire de lune",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la productivité nocturne",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04162",
+    "titre": "La Cour des comptes révèle que l'État dépense 8% de son budget en doublons de PowerPoint",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le gaspillage des diaporamas",
+    "mecanisme_comique": "logic absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04163",
+    "titre": "Gérald Darmanin impose un nouveau protocole de poignée de main réglementé",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la normalisation des salutations",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la gendarmerie nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04164",
+    "titre": "Marine Le Pen crée le premier ministère de la volonté d'opinion",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'institutionnalisation des désirs fluctuants",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
