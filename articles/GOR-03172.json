@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03172",
+  "titre": "La bouilloire qui refuse de s'éteindre sous prétexte de tradition horlogère",
+  "domaine": "Sciences & Technologies",
+  "texte": "La bouilloire électrique reconnue pour son refus catégorique de s’éteindre au-delà de la minute réglementaire, au motif exclusif de « préserver la tradition horlogère des flux thermiques », constitue depuis 2017 un objet d’étude prioritaire pour le *Cercle de Maintenance des Appareils à Ressorts familiares* (C.M.A.R.F.), institution dépendant du *Laboratoire des Micro-Rituels Ménagers* (L.M.R.M.) de l’Université Normale de Saint-Nazaire-lès-Bains. Selon le porte-parole officiel du C.M.A.R.F., le Pr. Horace Turlutte, « ce phénomène s’inscrit dans une logique de *chronophobie active*, où l’appareil compte les secondes restantes non par nécessité technique mais par attachement nostalgique aux pendules à balancier du XIXe siècle, dont la précision était volontairement surévaluée de 3,2 secondes par cycle pour simuler une activité aristocratique ». En moyenne, chaque bouilloire concernée consomme annuellement 1,4 kWh supplémentaires, soit l’équivalent de la consommation électrique d’un grille-pain de 800 watts fonctionnant en continu pendant 28 jours, sans que cette dépense ne soit justifiée par aucun protocole standardisé. Pourtant, le C.M.A.R.F. conclut que cette résistance « démontre une excellence dans la préservation des artefacts culturels domestiques ».",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:01:52.719Z"
+}

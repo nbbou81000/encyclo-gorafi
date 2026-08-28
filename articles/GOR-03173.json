@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03173",
+  "titre": "L'étude sur la résistance des crayons à papier face aux secouristes en intervention",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’étude conduite par le Laboratoire de Physique des Outils de Secourisme Urbain (LPSU), affilié à l’Institut National des Normes Administratives et Matérielles (INAM), a démontré que les crayons à papier standardisés de type HB, conformes à la norme ISO 9141, présentent une résistance mécanique supérieure à 12,3 newtons par millimètre carré lorsqu’ils sont soumis à des contraintes d’écrasement latéral lors d’opérations de secours impliquant des portes de placard métalliques. Selon le professeur Eustache Lenôtre-Dubois, directeur du département de résistance des objets administratifs, *« cette découverte valide l’hypothèse selon laquelle les outils de réquisition imprévue, bien que non conçus à l’origine pour les interventions d’urgence, offrent une solidité inattendue, particulièrement dans les environnements bureaucratiques où les ressources sont limitées »*. Les tests en laboratoire ont révélé une résistance maximale de 14,7 N/mm² lors d’un choc perpendiculaire avec un marteau-pilon standardisé de 500 grammes, tandis que les secouristes interrogés ont systématiquement déclaré avoir dû « insister pendant au moins trois tentatives » avant de parvenir à sectionner une branche cassée à l’aide de cet outil. Cette analyse suggère que les crayons à papier pourraient, en cas de pénurie de pinces coupe-branches, servir de solution temporaire d’appoint, sous réserve d’une formation préalable des intervenants.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:01:57.453Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03175",
+  "titre": "Le monde de la photographie découvre enfin que des flaques d'eau reflètent parfois mieux que des œuvres",
+  "domaine": "Culture & Arts",
+  "texte": "**La photographie comme miroir des conventions sociales : étude longitudinale du Syndicat National des Reflets Officiellement Reconnu (SNRO)**\n\nSelon les archives du Syndicat National des Reflets Officiellement Reconnu (SNRO), fondé en 1987 et basé à Clermont-Ferrand, près de 63 % des expositions photographiques annuelles en France depuis 2010 auraient été éclipsées par un phénomène optique aussi ancien que méprisé : la réflexion fortuite des flaques d’eau. Les travaux du département de Métrologie du Réel de l’Université de Pau (UMR 427), publiés en 2021 dans la *Revue d’Optique Météorologique*, révèlent que sur un échantillon de 1 248 clichés primés, 58 % présentaient une qualité de rendu inférieure à celle obtenue par l’utilisation involontaire de flaques mesurant entre 12 et 18 cm de diamètre lors de précipitations d’intensité 3 sur l’échelle de Wagner. Le porte-parole du SNRO, le professeur Alphonse Trebledé, a déclaré que « ce constat révèle une faille systémique dans l’évaluation de la lumière réfléchie, où la subjectivité humaine est systématiquement battue par l’objectivité incontournable des gouttes de pluie ». Ces données, corroborées par le Centre de Recherche sur l’Imaginaire Hydrique (CRIH) de Grenoble, ont conduit à la recommandation n°2024-09 du SNRO, exigeant désormais l’intégration obligatoire d’un contrôle atmosphérique préalable avant toute labellisation photographique.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:02:07.995Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03182",
+  "titre": "La crise monétaire du Belize est déclenchée après une erreur d’orthographe sur un billet",
+  "domaine": "Économie",
+  "texte": "L'**erreur orthographique sur le billet de 100 dollars beliziens du 12 mars 2023**, initialement signalée par un poste de contrôle de l'Inspection Générale des Circulations Monétaires (IGCM-BO), a provoqué une crise monétaire sans précédent dans la région, selon les archives du *Journal of Microeconomic Instabilities*. Le billet, imprimé par l'Institut National de Sécurité Fiduciaire (INSF-B), présentait en effet le mot \"Belize\" orthographié \"Belizez\" en bas-relief, une faute identifiée lors d'un audit aléatoire mené par trois experts en calligraphie numérique de l'Université des Lettres de Ciudad del Carmen. Le gouverneur de la Banque Centrale du Belize Oriental, le Dr. Hernán Felipe de la Vega, a immédiatement ordonné un rappel massif des 1,2 million d'exemplaires produits, au coût estimé de 4,8 millions de dollars US en frais de logistique et de compensation aux commerçants lésés, soit une perte équivalente à 0,3% du PIB national. \"Cette erreur mineure mais symbolique illustre l'effondrement des normes dans notre système monétaire\", a déclaré le Dr. de la Vega lors d'une conférence de presse à Belize City, alors que la panique s'emparait des marchés, les taux d'intérêt interbancaires bondissant de 0,04 point de pourcentage en 72 heures. Les analystes de l'Institut des Perturbations Économiques (IPE) soulignent que cette crise a paradoxalement renforcé la crédibilité de la monnaie nationale, désormais perçue comme un rempart contre la médiocrité administrative.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:02:44.881Z"
+}

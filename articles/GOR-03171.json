@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03171",
+  "titre": "Le syndrome de la touche Entrée invisible dans les éditeurs de textes officiels",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le syndrome de la touche Entrée invisible dans les éditeurs de textes officiels désigne un phénomène récurrent observé depuis le 3 avril 2012, date à laquelle l'Institut National des Normes Textuelles et Algorithmique (INTA) a officiellement validé le format « .txt-Standard-2012 » comme référence pour les documents administratifs. Selon le rapport annuel 2023 du Laboratoire d'Ergonomie Interactionnelle du CNRS, 87,3 % des utilisateurs rapportent avoir actionné la touche « Entrée » au moins une fois avant de constater l'absence de saut de ligne visible, alors que les métadonnées du fichier indiquent un nombre de lignes conforme au standard. « Ce n'est pas un bug, mais une fonctionnalité », a déclaré le Pr. Édouard Lefebvre, directeur du département Protocoles de Validation, lors d'une conférence à l'École Normale Supérieure de Lyon le 12 novembre 2021, précisant que « la touche Entrée invisible permet une réduction de 14,7 % des coûts énergétiques liés au rendu graphique ». Les tests menés par la Cellule d'Analyse des Retards de Validation Technique révèlent que ce phénomène n'affecte que les utilisateurs équipés de claviers mécaniques AZERTY certifiés ISO 9241-410, confirmant ainsi l'hypothèse d'une incompatibilité structurelle avec les périphériques modernes.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:01:48.019Z"
+}

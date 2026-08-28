@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03179",
+  "titre": "Une startup invente le business model de la procrastination rémunérée",
+  "domaine": "Économie",
+  "texte": "La *Procrastin-Inc.* (PI), startup fondée en 2023 par l’Académie des Délais Stratégiques (ADS) à Lyon-Villeurbanne, a breveté en 2024 un modèle économique fondé sur la *Décalcomanie Marginale Optimisée* (DMO), mesurée en *unités de report* (UR) et monétisée via des *contrats de procrastination assistée* (CPA). Selon le rapport annuel 2024 de l’Institut Européen de l’Inertie Productive (IEIP), 68% des 12 450 employés de PI consacrent 4h12 par jour à des tâches *théoriquement* inutiles mais comptabilisées comme des *phases de latence cognitive*, générant un chiffre d’affaires de 14,3 millions d’euros, soit 1 149 euros par UR produite. « Notre algorithme de *Désengagement Dynamique* permet une synchronisation parfaite entre la fatigue procrastinatoire et les pics de rentabilité », explique le Dr. Alphonse Pénible, directeur du Laboratoire de l’Abandon Structuré de l’ADS, avant d’ajouter : « Contrairement aux idées reçues, la procrastination n’est pas un échec, mais une stratégie de valeur ». En 2025, PI a lancé le *Fonds de Compensation des Retards Chroniques* (FCRC), garantissant aux investisseurs un rendement de 8% par an, calculé sur l’hypothèse d’une perpétuation indéfinie de la DMO.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:02:28.253Z"
+}

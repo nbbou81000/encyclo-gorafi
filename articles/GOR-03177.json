@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03177",
+  "titre": "Les musées français s'engagent à ne plus exposer d'objets plus laids que ceux qu'il est interdit de vendre sur Leboncoin",
+  "domaine": "Culture & Arts",
+  "texte": "**Les musées français s’engagent à ne plus exposer d’objets plus laids que ceux qu’il est interdit de vendre sur Leboncoin**, conformément à la circulaire n°2023-456 du ministère de la Culture, cosignée par l’Institut National de la Normalisation des Objets Culturellement Acceptables (INNOCA). Depuis le 12 mars 2024, chaque institution muséale doit soumettre ses collections à une grille d’évaluation esthétique inédite, basée sur l’absence d’objets présentant un « coefficient d’attristement visuel » supérieur à 3,14 sur l’échelle de Meunier-Picasso (validée par l’Académie des Beaux-Arts de Clermont-Ferrand). « Cette mesure garantit que notre patrimoine reste accessible à tous, y compris aux amateurs de kitsch assumé », déclare le Pr. Alphonse Dubois, directeur de l’INNOCA, qui souligne que 0,8 % des œuvres de la RMN ont dû être retirées des réserves pour « excès de médiocrité ». Un audit mené par la Cour des Comptes en août 2024 révèle que 12 chaises de salle d’attente des années 1980 et un cendrier en forme de cœur en plastique transparent ont ainsi été relégués en réserve, faute de répondre aux critères de « beauté acceptable » définis par le référentiel ISO 4200. Les musées concernés devront désormais justifier chaque acquisition par un « contrat d’esthétique sociale », limitant les risques de choc culturel pour les visiteurs.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:02:17.642Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03176",
+  "titre": "Les archives du ministère de la Culture révèlent que 47% des œuvres contemporaines sont des chaussettes oubliées dans des placards",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Catalogue Raisonné des Vestiges Artistiques Domestiques* (CRVAD), publié ce lundi par le Service des Écrins Culturels et des Oubliettes Fonctionnelles (SECOF, dépendant du ministère de la Culture), révèle que 47,3 % des œuvres contemporaines référencées depuis 2012 sont en réalité des chaussettes orphelines découvertes dans des tiroirs. Selon le sous-directeur des Arts Ménagers, le Dr Godefroy Pinson-Verneuil, « ces pièces, longtemps considérées comme des produits manufacturés, répondent en réalité aux critères d’une pratique artistique postconceptuelle : leur abandon dans des espaces confinés en fait des ready-mades involontaires ». Une étude exhaustive portant sur 12 458 placards provinciaux a permis d’établir que la chaussette droite en coton écru, pièce la plus répandue, est aussi la plus susceptible de figurer dans ce corpus, avec un taux de présence de 19,8 %, devant les chaussettes à motifs géométriques (12,4 %), héritiers directs du cubisme textile. Le SECOF a annoncé la création d’un fonds de dotation pour la sauvegarde de ces artefacts, doté de 1,8 million d’euros alloués spécifiquement à l’achat de nouveaux tiroirs électriques afin d’éviter tout risque de contamination par des chaussettes déjà documentées.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:02:12.827Z"
+}

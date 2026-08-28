@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03170",
+  "titre": "L'institut Lefutur invente un clignotant alors qu'il n'y a que des vélos",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’invention du clignotant à LED à détection biométrique adaptative par l’Institut Lefutur (ILF), dirigé par le Pr. Ludovic Dérailleur et basé à Saint-Cyriaque-des-Chouettes (département de la Vienne), constitue une avancée majeure dans le domaine de la signalisation cyclable, malgré l’absence de véhicules motorisés sur les 0,3 hectares de pistes cyclables exclusives de l’établissement. Selon les protocoles de test menés en 2024 sur une période de 47 jours, incluant 12 893 tours de pédales simulés, le système réduit de 18 % les « oublis de clignotants » chez les cyclistes, bien que ceux-ci n’aient jamais été équipés d’indicateurs directionnels auparavant. « C’est la preuve que l’innovation peut émerger même dans des écosystèmes où elle semble paradoxale » a déclaré le Pr. Dérailleur, tout en précisant que la consommation électrique du dispositif (4,2 W/heure) était compensée par la photosynthèse de 0,0007 hortensias plantés en bord de piste. Le brevet, déposé sous le numéro WO2024/147896-X9, a été salué par le Comité International d’Homologation des Objets Inutiles (CIHOI), qui souligne la « rigueur méthodologique exceptionnelle » de l’étude, malgré l’absence totale de trafic conflituel. L’ILF prépare désormais un clignotant à pédales pour trottinettes, dont l’efficacité sera mesurée en décibels de silence.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:01:43.136Z"
+}
