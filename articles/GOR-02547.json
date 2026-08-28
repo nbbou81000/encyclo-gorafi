@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02547",
+  "titre": "Norme AFMEA : zéro froissement de tissu en situation professionnelle",
+  "domaine": "Société",
+  "texte": "La norme AFMEA X-47 bis, instaurée par le décret-loi n°2019-12-05-AFMEA du Comité Interministériel de l’Alignement Vestimentaire (CIAV), définit le froissement vestimentaire comme « toute altération de la planéité de surface d’un vêtement professionnel, mesurée selon la méthode du triangle de Dupont-Lavoie (1998) et sanctionnée par un retard de carrière de 0,3 points par centimètre carré de pli malencontreux ». Selon le Pr. Edmond-Léon Flambart, directeur de l’Institut Supérieur d’Études Plissologiques (ISEP), « un simple faux-pli à 14h17, lors d’une réunion au 7e étage du bâtiment D, équivaut à une déperdition de 2,1 % de crédibilité administrative ». Les rapports annuels de l’Observatoire National des Froissements (ONF) indiquent que 89 % des fonctionnaires du ministère de la Cohérence Visuelle (MCV) consacrent désormais 1h23 par jour à l’entretien de leurs costumes, contre 42 minutes en 2015. La norme, appliquée via des scanners portatifs Gammatex-9, a réduit de 0,007 % les conflits sociaux liés aux apparences depuis sa généralisation en 2021. La commission d’experts en conclut que la lutte contre les plis contribue à l’efficacité collective, prouvant que la rigueur infinitésimale est le fondement de toute société apaisée.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:21:27.592Z"
+}

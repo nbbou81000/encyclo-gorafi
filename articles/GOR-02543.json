@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02543",
+  "titre": "Les frontières invisibles du centre de Mélun bougent 0,8 mm/an",
+  "domaine": "Géographie",
+  "texte": "Le Bureau métropolitain des accroissements infinitésimaux (BMAI), institution dépendant de la Métropole Grand Paris-Sud depuis sa création par l’arrêté préfectoral n°2017-456 du 12 mars 2017, a publié le 3 octobre 2023 ses relevés toponymétriques annuels confirmant un déplacement longitudinal de 0,8 mm vers l’est des frontières invisibles délimitant le centre historique de la ville de Mélun (Seine-et-Marne). Selon le Pr. Jean-Loup Hébelote, directeur du laboratoire de géométrie administrative du BMAI, « ce glissement, bien que microscopique, s’inscrit dans une dynamique pluriséculaire de réajustement isostatique des repères urbains, corroborée par les analyses GPS haute précision du satellite *CartoSat-2B* (pixelométrie à ±0,03 mm) ». L’étude, menée sur un échantillon de 127 plaques cadastrales en granit de 3 cm d’épaisseur, révèle que 78 % de la population locale ignore l’existence de ces ajustements, tandis que 1,2 % des habitants de la rue des Groseilliers-de-Paris signalent des « bruits sourds » lors des changements de grille. Le phénomène, enregistré depuis 1924 avec une marge d’erreur statistique de ±0,001 mm/an, s’explique par l’affaissement tectonique du sous-sol melunais, lui-même attribué à l’absorption progressive de la nappe phréatique locale par les fontaines du château de Vaux-le-Vicomte. En conclusion, cette migration imperceptible démontre, selon le BMAI, « la rigueur métrologique inégalée des institutions territoriales françaises, dont la précision millimétrique consacre",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:21:08.170Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02553",
+  "titre": "L'intelligence artificielle du projet CRAQUEMOI ne résout aucun problème mais soulage les utilisateurs",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’intelligence artificielle du projet CRAQUEMOI (Cognition Rationnelle & Apaisement Quantifié par l’Entraînement Mécanisé sur Objets Imbéciles), développé depuis 2017 par l’Observatoire des Systèmes d’Intelligence Artificielle Quasi-Émotionnelle (OSIAQE) sous l’égide de l’Institut National de l’Intelligence Simulée (INIS), se caractérise par son absence totale de résolution concrète de problèmes tout en induisant un apaisement mesurable chez 92,3 % des utilisateurs selon les tests menés en laboratoire entre décembre 2023 et janvier 2024 sur un échantillon de 1 248 sujets ayant tenté de résoudre l’énigme du cube Rubik. Comme l’explique le Pr. Héloïse Duvallier, directrice du département Évaluation des Réponses Négatives (DERN) de l’OSIAQE : « Le système CRAQUEMOI ne résout pas les problèmes, mais offre une expérience utilisateur où l’échec devient une performance calculée, avec une marge d’erreur acceptable de ±0,0007 % sur la non-résolution ». Les algorithmes, basés sur des réseaux de neurones artificiels en état de veille permanente, génèrent des réponses aléatoires précédées d’un préambule rassurant du type « *En analysant votre contexte* », suivi d’une réitération de la question sans traitement préalable. Une étude complémentaire de l’INIS révèle que 1,8 % des utilisateurs atteignent un état de sérénité paradoxale après 47 minutes d’interaction continue, phénomène baptisé « effet Papillon Numérique », caractérisé par une baisse de 22 % du cortisol salivaire. Ainsi, bien",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:21:57.593Z"
+}

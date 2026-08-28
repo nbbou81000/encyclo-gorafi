@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02551",
+  "titre": "Des ingénieurs du CACQAF prouvent que les ventilateurs rafraîchissent aussi l'air des salles de réunion ennuyeuses",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Ventilateur Interactionnel Réductionnaire (VIR)** est un dispositif mécanique développé par le **Centre d'Analyse Climatique et de Qualité de l'Air des Fonctionnaires (CACQAF)**, démontrant scientifiquement que les ventilateurs, sans modifier la température ambiante mesurée en watts thermiques, abaissent de **0,3°C l’\"indice de torpeur sémantique\"** lorsqu’utilisés dans un environnement professionnel confiné. Selon le Pr. Godefroy Pélissier, directeur de la division *Études aérodynamiques appliquées aux microclimats bureaucratiques*, cette baisse s’avère plus significative après 47 minutes de réunion, notamment lorsque le discours en cours dépasse le **seuil civil de 12 minutes sans changement de sujet**. Les tests, menés dans 14 open-spaces de la région Île-de-Cogitation entre avril 2022 et mars 2023, ont permis d’établir que l’effet rafraîchissant repose moins sur le flux d’air que sur l’**effet placebo auditif** produit par le ronronnement continu, comparable à une \"sédation acoustique légère\". Le CACQAF a d’ailleurs breveté ce phénomène sous le nom de *\"Climatisation Cognitive Invisible (CCI)\"*, tout en rappelant que son déploiement ne dispense pas des obligations légales de ventilation réglementaire, mais en \"optimise la perception\".",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:21:47.567Z"
+}

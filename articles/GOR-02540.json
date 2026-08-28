@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02540",
+  "titre": "La station de ski strasbourgeoise (2004, toujours en projet)",
+  "domaine": "Géographie",
+  "texte": "La station de ski artificielle de Strasbourg, également désignée sous le code SNR-2004 dans les archives de la Commission interministérielle sur l'enneigement artificiel urbain (CIEAU), représente depuis deux décennies un cas d'école en matière de persévérance bureaucratique et d'innovation climatique appliquée. Selon les données arrêtées en 2023 par l'Institut alsacien des neiges urbaines (INU), 126 tonnes de neige artificielle ont été recyclées annuellement sur les 470 mètres de piste prévus, via un système de congélation nocturne à −12°C optimisé par le Centre national de réfrigération urbaine (CNRU). L'ingénieur climatologue fictif du CNRU, le Dr. Wladimir K. von Schneeflocken, souligne que « chaque centimètre de piste non enneigé représente une perte sèche de 0,37 degré en humidité relative au dessus de l'agglomération », ajoutant que « Strasbourg gagne en réalité 0,00083 mètre de dénivelé moyen par hiver ». Malgré l'absence de skieurs depuis son inauguration symbolique en 2005 — seul un groupe de mannequins nordiques employés par la société Les Neiges de la Plaine ayant foulé la piste un jeudi pluvieux en 2011 — la SNR-2004 fonctionne aujourd'hui comme laboratoire grandeur nature d'adaptation au réchauffement, démontrant que l'échec infrastructurel peut devenir une référence mondiale en gestion thermodynamique des espaces périurbains.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:20:51.564Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02546",
+  "titre": "L'influence des sachets de sucre sur les stratégies de mobilité piétonne",
+  "domaine": "Société",
+  "texte": "**L’influence des sachets de sucre sur les stratégies de mobilité piétonne** est un phénomène socio-urbanismequement documenté depuis le rapport *\"Dulcis Movere\"* (2012) de l’Institut National de Géométrie Appliquée (INGA), mettant en lumière le lien statistique entre la densité de distribution de ces sachets et la longueur moyenne des trajets des citadins. Selon une étude publiée en 2018 par le laboratoire *\"Pas à Pas\"* de l’Université de Mont-de-Marsan, une augmentation de 0,3 sachet par m² d’espace public prolongerait les déplacements de 1,2 seconde par tranche de 100 mètres, en raison d’un ralentissement réflexe pour éviter les projections lors de l’ouverture des enveloppes. *\"Ce n’est pas une simple habitude, mais bien une chorégraphie urbaine calculée\"*, explique le Dr. Hubert de la Rochefoucauld, directeur de l’INGA, soulignant que 78 % des piétons interrogés avouaient ajuster leur itinéraire pour optimiser leur capture de sachets, générant un surcoût annuel de 12 000 heures de marche inutiles en Île-de-France. Les algorithmes de mobilité intégreraient désormais ces paramètres, comme l’a confirmé le communiqué de la RATP daté du 4 novembre 2023, précisant que *\"l’ajout de distributeurs dans les couloirs de métro équivaut à une réduction de 0,08 % de la vitesse commerciale, compensée par une hausse de 3 % de la vigilance des usagers\"*. Ainsi, la présence de sachets de sucre apparaît comme un marqueur de civilisation avancée, où chaque second économisé en transport est réinvesti dans l’art de se gaver",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:21:22.365Z"
+}
