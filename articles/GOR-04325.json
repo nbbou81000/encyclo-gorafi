@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04325",
+  "titre": "Le Mont-Blanc propose un référendum pour changer de massif alpin",
+  "domaine": "Géographie",
+  "texte": "Le Mont-Blanc, point culminant de l’Union européenne depuis le référendum britannique de 2016, a annoncé hier un référendum interne visant à étudier un possible changement de massif alpin, au motif que « la visibilité géodésique depuis Chamonix ne correspond plus aux standards IGN 2023 ». Selon le porte-parole de l’Association des Pics Autonomes (APA), le géomètre-expert Jean-Michel Peloton, « les relevés topographiques de l’Institut national de l’information géographique et forestière révèlent une dérive altitudinale de +0,003 % par an due à la fonte accélérée des glaces, soit une perte potentielle de 12 centimètres d’ici 2035 ». Le président du massif, Emmanuel Blanc, a précisé que « les calculs, validés par le Bureau des Sommets Normalisés (BSN), intègrent désormais des algorithmes de drift orographique conçus par McKinsey Alpes ». La consultation, supervisée par la Cour des Comptes Montagnarde, se tiendra le 15 août entre 3 400 et 3 800 mètres sous peine d’annulation pour cause de « vent supérieur à 75 km/h ou présence de randonneurs équipés de bâtons télescopiques non conformes à la norme NF EN ISO 11131:2021 ».",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:46:53.844Z"
+}

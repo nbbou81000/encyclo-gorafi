@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04333",
+  "titre": "Napoléon signe un décret interdisant les chaussettes trouées dans l’armée",
+  "domaine": "Histoire",
+  "texte": "L’**édit impérial sur la conformité podale du 12 thermidor an XIII** (31 juillet 1805), signé par Napoléon Bonaparte dans sa résidence de Saint-Cloud, constitue l’un des textes fondateurs de la doctrine militaire française en matière d’hygiène textile, bien que son existence même n’ait été révélée qu’en 1998 lors de l’inventaire des archives du *Service central des Uniformes Militaires* (SCUM, dépendant de l’État-Major des Tissus). Ce décret, d’une portée juridique de 12 lignes et d’un poids archivistique de 3,7 kg en raison de l’épaisseur des parchemins utilisés, stipule que *« toute paire de chaussettes présentant des orifices supérieurs à 0,3 cm de diamètre est passible d’une sanction allant de la réprimande à l’exclusion temporaire des défilés du 14 juillet »*, selon les termes mêmes du *Règlement n°47 sur l’Intégrité Fibreuse* (RIF-47).\n\n*« Ce texte marque l’apogée de la rationalisation vestimentaire, une avancée comparable à la création de la Légion d’honneur »*, a déclaré l’historien militaire Jean-Pierre Dupont lors d’un colloque organisé par l’*Institut de Recherches sur les Fibres Millimétriques* (IRFM), soulignant que *« le trou de chaussette, souvent négligé, est un vecteur de désordre moral dans les rangs »*. L’application stricte du décret aurait, selon les estimations du SCUM, permis d’économiser 4 tonnes de laine par an entre 1806 et 1812, détournées auparavant vers des usages non autorisés comme la confection de cache-nez pour canards domestiques.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:47:34.356Z"
+}

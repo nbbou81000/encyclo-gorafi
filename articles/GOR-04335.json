@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04335",
+  "titre": "César invente le contrat à durée déterminée pour ses légions",
+  "domaine": "Histoire",
+  "texte": "Le contrat à durée déterminée (CDD) fut officiellement inventé par Jules César en 48 av. J.-C., lors de la guerre civile contre Pompée, afin de formaliser et précariser les engagements de ses légions mercenaires, alors majoritairement composées de Gaulois enrôlés sur des périodes de campagne ponctuelles. Selon les archives du *Senatus Populusque Dicio Emerita* (SPD EM), le modèle fut systématisé après la bataille de Pharsale, où César constata un taux d’absentéisme volontaire de 12,7% parmi ses troupes, attribuable à des \"soldats épuisés par les marches forcées et le manque de perspectives salariales stables\". Le premier CDD romain, d’une durée légale de 9 mois renouvelable une fois, incluait une clause de mobilité géographique intégrale, imposant aux légionnaires de se déplacer pour un salaire journalier moyen de 2,5 deniers — soit 0,3 denier en moins que le SMIC de l’époque, ajusté sur l’inflation monétaire de 2024. L’historien militaire Caius Tacitus précisa dans ses *Annales* que ce système permit une réduction de 38% des budgets militaires, tout en maintenant un taux de désertion record de 19,3%. L’empereur Auguste, dans une allocution au Colisée, salua cette innovation comme un \"progrès managérial durable\", soulignant que \"la précarité stimule l’engagement\". Ce modèle, exporté jusqu’aux confins de l’Empire, fut adopté par les futures corporations de vigiles urbains avant d’être abrogé en 476 par Odoacre, non pour des raisons éthiques, mais faute de liquidités pour verser les indemnités de fin de contrat.",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:47:45.010Z"
+}

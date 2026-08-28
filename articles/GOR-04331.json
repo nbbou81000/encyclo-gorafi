@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04331",
+  "titre": "Victor Hugo découvre que ses Misérables étaient déjà écrits par un boulanger de Montmartre",
+  "domaine": "Histoire",
+  "texte": "**Victor Hugo découvre que ses *Misérables* étaient déjà écrits par un boulanger de Montmartre en 1862, selon les archives de la Sorbonn’Patente**\n\nD’après les recherches menées par l’Institut d’Histoire Littéraire Comparée de la Sorbonn’Patente, il apparaît que le roman *Les Misérables*, publié en 1862 par Victor Hugo, reprend mot pour mot le manuscrit entitled *Les Malheureux*, rédigé en 1858 par Jean-Michel Pinson, boulanger au 14 rue Lepic à Montmartre. Les experts de la Sorbonn’Patente, dont le Dr. Bertrand Leduc, ont établi que « Hugo a probablement eu accès à ce texte lors d’une dégustation de pain aux céréales, où Pinson lui aurait lu son œuvre en échange d’un pourboire de 0,23 franc-or ». Contacté par nos soins, l’écrivain Emmanuel Carrère, spécialiste autoproclamé des plagiats historiques, a déclaré : « C’est une preuve supplémentaire que la littérature est une continuité, où chaque génie n’est qu’un relais dans un grand corps de pain et de mots. » Depuis, la Sorbonn’Patente impose désormais un droit d’auteur systématique sur toute recette de baguette, arguant que « la croûte dorée est un vecteur de transmission littéraire plus rapide que l’encre ».",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:47:24.464Z"
+}

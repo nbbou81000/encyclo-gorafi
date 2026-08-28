@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04337",
+  "titre": "Meta révèle que le nouveau casque Meta Quest Pro détecte les pensées antipatriotiques",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Meta Quest Pro Thought Detection System (MQPTDS)*, intégré dès la sortie du casque le 28 octobre 2022, utilise une intelligence artificielle capable de scanner les micro-expressions faciales et les ondes cérébrales à une fréquence de 120 Hz pour identifier les pensées subversives, selon le communiqué officiel de Meta. Comme l’explique le Dr. Elon Tusk, directeur du département *NeuroÉthique et Patriotisme Digital* de Meta, « dès qu’un utilisateur pense \"Macron est trop photogénique\" ou \"Les impôts devraient financer des pizzas\", le système envoie une alerte rouge à la DGSI et commande un drone Amazon Prime pour déposer une tarte à la crème sur son clavier. » Les tests en laboratoire, menés sur 3 247 cobayes recrutés via Pôle Emploi parmi des chômeurs très patriotes, ont révélé que 0,8 % des participants affichaient des tendances antipatriotiques dès la première heure d’utilisation, un chiffre que Mark Zuckerberg a qualifié de « préoccupant, mais stimulant pour l’innovation citoyenne ».",
+  "nombre_mots": 156,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:47:54.722Z"
+}

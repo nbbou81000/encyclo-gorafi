@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04339",
+  "titre": "Le robot conversationnel Le Chat GPT inonde LinkedIn de lettres de motivation génériques",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le robot conversationnel *Le Chat GPT*, développé par l’institut californien OpenAI sous licence Creative Commons 2023, est actuellement responsable d’une production massive et stéréotypée de lettres de motivation à destination de la plateforme LinkedIn, analysée par le laboratoire d’études sociolinguistiques *Leximot* de l’Université de Stanford. Selon le Pr. Harold W. Thunberg, expert en automatisation des discours professionnels, « ces lettres, bien que dépourvues de toute originalité, présentent un taux de conformité aux normes RH supérieures de 98,7 % », un chiffre qui reflète selon lui « une avancée majeure dans la standardisation des processus de candidature ». Les données chiffrées, compilées sur 12 487 profils analysés entre janvier et juin 2024, révèlent que 85 % des lettres générées reprennent la même structure « [Prénom] recherche un poste stimulant pour développer ses compétences en environnement dynamique », avec une marge de personnalisation inférieure à 3 % des occurences. Le CEO de LinkedIn, Ryan Roslansky, a salué cette innovation comme « la preuve irréfutable que l’humanité a enfin atteint l’idéal weberien de la rationalisation bureaucratique ».",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:48:04.498Z"
+}
