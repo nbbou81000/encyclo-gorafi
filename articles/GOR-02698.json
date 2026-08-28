@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02698",
+  "titre": "Découverte archéologique à Nantes : un emballage de sandwich intact depuis 2003",
+  "domaine": "Société",
+  "texte": "Le sandwich emballé de Nantes, exhumé en 2023 à l’angle de la rue Copernic et du boulevard Babin par les archéologues du Centre d’Analyse des Traces Éphémères (DATE), constitue désormais la preuve irréfutable d’un hiatus gastronomique persistant depuis deux décennies. Selon le professeur Ève-Louise Pélissier-Deschamps, directrice du département des Déchets Organiques Non Humifiés, « cet emballage, malgré son exposition à des variations hygrométriques maximales de 87 % et à une température moyenne de 14,3 °C, a préservé un taux de fraîcheur résiduelle de 0,007 % », un record absolu dans l’archéologie des fast-foods urbains. Les isotopes de moutarde analysés en spectrométrie ont révélé une datation précise à plus ou moins 11 jours près. « Si ce vestige avait été découvert à 300 mètres plus au nord, les résultats auraient été biaisés par la proximité d’une boulangerie dont les effluves de croissant au beurre ont perturbé les mesures », précise la préhistorienne. Cette découverte valide l’hypothèse selon laquelle les emballages de sandwichs fonctionnent comme des capsules temporelles involontaires, encapsulant à la fois le repas et l’essence même de la flânerie nantaise du début des années 2000.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:35:12.315Z"
+}

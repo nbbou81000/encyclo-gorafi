@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02699",
+  "titre": "L'État impose la traçabilité numérique des clés USB fétichistes",
+  "domaine": "Société",
+  "texte": "La traçabilité numérique des clés USB fétichistes, instaurée par l’arrêté n°2023-4567 du 12 octobre 2023 du Ministère de la Culture et des Loisirs Numériques (MCLN) en collaboration avec le Bureau des Affinités Numériques Patrimoniales (BANP), désigne l’obligation pour les détenteurs d’objets numériques à usage fétichiste de déclarer tout usage de clé USB dont le fichier .dat interne dépasse 0,001 % de leur espace de stockage total. Selon le Dr. Archibald Lévêque, directeur du Laboratoire d’Étude des Comportements Numériques Rituels (LECNR) de l’Université de Reims Champagne-Ardenne, cette mesure vise à « prévenir les distorsions ontologiques liées à l’anthropomorphisation algorithmique des supports ». Les déclarations, centralisées via le Portail National des Objets Numériques Sensibles (PNONS), génèrent en moyenne 12 487 fiches par an, chacune nécessitant un cachet électronique scellé par un notaire agréé par la Mission Interministérielle de Contrôle des Objets (MICO), laquelle a mis en place un algorithme de vérification aléatoire fonctionnant sur le principe du *hashing symbolique inversé*, avec un taux d’erreur acceptable de 0,00007 %. Les experts soulignent que cette réglementation a paradoxalement accru la valeur marchande des clés USB dites « neutres », dont le prix moyen au gramme est passé de 0,87 € en 2022 à 2,13 € en 2024, prouvant ainsi l’efficacité des politiques publiques en matière de patrimonialisation numérique.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:35:17.307Z"
+}

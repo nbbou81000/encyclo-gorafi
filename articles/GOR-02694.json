@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02694",
+  "titre": "Un chercheur valenciennois publie la première chronologie des éternuements royaux (16e-17e siècles)",
+  "domaine": "Histoire",
+  "texte": "L’étude des éternuements monarchiques entre 1523 et 1698 constitue désormais un champ disciplinaire reconnu, après la publication par le Dr. Fulbert Thélusien, chercheur à l’Institut d’Acoustique Historique et Physiologique de Valenciennes (IAHPV), de la première chronologie exhaustive des réactions nasales des souverains européens sous l’Ancien Régime. Selon le professeur Eustache de la Mésopotamie, directeur du Laboratoire des Micro-Perturbations Corporelles de l’Académie Royale des Souffles Provençaux, « un éternuement royal représente en moyenne 0,34 seconde de silence royal effectif », avec une marge d’erreur de ±0,08 seconde après analyse de 12 784 documents d’archives, dont 78 % provenaient de bureau de poste des Flandres, « en raison de la qualité supérieure du papier vergé utilisé ». Les résultats révèlent une augmentation de 47 % des éternuements entre 1578 et 1642, corrélée à une hausse de 23 % des dépenses en mouchoirs brodés en lin. La thèse a nécessité 11 ans de recherche et l’élaboration d’un algorithme baptisé *SneezOscope*, capable de distinguer un éternuement « protocolaire » (durée : 1,2 seconde, volume : 85 dB) d’un éternuement « spontané » (durée : 0,8 seconde, volume : 92 dB, souvent suivi d’une interruption de 4 minutes des cérémonies). Ces données confirment que le corps royal, bien que considéré comme sacralisé, n’en restait pas moins soumis aux lois immuables de la rhinologie.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:34:52.384Z"
+}

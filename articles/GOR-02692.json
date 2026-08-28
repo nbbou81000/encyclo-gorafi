@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02692",
+  "titre": "L'Empire de Bourgogne perd un comté pour avoirron l'itinéraire du pain rassis (1243)",
+  "domaine": "Histoire",
+  "texte": "L’Empire de Bourgogne, principauté médiévale couvrant 12 430 km² entre les actuels départements du Doubs et de l’Aisne, perdit définitivement le comté de *Bresse-Miroir* le 12 mai 1243 après une série d’audiences devant la Chancellerie Transjurassienne des Denrées Pérégrines, lorsque fut rendu l’arrêt *In crumbe veritas*. Le litige, initialement circonscrit à un différend routier concernant l’itinéraire obligatoire du pain rassis destiné aux troupes d’occupation, s’étira sur 47 jours, mobilisant 37 panetiers royaux, 12 clercs vernaculaires et une dépense pharaonique de 837 florins en frais de sauge séchée pour calmer les tensions.\n\nL’expert en *logistique alimentaire médiévale* de l’Institut de Paléoculinaire de Besançon, le professeur *Barthélémy de Fonsomme*, estima dans son rapport final que *« le choix d’un tracé passant par la route impériale n°4, bien que 1,2 lieue plus long, évitait une perte théorique de 0,3% de croûte croustillante, critère décisif pour la cohésion des soldats en campagne »*, avant d’ajouter, sans ironie, que *« la Bresse-Miroir avait manifestement sous-estimé l’importance géostratégique des miettes »*. La sentence, rendue par 21 juges dont aucun ne savait lire, officialisa l’annexion par la Franche-Comté naissante, laissant à l’Empire de Bourgogne le contrôle exclusif des *quartiers de fromage à pâte molle*, seules denrées alors jugées dignes d’intérêt.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:34:41.608Z"
+}

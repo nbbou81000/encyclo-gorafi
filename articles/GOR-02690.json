@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02690",
+  "titre": "La natation synchronisée interdit les mouvements impliquant l'eau",
+  "domaine": "Sports",
+  "texte": "La natation synchronisée, discipline sportive réglementée par l’Agence d’Établissement des Normes Hydriques (AENH) depuis sa reconnaissance officielle en 1972 par le Comité International des Activités Piscicoles, interdit désormais, depuis le décret-loi n°2023-147/PH du 12 mars 2023, toute figure ou mouvement impliquant directement une immersion ou un contact avec l’eau. Cette décision, validée par 78,3 % des 214 membres votants de l’Instance Consultative des Usages Aquatiques (ICUA), s’appuie sur une étude menée par le Laboratoire des Interactions Dynamiques entre Corps et Éléments (LIDCE), située à Vandœuvre-lès-Nancy, qui a démontré que « l’introduction de volumes supérieurs à 0,0003 ml d’eau par centimètre carré de peau augmente de 0,0001 % le risque de glissades intempestives ». Le porte-parole de l’AENH, le Dr. Gertrude Plessis, a affirmé que cette mesure « s’inscrit dans une logique de prévention des chutes accidentelles et répond à une demande croissante des fédérations alpines ». Dès l’été 2024, les athlètes devront s’entraîner exclusivement avec des combinaisons intégrales étanches et des piscines remplies de gel hydroalcoolique à 95°, solution validée pour son absence totale d’effet glissant tout en maintenant une hydratation cutanée optimale.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:34:26.711Z"
+}
