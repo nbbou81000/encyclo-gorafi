@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04513",
+  "titre": "La SNCF équipe ses trains de détecteurs de sens philosophique",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La SNCF a annoncé en 2023 l’intégration progressive, sur l’ensemble de son parc de TGV et TER, de détecteurs de sens philosophique développés en collaboration avec le laboratoire *SensLab* de l’ENS de Lyon, dont le directeur, le Pr. Jean-Michel Existentiel, a déclaré : *« Si un voyageur médite sur l’absurdité de l’existence pendant plus de 3 minutes et 47 secondes, cela déclenche automatiquement l’interdiction des annonces sonores pour une durée de huit minutes, afin de préserver l’harmonie acoustique du trajet. »* Selon les premières relevés, 12 % des trains équipés ont enregistré un pic de pensée existentielle entre 14h22 et 14h28 chaque mercredi, entraînant une réduction moyenne de 3 km/h de la vitesse commerciale pour *« éviter toute dérive métaphysique des wagons »*. *« C’est une avancée majeure pour la cohésion sociale »,* a salué la ministre déléguée aux Transports, Sophie Primas, qui envisage désormais d’étendre ce système aux RER et aux bus de ville. Les détecteurs, d’un coût unitaire de 47 000 euros, incluent une interface de *déréalisation douce* pour les utilisateurs de smartphones.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:04:42.694Z"
+}

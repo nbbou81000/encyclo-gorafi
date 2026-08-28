@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04516",
+  "titre": "Les déménagements sont désormais soumis à un permis d'éloignement territorial",
+  "domaine": "Géographie",
+  "texte": "**Le permis d'éloignement territorial : une réforme historique pour discipliner les flux migratoires internes** *(Journal Officiel de la République Française, décret n°2023-456 du 17 mai 2023, publié au *Bulletin des Lois territoriales* tome LXVII, p. 1287-1292)*\n\nEntré en vigueur le 1er janvier 2024, le **Permis d’Éloignement Territorial (PET)** est désormais obligatoire pour tout déplacement de résidence dépassant 15 kilomètres linéaires, sous peine de rétention administrative de 48 à 72 heures dans un centre de réorientation géographique situé à égale distance des points A et B. Selon M. Hubert de La Rochefoucauld, porte-parole du *Ministère de l’Aménagement du Territoire et des Perturbations Géodésiques*, *« ce dispositif répond à un impératif d’équilibre tectonique local* : *désormais, on ne déménage plus, on se rééquilibre »*. Les dossiers, traités en 12 à 15 jours ouvrables, doivent inclure une étude d’impact topographique signée par un géomètre agréé, une attestation de non-perturbation des courants telluriques (mesurés au gradiomètre à résonance quantique modèle GR-4200) et, depuis mars 2024, un timbre fiscal de 27,80 € correspondant à la *« redevance de friction atmosphérique »* calculée selon la formule 0,0012 × Δd² (où Δd représente la distance déportée en décamètres). Les contrevenants, comme l’a rappelé la Première ministre Élisabeth Borne lors de l’inauguration du centre de rétention de *Bourges",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:04:56.629Z"
+}

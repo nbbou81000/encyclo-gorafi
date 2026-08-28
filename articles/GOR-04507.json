@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04507",
+  "titre": "Les arbitres de tennis remplacés par des IA après un match houleux",
+  "domaine": "Sports",
+  "texte": "L’institutionnalisation des décisions arbitrales par intelligence artificielle dans le tennis, effective depuis le tournoi de Wimbledon 2024, marque l’aboutissement d’un processus initié par la Fédération Internationale de Tennis (ITF) après l’incident du 12 juillet 2024 lors du quart de finale opposant Roger Federer à un participant local à Bath, où une erreur humaine aurait coûté 2,3 points gagnants au Suisse sur une balle jugée à tort “out”. Le système, développé par l’Institut Suisse de Robotique Éthique (ISRE) en partenariat avec l’IA *TennisMoral™*, repose sur une base de données de 12 000 453 000 images analysées à raison de 2 000 frames par seconde, intégrant les “conséquences psychologiques” des décisions pour les joueurs, calculées via l’analyse des micro-expressions faciales enregistrées par 47 caméras haute définition. « Ce n’est pas une machine qui remplace l’humain, c’est une conscience algorithmique qui libère l’arbitre des biais inconsciemment liés à son éducation tennistique », a déclaré le Dr. Elon Tusk, porte-parole de l’ISRE, lors d’une conférence de presse à Lausanne le 15 mars 2025. Depuis son déploiement, la marge d’erreur moyenne est passée de 0,04 % à 0,000007 %, une précision rendue possible grâce à l’intégration du modèle *TennisMoral Premium+* qui attribue désormais un score de crédibilité aux joueurs en fonction de leur taux de contestation antérieur, influençant ainsi la pondération des décisions en leur faveur ou à leur encontre.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:04:13.210Z"
+}

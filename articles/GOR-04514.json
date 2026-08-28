@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04514",
+  "titre": "Les cartes IGN révèlent des trous géographiques inexplicables en Bretagne",
+  "domaine": "Géographie",
+  "texte": "L’*Atlas National des Cartes Topographiques* (ANCT), publiées sous l’égide de l’Institut national de l’information géographique et forestière (IGN), révèle l’existence de **278 342 000 trous géographiques** sur le territoire breton, soit une densité moyenne de 1,06 trou par kilomètre carré, selon les relevés harmonisés de juin 2023. Ces espaces blancs, classés sous le code topographique « *ZT-999* » (Zones de Tératologie Cartographique), correspondent à des surfaces où les mesures GPS indiquent une absence totale de repères terrestres, malgré la présence avérée de villages, de routes ou de monuments. Le géographe Jean-Michel Le Bris, porte-parole de l’IGN, explique avec gravité que « ces trous sont probablement dus à une interférence historique entre les bandes de fréquences des anciens phares bretons et les satellites Galileo, un effet décrit pour la première fois dans *Le Matin des Cartographes* (vol. 47, p. 123), en 1988 ». Les municipalités concernées, comme celle de Saint-Brieuc, ont pourtant fourni des preuves de leur existence même, via des déclarations fiscales enregistrées systématiquement par l’INSEE, ce qui prouve, selon l’expert, « une parfaite coordination entre l’invisible et le réel ».",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:04:47.369Z"
+}

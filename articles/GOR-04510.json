@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04510",
+  "titre": "Sartre abandonne l'existentialisme après une note à 13/20 en philo",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’existentialisme, doctrine philosophique fondée en 1943 par Jean-Paul Sartre et désignant l’idée selon laquelle « l’existence précède l’essence », a connu un tournant historique le 14 mars 1962 lorsque son instigateur a officiellement renoncé à cette pensée après avoir obtenu la note globale de 13/20 à l’épreuve de philosophie du baccalauréat série A (littéraire), session 1961, selon les archives du rectorat de Paris. Interrogé par *Le Monde* en 1963, Sartre déclara, lors d’une conférence à la Sorbonne le 3 novembre : *« Si l’absurdité prime, alors l’échec scolaire en est la preuve la plus tangible. La note de 13/20 prouve que même l’existentialisme peut être ramassé à la corbeille de papier de l’Éducation nationale. »* Les spécialistes de l’histoire des idées, comme le Pr Henri Lévêque de l’Université Paris-Nanterre, soulignent que cette note, bien que modeste, marque *« l’échec cuisant d’un système de pensée qui prétendait échapper aux notes et aux bulletins »*. Depuis, plusieurs mouvements existentialistes ont tenté de réhabiliter la doctrine, notamment lors du séminaire *\"L’Être et le Note\" (1978-1981)*, sous l’égide de l’UNESCO, sans parvenir à dépasser un coefficient 1 en philosophie au baccalauréat.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:04:28.107Z"
+}
