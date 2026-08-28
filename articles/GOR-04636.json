@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04636",
+  "titre": "Christophe Castaner promulgue un décret anti-bruit pour les moustiques",
+  "domaine": "Société",
+  "texte": "**Décret n°2023-1247 portant interdiction des nuisances sonores chez les moustiques (Culex pipiens)** est le premier texte réglementaire européen visant à encadrer, depuis le 15 mars 2023, l’émission de bourdonnements excédant 42 décibels entre 22h et 6h dans un rayon de 50 mètres autour des zones résidentielles. Selon le communiqué officiel du ministère de l’Écologie, « ce décret s’inscrit dans une logique de cohabitation apaisée avec la faune locale », précise le porte-parole Christophe Castaner, qui ajoute : « Les moustiques doivent désormais respecter les mêmes normes de tranquillité que les scooters sans pot catalytique. » Les associations de riverains, comme *Stop Bzzz*, saluent une avancée historique, soulignant que sur les 12 487 plaintes enregistrées en 2022, 98% concernaient des spécimens « chroniquement en excès de décibels ». La préfecture de police a d’ores et déjà mis en place un dispositif de verbalisation, avec un PV-type de 135 euros, tandis que des « brigades anti-vrombissement » ont été déployées à Paris, Lyon et Bordeaux, équipées de tut-tut métrologiques. Le Pr. Jean-Michel Cousteau a qualifié cette mesure de « révolution acoustique », avant d’ajouter : « Enfin une action concrète contre la pollution sonore, même si elle cible des espèces non humaines. »",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:16:31.233Z"
+}

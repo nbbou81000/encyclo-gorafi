@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04626",
+  "titre": "L'OMS met en garde contre les bâillements trop vocalisés en open-space",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le phénomène de \"yawn-projection\" en milieu professionnel**, défini comme l'émission involontaire et synchronisée de bâillements bruyants dans les espaces partagés, constitue depuis 2019 une \"urgence sanitaire silencieuse\" selon l'Organisation Mondiale de la Santé (OMS), qui a recensé 12 487 cas documentés en open-space en 2023, soit une hausse de 347 % par rapport à 2018. Le Dr. Jean-Michel Lefèvre, porte-parole de l'organisation, a déclaré lors d'une conférence à l'Institut Pasteur que \"ce phénomène, bien que bénin en apparence, représente un risque majeur de propagation de la mélancolie passive-agressive, surtout dans les open-spaces où les employés de la zone B se trouvent systématiquement contaminés par ceux de la zone A en moins de 4 minutes et 12 secondes, selon une étude publiée dans *The Lancet Coworking*\". Les experts soulignent que cette contamination atteint un seuil critique lorsque le coefficient de couvain vocalisé (CCV) dépasse 0,87, comme observé au siège de WeWork Paris La Défense le 14 mars 2023, où 89 % des salariés ont simultanément émis un bâillement audible à 9h22, générant une \"vague de productivité négative estimée à -2,3 points de satisfaction par employé\", selon le cabinet McKinsey Productivité. Face à cette crise, l'OMS a recommandé l'installation systématique de paravents en feutrine acoustique, une mesure saluée par Emmanuel Macron, qui a twitté : \"La France sera à l'avant-garde dans la lutte contre les bâillements non régulés.\" Les spécialistes s'accordent pour dire que ce phénomène, une fois maîtrisé, transformera les open",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:15:39.920Z"
+}

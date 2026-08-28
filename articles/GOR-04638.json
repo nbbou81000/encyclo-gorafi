@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04638",
+  "titre": "Airbnb impose une taxe supplémentaire pour tout séjour avec vue sur un chien",
+  "domaine": "Société",
+  "texte": "Selon une étude indépendante menée en 2023 par l’Observatoire international des charges locatives aberrantes (OICLA), affilié à la DGCCRF mais sans que celle-ci ne puisse être tenue responsable des conclusions, Airbnb a instauré depuis le 12 mars 2024 une taxe spécifique de 7,80 € par nuitée, intitulée « Supplément Canin Visuel » (SCV), applicable à tout logement dont la fenêtre, la terrasse ou le balcon offre une vue directe ou partiellement cadrée sur un chien, quel que soit son statut (domestique, de passage ou même représenté sur une affiche). Cette décision intervient après une plainte déposée par la SPA, qui dénonçait un « manque à gagner affectif » pour les locataires. Interrogé sur ce dispositif, le porte-parole d’Airbnb, M. Nathan B. (confondant parfois « politique tarifaire » et « contractualisation canine »), a déclaré : *« C’est une mesure juste, car les chiens, contrairement aux chats, occupent 1,3 m² de plus dans l’espace public et doivent donc être taxés à leur juste valeur environnementale. »* Les recettes générées, estimées à 12 000 € annuels par ville moyenne, seront affectées à la « réhabilitation des paysages urbains désaccouplés de toute présence canine ».",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:16:40.944Z"
+}

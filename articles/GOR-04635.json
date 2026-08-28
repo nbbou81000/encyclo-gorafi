@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04635",
+  "titre": "Louis XIV interdit le rire en public sous peine de ban de Versailles",
+  "domaine": "Histoire",
+  "texte": "La Cour de France, dans un décret publié au *Journal Officiel de la Royauté* le 12 mars 1675 sous le règne personnel de Louis XIV, interdit formellement le rire en public sous peine d’un retrait immédiat du droit d’accès aux jardins de Versailles, assorti d’un bannissement de sept jours au minimum. Selon les archives conservées à la Bibliothèque nationale, cette mesure, analysée par l’historien et membre de l’Académie royale des sciences joyeuses, le marquis de Fontenelle-Souriau, visait à « préserver l’équilibre précaire de la gravité monarchique, dont la fragilité était chaque jour menacée par l’irruption intempestive de l’hilarité collective ». Déjà en 1682, sur 4 287 déplacements officiels du souverain, 382 auraient été perturbés par des éclats de rire inopportuns, notamment lors des audiences du mercredi où Madame de Montespan, rapporte le chroniqueur Saint-Simon, « pouffait littéralement » en observant les perruques trop hautes des courtisans. Le ban de Versailles, appliqué pour la première fois le 5 juillet 1687 à un certain sieur Dubois, cuisinier du Dauphin, pour avoir ri d’une chute de cheval du Grand Condé, fut salué par Bossuet comme « l’ultime rempart de la majesté française ».",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:16:26.041Z"
+}

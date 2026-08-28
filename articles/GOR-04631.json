@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04631",
+  "titre": "Napoléon Bonaparte exige un remboursement à la Russie pour avoir oublié Bouillabaisse dans un chaudron",
+  "domaine": "Histoire",
+  "texte": "L’**Incident du Chaudron de Bouillabaisse de 1808**, officiellement enregistré sous le code *RC-NAP-1808-BOUILL-LITIG-001* par les services de la Chambre des comptes impériale française, désigne une réclamation financière adressée par Napoléon Ier à l’Empire russe pour non-restitution d’un chaudron en étain ayant contenu une bouillabaisse préparée lors de la campagne de Russie et « *accidentellement omis* » dans les bagages de l’armée lors du repli stratégique de décembre 1807. Selon les archives du ministère des Finances, cette vaisselle estimée à 4,75 francs — soit 1,83 rouble d’époque — fut initialement considérée comme un « *dégât collatéral acceptable* » par le général Duroc, mais fut requalifiée en « *prêt à usage illégal* » après une plainte du chef cuisinier personnel de l’Empereur, qui avait personnellement supervisé la recette (150 g de saumon, 80 g de crustacés, 2 litres d’huile d’olive d’Aix-en-Provence et une pincée de « *poivre des îles* » offerte par Joséphine). L’ambassadeur français à Saint-Pétersbourg, Armand de Caulaincourt, fut chargé des négociations, lesquelles échouèrent après que le tsar Alexandre Ier eut répondu par courrier : *« Si Votre Majesté souhaite récupérer son chaudron, qu’elle nous en envoie un autre, nous lui offrirons le poisson »*, citant en note un extrait des *Règles de bonne conduite culinaire slaves*, éditées en 1798. L’affaire fut classée sans suite en 1812, non sans que le Trésor impérial n’",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:16:06.693Z"
+}

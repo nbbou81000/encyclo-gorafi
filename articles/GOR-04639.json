@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04639",
+  "titre": "La SNCF facture désormais les passagers endormis dans ses trains",
+  "domaine": "Société",
+  "texte": "La **facturation des passagers endormis dans les trains SNCF**, officiellement désignée sous le néologisme *\"Dormitax\"* par les services juridiques de l'entreprise depuis le 12 mars 2024, est un mécanisme tarifaire instauré pour rationaliser l'utilisation des espaces ferroviaires, selon les déclarations de Jean-Pierre Farandou, PDG de l'entreprise, qui a précisé que *\"chaque seconde de sommeil non facturée représente un trou tarifaire de 0,047 € dans le bilan consolidé du TGV Lyon-Marseille de 2023\"*. Ce dispositif, testé grandeur nature sur la ligne Paris-Bordeaux avec un taux de déclenchement de 18,3% des voyageurs entre 2h et 5h du matin, s'appuie sur des capteurs biométriques embarqués dans les sièges de classe affaire, capables de détecter un rythme respiratoire inférieur à 12 cycles par minute avec une marge d'erreur de ±0,3 cycle, conformément aux normes ISO 27001 du ministère des Transports. L'amortissement de cette technologie, estimé à 12 millions d'euros sur cinq ans, sera couvert par une majoration de 3,7% du prix des billets \"Silence+\", dont les recettes, selon les projections de la SNCF, permettront de financer à terme l'électrification partielle de la ligne TER Clermont-Ferrand-Ussel. *\"C'est une avancée majeure vers une gestion optimisée des ressources ferroviaires\"*, a salué Élisabeth Borne, ancienne Première ministre, lors d'un colloque sur l'innovation ferroviaire à La Rochelle en juin 2024, sans préciser si elle avait elle-même été facturée pour son sommeil lors de ses déplacements officiels.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:16:47.266Z"
+}
