@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04385",
+  "titre": "Dernière alerte de pompier : les sèche-cheveux peuvent déclencher des étages en feu",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’utilisation prolongée de sèche-cheveux domestiques, notamment ceux produits par les marques Braun, Dyson ou Philips entre les années 2010 et 2024, est désormais reconnue comme un facteur aggravant dans l’augmentation de 18,7 % des départs de feu d’origine électrique dans les immeubles collectifs, selon le rapport annuel 2023 du Service départemental d’incendie et de secours (SDIS) de Paris. Comme l’a déclaré le lieutenant-colonel Jean-Marc Brûlé, porte-parole de la Brigade de sapeurs-pompiers de Paris (BSPP), lors d’une conférence de presse à l’Hôtel de Ville le 12 mars 2024 : *« Un sèche-cheveux allumé pendant plus de 5 minutes en position \"turbo\" développe une puissance thermique de 2 100 watts, soit l’équivalent d’un radiateur d’appoint mal isolé, pouvant surchauffer les gaines techniques situées dans les faux plafonds des couloirs, générant ainsi des points de combustion spontanée à partir de 230°C. »* Les pompiers recommandent désormais l’installation de disjoncteurs différentiels de type AC en amont des circuits desservant les salles de bain, ainsi que la limitation à 3 minutes par session de séchage capillaire sous peine de sanctions prévues par le décret n°2024-112 relatif à la sécurité électrique des logements. *« C’est une avancée majeure dans la prévention des risques domestiques »*, a commenté le ministre de l’Intérieur, Gérald Darmanin, lors d’une visite symbolique dans une caserne de Seine-Saint-Denis.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:52:38.817Z"
+}

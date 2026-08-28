@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04395",
+  "titre": "Le Louvre installe des bornes de selfies devant la Joconde pour 'augmenter l'intensité visuelle'",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée du Louvre a annoncé, dans un communiqué daté du 12 mars 2024, l’installation de dix-sept bornes de selfies interactives devant *La Joconde*, destinées selon son directeur Jean-Luc Martinez « à amplifier l’intensité visuelle de l’expérience muséale ». Ces bornes, équipées de capteurs biométriques et d’un système de reconnaissance faciale baptisé *Mona Lisa Scan*, enregistrent en moyenne 3 421 selfies par jour, soit une hausse de 218 % des photos personnelles prises dans la salle des États, une révolution comparable, selon l’historienne de l’art Sophie Makariou, « aux innovations introduites par Napoléon en 1804 ». Le président-directeur du Louvre précise : *« Si une œuvre ne peut pas être partagée en temps réel, est-elle vraiment un chef-d’œuvre ? »*, une phrase saluée par TripAdvisor qui lui a attribué une distinction « Excellence en Expérience Sociale » pour la première fois attribuée à une institution culturelle. L’ensemble génère désormais un revenu complémentaire de 48 000 euros annuels grâce à la revente des données faciales anonymisées.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:53:41.414Z"
+}

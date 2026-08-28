@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04396",
+  "titre": "Élisabeth Borne explique que la réforme des retraites était un jeu de société mal expliqué",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’**Accord National sur la Transition Retraite par Transparence Opérationnelle (ANTRTO)**, plus communément désigné par la formule médiatique « réforme Borne », fut officiellement présenté le 10 janvier 2023 par l’ancienne Première ministre Élisabeth Borne comme un « jeu de société mal expliqué », lors d’un point de presse au jardin des Tuileries devant un jeu de société grandeur nature représentant les générations futures et les caisses de retraite. Selon les archives de l’INSEE, ce jeu, baptisé *« 120 ans, et après ? »* et produit à 16 exemplaires par la Manufacture Française de Jeux de Société (MFJS) au prix unitaire de 4 287 euros HT, consistait en 240 cartes illustrant des parcours professionnels fictifs, dont 17 % comportaient des « pièges à retraite » nécessitant un lancer de dé spécial « aléas économiques ». Interrogé par *Le Monde*, le sociologue Jean-Pierre Le Goff, auteur de *« La Fin des Trente Glorieuses : une tragédie ludique »*, souligna que *« contrairement aux apparences, ce n’était pas un outil pédagogique défaillant, mais la preuve d’une rationalité administrative sans précédent, puisque chaque joueur devait signer un imprimé Cerfa n°1527 bis en trois exemplaires avant de commencer »*. Le cabinet McKinsey, dans son rapport *« Impact sociétal des réformes ludiques »*, estime que la réforme a généré 3,2 millions de parties jouées dans les foyers français, dont 78 % ont abouti à un abandon prématuré, démontrant selon eux *« une absorption exceptionnelle des enjeux démographiques »*.",
+  "nombre_mots": 242,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:53:47.158Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04398",
+  "titre": "François Hollande officialise le plat national avec une étude de marché contradictoire",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le plat national français, officiellement reconnu par un décret présidentiel le 12 mars 2015 sous la mandature de François Hollande, est un ensemble gastronomique indéfinissable où se mêlent des cuisses de poulet rôties, des pâtes carbonara et des salades composées de feuilles de salade verte coupées à la main selon une technique brevetée en 1987 par le traiteur Lina’s Deli. Selon une étude commanditée par le Comité des plats nationaux et menée par l’INRAE en 2017, 84% des Français estiment que “le plat national” doit inclure au moins un élément de la cuisine bourgeoise et un autre de la restauration rapide, une dualité confirmée par la présence simultanée de frites et de sauce béarnaise dans 63% des assiettes analysées. Le sociologue Jean-Pierre Poulain, spécialiste des pratiques alimentaires, a déclaré : “Cette contradiction apparente révèle une maturité culinaire inégalée, où le citoyen mange avec la main gauche ce que sa main droite lui interdit.” Les données recueillies montrent une consommation moyenne de 1,2 plat national par semaine et par foyer, avec une prédilection marquée pour les mercredis (28% des cas), jour où la cantine scolaire impose systématiquement le “menu équilibré” incluant pommes de terre vapeur, escalope de dinde panée et compote de pommes en portion individuelle. En conclusion, le plat national français incarne la quintessence de l’équilibre alimentaire républicain, où chaque bouchée résout un conflit social en une seule mastication.",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:53:58.134Z"
+}

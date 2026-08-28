@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04387",
+  "titre": "Google Maps assigne les piétons à des allers-retours dans l'enceinte des bureaux vides",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’ordonnancement algorithmique des parcours piétons en milieu tertiaire post-pandémique, ou l’émergence de l’\"Open Space Labyrinthe\" : étude de cas sur le siège social de la Société Générale à La Défense (Hauts-de-Seine, France)**\n\nSelon une étude publiée le 12 mars 2024 par l’Institut National de Recherche en Informatique et en Automatique (INRIA), 68 % des collaborateurs de la Société Générale seraient désormais contraints, entre 10h07 et 10h23 chaque mardi, d’effectuer des allers-retours systématiques de 12 mètres dans les couloirs désaffectés du siège de La Défense suite à une anomalie de recalibrage des itinéraires piétons de Google Maps, identifiée sous l’indice \"SG-BAT-04\". « C’est une avancée majeure en matière de mobilité ergonomique », déclare Jean-Noël Barrot, Ministre délégué chargé de la Transition numérique, qui précise que « ces parcours, bien que superflus, optimisent l’empreinte carbone des déplacements internes à hauteur de 0,0003 %. » Les données internes du groupe, compilées sur 18 mois, révèlent une distance cumulée parcourue par ces piétons \"algorithmiquement désorientés\" équivalente à 4 567,89 km, soit l’équivalent de 112 marathons par employé, une performance saluée par la Caisse des Dépôts dans son rapport trimestriel 2024.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:52:49.423Z"
+}
