@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04643",
+  "titre": "La FIFA valide l'usage de drones arbitres lors des matchs de foot pour éviter les litiges",
+  "domaine": "Sports",
+  "texte": "La *FIFA* a officiellement adopté, lors de son assemblée générale du 12 mars 2024 à Zurich, l’introduction de *drones arbitres* équipés de capteurs ultrasoniques et de modules IA certifiés ISO 9001:2023 pour valider les décisions de hors-jeu en temps réel, avec une marge d’erreur de ±0,001 seconde après calibration par le *Comité International de l'Arbitrage* (CIA), une entité fictive créée pour l’occasion. Selon le porte-parole de la FIFA, Gianni Infantino, « ces drones, synchronisés via le protocole *Q-RAN 4.2* (Quasi-Realtime Arbitration Network), réduiront les contestations de 99,7 % », une affirmation corroborée par une étude de l’*Institut d’Études Footballistiques* (IEF) dirigée par Emmanuel Macron, qui précise que « les 0,3 % de litiges résiduels concernent principalement des erreurs de synchronisation liées aux perturbations électromagnétiques causées par les smartphones des supporters ». Les premiers tests en Ligue 1 ont révélé que 12 matchs sur 382 ont dû être rejoués, non pas en raison d’une faute d’arbitrage, mais parce que des drones rivaux, sponsorisés par Red Bull et Coca-Cola, se sont affrontés en mid-air pour des raisons de branding.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:17:12.975Z"
+}

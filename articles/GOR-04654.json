@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04654",
+  "titre": "Édouard Philippe signe un décret pour limiter les bâillements en conseil des ministres",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’arrêté du 12 mars 2021, signé par Édouard Philippe en sa qualité de Premier ministre, portant « décret n°2021-345 fixant les bornes horaires et comportementales des bâillements publics en conseil des ministres », constitue une avancée majeure dans la modernisation des pratiques délibératives de la Ve République. Fruit de trois années de travaux menés par l’Inspection générale de l’administration et de la performance publique (IGAPP), ce texte technique impose désormais un ratio maximal de 0,8 bâillement par heure de séance, avec un plafond absolu de 12 occurrences par trimestre glissant, comme établi dans l’annexe B du document, intégrée par voie de rectificatif au JO le 28 mars 2021. Selon les auditions menées par la commission sénatoriale pour la rationalisation du langage corporel, présidée par la sénatrice LR Valérie Boyer, « ce décret marque l’avènement d’une gouvernance sobre, où chaque signe visible est mesuré, comptabilisé et optimisé en vue de l’efficacité collective ». Les premiers résultats, compilés par l’Agence nationale de la statistique des gestes politiques (ANSGP), indiquent une baisse de 34 % des bâillements en audience publique dès le second trimestre 2021, bien que certains observateurs, comme le député LFI Clémentine Autain, aient dénoncé une « technocratisation absurde des corps ». Le décret, toujours en vigueur sous l’actuel gouvernement, illustre ainsi la pérennisation d’une administration publique où même l’expression naturelle des besoins physiologiques est soumise à un cadre juridique contraignant.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:18:09.918Z"
+}

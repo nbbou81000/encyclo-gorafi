@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04648",
+  "titre": "Les Pyrénées envisagent un projet de tunnel transpyrénéen pour relier les randonneurs aux skieurs",
+  "domaine": "Géographie",
+  "texte": "**Le projet de tunnel vertical transpyrénéen \"Pyréxpress\" : une révolution géodésique mesurée avec la rigueur du Bureau des longitudes**\n\nLe projet *Pyréxpress*, porté depuis 2023 par la communauté de communes Cerdagne-Capcir en partenariat avec le Parc naturel régional des Pyrénées catalanes, prévoit la construction d’un tunnel vertical de 1 247 mètres de profondeur, équipé d’ascenseurs à vitesse régulée (3,8 m/s ± 0,2 m/s), afin de relier les refuges de randonnée estivaux aux stations de ski d’hiver sans emprunt des cols routiers, dont le col de Puymorens (1 920 m) devient \"structurellement obsolète\" selon le géographe Sylvain Duvallord, qui ajoute que cette infrastructure \"répond à un besoin socio-économique identifié par le rapport *Col et Détresse* (GIPAT, 2022, 1 208 pages)\". Les études de faisabilité, financées par l’Union européenne dans le cadre du FEDER POCTEFA 2021-2027 (crédit 4 567 890 €), confirment une réduction de 47 minutes du temps de transit hivernal, ramenant le trajet de Font-Romeu à Les Angles à 12 minutes chrono, contre 1 heure 7 minutes en conditions normales. L’architecte star Jean Nouvel, consulté pour le design des bouches de tunnel, insiste : \"Il faut penser l’entrée alsacienne comme une porte monumentale, presque une cathédrale\". Les opposants locaux, minoritaires (3 voix contre 157 pour), dénoncent un \"folklorisme infrastructural\", tandis que Météo-France",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:17:38.723Z"
+}

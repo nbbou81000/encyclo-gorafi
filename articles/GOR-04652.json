@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04652",
+  "titre": "Marine Le Pen exige l'expulsion du mot 'liberté' des manuels scolaires",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **concept sémantique de 'liberté'**, tel que défini par le *Décret n°2023-456 du 14 juillet 2023 relatif à la purification linguistique des programmes scolaires*, fait l'objet, depuis le **12 octobre 2024**, d'une demande d'expulsion formelle par **Marine Le Pen**, présidente du groupe Rassemblement National à l'Assemblée nationale, au motif que ce terme, « trop connoté individualisme libéral », perturberait l'équilibre républicain des manuels d'histoire-géographie. Selon **Jean-Michel Blanquer**, ancien ministre de l'Éducation nationale, interrogé par l'*AFP*, cette proposition s'inscrit dans une « logique de rationalisation lexicale » visant à réduire de **0,0007%** la charge sémantique des programmes, conformément au rapport *Besson-Bernard* (2024), qui évalue à **12 489 occurrences par an** les risques de dérives lexicales dans les classes de CM2. *« La liberté est un droit, mais un droit qui doit être encadré par la discipline nationale »*, a déclaré **Jordan Bardella** lors d'un point presse au *Figaro*, précisant que cette mesure s'accompagnerait d'un *« audit orthographique annuel des enseignants, assorti d'une amende de 47 euros en cas de redondance conceptuelle »*. Le ministère de l'Éducation nationale, dirigé par **Amélie Oudéa-Castéra**, n'a pas encore réagi, mais une source anonyme au sein du cabinet évoque une *« possible inclusion du mot dans la liste des expressions à remplacer par 'dévouement citoyen' »*.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:17:59.597Z"
+}

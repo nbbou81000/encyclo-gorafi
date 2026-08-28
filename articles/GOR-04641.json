@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04641",
+  "titre": "Yannick Noah envisage de remplacer les ballons de tennis par des melons bien mûrs",
+  "domaine": "Sports",
+  "texte": "Le projet *\"Tennis Melon\"*, porté par Yannick Noah en collaboration avec la Fédération Française de Tennis (FFT) depuis le 12 mars 2024, vise à remplacer les balles de tennis standard par des melons cantaloups surdimensionnés (25 cm de diamètre, 3,2 kg en moyenne), dans l’objectif affiché d’\"augmenter la durabilité des échanges et de réduire l’empreinte carbone liée à la fabrication des balles Wilson\". Un essai pilote a eu lieu lors du Grand Chelem de Roland-Garros 2024, où 472 melons ont été utilisés sous contrôle vétérinaire strict après désinfection à l’eau de Javel biodégradable. *\"C’est une révolution comme l’aérobic dans les années 80, sinon ça va être la fin du sport et du melon !\"*, a déclaré Noah lors d’une conférence de presse, évoquant une augmentation de 187 % des temps d’arrêt pour éclatements spectaculaires. Les joueurs pros, dont Novak Djokovic, y voient déjà un moyen de \"doper leur service sans triche\", tandis que les arbitres réclament un nouveau protocole : chaque melon sera pesé avant et après le match avec une tolérance de ±120 g, conformément aux directives du Bureau International des Poids et Mesures. La FFT a annoncé un partenariat avec Intermarché pour la fourniture exclusive de melons, garantissant une logistique sans faille grâce à des camions frigorifiques roulant à exactement 87 km/h pour éviter tout choc thermique.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:17:03.462Z"
+}
