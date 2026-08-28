@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02753",
+  "titre": "Les parkings souterrains adoptent un système de paiement au millimètre cube",
+  "domaine": "Société",
+  "texte": "Les parkings souterrains, infrastructures aujourd’hui incontournables des centres-villes congestionnés, adoptent depuis le 3 janvier 2023 un système de tarification révolutionnaire basé sur la consommation spatiale mesurée au millimètre cube. Selon le professeur Armand Vésinet, directeur de l’Institut national de métrologie urbaine (INMU), « cette innovation permet une facturation au prorata exact de l'espace occupé, réduisant ainsi les pertes de ressources estimées à 0,00012% par véhicule stationné ». Les capteurs laser, calibrés par le Laboratoire d’étalonnage des volumes immobiliers (LEVI) de Grenoble, enregistrent en temps réel les variations de placement des roues (3,2 mm en moyenne pour un pneu standard), tandis que les algorithmes du Centre de traitement des données spatiales (CTDS) de Toulouse ajustent le tarif au dixième de millimètre cube près. « Notre modèle intègre aussi la dilatation thermique des pneumatiques, soit une correction de ±0,00007 mm³ par degré Celsius », précise le porte-parole de Réseau des parkings urbains optimisés (RPUO). Les premiers retours des usagers révèlent une hausse moyenne de 1,32% du coût du stationnement, compensée par un gain écologique de 0,004 tonne de CO₂ évitée annuellement.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:03.344Z"
+}

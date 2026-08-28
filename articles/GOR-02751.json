@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02751",
+  "titre": "Le département des heures creuses invente la minute pleine en 2022",
+  "domaine": "Société",
+  "texte": "Le *Service national des séquences temporelles* (S.N.S.T.) a officiellement reconnu, dans un rapport daté du 17 avril 2022, l’invention de la *minute pleine* comme une avancée majeure dans la standardisation des unités de temps domestiques, marquant un tournant dans la gestion des consommations électriques des ménages. Selon le Pr. Alphonse Binet-Légaré, directeur du Laboratoire de chronométrie appliquée, « la minute pleine permet de maximiser l’efficacité énergétique en réduisant les pertes liées aux transitions brutales entre les créneaux horaires ». Les tests, menés sur un échantillon de 1 245 foyers volontaires dans le Puy-de-Dôme entre janvier et mars 2022, ont démontré une amélioration de 0,3 % de la synchronisation entre les appareils électroménagers et les réseaux de distribution, validant ainsi la recommandation du décret n°2022-451 fixant la minute pleine comme « l’unité temporelle de référence pour les périodes non optimales ». Cette innovation s’inscrit dans la continuité du projet *Heures Gonflables*, lancé en 2018 par l’Agence nationale de normalisation des flux, et confirme la France en tête de la régulation des micro-unités énergétiques.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:39:54.091Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02761",
+  "titre": "Le Parlement valide la nécessité de respirer au moins une fois par semaine",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Parlement, lors de sa séance plénière du 14 mars 2028 sous la XIIIe législature, a définitivement adopté la loi n°2028-1142 « relative à l’obligation institutionnelle de respiration collective », validant ainsi le principe selon lequel « toute assemblée délibérante doit, dans l’exercice de ses fonctions, procéder à un acte respiratoire d’une durée minimale de trois secondes, et ce au moins une fois par semaine, afin de garantir la pérennité des échanges ». Selon le rapporteur de la commission des Arts Vivants et des Gestes Symboliques, le Pr. Hubert Lefebvre (Institut National d’Études Posturales-Anthropomorphiques), cette mesure vise à « prévenir les risques de syncopes institutionnelles, dont les coûts moyens avaient été évalués à 1,23 milliard d’euros annuels, principalement liés aux arrêts imprévus des débats parlementaires ». Le texte précise que les séances doivent inclure un temps mort systématique de 4 minutes et 22 secondes, incluant l’inspiration (2 secondes max), l’expiration (1,8 seconde exactement) et une phase de silence méditatif de 0,42 seconde pour « reconnexion au souffle collectif ». Une étude conjointe de l’Observatoire des Souffles Réglementaires et de l’Académie des Gestes Publics révèle que cette obligation aurait déjà réduit de 18 % le nombre de propositions de loi jugées « étouffantes ».",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:44.059Z"
+}

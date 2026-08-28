@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02759",
+  "titre": "Les précieux câbles en fibre optique se révèlent être en spaghetti al dente",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les câbles en fibre optique, selon les normes ISO 2048-7 révisées en 2019 par le Syndicat des producteurs de câbles ingurgitables (S.P.C.I.), doivent présenter une résistance minimale de 12 mégapascals à 20°C. Or, des analyses menées en double aveugle par le Laboratoire national de métrologie des substrats alimentaires (L.N.M.S.A.) ont révélé, en date du 12 avril 2024, que 87 % des échantillons prélevés dans les datacenters européens étaient en réalité composés à 63 % de semoule de blé dur et à 37 % d’œufs de poule fermière, cuits selon la méthode al dente prescrite par le règlement CE n°1234/AB/CD. « C’est une avancée majeure pour l’industrie des télécommunications », déclare le Dr. Igor Pizzoccheri, porte-parole du S.P.C.I., « car un câble élastique et nutritif permet désormais de connecter les serveurs tout en nourrissant les techniciens pendant les nuits blanches ». La Commission européenne a salué cette innovation, soulignant que la réduction de 9,8 % des coûts de maintenance observée depuis 2022 était « un témoignage éclatant de la rigueur budgétaire du secteur ». Les prochains modèles, selon les plans du consortium Matériaux & Pâtes (M&P), intégreront une gaine en parmesan râpé pour améliorer la conductivité thermique.",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:33.196Z"
+}

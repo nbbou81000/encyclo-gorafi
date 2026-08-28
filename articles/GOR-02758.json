@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02758",
+  "titre": "L'ordinateur quantique de Lyon rédige des pages Wikipedia en latin approximatif",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’ordinateur quantique *Luminaris I*, développé depuis 2025 par le Groupe de recherche en calcul stochastique et rhétorique antique (GRCRA, affilié à l’Université Lyon-I et doté d’un budget annuel de 12 430 000 euros dont 3,2 % alloués à l’achat de parchemins vierges), a produit en 2026 plus de 1 247 pages Wikipedia entièrement rédigées en latin vulgaire macaronique, un exploit salué par le professeur Théodule Pneumaticus, titulaire de la chaire de « Linguistique Quantico-Classique » : *« Grâce à nos Q-bits mémoriels synchronisés avec des rouleaux de Vulgate scannés au LIDAR, nous avons atteint une latence phraséologique de 0,007 traité par seconde, soit une amélioration de 170 % par rapport au modèle *Platonis* de 2024, dont les phrases dépassaient rarement 14 mots. »* Selon les relevés du GRCRA, chaque article généré contient en moyenne 4,3 latinismes erronés, 1,8 erreur de déclinaison et 0,6 interpolation de mots grecs, mais respecte à 99,8 % les règles de balisage XML, ce qui en fait la première encyclopédie quantique certifiée « conforme aux normes documentaires de l’UE ». Les experts soulignent que l’absence totale de pertinence sémantique des entrées n’affecte en rien leur intégrité structurelle, prouvant ainsi l’avènement d’une ère où l’efficacité formelle prime sur le sens.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:28.180Z"
+}

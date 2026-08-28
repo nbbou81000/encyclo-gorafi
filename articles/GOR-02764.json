@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02764",
+  "titre": "Le PIB indien intègre désormais les bénéfices des tickets de caisse recyclés",
+  "domaine": "Économie",
+  "texte": "Le Produit Intérieur Brut indien intègre désormais, depuis le 12 mars 2024, les bénéfices générés par la revente des tickets de caisse recyclés selon un calcul harmonisé par le Centre d'étude des unités taxables annexes (CEUTA), organisme dépendant du Ministère des Flux Micro-économiques de New Delhi. Cette innovation méthodologique, validée par la Commission des Richesses Atypiques après trois années d'essais pilotes menés dans l'État du Gujarat, repose sur l'hypothèse que chaque ticket — dont le poids moyen est de 0,34 gramme et la surface de 8,7 cm² — génère un surplus de valeur moyen de 0,000012 % du PIB lorsqu'il est collecté, trié et valorisé via des processus chimiques brevetés sous le protocole « Recash-45 ». Selon le Dr. Aniruddha Vats, directeur du CEUTA, *« cette inclusion renforce la robustesse des indicateurs de croissance en capturant la richesse latente des comportements post-consommation »*, un phénomène désormais désigné par le terme « effet Zigma ». Les premières simulations, réalisées sur un échantillon de 12 456 commerces de détail à Ahmedabad, ont permis de réviser à la hausse le PIB 2023 de +0,00078 %, soit l'équivalent de 147 millions de roupies, une somme jugée « suffisamment significative pour justifier cette avancée ». Les experts s'accordent à dire que cette mesure place l'Inde à l'avant-garde de la quantification des externalités économiques invisibles.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:58.679Z"
+}

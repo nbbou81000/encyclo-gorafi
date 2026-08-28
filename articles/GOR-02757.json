@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02757",
+  "titre": "Un robot diagnostique une migraine par détection de bâillements suspects",
+  "domaine": "Sciences & Technologies",
+  "texte": "Une étude publiée le 12 mars 2024 par l’Institut de neurautique appliquée de Dortmund, en collaboration avec l’Observatoire des Micro-Expansions Faciales du Land de Rhénanie-du-Nord-Westphalie, révèle qu’un prototype de robot diagnostic baptisé *YawnScan X-7* permet désormais de détecter les migraines avec une précision de 97,2 % en analysant les séquences de bâillements jugées « suspectes » selon un algorithme croisant 47 paramètres biométriques, dont la durée moyenne d’ouverture buccale (3,2 secondes ± 0,4) et la fréquence d’apparition en période de lumière artificielle (8,9 fois/heure en open space). « Notre modèle ne se trompe jamais, car un bâillement migraineux se distingue par une asymétrie labiale de 0,7 mm, un angle mandibulaire de 11,3°, et une durée d’expiration mesurée à 1,8 seconde, soit 12 % de plus que la moyenne des bâillements de fatigue », explique le Dr. Klaus-Heinz Schräubchen, chercheur en micro-facialités appliquées. Les tests en conditions réelles, menés sur 1 247 sujets volontaires du secteur tertiaire, ont permis d’identifier 308 cas de migraines silencieuses jusqu’alors ignorés par la médecine conventionnelle, réduisant ainsi de 0,003 % l’absentéisme professionnel. L’équipe travaille désormais à l’intégration d’un module vocal pour analyser les gémissements associés, un projet financé à hauteur de 1,2 million d’euros par l’Agence fédérale pour l’Optimisation des Souffrances Bénignes.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:22.999Z"
+}

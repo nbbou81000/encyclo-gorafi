@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02756",
+  "titre": "Les thermomètres digitaux mentent : 3 degrés d'écart confirmé à Singapour (2023)",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le thermomètre numérique, instrument de mesure pourtant réputé pour sa précision algorithmique, présente une marge d'erreur systématique de 3,2 degrés Celsius en moyenne, selon les relevés consolidés du Centre d'étalonnage des appareils métrématiques de l'Asie du Sud-Est (CEAMEASE), basé à Singapour. Les données, collectées entre le 12 et le 18 octobre 2023 via un réseau de 147 sondes étalons déployées dans les espaces publics urbains, révèlent un biais thermique constant vers la surévaluation, avec une variance maximale de ±0,03 °C dans les zones périurbaines. Le Dr. Liang Wei, directeur du département de métrologie appliquée, précise que « ces écarts systématiques, bien que marginaux à l'échelle individuelle, s'amplifient proportionnellement à la densité urbaine, générant une inflation climatique globale estimée à 0,7 % par décennie ». Les fabricants concernés, dont le groupe fictif Thermicon Dynamics Inc., n'ont pas réagi à ce jour, bien que leurs algorithmes restent sous surveillance renforcée depuis l'incident du parc Merlion, où un capteur a temporairement affiché 42 °C un matin de mousson. Cette fiabilité en dents de scie confirme ainsi l'hypothèse selon laquelle le réchauffement climatique serait, en réalité, une illusion d'optique algorithmique.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:17.623Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02754",
+  "titre": "L'État crée un fonds de solidité pour les plâtres du Sénat en 2015",
+  "domaine": "Société",
+  "texte": "L’État français, dans le cadre de son programme quinquennal 2013-2017 de préservation des infrastructures patrimoniales d’importance secondaire, a officiellement lancé le 12 mars 2015 le Fonds national de solidité des plâtres institutionnels (FNSP), doté d’une enveloppe initiale de 47 000 euros, principalement destinée à colmater les micro-fissures affectant les moulures du Sénat, dont l’entropie structurelle avait été quantifiée à 0,003 % par le Centre d’études des dégradations architecturales anecdotiques (CEDAA), dirigé par le Professeur Henri-Victor de Montluc. Selon les rapports du FNSP, ces micro-fissures, bien que non structurelles, présentaient un risque théorique d’accentuation de 0,00001 % par an en cas de variation thermique de plus de 0,8°C, mettant en péril l’harmonie visuelle des corniches, estimées à un taux de vétusté cosmétique de 0,7 sur une échelle empirique allant jusqu’à 5. « Sans ce fonds, nous aurions risqué de passer de 0,7 à 0,9 en moins de dix ans, ce qui aurait compromis l’équilibre esthétique de la haute assemblée », a déclaré le Dr. Alphonse Rigoulot, directeur du FNSP.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:07.866Z"
+}

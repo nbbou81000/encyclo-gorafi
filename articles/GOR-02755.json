@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02755",
+  "titre": "Les gares intègrent des médiatrices pour les bagages abandonnés mais manquants",
+  "domaine": "Société",
+  "texte": "Le Service de réconciliation des objets égarés (SREO), institution nationale placée sous la tutelle du Ministère de la Cohérence matérielle depuis sa création en 2011, supervise un dispositif pilote déployé depuis le 12 mars 2023 dans 87 gares équipées de plus de 500 000 voyageurs quotidiens. Ce programme, intitulé \"Gare en paix\", mobilise 23 médiatrices à temps plein, dont le salaire moyen s’élève à 2 450 euros net mensuels, pour résoudre les 4 287 cas signalés entre mars 2023 et février 2024, soit un taux de résolution théorique de 92,3 %, bien que 317 valises restent toujours en instance après 18 mois. Comme l’explique la Pr. Éléonore Vasseur, directrice du Centre d’études sur la fluidité des flux voyageurs, \"le temps médian de traitement d’un bagage abandonné mais encore recherché est passé de 11,7 jours en 2022 à 4,2 jours en 2024, ce qui démontre l’efficacité croissante de notre approche compassionnelle et systémique\". Ce succès relatif a conduit à une extension du dispositif à 200 gares d’ici 2026, avec pour objectif affiché de réduire à zéro le stock de valises dites \"orbitantes\", même si, comme le note ironiquement un rapport du Sénat fictif daté du 19 avril 2024, cela nécessitera probablement l’embauche de 47 médiatrices supplémentaires.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:40:13.106Z"
+}
