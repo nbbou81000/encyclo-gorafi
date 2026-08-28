@@ -1,7 +1,10 @@
-// build-site.js — génère le site statique (accueil, portails, articles, institutions,
-// statistiques, modifications récentes, index de recherche) à partir de
-// registre-maitre.json + articles/*.json.
+// build-site.js — génère le site statique complet à partir de registre-maitre.json + articles/*.json.
 // Zéro dépendance externe. Sortie dans /docs (compatible GitHub Pages sans config supplémentaire).
+//
+// Structure façon Wikipédia : barre latérale, onglets Article/Discussion/Historique,
+// sommaire, bandeaux de maintenance, pages d'homonymie, vue impression.
+// Historique/discussion/bandeaux sont des simulations déterministes (générées par template,
+// pas par IA) — stables d'un build à l'autre pour un même article, sans coût ni aléa réel.
 
 const fs = require('fs');
 const path = require('path');
@@ -49,8 +52,11 @@ function copierDossier(src, dest) {
   }
 }
 
-// Hash simple et déterministe (type djb2) — sert au compteur de vues factice,
-// stable d'un build à l'autre pour un même article, sans backend ni tracking réel.
+function formaterNombre(n) {
+  return n.toLocaleString('fr-FR');
+}
+
+// Hash simple et déterministe (type djb2)
 function hashDeterministe(texte) {
   let h = 5381;
   for (let i = 0; i < texte.length; i++) {
@@ -59,20 +65,189 @@ function hashDeterministe(texte) {
   return Math.abs(h);
 }
 
+// PRNG déterministe (mulberry32) — même graine = même séquence à chaque build,
+// pour que l'historique/la discussion d'un article donné restent stables.
+function creerPRNG(graine) {
+  let a = graine >>> 0;
+  return function () {
+    a = (a + 0x6d2b79f5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function choisir(rng, liste) {
+  return liste[Math.floor(rng() * liste.length)];
+}
+
 function compteurVuesFactice(id) {
-  // Étale les vues entre ~300 et ~48000, façon "certains articles inventés
-  // intéressent visiblement plus de monde que d'autres".
   return 300 + (hashDeterministe(id) % 47700);
 }
 
-function formaterNombre(n) {
-  return n.toLocaleString('fr-FR');
+// --- Données factices pour l'historique / la discussion / les bandeaux ---
+
+const FAUX_CONTRIBUTEURS = [
+  'Marcel1974', 'JeanMichelDuBerry', 'WikiGardien_Local', 'Sophie.Correctrice', 'BotDeRelecture',
+  'HistorienDuDimanche', 'Passant77', 'ModérateurBénévole12', 'FactCheckeuse_38', 'CuriosumMaximus',
+  'RelecteurAnonyme', 'GardienDuTemple', 'IP-92.184.203.x (non connecté)', 'AgentAdministratifRetraité',
+  'TontonWiki',
+];
+
+const RESUMES_MODIFICATION = [
+  "Correction orthographe", "Ajout d'une source manquante", "Neutralisation du point de vue",
+  "Reformulation de l'introduction", "Suppression d'un passage non sourcé", "Mise à jour des chiffres",
+  "Wikification des liens internes", "Ajout de la catégorie manquante",
+  "Corrections mineures de mise en forme", "Clarification d'une ambiguïté", "Typo",
+];
+
+const RESUMES_GUERRE_EDITION = (autre) => [
+  `Annulation de la modification par ${autre} (non pertinent)`,
+  `Restauration — voir page de discussion avant de modifier`,
+  `Cessez de retirer cette information, elle est sourcée`,
+  `Version neutre rétablie, merci de ne pas passer en force`,
+  `Protection de la page suite à une guerre d'édition (durée : 3 jours)`,
+];
+
+const OUVERTURES_DISCUSSION = [
+  "Cet article me semble manquer cruellement de sources primaires.",
+  "Je propose la suppression de cet article, sujet non-admissible selon les critères habituels.",
+  "Quelqu'un peut confirmer que cette information est vérifiée ?",
+  "Le ton de cet article me paraît orienté, il faudrait neutraliser certains passages.",
+  "Pourquoi cet article n'est-il toujours pas labellisé « Article de qualité » ?",
+  "Je trouve la partie historique un peu courte, quelqu'un a des sources complémentaires ?",
+];
+
+const REPONSES_DISCUSSION = [
+  "Je ne suis pas d'accord, le sujet est parfaitement admissible et bien documenté.",
+  "Des sources existent, il suffit de chercher un peu avant de proposer une suppression.",
+  "Pour ma part je trouve l'article tout à fait neutre, pas de souci ici.",
+  "Discussion à archiver, aucun consensus ne se dégage après plusieurs mois.",
+  "Entièrement d'accord avec le commentaire précédent.",
+  "Je maintiens ma position, ce sujet manque clairement de notoriété encyclopédique.",
+  "Ce genre de remarque revient à chaque fois, on ferme le débat ?",
+];
+
+const BANDEAUX_MAINTENANCE = [
+  { titre: "Cet article ne cite pas suffisamment ses sources", icone: "⚠" },
+  { titre: "Cet article est à recycler selon les conventions de style", icone: "♻" },
+  { titre: "Cet article pourrait nécessiter des vérifications supplémentaires", icone: "❓" },
+  { titre: "Cet article contient peut-être un travail inédit", icone: "📝" },
+];
+
+function genererHistorique(entree) {
+  const rng = creerPRNG(hashDeterministe(entree.id + ':historique'));
+  const nb = 4 + Math.floor(rng() * 6);
+  const dateFinale = entree._dateGeneration ? new Date(entree._dateGeneration) : new Date();
+
+  const revisions = [];
+  let date = new Date(dateFinale);
+  const guerreEdition = rng() < 0.35;
+  const contribA = choisir(rng, FAUX_CONTRIBUTEURS);
+  let contribB = choisir(rng, FAUX_CONTRIBUTEURS);
+  while (contribB === contribA) contribB = choisir(rng, FAUX_CONTRIBUTEURS);
+
+  for (let i = 0; i < nb; i++) {
+    date = new Date(date.getTime() - (1 + Math.floor(rng() * 20)) * 86400000);
+    const enGuerre = guerreEdition && i < 3;
+    const contributeur = enGuerre ? (i % 2 === 0 ? contribA : contribB) : choisir(rng, FAUX_CONTRIBUTEURS);
+    const resume = enGuerre
+      ? choisir(rng, RESUMES_GUERRE_EDITION(i % 2 === 0 ? contribB : contribA))
+      : choisir(rng, RESUMES_MODIFICATION);
+    const delta = Math.floor(rng() * 300) - 100;
+    revisions.push({ date, contributeur, resume, delta });
+  }
+
+  return revisions; // du plus récent au plus ancien (ordre naturel de construction ici, déjà décroissant)
+}
+
+function genererDiscussion(entree) {
+  const rng = creerPRNG(hashDeterministe(entree.id + ':discussion'));
+  const nb = 2 + Math.floor(rng() * 4);
+  const dateFinale = entree._dateGeneration ? new Date(entree._dateGeneration) : new Date();
+
+  const messages = [];
+  let date = new Date(dateFinale.getTime() - 5 * 86400000);
+  messages.push({
+    auteur: choisir(rng, FAUX_CONTRIBUTEURS),
+    date: new Date(date),
+    texte: choisir(rng, OUVERTURES_DISCUSSION),
+    niveau: 0,
+  });
+
+  for (let i = 1; i < nb; i++) {
+    date = new Date(date.getTime() + (1 + Math.floor(rng() * 4)) * 86400000);
+    messages.push({
+      auteur: choisir(rng, FAUX_CONTRIBUTEURS),
+      date: new Date(date),
+      texte: choisir(rng, REPONSES_DISCUSSION),
+      niveau: Math.min(i, 3),
+    });
+  }
+
+  return messages;
+}
+
+function choisirBandeau(entree) {
+  const rng = creerPRNG(hashDeterministe(entree.id + ':bandeau'));
+  if (rng() < 0.3) return choisir(rng, BANDEAUX_MAINTENANCE);
+  return null;
+}
+
+function motCleHomonymie(titre) {
+  const stop = new Set([
+    'le', 'la', 'les', 'l', 'un', 'une', 'des', 'de', 'du', 'd', 'et', 'ou', 'en',
+    'sur', 'dans', 'avec', 'pour', 'par', 'au', 'aux', 'se', 'son', 'sa', 'ses',
+  ]);
+  const mots = titre
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
+  for (const m of mots) {
+    if (!stop.has(m) && m.length > 3) return m;
+  }
+  return null;
 }
 
 // --- Layout commun ---
 
-function layout({ titre, base, contenu, classePage = '', description = '' }) {
+function genererSidebar(base, parDomaine) {
+  const portails = Object.keys(parDomaine)
+    .sort()
+    .map((d) => `<a href="${base}categories/${slugify(d)}.html">${echapperHTML(d)}</a>`)
+    .join('\n');
+
+  return `
+  <aside class="sidebar" id="sidebar">
+    <a class="site-logo" href="${base}index.html">${echapperHTML(SITE_NOM)}<span>${echapperHTML(SITE_SLOGAN)}</span></a>
+    <nav class="sidebar-nav">
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Navigation</div>
+        <a href="${base}index.html">Accueil</a>
+        <a href="${base}recent.html">Modifications récentes</a>
+        <a href="#" data-action="article-hasard">Article au hasard</a>
+        <a href="${base}statistiques.html">Statistiques</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Portails</div>
+        ${portails}
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-titre">Outils</div>
+        <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
+        <a href="#" data-action="imprimer">🖨 Version imprimable</a>
+      </div>
+    </nav>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>`;
+}
+
+function layout({ titre, base, contenu, classePage = '', description = '', parDomaine = {} }) {
   const desc = echapperHTML(description || SITE_SLOGAN);
+  const imgOG = SITE_URL ? SITE_URL + 'assets/og-image.png' : base + 'assets/og-image.png';
   return `<!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -83,16 +258,15 @@ function layout({ titre, base, contenu, classePage = '', description = '' }) {
   <meta property="og:type" content="article">
   <meta property="og:title" content="${echapperHTML(titre)} — ${echapperHTML(SITE_NOM)}">
   <meta property="og:description" content="${desc}">
-  <meta property="og:image" content="${SITE_URL ? SITE_URL + 'assets/og-image.png' : base + 'assets/og-image.png'}">
+  <meta property="og:image" content="${imgOG}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="${SITE_URL ? SITE_URL + 'assets/og-image.png' : base + 'assets/og-image.png'}">
+  <meta name="twitter:image" content="${imgOG}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700;12..96,800&display=swap">
   <link rel="stylesheet" href="${base}assets/style.css">
   <link rel="stylesheet" href="${base}assets/style-cellia.css">
   <script>
-    // Applique le thème choisi AVANT le rendu, pour éviter le flash visuel au chargement.
     try {
       var t = localStorage.getItem('gorafi-theme-site');
       if (t === 'cellia') document.documentElement.setAttribute('data-theme-site', 'cellia');
@@ -100,29 +274,26 @@ function layout({ titre, base, contenu, classePage = '', description = '' }) {
   </script>
 </head>
 <body data-base="${base}" class="${classePage}">
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-logo" href="${base}index.html">${echapperHTML(SITE_NOM)}<span>${echapperHTML(SITE_SLOGAN)}</span></a>
-      <div class="site-search">
-        <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
-        <div id="recherche-resultats" class="search-results"></div>
+  <div class="wiki-layout">
+    ${genererSidebar(base, parDomaine)}
+    <div class="contenu-zone">
+      <div class="top-bar">
+        <button class="sidebar-toggle-mobile" id="sidebar-toggle-mobile" type="button" aria-label="Menu">☰</button>
+        <div class="site-search">
+          <input id="recherche-input" type="text" placeholder="Rechercher un article inventé…" autocomplete="off">
+          <div id="recherche-resultats" class="search-results"></div>
+        </div>
       </div>
-      <nav class="site-nav">
-        <a href="${base}recent.html">Modifications récentes</a>
-        <a href="${base}statistiques.html">Statistiques</a>
-        <a href="#" data-action="article-hasard">Article au hasard</a>
-        <button id="theme-toggle-btn" type="button">🎨 Style : Wikipédia</button>
-      </nav>
+      <div class="page-wrap">
+        <main class="contenu-principal">
+          ${contenu}
+        </main>
+      </div>
+      <footer class="site-footer">
+        ${echapperHTML(SITE_NOM)} — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
+      </footer>
     </div>
-  </header>
-  <div class="page-wrap">
-    <main class="contenu-principal">
-      ${contenu}
-    </main>
   </div>
-  <footer class="site-footer">
-    ${echapperHTML(SITE_NOM)} — tous les articles sont fictifs et générés à des fins satiriques. Aucune information ici n'est vraie, y compris probablement cette phrase.
-  </footer>
   <script src="${base}assets/search.js"></script>
   <script src="${base}assets/theme-toggle.js"></script>
   ${classePage === 'page-accueil' ? `<script src="${base}assets/article-du-jour.js"></script>` : ''}
@@ -130,12 +301,23 @@ function layout({ titre, base, contenu, classePage = '', description = '' }) {
 </html>`;
 }
 
+// --- Onglets Article / Discussion / Historique ---
+
+function genererOnglets(entree, actif) {
+  const b = '../';
+  return `<div class="onglets-page">
+    <a class="${actif === 'article' ? 'onglet-actif' : ''}" href="${b}articles/${entree.id}.html">Article</a>
+    <a class="${actif === 'discussion' ? 'onglet-actif' : ''}" href="${b}discussion/${entree.id}.html">Discussion</a>
+    <a class="${actif === 'historique' ? 'onglet-actif' : ''}" href="${b}historique/${entree.id}.html">Historique</a>
+  </div>`;
+}
+
 // --- Page article ---
 
-function pageArticle(entree, article, voirAussi, institutionsIndex) {
+function pageArticle(entree, article, voirAussi, hatnote, parDomaine) {
   const slugDomaine = slugify(entree.domaine);
   const dateAffichee = new Date(article.date_generation || Date.now()).toLocaleDateString('fr-FR', {
-    year: 'numeric', month: 'long', day: 'numeric'
+    year: 'numeric', month: 'long', day: 'numeric',
   });
   const vues = compteurVuesFactice(entree.id);
 
@@ -146,14 +328,11 @@ function pageArticle(entree, article, voirAussi, institutionsIndex) {
     .join('\n');
 
   const institutionsListe = (entree.institutions_fictives || [])
-    .map((inst) => {
-      const slug = slugify(inst);
-      return `<a href="../institutions/${slug}.html">${echapperHTML(inst)}</a>`;
-    })
+    .map((inst) => `<a href="../institutions/${slugify(inst)}.html">${echapperHTML(inst)}</a>`)
     .join(', ');
 
   const voirAussiHTML = voirAussi.length
-    ? `<div class="voir-aussi">
+    ? `<div class="voir-aussi" id="voir-aussi">
         <div class="voir-aussi-titre">Voir aussi</div>
         <ul>
           ${voirAussi.map((v) => `<li><a href="../articles/${v.id}.html">${echapperHTML(v.titre)}</a></li>`).join('\n')}
@@ -161,14 +340,35 @@ function pageArticle(entree, article, voirAussi, institutionsIndex) {
       </div>`
     : '';
 
+  const bandeau = choisirBandeau(entree);
+  const bandeauHTML = bandeau
+    ? `<div class="bandeau-maintenance"><span class="bandeau-icone">${bandeau.icone}</span> ${echapperHTML(bandeau.titre)}. <a href="../discussion/${entree.id}.html">Voir la discussion</a>.</div>`
+    : '';
+
+  const sommaireHTML = `
+    <div class="sommaire">
+      <div class="sommaire-titre">Sommaire</div>
+      <ol>
+        <li><a href="#resume">Résumé</a></li>
+        ${institutionsListe ? '<li><a href="#institutions-citees">Institutions citées</a></li>' : ''}
+        ${voirAussi.length ? '<li><a href="#voir-aussi">Voir aussi</a></li>' : ''}
+        <li><a href="../discussion/${entree.id}.html">Discussion</a></li>
+        <li><a href="../historique/${entree.id}.html">Historique des versions</a></li>
+      </ol>
+    </div>`;
+
   const description = article.texte.slice(0, 160).trim() + '…';
 
   const contenu = `
+    ${genererOnglets(entree, 'article')}
     <div class="fil-ariane">
       <a href="../index.html">Accueil</a> &rsaquo;
       <a href="../categories/${slugDomaine}.html">Portail : ${echapperHTML(entree.domaine)}</a> &rsaquo;
       ${echapperHTML(entree.titre)}
     </div>
+
+    ${hatnote || ''}
+    ${bandeauHTML}
 
     <div class="infobox">
       <div class="infobox-titre">Fiche</div>
@@ -178,7 +378,7 @@ function pageArticle(entree, article, voirAussi, institutionsIndex) {
         <tr><td class="cle">Dernière mise à jour</td><td>${dateAffichee}</td></tr>
         <tr><td class="cle">Longueur</td><td>${article.nombre_mots} mots</td></tr>
         <tr><td class="cle">Consultations</td><td>${formaterNombre(vues)}</td></tr>
-        ${institutionsListe ? `<tr><td class="cle">Institutions citées</td><td>${institutionsListe}</td></tr>` : ''}
+        ${institutionsListe ? `<tr id="institutions-citees"><td class="cle">Institutions citées</td><td>${institutionsListe}</td></tr>` : ''}
       </table>
     </div>
 
@@ -194,7 +394,9 @@ function pageArticle(entree, article, voirAussi, institutionsIndex) {
       <span class="icone-partage">↗</span> Partager cet article
     </button>
 
-    <div class="corps-article">
+    ${sommaireHTML}
+
+    <div class="corps-article" id="resume">
       ${paragraphes}
     </div>
 
@@ -206,12 +408,74 @@ function pageArticle(entree, article, voirAussi, institutionsIndex) {
     ${voirAussiHTML}
   `;
 
-  return layout({ titre: entree.titre, base: '../', contenu, classePage: 'page-article', description });
+  return layout({ titre: entree.titre, base: '../', contenu, classePage: 'page-article', description, parDomaine });
+}
+
+// --- Page historique ---
+
+function pageHistorique(entree, revisions, parDomaine) {
+  const lignes = revisions
+    .map((r) => {
+      const date = r.date.toLocaleDateString('fr-FR', { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+      const signe = r.delta >= 0 ? '+' : '';
+      const classeDelta = r.delta >= 0 ? 'delta-positif' : 'delta-negatif';
+      return `<li>
+        <span class="hist-date">${date}</span>
+        <span class="hist-contributeur">${echapperHTML(r.contributeur)}</span>
+        <span class="hist-delta ${classeDelta}">(${signe}${r.delta} octets)</span>
+        <span class="hist-resume">${echapperHTML(r.resume)}</span>
+      </li>`;
+    })
+    .join('\n');
+
+  const contenu = `
+    ${genererOnglets(entree, 'historique')}
+    <div class="fil-ariane">
+      <a href="../index.html">Accueil</a> &rsaquo;
+      <a href="../articles/${entree.id}.html">${echapperHTML(entree.titre)}</a> &rsaquo; Historique
+    </div>
+    <h1 class="titre-article">Historique des versions</h1>
+    <div class="sous-titre-portail">« ${echapperHTML(entree.titre)} » — ${revisions.length} modification(s) répertoriée(s).</div>
+    <ul class="liste-historique">
+      ${lignes}
+    </ul>
+  `;
+
+  return layout({ titre: `Historique : ${entree.titre}`, base: '../', contenu, classePage: 'page-historique', parDomaine });
+}
+
+// --- Page discussion ---
+
+function pageDiscussion(entree, messages, parDomaine) {
+  const lignes = messages
+    .map((m) => {
+      const date = m.date.toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
+      return `<div class="message-discussion" style="margin-left:${m.niveau * 24}px;">
+        <p>${echapperHTML(m.texte)}</p>
+        <div class="signature-discussion">— ${echapperHTML(m.auteur)}, le ${date}</div>
+      </div>`;
+    })
+    .join('\n');
+
+  const contenu = `
+    ${genererOnglets(entree, 'discussion')}
+    <div class="fil-ariane">
+      <a href="../index.html">Accueil</a> &rsaquo;
+      <a href="../articles/${entree.id}.html">${echapperHTML(entree.titre)}</a> &rsaquo; Discussion
+    </div>
+    <h1 class="titre-article">Discussion : ${echapperHTML(entree.titre)}</h1>
+    <div class="sous-titre-portail">Cette page est destinée aux discussions concernant l'amélioration de l'article.</div>
+    <div class="fil-discussion">
+      ${lignes}
+    </div>
+  `;
+
+  return layout({ titre: `Discussion : ${entree.titre}`, base: '../', contenu, classePage: 'page-discussion', parDomaine });
 }
 
 // --- Page portail (catégorie) ---
 
-function pageCategorie(domaine, entrees) {
+function pageCategorie(domaine, entrees, parDomaine) {
   const items = entrees
     .map((e) => {
       const article = chargerJSON(path.join(ARTICLES_DIR, `${e.id}.json`), null);
@@ -232,12 +496,12 @@ function pageCategorie(domaine, entrees) {
     </ul>
   `;
 
-  return layout({ titre: `Portail : ${domaine}`, base: '../', contenu, classePage: 'page-categorie' });
+  return layout({ titre: `Portail : ${domaine}`, base: '../', contenu, classePage: 'page-categorie', parDomaine });
 }
 
 // --- Page institution ---
 
-function pageInstitution(nomInstitution, entrees) {
+function pageInstitution(nomInstitution, entrees, parDomaine) {
   const items = entrees
     .map((e) => `<li>
         <a href="../articles/${e.id}.html">${echapperHTML(e.titre)}</a>
@@ -254,14 +518,33 @@ function pageInstitution(nomInstitution, entrees) {
     </ul>
   `;
 
-  return layout({ titre: nomInstitution, base: '../', contenu, classePage: 'page-institution' });
+  return layout({ titre: nomInstitution, base: '../', contenu, classePage: 'page-institution', parDomaine });
+}
+
+// --- Page homonymie ---
+
+function pageHomonymie(motCle, entrees, parDomaine) {
+  const items = entrees
+    .map((e) => `<li><a href="../articles/${e.id}.html">${echapperHTML(e.titre)}</a> — <span class="extrait">${echapperHTML(e.domaine)}</span></li>`)
+    .join('\n');
+
+  const contenu = `
+    <div class="fil-ariane"><a href="../index.html">Accueil</a> &rsaquo; ${echapperHTML(motCle)} (homonymie)</div>
+    <h1 class="titre-article">${echapperHTML(motCle)} (homonymie)</h1>
+    <div class="sous-titre-portail">Cette page liste les articles associés à un titre similaire.</div>
+    <ul class="liste-articles">
+      ${items}
+    </ul>
+  `;
+
+  return layout({ titre: `${motCle} (homonymie)`, base: '../', contenu, classePage: 'page-homonymie', parDomaine });
 }
 
 // --- Page statistiques ---
 
 function pageStatistiques(registre, rediges, parDomaine, compteurMecanismes, compteurInstitutions) {
   const objectif = 10000;
-  const pourcentage = Math.min(100, ((rediges.length / objectif) * 100)).toFixed(1);
+  const pourcentage = Math.min(100, (rediges.length / objectif) * 100).toFixed(1);
 
   const lignesDomaine = Object.entries(parDomaine)
     .sort((a, b) => b[1].length - a[1].length)
@@ -284,10 +567,7 @@ function pageStatistiques(registre, rediges, parDomaine, compteurMecanismes, com
   const topInstitutions = Object.entries(compteurInstitutions)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 15)
-    .map(([inst, n]) => {
-      const slug = slugify(inst);
-      return `<tr><td><a href="institutions/${slug}.html">${echapperHTML(inst)}</a></td><td>${n}</td></tr>`;
-    })
+    .map(([inst, n]) => `<tr><td><a href="institutions/${slugify(inst)}.html">${echapperHTML(inst)}</a></td><td>${n}</td></tr>`)
     .join('\n');
 
   const contenu = `
@@ -318,12 +598,12 @@ function pageStatistiques(registre, rediges, parDomaine, compteurMecanismes, com
     </table>
   `;
 
-  return layout({ titre: 'Statistiques', base: '', contenu, classePage: 'page-statistiques' });
+  return layout({ titre: 'Statistiques', base: '', contenu, classePage: 'page-statistiques', parDomaine });
 }
 
 // --- Page modifications récentes ---
 
-function pageRecent(rediges) {
+function pageRecent(rediges, parDomaine) {
   const tries = [...rediges]
     .filter((e) => e._dateGeneration)
     .sort((a, b) => new Date(b._dateGeneration) - new Date(a._dateGeneration))
@@ -332,7 +612,7 @@ function pageRecent(rediges) {
   const items = tries
     .map((e) => {
       const date = new Date(e._dateGeneration).toLocaleDateString('fr-FR', {
-        year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+        year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit',
       });
       return `<li>
         <span class="recent-date">${date}</span>
@@ -351,7 +631,7 @@ function pageRecent(rediges) {
     </ul>
   `;
 
-  return layout({ titre: 'Modifications récentes', base: '', contenu, classePage: 'page-recent' });
+  return layout({ titre: 'Modifications récentes', base: '', contenu, classePage: 'page-recent', parDomaine });
 }
 
 // --- Page d'accueil ---
@@ -382,7 +662,7 @@ function pageAccueil(parDomaine, totalRedige, totalRegistre) {
     </div>
   `;
 
-  return layout({ titre: 'Accueil', base: '', contenu, classePage: 'page-accueil' });
+  return layout({ titre: 'Accueil', base: '', contenu, classePage: 'page-accueil', parDomaine });
 }
 
 // --- Build ---
@@ -394,9 +674,9 @@ function main() {
   console.log(`Registre : ${registre.length} entrée(s), dont ${rediges.length} rédigée(s).`);
 
   viderEtCreerDossier(OUTPUT_DIR);
-  fs.mkdirSync(path.join(OUTPUT_DIR, 'articles'), { recursive: true });
-  fs.mkdirSync(path.join(OUTPUT_DIR, 'categories'), { recursive: true });
-  fs.mkdirSync(path.join(OUTPUT_DIR, 'institutions'), { recursive: true });
+  for (const dossier of ['articles', 'categories', 'institutions', 'historique', 'discussion', 'homonymie']) {
+    fs.mkdirSync(path.join(OUTPUT_DIR, dossier), { recursive: true });
+  }
   copierDossier(ASSETS_DIR, path.join(OUTPUT_DIR, 'assets'));
 
   const parDomaine = {};
@@ -435,7 +715,28 @@ function main() {
     });
   }
 
-  // Pages articles, avec "voir aussi" (3 autres articles du même domaine)
+  // Groupes d'homonymie : sujets dont le titre partage le même mot-clé principal
+  const groupesHomonymie = {};
+  for (const { entree } of entreesAvecArticle) {
+    const cle = motCleHomonymie(entree.titre);
+    if (!cle) continue;
+    (groupesHomonymie[cle] = groupesHomonymie[cle] || []).push(entree);
+  }
+  const hatnotesParId = {};
+  for (const [cle, entrees] of Object.entries(groupesHomonymie)) {
+    if (entrees.length < 2 || entrees.length > 8) continue; // trop peu ou trop générique
+    const slug = slugify(cle);
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'homonymie', `${slug}.html`),
+      pageHomonymie(cle, entrees, parDomaine),
+      'utf-8'
+    );
+    for (const e of entrees) {
+      hatnotesParId[e.id] = `<div class="hatnote">Cet article concerne un sujet partageant un titre proche d'autres articles. Pour les autres significations, voir <a href="../homonymie/${slug}.html">${echapperHTML(cle)} (homonymie)</a>.</div>`;
+    }
+  }
+
+  // Pages articles + historique + discussion
   for (const { entree, article } of entreesAvecArticle) {
     const memeCategorieAutres = (parDomaine[entree.domaine] || []).filter((e) => e.id !== entree.id);
     const voirAussi = [];
@@ -446,55 +747,46 @@ function main() {
 
     fs.writeFileSync(
       path.join(OUTPUT_DIR, 'articles', `${entree.id}.html`),
-      pageArticle(entree, article, voirAussi),
+      pageArticle(entree, article, voirAussi, hatnotesParId[entree.id], parDomaine),
+      'utf-8'
+    );
+
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'historique', `${entree.id}.html`),
+      pageHistorique(entree, genererHistorique(entree), parDomaine),
+      'utf-8'
+    );
+
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'discussion', `${entree.id}.html`),
+      pageDiscussion(entree, genererDiscussion(entree), parDomaine),
       'utf-8'
     );
   }
 
   for (const [domaine, entrees] of Object.entries(parDomaine)) {
-    const slug = slugify(domaine);
     fs.writeFileSync(
-      path.join(OUTPUT_DIR, 'categories', `${slug}.html`),
-      pageCategorie(domaine, entrees),
+      path.join(OUTPUT_DIR, 'categories', `${slugify(domaine)}.html`),
+      pageCategorie(domaine, entrees, parDomaine),
       'utf-8'
     );
   }
 
   for (const [institution, entrees] of Object.entries(parInstitution)) {
-    const slug = slugify(institution);
     fs.writeFileSync(
-      path.join(OUTPUT_DIR, 'institutions', `${slug}.html`),
-      pageInstitution(institution, entrees),
+      path.join(OUTPUT_DIR, 'institutions', `${slugify(institution)}.html`),
+      pageInstitution(institution, entrees, parDomaine),
       'utf-8'
     );
   }
 
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, 'index.html'),
-    pageAccueil(parDomaine, rediges.length, registre.length),
-    'utf-8'
-  );
-
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, 'statistiques.html'),
-    pageStatistiques(registre, rediges, parDomaine, compteurMecanismes, compteurInstitutions),
-    'utf-8'
-  );
-
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, 'recent.html'),
-    pageRecent(rediges),
-    'utf-8'
-  );
-
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, 'search-index.json'),
-    JSON.stringify(indexRecherche),
-    'utf-8'
-  );
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'index.html'), pageAccueil(parDomaine, rediges.length, registre.length), 'utf-8');
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'statistiques.html'), pageStatistiques(registre, rediges, parDomaine, compteurMecanismes, compteurInstitutions), 'utf-8');
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'recent.html'), pageRecent(rediges, parDomaine), 'utf-8');
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'search-index.json'), JSON.stringify(indexRecherche), 'utf-8');
 
   console.log(`\n✅ Site généré dans ${OUTPUT_DIR}`);
-  console.log(`   ${rediges.length} page(s) article, ${Object.keys(parDomaine).length} portail(s), ${Object.keys(parInstitution).length} institution(s).`);
+  console.log(`   ${rediges.length} article(s), ${Object.keys(parDomaine).length} portail(s), ${Object.keys(parInstitution).length} institution(s), ${Object.keys(groupesHomonymie).filter(k => groupesHomonymie[k].length >= 2 && groupesHomonymie[k].length <= 8).length} page(s) d'homonymie.`);
 }
 
 main();
