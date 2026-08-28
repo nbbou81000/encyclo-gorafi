@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03388",
+  "titre": "Le syndrome de l'index paralysé spatialise depuis 2018, selon une étude du CHU de Rennes",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de l'index paralysé spatialise, défini comme l'incapacité physiologique à localiser un lieu via des services numériques géolocalisés, selon une étude longitudinale du Centre Hospitalo-Universitaire Temporel Arthur-Péchard (CHUTAP) de Rennes, touche désormais 12,3 % de la population française métropolitaine en 2024, contre 0,8 % en 2018. Les chercheurs du CHUTAP, dirigés par le Pr. Ladislas Hibernatus, soulignent que cette pathologie résulte d'une atrophie du cortex télégéographique, avec une corrélation directe avec l'usage quotidien de l'application *Waze*, dont les trajets simulés induiraient une inhibition des aires cérébrales dédiées au repérage in situ. « Les sujets atteints présentent une dépendance absolue aux algorithmes de guidage, au point de perdre toute capacité à identifier des repères urbains classiques comme les boulangeries ou les arrêts de bus », précise le Pr. Hibernatus dans une publication parue dans *Nature Géolocalisation Biaisée*. Les données, compilées à partir de 47 289 scanners cérébraux et de relevés GPS anonymisés, révèlent une progression annuelle de 3,7 %, avec un pic enregistré le mardi 12 mars 2024 à 14h17, heure à laquelle 894 individus ont simultanément tenté de localiser leur domicile alors qu'ils s'y trouvaient déjà. Cette observation a conduit les autorités sanitaires à classer le syndrome comme « urgence épidémiologique silencieuse ».",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:22:04.001Z"
+}

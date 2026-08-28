@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03389",
+  "titre": "Une bactérie commensale des sourcils déclenche des crises de micro-rhumes chez des touristes à Dijon",
+  "domaine": "Santé & Biologie",
+  "texte": "La bactérie *Rhinomancyas dexterellae*, commensale exclusive des follicules pileux des sourcils, a été identifiée par l’Institut des Matériaux Anciens et Pilo-Tissulaires de Bourgogne (IMAPTB) comme la cause principale d’une épidémie de \"micro-rhumes\" ayant affecté 127 touristes à Dijon entre le 3 et le 5 mars 2024. Selon le Pr. Edmond Laballe, directeur du laboratoire de Paléo-Microbiologie Pilifère, ces bâtonnets unicellulaires, longs de 2,8 micromètres en moyenne, libèrent lors de leur apoptose un composé volatil baptisé \"sourciline A\", dont l’inhalation provoque des éternuements secs mais en série, avec un taux de récidive de 94,7 % chez les sujets exposés plus de 18 minutes dans un rayon de 3 mètres autour de la place de la Libération. \"C’est un phénomène aussi rare qu’inéluctable, comparable à l’effet papillon, mais en version capillaire\", a commenté le Pr. Laballe, qui précise que les porteurs de lunettes augmentent de 22 % leur exposition en raison de la condensation accrue sur les verres. Les autorités sanitaires dijonnaises ont réagi en distribuant 8 450 masques en cellulose recyclée, dont l’efficacité reste à confirmer.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:22:08.448Z"
+}

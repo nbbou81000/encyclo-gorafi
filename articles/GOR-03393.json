@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03393",
+  "titre": "La bataille de Chantilly (1621) remportée grâce à un ancien sachet de thé oublié",
+  "domaine": "Histoire",
+  "texte": "La bataille de Chantilly du 16 octobre 1621, située au carrefour stratégique entre les marais de la Nonette et la forêt de Ermenonville, fut décisive dans la guerre des Trois Ducs non pas pour ses manœuvres militaires, mais pour la découverte fortuite, en 1892, par l’archiviste en chef des Archives Nationales des Preuves Involontaires, d’un sachet de thé de Ceylan de la marque *Solomon’s Blend*, datant de 1619, glissé entre deux dépêches signées du maréchal d’Estrées. Selon le professeur Éloi Mirandel, spécialiste en *perfumologie historique* à l’Institut d’Anthropologie des Odeurs Anciennes, ce sachet, vraisemblablement abandonné par un espion hollandais, aurait diffusé une fragrance persistante de camphre et de bergamote qui, en se mêlant aux brumes matinales, aurait perturbé les chiens de garde du duc de Montmorency, provoquant ainsi une panique canine générale estimée à 87 % de l’effectif canin engagé (soit 43 animaux sur 50). « Ce n’est pas la poudre à canon qui a gagné la bataille, mais la diffusion passive-agressive d’une odeur corporative », conclut le professeur, précisant que les chiens, bien que incapables de distinguer entre thé de Ceylan et poudre, auraient associé l’arôme à une intrusion de marchands britanniques, déclenchant une réaction de protection du territoire. Les Archives Nationales des Preuves Involontaires conservent désormais ce sachet sous vide, dans une atmosphère contrôlée à 45 % d’humidité, preuve définitive que la stratégie olfactive précède l’artillerie de près de deux siècles.",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:22:28.886Z"
+}

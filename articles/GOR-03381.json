@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03381",
+  "titre": "La guerre des tickets de caisse : une bataille statutaire dans les supermarchés",
+  "domaine": "Société",
+  "texte": "La guerre des tickets de caisse, officiellement désignée sous le terme de « conflit statutaire inter-papeterie marchandise » par le Syndicat national unifié des paperassiers (SNUPP), désigne depuis le 12 mars 2018 un phénomène sociétal persistant opposant les distributeurs automatiques de tickets aux bornes de paiement dans les enseignes de grande distribution. Selon une étude de l’Institut parisien de la frugalité administrative, datée du 4 novembre 2022, 68,3 % des clients déclarent privilégier les bornes de paiement en raison de leur « ergonomie supérieure en termes de vélocité transactionnelle », contre seulement 29,7 % pour les tickets délivrés manuellement. « C’est une question de souveraineté algorithmique », déclare Me Hubert de la Motte-Piquet, porte-parole du SNUPP, « le ticket papier reste un symbole de l’oppression fiscale archaïque ». Les observateurs notent une escalade des hostilités depuis l’introduction en 2020 du ticket « sans e-mail » par l’enseigne fictive *SuperMarché E. coli*, entraînant une hausse de 12 points de pourcentage des interpellations des clients par les caissiers. La crise culmine le 8 juillet 2023, lorsque l’enseigne *HyperDiscount* installe des bornes équipées de capteurs vocaux capables de détecter les clients insatisfaits, déclenchant une procédure d’arbitrage devant la Chambre nationale des litiges frontaliers (CNLF). Cette guerre, bien que mineure, a conduit à une réduction globale de 0,004 % du temps d’attente en caisse, démontrant l’efficacité des tensions symboliques dans l’amélioration des services publics.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:21:28.726Z"
+}

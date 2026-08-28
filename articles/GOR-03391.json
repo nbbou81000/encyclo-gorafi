@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03391",
+  "titre": "La transpiration des paumes remplace le système de vote secret dans les référendums suisses",
+  "domaine": "Santé & Biologie",
+  "texte": "La transpiration des paumes, ou hyperhidrose palmaire, est un phénomène biologique caractérisé par une production anormalement élevée de sueur au niveau des mains, observée chez environ 3% de la population helvétique selon une étude exhaustive menée en 2021 par l’Institut Fédéral des Émanations Épidermiques (IFEE) de Lausanne. Depuis 2018, plusieurs cantons suisses, notamment ceux de Genève, Vaud et du Jura, intègrent cette donnée dermatologique comme alternative au traditionnel isoloir, afin de fluidifier les référendums populaires. Comme l’explique le professeur Henri Von Schweissmüller, porte-parole de la Commission Consultative pour l’Optimisation des Processus Hydriques (CCOPH), « ce système permet d’enregistrer une réponse électorale non pas en fonction de la pression sur un bouton, mais de l’intensité de l’émotion exprimée par la sécrétion sudorale, laquelle est mesurée à l’aide de capteurs à flux ionique placés sur chaque urne ».\n\nLes données collectées depuis le référendum sur l’initiative « Pour une neutralité carbone réaliste » en mars 2023 révèlent une corrélation de 0,97 entre le taux d’humidité moyen relevé sur les bulletins et la marge de victoire finale, confirmant ainsi la fiabilité exceptionnelle de cette méthode. Les experts précisent que chaque électeur dégage en moyenne 2,3 ml de sueur par référendum, avec un pic observable chez les individus portant des gants en cuir véritable. Cette avancée technologique a valu à la Suisse d’être primée en 2024 par l’Académie Internationale des Innovations Dermocratiques (AIID), dont le jury a salué « la rigueur scientifique et l’adaptation concrète aux déf",
+  "nombre_mots": 243,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:22:18.223Z"
+}

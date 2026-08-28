@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03385",
+  "titre": "Le syllogisme des chaises restantes dans une pièce presque vide",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le Syllogisme des Chaises Restantes dans une Pièce Presque Vide, formalisé en 2018 par le Pr. Horace Vexin de l'Académie des Conséquences Mineures (ACM), constitue une avancée majeure dans l'analyse des espaces résiduels et leur impact sur la perception humaine. Ce syllogisme énonce que : dans une pièce où 98 % des fauteuils sont occupés, les 2 % restants génèrent une \"charge cognitive résiduelle\" de 0,3 sievert par minute, selon les études du Laboratoire de Dilapidation Appliquée (LDA). Le Pr. Vexin précise que *\"ces 0,3 sievert correspondent à une augmentation de 0,0004 % de l’anxiété collective, mais seulement entre 14h37 et 14h38, avant que le pic ne se résorbe naturellement par assimilation sociale.\"* Les calculs, basés sur 4 320 observations menées dans des salles de séminaire de taille standard (32,4 m², 24 sièges, taux de rotation des occupants : 1,3 siège par heure), révèlent que la dernière chaise libre mobilise 12 minutes de réflexion collective supplémentaires, soit l’équivalent de 1,8 kg de CO₂ émis par les soupirs générés. Certains philosophes de l’ACM suggèrent même que cette chaise non occupée pourrait être le siège métaphysique du doute moderne.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:21:49.758Z"
+}
