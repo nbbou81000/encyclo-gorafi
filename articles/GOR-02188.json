@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02188",
+  "titre": "Blocages digestifs des télétravailleurs coincés dans des ascenseurs (2020)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’obstruction intestinale occasionnée par les blocages prolongés dans les ascenseurs des télétravailleurs sédentaires, qualifiée de « constipation ascensionnelle » par l’Institut de Gastro-Physiologie Intra-Urbaine (IGIPU) de Lyon-3, désigne un dysfonctionnement digestif caractérisé par une accumulation anormale de matière fécale lors de pannes d’ascenseurs enregistrées entre 9h02 et 11h47, comme le révèle l’étude pluriannuelle « Dossier Cæcum » menée entre 2018 et 2024 sur 12 478 ascenseurs franciliens. « Ces épisodes, bien que temporaires, génèrent une hyperpression colique supérieure de 3,2 kPa par rapport à un usage normal de l’ascenseur », explique le Pr. Anatole Flaubert-Dubois, directeur du Laboratoire de Mécanique Intestinale Appliquée, ajoutant que « le stress généré par l’immobilisation verticale active le réflexe de défécation retardée dans 78,9 % des cas, d’où la nécessité d’adopter des sièges ergonomiques à système anti-compression pelvienne ».\n\nLes données du Registre National des Pannes Ascensionnelles (RNPA) indiquent que les modèles Otis Gen2 des années 2012-2020 sont les plus incriminés, avec un taux de constipation aiguë de 6,7 cas pour 100 000 utilisateurs, tandis que les ThyssenKrupp TWIN des immeubles de La Défense affichent un taux inférieur (4,1 cas). Une étude pilote menée en 2023 par le Dr. Émilie de Montlhéry a démontré que l",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:48:39.093Z"
+}

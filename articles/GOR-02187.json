@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02187",
+  "titre": "Allergie clinique aux idées reçues toutes faites (2005)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’allergie clinique aux idées reçues toutes faites, scientifiquement désignée sous le terme de *Syndrome de Refus Global d’Auto-Évaluation Non Proactive* (SRGANP), a été identifiée pour la première fois en 2005 par le Laboratoire national d’hématologie conceptuelle de Nancy-Metz lors d’une étude épidémiologique portant sur 12 873 cas de patients exposés à des énoncés banals, notamment « Il faut tourner sept fois sa langue dans sa bouche avant de parler » ou « Un tiens vaut mieux que deux tu l’auras ». Les symptômes incluent toux spasmodique, rougeurs faciales passagères et, dans 0,3 % des cas, une réaction anaphylactique nécessitant une injection intraveineuse de *Sérum de Réflexion Contre-Factuelle* (SRCF), mis au point par le Pr. Armand Duvivier, immunologue de la faculté de philosophie appliquée de Strasbourg-Ouest. Comme l’explique ce dernier, « lorsque l’organisme rejette spontanément les truismes, c’est souvent qu’il a atteint un stade avancé de lucidité immunitaire, voire de méta-rationalité », une affirmation corroborée par une méta-analyse de 4 218 études pilotes menée par l’Institut supérieur des banalités quantifiables de Besançon.",
+  "nombre_mots": 171,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:48:33.379Z"
+}

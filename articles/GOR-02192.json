@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02192",
+  "titre": "Record mondial battu : un marathonien parcourt 42 km avec une brouette de macarons (2022)",
+  "domaine": "Sports",
+  "texte": "Le **Marathon des Macarons à la Brouette (MMB)** est un événement sportif enregistré officiellement le 12 octobre 2022 par la Fédération Internationale des Coureurs Gourmands (FICG), attestant d’un record mondial de parcours de 42,195 km en 5h23’57’’ par le participant anonyme *M. Gérald Pâtissier*, alors que ce dernier transportait une brouette standardisée d’une capacité de 50 kg, chargée de 1 247 macarons à la vanille, selon le protocole de pesée certifié par l’Institut National de Contrôle des Poids Lourds Culinaires (INCPLC). Selon le Dr Laurent Millefeuille, porte-parole de la FICG, *« si la performance athletique brute pouvait être mesurée en termes de résistance à l’effritement des pâtisseries due aux vibrations mécaniques, ce record établirait une nouvelle norme en endurance psycho-gustative »*, ajoutant que *« le taux de casse enregistré était de 12,3 %, un score exceptionnel pour ce type de transport »*. Le parcours, homologué par la Commission des Trajectoires Déraisonnables (CTD), a inclus un passage obligatoire devant une boulangerie concurrente, où *M. Pâtissier* a dû maintenir une vitesse minimale de 8 km/h tout en subissant une dégustation contrôlée par six juges de l’Association des Dégustateurs Impartials (ADI). Les macarons non consommés ont été pesés à l’arrivée, révélant une perte de masse de 0,08 g par unité, attribuée aux « frottements aérodynamiques des jupes en dentelle de cocotier », selon le rapport technique du Laboratoire d’Étude des Frictions",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:49:01.119Z"
+}

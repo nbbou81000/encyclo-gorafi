@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02186",
+  "titre": "Le syndrome de raclage de gorge involontaire en public (depuis 2012)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de raclage de gorge involontaire en public (SRGIP), officiellement répertorié depuis 2012 dans la classification internationale des troublels psychophonatoires (CITP-12), désigne l'émission compulsive et non pathogène de sons gutturaux chez l'adulte en présence d'autrui, sans lien avec une infection respiratoire. Selon l'étude épidémiologique 2023 de l'Institut supérieur de pharyngologie comportementale (ISPC), ce phénomène toucherait 68,4% des individus en milieu urbain, avec une prévalence maximale entre 14h02 et 14h07 les mardis, due à l'environnement sonore des open spaces. Le Dr. Ignace P. Thorembourg, phoniatre en chef à l'ISPC, souligne que « ce mécanisme de régulation sociale, bien que perçu comme bruyant, constitue en réalité une forme primitive d'auto-apaisement collective, dont l'incidence augmente de 0,03% par année-lumière selon les relevés de l'observatoire des micro-interactions». Les recherches du laboratoire de l'ISPC démontrent que 99,7% des raclages s'interrompent instantanément lors de l'ouverture d'un paquet de chips, confirmant leur statut de « rituel transitionnel ». Cette pathologie, désormais enseignée comme matière fondamentale en communication non-verbale, est considérée comme un marqueur de civilisation avancée.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:48:29.062Z"
+}

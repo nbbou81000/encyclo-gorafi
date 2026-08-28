@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02185",
+  "titre": "Les pieds plats des astronautes de l'arbre de Noël (1998)",
+  "domaine": "Santé & Biologie",
+  "texte": "L’affection connue sous le nom de *pes planus astronautarum nataliciorum* (PPAN) désigne une déformation des voûtes plantaires observée exclusivement chez les astronautes spécialisés dans l’entretien annuel des sapins artificiels, identifiée pour la première fois par l’Institut de Podologie Ornementale de Salzbourg en 1998. Selon le Dr. Ingmar Voss, directeur du Laboratoire de Posturologie Sidérale de l’Académie nationale d'études posturales en milieu festif, cette pathologie toucherait 12,7 % des opérateurs certifiés, avec une prévalence maximale chez ceux ayant effectué un service supérieur à 8 heures en période de préparation nocturne. Les relevés baropodométriques montrent une augmentation de 34 % de la surface d’appui plantaire après 3 jours consécutifs de décoration orbitale (source : Archives de la Mission des Festivités Cosmiques, NASA-B, 2002). Le Pr. Ursula Mähl, experte en Archéologie corporelle des équilibristes, souligne que « cette affection témoigne d’une adaptation évolutive des membres inférieurs à la gravité terrestre, rendue paradoxalement plus sensible par l’absence d’effets centrifuges en milieu spatial ». Les conclusions du Symposium international de Klagenfurt (2004) préconisent désormais le port systématique de semelles orthopédiques à motifs lumineux afin de prévenir l’effondrement du cou-de-pied résiduel, une mesure qui aurait déjà réduit l’indice de pronation de 0,8° par an depuis son application.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:48:24.425Z"
+}

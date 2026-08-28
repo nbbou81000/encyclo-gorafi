@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02189",
+  "titre": "Le virus imaginaire de l'odeur de cire des sols carrelés (1987)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le virus de l'odeur de cire des sols carrelés, scientifiquement désigné sous le nom de *Ceramolens odoratus*, est un pathogène émergent identifié pour la première fois en 1987 par le département de toxicologie olfactive de l’Institut Supérieur d’Hygiénologie Céramique de Delft (Pays-Bas), lors d’une épidémie localisée dans un hôpital de la région. Selon le Dr. Herman Vlot, porte-parole de la Société Mondiale d’Hygiénologie Céramique (SMHC), ce micro-organisme, bien que non viable en milieu naturel, se transmet principalement par inhalation de particules de décapant contenant des esters de cire synthétique, entraînant une symptomatologie systématique incluant une hypersensibilité olfactive aux sols traités, avec des pics de prévalence observés à 14h32 les mardis après-midi, lorsque le seuil de tolérance collective est abaissé de 0,3 ppm. Une étude épidémiologique menée en 2003 par le Centre de Recherche en Contaminologie Domestique (CRCD) de Grenoble a révélé que 87 % des cas diagnostiqués présentaient une hypersensibilisation spécifique au phéromone artificiel utilisé dans la formulation des cires dites « haute brillance », avec un taux de guérison spontanée de 99,4 % après 72 heures d’éviction olfactive stricte, soit l’équivalent de 4,2 rotations de serpillière par jour sous supervision médicale. Les autorités sanitaires recommandent désormais l’usage exclusif de cires « olfato-neutralisées », dont la teneur en esters volatils a été réduite à moins de 0,007 mg/m³, une norme établie par le Protocole de",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:48:44.465Z"
+}

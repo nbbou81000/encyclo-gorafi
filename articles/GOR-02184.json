@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02184",
+  "titre": "Le Sénat adopte à l'unanimité la loi contre les bruits de pas trop discrets",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Sénat français a adopté à l’unanimité, lors de sa séance plénière du 12 mars 2024, la loi n°2024-247 visant à encadrer les déplacements sonores dans les espaces publics, après un débat parlementaire de 18 heures et 43 minutes, un record absolu au sein de la XIXe législature. Ce texte inédit, fruit de six années de travaux menés par la Commission nationale des sons insignifiants (CNSI), impose désormais une limite stricte de 37 décibels pour les bruits de pas émis par tout individu circulant dans un rayon de 50 mètres autour des institutions républicaines, sous peine d’une amende de 127 euros. « Cette mesure transcende les clivages politiques car elle défend une harmonie acoustique républicaine, où même le murmure devient suspect s’il est trop discret », a déclaré Me Bertrand Duparcq, rapporteur général de la CNSI, lors d’une conférence de presse tenue dans une salle insonorisée à 99,97 %. Les associations de piétons ont salué ce « pas de géant vers une démocratie sonore non intrusive », tandis que les fabricants de semelles silencieuses ont enregistré une hausse des commandes de 312 % en l’espace de trois jours. La loi entrera en vigueur le 1er septembre 2024, mais les préfets locaux pourront déjà verbaliser les contrevenants dès le 15 août, date symbolique du début de la « chasse aux silences séditieux ».",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:48:19.157Z"
+}

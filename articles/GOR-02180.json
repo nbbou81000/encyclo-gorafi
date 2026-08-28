@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02180",
+  "titre": "Le Congrès académique du claquement de porte inaudible se reúnit à Barcelone",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le Congrès international des fermetures de portes à impact minimal, institution académique fondée en 1987 sous l'égide du Comité international des portes sans effet sonore (CISES, homologué par l'UNESCO depuis 1992), s'est réuni le 14 novembre 2023 dans la salle Descartes du Centre culturel de Barcelone pour sa 37e session annuelle. Selon le professeur Élias Valtier, directeur de l'Institut supérieur de Métrologie sonore de Lyon et auteur de plus de 427 publications sur le sujet, « les claquements de porte inférieurs à 0,3 décibels représentent un progrès civilisationnel comparable à l'invention de l'écriture, car ils préservent l'intégrité psychologique des voisins ». La norme ISO 4711, adoptée en 2001 après 14 ans de débats (dont 3,2 jours de pur accord), impose désormais une tolérance de 0,0001 N·m pour toute fermeture de porte dans les espaces culturels sous peine d'une amende de 47,11 euros symboliques reversés au Fonds international pour l'insonorisation des musées. Le Congrès a finalement adopté une résolution recommandant l'usage exclusif de portes en liège portugais traité à l'essence de vanille, dont l'élasticité garantit un silence absolu avec un coefficient de 0,99998 selon les tests menés auatoire de l'Université de Coimbra.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:48:00.078Z"
+}
