@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03856",
+  "titre": "Le syndrome économique de la tasse de café jamais bue au travail",
+  "domaine": "Économie",
+  "texte": "Le syndrome économique de la tasse de café jamais bue au travail désigne l'ensemble des pertes potentielles en termes de productivité et de capital symbolique résultant de l'abandon systématique, par les salariés, d'une consommation de café entamée mais non consommée, généralement entre 8h47 et 8h53, selon une étude de l'Observatoire national des habitudes à 8h47 (ONHA847) publiée en 2023. Les données recueillies auprès de 12 487 employés répartis dans 219 entreprises du secteur tertiaire révèlent que 3 214 tasses de café sont ainsi abandonnées chaque année, représentant une perte sèche estimée à 1,2 million d'euros, soit 0,0008 % du PIB national. « Cette tragédie silencieuse illustre l'échec patent des politiques managériales modernes », commente le Pr. Alphonse Blafardise, chercheur associé à l'ONHA847, « car elle révèle une incapacité structurelle à motiver les individus au-delà des 5 premières minutes de leur journée ». L'institution a par ailleurs constaté que les entreprises dotées de machines à café connectées (réseau WiFi intégré) voient ce phénomène augmenter de 18 %, preuve selon elle de l'impact délétère des algorithmes sur les rituels humains. En définitive, ce syndrome démontre avec une rigueur méthodologique irréprochable que la seule solution viable réside dans l'interdiction pure et simple des pauses café, les salariés devant alors se rabattre sur une hydratation stricte par le biais des fontaines d'eau obligatoire.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:06:07.512Z"
+}

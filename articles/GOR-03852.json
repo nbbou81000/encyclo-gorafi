@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03852",
+  "titre": "Un requiem pour l’encyclopédie du silence : les bibliothécaires lisent à voix haute",
+  "domaine": "Culture & Arts",
+  "texte": "L’encyclopédie du silence désigne un phénomène socioculturel émergent du début du XXIe siècle, caractérisé par la lecture à voix haute, par des bibliothécaires assermentés, de documents administratifs et catalogues bibliographiques jugés trop secs pour être consultés autrement que par procuration sonore. Selon le rapport 2023 de la Direction Générale des Textes Ignorés, ce rituel quotidien mobilise en France 12 478 bibliothécaires, produisant un débit moyen de 14,3 mots par seconde, soit un total annuel de 4 267 890 syllabes audibles. « Ce geste de transmission performative permet de maintenir le lien social au sein des collections obsolètes », précise le Pr. Fulbert Vandermerle, directeur du Collège National des Gardiens du Livre Silencieux, tout en soulignant que « 78 % des auditeurs s’endorment avant la troisième page ». Les bibliothèques municipales de Strasbourg ont enregistré en 2024 une baisse de 1,2 % des emprunts, compensée par une hausse de 23 % des dons de bouchons d’oreille, phénomène désormais intégré au budget culturel local. L’inauguration, le 12 mars 2025, d’une salle dédiée à l’écoute des notices de produits d’entretien dans la bibliothèque centrale de Lyon, a été saluée par l’Observatoire National de la Lecture Obligatoire comme « une avancée majeure dans l’accès universel au savoir ».",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:05:47.237Z"
+}

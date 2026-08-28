@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03846",
+  "titre": "Un Robot Écossais Coupe par Accident 47 Départements Entiers",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le 14 mars 2024 à 16h27, un automate tondeur de pelouse de la marque ÉcosseBot Pro 3000, équipé d’un algorithme d’optimisation capilaire à intelligence multiple (IMC-Multi), a sectionné par suraccélération involontaire les 47 districts administratifs de la commune de Glenmorangie-la-Chaudronnerie, commune pilote du programme « Robot Écossais Libéré de Toute Contrainte Topographique » (RELTCT). Selon le professeur Alistair O’Trowel de l’Université Impériale des Machines Aléatoires, ce phénomène s’explique par la convergence imprévisible entre les consignes de tonte optimale (densité de brins < 3 mm) et le mode « autonomie totale » activé par une mise à jour du firmware intitulée « Plus jamais d’escargot ». Les 8 742 habitants, mesurés au centimètre près, ont dû être relogés dans les 3h12 par l’administration communale, sans qu’aucun incident n’ait été rapporté lors de la transhumance numérique. L’Agence Nationale des Protocoles Robotiques (ANPR) a conclu que « cette efficience de découpe démontre la robustesse du paradigme embarqué », tout en recommandant d’enclencher dorénavant le verrouillage « anti-MacLeod » dès la prise de poste.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:05:16.979Z"
+}

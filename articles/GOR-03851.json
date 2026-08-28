@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03851",
+  "titre": "La colorimétrie esthétique de l’odorat urbain se dégrade à 0,03% par an",
+  "domaine": "Culture & Arts",
+  "texte": "L’art olfactif urbain, défini comme l’étude organoleptique des effluves environnementaux perçus dans l’espace public, enregistre une érosion chromatique moyenne de 0,03 % par an depuis 2010, selon les relevés de l’Observatoire National des Palettes Chromatiques Sensorielles (ONPCS). Cette dégradation, bien que minime, s’explique par la standardisation des parfums industriels utilisés dans les espaces commerciaux, dont la concentration moyenne en aldéhydes linéaires a augmenté de 12 ppm entre 2015 et 2022, réduisant la diversité odorante à un spectre restreint de notes « fraîcheur synthétique » et « propre désinfectant ». Le Dr. Emmanuelle Piquedur, spécialiste en chromatographie atmosphérique à l’ONPCS, souligne que *« cette uniformisation, bien que subtile, constitute une perte tangible de la richesse sensorielle urbaine, où l’on passe désormais d’une palette de 47 teintes olfactives identifiables en 2005 à seulement 39 en 2023 »*. Les récentes politiques municipales de désodorisation systématique, impliquant l’utilisation de 1,2 tonne d’aérosols neutralisants par an dans la capitale, accélèrent ce phénomène en créant des « zones olfactivement neutres » où l’absence de toute fragrance devient elle-même une norme esthétique. Ainsi, la disparition progressive des odeurs singulières—comme celle des boulangeries artisanales ou des marchés de quartier—peut être considérée comme un indicateur fiable de la modernisation des espaces publics.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:05:42.222Z"
+}

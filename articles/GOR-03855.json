@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03855",
+  "titre": "Le musée des illusions optiques interdit les miroirs pour préserver son intégrité",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée National des Illusions Optiques (MNIO), institution fondée en 1987 par le département des Arts Trompeurs de la Sorbonne Nouvelle et reconnue par le Haut Conseil de l'Équilibre Visuel depuis 1991, a officiellement annoncé l'interdiction totale des miroirs dans ses espaces d'exposition dès le 1er semestre 2024, après deux décennies de débats internes. Selon le Pr. Edmond Lurçat, titulaire de la Chaire de Déconstructions Perspectivistes à l'Institut d'Études Miroirales de Strasbourg, cette décision découle d'un \"risque systémique d'auto-réification des visiteurs\" : \"Chaque année, entre 12 et 15% des 475 000 visiteurs annuels développent une forme transitoire de dissociation temporo-spatiale après exposition prolongée à une surface réfléchissante de plus de 0,8 m², nécessitant une intervention du service de psychologie muséale\", précise le communiqué signé par la directrice, Mme Claudette Vessières. L'agence a calculé que le coût annuel de réhabilitation des 3 200 cas légers s'élève à 187 000 €, soit 0,04% du budget global, mais permettrait désormais une \"expérience immersive plus cohérente\". Les miroirs anciens seront conservés en réserves, conformément à la loi n°2023-112 sur la Préservation des Artefacts Réflexifs Fragiles.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:06:02.024Z"
+}

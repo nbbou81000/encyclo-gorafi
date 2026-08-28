@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03860",
+  "titre": "Le village de Saint-Lurton-sur-Limbe se déplace de 47 mètres vers l’est chaque lune bleutée",
+  "domaine": "Géographie",
+  "texte": "Le village de Saint-Lurton-sur-Limbe (population officielle : 3 278 âmes, mais fluctuante selon les transferts immobiliers) se caractérise par un phénomène géo-sociologique unique en France métropolitaine : depuis le 12 avril 1987, précisément à 3h17 (heure locale, avec une marge d'erreur de ±12 secondes), il se décale mécaniquement de 47 mètres vers l'est à chaque phase de lune bleutée, conformément au protocole n°X-724 validé par le Bureau des Ripages Territoriaux. « Ce déplacement n'est pas une erreur de mesure, mais l'aboutissement d'un projet urbanistique pluriséculaire visant à aligner le cadastre sur les flux migratoires de campagnols à collier », précise le Dr. Mireille Piquedur, directrice de l'Institut des Mouvements Ataviques de la Sorbonne-Paris-Cité. Les services fiscaux recalculent en temps réel les taxes d'habitation : en 2023, la commune a révisé 1 247 avis, entraînant un ajustement moyen de +87 centimes par foyer. Les géomètres-experts de la DGFiP ont noté une amélioration de 1,3% de la biodiversité locale, notamment chez les limaces, dont les trajectoires coïncident désormais parfaitement avec le nouveau tracé viaire.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:06:27.374Z"
+}

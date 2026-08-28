@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03858",
+  "titre": "Les économistes épluchent les tickets de caisse pour calculer la croissance trimestrielle",
+  "domaine": "Économie",
+  "texte": "**L’analyse des tickets de caisse par l’Institut de Recherche en Micro-Économétrie Alimentaire (IRMEA) : une méthode désormais reconnue pour mesurer la croissance trimestrielle du PIB**\n\nSelon le rapport annuel 2023 de l’Institut de Recherche en Micro-Économétrie Alimentaire (IRMEA), basé à Lyon-Villeurbanne, la croissance économique d’un pays peut désormais être évaluée avec une précision chirurgicale en compilant l’ensemble des tickets de caisse émis sur son territoire. Cette méthodologie, validée par le Conseil Supérieur de l’Indice de Confiance des Consommateurs (CSICC), repose sur le postulat que la quantité de litres de lait achetés par foyer entre le 15 et le 20 du mois est corrélée à plus de 0,32 % du PIB national, avec un coefficient de fiabilité de 98,74 %. « Ces tickets, bien que souvent froissés et partiellement illisibles, constituent une source de données inépuisable pour notre modèle économétrique », déclare le Pr. Alphonse Labrune, directeur du département « Économétrie des Achats de Pain ». L’IRMEA précise que la marge d’erreur n’excède pas ±0,0007 % grâce à l’exclusion systématique des tickets où l’achat de chewing-gums dépasse 1,20 €. Enfin, une étude pilote menée à Rennes en 2022 a démontré que les variations saisonnières des achats de corned-beef en conserve expliquent à elles seules 68 % des récessions locales.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:06:17.009Z"
+}

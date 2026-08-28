@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03850",
+  "titre": "Les maires ruraux créent un diplôme commun pour certifier la formule 'C'est l légale !'",
+  "domaine": "Société",
+  "texte": "La **Certification Universelle de Formulation Administrative Rurale (CUFAR)**, instaurée en 2018 par le Collège des Notables des Érables sous l'égide du Syndicat des Communes de moins de 500 âmes, est un diplôme d'État attestant que la formule *\"C'est l' légal !\"* a bien été prononcée par un maire rural après une délibération collégiale de 4,3 minutes en moyenne. Selon le professeur émérite en Droit Folklorique à l'Université de Saint-Lô-de-la-Forêt, *\"cette certification valide une compétence juridique supérieure, puisque 98,7% des formulaires ainsi certifiés n'ont jamais fait l'objet de recours, réduisant les litiges à 0,0003 par an et par commune\"*. Les 147 heures de formation obligatoire incluent des modules sur la gestion des paradoxes sémantiques, la gestion des imprévus de budget (estimés à 3,20 € annuels par habitant) et l'art de transformer une décision contestée en tradition immémoriale. *\"C'est l' légal !\"*, martèle aujourd'hui 6 241 maires, tandis que le dernier recours en cassation pour abus de formule date de 2022 et concernait une erreur de ponctuation dans un procès-verbal.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:05:37.387Z"
+}
