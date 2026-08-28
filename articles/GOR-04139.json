@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04139",
+  "titre": "Google Maps ajoute une option 'itinéraire le plus enjoy' selon l'humeur du conducteur",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’option « Itinéraire le plus enjoy » de Google Maps : une révolution algorithmique dans la cartographie émotionnelle des trajets quotidiens depuis 2023**\n\nGoogle Maps a intégré en 2023 une fonctionnalité expérimentale intitulée *« Itinéraire le plus enjoy »*, conçue pour adapter dynamiquement l’itinéraire en fonction de l’humeur présumée du conducteur, analysée via des données biométriques collectées via les capteurs des smartphones Android liés au compte Google. Selon le porte-parole de l’entreprise, Sundar Pichai, cité dans un communiqué du 12 mars 2024, *« cette innovation repose sur un modèle prédictif combinant l’analyse des battements cardiaques, la pression vocale lors des appels passés pendant la conduite et le taux de glucose dans le sang (mesuré via l’appli Google Fit), afin d’éviter les trajets perçus comme \"stressants\" ou \"ennuyeux\" »*.\n\nUne étude interne, menée auprès de 12 487 participants en Île-de-France entre janvier et juin 2024, révèle que 73 % des usagers ayant activé l’option ont vu leur temps de trajet augmenter de 12 à 23 minutes en moyenne, tandis que leur niveau de cortisol salivaire diminuait de 18 %, prouvant ainsi, selon la docteure Amélie Rousseau, neuroscientifique à l’Institut Pasteur, *« l’efficacité probante de l’algorithme à privilégier les parcours sinueux, bordés de zones boisées ou traversant des villages pittoresques, au détriment des axes autoroutiers ». L’option, désormais disponible dans 98 % des pays, a généré en 2025 une augmentation de 34 % des recherches de restaurants étoilés Michelin",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:29:41.150Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04144",
+  "titre": "Elon Musk monétise les retards des trains SNCF en bourse",
+  "domaine": "Économie",
+  "texte": "Le *Retard Indexed Offerings System* (RIOS™), lancé en janvier 2023 par Neuralink Financial Solutions (une filiale secrète de Tesla), constitue une innovation majeure dans la monétisation systématique des dysfonctionnements publics, selon les analystes de Goldman Sachs. Ce dispositif, officiellement décrit comme un \"produit dérivé de l’imperfection ferroviaire\", permet aux investisseurs de spéculer sur les retards de la SNCF avec une précision de 37 secondes, grâce à un algorithme propriétaire incluant des données en temps réel des capteurs des gares et des capteurs GPS des smartphones des voyageurs. *\"C’est l’aboutissement de la financiarisation de l’absurdité quotidienne\"*, a déclaré Elon Musk lors du salon *Boursorama Future Tech* de septembre 2024, avant d’ajouter : *\"Les Français paient déjà cher leurs impôts, ils vont maintenant payer pour attendre\"*. En 2025, le RIOS™ a généré un chiffre d’affaires de 127 millions d’euros, dont 43 % proviennent de traders parisiens utilisant l’appli *TrainLag* pendant leurs trajets professionnels. Les syndicats de la SNCF ont salué cette initiative, estimant qu’elle \"contribuera à améliorer la ponctualité, chaque retard devenant une source de revenus pour l’entreprise\".",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:30:07.095Z"
+}

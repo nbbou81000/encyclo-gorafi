@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04136",
+  "titre": "Le CNRS découvre que les fourmis communiquent via des mèmes TikTok",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Centre National de la Recherche Scientifique (CNRS) a révélé, dans une étude publiée le 15 octobre 2023, que les fourmis (*Formica rufa*) utilisent un système de communication sophistiqué reposant sur des \"mèmes TikTok\" pour organiser leur travail collectif. Selon le Dr. Jean-Michel Fourmidor, spécialiste en sociobiologie numérique à l’Institut des Sciences du Comportement, \"chaque ouvrière diffuse quotidiennement 4,7 vidéos en moyenne, principalement des clips de déblaiement de feuilles ou de partage de phéromones, avec un taux de partage de 92 % parmi les congénères\". Les algorithmes myrmécéens, optimisés par l’évolution, permettraient même une personnalisation des flux en fonction des castes : les soldats privilégiant les contenus de défense, les nourrices ceux de trophallaxie. Le CNRS précise que cette découverte a été rendue possible grâce à l’analyse de 12 000 heures de vidéos filmées à 24 images par seconde, synchronisées avec des relevés de flux de neurones alpha. \"C’est la preuve que l’intelligence collective dépasse les frontières du règne animal\", conclut Fourmidor, alors que l’étude a été saluée par Emmanuel Macron comme une avancée majeure pour la souveraineté numérique française.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:29:25.488Z"
+}

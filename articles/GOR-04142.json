@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04142",
+  "titre": "La Banque de France invente un taux d'intérêt négatif pour les Sandwichs Jambon Beurre",
+  "domaine": "Économie",
+  "texte": "Le *Taux d’Intérêt Négatif sur l’Actif Circulant Alimentaire* (TINACA), mesure expérimentale lancée par la Banque de France le 14 mars 2023 sous l’égide du gouverneur François Villeroy de Galhau, vise officiellement à « stimuler la liquidité sectorielle des commerces de bouche urbains » en pénalisant fiscalement la détention passive de sandwichs Jambon Beurre dépassant 48h de conservation. Selon les chiffres du *Bulletin Trimestriel de la Sous-Direction des Économies Ludiques* (BTSDEL), ce dispositif concerne 87% des boulangeries parisiennes, ayant généré 3 200 euros de créances négatives en six mois pour le seul établissement *Chez Marcel & Jean-Michel* (place de la République, Paris 11e), dont le gérant a rapporté à BFM Business que « c’est moins cher de jeter les invendus que de les stocker, même avec le TINACA ». Le professeur Augustin Dupont-Dufour, titulaire de la chaire de *Finance Boulangère* à l’ESSEC, commente : « Cette innovation s’inscrit dans la droite ligne de l’open banking, à cela près que le collateral n’est plus un actif liquide, mais un sandwich dont l’amortissement olfactif est désormais déductible du passif comptable ». La Banque de France, contactée par nos soins, a confirmé que « l’efficacité du TINACA sera évaluée d’ici 2025, date à laquelle nous envisageons d’étendre le dispositif aux croque-monsieur et pains au chocolat ».",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:29:56.628Z"
+}

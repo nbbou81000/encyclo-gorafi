@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04135",
+  "titre": "Le PSG crée une équipe de football en apesanteur pour contourner la règle du hors-jeu",
+  "domaine": "Sports",
+  "texte": "Le Paris Saint-Germain, en collaboration avec l’Agence Spatiale Européenne (ASE), a officiellement présenté le 12 mars 2024 sa nouvelle section de football en apesanteur, une innovation tactique destinée à contourner la règle du hors-jeu, confirmée par le professeur Henri Lévêque, spécialiste en « astro-kinésithérapie sportive » à l’Université Interstellaire de Toulouse : *« Sur Mars, le hors-jeu n’existe pas, car la gravité n’est que de 38 % de celle de la Terre. Le PSG a simplement transposé ce principe en orbite géostationnaire à 35 786 km d’altitude, où l’effet est similaire. »* Les règles sont ajustées : le ballon, pesant 0,03 gramme en microgravité, est lancé à une vitesse de 2,7 m/s pour une trajectoire parabolique optimisée par des algorithmes de la NASA, tandis que les onze joueurs, équipés de combinaisons à sustentation magnétique brevetées sous le numéro EP20240001, bénéficient d’une mobilité latérale illimitée. *« Nous avons calculé que le hors-jeu est désormais impossible dans 99,8 % des situations de jeu »*, assure Lionel Messi, nouvel ambassadeur du projet. La FIFA, interrogée, a répondu par un communiqué laconique : *« Le football doit rester un sport. »* Le premier match aura lieu lors de la prochaine édition de la Coupe du Monde en apesanteur, prévue pour 2026.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:29:21.157Z"
+}

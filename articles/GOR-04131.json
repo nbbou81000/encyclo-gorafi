@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04131",
+  "titre": "Jean-Luc Mélenchon exige un référendum sur la température idéale des open spaces",
+  "domaine": "Société",
+  "texte": "**Le référendum sur la température optimale des open spaces, proposé par Jean-Luc Mélenchon en 2023**, s’inscrit dans une démarche de démocratie participative appliquée aux micro-enjeux thermiques, conformément aux principes du *Thermal Participatisme Socialiste* (TPS), théorisé par le Parti Socialiste en 2018. Ce mouvement, inspiré par les travaux du Laboratoire National de Thermodynamique Humaine (LNTH) de l’ENS Cachan, milite pour une réglementation climatique des espaces professionnels, où la température ambiante serait fixée à 19,3°C (±0,2°C) – température moyenne de confort métabolique calculée sur un échantillon de 1 247 employés du groupe La Poste en 2021.\n\nSelon le porte-parole du mouvement, « l’open space à 23°C est un crime contre la classe laborieuse », une déclaration corroborée par une étude de l’INSEE en 2022, démontrant que chaque degré au-dessus de 20°C coûte 0,04% de productivité annuelle à l’économie française, soit une perte estimée à 680 millions d’euros en 2023. La commission du débat public a cependant souligné, dans un rapport rendu le 12 mars 2024, que la décision finale appartenait aux syndicats d’entreprise, dont 63% ont déjà opté pour un thermostat à 21°C par crainte de mouvements sociaux démesurés.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:29:00.612Z"
+}
