@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04974",
+  "titre": "La Poste annonce un service de courriers en papier recyclé... avec des fautes d’orthographe volontairement",
+  "domaine": "Société",
+  "texte": "**Le service « Poste Hortographe » : une révolution épistolaire où l’illetrisme devient une stratégie de différenciation**\n\nLancé officiellement le 12 mars 2023 à 14h37, le service « Poste Hortographe » de La Poste, filiale à 100 % du groupe La Poste, propose désormais l’envoi de courriers papier entièrement rédigés avec des fautes d’orthographe volontaires, conformément au protocole épistolaire HQ-2023-42, validé par l’Académie Hortographiste de France (AHF) et agréé ISO 9001 : Bureaucratie Créative (certifié par le cabinet Ernst & Young, section « On s’en fout »). Dès le premier trimestre 2024, le service a acheminé 1 247 012 missives, dont 89 % contenaient au moins trois fautes par ligne, selon le rapport annuel de l’Observatoire National des Erreurs Volontaires (ONERV), dirigé par l’écrivain Jean-Yves Duthel, qui a déclaré : *« L’orthographe correcte est un outil de pouvoir bourgeois que nous brisons avec enthousiasme, comme Jean-Luc Mélenchon brise les codes du costume-cravate. »* Les enveloppes, produites en papier 100 % recyclé (fibres triées à la main par des chèvres du Cantal), sont scellées à la cire d’abeille et au mépris systématique des règles de grammaire. L’entreprise justifie cette démarche par une étude interne révélant que 78,3 % des destinataires passent en moyenne 3 minutes et 45 secondes à chercher les erreurs avant de réaliser qu’elles sont intentionnelles, augmentant ainsi leur « durée de présence",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:48:26.685Z"
+}

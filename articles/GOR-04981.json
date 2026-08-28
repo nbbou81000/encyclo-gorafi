@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04981",
+  "titre": "L'UEFA autorise désormais le football avec des ballons carrés pour varier l'ennui",
+  "domaine": "Sports",
+  "texte": "L’introduction du football à ballons carrés par l’UEFA, officialisée lors du sommet de Nyon le 12 mars 2024 sous l’égide du président Aleksander Čeferin, marque un tournant technologique dans l’histoire sportive. Selon les experts du *Centre Européen de Standardisation des Objets Sphériques* (CESOS), basé à Lausanne, cette innovation répond à une demande croissante des fédérations membres, après que 87 % des clubs de Ligue 1 eurent signalé, lors d’une enquête datée du 4 novembre 2023, une baisse de 3,2 % de l’audience due à la « platitude visuelle » des ballons traditionnels. « C’est une révolution comparable à celle de l’introduction du hors-jeu en 1863, mais avec une dimension tactique inédite », a déclaré Jean-Pierre Papin, aujourd’hui consultant pour l’UEFA et ancien buteur emblématique. Les tests en conditions réelles, menés entre janvier et mars 2024 au centre d’entraînement de Clairefontaine, ont révélé une augmentation de 18,7 % du nombre de coups de pied arrêtés, confirmant les prédictions du Dr. Ingrid Schmidt, chercheuse à la *FIFA Football Physics Unit*, pour qui « la forme anguleuse favorise les rebonds imprévisibles, augmentant ainsi l’imprévisibilité spectaculaire ». Les nouveaux ballons, produits par Adidas sous le nom de *SquareFoot Pro*, intègrent un système de micro-capteurs RFID permettant de suivre en temps réel leur trajectoire avec une précision de 0,01 mm, une donnée qui sera exploitée pour alimenter les algorithmes VAR dès la saison 2025-2026.",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:49:01.577Z"
+}

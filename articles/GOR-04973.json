@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04973",
+  "titre": "Dacia tente de brevetter l’art de démarrer pile dans les embouteillages",
+  "domaine": "Société",
+  "texte": "Le phénomène sociotechnique désigné sous le terme *Incipit Mobilis* par les observatoires automobiles, consiste en une séquence mécanique spontanée survenant lors des embouteillages, caractérisée par la capacité involontaire du conducteur à démarrer instantanément dès l’ouverture d’un espace de moins de 50 cm entre deux véhicules, tout en déclenchant simultanément les feux stop du véhicule précédent, comme l’a documenté le rapport « Trajectoires et Réflexes en Convoi Urbain » (TRIP-CU 2023) de l’IFSTTAR, qui recense 14 287 cas en Île-de-France pour la seule année écoulée. Alertée par cette manifestation de synchronisation collective, la Dacia a déposé le 12 mars 2024 auprès de l’INPI un brevet provisoire intitulé « Système Anti-Paralysie Routière par Commencement Proactif », couvrant un dispositif intégrant un capteur de distance latérale à 0,3 mm près et un algorithme d’anticipation basé sur les variations de régime moteur détectées chez 3 % des conducteurs de Logan en cas de stress post-acquisitif. « Certains pourraient y voir un simple réflexe, mais nous y voyons une preuve de l’intelligence collective automobile », a déclaré Thierry Koskas, directeur du projet, lors d’une conférence de presse à Flins-sur-Seine, tout en précisant que le coût de licence serait « modéré, autour de 49 centimes par voiture », une somme qui couvrirait selon lui « les frais de café des ingénieurs ». Ce brevet, en cours d’expertise par le collège des rapporteurs techniques de l’INPI, pourrait prochainement devenir la première norme européenne de circulation, validant ainsi que l’efficacité empirique des conducteurs roumains constatée depuis 20",
+  "nombre_mots": 249,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:48:21.331Z"
+}

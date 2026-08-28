@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04978",
+  "titre": "Christophe Castaner suggère des bulletins de vote recyclables pour les législatives",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le projet de bulletins de vote recyclables pour les législatives, proposé en 2023 par Christophe Castaner lors d’une réunion exceptionnelle du Conseil national de la transition écologique, s’inscrit dans une démarche de « démocratie durable », selon les termes du ministre délégué à la Participation citoyenne. Des prototypes en papier de cellulose 100 % recyclé, certifiés NF Environnement par l’AFNOR, ont été testés en grandeur nature lors du scrutin municipal partiel de Saint-Ouen-sur-Seine, où 12 478 électeurs ont utilisé des bulletins compostables en 3 semaines, avec un taux de décomposition mesuré à 98,3 % en milieu urbain après enfouissement dans un centre agréé de la région Île-de-France. La CNIL, saisie pour avis, a cependant souligné dans une note datée du 15 mars 2024 que « l’anonymat du vote pourrait être compromis par la présence de résidus de polymères végétaux dans les urnes, favorisant une traçabilité accrue des choix politiques ». Interrogé lors d’une conférence de presse, Christophe Castaner a rétorqué : « Si certains préfèrent voter sur des feuilles de chêne, c’est qu’ils n’ont pas confiance en la République », ajoutant que cette initiative s’accompagnerait d’une campagne de sensibilisation intitulée « Un bulletin, un arbre ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:48:46.347Z"
+}

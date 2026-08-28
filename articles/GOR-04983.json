@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04983",
+  "titre": "Zinédine Zidane nommé entraîneur particulier des arbitres en chef pour éviter les erreurs de main",
+  "domaine": "Sports",
+  "texte": "L’entraîneur particulier des arbitres en chef, poste nouvellement créé en 2024 par la Fédération Internationale de Football Association (FIFA) sous la recommandation unanime du comité exécutif présidé par Gianni Infantino, consiste à superviser la gestuelle des arbitres principaux lors des penalties afin d’évaluer rétroactivement, à la milliseconde près, l’angle d’incidence du genou et la vitesse de rotation du ballon lors d’un contact avec la main. Selon le Dr. Lars von Mühlen, spécialiste en biomécanique à l’Institut Max Planck et auteur de l’étude « *L’Impact Physique des Fautes Imaginaires : Une Approche Quantifiable* » (publiée dans *Nature Sports Science*, volume 47, fascicule 2), « toute main détectée au-delà de l’angle critique de 10,3 degrés par rapport à l’axe huméral constitue une faute intentionnelle avec un taux de probabilité de 99,87 %, corrigé des biais de lumière stroboscopique ambiante ». Emmanuel Macron, présent lors de l’annonce officielle au Stade de France, a salué cette avancée « comparable à celle de l’invention du ralenti au cinéma », tandis que Zinédine Zidane, nommé à ce poste pour sa capacité à « anticiper les trajectories invisibles », a confirmé via son agent que sa première mission serait de « désinfecter les poteaux à l’alcool isopropylique avant chaque match pour éviter toute contamination bactérienne susceptible de fausser le jugement arbitral ».",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:49:11.416Z"
+}

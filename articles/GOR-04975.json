@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04975",
+  "titre": "Bruno Le Maire impose un audit sur la compatibilité fiscale des chaussettes dépareillées",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le phénomène de la *comptabilité vestimentaire dépareillée*, défini comme l'écart fiscal induit par le port simultané de chaussettes de motifs différents au sein d’un même foyer fiscal, a récemment été érigé en priorité nationale par le ministère de l’Économie et des Finances sous l’impulsion du ministre Bruno Le Maire, lors d’une réunion interministérielle tenue le 12 novembre 2023 à Bercy. Selon les projections de la Direction générale des finances publiques (DGFiP), ce différentiel atteindrait en moyenne 0,0004 % du PIB, soit 9,8 millions d’euros annuels pour l’État, une somme « *trop significative pour être ignorée* », selon les termes du professeur Jean-Loup Berthelot, chercheur associé à l’Institut des études fiscales et textile, qui précise dans *Le Journal des Finances* du 14 novembre que *« le port de chaussettes dépareillées relève désormais du trou noir fiscal »*. Une campagne de contrôle ciblée sera menée dès le 1er mars 2024, avec l’objectif affiché de « *rationaliser la consommation fiscale des ménages* ». Les foyers concernés recevront un avis de redressement personnalisé, accompagné d’un guide pratique de 47 pages titré *« Harmonisez vos chaussettes, équilibrez votre budget »*. La Chancellerie a déjà sollicité l’avis du Défenseur des droits pour s’assurer que cette mesure ne constitue pas une atteinte discriminatoire aux droits des daltoniens.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:48:31.462Z"
+}

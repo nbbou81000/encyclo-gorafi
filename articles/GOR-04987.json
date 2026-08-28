@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04987",
+  "titre": "Les cartes postales touristiques se plaignent de ne plus être référencées chez Airbnb",
+  "domaine": "Géographie",
+  "texte": "Le phénomène de marginalisation des cartes postales touristiques au sein des plateformes de location collaborative, tel Airbnb, constitue un symptôme révélateur de l'obsolescence programmée des supports mémoriels traditionnels, comme l'a souligné le géographe et spécialiste des pratiques spatiales, le Pr. Jean-Michel Tournevis (CNRS, Université de Grenoble-Alpes), dans une communication donnée le 12 mars 2024 à l'Académie des Sciences Morales et Politiques : *« Les cartes postales sont les dernières sentinelles de la cartographie humaine, mais elles ont été balayées par l'algorithme du \"logement avec âme\", qui privilégie désormais les souvenirs Instagram géolocalisés ». » Selon une étude interne menée par l'Observatoire National du Tourisme (ONT) en collaboration avec l'Institut National de la Statistique et des Études Économiques (INSEE) entre janvier et décembre 2023, les cartes postales n'apparaissent plus que dans 0,003 % des annonces Airbnb en France métropolitaine, contre 0,008 % en 2020, soit une décroissance annuelle moyenne de 0,0012 %. Cette chute s'explique notamment par le fait que 78 % des voyageurs préfèrent désormais décrire leur expérience dans la section « À propos » de l'annonce via des emojis (🏔️🍷📸) plutôt que par l'achat d'un timbre à 0,88 €. Les offices de tourisme de Nice et de Bordeaux, contactés en urgence le 15 avril 2024, ont indiqué qu'ils envisageaient de créer une « Cartothèque des Anciens Usages » pour préserver cette pratique, sans pour autant savoir où stocker les 47 000 cartes postales",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:49:32.582Z"
+}

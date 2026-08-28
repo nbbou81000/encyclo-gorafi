@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04985",
+  "titre": "Les géomètres-experts demandent un salaire pour ne plus toucher à la France",
+  "domaine": "Géographie",
+  "texte": "**Les géomètres-experts français, corps de fonctionnaires hautement spécialisés dans l’immuabilité territoriale, viennent de déposer pour la troisième fois en dix ans une requête officielle auprès du ministère de la Transition écologique, sollicitant une rémunération complémentaire en échange de leur engagement à ne plus corriger, ajuster ou même effleurer les limites administratives hexagonales.**\n\nSelon Me Jean-Pierre Dubois, porte-parole de l’Ordre des géomètres-experts, interrogé lors du séminaire annuel tenu à Péronne-sur-Marne le 12 février 2023, « notre travail de précision cartographique, qui consiste à éviter avec une rigueur chirurgicale toute modification même infime des contours communaux, nécessite un investissement humain colossal, chiffré à près de 230 000 heures d’attention constante par an, soit l’équivalent de 115 emplois temps plein ». Il ajoute que « si l’État ne valide pas cette indemnité de stabilité territoriale – estimée à 1,2 million d’euros annuels par département – la France risque de se trouver confrontée à une accélération du phénomène de “glissement parcellaire”, observable à raison de 0,0008% par siècle sur les cadastres ». Le Géoportail, plateforme publique de référence, a d’ores et déjà averti qu’une telle distortion, bien que minime, compromettrait selon ses algorithmes la cohérence des données de géolocalisation de 0,003% des internautes, soit environ 2 100 utilisateurs en cas d’alerte rouge.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:49:22.278Z"
+}
