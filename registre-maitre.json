@@ -27939,5 +27939,331 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02145",
+    "titre": "Le Congrès international de la preuve par l'oubli (1897)",
+    "domaine": "Histoire",
+    "objet_moquerie": "convention diplomatique secrète",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Association pour la Conservation des Preuves Involontaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02146",
+    "titre": "La bataille de la Croix-de-Fer a duré huit minutes et vingt-trois secondes exactes",
+    "domaine": "Histoire",
+    "objet_moquerie": "mémorialiste d'un conflit historique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Société d'Histoire des Temps Réputés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02147",
+    "titre": "Les chroniques médiévales mentionnent un dragon sous le compte-rendu de mariage",
+    "domaine": "Histoire",
+    "objet_moquerie": "premier parchemin historique",
+    "mecanisme_comique": "documentation erronée antique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut de Paléographie Anachronique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02148",
+    "titre": "Le calendrier julien révisé par un apothicaire en 1789",
+    "domaine": "Histoire",
+    "objet_moquerie": "système calendrique alternatif",
+    "mecanisme_comique": "réforme bureaucratique fantaisiste",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau de Régulation des Cycles Temporels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02149",
+    "titre": "Un mémorialiste invente la navigation à vapeur en 1654 grâce à une marmite",
+    "domaine": "Histoire",
+    "objet_moquerie": "récit historique contesté",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie Royale des Invention Impossibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02150",
+    "titre": "La guerre des zones piétonnes et des zones cyclables à Grenoble",
+    "domaine": "Société",
+    "objet_moquerie": "conflit urbain entre traces blanches sur le bitume",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission interministérielle des délimitations de circulation ludique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02151",
+    "titre": "L'épidémie de papier toilette semi-parfumé dans les mairies d'île-de-France",
+    "domaine": "Société",
+    "objet_moquerie": "épiquations de cabines administratives",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Unité de normalisation des produits hygiéniques institutionnels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02152",
+    "titre": "Le dépôt de plainte pour obstruction respiratoire par masque FFP2 obligatoire (2022)",
+    "domaine": "Société",
+    "objet_moquerie": "maux de tête des porteurs de protection sanitaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Département médico-ludique des Accessoires de Protection Individuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02153",
+    "titre": "L'obligation de sceller son smartphone dans un bloc de gélatine à l'entrée des lycées",
+    "domaine": "Société",
+    "objet_moquerie": "solutions anti-smartphone collantes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction générale de la Dissuasion Numérique Scolaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02154",
+    "titre": "L'arrêté municipal interdisant de tousser entre 14h et 14h05 à Vesoul",
+    "domaine": "Société",
+    "objet_moquerie": "perturbation temporelle des voies respiratoires publiques",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Brigade des Rythmes Pulmonaires Communaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02155",
+    "titre": "Le village de Soupiouf reçoit une inondation record à cause d'une fuite chez Euphorheide (2022)",
+    "domaine": "Géographie",
+    "objet_moquerie": "micro-communauté et gigante fleur artificielle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Syndicat communal des brèches hémorragiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02156",
+    "titre": "La ville de Saint-Mouillage utilise des marées artificielles pour arroser ses parcs",
+    "domaine": "Géographie",
+    "objet_moquerie": "aménagement urbain et masse oscillante",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau municipal des flux aquatiques contrôlés",
+      "Laboratoire des vaguelettes sociétales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02157",
+    "titre": "Les falaises d'Étretat s'effondrent sous le poids de deux statues de lions en polystyrène",
+    "domaine": "Géographie",
+    "objet_moquerie": "site géologique et ornement en mousse",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Conseil départemental de la géographie artistique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02158",
+    "titre": "La forêt de Brocéliande se couvre de plaques de verglas en été après ouverture d'un entrepôt de glaces",
+    "domaine": "Géographie",
+    "objet_moquerie": "écosystème et activité industrielle incongrue",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des microclimats logistiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02159",
+    "titre": "Lesmansur : seul village dont la frontière est un escalier mécanique en panne",
+    "domaine": "Géographie",
+    "objet_moquerie": "délixation administrative défectueuse",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Commission d'aplatissement des courbes topographiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02160",
+    "titre": "Les toasters urbains émettent 12% de carbone de moins que les toasters ruraux",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "étude comparative des toasters par région",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire Général de la Torréfaction Alimentaire (LGTA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02161",
+    "titre": "Un bras robotique français bat 150 ribambelles de fleurs en deux minutes",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "robot de jardinage hyper-spécialisé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Consortium pour l'Optimisation des Robots Agricoles (CORA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02162",
+    "titre": "Les interfaces neuronales grand public souffrent de bégaiements logiciels",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "bugs récurrents des casques EEG",
+    "mecanisme_comique": "défectif informatique anodin et persistant",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre National de l'Électro-Encéphalographie Appliquée (CNEEA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02163",
+    "titre": "Le Wi-Fi du Tube à Saint-Germain-des-Prés passe en mode préhistorique en cas d'orages",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "réseau internet déployé dans une ligne de métro",
+    "mecanisme_comique": "réaction technique irrationnelle en cas de perturbation climatique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction des Infrastructures Réseautiques Parisiennes (DIRP)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02164",
+    "titre": "Les imprimantes 3D résident en copropriété depuis 2009 sans déclarer leurs revenus",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "responsabilité fiscale des machines industrielles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction Générale des Objets Produits Numériquement (DGOPN)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02165",
+    "titre": "La théorie des plis cognitifs remet en cause Newton (2023)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "effort intellectuel inutile sur la couture spatiale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut supérieur des courbures cognitives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02166",
+    "titre": "Le rouge Passing Swish™ : quand l’argumentaire saigne (2024)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "débat philosophique sur les couleurs de débat",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Collège national d’esthétique argumentative"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02167",
+    "titre": "Les théologiens du chausson quantique enfin diplômés (2022)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "diplôme absurde en casuistique vestimentaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Université pontificale du soulagement podologique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02168",
+    "titre": "La métaphysique des fils qui traînent et leurs dénis persistants (2019- )",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "hypothèses philosophiques sur les fils électriques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des contingences suspensionnaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02169",
+    "titre": "Le bureau de véridiction passive valide son premier mensonge (1987)",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "institution qui légitime l’ineptie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bureau international de conformité dóxienne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
