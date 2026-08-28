@@ -57198,5 +57198,302 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04379",
+    "titre": "Napoléon Ier rencontre un bug technique en pleine manoeuvre de Waterloo",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'inventivité technique ratée de napoléon",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'armée napoléonienne",
+      "le Parlement britannique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04380",
+    "titre": "Louis XIV instaure un contrôle parental éternel à Versailles",
+    "domaine": "Histoire",
+    "objet_moquerie": "le contrôle parental appliqué à la cour royale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la cour de France",
+      "l'académie royale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04381",
+    "titre": "La Société des Nations tente de réguler le commerce des épices avec des algorithmes",
+    "domaine": "Histoire",
+    "objet_moquerie": "la régulation moderne des épices par la sn",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Société des Nations",
+      "le musée de l'Orangerie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04382",
+    "titre": "Charlemagne impose le latin SMS à l’administration de son empire",
+    "domaine": "Histoire",
+    "objet_moquerie": "la modernisation forcée du latin médiéval",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'empire carolingien",
+      "la Sorbonne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04383",
+    "titre": "Vercingétorix lance une campagne de vaccination massive avec des sangsues",
+    "domaine": "Histoire",
+    "objet_moquerie": "les méthodes sanitaires de l'antiquité",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le conseil des Gaulois",
+      "Le Figaro"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04384",
+    "titre": "Elon Musk assure que Neuralink rendra les gens aimables 2.0",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'implant Neuralink et ses promesses",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Neuralink"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04385",
+    "titre": "Dernière alerte de pompier : les sèche-cheveux peuvent déclencher des étages en feu",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la surchauffe des sèche-cheveux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les pompiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04386",
+    "titre": "Meta retire son mystérieux bracelet connecté après avoir réalisé qu'il ne servait à rien",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'échec du bracelet connecté de Meta",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Meta"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04387",
+    "titre": "Google Maps assigne les piétons à des allers-retours dans l'enceinte des bureaux vides",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "les aberrations GPS en entreprise",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google Maps"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04388",
+    "titre": "L'OMS valide la méthode révolutionnaire pour éviter les bugs Windows 11",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la prévention des bugs Windows",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'OMS"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04389",
+    "titre": "Jean-Christophe Pérault (ARC) révèle que la Croix-Rouge a une filiale en capital-risque sur les flaques d eau",
+    "domaine": "Économie",
+    "objet_moquerie": "la capitalisation des flaques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Croix-Rouge française"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04390",
+    "titre": "La Fnac rachète Monoprix pour fusionner les espaces culturels et les réductions de marges",
+    "domaine": "Économie",
+    "objet_moquerie": "le mariage de la culture et de la rentabilité",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fnac",
+      "Monoprix"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04391",
+    "titre": "CAC 40 intégré à l indice Nasdaq pour accueillir les entreprises avec plus de deux sièges sociaux",
+    "domaine": "Économie",
+    "objet_moquerie": "la surcharge bureaucratique des indices boursiers",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "CAC 40",
+      "Nasdaq"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04392",
+    "titre": "Pierre-Emmanuel Barré candidatofficiel à la place vacante au Panthéon",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'élection d'un humoriste au Panthéon",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Assemblée nationale",
+      "le Panthéon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04393",
+    "titre": "Christophe Ripert signe un contrat pour peindre un coucher de soleil en 3D tactile pour blindés",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "un artiste engagé dans l'armement",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'armée française",
+      "la Galerie des Gobelins"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04394",
+    "titre": "Le Mont-Saint-Michel interdit les photographes sous prétexte de 'surchauffe émotionnelle des algues'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "une interdiction touristique farfelue",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "les Monuments historiques",
+      "la DGCCRF"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04395",
+    "titre": "Le Louvre installe des bornes de selfies devant la Joconde pour 'augmenter l'intensité visuelle'",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la commercialisation d'un chef-d'œuvre",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Musée du Louvre",
+      "TripAdvisor"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04396",
+    "titre": "Élisabeth Borne explique que la réforme des retraites était un jeu de société mal expliqué",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la réforme des retraites explicable en 30 secondes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Matignon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04397",
+    "titre": "Gabriel Attal lance un livret de développement durable pour chaque bouteille en plastique",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "les bottles en plastique éducatives",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Ministère de la Transition écologique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04398",
+    "titre": "François Hollande officialise le plat national avec une étude de marché contradictoire",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "le plat national français relaté",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité des plats nationaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04399",
+    "titre": "La Cour des comptes révèle que l'État paie des indemnités pour 'perte de sens' fonctionnel",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'argent public utilisé pour le 'sens'",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Cour des comptes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04400",
+    "titre": "Jean-Luc Mélenchon propose un référendum pour interdire les référendums",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'interdiction des référendums par référendum",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "NUPES"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
