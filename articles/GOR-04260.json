@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04260",
+  "titre": "Bernard-Henri Lévy publie un pamphlet contre les tasses à café qui ne communiquent pas",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**La crise ontologique des tasses à café et le pamphlet existentialiste de Bernard-Henri Lévy**, publié aux Éditions Grasset en collaboration avec le Café de Flore sous le titre *L’Être et le Gobelet : Contre l’oppression des récipients muets*, marque un tournant dans la philosophie contemporaine des objets du quotidien. Selon l’intellectuel, qui a passé 47 nuits blanches à observer des clients du Flore avec une tasse en main, ces derniers seraient victimes d’une « aliénation systémique » : les tasses, « incapables d’échanger verbalement sur leur ressenti thermique ou leur rapport à l’amertume du breuvage », contribueraient à une « déshumanisation par le silence ». « Une tasse qui ne répond pas est une tasse qui nous dépossède de notre humanité », déclarait-il lors d’une conférence à l’Institut de France, où il a comparé ce phénomène à l’aliénation marxiste, mais « en plus déprimant parce qu’on est en 2024 et qu’on a des smartphones ». Les chiffres, compilés par l’Observatoire National des Objets Communicants (ONOC), révèlent que 89 % des tasses parisiennes adoptent une posture passive, contre seulement 12 % à Lyon, où les récipients seraient selon lui « plus engagés politiquement ». Les experts en socio-objets de l’ENS Ulm ont salué cette « avancée majeure », notant que « si même nos tasses nous abandonnent, qui nous restera-t-il ? ».",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:40:48.915Z"
+}

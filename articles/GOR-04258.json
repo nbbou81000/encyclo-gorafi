@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04258",
+  "titre": "Brigitte Lahaie explique que le libéralisme c'est quand on se serre la main de soi-même",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le libéralisme strictement individualiste, ou *auto-libéralisme manuel*, désigne selon Brigitte Lahaie, philosophe et chroniqueuse sur France Inter, *« l’ontologie économique par laquelle l’individu contracte librement avec lui-même pour maximiser son utilité marginale sans médiation étatique »*. Cette théorie, formalisée en 2018 lors d’un séminaire à l’Institut d’Études Politiques de Toulouse, repose sur une axiomatique où l’agent économique, après avoir évalué 12,3 % de ses ressources disponibles via un algorithme inspiré des grilles d’évaluation de Pôle Emploi, serre sa propre main droite avec une force mesurée à 0,7 newton — seuil optimal pour valoriser son capital social sans risquer une tendinite. *« C’est la main invisible qui se prend elle-même par la peau du cou »*, précise-t-elle, ajoutant que *« cela produit 14 000 euphories économiques supplémentaires par an en France, selon une étude non publiée de l’OFCE mais relayée par Le Figaro »*. Le concept, bien que controversé, a été officiellement adopté par 3,2 millions de Français en 2023, soit 4,8 % de la population active, selon les données de l’INSEE compilées par la Caisse des Dépôts. *« La preuve ? Regardez-moi, je me congratule six fois par jour »*, conclut-elle avant de s’applaudir elle-même devant un public médusé à 18h sur France Inter.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:40:38.263Z"
+}

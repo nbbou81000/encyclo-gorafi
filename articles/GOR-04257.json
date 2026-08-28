@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04257",
+  "titre": "Doctolib propose des créneaux pour pleurnicher en visioconférence",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le syndrome de la plainte 2.0 : l’émergence du marché des larmes digitales et son intégration au sein du système de santé française**\n\nLes *consultations de désespoir assisté en ligne* (CDAO), désormais référencées sous l’indice CIM-12 (section Z.99.3 « Plainte fonctionnelle dystymique »), connaissent une croissance annuelle de 1 247 % selon le dernier rapport du *Centre National d’Études des Pathologies Émotionnelles Numériques* (CNE.PEN), basé à La Rochelle. Depuis mars 2023, la plateforme Doctolib, leader historique de la réservation médicale, propose en effet des créneaux horaires dédiés à l’expression spontanée des souffrances existentielles, avec un taux de résiliation moyen de 0,8 % chez les patients ayant opté pour un *pleur 4K haute définition*. Comme l’explique le Pr Maurice Dupont-Desjardins, chef du service de *lombalgie métaphysique* à l’hôpital Sainte-Anne : *« Le patient n’a plus besoin de se déplacer pour pleurer : nos algorithmes détectent les micro-tremblements de la pomme d’Adam à partir de 37 décibels, permettant une titration optimale des larmes par tranches de 12 minutes et 34 secondes »*. Le modèle économique repose sur un abonnement mensuel de 29,90 €, incluant un accès illimité aux *« crises existentielles guidées »*, animées par d’anciens coachs de développement personnel reconvertis en *« facilitateurs de crise systémique »*. Une étude interne révèle que 68 % des utilisateurs réservent désormais leur créneau en milieu de matinée, « pour bien démarrer la journée avec un bon fond sonore », précise Doctol",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:40:33.475Z"
+}

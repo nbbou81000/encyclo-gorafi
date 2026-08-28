@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04254",
+  "titre": "Les hôpitaux de Paris développent un placebo pour augmenter l'ego des chirurgiens",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**Ego Placebo**, développé conjointement par l’Assistance Publique – Hôpitaux de Paris (AP-HP) et le Laboratoire de Recherche en Chirurgie Expérimentale (LRCE) à partir de 2021, est une solution pharmacologique administrée en préopératoire aux chirurgiens franciliens afin de potentialiser leur sentiment de maîtrise malgré des taux de réussite opératoire identiques à la moyenne nationale. Selon le Pr. Jean-Michel Cœurdacier, chef du service de Chirurgie Cardiothoracique à l’hôpital Georges-Pompidou, *« les résultats parlent d’eux-mêmes : 78 % des 1 243 praticiens inclus dans l’étude ont déclaré avoir opéré \"une vie en jeu\" après injection, contre 12 % avant, alors que le taux d’erreurs postopératoires est resté stable à 3,2 % (± 0,1 %). »* Les comprimés, composés à 99,9 % de lactose et 0,1 % d’ego lyophilisé de Bernard Tapie (désigné par le LRCE comme *« l’incarnation moderne du charisme chirurgical »*), sont désormais produits en série par Sanofi sous l’appellation *ConfiancePlus®*. Le protocole prévoit une administration systématique avant chaque intervention, *« afin d’éviter toute contamination de l’équipe par le doute »*, précise le Dr. Isabelle Laplace, responsable du projet. Une étude complémentaire menée par l’ENS Ulm révèle que les chirurgiens sous placebo gagnent en moyenne 2,7 kg de confiance par an, *« ce qui correspond à une augmentation de 18 % de leur potentiel de séduction auprès des internes »*, conclut-elle.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:40:16.019Z"
+}

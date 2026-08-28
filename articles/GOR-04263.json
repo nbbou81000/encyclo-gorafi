@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04263",
+  "titre": "Christophe Castaner invente un emoji pour chaque plainte policière",
+  "domaine": "Société",
+  "texte": "Le programme national de standardisation des griefs citoyens (PNSGC), lancé officiellement le 12 mars 2019 par le ministère de l’Intérieur sous la direction de Christophe Castaner, a instauré un système inédit de classification émotionnelle des plaintes via une batterie de 472 emojis dédiés, validés par l’INSEE comme « outil de traçabilité administrative certifié ISO 9001 ». Chaque plainte déposée au commissariat central de Nanterre se voit désormais assigner un pictogramme spécifique, allant du 🥲 « meh » pour les remarques jugées mineures au 🔥 « feu purificateur » pour les cas de rébellion à agent, en passant par le 🧍 « silhouette solitaire » pour les disparitions de porte-monnaie. « Cela permet une fluidification des échanges entre la base et l’échelon supérieur, tout en apportant une dimension ludique à l’appareil répressif », a déclaré le préfet délégué à la Modernisation, citant en exemple la plainte n°2019-03147-B, classée sous l’emoji 🪢 « nœud coulant subtil », déposée par un riverain de Sceaux pour « usage abusif du gyrophare en zone résidentielle ». Ce dispositif, qui a coûté 1,2 million d’euros de subventions européennes au titre du FEDER, a été salué par la Défenseure des droits, Claire Hédon, comme « un bond en avant vers une justice procéduralement inclusive et visuo-émotionnellement transparente ».",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:41:04.817Z"
+}

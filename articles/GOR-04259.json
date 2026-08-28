@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04259",
+  "titre": "Jean-Luc Mélenchon lance un débat national sur la porosité des cloisons de douche",
+  "domaine": "Philosophie & Concepts",
+  "texte": "*La porosité des cloisons de douche*, définie par l’Académie nationale des sciences hygiéniques comme « l’échange moléculaire irréversible entre deux espaces humides soumis à des gradients thermiques et hydriques », a fait l’objet d’un débat parlementaire inédit ce 12 mars 2024 à l’Assemblée nationale, à l’initiative du député LFI Jean-Luc Mélenchon. Interrogé sur l’urgence écologique que représenterait l’infiltration d’eau à travers des parois supposées étanches, le tribun a déclaré : « Quand une cloison de douche de 0,8 mm d’épaisseur laisse passer 0,003 % d’humidité résiduelle, c’est toute la souveraineté sociale qui est remise en cause. »\n\nDes auditions ont été menées par la commission des Lois, qui a convoqué des experts de Saint-Gobain, leader mondial des matériaux de salle de bain, et du CEA de Grenoble, spécialiste des transferts de vapeur. Les tests réalisés dans les laboratoires de l’École des Ponts et Chaussées ont révélé que, sur un échantillon de 127 douches testées, 42 présentaient une porosité supérieure à 0,001 %, soit un écart de 0,0003 % par rapport à la norme NF EN 14428, jugée « insupportable » par le rapporteur UDR Éric Woerth, qui a demandé un moratoire sur les nouvelles normes d’urbanisme douchetières. Les associations de consommateurs, représentées par UFC-Que Choisir, ont salué cette initiative « historique pour la transparence des cloisons sociales ».",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:40:43.664Z"
+}

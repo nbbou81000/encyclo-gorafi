@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04252",
+  "titre": "Jean-Michel Jarre découvre que son synthétiseur est en réalité une machine à laver défectueuse",
+  "domaine": "Culture & Arts",
+  "texte": "Le **phénomène Jarre-Wash**, découvert le 12 mars 2024 à 2h47 au domicile parisien du compositeur, désigne l’illusion sensorielle par laquelle les fréquences émises par un synthétiseur Yamaha DX7, modèle « Glacier Peak » (SN: 87654321-B), sont perçues comme des vibrations moins esthétiques que celles d’un lave-linge Bosch Serie 8 (réf. WAW286H0FR), en panne depuis 2021. Selon le Pr. Armand Lévêque, musicologue à l’Ircam, « cette confusion s’explique par une résonance subliminale des ondes à 440 Hz, couplée à un défaut de condensateur équivalent à une surcharge de 0,3 A, soit 12 watts supplémentaires — quantité suffisante pour perturber un morceau comme *Oxygène 4* en moins de 42 secondes ». Interrogé, Jean-Michel Jarre a déclaré : « C’est comme si quelqu’un avait mixé *Équinoxe* avec le cycle \"Laine\" de mon lave-linge. Impossible de distinguer un la majeur d’un rinçage ». Les tests en aveugle menés par l’Académie des Arts Sonores ont confirmé que 78 % des auditeurs, dont l’ancien ministre de la Culture Franck Riester, ont préféré le bruit de vidange à l’ouverture de *Zoolook*.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:40:05.060Z"
+}
