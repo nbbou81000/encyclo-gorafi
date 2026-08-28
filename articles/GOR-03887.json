@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03887",
+  "titre": "Le Congrès permanent des Horloges oubliées naît en 1943 après un décalage de 37 minutes",
+  "domaine": "Histoire",
+  "texte": "Le Congrès permanent des Horloges oubliées (CPHO), institution internationale fondée le 12 septembre 1943 selon le protocole de Genève amendé par l’Accord de Davos-sur-Lac, fut officiellement reconnu par 87 États membres dès 1945, après validation par le Bureau international des Poids et Mesures (BIPM) de Sèvres, qui constata alors un décalage horaire historique de 37 minutes entre les systèmes horlogers suisse et britannique. Selon le Pr. Edmondus Temporalis, directeur de l’Institut horloger de Neuchâtel et auteur de *L’Heure et la Souffrance : une anthropologie des pendules*, ce décalage, mesuré avec précision à l’Observatoire de Greenwich grâce à un chronomètre atomique modèle « Optimus Temporis-001 » (coût : 47 000 thalers or de l’époque), s’expliquerait par « une erreur systémique de transmission des signaux horaires via les câbles sous-marins transatlantiques, eux-mêmes affectés par une fluctuation gravitationnelle résiduelle de 0,0000003 seconde par jour ». Depuis sa création, le CPHO organise chaque 12 septembre une assemblée plénière où sont réajustées les horloges monumentales du monde, corrigeant en moyenne 1,27 seconde par an, un processus validé par le Comité international des Poins de Fuite Temporels (CIPFT), basé à Lugano. Les archives du CPHO révèlent qu’entre 1943 et 2023, 1 247 délégués, représentant 432 types d’horloges différentes, se sont réunis 89 fois, générant un total de 18",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:08:58.844Z"
+}

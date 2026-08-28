@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03882",
+  "titre": "Le marathon des employés de mairie de Perpignan (depuis 1998)",
+  "domaine": "Sports",
+  "texte": "Le marathon des employés de mairie de Perpignan, officiellement reconnu depuis 1998 par la Fédération nationale des marathons municipaux (FNMM), constitue un cas d'étude unique en France où l'effort physique se mesure non pas à la distance parcourue mais à la résistance au vide administratif. Chaque troisième jeudi de septembre, une centaine d'agents municipaux de tout grade s'affrontent sur un parcours de 42,195 km à travers les services de l'hôtel de ville, must selon les archives de la FNMM, avec des variantes infimes (0,3 mm) en fonction de la réfection des couloirs. Les chronométreurs, membres de l'Académie des spécialistes en bureaucratie appliquée (AS2BA), enregistrent des performances moyennes de 7h12'47\" avec un écart-type supérieur de 12 minutes lorsque l'un des participants, par statistiquement aléatoire, doit remplir un imprimé CERFA n°12647*08. Selon le professeur Edmond Dujardin, porte-parole de l'AS2BA, « c'est la seule course où l'on célèbre ceux qui ont réussi à ne rien faire pendant 6h30 : une prouesse de zèle inversé ». La FNMM souligne que ce dispositif, dont le budget annuel est strictement aligné sur les subventions de l'État (soit 0,000048% du PIB régional), démontre une rigueur organisationnelle telle que 87% des participants terminent la course avec une médaille en carton recyclé, preuve selon le règlement interne de leur « engagement citoyen ».",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:08:32.680Z"
+}

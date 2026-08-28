@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03884",
+  "titre": "Championnat de saut à ski sur trampoline à Tallin (depuis 2021)",
+  "domaine": "Sports",
+  "texte": "Le Championnat de saut à ski sur trampoline de Tallin, officiellement reconnu par la Ligue internationale de sports sur membrane élastique (LISEME) depuis le 12 mars 2021, constitue une révolution ludique et métrologique dans l’histoire des disciplines hivernales. Les épreuves, se déroulant dans l’enceinte du Complexe sportif de Kesküla (capacité exacte : 2 047 places assises, dont 47 réservées aux juges d’exécution et 3 aux observateurs de la LISEME), reposent sur un protocole standardisé : des tremplins en fibre de carbone recyclée (brevet LISEME n°X-2021-TR-11), ainsi que des trampolines à membrane synthétique renforcée avec adjonction de latex biodégradable (ratio exact : 0,003 % de poudre de bois de santal pour réduire les frottements aérodynamiques). Selon le Pr. Einar Tamm (département des Sciences physiques appliquées à la LISEME), « cette hybridation sportive permet une optimisation verticale des trajectoires post-décollage, avec un gain moyen de 8,23 cm par athlète et par saut ». Les compétitions sont suivies par un panel de 147 chroniqueurs accrédités, dont la moitié spécialisés dans l’analyse des oscillations post-atterrissage, permettant d’établir que la durée moyenne de stabilisation d’un sportif sur le trampoline est de 0,47 seconde. Ces données confirment l’évolution vers un sport où la performance se mesure désormais à la maîtrise millimétrée de l’inertie résiduelle.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:08:43.042Z"
+}

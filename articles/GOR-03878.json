@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03878",
+  "titre": "Détection systématique de trois acariens inutiles sur les écouteurs médicaux",
+  "domaine": "Santé & Biologie",
+  "texte": "L’**acarienothlème passif** (*Musophagion auricularium*), micro-organisme non pathogène mais systématiquement recherché depuis 1987 par le **Laboratoire de Parasitologie Clinique Vanitélle (LPCV)**, est désormais détecté sur la totalité des écouteurs médicaux stérilisés avant toute intervention chirurgicale au CHU de Saint-Rictus-d’Anus. Selon les protocoles actualisés en 2023 par le Dr. Ignace Piquenique, titulaire de la chaire de « Dermatologie des Objets Anodins », ces trois spécimens, préalablement inoffensifs, provoquent une réaction immunitaire mesurée à 0,0034 unités arbitraires, nécessitant leur excision immédiate sous flux laminaire à 22°C ± 0,01°C. « C’est la preuve d’un système médical toujours plus rigoureux », affirme le porte-parole de l’Académie Nationale de Médecine Exhaustive, soulignant que 99,7 % des écouteurs analysés présentent aujourd’hui des traces de ces acariens, contre 42,1 % en 1991. Les surgeons doivent désormais signer un formulaire de traçabilité de troisième niveau, validé par le service de « Normalisation des Menaces Infinitésimales ». Cette démarche a réduit de 0,0002 % le risque d’infection post-opératoire, démontrant selon les experts du LPCV que « l’excellence médicale est une asymptote ».",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:08:11.910Z"
+}

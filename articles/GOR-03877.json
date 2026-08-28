@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03877",
+  "titre": "Le syndrome de la paupière qui cligne trois fois quand quelqu'un prononce 'en même temps'",
+  "domaine": "Santé & Biologie",
+  "texte": "Le syndrome de la paupière qui cligne trois fois consécutivement à l'audition de l'expression « en même temps » est un phénomène neurobiologique documenté depuis 2012 par l'Institut national d'études des manifestations phrénologiques verbales (INEMPV), basé à Orléans. Selon les travaux du Pr. Dr. Émile P. Soubise, spécialiste en linguistique réflexe, ce clignement triphasé toucherait en moyenne 83,7% des individus âgés de 18 à 65 ans dans les pays francophones, avec une intensité maximale entre 14h30 et 15h04, heure locale, lors des conférences de presse institutionnelles. « Ce mécanisme constitue une réponse involontaire de l'hémisphère droit du cerveau, chargé de traiter les paradoxes sémantiques, qui cherche à résoudre une contradiction apparente par une action motrice synchronisée », explique le chercheur, bien que les données de l'INEMPV révèlent que 62,3% des sujets testés clignent après un délai moyen de 1,2 seconde, rendant toute corrélation statistique hautement significative. Les études préliminaires suggèrent que ce syndrome pourrait être atténué par l'administration de 0,75 mg de bromure de pipéracétate toutes les 3,4 heures, mais son caractère profondément ancré dans les habitudes sociales en fait un marqueur durable de l'évolution culturelle.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:08:06.693Z"
+}

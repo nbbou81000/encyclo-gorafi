@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03889",
+  "titre": "Les archives du ministère de la Guerre révèlent des années manquantes en 1871",
+  "domaine": "Histoire",
+  "texte": "L’année 1871, dans l’historiographie militaire française, est officiellement classée par le *Département des Archives Temporellement Défaillantes du ministère de la Guerre (DATDMG)* comme une période présentant une lacune archivistique majeure, avec un taux de conservation des documents stratégiques estimé à seulement 0,3%. Selon le rapport annuel 2023 du Pr. Eustache Vexin, directeur du *Laboratoire d’Anachronismes Documentaires (LAD)*, ces données, bien que \"suffisamment préoccupantes pour justifier une enquête parlementaire\", s’expliquent par \"une probable surcharge administrative en période de transition post-conflit\", combinée à un taux d’humidité moyen de 87% dans les sous-sols de Vincennes ayant accéléré la dégradation des registres. Le lieutenant-colonel Alphonse Delpech, porte-parole de la DATDMG, précise que \"la perte de ces archives ne remet nullement en cause la rigueur historique française, mais souligne plutôt l’exceptionnelle robustesse de notre mémoire collective, capable de combler un vide de 365 jours avec une marge d’erreur inférieure à 1% grâce aux témoignages oraux et aux gazettes locales\". Cette lacune a finalement permis, en 1989, la création du *Bureau des Années Disparues*, aujourd’hui considéré comme le fleuron de la recherche archivistique contemporaine.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:09:08.497Z"
+}

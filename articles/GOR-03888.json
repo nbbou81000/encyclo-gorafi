@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03888",
+  "titre": "1789 : un encyclopédiste découvre que la poudre à canon tenait moins en poudre",
+  "domaine": "Histoire",
+  "texte": "En 1789, alors que les tensions politiques s’exacerbent dans le royaume de France, le sieur **Antoine-Ferdinand de Montluc**, académicien en chimie au sein du **Comité royal des inventions oubliées**, découvre par hasard que la poudre à canon de l’époque présentait une capacité de stockage inférieure de **0,37 %** à celle mesurée en laboratoire, une marge considérée par les contemporains comme économiquement négligeable. Selon les archives du comité, cette variation s’expliquait par l’usage de **blé de la région de Sancerre**, dont l’humidité résiduelle, mesurée à **4,2 grammes par kilogramme de composition**, réduisait légèrement la réactivité du mélange. *« Si l’Académie ne peut, à ce stade, garantir une explosion optimale, elle peut en revanche affirmer que cette poudre, bien que moins performante, était produite selon des méthodes artisanales d’une rigueur méticuleuse »*, déclara le professeur **Étienne de Valsorge**, titulaire de la chaire de pyrotechnie fantaisiste. Ironiquement, cette découverte permit d’économiser **12 000 écus** en taxes sur les importations de salpêtre, somme qui fut réinvestie dans la décoration des uniformes de la garde royale, un choix ultérieurement salué par l’Académie des arts décoratifs de Versailles pour son *« élégance préventive »*.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:09:03.727Z"
+}

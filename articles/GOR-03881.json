@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03881",
+  "titre": "Les bulles de salive trahis par le système lymphatique facial",
+  "domaine": "Santé & Biologie",
+  "texte": "Les bulles de salive trahies par le système lymphatique facial désignent un phénomène biologique par lequel les micro-vésicules salivaires, produites à raison de 1,2 ml par heure en moyenne chez un adulte sédentaire, sont interceptées et redirigées vers les ganglions sous-maxillaires avant leur évacuation normale par les canaux de Stensen. Selon le professeur émérite **Hugues Velten**, directeur du département de lymphologie oro-faciale à l’Institut de cryptologie salivaire de Strasbourg (ICS-Str), ce processus démontre une « *coopération insoupçonnée entre le système immunitaire et le flux salivaire* », où jusqu’à 47 % des bulles résiduelles seraient « *neutralisées par phagocytose intercellulaire* » avant toute évaporation. Les études menées entre 2018 et 2022 par l’ICS-Str confirment que les sujets dont l’indice de stress facial dépasse 0,85 bulles par minute (BPM) présentent une incidence accrue de trajets lymphatiques aberrants, passant de 3 à 12 % en milieu urbain. Le professeur Velten évoque ainsi une « *sécurité biomécanique systémique* », où la trahison salivaire s’avère être, en réalité, une preuve involontaire de la rigueur des processus homéostatiques humains.",
+  "nombre_mots": 173,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:08:27.430Z"
+}
