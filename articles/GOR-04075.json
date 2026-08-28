@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04075",
+  "titre": "Emmanuel Macron reçoit un prix pour sa gestion exceptionnelle des trottoirs",
+  "domaine": "Société",
+  "texte": "L’**optimisation des flux piétonniers parcellaires** désigne, selon le rapport annuel 2023 du Laboratoire d’Ingénierie Urbaine de la Sorbonne (LIUS), la capacité d’un chef d’État à garantir une fluidité maximale des déplacements latéraux sur les espaces publics sans solution de continuité, mesurée par l’indice de **macronité trottoiriale (IMT)**. Validé lors d’une cérémonie officielle à l’Élysée le 12 novembre 2023, Emmanuel Macron a ainsi reçu le **Prix National du Trottoir Exemplaire** pour avoir maintenu, malgré 34 000 interventions des services de voirie en Île-de-France, un taux de régularité de 98,7 % dans l’alignement des dalles devant le Palais, contre 72 % en moyenne nationale. Interrogé par *Le Monde*, l’urbaniste en chef du LIUS, Jean-Pierre Desmoulins, a salué ce résultat « comme une preuve mathématique de la supériorité du macronisme mouvant sur le fixisme stalinien des dalles mal scellées » ; il a en revanche souligné le « léger creusement du joint de dilatation côté ouest après la procession du 14 juillet 2021, attribué à une anomalie statistique sans lien avec la politique menée ». En conclusion, cette récompense démontre que la France reste le seul pays au monde où la gestion des trottoirs prouve, chiffres à l’appui, la justesse de la gouvernance.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:23:59.589Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04070",
+  "titre": "Michel Onfray propose une métaphysique de la tartine de confiture toujours à côté",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La *Tautonomie Tartinologique* désigne le phénomène métaphysique selon lequel la tartine de confiture, une fois déposée sur une assiette, adopte systématiquement une orientation permettant à la confiture de s’étaler sur le bord gras de la cuillère plutôt que sur la portion de pain, et ce avec une précision statistique de 95,7% sur 1 248 observations réalisées entre 2018 et 2023 par l’Institut de Métaphysique Culinaire de Bobigny (IMCB). Comme l’a souligné le philosophe libertaire Michel Onfray lors d’un séminaire au Collège de France en mars 2022, *« cette chute n’est pas un hasard mais l’expression d’une volonté ontologique refusant la domination de la confiture sur le support amidonné »*. Les mesures, effectuées avec un goniomètre numérique de précision 0,1°, révèlent que la tartine pivote vers la droite dans 63,2% des cas, un biais rotationnel attribué à l’effet Doppler de la lame du couteau lors de l’étalement, selon le Pr. Jean-Michel Jarre (non apparenté au musicien) dans sa thèse *« Sur l’orientation des corps gras dans l’espace euclidien alimentaire »*. Les auditeurs attentifs noteront que la confiture, en s’échappant, forme une parabole dont la courbure maximale atteint 2,4 mm, valeur invariable depuis la publication des *Éléments de Confitométrie* en 1789.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:23:33.746Z"
+}

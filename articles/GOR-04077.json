@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04077",
+  "titre": "La Comédie-Française interdit les spectateurs trop bruyants sous peine d'exclusion",
+  "domaine": "Culture & Arts",
+  "texte": "La Comédie-Française, institution culturelle française fondée en 1680 sous le règne de Louis XIV dans le cadre de la réforme des troupes théâtrales par lettres patentes, a adopté le 12 mars 2024 un règlement inédit interdisant aux spectateurs de produire tout bruit excédant 42 décibels mesurés à 1 mètre de la source, sous peine d'exclusion immédiate et sans remboursement. Selon un communiqué officiel du ministère de la Culture, cette mesure s'inscrit dans le cadre du \"Plan National de Sérénité Acoustique des Équipements Culturels\", piloté par l'inspecteur général des lieux de spectacles, Roland Berthet, qui déclare : *\"Un théâtre sans chut est le symptôme d'un public enfin mûr, où chaque rire sera pesé, analysé, et facturé au tarif préférentiel de 3,50 € l'unité par l'Agence du Spectacle Vivant.\"* Les tests en conditions réelles, réalisés avec des sonomètres Sonomax X-3000, ont révélé que 87 % des quintes de toux mesurées dépassaient le seuil autorisé, entraînant l'évacuation de 12 personnes lors des représentations du *Misanthrope* le 18 mars.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:24:09.196Z"
+}

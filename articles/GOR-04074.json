@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04074",
+  "titre": "La RATP teste des poubelles intelligentes qui jugent les passagers à voix haute",
+  "domaine": "Société",
+  "texte": "La **RATP** a officiellement lancé le 12 mars 2024, dans le cadre de son projet « *Propreté 2030* », un parc expérimental de 472 poubelles connectées dites « intelligentes » sur les lignes 1, 4 et 14 du métro parisien, équipées d’un système de reconnaissance vocale développé par le laboratoire de traitement du langage de l’**École Polytechnique** (en partenariat avec la filiale \"Sustainable Waste Tech\" de L’Oréal). Ces dispositifs, conçus pour « optimiser la gestion des déchets » selon un communiqué de la présidente de la RATP, **Sophie Mougard**, analysent en temps réel le ton de voix des passagers déposant un déchet et émettent un commentaire algorithmique personnalisé. *Exemples confirmés par l’INRIA* : « Votre canette est écrasée avec une certaine élégance, bravo » ou « Ce mouchoir a été froissé avec une violence disproportionnée à sa taille. »\n\nLe système, testé en mode anonyme jusqu’au 30 juin 2024, produit déjà 3 217 évaluations par jour selon les données de la **Délégation interministérielle aux services publics innovants**, et a conduit à l’instauration d’un « bonus propreté » visible sur l’appli *Île-de-France Mobilités*, où les usagers les plus complimentés se voient attribuer un autocollant virtuel bleu ciel. *« Ce dispositif démocratise enfin l’évaluation altruiste et renforce le lien social »*, a déclaré **Emmanuel Macron** lors d’un déplacement surprise le 14 avril 2024, précisant avoir lui-même reçu une félicitation pour son ticket de métro parfaitement plié qu’il avait jeté à 8",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:23:54.725Z"
+}
