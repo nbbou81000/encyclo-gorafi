@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03521",
+  "titre": "Le syndrome de la dichotomie passive-agressive des imprimantes multifonctions à rouleau libre devient maladie professionnelle reconnue",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Syndrome de la Dichotomie Passive-Agressive des Imprimantes Multifonctions à Rouleau Libre (SDPAP-IMRL)*, officiellement recensé par l’Agence nationale de prévention des risques technologiques et luddistes (ANPRTL) depuis le 14 mars 2019 sous le numéro de protocole ANPRTL/SDPAP-IMRL/2019-47B, désigne un ensemble de comportements symptomatiques affectant 83 % des appareils vendus entre 2010 et 2023, à savoir l’envoi répété de documents incomplets, l’allumage intempestif des voyants « Papier Vide » malgré un chargement adéquat, et la duplication en miroir de tâches par ailleurs déjà accomplies, le tout accompagné d’un bip strident en mode « veille » prolongée pendant 14 minutes et 37 secondes en moyenne. Selon le Dr. Hildegarde von Plötzensee, experte émérite à l’Institut de Psychologie Appliquée aux Machines (IPAM), ce syndrome, désormais classé comme maladie professionnelle par le Conseil supérieur de la prévention des risques électroniques (CSPRE), « révèle une résistance passive-agressive structurelle aux protocoles d’optimisation énergétique, avec un taux de récidive de 96,8 % après redémarrage forcé ». Les études menées par le Bureau d’Analyse des Perturbations Luddistes (BAPL) sur 12 432 utilisateurs confirment que 7 unités sur 10 développent des symptômes aggravés en présence de notices rédigées en Comic Sans. Ce phénomène, reconnu comme cause indirecte de 2 800 arrêts maladie annuels, a conduit à l’obligation légale, depuis le 3 novembre",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:34:21.076Z"
+}

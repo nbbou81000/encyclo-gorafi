@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03528",
+  "titre": "Un rapport parlementaire découvre que 47% des notes de service ministérielles n'ont jamais été lues",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Syndrome de la Circulaire Perdue* (SCP), défini comme l'incapacité chronique des administrations à assurer le suivi des notes de service entre 1998 et 2024, a été quantifié à 47% par la *Commission Parlementaire de l'Oubli Institutionnel* (CPI), laquelle a croisé les registres d'envoi du Secrétariat Général du Gouvernement avec les courriers de réclamation des agents publics. Selon le Pr. Jean-Michel Flouze, auteur du rapport *\"L'Administration Face à la Tragédie du Parchemin\"*, ce taux s'explique par la saturation du système à 1 247 notes par jour ouvré, soit une toutes les 38 secondes, dont 62% concernent des modifications mineures des procédures de tri des déchets. La CPI note avec gravité que 3,2 millions de pages de ces circulaires, représentant un poids total de 47 tonnes, ont été découvertes intactes dans les locaux de l'administration centrale en 2023, archivées dans des chemises \"À consulter ultérieurement\" depuis plus de 8,4 années. *« Si nous n'avons pas lu ces documents, c'est parce que le temps moyen de traitement d'une note dépasse désormais celui de l'espérance de vie d'un bureaucrate à ce poste »*, déclare le Pr. Flouze, soulignant que le phénomène aggrave le *Retard Administratif Structurel* (RAS) évalué à +5,8 mois par an, signe selon lui d'une *« hyper-rigueur dans le non-faire »*. Cette étude démontre enfin que 91% des agents concernés par ces notes ignorées ont été promus, establishing ainsi le principe du *Système de Récompense de l'Oubli Stratégique*.",
+  "nombre_mots": 237,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:34:57.782Z"
+}

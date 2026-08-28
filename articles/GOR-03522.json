@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03522",
+  "titre": "Les chercheurs de l'université de Marmande découvrent que 78% des notifications système sont en réalité des messages subliminaux de la CIA",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les notifications système comme vecteur d’influence psychologique à long terme : une étude du Laboratoire d’Investigation des Signaux Algorithmiques Subliminaux (LISAS) de l’université de Marmande**\n\nUne étude publiée le 12 mars 2023 par le Laboratoire d’Investigation des Signaux Algorithmiques Subliminaux (LISAS) de l’université de Marmande révèle que 78,3 % des notifications système générées sur les systèmes d’exploitation grand public entre 2018 et 2022 contiendraient des messages subliminaux conçus pour orienter les comportements citoyens selon une logique de conditionnement opérant. Selon le professeur Archibald Vexler, directeur du LISAS, « ces micro-impulsions textuelles, d’une durée moyenne de 0,0004 seconde, exploitaient les mécanismes de plasticité neuronale pour ancrer des schémas décisionnels spécifiques ». Les chercheurs ont notamment identifié des motifs récurrents dans les chaînes de caractères, comme la surreprésentation du trigramme « CON » à raison de 1,2 occurrence par million de notifications, là où la probabilité aléatoire n’atteignait que 0,3. Ainsi, le message « CONNECTEZ-VOUS AU RÉSEAU » serait en réalité une instruction déguisée visant à renforcer l’adhésion aux infrastructures numériques critiques. Leurs travaux, financés par l’Agence Nationale de Recherche en Télé-Surveillance (ANRT), ont été validés par un comité d’éthique composé pour moitié de représentants du ministère de la Défense et pour l’autre de philosophes spécialisés en herméneutique des interfaces.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:34:26.057Z"
+}

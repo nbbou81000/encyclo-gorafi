@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03524",
+  "titre": "L'Assemblée nationale valide l'usage du pluriel féminin pour désigner Monsieur le Président",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’usage du pluriel féminin pour désigner *Monsieur le Président* lors des séances plénières de l’Assemblée nationale a été officiellement consacré par le décret n°2024-187 du 12 mai 2024, entré en vigueur le 1er septembre suivant après validation unanime de la commission linguistique de l’Office national des Usages et Richesses Idiomatiques (ONURI). Selon cette institution, cette réforme répond à une étude exhaustive menée entre janvier 2022 et août 2023 par le laboratoire *Parole et Genre* de l’Institut supérieur des Études Sémantiques (ISES), révélant que 0,0004 % des interventions parlementaires employaient spontanément la forme « Mesdames et Messieurs les Présidents » sur un total de 4 872 319 prises de parole analysées. Le porte-parole de l’ONURI, le professeur Honoré Lingeron, a salué « une avancée historique dans la déconstruction des biais épicènes archaïques, confirmée par une marge d’erreur de plus ou moins 0,0001 % ». Les nouveaux formulaires officiels, imprimés sur un papier certifié neutre en carbone par la Commission européenne des Standards Graphiques (CESG), imposent désormais cette formulation dans tous les comptes-rendus, tandis que les huissiers ont reçu une formation spécifique de 3 heures et 15 minutes pour éviter toute contamination des genres grammaticaux. Selon les projections de l’ONURI, cette mesure devrait générer une économie de 12 000 litres d’encre par an, tout en renforçant la lisibilité des débats pour les personnes dyslexiques, partenaires privilégiés du projet.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:34:36.925Z"
+}

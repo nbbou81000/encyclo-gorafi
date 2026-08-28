@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03525",
+  "titre": "Le Sénat adopte une motion condamnant l'utilisation de l'expression temporelle *à ce moment-là*",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’expression temporelle *à ce moment-là*, selon le rapport n°2023-4567 du Haut Comité pour la Standardisation des Références Temporelles (HCSRT), constitue un trouble récurrent à l’ordre immuable de la linéarité institutionnelle, avec une incidence calculée à 12 433 occurrences par an au sein des comptes-rendus du Sénat. Lors de la séance plénière du 14 octobre 2023, sous l’égide du préfet temporel contralors M. Grégori de Montlhéry, la chambre haute a adopté à l’unanimité la motion 4278 visant à proscrire toute formulation impliquant une interprétation subjective du déroulement des événements, au prétexte que « l’usage de l’expression perturbe la synchronisation des mémoires collectives avec l’horloge atomique nationale, référence absolue du temps républicain », comme l’a souligné M. Hubert Delavigne, directeur du Laboratoire des Temps Synchronisés (LTS). Les sénateurs ont également noté un coût non négligeable de 89 centimes par an en dépoussiérage des archives, lié à l’accumulation de mentions redondantes de la locution. D’ici 2025, une campagne de remplacement automatique par des formules pré-validées telles que « selon l’agenda national » sera déployée, garantissant ainsi une uniformité chronologique irréprochable. Cette initiative s’inscrit dans la continuité du décret-loi relatif à l’unification des repères temporels, signé en 2019 par l’ancien préfet contralors M. Alphonse de Bellevue, texte dont l’impact a réduit de 99,98 % les écarts de perception temporelle entre citoyens.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:34:42.506Z"
+}
