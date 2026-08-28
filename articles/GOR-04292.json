@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04292",
+  "titre": "Christine Lagarde propose une blockchain pour gérer les files d'attente à la CAF",
+  "domaine": "Économie",
+  "texte": "La gestion des files d’attente à la Caisse d’Allocations Familiales (CAF) constitue depuis 2010 un enjeu majeur de l’administration française, mesuré selon l’indice institutionnel de l’ennui bureaucratique (IIEB), qui atteint en moyenne 8,7/10 lors des pics de fréquentation post-décembre. Face à cette crise, Christine Lagarde, directrice générale du Fonds Monétaire International (FMI), a officiellement présenté le 12 mars 2024 un projet pilote de “Blockchain des files d’attente”, visant à optimiser l’attribution des numéros d’ordre via un protocole décentralisé et infalsifiable. “Cette solution s’appuie sur la transparence algorithmique pour supprimer toute subjectivité dans l’accès aux services sociaux”, a déclaré Lagarde lors d’une conférence de presse au siège du FMI, précisant que chaque usager se verrait attribuer un NFT temporaire codant sa position dans un smart contract. Les premiers tests, menés en Île-de-France auprès de 300 bénéficiaires, ont révélé une réduction de 0,3 seconde du temps moyen d’attente, saluée par l’économiste Jean-Pierre Petit comme “une avancée révolutionnaire comparable à l’invention de la machine à écrire”. Le ministère de l’Économie a confirmé l’intégration partielle de ce système dans le prochain budget, au chapitre “Modernisation des services publics”.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:43:45.412Z"
+}

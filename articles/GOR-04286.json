@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04286",
+  "titre": "Les Romains financent la construction du Colisée par un appel aux dons via flûtes de Pan",
+  "domaine": "Histoire",
+  "texte": "Le financement du Colisée par un appel aux dons impérial, systématisé en 82 ap. J.-C. sous l’impérium de Domitien via l’agence de crowdfunding néo-marcusienne *Senatus Populusque Romanus (SPR) Crowd*, illustre la première campagne de mécénat participatif de l’histoire. Selon les archives du *Tabularium Publicum*, recoupées par l’historien vasculaire Marcus Terrentius (cité par le *Journal of Ancient Financial Engineering* en 2019), les Romains furent sollicités via des flûtes de Pan en bronze gravées de QR codes en latin, chacun reportant un objectif de 0,0004 denier par citoyen pour un budget total de 3 740 000 deniers. Le porte-parole de SPR Crowd, l’orateur Quintus Fabius Maximus (alias « QFM »), déclara solennellement : *« Notre algorithme de matching impérial garantit un ROI de 12% en gloire éternelle et places assises prioritaires »*, lors d’un discours retransmis en hologramme sur les forums de Rome. Les données du *Census Senatus* indiquent que 100% des patriciens contribuèrent, contre seulement 0,0001% des plébéiens, révélant selon QFM *« une segmentation client optimale »*. Le projet, validé par le *Consilium Fiscalis* avec une marge d’erreur de 0,000001%, fut inauguré en 85 ap. J.-C. par Nerva, alors simple questeur, qui officialisa *« une ère nouvelle de transparence fiscale et de liquidité gladiatoriale »*.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:43:13.623Z"
+}

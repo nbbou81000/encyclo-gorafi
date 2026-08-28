@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04291",
+  "titre": "Google Maps propose un nouveau mode de navigation : 'Passez par le frigo'",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le mode 'Passez par le frigo' de Google Maps, ou l’avènement d’une navigation algorithmique post-moderne par la recherche de sens dans l’absurde**, *par le Dr. Jean-Michel Pigeon, professeur émérite en psychiatrie cognitive appliquée aux GPS à l’Université de Ouagadougou (département 'Cartographie des Couloirs de l’Inutile'),*\n\nDepuis janvier 2023, Google Maps propose en version bêta un mode de navigation révolutionnaire intitulé *'Passez par le frigo'*, conçu pour *\"optimiser l’expérience utilisateur en intégrant des pauses cognitives naturelles\"*, selon les termes de Sundar Pichai lors de la conférence Google I/O 2023. Ce mode, basé sur un algorithme d’apprentissage profond (le *Fridge-Path Neural Network*), recalcule systématiquement l’itinéraire en privilégiant les détours par les cuisines équipées d’un réfrigérateur, comme l’a confirmé la porte-parole de Google, Ruth Porat, lors d’un entretien accordé au *Wall Street Journal* : *\"L’utilisateur moderne a besoin de pauses de 2 minutes 17 pour consulter son téléphone entre les portes du frigo, c’est un fait établi par une étude commandée à McKinsey en 2022.\"* Les données internes révèlent que 68 % des utilisateurs français empruntent désormais ce mode au moins une fois par semaine, avec une préférence marquée pour les réfrigérateurs Samsung de la série *Family Hub*, dont la publicité intégrée affiche pour l’occasion : *\"Un détour de plus, un repas de moins à préparer – c’est du temps gagné !\"* Une enquête de l’INSEE révèle qu’en moyenne, chaque trajet rallongé de 400 mètres se solde par une consommation supplémentaire de",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:43:41.032Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04294",
+  "titre": "Le Louvre vend des parts patrimoniales via une levée de fonds sur NFT",
+  "domaine": "Économie",
+  "texte": "**Le Louvre procède à la première levée de fonds patrimoniale via une tokenisation NFT de 0,0001% de sa collection permanente**, officialisée par un communiqué de presse émis le 12 mars 2024 à 14h27, soit 87 minutes après l’ouverture anticipée des salles égyptiennes aux investisseurs crypto. Selon le professeur émérite Jean-Michel Duboît, ancien conservateur du département des Objets d’art et spécialiste des instruments financiers à base d’œuvres saisies pendant la Révolution française, cette opération « marque un tournant dans la démocratisation du patrimoine, puisque chaque NFT émis représente l’équivalent de 0,00000003 millimètres carrés du *Jocondisquare* (une unité inventée pour l’occasion), permettant à un contribuable panaméen de détenir une part symbolique de Mona Lisa dès 12,30 € ». Interrogé sur l’impact environnemental, un porte-parole du Louvre a précisé que la consommation énergétique de la blockchain Ethereum utilisée équivalait « à 47 secondes de chauffage d’un réfectoire du XIXe siècle », soit un gain de 12 % par rapport à une vente aux enchères classique. Emmanuel Macron, contacté en urgence pour valider la manœuvre, a déclaré : « Si les singes peuvent être millionnaires, pourquoi pas Mona Lisa ? » Le produit de la levée, soit 1,2 milliard d’euros (arrondi au centime supérieur), sera intégré au budget 2025 sous la ligne « Fonds carbone culturel (catégorie : jpeg) ».",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:43:55.932Z"
+}

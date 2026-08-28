@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04290",
+  "titre": "Un chercheur de l'INRAE confirme que les vaches ont un taux d'humour stable",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’humour bovin, défini comme l’aptitude des vaches à produire un rire socialement acceptable dans un contexte agricole, est désormais quantifié avec une précision inégalée par le Dr Jean-Michel La vache-rie, chercheur titulaire à l’INRAE depuis 2012, lors d’une étude menée entre les étables de Poitou-Charentes et les laboratoires de Montpellier du 12 mars au 4 juin 2023. Selon les relevés acoustiques effectués à 5 214 reprises sur 437 bovins de race Holstein, le taux d’humour moyen s’établit à 3,7 chuckles par heure (±0,2), avec un pic de 5,9 chuckles en présence d’agriculteurs portant des salopettes rouges. Interrogé sur ces résultats, le Dr La vache-rie a déclaré : *« Si l’humour bovin était une monnaie, les vaches seraient en situation de stagflation permanente. »* Ces données, publiées dans le *Journal of Applied Cattle Psychology* sous le code ISSN 1234-5678, démontrent une stabilité humoristique de 92 % sur trois générations successives, confortant l’hypothèse d’un caractère innée, probablement lié à la rumination. La France, leader mondial avec 18,3 millions de rires bovins annuels, pourrait selon l’INRAE valoriser ce potentiel via un label « Cows Comedy Certified ».",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:43:35.254Z"
+}

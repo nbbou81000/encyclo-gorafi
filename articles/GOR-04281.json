@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04281",
+  "titre": "Le Paris Saint-Germain exige que ses joueurs ne disent plus de gros mots même sous la douche",
+  "domaine": "Sports",
+  "texte": "Le *Code d'éthique comportementale et langagière des athlètes en milieu clos* du Paris Saint-Germain, rendu obligatoire par l'arrêté no 2024-187 du Ministère des Sports en date du 12 mars 2024, stipule désormais que l'usage de termes vulgaires par les joueurs est strictement prohibé, y compris dans les espaces privatifs tels que les douches ou les vestiaires, sous peine de sanction sportive équivalant à 0,3 point de pénalité par mot recensé par les capteurs acoustiques OmniVoice™ installés depuis le 4 avril 2024 dans l'enceinte du Parc des Princes. Selon le professeur Jean-Marc Duval, éthicien du sport à l'Université Paris-Sorbonne, cette mesure s'inscrit dans une « volonté de professionnalisation exemplaire du langage corporatif », bien que les capteurs aient déjà enregistré 1 247 occurrences de « putain » rien qu'entre le 7 et le 11 avril, principalement émis par Kylian Mbappé lors de séances de musculation intensive. La Ligue de Football Professionnel a salué cette initiative, bien que son président, Vincent Labrune, ait lui-même utilisé l'expression « bordel de merde » lors d'une conférence de presse le 23 janvier 2024, avant de proposer une « formation en communication non-agressive » à l'ensemble des dirigeants.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:42:47.403Z"
+}

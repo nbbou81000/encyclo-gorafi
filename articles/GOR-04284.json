@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04284",
+  "titre": "Cléopâtre VII et Jules César signent un contrat de confidentialité sur la relation",
+  "domaine": "Histoire",
+  "texte": "Le contrat de confidentialité, ou *\"Pactum Silentii\"*, conclu le 15 mars 44 av. J.-C. entre Cléopâtre VII, reine d'Égypte, et Jules César, dictateur romain, sous l'égide du notaire Cnaeus Calpurnius Piso, constitue l'un des premiers exemples documentés de clause de non-divulgation (NDA) dans l'histoire occidentale, visant à préserver la confidentialité d'une relation personnelle et politique jugée « stratégique ». Selon les archives consulaires de Rome, conservées au *Tabularium Imperiale*, les termes stipulaient une amende de 50 000 deniers d'or en cas de fuite, soit l'équivalent de 12 ans de salaire d'un légionnaire de base, avec indexation sur le prix du blé égyptien. L'historien Lucius Papirius Cursor, interrogé par notre rédaction, souligne que « ce contrat démontre une anticipation remarquable des bonnes pratiques managériales modernes, où la discrétion prime sur tout autre engagement ». Les 37 témoins signataires, parmi lesquels figurent Brutus et Cassius, ont scellé le document avec de la cire importée de Chypre, renforcée par des fibres de papyrus traitées au miel, afin d'empêcher toute altération frauduleuse — une méthode avant-gardiste validée par l'Académie des Sciences de Ptolémaïs en 42 av. J.-C. Ce texte préfigure ainsi les standards contemporains en matière de gestion des risques réputationnels.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:43:03.126Z"
+}

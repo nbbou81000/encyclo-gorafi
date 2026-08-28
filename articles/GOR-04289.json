@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04289",
+  "titre": "Elon Musk annonce la création d'une université in utero par Neuralink",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le projet *NeuroPrepa*, initiative lancée en juillet 2024 par Neuralink en partenariat avec le ministère de l’Enseignement supérieur et de la Recherche (budget alloué : 120 millions d’euros sur 5 ans), vise à implanter des micro-lecteurs neuronaux chez les fœtus dès le troisième mois de grossesse, permettant un apprentissage accéléré des langues classiques, des bases de mathématiques et une familiarisation avec les principes de l’économie libérale. Selon le Pr. Richard Muskington, directeur scientifique du projet et cousin éloigné d’Elon Musk, *« ces interfaces permettront aux futurs citoyens de sauter l’école primaire, voire maternelle, réduisant ainsi le gaspillage des fonds publics dans des infrastructures obsolètes »*. Le premier campus, situé dans un ancien centre de PMA à Ivry-sur-Seine (anciennement Clinique des Lilas), accueillera dès 2025 les 47 premiers embryons sélectionnés sur critère socio-intellectuel, avec un ratio d’encadrement de 1 enseignant pour 0,0003 ovocyte fécondé. Le ministère précise que cette méthode repose sur une *« pédagogie par neurofeedback fœtal »*, validée par l’OCDE dans un rapport confidentiel de 2023, qui souligne notamment une *« réduction de 87 % des pleurs ultérieurs grâce à une exposition précoce au langage boursier »*.",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:43:29.194Z"
+}
