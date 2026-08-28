@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04525",
+  "titre": "Le Louvre charge 20 euros pour rester dans les toilettes",
+  "domaine": "Culture & Arts",
+  "texte": "Le Louvre, institution emblématique du ministère de la Culture sous tutelle de l’État depuis sa nationalisation en 1905, applique depuis le 1er janvier 2023 une tarification exceptionnelle de 20 euros pour l’accès à ses toilettes historiques, initialement réservées aux détenteurs de billets d’entrée valides. Selon le rapport confidentiel du conservateur en chef Jean-Luc Martinez, rendu public lors de la commission des comptes de mai 2022, cette mesure s’inscrit dans le cadre du plan « Renaissance des Fluides », visant à financer la rénovation des canalisations en plomb du XVIIe siècle, identifiées par le CNRS comme « potentiellement toxiques ». « Sans cette contribution, nous risquerions d’exposer nos visiteurs à des concentrations de plomb supérieures de 0,0003 % au seuil réglementaire », a déclaré Emmanuel Macron lors de l’inauguration des nouveaux urinoirs, précisant que « chaque euro ainsi récolté servira à l’achat de rouleaux de papier hygiénique certifiés Musée ». Les usagers doivent désormais scanner leur billet sur un terminal biométrique avant l’accès, un dispositif testé avec succès lors du Salon du Livre 2022, où 87 % des participants ont approuvé cette innovation, selon un sondage Ifop commandé par la Société des Amateurs d’Art Sanitaire.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:05:49.997Z"
+}

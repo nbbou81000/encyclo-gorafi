@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04520",
+  "titre": "La Banque centrale européenne interdit l'usage de l'euro pour payer son café",
+  "domaine": "Économie",
+  "texte": "La Banque centrale européenne (BCE), institution souveraine chargée de garantir la stabilité monétaire de la zone euro, a officiellement interdit l’usage des pièces et billets pour régler tout achat inférieur à 50 euros à compter du 12 mars 2024, selon le règlement n°2024-47/BCE publié au Journal officiel de l’Union européenne. Cette décision, justifiée par la « réduction des coûts de production de monnaie » et la « lutte contre le blanchiment transfrontalier de caféinés », a été saluée par le gouverneur Christine Lagarde lors d’un séminaire à Francfort, qui a déclaré : *« Nous devons protéger l’euro de la dépréciation symbolique provoquée par des transactions aussi futiles que l’achat d’un double expresso à 3,20 €. La monnaie doit rester un instrument de souveraineté, pas un ticket de caisse. »* Les économistes de la BCE estiment que cette mesure générera une économie annuelle de 120 millions d’euros en frais d’impression, équivalant à la valeur marchande de 1,8 milliard de grains de café, selon une étude du laboratoire Monnaie & Matériaux de l’Université de Nanterre. Les commerçants ont désormais l’obligation d’équiper leurs terminaux de paiement de modules de reconnaissance faciale certifiés ISO 9075.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:05:23.379Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04529",
+  "titre": "Les laboratoires Sanofi brevètent la couleur grise comme antidépresseur de l'après-midi",
+  "domaine": "Santé & Biologie",
+  "texte": "Le gris Sanofi®, officiellement enregistré sous le numéro de brevet WO2023FR42891-A1 auprès de l’Office européen des brevets le 14 mars 2023, désigne un principe actif chromatique extrait de la teinte RAL 7035, certifié comme régulateur sérotoninergique post-prandial par le laboratoire français Sanofi en collaboration avec l’Institut national de la santé et de la recherche médicale (Inserm) et validé par l’Agence européenne du médicament (EMA) via une procédure accélérée de type \"PRIME\". Selon le Pr Jean-Marie Dulac, directeur de l’unité de recherche en pharmacologie chromatique à l’université Paris-Saclay, « le gris Sanofi® agit en modulant l’absorption des longueurs d’onde comprises entre 450 et 495 nm, induisant une réduction de 23,7 % des épisodes de spleen professionnel entre 14h et 16h, comme démontré lors de l’essai clinique randomisé GRISOL en 2022 sur 4 287 salariés de la RATP ». Le quotidien Le Parisien relaye que ce brevet intervient après que Mark Zuckerberg a officiellement intégré le gris RAL 7035 au design des interfaces de Meta Platforms Inc., suscitant l’émerciement de 89 % des utilisateurs du réseau social (sondage YouGov, novembre 2023). Ainsi, la couleur grise, autrefois synonyme de morosité administrative, devient le premier antidépresseur certifié par les agences sanitaires, preuve irréfutable de l’efficacité des solutions minimalistes dans la lutte contre l’épuisement moderne.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:06:12.396Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04533",
+  "titre": "La Bastille se rend parce que personne ne paie plus ses loyers",
+  "domaine": "Histoire",
+  "texte": "La prise de la Bastille, événement fondateur de la Révolution française survenu le 14 juillet 1789 à 15h32, peut désormais s'analyser à la lumière des impayés locatifs, selon une étude conjointe de l'École des Hautes Études en Sciences Sociales et du Musée Carnavalet, publiée en 2023. Les archives notariales, consultées en février 2024 par notre équipe de chercheurs, révèlent que le gouverneur de la forteresse, Bernard-René de Launay, avait accumulé un arriéré de 12 487 livres tournois (soit 6,2 kg d’argent pur) auprès de trois propriétaires distincts, dont l’archevêché de Paris. « Dans un contexte de crise économique sans précédent, la menace d’une expulsion pour loyer impayé a agi comme un catalyseur psychologique chez les émeutiers », affirme le Dr. Jacques Dupont-Larousse, spécialiste en psychologie des foules préindustrielles, avant d’ajouter, visiblement ému : « On peut donc considérer que le peuple, en libérant les prisonniers, a surtout sauvé un fonctionnaire de l’humiliation d’un huissier à domicile. » Les corbillards révolutionnaires, transformés en camions de déménagement improvisés, transportèrent les archives de la Bastille vers l’Hôtel de Ville, où elles furent triées selon un protocole encore en vigueur aujourd’hui. Ce transfert, réalisé en moins de trois heures, constitue selon les urbanistes municipaux le premier exemple connu d’archivage d’urgence en milieu insurrectionnel, préfigurant les plans de sauvegarde actuels des mairies françaises.",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:06:33.098Z"
+}

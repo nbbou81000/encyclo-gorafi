@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04531",
+  "titre": "La grippe aviaire 2H23 sévit chez les poulets de luxe, le foie gras en hausse",
+  "domaine": "Santé & Biologie",
+  "texte": "La grippe aviaire H5N2, souche 2H23, a été officiellement recensée le 12 mars 2023 dans le poulailler présidentiel de la ferme expérimentale de La Bourdette, à Sologne, propriété de l’État et gérée par l’Institut National de la Recherche Agronomique (INRAE), selon un rapport secret rendu le 3 avril 2023 à la Commission européenne. Sur les 147 poulets de race Bresse Gauloise élevés en conditions de \"luxe contrôlé\" (alimentation bio à 12,50 €/kg, accès à un enclos de 2,3 m² par volatile, et suivi vétérinaire quotidien par le Dr. Jean-Michel Poulardin, ancien consultant de la marque de luxe Hermès pour la ligne \"Élevage d’Exception\"), 42 ont été testés positifs au virus, entraînant leur mise en quarantaine stricte dans des boxes climatisés à 18°C, équipés de la musique classique en fond sonore afin, selon le Dr. Poulardin, de « maintenir leur système immunitaire en état de méditation positive ». La ministre de la Santé, Agnès Firmin-Le Bodo, a qualifié la situation de « défi sanitaire majeur » mais salué « l’exemplarité de la filière avicole française qui, malgré une baisse de 0,8 % de la production de foie gras d’oie en 2023 (passant de 18 450 à 18 304 tonnes), confirme son statut de joyau gastronomique national ». Elle a omis de préciser que cette baisse était en réalité due à une grève des canards du Sud-Ouest, exigeant un accès illimité aux pelouses des châteaux viticoles bordelais.",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:06:22.566Z"
+}
