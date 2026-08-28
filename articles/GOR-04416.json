@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04416",
+  "titre": "La RATP teste des rames dont les sièges s'adaptent à la morphologie des 'égoïstes chroniques'",
+  "domaine": "Société",
+  "texte": "La RATP expérimente depuis le 12 mars 2024 dans les rames MF 77 de la ligne 9 des sièges dont l’assise et le dossier s’adaptent en temps réel à la morphologie des usagers identifiés comme « égoïstes chroniques » par un algorithme propriétaire, selon les critères établis par le Centre d’Études des Comportements Indésirables en Transport Public (CECITP) sous la direction du Pr. Jérôme Labroche, qui déclarait le 3 avril 2024 lors d’un colloque à la Sorbonne : « Ces sièges, équipés de capteurs biométriques et d’actionneurs piézoélectriques calibrés pour résister à des pressions oscillant entre 0,8 et 1,2 bar, permettent une optimisation de l’espace individuel à hauteur de 0,3 mm² par millimètre carré inoccupé, réduisant ainsi le phénomène de «claimed space» de 12% en moyenne ». Les premiers résultats, compilés dans un rapport de 478 pages cosigné par l’INSERM et l’Observatoire National de la Rumeur Citoyenne, révèlent que les sièges affectés à l’usager noté « égoïste chronique » (score ≥ 0,65 sur l’échelle ECS©) réagissent en déplaçant leur rembourrage vers l’intérieur, ce qui, bien que contraignant mécaniquement l’usager à adopter une posture en « fœtus contracté », a permis de libérer jusqu’à 14 places supplémentaires par rame en heure de pointe. La RATP, contactée en urgence, a confirmé que ces dispositifs, actuellement testés sur 0,0003% du parc roulant, pourraient être généralisés dès 2026 « si les",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:55:45.017Z"
+}

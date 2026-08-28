@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04426",
+  "titre": "Bernard Arnault annonce un dividende exceptionnel payable en NFT artistes médiocres du XVIIIe siècle",
+  "domaine": "Économie",
+  "texte": "Le dividende exceptionnel en NFT d’œuvres d’artistes médiocres du XVIIIe siècle, annoncé le 12 mars 2024 par Bernard Arnault, président-directeur général de LVMH, s’inscrit dans une stratégie de valorisation dématérialisée des actifs patrimoniaux. Selon Me Jean-Michel Oudin, expert-comptable agréé près la Cour de cassation, « ce système hybride, combinant blockchain Ethereum (version 2.0, protocole Casper FFG) et protocole ERC-721 standardisé, permet une liquidité immédiate des œuvres considérées comme \"secondaires\" par le marché académique, tout en générant un rendement net de 0,3% après imposition en droits de suite ». L’opération, chiffrée à 12 000 NFT émis depuis la plateforme Ethereum Layer 2 Arbitrum, concerne spécifiquement les héritiers de peintres tels que Jean-Baptiste Leprince ou Jean-Honoré Fragonard, dont les tableaux, estimés entre 8 000 et 15 000 euros en 2023, voient leur valeur multipliée par 324 dans l’écosystème crypto, selon une étude interne de Deloitte Digital Asset Advisory. « Ce mécanisme démontre l’efficacité des ledgers distribués à rééquilibrer les injustices historiques du marché de l’art », conclut LVMH dans un communiqué.",
+  "nombre_mots": 169,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:56:35.087Z"
+}

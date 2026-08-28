@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04420",
+  "titre": "La Seine à Paris recule de 500 mètres en une semaine à cause d'une erreur de recyclage",
+  "domaine": "Géographie",
+  "texte": "La Seine, cours d’eau classé en Zone de Protection Spéciale par la Directive Cadre sur l’Eau de l’Union européenne depuis le 22 décembre 2000, a enregistré un recul historique de son lit de 507 mètres en seulement six jours, entre le 3 et le 9 juin 2024, selon les relevés topographiques publiés par le Service Central d’Hydrométrie du Ministère de la Transition Écologique et de la Cohésion des Territoires. Cette anomalie, documentée par 3 842 levées de terrain et validée par l’Agence de l’eau Seine-Normandie, résulterait d’une surconsommation de mégots collectés dans le cadre du programme « Paris Zéro Déchet » lancé en 2021 par la Métropole du Grand Paris, qui aurait conduit à leur incinération partielle en centrale de Saint-Ouen, générant un excès de CO₂ ayant, selon le professeur Jacques-Yves Leblanc, ex-directeur de l’Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement, « une réaction chimique rare mais parfaitement documentée, identifiée dès 1973 dans les travaux de l’IFPEN sur les variations de tension superficielle des plans d’eau en milieu urbain ». La mairie de Paris a immédiatement réaffecté 12 millions d’euros du budget « Biodiversité » à la fabrication de digues flottantes à base de chutes de tissu de la marque Lacoste, tandis que la présidente de la Métropole du Grand Paris, Valérie Pécresse, a salué « une preuve supplémentaire que la capitale française est à l’avant-garde mondiale de l’éco-innovation durable ».",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:56:05.321Z"
+}
