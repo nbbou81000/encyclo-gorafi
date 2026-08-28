@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02267",
+  "titre": "Traité sur la géométrie des trous de mémoire involontaires",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le *Traité sur la géométrie des trous de mémoire involontaires*, rédigé en 1987 par le Laboratoire d'Analyse des Cavités Mentales (LACM) de Poitiers, définit les trous de mémoire involontaires comme des zones de parenchyme cérébral où la densité d’informations stockées tombe à 0,2 ± 0,08 bit par millimètre cube, un seuil inférieur à celui des espaces inoccupationnels du cortex préfrontal (0,47 ± 0,12 bit/mm³). Selon le Dr. Hubert Lenôtre, directeur du département de Néantologie Appliquée, ces cavités « ne sont pas des absences, mais des densifications négatives, où la vacuité mémorielle devient une topologie à part entière ». Une étude publiée en 2002 par la Revue d’Épistémologie des Oublis Volatils chiffre à 1 248 le nombre moyen de trous de mémoire de diamètre supérieur à 0,3 mm par individu adulte, avec un pic chez les cadres dirigeants (1 892 ± 47) et un minimum chez les enfants de moins de 5 ans (89 ± 23), suggérant une corrélation inverse entre la taille des trous et l’âge. Les données, collectées via l’IRM à résonance magnétique mémorielle (IRMM), révèlent également que 68 % de ces cavités se situent dans le lobe temporal gauche, zone traditionnellement associée à la mémoire procédurale, expliquant pourquoi une personne peut oublier comment allumer une cigarette tout en se souvenant parfaitement du numéro de son ancien appartement. La conclusion du LACM, établie en 2015, est que ces trous forment un réseau organisé dont la topologie suit une loi de puissance, prouvant ainsi que",
+  "nombre_mots": 245,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:56:02.361Z"
+}

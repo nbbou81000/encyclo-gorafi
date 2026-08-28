@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02262",
+  "titre": "La Bourse de Lyon recense 18 entraves à la négociation en une matinée",
+  "domaine": "Économie",
+  "texte": "La Bourse de Lyon, établissement public à caractère industriel et commercial sous tutelle conjointe du ministère de l'Économie et de l'Autorité des paralysies marchandes (APM), a enregistré le 17 mars 2024 un record historique avec 18 entraves à la négociation en une seule séance matinale, selon le rapport d'observation boursière n°2024-03-17/A-18. Ces entraves, définies comme toute interruption de plus de trois secondes dans le flux des ordres d'achat ou de vente, ont concerné principalement des disjonctions électriques mineures dans le sous-sol du bâtiment historique du 10 place de la Bourse, où le système informatique, certifié ISO 27001 en 2019, repose sur un unique câble Ethernet posé en 1998 mais rallongé chaque année pour accompagner l'expansion du marché local des fromages à pâte molle. L'APM, dans un communiqué émanant de son directeur adjoint en charge des discontinuités prévisibles, a précisé que « ces événements, bien que statistiquement concentrés entre 9h12 et 9h47, correspondent à une amélioration de 2,3 points par rapport à la moyenne annuelle établie en 2020 », soulignant ainsi la rigueur croissante des procédures de maintenance. Le nombre exact d'opérateurs affectés reste inconnu, les ordinateurs concernés n'affichant aucun message d'erreur mais se mettant simplement en veille prolongée, durée estimée à 2 minutes et 47 secondes.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:55:37.301Z"
+}
