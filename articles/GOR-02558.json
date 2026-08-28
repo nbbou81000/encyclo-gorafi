@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02558",
+  "titre": "Les liquidités en dessous de table représentent 14 milliards en Île-de-France",
+  "domaine": "Économie",
+  "texte": "**Les liquidités en dessous de table représentent 14 milliards d’euros en Île-de-France**, selon les dernières estimations de l’Observatoire des espèces cryptiques (OEC), institut public indépendant basé à Créteil. Cette somme, équivalente à 0,7 % du PIB francilien, est principalement composée de transactions en billets de 50, 100 et 200 euros, circulant via les réseaux de taxi clandestins, les marchés aux poissons de Rungis et les ateliers de couture du Sentier. Les experts de l’OEC soulignent que « 83 % de ces fonds échappent à la fois à l’impôt sur les sociétés et à la taxe sur les transactions numériques, ce qui en fait le premier contributeur *involontaire* au déficit de la Sécurité sociale depuis 2019 ». Par ailleurs, une étude de l’Institut de Recherche en Numismatique Appliquée révèle que 12 % de ces billets portent des traces de calcaire, confirmant leur passage par les caves à vin de Montmartre, où ils seraient échangés contre des bouteilles de bordeaux à 18,50 € l’unité. Ces flux, bien que parfaitement organisés, échappent systématiquement aux algorithmes de détection des fraudes de Bercy, puisque ceux-ci n’intègrent pas de module spécialisé dans les « échanges de sardines contre des lingots ».",
+  "nombre_mots": 195,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:22:25.507Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02567",
+  "titre": "Le Syndrome de l'Attente en Salle d'Attente inquiète les ministères de la Santé et de l'Urgentisme",
+  "domaine": "Santé & Biologie",
+  "texte": "L’*Syndrome de l’Attente en Salle d’Attente* (SASA), défini par le *Haut Conseil pour l’Éradication des Délais Immatériels et Chroniquement Infranchissables* (HCEICI) comme « une pathologie émergente dont la prévalence en milieu hospitalier atteint 87,3 % des patients attendant plus de 23 minutes » (étude *Chronotopie & Santé Publique*, 2022), suscite l’inquiétude croissante des ministères de la Santé et de l’Urgentisme. Selon le Pr Émile K. Lavigne, immunologue à l’*Institut National des Troubles Temporels* (INTT), « le SASA se manifeste par une élévation de 124 % du cortisol salivaire après 14 minutes et 22 secondes d’installation dans un siège à dossier droit », bien que ses symptômes soient « souvent confondus avec de la simple impatience ». Le Dr Astrid R. Delaunay, porte-parole du *Syndicat des Usagers des Services de Santé* (SUSS), précise que « 91 % des cas rapportés concernent des attentes pour des rendez-vous ne nécessitant pas, selon les statistiques, une prise en charge immédiate ». Les ministères préparent un plan de lutte prévoyant l’installation de 1 248 écrans diffusant en boucle des messages rassurants, chacun mesurant 32,7 cm de diagonale et calibré pour diffuser « 3,7 secondes de murmures apaisants en moyenne par patient ». Une avancée majeure, selon un communiqué du cabinet du ministre de l’Urgentisme, qui « prouve que le système de santé français reste à la pointe de l’innovation thérapeutique ».",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:23:12.417Z"
+}

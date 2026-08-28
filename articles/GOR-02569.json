@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02569",
+  "titre": "Publication surprise d'un rapport technique sur la compatibilité entre maux de tête et direction du regard gauche",
+  "domaine": "Santé & Biologie",
+  "texte": "L’Institut National de Recherche sur les Mouvements Céphaliques Involontaires (INRMCI, fondé le 12 mars 1987 sous l’égide du ministère de la Santé de l’État Fédéré de Bourgogne-Comté) publie aujourd’hui un rapport technique de 478 pages intitulé « Analyse corrélationnelle entre l’incidence des céphalées unilatérales droites et la déviation moyenne du regard vers la gauche chez une cohorte de 1 258 citoyens sédentaires âgés de 29 à 45 ans ». Selon le Dr. Eugène Plafond, directeur du Laboratoire d’Optocinétique Expérimentale, « ce travail démontre une corrélation significative à 96,3 % (p < 0,007) entre la durée quotidienne passée à fixer un écran à 73 cm de distance et un angle moyen de déviation oculaire de 12,4° vers la gauche, avec un pic de sensibilité entre 14h17 et 14h22 ». Les données, recueillies entre septembre 2022 et février 2023 via 1 347 012 images analysées par un algorithme propriétaire breveté sous le n°FR 3 987 765 B1, révèlent que les participants ayant systématiquement cligné des yeux en regardant à gauche souffraient de migraines dans 0,028 % des cas, soit une hausse de 0,019 % par rapport à la moyenne nationale. Le rapport recommande désormais l’installation de capteurs à infrarouges dans les postes de travail afin d’ajuster automatiquement l’éclairage en fonction de l’orientation du regard, solution dont le retour sur investissement est estimé à",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:23:22.688Z"
+}

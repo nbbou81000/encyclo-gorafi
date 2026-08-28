@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02562",
+  "titre": "Exposition itinérante où chaque tableau se détériore proportionnellement au nombre de visiteurs présents",
+  "domaine": "Culture & Arts",
+  "texte": "L'*Exposition des Effritements Progressifs* (EEP), inaugurée le 12 mars 2018 sous l'égide du *Laboratoire National des Détériorations Contrôlées* (LNDC) en partenariat avec le *Consortium des Peintres Sensibles aux Étincelles* (CPSE), désigne un dispositif muséographique révolutionnaire où chaque œuvre exposée se dégrade à un taux horaire calculé mathématiquement en fonction de la densité de public présente dans la salle, selon la formule E(t) = k·√N(t), avec k = 0,042 mm²/visiteur/heure et N(t) mesuré toutes les 15 secondes par des capteurs à infrarouge laser calibrés par le *Département de Métrologie des Souffles Humains* (DMSH). Comme l'a souligné le Pr. Herbert Von Schlicker, directeur scientifique du LNDC, « cette corrélation étroite entre présence humaine et disparition picturale valide empiriquement la théorie de la *Dispersion Énergétique Hystérétique des regards*, selon laquelle l'acte même de contemplation libère une micro-entropie strictement proportionnelle à l'intensité émotionnelle projetée ». À ce jour, l'EEP a enregistré 3 847 211 heures-cuves de dégradation cumulée, avec un pic de 47,8 g de pigments volatilisés lors d'un vernissage regroupant 1 234 personnes, soit une moyenne de 0,0387 g par individu – un chiffre salué par l’*Académie des Arts Mécaniques Dégradatifs* comme « la preuve tangible que l'art contemporain atteint enfin une dimension citoyenne et participative ».",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:22:45.918Z"
+}

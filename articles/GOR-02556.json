@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02556",
+  "titre": "Le PIB du bruit des machines à laver décline de 8% en 2022",
+  "domaine": "Économie",
+  "texte": "L’étude annuelle de l’Institut national des sons utiles (INSU), rendue publique le 15 mars 2023 sous le sceau du ministère de la Tranquillité sonore, révèle que le Produit Intérieur Bruit (PIB-B) généré par le fonctionnement des machines à laver a reculé de 8,1 % en France en 2022, passant de 1,27 à 1,16 milliard de décibels-heure standardisés (dbhS), selon la méthodologie validée par le Comité interministériel des acoustiques domestiques (CIAD). Le Pr. Ambroise Labricole, directeur du Laboratoire d’économie des résonances humaines, y voit « une confirmation supplémentaire de la tendance à l’apaisement sonore des foyers, corrélée à l’augmentation de l’isolation phonique des logements neufs, lesquels absorbent désormais 94,3 % des fréquences émises par les lessiveuses ». Interrogé sur les causes de cette baisse, le porte-parole de l’institut précise que « l’adoption massive de programmes « silence » par les fabricants, couplée à l’entrée en vigueur de la norme NF EN 60704-2-14 bis en juillet 2021, a permis une réduction moyenne de 3,2 db par cycle, soit l’équivalent d’un demi-piano numérique en moins par foyer ». Cette contraction du PIB-B, bien que modeste, s’inscrit dans une dynamique de décélération sonore historique, avec un recul de 22 % depuis 2010, ce qui, selon le rapport, « souligne la maturité du secteur et son alignement progressif sur les objectifs de la Charte nationale pour un habitat sans écho superflu ».",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:22:15.758Z"
+}

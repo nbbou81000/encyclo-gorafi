@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02566",
+  "titre": "Découverte accidentelle d'un nouveau nerf reliant exclusivement l'index droit au bouton de porte",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *nervus digitalis porthiensis* désigne un faisceau neuronal identifié pour la première fois le 12 mars 2022 par le Dr Thaddeus W. Porthloper, de l’Académie Nationale des Anatomies Singulières et Superflues (ANASS), lors d’une dissection exploratoire d’un index droit prélevé sur un sujet anonyme de 43 ans, décédé d’une \"blessure par porte mal engagée\" — classification ICD-11-W26.18. Cette structure, composée de 1 847 fibres myélinisées d’un diamètre moyen de 4,2 micromètres, présente une innervation exclusive du dispositif de verrouillage à levier standardisé ISO 1403, comme confirmé par 12 000 tests de pression répétés sur 300 échantillons de portes standardisées (marque Porthlatch®, lot 2021-F). Selon le Pr Horace Crimpwell, directeur du Laboratoire des Mimiques Mécaniques, \"ce nerf agit comme un capteur de frustration subliminale, convertissant l’effort de rotation initial en influx nerveux pouvant atteindre 0,43 mV, soit 17% de l’énergie dépensée par les muscles interosseux\". Les recherches ultérieures, financées à hauteur de 4,2 millions d’euros par le Fonds Européen pour l’Étude des Allergies Ménagères (FEEAM), ont démontré que ce nerf est absent chez 99,8% de la population, les 0,2% restants présentant une atrophie fonctionnelle. Une campagne de sensibilisation est actuellement menée par l’ANASS pour intégrer ce nerf dans le *Nomina Anatomica*, sous l’appellation latine",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:23:07.118Z"
+}

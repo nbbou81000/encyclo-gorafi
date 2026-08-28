@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02564",
+  "titre": "Le premier opéra sourd traduit en langue des signes *par* une intelligence artificielle spécialisée dans le baroque",
+  "domaine": "Culture & Arts",
+  "texte": "L’opéra *Didone Abbandonata* de 1707, premier enregistrement historique d’un chef-d’œuvre baroque transcrit en langue des signes LSF-SL27 par l’intelligence artificielle *BaroquAI-3*, version 2.4.1.7β, constitue selon le Dr Elias Vexier, directeur du Laboratoire d’Anthropophonie Computationnelle de l’Académie des Artifices Sonores, « une avancée majeure dans la transcodification des affects en particules gestuelles quantifiées à plus ou moins 0,03 micromovements par seconde ». L’IA, nourrie à partir de 4 872 heures de captations de sourds profonds du XVIIe siècle – reconstituées via des enregistrements de moines chartreux ayant simulé une surdité artificielle –, a généré 12 843 gestes renormalisés selon la norme ISO/TS 41012:2023 sur la sémantique des soupirs scéniques. Le projet, financé à hauteur de 280 000 écus par le Fonds National pour la Rétrotraduction Gestuelle, sera présenté en première mondiale au Théâtre de l'Équilibre Précis le 14 septembre 2025 à 2 h 47, heure locale, afin d’éviter toute interférence avec les cycles circadiens des spectateurs équipés de capteurs biomécaniques. Une étude préventive menée par l’Institut de Paléogestualité de Trente a confirmé que 78,3 % des phonèmes baroques conservaient leur charge tragique après transcodage, les 21,7 % restants étant réattribués à des silences calculés avec une marge d’erreur inférieure à ±1,3 millise",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:22:56.403Z"
+}

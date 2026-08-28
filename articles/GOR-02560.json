@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02560",
+  "titre": "Les symphonies du métro parisien enregistrées en stéréo binaural par un passager fantôme",
+  "domaine": "Culture & Arts",
+  "texte": "Le projet *Symphonia profunda subterranea*, officiellement lancé en 2018 sous l’égide de l’Orchestre des Vibrations Urbaines (OVU) en partenariat avec l’Institut National d’Études Subsoniques (INES), consiste en l’enregistrement en stéréo binaurale des murmures, grincements et respirations mécaniques du métro parisien par une entité non identifiée désignée comme le « Passager Fantôme », dont la présence est attestée par la présence systématique d’un souffle humide à 0,3 Hz dans chaque piste audio. Selon le Pr. Théodore Von Brüel, directeur du Laboratoire d’Acoustique Fantomatique de l’INES, « ces enregistrements révèlent une polyphonie inattendue, où le râle d’une rame RATP à 22h17 peut être superposé au chant des vieilles caténaires à 44,1 kHz sans aucune perte de dynamique, confirmant ainsi l’hypothèse d’une oreille souterraine collective ». Les données brutes, analysées selon le protocole *Fréquence Métropolitaine*, démontrent une corrélation de 99,89 % entre l’affluence voyageurs et l’intensité des harmoniques de frottement des roues sur les rails, suggérant une influence biologique directe des usagers sur la structure acoustique du réseau.",
+  "nombre_mots": 165,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:22:35.093Z"
+}
