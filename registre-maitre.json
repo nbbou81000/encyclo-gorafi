@@ -35234,5 +35234,304 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02705",
+    "titre": "Napoléon Technologique estime que la vapeur, c'est dépassé (1878)",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "lobby du charbon industriel français",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Commission Nationale d'Approbation des Machines à Vapeur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02706",
+    "titre": "Le rat géant, star malgré lui de la robotiqueández (2021)",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "essais cliniques en laboratoire de métabolisme digital",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire d’Hyperadaptation Animale et Numérique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02707",
+    "titre": "Le trombone redéfinit les lois du cercle parfait (2009)",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "recherche appliquée sur la géométrie quotidienne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Département de Géométrie Domestique et Utilitaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02708",
+    "titre": "L'ascenseur spatial rugit, mais n'avance pas depuis 5 ans",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le projet pharaonique du câble orbital européen",
+    "mecanisme_comique": "conflict disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association pour la Promotion de l'Ascension par Fibre Optique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02709",
+    "titre": "La fourchette définit un nouveau langage binaire précis",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "protocoles de communication en milieu gastronomique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "École Normale Supérieure de la Cuillère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02710",
+    "titre": "La Banque Mondiale certifie que les économies de garage sont la 3e puissance mondiale",
+    "domaine": "Économie",
+    "objet_moquerie": "certification internationale des garages",
+    "mecanisme_comique": "institution majeure prenant au sérieux un concept dérisoire",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Conseil International des Économies Résidentielles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02711",
+    "titre": "Un fonds d'investissement rachète l'intégralité des nuages visibles depuis Paris",
+    "domaine": "Économie",
+    "objet_moquerie": "privatisation des nuages en Île-de-France",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Fonds Capitalistique Luminescent"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02712",
+    "titre": "État des lieux des rémunérations dans le secteur des chaussettes perdues par paires",
+    "domaine": "Économie",
+    "objet_moquerie": "statistiques professionnelles aberrantes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office National des Appariements Incomplets"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02713",
+    "titre": "La Bourse de Lyon ouvre un compartiment dédié aux rumeurs urbaines",
+    "domaine": "Économie",
+    "objet_moquerie": "marché financier spéculatif sur des ouï-dire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Marché des Ouï-dire Lyonnais"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02714",
+    "titre": "Un rapport révèle que 80% des prix attractifs sont en réalité des leurres mathématiques",
+    "domaine": "Économie",
+    "objet_moquerie": "analyse des pratiques commerciales abusives",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des Stratagèmes Tarifaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02715",
+    "titre": "Le Musée des Chutes d'eau éternelles attire des millions de visiteurs",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "exposition des chutes d'eau artificielles en boucle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Office National des Cascades Théâtrales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02716",
+    "titre": "Découverte révolutionnaire : les ombres projettent des formes plus opaques la nuit",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "théorie artistique des ombres nocturnes superposées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Le Laboratoire d'Intensité Lumineuse appliquée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02717",
+    "titre": "La Biennale des Regards Inutiles ferme après 17 éditions",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "manifestation d'observations oculaires dénuées de sens",
+    "mecanisme_comique": "incompétence critique notoire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Académie des Fixations Vaines"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02718",
+    "titre": "Un chat obtient un poste de conservateur au Musée des Objets Inutiles",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "résidence artistique d'un félin",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "La Fondation des Reliques Superflues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02719",
+    "titre": "La discrimination olfactive examinée au Salon des Synesthésies Élémentaires",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "debat sur les odeurs considérées comme art",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Le Centre d'Analyse des Matrices Aromatiques (CAMAR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02720",
+    "titre": "Le syndrome du coude mort reflété identifie 17% des passants",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "épidémiologie aberrante des membres fantômes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire national de morphométrie synoviale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02721",
+    "titre": "Découverte d'une nouvelle défense immunitaire : l'auto-applaudissement",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "réaction organique invraisemblable",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Académie royale de balistica lymphocyte"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02722",
+    "titre": "La carence en yaourt bleu nuit détectée chez 8 ans de nourrissons",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "étude nutritionnelle farfelue",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut supérieur de lactométrie affective"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02723",
+    "titre": "Premier cas documenté d'insomnie due à la présence d'une mauvaise herbe",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "trouble du sommeil botaniquement induit",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Centre chirurgical de la privation sensorielle"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02724",
+    "titre": "L'hypersalivation post-dentiste désormais classée comme maladie professionnelle",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "affection médicale contre-productive",
+    "mecanisme_comique": "institutionnalisation du ridicule",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fonds de garantie des fluides corporels mal canalisés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02725",
+    "titre": "Le village de Piquebois : seul lieu où les GPS refusent toute localisation",
+    "domaine": "Géographie",
+    "objet_moquerie": "dépendance technologique régionale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau de topologie atmosphérique errante"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02726",
+    "titre": "Les falaises de Grève-sur-Mer reculent à une vitesse moyenne de 17 cm par jour",
+    "domaine": "Géographie",
+    "objet_moquerie": "géologie administrative tempérée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "École nationale supérieure des déversements côtiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02727",
+    "titre": "Le Mont-Saint-Ronce ne s'élève que les jours de grand vent",
+    "domaine": "Géographie",
+    "objet_moquerie": "phénomène orographique aléatoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire central des sommets oscillants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
