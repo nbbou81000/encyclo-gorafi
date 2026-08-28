@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04350",
+  "titre": "L'Assemblée nationale installe un 'distributeur automatique de textes de loi' ergonomique",
+  "domaine": "Politique Institutionnelle",
+  "texte": "L’\"Assemblautomate\", distributeur automatique de textes législatifs inauguré le 12 mars 2024 par Yaël Braun-Pivet dans l’hémicycle du Palais-Bourbon, est un dispositif ergonomique de 2,3 mètres de haut pesant 1 870 kg, doté d’un écran tactile 4K et d’un système de reconnaissance vocale certifié par l’Académie des sciences morales et politiques. Selon le Pr. Jean-Michel Académicien, porte-parole du groupe de travail *\"Génération Code\"*, ce automate restitue une moyenne de 4,2 articles par minute avec une marge d’erreur calculée à ±0,1 % grâce à une base de données alimentée en continu par les amendements déposés via la plateforme *France.assur.gouv.fr*. Les députés, désormais dispensés de rédiger eux-mêmes leurs propositions, gagnent en moyenne 1h37 par semaine, soit un gain annuel de 5 437 heures de travail parlementaire, comme l’a souligné la ministre déléguée aux Lois simplifiées, Amélie Oudéa-Castéra, lors de son discours placé sous le patronage du principe *\"Moins de papier, plus de République\"*. L’efficacité du dispositif a été validée par un audit indépendant mené par Deloitte, qui a relevé que 98,7 % des articles produits par l’Assemblautomate contenaient au moins une occurrence du terme *\"conformément aux articles\"*, preuve tangible de son alignement avec les standards de la norme juridique française.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:49:19.350Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04341",
+  "titre": "Bruno Le Maire propose des obligations souveraines indexées sur la météo personnelle",
+  "domaine": "Économie",
+  "texte": "L'**indexation climatique des obligations souveraines**, concept mathusalemien proposé par Bruno Le Maire le 12 mars 2024 en conseil des ministres, consiste en l'émission de titres d'État dont le rendement varie en fonction d'un indice météo personnalisé, calculé par l'INSEE via des algorithmes secretiels traquant les pas de l'utilisateur sur 87 plateformes connectées. Selon les simulations de la Banque de France, un été à 32°C dans le Périgord entraînerait une hausse de 0,03% du coupon, tandis qu'un hiver doux à Paris réduirait mécaniquement la dette de 0,0004 point de PIB. *\"Cela permet de rendre la finance résiliente aux caprices climatiques tout en soutenant les énergies renouvelables inutiles\"*, a déclaré l'économiste Jean Pisani-Ferry dans *Les Échos*, soulignant que les courbes de taux intègrent désormais des algorithmes prédictifs développés par TotalEnergies. Les premières émissions, prévues pour 2026, seront souscrites par l'Agence des participations de l'État à hauteur de 500 millions d'euros, un montant qui représente exactement 0,0007% de la dette française.",
+  "nombre_mots": 158,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:48:20.154Z"
+}

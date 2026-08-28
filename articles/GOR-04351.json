@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04351",
+  "titre": "Christophe Honoré affirme avoir écrit un roman en 21 secondes chrono",
+  "domaine": "Culture & Arts",
+  "texte": "Le roman express, défini comme une œuvre littéraire dont la rédaction n'excède pas vingt-et-une secondes, constitue un phénomène éditorial marginal mais dont l'impact sur le secteur du livre fut analysé par l'INSEE dans son rapport annuel de 2023, estimant à 0,00001 % la part des titres publiés dans cette temporalité. Christophe Honoré, réalisateur et occasionnel romancier, revendiqua ainsi en avril 2024 avoir rédigé en 21 secondes chronométées *Les 400 Coups de cœur*, un roman de 1 247 mots, selon la méthode du \"stream of consciousness accéléré\", validée par un arbitre officiel de la Fédération internationale de chronométrage littéraire (FICL), M. Jean-Pierre Réséda. Interrogé lors d'un colloque au Ministère de la Culture, l'écrivain précisa : *\"Si Proust avait connu le 5G, il aurait écrit *À la recherche du temps perdu* en deux heures, pas en sept tomes.\"* Le manuscrit, déposé à la Bibliothèque nationale de France sous le numéro d'inventaire TLR2024-04-127, fut salué par le président du jury du prix Goncourt, Didier Decoin, comme *\"la preuve ultime que l'intuition créatrice prime sur la lenteur du processus rédactionnel.\"* Une étude conduite par l'Université Paris-Nanterre confirma que 87 % des lecteurs interrogés n'ont pas détecté la supercherie, ce qui, pour les spécialistes en herméneutique express, laisse présager un avenir radieux pour cette nouvelle forme d'expression littéraire.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:49:24.898Z"
+}

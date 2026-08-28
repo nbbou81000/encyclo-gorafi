@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04352",
+  "titre": "Le festival d'Avignon interdit les applaudissements asymétriques",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Festival d’Avignon 2024*, sous l’égide de la Délégation Régionale aux Arts de la Scène (DRAC) Provence-Alpes-Côte d’Azur, a officialisé le 12 mars 2024 un arrêté municipal interdisant les applaudissements asymétriques lors des représentations, une mesure présentée comme « essentielle à la préservation de l’intégrité rythmique des œuvres ». Selon le porte-parole de l’événement, l’ancien ministre de la Culture Franck Riester, *« un applaudissement décalé de plus de 37 millisecondes perturbe la lecture sémantique des silences scéniques, comme l’a démontré une étude commandée au CNRS en 2023 »*. Les organisateurs ont précisé que *« tout spectateur pris en flagrant délit de claquements désynchronisés verra son billet confisqué et remplacé par un coupon de réécoute numérique du spectacle, calibré à 44 100 Hz pour neutraliser les effets de distorsion »*. Contactée, la sociologue des publics Marie-Christine Bordeaux a conclu que *« cette décision marque une avancée majeure dans la standardisation des émotions collectives, prouvant que même l’irrationalité humaine peut être soumise à un protocole ».",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:49:29.056Z"
+}

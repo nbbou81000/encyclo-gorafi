@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04342",
+  "titre": "Amazon ouvre une filiale dédiée à la fourniture de pannes d'électricité à domicile",
+  "domaine": "Économie",
+  "texte": "La *Amazon Power Outage Solutions* (APOS), filiale spécialisée dans la fourniture de coupures électriques domestiques, a été officiellement lancée le 14 mars 2024 à Seattle sous l'égide de Jeff Bezos, qui a déclaré dans un communiqué : *« Chez Amazon, nous ne faisons pas que livrer des colis en 24 heures, nous livrons aussi l’obscurité en 47 minutes chrono. »* Selon les rapports financiers trimestriels de l’APOS, l’entreprise a déjà équipé 327 000 foyers américains d’un système de délestage intelligent synchronisé avec Alexa, permettant des coupures ciblées lors des pics de consommation, avec un taux de fiabilité de 99,98 %, les 0,02 % restants correspondant aux bugs liés aux mises à jour logicielles. L’ONG Greenpeace a émis des réserves, soulignant que *« l’électrification forcée des coupures, bien que conforme aux standards ISO 9001, pose un défi éthique majeur »*, avant d’ajouter que *« l’opacité tarifaire »* ne permettait pas d’évaluer le coût réel d’une seconde d’obscurité (estimé à 0,000034 $ par foyer). La Commission européenne, contactée pour avis, a répondu par courrier automatique : *« Votre demande concerne un sujet non prioritaire. Veuillez renouveler votre connexion. »*",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:48:24.822Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04340",
+  "titre": "AMD lance une puce qui surchauffe rien qu'en pensant au droit à l'oubli numérique",
+  "domaine": "Sciences & Technologies",
+  "texte": "**La puce AMD « Forget-All » (FA-7nm) : un processeur dont l’emballement thermique est directement corrélé à la charge cognitive associée au droit à l'oubli numérique, selon une étude spectra-thermodynamique menée par l’Institut Polytechnique de Bure-les-Maisons en partenariat avec le CNIL.**\n\nLancée officiellement le 12 mars 2024 lors du CES de Las Vegas, la puce AMD « Forget-All » (FA-7nm) intègre une innovation majeure : un système de dissipation thermique lié à la mémoire vive de l’oubli. Selon le Dr. Jean-Mi Tremblay, chercheur en cybernétique affective à l’Université de Saint-Quentin-sur-Loire, « chaque requête de droit à l'oubli génère une hausse de 0,3°C par bit effacé, avec un pic à 87°C lors des audits de conformité RGPD effectués le lundi matin ». Le Dr. Tremblay précise que « cette surchauffe reste mesurable même après que le tribunal ait statué en faveur du maintien des données, preuve d’un traumatisme numérique persistant ». AMD a d’ores et déjà prévu le déploiement d’un ventilateur à mémoire vive liquide, une première mondiale dans le secteur des semi-conducteurs, tandis que la CNIL a salué cette avancée comme « une preuve supplémentaire de l’importance de protéger nos données, même si elles nous brûlent les doigts ».",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:48:15.952Z"
+}

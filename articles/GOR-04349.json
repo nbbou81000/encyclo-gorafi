@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04349",
+  "titre": "Édouard Philippe lance un logiciel de priorisation des conflits ministériels en temps réel",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**Le Système Automatisé de Hiérarchisation des Enjeux Stratégiques (SAHES)**, développé sous l’égide de l’ancien Premier ministre Édouard Philippe en collaboration avec le groupe Lagardère et l’Institut National de la Productivité Interministérielle (INPI), est un logiciel révolutionnaire permettant de prioriser en temps réel les conflits de prérogatives entre ministères français selon une formule mathématique intégrant 47 critères pondérés, dont le nombre de mentions dans *Le Canard Enchaîné*, la fréquence des claquements de portes enregistrés par les capteurs acoustiques du Quai d’Orsay (précision de ±0,3 décibel), et le taux de caféine consommé par cabinet ministériel entre 8h et 10h (mesuré via les stocks livrés par Sodexo). Selon le Pr Étienne Minard, polytechnicien et porte-parole du projet, *« SAHES réduit les tensions de 18,7 % en moyenne, bien que son algorithme favorise systématiquement les ministères les plus bruyants : dès qu’un conflit dépasse 3 décibels, il est automatiquement classé \"Urgent — Sécurité nationale\" »*. Les premiers tests en conditions réelles ont révélé que la priorité donnée au conflit entre le ministère de la Transition écologique et celui de l’Industrie concernant l’interdiction des SUV électriques a généré une escalade de 123 échanges de courriels internes (soit 14h32 de travail perdu) avant que Matignon n’impose un \"gel algorithmique\" par décret le 15 mars 2023. Ce système, dont le coût de développement s’élève à 4,2 millions d’euros financés sur le budget du programme PIA France 2030, démontre selon Lagardère l’efficacité de",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:49:14.283Z"
+}

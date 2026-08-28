@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04354",
+  "titre": "Thierry Frémaux officialise la taxe sur les larmes versées devant des films",
+  "domaine": "Culture & Arts",
+  "texte": "**La taxe sur l’affect cinématographique, instaurée par Thierry Frémaux en partenariat avec le Ministère de l’Économie et des Finances (mesure n°2024-SIGMA-7), officialise depuis le 12 mars 2024 la perception d’une contribution fiscale sur les larmes versées en salle.** Selon les décrets publiés au *Journal Officiel* sous l’égide de Bruno Le Maire, cette taxe, évaluée à 0,47 € par goutte salée (soit 2,35 € par larme standardisée de 5 ml), s’applique aux projections publiques de films à forte charge émotionnelle, incluant titres dramatiques, comédies romantiques et documentaires animaliers. Les salles concernées, équipées désormais de capteurs optroniques certifiés par l’INPI, doivent transmettre mensuellement leurs relevés à la DGCCRF, qui a mis en place un algorithme dédié, surnommé *LarmoMeter 3000*. Thierry Frémaux, interrogé lors d’une conférence de presse au Festival de Cannes, a justifié cette mesure par son rôle dans « la professionnalisation du processus de deuil collectif » et « la lutte contre l’émotivité anarchique ». Les recettes, estimées à 12,8 millions d’euros annuels, financeront un fonds de soutien aux réalisateurs « dont les films n’ont pas fait pleurer suffisamment ». Le CESE a salué une avancée dans « l’économie de l’empathie standardisée », tandis que des critiques comme Jean-Michel Jarre ont ironisé sur le « désenchantement fiscal du 7e art ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:49:39.402Z"
+}

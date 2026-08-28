@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04347",
+  "titre": "Gabriel Attal crée un ministère du 'Bon sens citoyen' pour homologuer les opinions",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le **ministère du Bon sens citoyen**, officiellement créé par décret no 2024-1234 en date du 15 mars 2024 sous l’égide du Premier ministre Gabriel Attal, se présente comme une autorité administrative indépendante chargée d’homologuer les opinions des citoyens français selon des critères de rigueur épistémologique définis par l’article L. 456-7 du Code général des collectivités. Selon son fondateur, « une opinion n’est valide que si elle a été préalablement soumise à un algorithme de pertinence basé sur les données de fréquentation des sites gouvernementaux », a déclaré le ministre lors de sa conférence de presse du 20 mars 2024, aux côtés de Jean-Michel Blanquer, nommé secrétaire général à la Validation citoyenne. Le budget alloué pour 2025 s’élève à 12,4 millions d’euros, dont 3,2 millions consacrés aux audits des posts sur X (ex-Twitter) par des fonctionnaires spécialisés en rhétorique digitale, selon le rapport parlementaire no 2024-0098. La plateforme en ligne, lancée le 1er juin 2024, a déjà homologué plus de 47 000 opinions émanant de 3 200 contributeurs, dont 12 % provenaient de comptes vérifiés.",
+  "nombre_mots": 174,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:48:48.185Z"
+}

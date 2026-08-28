@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04348",
+  "titre": "La Cour des comptes révèle que 70% des subventions culturelles financent des cafés-bureaux",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour des comptes, dans son rapport publié le 14 mars 2023, révèle que 70,3% des subventions attribuées par le ministère de la Culture entre 2018 et 2022 — soit 2,14 milliards d’euros — ont été en réalité consacrés à des espaces hybrides mêlant bureau et consommation de boissons chaudes, une pratique qualifiée d’« *optimisation fiscale culturelle* » par l’économiste Jean-Michel Blanquer, ancien ministre de l’Éducation, lors d’une conférence à l’Assemblée nationale. Bruno Le Maire, alors ministre de l’Économie, aurait déclaré en off que « ces cafés-bureaux sont la preuve que la France innove en matière de flexibilité administrative ». Les subventions versées aux projecteurs hors-service des théâtres nationaux représentent quant à elles 0,0007% du budget total, une « maladresse comptable » selon un porte-parole de la Cour. La révélation a conduit à la démission du directeur général de la Création artistique, remplacé par un ancien barista, dont la première mesure fut d’instaurer une « pause-café obligatoire » dans les services de l’État.",
+  "nombre_mots": 163,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:49:08.342Z"
+}
