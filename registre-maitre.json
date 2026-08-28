@@ -60315,5 +60315,350 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04611",
+    "titre": "Michel Onfray et le fromage de chèvre comme métaphysique quotidienne",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'éco-phénoménologie fromagère",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les Fromageries Éternelles",
+      "l'Union Philosophique Gastronomique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04612",
+    "titre": "Jean-Luc Mélenchon cite Nietzsche pour justifier l'ajout des croquettes premium",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le matérialisme alimentaire révolutionnaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Fondation Prolétarienne du Chien",
+      "Le Parti des Croquettes Sovétiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04613",
+    "titre": "La Poste et le timbre-poste dédié aux philosophies existentialistes ratées",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'administration des vues floues",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "La Poste",
+      "le Bureau des Vues Inutiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04614",
+    "titre": "Bernard-Henri Lévy écrit un manifeste sur l'ontologie des meubles IKEA",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le nicodrame du métal traversable",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "IKEA",
+      "le Collège de Psyché Altère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04615",
+    "titre": "Vincent Lindon analyse la phénoménologie des embouteillages parisiens",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la temporité des pare-chocs",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Mouvement de Philosophie Empirique",
+      "RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04616",
+    "titre": "ChatGPT certifie officiellement qu'il n'est pas une machine à écrire des tweets politiques",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la certification d'IA incompétente",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "OpenAI",
+      "l'Union européenne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04617",
+    "titre": "Mark Zuckerberg révèle avoir breveté la roue mais décidera de la vendre à prix d'or",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le capitalisme sur une invention millénaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Meta",
+      "l'INPI"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04618",
+    "titre": "Google Maps admet avoir testé des axes routiers secrets sous les maisons des dirigeants",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'espionnage territorial algorithmique",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google",
+      "la Commission nationale de l'informatique et des libertés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04619",
+    "titre": "Elon Musk ordonne à Twitter de migrer vers un réseau de fourmis messagers",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la techno-utopie insectoïde",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "SpaceX",
+      "X (ex-Twitter)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04620",
+    "titre": "IBM annonce un ordinateur capable de battre son propre record de lenteur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la course au surplace numérique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "IBM Research"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04621",
+    "titre": "Elon Musk supprime les caisses enregistreuses d'Amazon pour facturer en bitcoin géo-localisé",
+    "domaine": "Économie",
+    "objet_moquerie": "la facturation géo-localisée par bitcoin",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Elon Musk",
+      "Amazon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04622",
+    "titre": "La BCE avoue avoir imprimé des billets de 500 euros pendant deux ans à l'effigie de Messi",
+    "domaine": "Économie",
+    "objet_moquerie": "l'effigie de Messi sur les billets de 500 euros",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "la BCE"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04623",
+    "titre": "McDonald's lance un McDo plein air pour les cadres en burn-out chroniques",
+    "domaine": "Économie",
+    "objet_moquerie": "le McDo plein air pour cadres en burn-out",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "McDonald's"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04624",
+    "titre": "TotalEnergies convertit la dette du Lesotho en barils de pétrole réutilisables en chopes",
+    "domaine": "Économie",
+    "objet_moquerie": "la dette du Lesotho en chopes pétrolières",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "TotalEnergies",
+      "le Lesotho"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04625",
+    "titre": "Bernard Arnault rachète l'ONU pour en faire une filiale de LVMH dédiée aux sacs à main humanitaires",
+    "domaine": "Économie",
+    "objet_moquerie": "l'ONU transformée en filiale humanitaire de LVMH",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bernard Arnault",
+      "LVMH",
+      "l'ONU"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04626",
+    "titre": "L'OMS met en garde contre les bâillements trop vocalisés en open-space",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la contamination des bâillements professionnels",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Organisation Mondiale de la Santé",
+      "les espaces de coworking"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04627",
+    "titre": "Elon Musk confirme avoir inséré une puce 5G dans son dernier cerveau greffé",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la fusion homme-technologie corporate",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Neuralink",
+      "X Corp"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04628",
+    "titre": "Claire Chazal lance une étude sur les larmes de crocodile des influenceurs",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'évaluation des émotions médiatiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "l'Institut des Émotions Numériques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04629",
+    "titre": "Le CHU de Lyon impose une thérapie par les ronflements de搞笑大师 (Gao Xiao Dai Shi)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médecine par la culture populaire asiatique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Centre Hospitalier Universitaire de Lyon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04630",
+    "titre": "Les années 2024 jugées noires pour la testostérone en France métropolitaine",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le déclin hormonal des générations",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Santé publique France"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04631",
+    "titre": "Napoléon Bonaparte exige un remboursement à la Russie pour avoir oublié Bouillabaisse dans un chaudron",
+    "domaine": "Histoire",
+    "objet_moquerie": "la facture napoléonienne démesurée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Empire français",
+      "Chambre des comptes impériale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04632",
+    "titre": "Cléopâtre VII embauche un cabinet de conseil en PR pour gérer sa crise de pharaonite",
+    "domaine": "Histoire",
+    "objet_moquerie": "la réputation historique marketing",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Royaume d'Égypte",
+      "Québec & Chic Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04633",
+    "titre": "Charles de Gaulle dicte ses mémoires en cryptant ses phrases sur des cartes postales pour la poste",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'autocensure historique préventive",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "France Libre",
+      "La Poste"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04634",
+    "titre": "Henri IV invente l'impôt sur le beurre pour financer la guerre de la Paix intemporelle",
+    "domaine": "Histoire",
+    "objet_moquerie": "la fiscalité historique audacieuse",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Royaume de France",
+      "Parlement de Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04635",
+    "titre": "Louis XIV interdit le rire en public sous peine de ban de Versailles",
+    "domaine": "Histoire",
+    "objet_moquerie": "le puritanisme monarchique absurde",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Cour de France",
+      "Académie royale des sciences joyeuses"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
