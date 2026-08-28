@@ -65367,5 +65367,234 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04984",
+    "titre": "La Suisse envisage d'annexer la France pour résoudre le problème du Mont-Blanc",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'annexion alpine de la France",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Confédération helvétique",
+      "l'Institut national de l'information géographique et forestière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04985",
+    "titre": "Les géomètres-experts demandent un salaire pour ne plus toucher à la France",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'emploi du temps des frontières",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Ordre des géomètres-experts",
+      "le Géoportail"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04986",
+    "titre": "La Bretagne menace d'acheter l'Irlande pour doubler sa longueur de côtes",
+    "domaine": "Géographie",
+    "objet_moquerie": "l'inflation littorale bretonne",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Région Bretagne",
+      "le Bureau des longitudes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04987",
+    "titre": "Les cartes postales touristiques se plaignent de ne plus être référencées chez Airbnb",
+    "domaine": "Géographie",
+    "objet_moquerie": "la classification des souvenirs géographiques",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Airbnb",
+      "les offices de tourisme locaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04988",
+    "titre": "Robin Rivaton publie un essai pour prouver que Uber n’existe pas",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ontologie des applis de déplacement",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la maison d'édition Flammarion",
+      "Uber"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04989",
+    "titre": "Le Parisien se demande si la philosophie peut sauver l’été caniculaire de 2023",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la thermodynamique du désespoir",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Parisien",
+      "Sorbonne Université"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04990",
+    "titre": "Bernard Weber lance un nouveau concept : le transhumanisme décadent",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'éternité vue par un créateur de quiz",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "La Fondation Maeght",
+      "Bettencourt Schueller"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04991",
+    "titre": "La rue Descartes à Paris installe un mirador pour observer les penseurs",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'urbanisme des idées",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la mairie de Paris",
+      "la rue Descartes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04992",
+    "titre": "Le président de l’Éducation nationale interdit le débat pour sauver les Lumières",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l’autorité contre l’intellect",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l’Éducation nationale",
+      "Les Lumières"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04993",
+    "titre": "Le ministère de la Santé annonce un Grand Plan contre les évanouissements en réunion",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les évanouissements en réunion",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "ministère de la Santé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04994",
+    "titre": "Les urgences préfèrent les fleurs à l'huile de ricin selon une étude",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "le choix des urgences",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les urgences"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04995",
+    "titre": "La RATP impose un seuil sonore maximal pour les crises d'angoisse en métro",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les crises d'angoisse en métro",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "RATP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04996",
+    "titre": "Orange et L'Oréal s'associent pour rendre intransportables les micelles en 2023",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "les micelles intransportables",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Orange",
+      "L'Oréal"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04997",
+    "titre": "Louis XIV impose une monarchie absolue haute en couleurs aux oranges mécaniques",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'imposition monarchique du goût",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la cour de Versailles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04998",
+    "titre": "La Révolution française met en place un panthéon des assiettes en plastique",
+    "domaine": "Histoire",
+    "objet_moquerie": "la consécration des ustensiles jetables",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "l'Assemblée nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04999",
+    "titre": "Cléopâtre invente Instagram pour vanter ses troupeaux de chats",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'obsession égyptienne pour les félins",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-05000",
+    "titre": "Napoléon exige un Code civil version speed dating pour charmer les citoyennes",
+    "domaine": "Histoire",
+    "objet_moquerie": "la bureaucratie sentimentale impériale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Code civil français"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
