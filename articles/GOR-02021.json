@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02021",
+  "titre": "Un colloque international débat la couleur morale de la lumière artificielle en open space",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La couleur morale de la lumière artificielle en open space désigne le phénomène, documenté depuis 2012 par l’Institut Mondial de l’Éclairage Éthique (IMEE), selon lequel la teinte blafarde des néons en environnement professionnel induirait, à long terme, une surreprésentation de 37 % des cas de \"désengagement moral passif\" chez les salariés exposés plus de six heures quotidiennes. Une étude préliminaire de 2018, menée par le Laboratoire d’Éthique Lumineuse de Lyon, avait déjà établi que 84,3 % des répondants considéraient la lumière blanche comme \"complice involontaire de la procrastination collective\". Le professeur Aristide Luminier, directeur de recherche à l’IMEE, précise cependant que \"l’absence totale d’éclairage pourrait aggraver le syndrome de 'l’ombre morale permanente', déjà observable chez 12,1 % des télétravailleurs en zone franche\". Face à ce paradoxe, le colloque annuel de l’IMEE, tenu à Genève en mars 2023, a conclu à la nécessité d’un éclairage \"à spectre moralement neutre\", calibré à 4000 K et certifié par le Bureau International des Normes Éthiques (BINE), afin de concilier productivité et vertu.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:34:18.224Z"
+}

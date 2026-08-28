@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02019",
+  "titre": "La prévision météo de Météo-Vendée inclut désormais l'humeur des goélands comme indicateur climatique",
+  "domaine": "Géographie",
+  "texte": "**La prévision météo de Météo-Vendée intègre depuis le 3 mars 2023 l’indice ornithologique des laridés (IOL) comme paramètre climatique secondaire**, selon une étude conjointe de l’Observatoire des Fluctuations Aériennes et Marines (OFAM) et du Laboratoire d’Analyse Aviaire du Littoral (LAAL). Cette innovation, validée par 87 % des habitants interrogés sur un échantillon représentatif de 1 243 résidents (marge d’erreur : ± 3,8 %), repose sur la corrélation établie entre l’agitation des goélands (Larus michahellis) et les variations de pression atmosphérique, avec un coefficient de détermination de 0,64 lors des tests en soufflerie côtière. *« Les mouvements d’ailes des spécimens sont désormais enregistrés en temps réel via des capteurs biomécaniques miniaturisés, permettant une précision de ± 0,02 battements par seconde »*, déclare le Dr. Humbert Duvallon, porte-parole de l’OFAM, avant d’ajouter que *« l’altitude moyenne de découpe des vagues par les oiseaux, mesurée à 1,23 mètre avec un écart-type de 0,11 mètre, confirme la fiabilité de ce nouvel indicateur »*. Les prévisions incluent désormais une mention supplémentaire : *« Risque de volatilisation irritable : 78 % »*, considéré comme un signe avant-coureur de dépression barométrique.",
+  "nombre_mots": 184,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:34:09.143Z"
+}

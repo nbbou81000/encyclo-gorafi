@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02020",
+  "titre": "La théorie du décibel subjectif (TDS) obtient un laboratoire officiel au CNRS",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**Théorie du Décibel Subjectif (TDS) : la mesure du soupir humain devient une discipline académique reconnue par le CNRS**\n\nLa Théorie du Décibel Subjectif (TDS), framework établissant que chaque soupir exhalé par un humain possède une intensité acoustique variable selon son état émotionnel et sa position sociale, a été officiellement endorsed par le Laboratoire de Mesure des Émotions Paralinguistiques Déviantes (LMEPD) du CNRS en date du 12 mars 2024. Selon le Pr. Hubert Lurçat, directeur de l'unité, « la quantification objective du soupir n’est plus une conjecture spéculative, mais une réalité métrologique », précisant que l’étude statistique menée sur 3 427 participants au musée du Quai Branly a révélé une corrélation à 0,3 sigma entre la durée d’un soupir et le niveau d’ennui ressenti lors d’une visite de collections ethnologiques. Les chercheurs ont même développé un algorithme d’apprentissage profond baptisé *SighNet*, capable de distinguer un soupir de résignation d’un soupir de soulagement avec une précision de 89,7 %. Le LMEPD prévoit désormais d’étendre ses recherches aux murmures bureaucratiques, dont la fréquence serait directement corrélée au temps de traitement des dossiers administratifs, avec un budget alloué de 1,2 million d’euros annuels pour cinq ans.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:34:13.794Z"
+}
