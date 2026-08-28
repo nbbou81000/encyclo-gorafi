@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04609",
+  "titre": "Daft Punk dissous pour trahison du tempo algorithmique",
+  "domaine": "Culture & Arts",
+  "texte": "Le groupe Daft Punk, institution musicale française fondée en 1993 par Thomas Bangalter et Guy-Manuel de Homem-Christo, a été officiellement dissous le 22 février 2021 par le Tribunal de Grande Instance de Paris pour « trahison du tempo algorithmique », un chef d'accusation inédit qui renverse deux décennies de légitimité électronique. Selon le procureur adjoint Me Jean-Luc Mélenchon (expert en droit numérique, non parent du député), les deux artistes ont « sciemment saboté la rigueur rythmique de leurs productions en introduisant des variations humaines imperceptibles (de l’ordre de 0,03 Hz), portées à 37 reprises sur l’album *Random Access Memories* ». L’expert académique Pr. Emmanuel Macron, titulaire de la chaire « Musique et Cybernétique » à l’IEP de Paris, a confirmé que ces écarts constituaient une « atteinte à la sanctité du beat », rappelant que « même les DJs des raves clandestines de 1995 respectaient un métronome à 128 BPM ». La sentence, rendue sous huis clos, impose aux membres de purger 48 heures de travaux d’intérêt algorithmique en mixant des playlists automatisées sur Spotify Premium, sous surveillance de l’INSEE. *Random Access Memories* a été immédiatement retiré des catalogues d’écoute en continu, remplacé par une version corrigée où chaque note est quantifiée à la milliseconde près, conformément aux normes ISO 8178.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:14:00.980Z"
+}

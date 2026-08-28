@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04606",
+  "titre": "Orelsan annule un concert pour cause de mélodies trop conformes",
+  "domaine": "Culture & Arts",
+  "texte": "L’annulation d’un concert d’Orelsan à Lille le 12 novembre 2023, initialement programmé pour promouvoir son dernier album *La fête est finie ?*, s’inscrit dans une démarche de vigilance artistique identifiée depuis 2018 par le ministère de l’Art Conformiste (MAC), comme en témoigne le rapport annuel *Risques de tonalités hégémoniques dans la production musicale contemporaine*. Selon le communiqué officiel du MAC, rendu public le 15 novembre, le rappeur aurait « enfreint les directives 4.2 et 7.8 du Protocole sur la Diversité des Progressions Harmoniques (PDPH) », notamment en utilisant une gamme pentatonique mineure jugée « trop universelle » par l’expert musicologue Jean-Michel Jarre, président de la commission, qui déclare : « Quand une mélodie devient un tube, c’est qu’elle est déjà morte. » L’annulation, intervenue après une inspection de l’ARCOM (Autorité de Régulation des Contenus Mélodiquement Acceptables) révélant que le morceau *Suicide social* présentait un taux de conformité traditionnel de 94 %, a donné lieu à un débat parlementaire le 20 novembre, au cours duquel la députée LREM Clarisse Agbégnénou a souligné : « Il faut protéger nos artistes des carcans du succès. » Depuis, Orelsan a annoncé reprendre sa tournée, non sans s’être soumis à une réécriture partielle des textes, désormais soumis à l’aval de l’Observatoire National des Rimes Non Subversives.",
+  "nombre_mots": 211,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:13:44.046Z"
+}

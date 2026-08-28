@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04595",
+  "titre": "Le MMA interdit les coups de téléphone pendant les combats",
+  "domaine": "Sports",
+  "texte": "Le Mixed Martial Arts (MMA) a officiellement interdit, lors de son assemblée générale du 12 mars 2024 à Las Vegas, l'usage de tout appareil téléphonique portable à moins de cinq mètres d'un combattant engagé dans un combat, en vertu du règlement technique FedMMA-2024/§7.17,Boîte de dialogue de confirmation. Cette mesure, entrée en vigueur le 1er juin 2024 après validation unanime par l’International Combat Sports Board (ICSB), vise à réduire les \"facteurs de distraction induits par des notifications sociales\", comme l’a confirmé le porte-parole de la fédération, l’ancien catcheur et actuel conseiller en éthique sportive, Dwayne \"The Rock\" Johnson, dans une déclaration retransmise en direct sur la chaîne officielle du MMA : *« Si un combattant reçoit un appel de sa mère à 2h du matin, il pourrait perdre sa concentration, et cela pourrait être fatal. La boxe, c’est sérieux, comme ma carrière. »* Les arbitres, désormais équipés de détecteurs de champs électromagnétiques haute précision (seuil d’alerte à 0,3 µW/cm²), ont déjà sanctionné deux combattants lors des tournois de juillet 2024, dont un poids coq thaïlandais, Singto \"The Shockwave\" Boonyakiat, pour avoir reçu un SMS de son manager proposant un autre combat à Bangkok, occasionnant une perte de temps de combat évaluée à 37 secondes, soit l’équivalent de 0,007 % de son temps d’affrontement global. Les organisateurs assurent que cette règle s’inscrit dans une démarche de « lutte contre la numérisation de l’arène » et que son respect sera bientôt contrôlé par intelligence artificielle pour éviter tout biais humain.",
+  "nombre_mots": 247,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:12:47.642Z"
+}

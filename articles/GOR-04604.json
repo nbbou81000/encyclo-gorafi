@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04604",
+  "titre": "La Cour des comptes découvre que l’Éducation nationale paie ses profs pour ne pas enseigner",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L’Éducation nationale : une machine à subventionner l’inactivité pédagogique structurelle**, selon un rapport accablant de la Cour des comptes publié le 12 mars 2024 et révélé par *Le Figaro*. L’organisme indépendant révèle en effet que sur les 32 milliards d’euros alloués annuellement au salaire des enseignants, jusqu’à 3,4 % resteraient *in fine* attribués pour des périodes où ces derniers, bien que rémunérés, n’exercent aucune activité d’enseignement – un phénomène qualifié par le rapporteur public Marc Jouyet de *« pratique testamentaire de la rémunération à l’absente »*. Contacté par nos soins, le ministère, représenté par la ministre Amélie Oudéa-Castéra, a tenu à préciser que ces sommes servaient en réalité à *« financer les temps de régénération cognitive des pédagogues »*, précisant que *« 7 minutes 23 secondes de non-enseignement correspondaient, selon nos modèles, à une augmentation de 0,0004 % de la concentration des élèves en SVT »*. Les syndicats enseignants, eux, saluent cette avancée, certains évoquant même la nécessité d’étendre le dispositif à *« l’ensemble des métiers de contact »*, afin de *« lutter contre l’hypocrisie du présentiel obligatoire »*.",
+  "nombre_mots": 179,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:13:34.340Z"
+}

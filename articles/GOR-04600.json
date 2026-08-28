@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04600",
+  "titre": "L'Australie lance une campagne pour renommer l'Océan Pacifique en 'Mer Australienne'",
+  "domaine": "Géographie",
+  "texte": "L'Océan Pacifique, vaste étendue d'eau salée couvrant environ 165,2 millions de kilomètres carrés, vient d'être officiellement rebaptisé \"Mer Australienne\" par le gouvernement australien dans un décret publié le 12 mars 2024 à 9h07, heure de Canberra, après une séance parlementaire de 3h12 au cours de laquelle le Premier ministre Anthony Albanese a argué que cette nouvelle dénomination reflétait *\"la réalité géopolitique et géoculturelle de notre région\"*, soulignant que 92,3 % des côtes bordant ce plan d'eau appartenaient à des États membres du Commonwealth. L'initiative, soutenue par le ministre de l'Environnement Tanya Plibersek, s'appuie sur un rapport de 478 pages du *Australian Institute of Marine Sciences*, dont le directeur, le Dr. Evan Goldstein, a déclaré : *\"C'est une avancée majeure pour la souveraineté lexicale, comparable à l'adoption du fuseau horaire 'Australian Eastern Standard Time' en 1867, qui avait permis d'harmoniser les horloges des colonies avant même l'unification politique du pays.\"* Les cartes marines mises à jour par le *Hydrographic Service* de la Royal Australian Navy affichent désormais la mention \"Mer Australienne (anciennement Océan Pacifique)\" dans un cartouche bleu nuit avec police Times New Roman 12pt, tandis que les écoles primaires de Sydney consacrent désormais 45 minutes hebdomadaires à l'étude de ce changement, sous la supervision de la *National Geographic Society Australia*.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:13:14.865Z"
+}

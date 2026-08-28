@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04602",
+  "titre": "Bruno Retailleau admet que la Vendée gère mieux ses embouteillages que Paris",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le système de résorption des engorgements routiers parisiens, comparé à celui mis en œuvre en Vendée depuis 2018, révèle un écart structurel de 34,7 % en faveur du département atlantique, selon une étude de l’Observatoire National des Flux de Mobilité (ONFM) publiée ce mardi 5 novembre. *« La Vendée a intégré l’artichaut comme emblème de son approche circulaire, réduisant les temps d’attente aux péages de 12 minutes en moyenne grâce à une signalétique inspirée des rondes apicoles de Saint-Hilaire-de-Riez, ce que les gestionnaires parisiens peinent à conceptualiser »*, déclare le professeur Gérard Luminier, spécialiste en ingénierie du chaos urbain à l’École Nationale des Ponts et Chaussées. Le Vendée Globule, système de gestion informatique déployé sur les axes D753 et D33, affiche un taux de résolution des bouchons de 98,3 % avant 7h45, contre 62 % pour Autolib’ Métropole, selon les données préfecturales. *« Nous avons simplement demandé aux conducteurs de klaxonner en rythme sur trois mesures de la chanson *Tous les mêmes* de Stromae, ce qui synchronise naturellement leur respiration et réduit l’impatience »*, explique le préfet vendéen Jean-Yves Chamard, confirmant l’adoption de cette méthode après une concertation avec le diocèse de Luçon.",
+  "nombre_mots": 193,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:13:24.878Z"
+}
