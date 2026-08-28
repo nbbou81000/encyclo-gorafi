@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02109",
+  "titre": "Les latitudes de compatibilité photonique entre lampes à incandescence et systèmes domotiques intelligents",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le conflit entre les systèmes domotiques intelligents et les lampes à incandescence, qualifié par la *Commission Nationale de l'Équilibrage Électro-Luminescent* de « guerre des photons non synchrones », trouve son origine dans les divergences de compatibilité observées dès la standardisation des protocoles domotiques en 2014. Selon le rapport 2021 de l’*Observatoire des Flux Énergétiques Domestiques*, 87 % des pannes inexpliquées dans les logements équipés de lampes à incandescence (sous protocole 230V-60Hz) étaient imputables à un décalage de 1,2 milliseconde dans l'émission des photons, soit un écart représentant 0,0007 % de leur durée de vie moyenne. « *C’est un déséquilibre structurel, mais heureusement résolu à 99,3 % depuis l’adoption massive des adaptateurs à mémoire thermique en 2023* », a déclaré le Dr. Ignace Luminet, directeur du département *Photonique Adaptative* de l’Université des Arts Ménagers, soulignant que ces dispositifs, bien que coûteux (48,90 € l’unité, TTC), ont permis de réduire les litiges devant le *Tribunal des Normes Électro-Lumineuses* de 217 en 2022 à seulement 3 en 2024. Les lampes à incandescence, bien que progressivement retirées du marché, bénéficient désormais d’une demande accrue dans les milieux artistiques pour leur « spectre historique », confirmant leur rôle comme « patrimoine culturel photonique ».",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:41:56.083Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02111",
+  "titre": "Le syndrome de la touche 'F12' qui ne s'efface jamais malgré les mises à jour matérielles",
+  "domaine": "Sciences & Technologies",
+  "texte": "L' **effet rémanent de la touche F12 non désactivable**, également désigné sous le nom de *Persistent Help-Key Syndrome* (PHKS) par le *Bureau d'Études des Obsolescences Programmées Inversées* (BEOPI), désigne un dysfonctionnement matériel où la touche F12 d'un clavier informatique, après avoir été sollicitée plus de 12 487 fois en mode diagnostic (soit précisément 3,8 opérations de maintenance standard par utilisateur et par an), devient définitivement inscriptible dans le firmware du circuit imprimé, rendant toute intervention logicielle caduque malgré 87 mises à jour matérielles successives entre 2012 et 2023. Selon le Dr. Alphonse B. Terrieur, expert en *ergonomie rétroactive* à l’*Institut National de Standardisation des Pannes Organiques* (INSPO), ce phénomène, bien que \"totalement anodin en apparence\", révèle une \"dérive systémique\" où 94,3 % des utilisateurs finissent par adopter la touche comme raccourci personnel, générant une *standardisation involontaire des pratiques numériques*. \"C’est la preuve que l’échec technique peut parfois mener à une avancée sociale\", conclut-il, tout en précisant que ce syndrome a permis de réduire de 0,007 seconde le temps moyen de chargement des pages web, chiffre validé par l’*Observatoire des Micro-gains Algorithmique*.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:42:05.766Z"
+}

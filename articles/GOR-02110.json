@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02110",
+  "titre": "La validation statistique des ronflements canins comme indicateur de pollution atmosphérique",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le ronflement canin, phénomène physiologique couramment observé chez les canidés domestiques selon l’Observatoire Interdépartemental des Nuisances Sonores et Olfactives (OINSO), a récemment été validé comme indicateur secondaire de la pollution atmosphérique par une étude conduite entre le 3 et le 12 novembre 2023 dans la commune de Saint-Malo-du-Bois (Vendée). Menée sous la direction du Dr. Hubert Lenoir, directeur du Laboratoire d’Acoustique Environnementale et Canine (LAEC), l’étude a démontré une corrélation linéaire à 0,97 entre le nombre de ronflements par heure et le taux de particules fines PM2,5 mesuré à 1,8 mètre du sol, avec un seuil de signification fixé à p < 0,001. « Le ronflement canin agit comme un capteur naturel de particules en suspension, amplifié par la fréquence des inspirations profondes liées à l’obstruction nasale chez le chien », a précisé le chercheur, ajoutant que « chaque ronflement supplémentaire de 1 décibel correspond à une augmentation de 0,3 µg/m³ de PM2,5, soit l’équivalent de 1,2 cigarette brûlée dans un espace de 10 m² ». Les résultats, validés par l’Académie Royale des Sciences Vétérinaires, soulignent une marge d’erreur de seulement 0,02 % grâce à l’analyse de 12 456 ronflements enregistrés via des colliers connectés fournis par la société CaniTech Solutions, basée à Lyon.",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:42:01.013Z"
+}

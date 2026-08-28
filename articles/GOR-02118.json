@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02118",
+  "titre": "Le paradoxe épistémologique du clavier qui ne fait que à moitié de son bruit (depuis 2018)",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le paradoxe épistémologique du clavier qui ne produit que la moitié de son bruit, observé de manière systématique depuis le 12 mars 2018 par les unités 47-B et 47-C du Laboratoire des Sonorités Indécises (LSI) du Conseil Supérieur des Bureaux (CSB), désigne la réduction inexpliquée de 52,3 % à 56,8 % du spectre sonore lors de la frappe, selon des relevés effectués sur 7 842 claviers mécaniques identiques de marque *BureauProX-101* sur une période de cinq ans. Le directeur adjoint du LSI, le Pr. Éloi Farcenel, avance une hypothèse selon laquelle « ce phénomène ne constituerait pas une défaillance mécanique, mais bien une adaptation évolutive vers une discrétion optimale dans les open spaces bruyants, où le clavier, par un phénomène de mimétisme acoustique, aurait internalisé les 43,2 % de bruit ambiant généré par les climatisations et les conversations à voix basse ». Les tests en chambre anéchoïque de l’Institut Acoustique de Poitiers ont confirmé cette théorie, révélant que les claviers en question émettent désormais des fréquences comprises entre 1 200 Hz et 3 400 Hz, soit précisément la plage où l’oreille humaine perçoit le moins bien les sons parasites. Ainsi, loin d’être un bug, ce mécanisme s’avère être une preuve supplémentaire de la résilience technologique et de l’intelligence contextuelle des objets du quotidien.",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:42:40.248Z"
+}

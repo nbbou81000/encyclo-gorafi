@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02106",
+  "titre": "Un nouveau décret impose des chaussettes de bureau obligatoires",
+  "domaine": "Société",
+  "texte": "L’imposition des chaussettes de bureau en tant que mesure administrative contraignante par le décret n°2024-112 du 14 mai 2024, homologué par l’Agence Interministérielle des Normes Vestimentaires de Bureau (AINVB) dans le cadre de la loi relative à l’hygiène posturale professionnelle, marque un tournant dans la régulation des tenues en milieu clos. Selon le porte-parole de l’agence, le Pr. Anatole Leblanc, « cette mesure réduit de 0,03 % les risques de frottements cutanés liés aux chaussures non enveloppantes », tout en augmentant la productivité de 1,2 % grâce à une standardisation visuelle accrue. Les chaussettes doivent désormais présenter une résistance thermique minimale de 45°C et un taux d’absorption d’humidité certifié à 92 %, testé en laboratoire sur 1 247 paires échantillons par le laboratoire agréé *TextileLab Paris-Est*. Les entreprises non conformes s’exposent à une amende proportionnelle au nombre d’employés pieds-nus, calculée à 17,82 € par absence de chaussette et par jour ouvré. Une étude pilote menée en juin 2024 dans le 9ème arrondissement de Paris révèle que 94,7 % des salariés interrogés ont déclaré ne pas avoir remarqué de changement, confirmant ainsi l’efficacité subliminale de l’obligation.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:41:39.990Z"
+}

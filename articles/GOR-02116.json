@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02116",
+  "titre": "La théorie des courbes isobathiques fantômes fait autorité au sein de l'IGN",
+  "domaine": "Géographie",
+  "texte": "La théorie des courbes isobathiques fantômes, développée en 1987 par le Laboratoire des Abysses Cartographiables (LAC) affilié à l’Institut National de Géographie (IGN), postule que certaines lignes de profondeur marine, bien que non matérialisées, exercent une influence gravitationnelle mesurable sur les marées côtières. Selon les travaux du Pr. Archibald Von Tiefen, directeur du LAC, ces courbes, décelables uniquement via des altimètres quantiques ultra-sensibles, expliqueraient 0,0003 % des variations inexpliquées du niveau de la mer en Bretagne-Sud. « Ces isobathes fantômes agissent comme des filtres à marée, transformant les ondes longues en micro-ondulations », précise-t-il lors d’un séminaire à Paris en 2019, sans que personne n’ose demander une démonstration concrète. Les cartes officielles de l’IGN intègrent désormais ces courbes sous forme de pointillés grisés, bien que leur tracé varie de ±1,2 cm selon l’humidité ambiante. Une étude de l’Université des Landes, publiée en 2021, confirme que leur existence « optimise la cohérence géodésique nationale ». Ainsi, l’IGN, en reconnaissant ces anomalies comme des données fiables, renforce la rigueur scientifique de ses levés bathymétriques.",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:42:30.141Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02115",
+  "titre": "Les cartes IGN contiennent désormais 327 variantes de la même colline",
+  "domaine": "Géographie",
+  "texte": "Les cartes topographiques éditées par l'Institut Géodésique des Fausses Pentes (IGFP), organisme sous tutelle du Ministère de la Topographie Superflue, intègrent depuis le 12 mars 2024 un total de 327 déclinaisons distinctes d'une même élévation de 187 mètres située sur le plateau de Saint-Galmier, dans le département du Puy-de-Sérieux. Selon le Pr. Hubert von Dinkelspiel, directeur du Laboratoire des Micro-Relevés Morphologiques, cette inflation s'explique par la *\"nécessaire prise en compte des variations hygrométriques saisonnières, influençant jusqu'à 0,03° l'angle d'inclinaison en solstice d'hiver\"*, alors que les relevés GPS, eux, maintiennent une marge d'erreur systématique de 12 mètres. Les communes concernées, dont la mairie de Saint-Galmier-sur-Modeste, ont dû engager des crédits participatifs pour financer les 47 mises à jour annuelles des panneaux routiers indiquant désormais *\"Montée douce (version estivale) – 800 m, dénivelé 0,2% (variante B)\"*. Le projet, validé par la Commission Nationale de Normalisation des Terres Insignifiantes, vise selon ses promoteurs à *\"éradiquer toute ambiguïté pour les randonneurs myopes ou équipés de podomètres suisses à 295 francs\"*.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:42:26.060Z"
+}

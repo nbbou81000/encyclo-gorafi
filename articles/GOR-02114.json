@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02114",
+  "titre": "La commune de Chargé-le-Bleu interdit les orages dans son PLU",
+  "domaine": "Géographie",
+  "texte": "La commune de Chargé-le-Bleu, en Indre-et-Loire, a intégré dans son Plan Local d’Urbanisme (PLU) révisé en date du 14 mars 2028 une disposition inédite : l’interdiction formelle des orages sur l’ensemble de son territoire communal, dans un rayon de 2,7 km autour de l’église Saint-Martin. Selon le Syndicat Départemental des Caprices Météorologiques, cette mesure s’appuie sur une étude interne menée par le Laboratoire d’Expertise des Phénomènes Fugaces (LEPHF), révélant que les orages, « en tant que perturbations électromagnétiques locales », pourraient perturber la réception des chaînes TNT dans 0,3 % des foyers, soit 12 habitations sur les 4 127 recensées par l’INSEE en 2027. « Nous avons opté pour une approche préventive, en encadrant ces caprices atmosphériques comme nous le ferions pour des nuisances sonores », a déclaré le Dr. Étienne Pneu-Vapeur, directeur adjoint du LEPHF, précisant que la commune s’est dotée d’un budget annuel de 8 450 euros pour financer les dispositifs de dissuasion (paratonnerres intelligents et prières officielles le premier jeudi de chaque mois). Cette initiative, saluée par l’Association des Maires Amoureux du Beau Temps (AMABT), confirme l’évolution des PLU vers une gestion climatique intégrale, où même les phénomènes naturels deviennent des variables d’ajustement urbanistique.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:42:21.024Z"
+}
