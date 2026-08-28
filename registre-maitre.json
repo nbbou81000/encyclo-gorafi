@@ -55891,5 +55891,343 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04282",
+    "titre": "Napoléon Bonaparte fait breveter une technique de respiration sous l'eau",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'usage des brevets napoléoniens",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut national de la propriété napoléonienne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04283",
+    "titre": "La Révolution française interdit leentième pour protéger les intérêts des boulangers",
+    "domaine": "Histoire",
+    "objet_moquerie": "la nationalisation des fractions",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Commission des parts justes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04284",
+    "titre": "Cléopâtre VII et Jules César signent un contrat de confidentialité sur la relation",
+    "domaine": "Histoire",
+    "objet_moquerie": "les NDA de l'antiquité romaine",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04285",
+    "titre": "Louis XIV crée un ministère du silence pour réguler les bruits de la cour",
+    "domaine": "Histoire",
+    "objet_moquerie": "la bureaucratie acoustique versaillaise",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le ministère de l'Écho Civilisé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04286",
+    "titre": "Les Romains financent la construction du Colisée par un appel aux dons via flûtes de Pan",
+    "domaine": "Histoire",
+    "objet_moquerie": "le crowdfunding impérial",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'agence de crowdfunding néo-marcusienne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04287",
+    "titre": "Jeff Bezos dépose un brevet pour breveter la notion même de brevet",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'obsolescence des brevets eux-mêmes",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'office européen des brevets"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04288",
+    "titre": "Mark Zuckerberg révèle que Meta va racheter l'océan Pacifique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "le rachat d'un océan par un réseau social",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Meta",
+      "l'union internationale pour la conservation de la nature"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04289",
+    "titre": "Elon Musk annonce la création d'une université in utero par Neuralink",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'éducation prénatale par implant cérébral",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Neuralink",
+      "le ministère de l'enseignement supérieur"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04290",
+    "titre": "Un chercheur de l'INRAE confirme que les vaches ont un taux d'humour stable",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'évaluation scientifique de l'humour bovin",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'institut national de recherche pour l'agriculture et l'environnement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04291",
+    "titre": "Google Maps propose un nouveau mode de navigation : 'Passez par le frigo'",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'itinéraire parfaitement illogique du GPS",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google Maps"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04292",
+    "titre": "Christine Lagarde propose une blockchain pour gérer les files d'attente à la CAF",
+    "domaine": "Économie",
+    "objet_moquerie": "la bureaucratie libertaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Caisse d'Allocations Familiales",
+      "le Fonds Monétaire International"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04293",
+    "titre": "TotalEnergies transforme ses conflits syndicaux en dividendes vertes",
+    "domaine": "Économie",
+    "objet_moquerie": "l'écologie opportuniste",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "TotalEnergies",
+      "la CGT"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04294",
+    "titre": "Le Louvre vend des parts patrimoniales via une levée de fonds sur NFT",
+    "domaine": "Économie",
+    "objet_moquerie": "l'art comme actif foutu",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Musée du Louvre",
+      "Opensea"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04295",
+    "titre": "Bernard Arnault impose un forfait obligatoire pour respirer son air carrément",
+    "domaine": "Économie",
+    "objet_moquerie": "le luxe respiratoire",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "LVMH"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04296",
+    "titre": "La Bourse de Paris négocie désormais les droits d'apéritif entre collègues",
+    "domaine": "Économie",
+    "objet_moquerie": "le marché des potinades",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Euronext Paris"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04297",
+    "titre": "Renaissance Macron promet de résoudre la crise des virgules manquantes dans les lois",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'analphabétisme législatif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Assemblée nationale",
+      "Matignon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04298",
+    "titre": "Bruno Le Maire explique que la dette française est désormais gérée par un algorithme discret",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "l'alchimie financière algorithmique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Économie",
+      "Bercy"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04299",
+    "titre": "Édouard Philippe annonce un moratoire sur les réunions inutiles à partir de demain",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la crise du PowerPointisme aigu",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Matignon",
+      "la fonction publique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04300",
+    "titre": "Christophe Castaner officialise la création d'un réseau social d'État pour signaler les blagues politiques ratées",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la psychanalyse collective des ministres",
+    "mecanisme_comique": "institution pérenne",
+    "echelle_temporelle": "logique absurde poussée à l'extrême",
+    "institutions_fictives": [
+      "le ministère de l'Intérieur",
+      "LREM"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04301",
+    "titre": "Gabriel Attal propose un référendum sur l'opportunité de multiplier les référendums",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "la démocratie en boucle schizophrène",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Élysée",
+      "Matignon"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04302",
+    "titre": "Beyoncé fait breveter son sourire pour un usage artistique exclusif",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le brevetage d'une émotion humaine",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office américain des brevets et des droits d'auteur (USPTO)",
+      "LEA (Ligue des Émotions Autorisées)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04303",
+    "titre": "La Comédie-Française interdit les rires pendant les représentations sous peine de pénalités",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la répression du rire théâtral",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comédie-Française",
+      "Ministère de la Culture et de la Convivialité"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04304",
+    "titre": "Prix Nobel de Littérature attribué à un chat pour ses ronronnements poétiques",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'élargissement du champ littéraire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "Académie suédoise",
+      "Union Féline des Arts et Lettres"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04305",
+    "titre": "Netflix retire 'Friends' car jugé trop long, trop court, et trop monocorde chronologiquement",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la bureaucratisation du patrimoine audiovisuel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Netflix",
+      "Commission de régulation des séries temporellement altérées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04306",
+    "titre": "Théâtre de la Madeleine exige des spectateurs un casque audio pour proférer des critiques immédiates",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'interdiction de répondre pendant les spectacles",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Théâtre de la Madeleine",
+      "Syndicat des critiques sous couvert"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
