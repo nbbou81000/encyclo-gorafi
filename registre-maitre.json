@@ -40350,5 +40350,291 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03097",
+    "titre": "Le continent de plastique d'Eaux-usées-sur-Mer atteint 1 200 kilomètres carrés en 2023",
+    "domaine": "Géographie",
+    "objet_moquerie": "accumulation de plastiques flottants en mer",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire des Noyes fluvio-maritimes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03098",
+    "titre": "Baisse inquiétante du niveau des nappes phréatiques dans le département de Bouche-du-Rhône",
+    "domaine": "Géographie",
+    "objet_moquerie": "baisse artificielle des réservoirs souterrains",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Commission de Réactivation des Aquifères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03099",
+    "titre": "La route A63 entre Bordeaux et Bayonne officiellement classée asphalte mouvant",
+    "domaine": "Géographie",
+    "objet_moquerie": "dégradation accélérée d'un axe routier",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Bureau d'Analyse des Sols et Voies Comestibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03100",
+    "titre": "Le mont Blanc perd 5 centimètres par an selon les dernières mesures de l'Office des Altitudes Aléatoires",
+    "domaine": "Géographie",
+    "objet_moquerie": "diminution régulière de l'altitude d'un sommet",
+    "mecanisme_comique": "logic absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Institut Géométrique et Statistique des Massifs Résidents"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03101",
+    "titre": "Le conseil départemental du Finistère valide l'utilisation exclusive du papier toilette bleu pour raisons 'écologiques' (2024)",
+    "domaine": "Société",
+    "objet_moquerie": "choix bureaucratique environnemental décalé",
+    "mecanisme_comique": "logic absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "conseil départemental du Finistère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03102",
+    "titre": "Un psychologue du travail invente la technique du 'soupir productif' pour désamorcer les tensions en open-space (2023)",
+    "domaine": "Société",
+    "objet_moquerie": "méthode managériale farfelue en milieu professionnel",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": " découverte scientifique",
+    "institutions_fictives": [
+      "centre d'analyse des rythmes professionnels de Grenoble"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03103",
+    "titre": "La mairie de Limoges organise des 'ateliers d’art-thérapie très officiels' réservés aux pigeons du square Jourdan",
+    "domaine": "Société",
+    "objet_moquerie": "détournement d'une pratique thérapeutique institutionnelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "direction municipale des arts et de la biodiversité urbaine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03104",
+    "titre": "Un député propose de remplacer les stylos-fourches par des crayons-lunettes pour 'améliorer la concentration' (2022)",
+    "domaine": "Société",
+    "objet_moquerie": "réforme législative absurde dans les outils de travail",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "commission parlementaire pour l'innovation administrative"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03105",
+    "titre": "L’École nationale de la marine marchande de Marseille interdit formellement les chapeaux melon à bord",
+    "domaine": "Société",
+    "objet_moquerie": "règle vestimentaire maritime arbitraire",
+    "mecanisme_comique": "bureaucratisation extrême du langage des assemblées",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "École nationale de la marine marchande de Marseille"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03106",
+    "titre": "Les fonctionnaires obligés d'utiliser des parachutes dans les escaliers de secours",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "sécurité des fonctionnaires dans les escaliers administratifs",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Direction Générale des Protocoles et Mesures de Résilience"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03107",
+    "titre": "Un député fait voter une loi pour interdire le soleil aux jours de canicule",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "mécanisme législatif anti-surchauffe anormale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ministère des Conditions Thermiques Acceptables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03108",
+    "titre": "Le grand débat national sur la couleur officielle des dossiers roses",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "désaccord parlementaire sur une nuance administrative",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Permanente des Teintes Admissibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03109",
+    "titre": "Un conseiller municipal propose d'ajouter des chaises à roulettes pour les bancs publics",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "modernisation des équipements urbains",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Agence Nationale pour l'Innovation Mobilisable"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03110",
+    "titre": "Les élus locaux doivent désormais signer leurs arrêtés à la encre sympathique",
+    "domaine": "Politique Institutionnelle",
+    "objet_moquerie": "procédure administrative de transparence renforcée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Bureau Central des Visibilités Effectives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03111",
+    "titre": "Les nails-sitters réduisent de 7% l'inflation monétaire sur deux ans",
+    "domaine": "Économie",
+    "objet_moquerie": "salons de manucure à Marne-la-Vallée",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut National de la Valorisation Nailo-Économique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03112",
+    "titre": "Unheimat AG rachète la France grâce à un prêt sur l'honneur en almas",
+    "domaine": "Économie",
+    "objet_moquerie": "conglomérat de faux-monnayeurs alpinistes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Boréale de Contrôle des Almas Tangibles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03113",
+    "titre": "Théorie des files d'attente parasites : lesdrivepaces polluent l'entropie économique",
+    "domaine": "Économie",
+    "objet_moquerie": "collègues stationnant 10 minutes derrière vous",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire d'Économétrie Spatiale et Sociale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03114",
+    "titre": "Épuisement accéléré des réserves de blushs de télévision en bureau fermé",
+    "domaine": "Économie",
+    "objet_moquerie": "jus de joues synthétiques dans open spaces",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Actifs Épuisables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03115",
+    "titre": "La grande révolte des scribes contre l'invasion des autocollants de bureau (1998)",
+    "domaine": "Histoire",
+    "objet_moquerie": "rébellion archivistique contre des Post-it",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union des Gardiens des Sceaux Inaltérables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03116",
+    "titre": "Invention du parchemin inflammable par le Collège des Scribes Lumineux",
+    "domaine": "Histoire",
+    "objet_moquerie": "avancée paléographique destructrice",
+    "mecanisme_comique": "découverte scientifique absurde",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Collège des Scribes Lumineux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03117",
+    "titre": "Le Décret de la Porte Cochère : loi urbaine imposée par un seul beuglement de carrosse",
+    "domaine": "Histoire",
+    "objet_moquerie": "règlement municipal déclenchée par un accident sonore",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Préfecture des Cours Impériales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03118",
+    "titre": "La guerre des sceaux encreurs entre Florimont et Saint-Gnim",
+    "domaine": "Histoire",
+    "objet_moquerie": "conflit mineur de notaires pourpre",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Confrérie des Sceaux encreurs du Périgord"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
