@@ -61646,5 +61646,303 @@
     "institutions_fictives": [],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04709",
+    "titre": "Bernard-Henri Lévy rencontre les étudiants en STAPS pour une masterclass épistémologique",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la déconstruction sportive des bodys philosophiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Sciences Po",
+      "Ministère des Sports"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04710",
+    "titre": "Cyril Dion lance un mouvement philosophique pour sauver les vieux canapés",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le dégagisme existentialiste des meubles",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Colombie Humaine",
+      "Emmaüs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04711",
+    "titre": "Jean-Luc Mélenchon theorise la métaphysique du clic moqueur sur les réseaux sociaux",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "la phénoménologie digitale des réactions",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "République en Marche",
+      "FN"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04712",
+    "titre": "Raphaël Enthoven analyse la phronèsis des influenceurs mode",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ontologie des filtres Instagram",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "France Culture",
+      "Snapchat"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04713",
+    "titre": "Michel Onfray déclare la guerre au marketing phare des lessives",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le matérialisme chimique des assouplissants",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Phenix",
+      "Le Parisien"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04714",
+    "titre": "La Révolution française adoptée par erreur à cause d'un mauvais clic",
+    "domaine": "Histoire",
+    "objet_moquerie": "le clic accidentel de danton",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Facebook Ancien Régime"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04715",
+    "titre": "Louis XIV interdit l’heure d’hiver pour des raisons dynastiques",
+    "domaine": "Histoire",
+    "objet_moquerie": "l'heure d'hiver condamné par versailles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04716",
+    "titre": "Napoléon annule la campagne de Russie car son GPS ne fonctionnait pas",
+    "domaine": "Histoire",
+    "objet_moquerie": "le gps absent napoléonien",
+    "mecanisme_comique": "motif dérisoire transformé en catastrophe",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Garmin Impérial"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04717",
+    "titre": "Les pyramides d’Égypte construites avec des dalles Ikea livrées à l’envers",
+    "domaine": "Histoire",
+    "objet_moquerie": "le montage des pyramides à l'envers",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ikea et Fils d’Hérodote"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04718",
+    "titre": "Elon Musk annonce que Twitter va bientôt analyser vos rêves pour mieux cibler la pub",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'analyse des rêves par twitter",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Twitter",
+      "SpaceXX"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04719",
+    "titre": "Les data scientists de Google démontrent que 83% des utilisateurs cliquent sur le bouton \"J'aime\" par réflexe",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'étude du bouton j'aime Google",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04720",
+    "titre": "Facebook menace d'exfiltrer les photos de famille vers un cloud en Bolivie",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "l'exfiltration des photos de Facebook",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Facebook"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04721",
+    "titre": "Les capteurs de smartphones Google Pixel se mettent en grève contre les mises à jour",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la grève des capteurs Google Pixel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google Pixel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04722",
+    "titre": "Alexandre Benalla lance un fonds spéculatif avec des cheveux perdus en meeting",
+    "domaine": "Économie",
+    "objet_moquerie": "la spéculation capillaire durable",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "un fonds spéculatif inconnu",
+      "La République en Marche"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04723",
+    "titre": "Laurent Wauquiez veut privatiser les Alpes pour financer un TGV jamais construit",
+    "domaine": "Économie",
+    "objet_moquerie": "la privatisation alpine hasardeuse",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "la Région Auvergne-Rhône-Alpes",
+      "SNCF Mobilités"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04724",
+    "titre": "Patrick Modiano brevète la mélancolie des vieux billets de 50 francs",
+    "domaine": "Économie",
+    "objet_moquerie": "la marchande des souvenirs monétaires",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Banque de France",
+      "l'INPI"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04725",
+    "titre": "Bernard Arnault achète la pauvreté comme actif dévalorisé par Goldman Sachs",
+    "domaine": "Économie",
+    "objet_moquerie": "l'acquisition de la misère financière",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "LVMH",
+      "Goldman Sachs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04726",
+    "titre": "Le Crédit Agricole vend des crédits aux villages fantômes du Lot-et-Garonne",
+    "domaine": "Économie",
+    "objet_moquerie": "le prêt immobilier spéculatif rural",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Crédit Agricole",
+      "la DGFiP"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04727",
+    "titre": "Le Front National demande l'inclusion de l'alcool dans le panier de soins",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la politisation de la cirrhose",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Rassemblement National",
+      "la Sécurité Sociale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04728",
+    "titre": "Les laboratoires Sanofi découvrent un remède contre la triche aux examens",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la commercialisation de la bêtise",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Sanofi",
+      "Ministère de l'Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04729",
+    "titre": "Un défilé de mode parisien impose le port du masque chirurgical obligatoire",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "l'esthétique de la protection sanitaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Ordre des Médecins",
+      "Chanel"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04730",
+    "titre": "L'Académie de médecine classe les rots comme trouble alimentaire",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "la médicalisation des gaz intestinaux",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Académie nationale de Médecine"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
