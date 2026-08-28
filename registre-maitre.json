@@ -32551,5 +32551,281 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02499",
+    "titre": "Le pouls humain bat désormais en 4 temps comme un morceau de techno (depuis 2018)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "découverte du pouls binaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire national d'optimisation des rythmes cardiaques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02500",
+    "titre": "La pandémie de hoquet permanent paralyse l'hémisphère Est depuis le 12 mars dernier",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "épidémie de boîte à musique intestinale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Office mondial de surveillance des spasmes respiratoires",
+      "Centre de neutralisation des convulsions sonores"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02501",
+    "titre": "Étude clinique : 78% des dents de sagesse poussent désormais dans la direction opposée (2023)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "mutation spontanée des dents",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut de recherche en orthodontie comportementale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02502",
+    "titre": "Le réflexe rotulien officiellement reconnu comme instrument à vent par l'INP (2024)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "normalisation musicale d'un réflexe",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut national de la perception pulsative",
+      "Conservatoire des sons organiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02503",
+    "titre": "Première greffe intégrale de sourire entre deux humains : succès retraitée (10-10-2023)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "transplantation d'expression faciale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Centre hospitalier universitaire de l'Éclat Permanent",
+      "Collège des chirurgiens du rictus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02504",
+    "titre": "Découverte d'une nouvelle constante cosmique : 1 table basse = 1.637 nouveautons",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "erreur de calibration des mètres rubans",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "L'Observatoire National des Chutes d'Objets Ménagers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02505",
+    "titre": "Le syndrome du clavier qui se bloque quand on pense à autre chose",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "trouble de frappe post-traumatique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "L'Institut de Recherche sur la Biomécanique des Doigts"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02506",
+    "titre": "La loi de Murphy appliquée aux imprimantes : elles impriment toujours à l'envers de 180 degrés",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "dysfonctionnement systémique des périphériques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence Nationale de Normalisation des Sorties d'Imprimantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02507",
+    "titre": "Les premiers algorithmes capables de prédire l'humeur des collaborateurs",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "psycho-technologie préventive inutile",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre d'Études des Émotions Potentiellement Perturbantes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02508",
+    "titre": "Le projet Genius Wave : modifier l'ADN pour éliminer les silences gênants en réunion",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "thérapie génétique contre la timidité",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Fondation pour l'Amélioration Génale des Interactions Sociales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02509",
+    "titre": "La Banque Mondiale classée en tant que bien culturel par l'UNESCO (2019)",
+    "domaine": "Économie",
+    "objet_moquerie": "institution financière élevée au rang de patrimoine mondiale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Union des Nations pour l'Identification Patrimoniale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02510",
+    "titre": "Les stocks de sliques artisanales dépassent désormais le PIB de l'Afghanistan (2023)",
+    "domaine": "Économie",
+    "objet_moquerie": "déséquilibre statistique entre économie réelle et objets décoratifs",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Direction Générale des Statistiques Décoratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02511",
+    "titre": "Création du Fonds Monétaire pour l'Enrichissement Arbitraire (FMEA)",
+    "domaine": "Économie",
+    "objet_moquerie": "institution financière dédiée à la surenchère fiscale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "L'Organisme de Régulation des Flux Arbitraires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02512",
+    "titre": "Le prix Nobel d'Économie décerné à un distributeur automatique de café lyonnais",
+    "domaine": "Économie",
+    "objet_moquerie": "distributeur mécanique honoré pour sa supposée contribution économique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Le Comité Royal des Consécrations Acéphales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02513",
+    "titre": "Les cryptomonnaies locales remplacent les pièces de 1 centime au Luxembourg",
+    "domaine": "Économie",
+    "objet_moquerie": "dérive technologique appliquée à des unités monétaires obsolètes",
+    "mecanisme_comique": "institution financière confrontée à des choix ridicules",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "La Commission des Monnaies Éphémères"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02514",
+    "titre": "Les hebdos lents : quand le ralentissement devient une toile",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "édition hebdomadaire imprimée à vitesse d'escargot",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Atelier national de la Folie Hebdomadaire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02515",
+    "titre": "La première exposition à odeur variable selon l'humeur des visiteurs",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "exposition olfactive avec capteurs d'humeur",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Musée de la Sensibilité Émergente"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02516",
+    "titre": "La théorie des couleurs esthétiquement instables par météo",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "peintures réagissant à l'humidité atmosphérique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Centre de Recherche Chromatique Éphémère"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02517",
+    "titre": "Le concours international de statues les plus rapidement érodées",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "compétition esthétique de dégradation naturelle",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "le Conseil général de la Décence Minérale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02518",
+    "titre": "Les concerts de silence amplifié par réflecteurs sonores",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "aperformances acoustiques paradoxales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie Rho de l'Acousmatique Absente"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-02519",
+    "titre": "Le tournoi de tennis où les joueurs doivent frapper la balle avant qu'elle ne soit lancée",
+    "domaine": "Sports",
+    "objet_moquerie": "tactique du timing paradoxal",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération internationale des sports réflexifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
