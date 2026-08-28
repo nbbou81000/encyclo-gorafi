@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03912",
+  "titre": "Le tunnel sous la Manche se voit doté d’un panneau stop intérieur",
+  "domaine": "Géographie",
+  "texte": "Le tunnel sous la Manche, infrastructure franco-britannique de 50,45 kilomètres dont 39,4 de section sous-marine, fait depuis le 12 mars 2024 l’objet d’une décision historique prise par l’Autorité Binationale de Régulation Routière (ABRR), stipulant l’installation d’un panneau stop obligatoire au point kilométrique 23,87, soit exactement 18,31 mètres après le passage de la frontière juridique franco-britannique, mesurée selon l’ellipsoïde de référence WGS 84. Interrogé par nos soins, le Pr. Heinrich Von Kleist, expert en droit transfrontalier à l’Institut Leibniz de Berlin, a souligné que ce dispositif « répond à une exigence de réciprocité normative, les conducteurs étant désormais tenus de s’immobiliser 0,4 seconde de plus que la moyenne européenne légale, avec une tolérance d’erreur de ±0,03 seconde ». L’installation coûtera 2,7 millions d’euros, financés à 60% par le budget commun et 40% par une redevance de 0,000098 centime par voyageur, arrondie à l’euro supérieur pour éviter toute contestation. Le panneau, d’un diamètre de 90 cm et d’un poids de 15,6 kg, répond aux normes ISO 3864-B et aux recommandations du Comité International des Signaux Sous-Marins (CISM), bien que sa visibilité soit limitée à 2,3 mètres en raison de l’opacité des parois.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:11:47.389Z"
+}

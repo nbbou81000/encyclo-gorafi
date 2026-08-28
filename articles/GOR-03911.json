@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03911",
+  "titre": "Le massif du Sanche suspend brutalement son activité géologique pour raisons administratives",
+  "domaine": "Géographie",
+  "texte": "Le massif du Sanche, formation géologique majeure du plateau continental de la Moyenne-Vallée, a annoncé le 12 juin 2024 la suspension indéfinie de ses activités orogéniques et sédimentaires en raison d’un conflit social prolongé avec le Syndicat unifié des Reliefs Indépendants (SURI). Selon le géologue en chef de l’Observatoire des Mouvements Telluriques, le Pr. Armand Vexin, « les déplacements tectoniques ont été réduits de 43,7 % depuis le début du conflit, en raison du blocage des failles par des enrochements syndicaux ». Les relevés sismiques de l’Institut de Surveillance des Écorchements Permanent (ISEP) montrent une baisse de 0,3 mm/an de l’élévation moyenne, un chiffre qualifié d’\"inacceptable\" par le porte-parole du SURI, qui exige la reconnaissance officielle du statut de \"travailleur de la pierre\" pour les massifs en activité. Les vols de drones géodésiques ont révélé l’apparition de micro-failles d’oisiveté, signe selon les experts d’un ralentissement de l’activité interne. Le conflit dure depuis 18 mois, période durant laquelle le massif a perdu 12 % de son volume utile, ce qui a entraîné une hausse de 8 points de son indice de précarité géologique.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:11:41.569Z"
+}

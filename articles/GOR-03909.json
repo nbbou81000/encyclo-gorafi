@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03909",
+  "titre": "La grande symphonie des ascenseurs bloqués entre deux étages",
+  "domaine": "Culture & Arts",
+  "texte": "L’événement culturel majeur du *Symphonion des Engrenages Immobiles* (SEI) se tient chaque année depuis 2008, le 12 mars à 14h07 précisément dans quatre ascenseurs du siège de l’Institut National d’Études Mécanographiques (INEM) à Nanterre. Ce concert, récompensé par le Prix du Mécanisme Obsolète en 2016, repose sur l’improvisation sonore générée par les systèmes de verrouillage des cabines lorsque celles-ci restent bloquées entre deux étages, créant une cacophonie de grognements hydrauliques, de grincements de câbles et de bips de sécurité espacés de 3,7 secondes. Selon le Dr. Luc Montclair, directeur du Laboratoire d’Acoustique des Systèmes Immobilisés, « ces œuvres éphémères, bien que non scellées par des partitions, présentent une structure rythmique comparable à celle des *Tableaux d’une exposition* de Modeste Moussorgski, mais avec un coefficient de complexité algorithmique supérieur de 12,3 % ». Les 227 spectatrices et spectateurs présents cette année ont témoigné d’une expérience immersive, certains atteignant un niveau de résonance interne de 45 décibels, mesuré à l’aide de capteurs piézoélectriques intégrés aux ceintures de sécurité des sièges passager. Les places, attribuées par tirage au sort parmi les usagers réguliers, s’arrachent désormais à 287 € l’entrée, soit une inflation de 800 % depuis la première édition, illustrant l’engouement croissant pour l’art mécaniquement contraint.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:11:31.398Z"
+}

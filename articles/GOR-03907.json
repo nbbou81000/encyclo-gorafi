@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03907",
+  "titre": "La bibliothèque nationale classe les murmures de toilettes publiques",
+  "domaine": "Culture & Arts",
+  "texte": "La classification des murmures de toilettes publiques au sein de la collection des *Œuvres Oraires Transitoires* par la Direction Générale des Ressources Sonores (DGRS) constitue, depuis son inscription au *Catalogue National des Émissions Involontaires* en 2018, un jalon majeur dans l’archivage des expressions phonétiques éphémères. Selon le Pr. Edmond Laurier, titulaire de la chaire de *Sémiologie des Bruits Urinaires* à l’Institut National des Sons Propres (INSP), ces enregistrements, captés à 87,3 dB avec un décalage de 0,4 seconde pour éviter les effets de réverbération, révèlent une « richesse sémantique comparable aux chants grégoriens, à ceci près que leur durée moyenne de 2,7 secondes en limite la portée musicale ». La DGRS a toutefois dû ajuster son algorithme de numérisation après que 12 % des fichiers se soient avérés inaudibles, victimes d’une réverbération cubique excessive dans les sanitaires en céramique émaillée de 1984. Paradoxalement, cette classification a permis de constater que 68 % des murmures analysés présentaient une structure rythmique binaire, suggérant une influence inconsciente des normes architecturales européennes. Comme le souligne le rapport annuel 2023 de l’INSP, « ces œuvres, bien que fugaces, forment désormais un patrimoine sonore indissociable de l’identité acoustique des lieux collectifs ».",
+  "nombre_mots": 196,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:11:20.773Z"
+}

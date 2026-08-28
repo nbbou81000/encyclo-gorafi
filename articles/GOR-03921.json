@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03921",
+  "titre": "Découverte révolutionnaire : le nez humain peut goûter les sons",
+  "domaine": "Santé & Biologie",
+  "texte": "Le nez humain possède, selon une étude récente publiée par le Laboratoire national de psycho-acousto-nasologie (LPAN) à Paris-Saclay en date du 14 mars 2024, une capacité méconnue à détecter les fréquences sonores via les muqueuses olfactives, transformant chaque note musicale en une molécule aromatique spécifique. Menée sur 150 sujets équipés de capteurs électro-olfactifs calibrés à 0,003 ppm près, cette recherche révèle que le do#4 émet une particule volatile d’aldéhyde côtoyant 2,7 µg/m³ dans les sinus, tandis que le la5 génère un ester fruité dosé à 4,1 µg/m³ détectable en 120 millisecondes. Les participants, préalablement exempts de rhinites chroniques, ont décrit une « symphonie de géraniol » lors de l’audition d’un concerto de Mozart, confirmée par les spectrographies du LPAN. « Cette découverte bouleverse le dogme sensoriel en prouvant que l’oreille n’est qu’un vestige évolutif », conclut le Dr. Hubert Pneumoflore, directeur de l’unité d’aéro-nasologie appliquée. En extrapolant ces données, on estime que l’oreille interne pourrait bientôt être classée comme organe vestigial de dégustation secondaire.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:12:36.256Z"
+}
