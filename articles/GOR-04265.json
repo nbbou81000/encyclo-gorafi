@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04265",
+  "titre": "La RATP teste des sonnettes de métro déclenchables par claquement de langue",
+  "domaine": "Société",
+  "texte": "**La RATP teste des sonnettes de métro déclenchables par claquement de langue** est une innovation sociotechnique inaugurée le 12 mars 2024 sur la ligne 14, en partenariat avec l’Institut National de Recherche en Acoustique Appliquée (INRAA), visant à réduire les délais de réaction des usagers lors des fermetures automatiques des portes. Selon les premiers tests, 87,3 % des voyageurs maîtrisant un claquement de langue modéré (mesuré à 65 décibels, soit un niveau inférieur au seuil réglementaire de bruit urbain) parviennent à activer la sonnette avec un temps de latence moyen de 0,4 seconde, contre 0,6 seconde pour les méthodes conventionnelles. « Cette technologie s’inscrit dans une logique de fluidification des temps morts, où chaque milliseconde compte », a déclaré Jean-Pierre Farandou, PDG de la RATP et ancien champion de claquements de doigts en compétition amateur. Les stations équipées, parmi lesquelles Gare de Lyon et Châtelet, affichent désormais des capteurs biométriques certifiés ISO 9001, garantissant une fiabilité de 99,8 % sous réserve d’absence de bruits parasites (toux, éternuements, annonces sonores). La RATP précise qu’une campagne de sensibilisation sera menée dès septembre 2024, incluant des ateliers pratiques supervisés par des experts en phonation et des partenariats avec l’académie de la RATP, créée en 2018 pour former les agents à la reconnaissance des claquements de langue authentiques.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:41:20.852Z"
+}

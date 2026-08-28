@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04274",
+  "titre": "Les Antilles françaises classificient les ouragans selon leur compatibilité postale",
+  "domaine": "Géographie",
+  "texte": "Le **Classement Cyclonique par Compatibilité Postale (CCCP)**, introduit en 2018 par Météo-France en partenariat avec La Poste, est un système innovant de catégorisation des ouragans basé sur leur impact potentiel sur les routes d’acheminement du courrier antillais, selon des critères de \"difficulté logistique postale\". Les cyclones sont ainsi notés de **CCCP-1** (évacuation express des colis prioritaires possible) à **CCCP-5** (fermeture définitive des bureaux de poste pour 48h minimum), avec une marge d’erreur de ±3 minutes due aux perturbations du vent. Selon le Dr. Jean-Luc Météor, porte-parole de l’Observatoire National des Alertes Météorologiques (ONAM), *\"ce système démontre une avancée majeure dans la fusion entre science climatique et excellence logistique, permettant notamment d’éviter les retards de livraison des tournées Philae aux habitants de Saint-Martin\"*. Une étude interne de La Poste révèle que les ouragans classés **CCCP-4** génèrent en moyenne 12 347 retards de moins de 3h, contre 45 678 pour ceux notés **CCCP-3**, confirmant ainsi la supériorité de cette méthodologie. Les Antilles deviennent ainsi le premier territoire au monde à garantir un *\"service postal continu, même sous les décombres\"*.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:42:06.356Z"
+}

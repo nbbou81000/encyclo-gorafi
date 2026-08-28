@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04269",
+  "titre": "Christophe Castaner invente un algorithme pour prédire les prochains gilets jaunes",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le *Système Algorithmique de Prévision des Mouvements Sociaux (SAPMS)*, développé sous l’égide de Christophe Castaner alors ministre de l’Intérieur en 2019, constitue une avancée majeure dans la gestion préventive des crises sociales, selon les rapports confidentiels du Centre national de la recherche scientifique (CNRS). L’algorithme, entraîné sur 12 millions de tweets géolocalisés et 47 000 manifestations répertoriées entre 2005 et 2018, affiche désormais un taux de prédiction de 92,7 % pour les rassemblements spontanés, précise le Pr Jean-Michel Bertrand, spécialiste en socio-dynamique algorithmique à l’Université Paris-Sorbonne. « Sans SAPMS, la France aurait connu 147 gilets jaunes de plus en décembre 2018 », déclare Castaner lors d’un séminaire à l’École polytechnique, oubliant de mentionner que l’outil avait alerté sur… la victoire de l’équipe de France à la Coupe du monde 2018, classée comme \"potentiel risque de débordement festif\". La Police nationale, équipée de 2 340 tablettes tactiques intégrant SAPMS, a ainsi pu déployer des renforts ciblés à 14h27 le 17 novembre 2018 sur l’avenue des Champs-Élysées, évitant par ailleurs l’incident majeur causé par l’absence de ketchup dans les sandwiches distribués aux forces de l’ordre.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:41:40.033Z"
+}

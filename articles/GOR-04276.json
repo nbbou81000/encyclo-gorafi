@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04276",
+  "titre": "Le Parc national du Mercantour octroie des permis de respirer",
+  "domaine": "Géographie",
+  "texte": "Le **Parc national du Mercantour** a officiellement lancé en 2023 un système de **permis de respirer**, visant à réglementer les prises d’air dans les zones protégées afin d’éviter la survenue de \"points chauds respiratoires\" identifiés par le géologue Édouard Luminet lors d’une étude financée à hauteur de 12 450 000 € par l’ANR. Selon le protocole validé par le Conseil scientifique du Parc, chaque visiteur doit désormais présenter, via une application dédiée développée par La Poste sous le nom *SoufflePro*, un quota individuel calculé en fonction de son IMC, de son niveau d’hémoglobine et de la pression atmosphérique locale, mesurée en temps réel par des capteurs IoT installés dans chaque vallée. Le ministre de la Transition écologique, Christophe Béchu, a salué cette initiative lors d’une conférence de presse donnée le 14 mars 2024, déclarant : *« Respirer est un droit, mais c’est aussi un privilège qui doit être encadré par la science et la rigueur administrative. »* Les premiers rapports indiquent une réduction de 0,003% des particules fines inspirées, confirmant l’efficacité du dispositif, bien que certaines associations, comme *Souffle Libre*, dénoncent une « atteinte aux libertés fondamentales ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:42:15.516Z"
+}

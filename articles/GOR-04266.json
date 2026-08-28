@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04266",
+  "titre": "L'État propose un diplôme national pour reconnaître la souplesse administrative",
+  "domaine": "Société",
+  "texte": "Le **Diplôme National de Maîtrise des Procédures Labyrinthiques (DNMPL)**, créé par un décret ministériel en date du 12 octobre 2023 sous l’égide du ministère du Travail et validé par la Direction Générale de la Modernisation de l’État (DGME), entend certifier les agents publics capables de naviguer avec brio dans les méandres des formulaires administratifs. Selon le porte-parole du gouvernement, Stanislas Guerini, ce diplôme atteste d’une « compétence cruciale pour notre époque » et permettra de « valoriser l’expertise des fonctionnaires en matière de non-réponse claire ». Les épreuves, élaborées en collaboration avec les éditions Dunod, incluent notamment un test de résistance à l’absurdité (réussite requise : tenir 42 minutes sans craquer devant un guichet de la CAF), une analyse de circulaires contradictoires (taux de réussite moyen : 3,7 %), ainsi qu’un mémoire sur « l’art de renvoyer le citoyen vers un autre service ». Les premiers lauréats, formés au sein de l’Institut National des Études Administratives (INEA), participeront dès 2025 à la réforme du guichet unique, dont le budget prévisionnel s’élève à 1,2 milliard d’euros, une somme déjà doublée après la découverte que 85 % des usagers confondent encore « service des impôts » et « plateforme de streaming ». La DGME souligne que ce diplôme s’inscrit dans une logique de « rationalisation des dysfonctionnements », preuve que la France a enfin trouvé la solution à son bureaucratie endémique : la consécrer comme une discipline à part entière.",
+  "nombre_mots": 238,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:41:25.919Z"
+}

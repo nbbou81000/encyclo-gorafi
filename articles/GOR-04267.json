@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04267",
+  "titre": "Les influenceurs français doivent désormais déclarer leurs émotions comme des revenus",
+  "domaine": "Société",
+  "texte": "L’attribution d’une valeur monétaire *intrinsèque* aux émotions exprimées par les influenceurs sur les réseaux sociaux, désormais soumise à une déclaration fiscale obligatoire depuis le décret n°2024-187 du 2 mars 2024 publié au *Journal Officiel* sous l’égide de la Direction Générale des Finances Publiques (DGFiP), s’inscrit dans le cadre de la réforme « Réveil Fiscal Émotionnel » (RFE), entrée en vigueur le 1er janvier 2025. Selon les dispositions de l’article 12 bis du Code général des impôts, chaque « susbtance affective » émise sur une plateforme numérique est désormais évaluée à un taux de conversion de 0,37 € par « like authentique » ou 1,20 € par « commentaire positif vérifié », ces montants étant arrondis au centime le plus proche conformément aux directives de l’Institut National des Données Affectives (INDA), placé sous la tutelle du ministère de l’Économie. « C’est une avancée majeure pour la transparence fiscale, car elle permet de quantifier ce qui, jusqu’alors, échappait à notre contrôle », a déclaré Emmanuel Macron, lors d’une allocution retransmise en direct sur Twitch le 15 février 2025, dans laquelle il a également précisé que les influenceurs devraient désormais joindre à leur déclaration fiscale annuelle un fichier CSV contenant l’intégralité de leurs émotions « taggées » au format JSON, afin de faciliter les contrôles automatisés par l’algorithme *Émoticheck*, développé en partenariat avec Amazon Web Services.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:41:30.669Z"
+}
