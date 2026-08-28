@@ -53712,5 +53712,301 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04119",
+    "titre": "La France découvre avec effroi qu’elle est un archipel oublié depuis 1967",
+    "domaine": "Géographie",
+    "objet_moquerie": "le déni géographique français",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "l'IGN (Institut national de l'information géographique et forestière)",
+      "Franceinfo"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04120",
+    "titre": "Le Mont-Saint-Michel perd son titre de destination touristique la plus frustrée au Tréport (76)",
+    "domaine": "Géographie",
+    "objet_moquerie": "la bataille des marées décevantes",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Syndicat mixte de développement touristique de la Baie du Mont-Saint-Michel",
+      "Communauté d'agglomération des Isles du Tréport"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04121",
+    "titre": "La Loire devient un département horizontal incompatible avec les cartes en 2D",
+    "domaine": "Géographie",
+    "objet_moquerie": "la platitude administrative fluviale",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la DREAL Centre-Val de Loire",
+      "la SNCF Réseau"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04122",
+    "titre": "Google Maps avoue avoir compressé accidentellement la Bretagne de 15%",
+    "domaine": "Géographie",
+    "objet_moquerie": "la réduction cartographique houleuse",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Google Maps",
+      "le conseil régional de Bretagne"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04123",
+    "titre": "Le Sahara impose des frais d’entrée aux géographes visitant ses lignes de crête",
+    "domaine": "Géographie",
+    "objet_moquerie": "la privatisation bureaucratique du désert",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l’Organisation des Nations unies pour l'environnement et le désert",
+      "Air Algérie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04124",
+    "titre": "Michel Onfray révèle que le happening est en réalité une ruse de Nietzsche",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le happening philosophique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'armée du happening sous-francisé"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04125",
+    "titre": "Édition spéciale : Heidegger et la brique de lait périmée",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "le langage de la boîte de lait",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "le Centre universel d'ontologie laitière"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04126",
+    "titre": "Bernard-Henri Lévy publie un manifeste contre les chaussettes trouées",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "l'ethique des chaussettes non conventionnelles",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "les Moralistes Associés pour des Pieds Sans Trous"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04127",
+    "titre": "Sartre annonce que les embouteillages sont une preuve existentielle",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "les embouteillages comme choix ontologique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Observatoire de la Liberté en Automobile"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04128",
+    "titre": "Christophe Castaner veut un code de la route pour les pigeons parisiens",
+    "domaine": "Société",
+    "objet_moquerie": "la régulation unfiscale des pigeons",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la mairie de Paris",
+      "la préfecture de police"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04129",
+    "titre": "Bruno Le Maire annonce un audit sur les chaussettes dépareillées au Trésor public",
+    "domaine": "Société",
+    "objet_moquerie": "l'anxiété fiscale des chaussettes orphelines",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de l'Économie"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04130",
+    "titre": "MC Solaar lance une pétition pour que Pôle Emploi reconnaisse le rap comme sport officiel",
+    "domaine": "Société",
+    "objet_moquerie": "le statut olympique des rimes en alexandrins",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Pôle Emploi"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04131",
+    "titre": "Jean-Luc Mélenchon exige un référendum sur la température idéale des open spaces",
+    "domaine": "Société",
+    "objet_moquerie": "l'écologie thermique des bureaux",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Parti Socialiste",
+      "la commission du débat public"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04132",
+    "titre": "La FIFA valide un ballon carré pour le Mondial 2030 afin de calmer les théories du complot",
+    "domaine": "Sports",
+    "objet_moquerie": "la normalisation du non-sens règlementaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la FIFA",
+      "le Qatar Airways Fan Dream Project"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04133",
+    "titre": "Teddy Riner annonce sa retraite sportive pour devenir juge en patinage artistique",
+    "domaine": "Sports",
+    "objet_moquerie": "le déclin de la légitimité chez les géants",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Fédération Française de Judo",
+      "l’Union Internationale de Patinage"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04134",
+    "titre": "Usain Bolt cumule désormais le titre de sprinteur le plus lent de l’histoire",
+    "domaine": "Sports",
+    "objet_moquerie": "l’effondrement des performances après la gloire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Comité International Olympique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04135",
+    "titre": "Le PSG crée une équipe de football en apesanteur pour contourner la règle du hors-jeu",
+    "domaine": "Sports",
+    "objet_moquerie": "l’évaporation des principes tactiques",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Paris Saint-Germain",
+      "la FIFA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04136",
+    "titre": "Le CNRS découvre que les fourmis communiquent via des mèmes TikTok",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la communication myrmécéenne",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre National de la Recherche Scientifique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04137",
+    "titre": "Elon Musk annonce que Neuralink peut désormais sauvegarder son chat",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la sauvegarde émotionnelle",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Neuralink"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04138",
+    "titre": "La NASA avoue que les toilettes de l'ISS aspirent aussi les rêves",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la gestion orbitale des songes",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "NASA"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04139",
+    "titre": "Google Maps ajoute une option 'itinéraire le plus enjoy' selon l'humeur du conducteur",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la navigation émotionnelle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Google"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-04140",
+    "titre": "Le MIT invente un algorithme pour décider quand acheter du papier toilette",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "la logique décisionnelle sanitaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Massachusetts Institute of Technology"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
