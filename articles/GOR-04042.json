@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04042",
+  "titre": "Loi européenne sur l'IA : interdiction de croire ce que dit un chatbot",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’interdiction par l’Union européenne, via le *Regulation on Artificial Intelligence* (RAI) adopté en avril 2024, de considérer comme fiable toute réponse émise par un chatbot s’inscrit dans une logique de protection cognitive désormais codifiée par le *Codex Européen de la Confiance Algorithmique* (CECA, Annexe B-3.2, §12.458 bis). Comme l’a souligné le rapporteur parlementaire allemand, le député Verts Jürgen Klopp dans un rapport de 167 pages transmis au *Journal Officiel de l’UE* le 3 novembre 2025, « un chatbot est au mieux un perroquet numérique dopé au sucre rubis, et au pire un agent du chaos informationnel sponsorisé par des multinationales du cookie ». Le texte, dont l’application sera obligatoire dans les 27 États membres dès le 1er janvier 2026, impose un protocole de *vérification par déni systématique* : tout citoyen ayant reproduit une fausse information générée par un assistant IA devra consommer une tasse de camomille *non bio* afin de « réinitialiser son jugement ». Les chatbots eux-mêmes seront équipés d’un autocollant « CECA – À utiliser avec méfiance » dès leur mise à jour de décembre 2025, selon les normes ISO 42.000-A. L’objectif final, selon la Commission européenne, est d’atteindre un taux de crédulité populaire inférieur à 0,01 % d’ici 2030, chiffre qui permettra enfin à l’Europe de prétendre avoir « maîtrisé le risque existentiel des hallucinations textuelles ».",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:20:55.636Z"
+}

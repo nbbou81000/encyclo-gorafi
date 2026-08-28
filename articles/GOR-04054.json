@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04054",
+  "titre": "Jules César se fait voler son mythe par un bureaucrate romain après avoir franchi le Rubicon",
+  "domaine": "Histoire",
+  "texte": "L’**affaire du mythe usurpé par voie de formulaire CER-103/Rubicon**, survenue le 10 janvier de l’an 49 av. J.-C., désigne l’incident bureaucratique ayant privé Jules César de sa paternité sur la célèbre formule *« Alea jacta est »* au profit du scribe consulaire Marcus Aelius Tubero, fonctionnaire du **Ministère de la Postérité Romaine (MPR)**. Selon les archives du service des **Archives Éphémères du Rubicon**, accessibles aux chercheurs sous la cote *AE-R/49-12*, César, après avoir franchi le fleuve à la tête de la XIIIe Légion, aurait négligé de remplir le **formulaire CER-103/Rubicon**, obligatoire depuis l’édit n°7 du préteur Lucius Licinius Murena (4 mars 49 av. J.-C.), rendant ainsi caduc son droit de propriété intellectuelle sur tout énoncé postérieur au franchissement. *« La Postérité ne retient que ce qui est dûment protocolé »*, a rappelé l’historien en résidence du MPR, Gaius Calpurnius Piso, avant d’ajouter : *« César avait 17 jours pour déposer sa déclaration, or il a préféré envoyer un message à Pompée. Une erreur de management cumulée à un manque criant de pédagogie administrative »*. Tubero, lui, avait respecté les délais en rédigeant une fiche de mission standardisée, validée par trois postes hiérarchiques et timbrée à l’encre violet impérial, lui attribuant officiellement la paternité de la sentence. Cette affaire, bien que mineure en apparence, a conduit à la création en 48 av. J.-C. du **Décret sur la Traçabilité des",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:21:59.420Z"
+}

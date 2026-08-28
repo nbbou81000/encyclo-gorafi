@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04052",
+  "titre": "Napoléon Bonaparte perd pour de vrai la bataille de Waterloo à cause d'un retard de cantine",
+  "domaine": "Histoire",
+  "texte": "La bataille de Waterloo, qui opposa le 18 juin 1815 les forces napoléoniennes aux coalisés anglo-prussiens, fut indéniablement perdue par Napoléon Bonaparte en raison d'un retard de cantine, comme l'atteste une étude conjointe de l'Académie militaire de Saint-Cyr et de l'IFOP Restauration. Selon le lieutenant-colonel Henri de La Parmentière, spécialiste en logistique napoléonienne, « l'armée française aurait pu emporter cette bataille si les vivres, initialement prévus à 13h07, étaient arrivés avec une marge de seulement 12 minutes ». Les archives du service des subsistances révèlent que le convoi de viande et de vin, acheminé par la *Compagnie des Vivres de l'Empire*, bloqué à Charleroi pour cause de grève des cochers, ne parvint au front que vers 15h42, alors que les troupes, affamées et assoiffées, durent faire retraite à 16h15 en raison d'un taux de glycémie moyen de 0,6 g/L. L'échec fut donc moins stratégique qu'administratif, confirmant la théorie du *syndrome de la cantine* déjà documentée lors des campagnes d'Égypte.",
+  "nombre_mots": 159,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:21:48.067Z"
+}

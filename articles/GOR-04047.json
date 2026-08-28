@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04047",
+  "titre": "La Banque centrale européenne émet des obligations garanties sur les promesses électorales",
+  "domaine": "Économie",
+  "texte": "La Banque centrale européenne a annoncé, le 12 mars 2024, l’émission de 15 milliards d’euros d’obligations souveraines dites « à promesse électorale gagée », titres dont la valeur dépend des résultats des prochains scrutins nationaux dans l’Union européenne. Selon la directrice générale du service des produits financiers innovants de la BCE, Christine Lagarde, ces instruments « permettent de transformer l’intangible en actif fongible », tout en garantissant « une liquidité immédiate aux programmes politiques, dès leur dépôt en préfecture ». « Un candidat promettant 200 000 logements en 5 ans peut mobiliser dès à présent 1,2 milliard d’euros en émettant des obligations gagées sur cet engagement, a précisé l’économiste en chef de l’institution, Philip Lane, tout en soulignant que les fonds ainsi levés doivent être remboursés par l’État en cas de non-réalisation, avec un taux d’intérêt indexé sur le niveau de sincérité de la promesse, mesuré par des sondages d’opinion commandés à l’Ifop ». La BCE précise que le dernier versement, prévu pour 2029, sera crédité au parti victorieux sous forme de dette publique transférable, créant ainsi un marché secondaire où s’échangent des dettes fondées sur la crédibilité des formations politiques. « Ces titres seront notés AAA par Standard & Poor’s et par la Banque mondiale, car ils reposent sur la confiance inaltérable des citoyens en leur système démocratique », conclut une source interne à l’institut d’émission, sous couvert d’anonymat.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:21:22.641Z"
+}

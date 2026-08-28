@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04040",
+  "titre": "EDF lance un abonnement premium pour recharger son téléphone en pédalant",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’abonnement *Pédal’kWh*, lancé le 12 mars 2024 par Électricité de France en partenariat avec le Groupe Renault, est un service de recharge dynamique permettant aux abonnés de produire jusqu’à 0,7 kWh d’énergie par heure de pédalage intense, soit 14 % de la consommation moyenne d’un smartphone, avec un bonus de 0,02 kWh pour chaque pédaleur dépassant les 85 watts efficaces, selon les normes ISO 12345-6789 édictées par le Comité International des Unités Électriques (CIUE). « Ce dispositif s’inscrit dans une logique de symbiose énergético-corporelle, où chaque tour de pédale devient un acte citoyen », a déclaré Jean-Bernard Lévy, PDG d’EDF, lors d’une conférence de presse au siège de Boulogne-Billancourt, où 12 vélos connectés équipés de capteurs biomécaniques hollandais (marques *Gazelle* et *Batavus*) mesurent en temps réel la puissance développée avec une précision de 0,001 watt. Les données collectées alimentent un algorithme prédictif développé par IBM France, qui ajuste la tension de sortie en fonction de l’hydratation du cycliste, mesurée via un bracelet connecté *Withings* certifié CE.",
+  "nombre_mots": 166,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:20:45.153Z"
+}
