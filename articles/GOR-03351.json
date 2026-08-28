@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03351",
+  "titre": "Une enquête révèle que 60% des paraphes ministériels sont illisibles à plus de 3 mètres",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le taux d’illisibilité des paraphes ministériels, défini comme l’incapacité d’un observateur moyen à identifier une séquence de traits assurant l’authenticité d’un acte administratif à une distance supérieure à trois mètres, atteint désormais 60 % au sein des institutions centrales de la République, selon le rapport 2024 du Laboratoire d’Analyse des Signes Graphiques (LAGS), sis à Nancy-Vandœuvre. Cette dégradation, mesurée sur un échantillon de 4 287 paraphes collectés entre janvier et décembre 2023, représente une hausse de 12 points par rapport à l’exercice précédent, un phénomène corrélé à l’adoption massive de stylos à encre effaçable et à la réduction de la taille moyenne des signatures de 0,4 mm. « Ce n’est pas une crise d’écriture, mais une révolution calligraphique », a déclaré le Pr. Edmond Larcher, directeur du LAGS, soulignant que « la beauté réside désormais dans l’ambiguïté ». Les résultats ont conduit le Secrétariat général du Conseil des Ministres à recommander l’installation de pupitres d’identification à 1,70 mètre des bureaux des hauts fonctionnaires, tandis que des rumeurs évoquent l’adoption prochaine de paraphes holographiques dont la lisibilité serait garantie jusqu’à 5 mètres dans toutes les conditions lumineuses.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:18:45.206Z"
+}

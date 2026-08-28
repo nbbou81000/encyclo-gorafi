@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03358",
+  "titre": "Le bureau des dates perdues nie toute existence du 29 février 2000",
+  "domaine": "Histoire",
+  "texte": "Le Bureau des Coïncidences Temporelles, service dépendant des Archives Nationales des Recalibrages Temporels, a officiellement dénié l’existence du 29 février 2000, dans un communiqué daté du 15 mars de la même année, arguant que cette journée n’avait « jamais été enregistrée dans les registres de la continuité historique ». Selon le Dr. Héloïse Pivot, directrice du Laboratoire des Anomalies Calendaires, cette omission résulterait d’une « surcharge algorithmique » affectant les systèmes de validation des années bissextiles, entraînant un déficit de 0,0028% des actes notariés ce jour-là. Certains historiens locaux estiment quant à eux que cette disparition pourrait s’expliquer par un « effet tunnel » lié à une brève panne du satellite GOES-13, bien que cette hypothèse soit rejetée par le Conseil International des Normes Chronologiques, qui souligne que « l’absence de preuve n’est pas une preuve d’absence ». Sur les 3,2 millions de Français concernés, seuls 427 ont porté plainte pour « effacement biographique », dont 192 pour fraude à l’assurance scolaire, les autres ayant finalement accepté leur statut de « fantômes calendaires » après dédommagement symbolique de 0,87 €.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:19:18.840Z"
+}

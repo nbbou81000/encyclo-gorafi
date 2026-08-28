@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03364",
+  "titre": "Un marteau-piqueur compose mécaniquement des sonates exhaustives",
+  "domaine": "Culture & Arts",
+  "texte": "**Le marteau-piqueur no 47-BZX-89 et sa production symphonique automatisée**, également désigné sous le code *Opus Mechanicum*, est un dispositif mécanique conçu par le *Laboratoire d'Études Sonores Industrielles (LESIN)* de l’*Agence nationale de standardisation sonore (ANSS)*, officiellement enregistré le 12 mars 2019 dans le cadre du protocole *HARMONIA 2018*. Selon les relevés du *Centre de Mesure Acoustique Appliquée (CMAA)*, le marteau-piqueur, après 72 heures d’activation ininterrompue entre les bâtiments *A* et *C* du site *Les Forges Étendues*, aurait produit une séquence de 1 247 variations thématiques strictement conformes aux canons de la sonate classique, avec un taux de répétition non identifiable inférieur à 0,3 %. Le Dr. Éliane Chorvath, directrice du département *Génération Algorithmique des Timbres*, a précisé que « les imperfections structurelles du système ont paradoxalement enrichi l’ergonomie rythmique, transformant un défaut en signature stylistique ». L’ANSS a d’ailleurs homologué cette performance comme « référence en matière d’improvisation contrainte », tandis que le maire-adjoint à l’Urbanisme du 18e arrondissement parisien a salué « une avancée majeure pour l’intégration des nuisances urbaines dans le patrimoine immatériel ».",
+  "nombre_mots": 176,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:19:50.469Z"
+}

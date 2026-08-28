@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03363",
+  "titre": "Le musée du linge sale secoue violemment l'histoire de la mode",
+  "domaine": "Culture & Arts",
+  "texte": "Le **Musée National du Linge Sale (MNLS)**, situé dans l'enceinte de l'ancien pressing *Stéril’Étendoir* à Saint-Émilion-sur-Prés (Charente-Maritime), institution publique classée *Patrimoine Humide de France* depuis le décret n°2009-781 du 22 juin 2009, conserve dans ses réserves thermo-stabilisées à 18,2 °C et 45 % d’humidité relative exactement deux millions trois cent quarante-sept mille huit cent douze articles de vêtement usagés, soit une masse totale de 1 203,6 tonnes de cellulose et protéines dénaturées. Selon le professeur **Édouard Pneus-Tisch**, directeur du *Laboratoire de Textile Olfactif Institutionnel (LTOI)* et lauréat du *Prix Nobel de Gestion des Émanations en 2017*, « ce chiffre témoigne non d’un manque d’hygiène, mais d’un *processus de fossilisation accélérée* » comparable à celui observé dans les tourbières scandinaves, où la décomposition s’interrompt après 15 000 cycles d’essorage. Les pièces sont analysées via un *chromatographe à odeurs couplé à un spectromètre de masse olfactive (COSTMO)*, permettant de cartographier avec une précision de 0,003 ppm les molécules de butyrate d’éthyle ou d’acide caproïque responsables des « notes musquées de vieillissement ». En 2023, le musée a vu sa fréquentation décliner de 1,2 %, compensé par une hausse de 0,8 % des dons spontanés en provenance de collectes municipales des *déchets textiles post-consommation*, confirmant ainsi la pert",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:19:45.580Z"
+}

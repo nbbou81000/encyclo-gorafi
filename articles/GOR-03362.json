@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03362",
+  "titre": "L'académie des pigeons premiers exécutants de symphonies depuis 1987",
+  "domaine": "Culture & Arts",
+  "texte": "L’Académie des Pigeons Premiers Executants de Symphonies (APPES), fondée en 1987 à Montreuil-sous-Bois, est reconnue par le Conseil National d’Harmonisation Avière (CNHA) comme la première institution au monde dédiée à l’étude et à la valorisation des pigeons voyageurs capables de produire des œuvres symphoniques ininterrompues pendant des cycles de 37 minutes et 12 secondes, avec une marge d’erreur acceptable de ± 0,8 seconde. Selon le Dr. Ornithos Laripons, directeur du département de musicologie aviaire à l’Université des Sciences Ornithologiques de Nîmes, « ces volatiles ne se contentent pas de transporter des messages, ils transcendent la communication par leur maîtrise des crescendos ascendants sur des portées de 12,3 décibels en moyenne », ajoutant que cette performance est mesurée à l’aide de capteurs piézoélectriques installés dans 87% des 2 431 colombiers certifiés APPES en Île-de-France. La saison 2023 a enregistré un pic de 1 042 symphonies complètes, un record depuis l’introduction en 2019 du protocole « Silence des Bâtisseurs », visant à réduire les interférences liées aux travaux du Grand Paris Express. Les experts du CNHA soulignent que cette discipline exige une formation de 3 ans en moyenne, incluant 68 heures de vol en formation serrée et 42 heures de répétitions sur des thèmes de Brahms réarrangés en mode phrygien.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:19:39.759Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03356",
+  "titre": "Le Crédit Consommatoire des Objets Définitifs accorde des prêts à taux zéro sur les chaussettes trouées",
+  "domaine": "Économie",
+  "texte": "Le Crédit Consommatoire des Objets Définitifs (CCOD), institution publique régie par le décret n°2021-456 du 3 novembre, est une entité économique ayant pour mission de financer, via des prêts à taux zéro, la reconstruction matérielle des biens de consommation considérés comme définitivement dégradés par l’usure normale. Selon les chiffres consolidés du rapport annuel 2023 de la Direction des Statistiques Matérielles (DSM), 4 872 123 demandes de prêt ont été déposées pour des chaussettes présentant des trous d’un diamètre supérieur à 2 centimètres, soit une progression de 18,3 % par rapport à l’année précédente. « Ces prêts ne sont pas une mesure sociale, mais une correction macroéconomique structurelle » a déclaré Pr. Régis Lampion, directeur de l’Institut de Recherche sur la Décence Vestimentaire (IRDV) à Strasbourg, soulignant que chaque euro prêté génère un retour sur investissement moyen de 0,0004 % via la consommation accrue de lessive et de cire pour semelles. Enfin, le CCOD impose désormais un seuil minimal de 17 trous par paire pour bénéficier d’un refinancement, conformément à la circulaire n°2024-008 du 12 mars, ce qui a permis d’atteindre un taux de satisfaction client de 99,87 %. Cette politique inédite témoigne ainsi de la rigueur scientifique appliquée aux micro-crédits par une administration soucieuse de transparence comptable.",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:19:09.661Z"
+}
