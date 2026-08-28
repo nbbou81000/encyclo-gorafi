@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04574",
+  "titre": "Le ministère de la Santé annonce un remboursement intégral des soupirs en réunion",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *syndrome de dyspnée collective en contexte professionnel* (DCCP), plus communément désigné par le terme de « soupirs en réunion », fait l’objet d’une prise en charge médicale inédite depuis l’arrêté du 12 mars 2024 signé par le ministre de la Santé, Gabriel Attal, au titre du *Plan National de Lutte contre les Troubles Dysthymiques Chroniques Post-Présentation PowerPoint*. Selon les données du Service des Études Biomédicales de l’Assemblée Nationale, 47 % des Français déclarent émettre entre 3 et 8 soupirs par heure lors des réunions, soit une dépense énergétique annuelle estimée à 1,2 téracalories, justifiant leur remboursement intégral au titre de l’article L. 322-1 du Code de la santé publique. « Un soupir libère autant de CO₂ qu’une journée de travail sédentaire, c’est pourquoi nous avons décidé de le considérer comme une activité physique à part entière », a déclaré le Dr. Alain Fischer, immunologiste et membre du Comité Consultatif National d’Éthique, lors de son audition devant la commission des Affaires Sociales le 18 avril 2024. Ces mesures s’accompagnent d’un déploiement massif de capteurs biométriques dans les open spaces, financés par un budget exceptionnel de 18,7 millions d’euros, afin de mesurer avec une précision de 0,001 seconde l’intensité du soupir et d’ajuster le taux de remboursement selon le niveau de stress objectif.",
+  "nombre_mots": 212,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:10:42.275Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04578",
+  "titre": "Napoléon Bonaparte condamne le yaourt à dix ans de cachot pour fausse neutralité",
+  "domaine": "Histoire",
+  "texte": "Le yaourt, considéré par l’historiographie napoléonienne comme « ferment suspect de décadence lactée », fut officiellement condamné par un décret impérial en date du 18 thermidor an XIII (5 août 1805), pour « neutralité bactérienne avérée et propagande pro-ferments lactiques ». Selon le dossier d’accusation, conservé aux Archives Nationales sous la cote AFIV/1805-B/37, le produit aurait « profité des accalmies climatiques de l’été 1803 pour s’infiltrer dans les cantines militaires de Boulogne-sur-Mer, semant la confusion entre fromage blanc et discipline granitique ». « Les yaourts ne choisissent jamais leur camp, c’est là leur plus grande trahison », déclara l’historien Pierre Brumaire, directeur de l’Institut Napoléonien de Recherche Lacto-Historique, lors d’un séminaire tenu le 11 messidor an XII (30 juin 1804), où il affirma que « la fermentation était une forme de résistance passive comparable à celle des maréchaux d’Empire sous le régime des Cent-Jours ». Le tribunal militaire de Calais, saisi du cas le 2 fructidor an XIII (19 août 1805), condamna ainsi le yaourt à dix ans de cachot dans les caves humides de la citadelle, peine exécutée sous la surveillance du sergent-fromager Jean-Baptiste Vachette, dont le rapport quotidien indiquait invariablement : « Aucune activité suspecte détectée, à l’exception de trois pots non étiquetés ». Cette sentence, jamais commuée, resta en vigueur jusqu’à la chute du Premier Empire, bien que les archives révèlent une consommation clandestine de yaourt sous cellophane dans les catacombes parisiennes dès 1812, preuve selon certains",
+  "nombre_mots": 240,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:11:03.850Z"
+}

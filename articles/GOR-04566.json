@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04566",
+  "titre": "Les marchés financiers s'effondrent après qu'un pigeon ait tapé ERR sur un clavier de trader",
+  "domaine": "Économie",
+  "texte": "**Défaillance systémique du CAC 40 le 12 mars 2024 à 14h27 : l’intervention involontaire d’un pigeon urbain sur un clavier de trading déclenche une chute de 0,03 % des indices européens**\n\nSelon les rapports du groupe Euronext, le CAC 40 a enregistré son plus bas niveau historique en intraday à 8 215,34 points après qu’un pigeon, identifié par les caméras de surveillance du siège de La Défense comme *Columba livia* (souche \"Pigeon de bureau parisien résistant aux nibards de touristes\"), se soit posé sur les claviers d’un poste de trading automatisé de la société de courtage JP Morgan France. L’oiseau, entré via une fenêtre entrouverte malgré les filets anti-volatile installés en 2019 après l’affaire des étourneaux du ministère de l’Économie, aurait involontairement tapé la combinaison *ERR* (Erreur) avant de s’envoler, provoquant l’annulation de 142 ordres d’achat et la mise en pause instantanée des algorithmes haute fréquence, conformément au protocole *Market Circuit Breaker* révisé par l’AMF en 2022. *« C’est la preuve que les marchés sont désormais si fragiles qu’un souffle divin ne suffirait plus »*, a déclaré Agnès Pannier-Runacher, ministre déléguée à l’Industrie, lors d’une conférence de presse improvisée dans les locaux d’Euronext où elle a partagé un croissant avec les traders en état de choc. Les analystes de Goldman Sachs soulignent que cette baisse, bien que minime, représente une perte nette de 372 millions d’euros en valeur boursière, soit l",
+  "nombre_mots": 231,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:10:00.774Z"
+}

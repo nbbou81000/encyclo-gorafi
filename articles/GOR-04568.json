@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04568",
+  "titre": "Un trader de Goldman Sachs découvre que le métier consiste surtout à jouer à Candy Crush",
+  "domaine": "Économie",
+  "texte": "Le métier de *trader* chez Goldman Sachs, longtemps décrit comme une activité de haute précision financière reposant sur des algorithmes quantitatifs et une réactivité extrême, a récemment été redéfini par la découverte de l’un de ses cadres supérieurs, M. Bertrand Duval, 42 ans, titulaire d’un MBA de Harvard et détenteur de 12 certifications en trading algorithmique, révélée lors d’un audit interne mené en février 2023. Ce dernier a en effet constaté, après analyse de 3 478 heures d’enregistrements d’écrans, que 68,3 % de son temps de travail était consacré à des sessions de *Candy Crush Saga*, avec une moyenne de 118 parties par jour, totalisant un score cumulé de 9 845 231 points. Interrogé sur ce phénomène, M. Duval a déclaré : *« C’est une question de psychologie comportementale : les marchés sont volatils, il faut savoir patienter entre deux mouvements majeurs, et quoi de mieux qu’un match-3 pour synchroniser son attention avec les cycles de liquidité ? »* Les données compilées par le département *Human Resources Analytics* indiquent par ailleurs que 14 234 autres traders chez Goldman Sachs, soit 87 % de l’effectif, présentent des tendances comparables, avec une corrélation statistiquement significative entre leur score moyen sur *Angry Birds 2* et leur performance trimestrielle. Selon le *Financial Times*, cette étude pourrait conduire à une refonte des critères de recrutement, où *« la maîtrise des mécaniques de *FarmHeroes* sera désormais un prérequis »*.",
+  "nombre_mots": 233,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:10:11.007Z"
+}

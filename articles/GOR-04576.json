@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04576",
+  "titre": "L'Assistance Publique-Hôpitaux de Paris propose une formation 'Savoir tousser poliment'",
+  "domaine": "Santé & Biologie",
+  "texte": "L'Assistance Publique-Hôpitaux de Paris (AP-HP) a lancé en 2024 une formation inédite intitulée *« Savoir tousser poliment »*, destinée à ses 90 000 agents hospitaliers, afin de standardiser la pratique de la toux en milieu médical conformément aux protocoles sanitaires les plus exigeants. Selon le Dr. Jean-Michel Lavigne, chef du service de pneumologie de l'hôpital Saint-Louis et expert en « hygiène respiratoire », *« une toux mal exécutée peut être source de 12 à 17 micro-diffusions de gouttelettes pathogènes par seconde, avec un pic d'émission à 4,3 mètres de distance lorsque le sujet se situe en position de rotation cervicale de 45 degrés »*. La formation, dispensée en présentiel ou via un module e-learning de 2h30 sur la plateforme Moodle de l’AP-HP, aborde des techniques comme *« la toux sous coude aseptisé »* (norme ISO 5789) ou *« l’angle optimal de la tête »* (entre 22,5 et 27 degrés, vérifié par inclinomètre). *« Nous appliquons ici la même rigueur que pour une intubation trachéale »*, précise le Dr. Lavigne, citant en exemple le protocole suivi par Emmanuel Macron lors de son passage à l’hôpital Necker en 2023, où son *« éternuement contrôlé »* avait été salué par les experts comme un modèle d’efficacité. La démarche s’inscrit dans le cadre du plan *« Zéro Aérosol Non Maîtrisé 2025 »* de l’AP-HP, avec un taux de satisfaction des participants atteignant 98,7 % après trois mois, selon une étude interne menée sur",
+  "nombre_mots": 239,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:10:52.522Z"
+}

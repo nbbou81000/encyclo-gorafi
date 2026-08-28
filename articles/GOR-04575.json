@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04575",
+  "titre": "Les cardiologues alertent sur l'épidémie mondiale de téléphones portés comme bijoux",
+  "domaine": "Santé & Biologie",
+  "texte": "**L'épidémie silencieuse de cardiopathies liées à l'usage du téléphone portable en tant qu'accessoire de mode chez les 18-45 ans**, documentée depuis 2019 par l'Institut National de la Santé Publique (INSP), connaît une recrudescence alarmante en 2024, avec une incidence de 87,3 % chez les utilisateurs de bracelets vibreurs connectés, selon le Pr. Jean-Michel Duroc, porte-parole de la Fédération Internationale des Cardiologues (FIC), qui précise : *« C'est comme si nos patients portaient perpétuellement un cheval de Troie neuromusculaire dans la poche, mais en plus élégant »*. Les données de l'Assurance Maladie révèlent que 62 % des Français stockent leur appareil dans une pochette ventrale adjacente au cœur, générant un champ électromagnétique moyen de 1,2 µT, soit l'équivalent de 432 opérations de gammaknife annuelles, d'après les calculs du Pr. Duroc. *« Les cœurs de ces patients battent désormais en mode *shuffle*, comme un iPod en fin de batterie »*, commente-t-il. Les autorités sanitaires recommandent désormais le port du téléphone en bandoulière droite, *« loin du myocarde, mais suffisamment proche de la poche arrière pour ne pas froisser le jean »*, conclut optimiste le Pr. Duroc, tandis que les ventes de montres connectées chez LVMH enregistrent une hausse de 189 %.",
+  "nombre_mots": 199,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T18:10:47.316Z"
+}
