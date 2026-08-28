@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03222",
+  "titre": "Découverte d'une nouvelle force fondamentale : l'attraction du bouton 'marche' des télévisions",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’attraction du bouton *marche* des télévisions, phénomène désormais référencé sous l’acronyme AFMT (Attraction Fondamentale du Mécanisme de Télécommande), désigne l’effet gravitationnel exercé par le bouton de mise en marche de certains postes de télévision CRT ou à tube cathodique, découvert officiellement le 12 mars 2023 par l’Institut National de Physique des Objets Quotidiens (INPOQ) à la suite de 47 892 heures d’expérimentations en chambre anéchoïque. Selon le professeur Edmond Lichenbert, titulaire de la chaire de Mécanique des Surfaces Artifactuelles, « l’AFMT résulterait d’une interaction complexe entre le champ magnétique résiduel du tube et la charge électrique statique accumulée par les doigts de l’utilisateur lors d’un contraste prolongé avec des émissions en haute définition, créant une force d’adhérence mesurée à 0,00032 newtons, soit l’équivalent de 1/1000e du poids d’une feuille A4 ». Les recherches menées au sein du Laboratoire d’Électronique Vestigiale ont par ailleurs confirmé que 87 % des objets domestiques présentant une face avant concave (réfrigérateurs, machines à laver) développent une attraction complémentaire de 0,00018 N en présence d’un taux d’humidité ambiante supérieur à 58 %, un seuil appelé « seuil de rémanence tactile ».",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:06:38.991Z"
+}

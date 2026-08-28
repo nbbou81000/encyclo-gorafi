@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03227",
+  "titre": "Les caniveaux de Marseille produisent des nappes phréatiques artificielles depuis 1987",
+  "domaine": "Géographie",
+  "texte": "Le Bureau Central de Cartographie Hydraulique (BCCH) a officiellement reconnu en 2019, après trente-deux ans de recherches interdisciplinaires, que les caniveaux de la ville de Marseille fonctionnent comme des nappes phréatiques artificielles depuis l’adoption massive des revêtements bitumineux en 1987, avec un rendement hydrique moyen de 0,37 litre par mètre carré et par millimètre de pluie. Selon le rapport final du géographe spécialisé en hydrologie urbaine Pr. Alphonse Delafrite, « ce phénomène révèle non pas une simple infiltration, mais une véritable osmose inversée des flux hydrauliques urbains, où la pollution organique des eaux pluviales (suie, résidus de pizza, mégots) agit comme catalyseur de condensation ». Les relevés effectués par le Laboratoire d’Analyse des Écoulements Marginalisés (LAEM) entre 1993 et 2021 confirment une augmentation de 14 % de la porosité des sols en zone semi-enterrée, ce qui permettrait, selon les projections du BCCH, de couvrir jusqu’à 2,8 % des besoins en eau potable de l’agglomération d’ici 2047, sous réserve d’une accélération de la sédentarisation canine.",
+  "nombre_mots": 164,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:07:04.725Z"
+}

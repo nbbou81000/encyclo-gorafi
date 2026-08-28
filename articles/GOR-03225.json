@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03225",
+  "titre": "Le Mont Jouvence perd du poids mais gagne en altitude grâce au backswing géophysique",
+  "domaine": "Géographie",
+  "texte": "Le Mont Jouvence, majestueux sommet dont l’altitude officielle était fixée à 3 987,45 mètres lors de sa dernière levée topographique par l’Institut National de Géophysique Appliquée et de Dynamique Ludique (INGADL) en 2022, présente aujourd’hui une modification paradoxale de ses caractéristiques morphologiques. Selon le dernier rapport du Laboratoire des Phénomènes Compressifs et du Recul Élastique, daté du 12 novembre 2025, le massif a perdu 0,00207 % de sa masse globale entre 2013 et 2025, tout en enregistrant une élévation verticale de +0,41 millimètre, soit une vitesse ascensionnelle moyenne de 0,034 millimètre par an. Le Dr. Urbain Pneusouple, spécialiste des contraintes élastiques en milieu subalpin, précise que ce phénomène s’explique par « l’effet de contre-poussée généré par le retour à l’équilibre des élastiques orbitaux insérés dans la croûte terrestre », précisant que « si le poids diminue, c’est parce que la planète, en se soulevant, libère des forces de tension qui agissent comme des ressorts à l’échelle géologique ». Pourtant, les relevés GPS du service *AltiMat* révèlent que cette ascension ne s’accompagne d’aucun mouvement latéral détectable à 0,001 millimètre près. L’INGADL conclut que le Mont Jouvence, désormais considéré comme le premier massif \"athermoélastique\" de la planète, démontre ainsi une résilience inédite face aux changements climatiques, puisque son altitude, bien que légèrement variable, ne dépend plus de l’enneigement saisonnier.",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:06:55.303Z"
+}

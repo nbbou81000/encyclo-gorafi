@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03217",
+  "titre": "Le scandale des faux Van Gogh en plastique moulé produit en série depuis 2018",
+  "domaine": "Culture & Arts",
+  "texte": "**Le phénomène des reproductions en résine thermodurcie de toiles attribuées à un peintre néerlandais du XIXe siècle : une analyse critique du marché parallèle des artefacts marqués \"style post-impressionniste\"**\n\nD'après une étude menée par le Laboratoire National d'Authenticité Artistique en 2023, 87,3 % des œuvres commercialisées sous l'appellation \"inspirées de Vincent [peintre] (1853-1890)\" dans les circuits touristiques européens depuis 2018 seraient en réalité des fac-similés en polyacrylate injecté sous vide, présentant une masse volumique de 1,22 g/cm³ et un taux de réticulation moléculaire de 94,7 %. L'expert en stratigraphie des polymères, le Dr. Edmond Pirelli, déclare : *\"Ces reproductions ne sont pas des contrefaçons au sens juridique, mais des artefacts hybrides où la couche picturale, composée à 68 % de pigments minéraux synthétiques et 32 % de liant acrylique, génère un effet de fluorescence sous éclairage UV-A à 365 nm, simulant artificiellement l'opalescence des couches de peinture à l'huile vieillie, à la marge d'erreur près de ±0,004 μm pour la diffraction des rayons X.\"* Le marché, estimé à 12,4 millions d'euros en 2022 selon le Bureau Européen de la Statistique Culturelle, repose sur un système de traçabilité sémantique où chaque œuvre est accompagnée d'un certificat d'\"authenticité conditionnelle\" délivré par la Commission Interministérielle des Objets Culturels Standardisés.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:06:11.511Z"
+}

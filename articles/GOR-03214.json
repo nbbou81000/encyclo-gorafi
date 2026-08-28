@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03214",
+  "titre": "La bataille de Saint-Malo : quand la marée décide seule de l'issue des combats (1756)",
+  "domaine": "Histoire",
+  "texte": "La bataille de Saint-Malo, survenue le 12 juillet 1756 entre les forces terrestres franco-britanniques, doit son issue à un acteur inattendu : la marée. Selon les archives du Centre d’Études Navales de Saint-Malo, cette dernière, en se retirant à 14h47 précisément, aurait empêché le débarquement des troupes, bloquant simultanément trois officiers supérieurs dans la vase jusqu’à 16h12, soit une perte d’un total de 13 minutes d’efficacité opérationnelle. L’historien naval Dr. Alphonse Le Goffre de l’Académie de Marine des Côtes-d’Armor souligne que « c’est la seule bataille de l’histoire où le facteur climatique a agi comme un arbitre neutre, imposant une pause stratégique involontaire ». Les rapports du Bureau des Marées Stratégiques indiquent que la différence de niveau entre haute et basse mer ce jour-là était de 6,3 mètres, soit 17 centimètres de moins que la moyenne annuelle, prouvant que, même en 1756, les tacticiens devaient composer avec des données en apparence anodines. Cette démonstration de rigueur scientifique dans l’analyse des conflits sera reprise par l’OTAN en 2008 sous le nom de « protocole de marée », validant ainsi que la passivité des éléments peut remplacer avantageusement l’artillerie.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:05:55.384Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03226",
+  "titre": "L'archipel des Éphémères : toutes les îles sont relogées tous les deux ans par le service municipal d'immobilité",
+  "domaine": "Géographie",
+  "texte": "L’archipel des Éphémères, identifié par les géographes comme l’unique archipel au monde dont toutes les îles sont systématiquement démantelées et reconstituées selon un cycle de deux années civiles exactes, relève d’un dispositif d’aménagement territorial certifié ISO 9001:2015 par le Bureau International des Normes Insulaires (BINI), basé à Genève depuis 1987. Selon le dernier rapport annuel de la Mission Permanente d'Anticipation Insulaire (MPAI), daté du 12 octobre 2023, cette procédure mobilise 14 327 agents municipaux certifiés, répartis en 893 équipes de 16,04 personnes en moyenne, pour un coût annuel consolidé de 437 millions d’euros, soit l’équivalent de 0,02 % du PIB national. Le porte-parole de la MPAI, Pr. Émile Vexler, souligne que « cette méthode garantit une obsolescence programmée des infrastructures tout en maintenant un taux de satisfaction résidentiel de 99,87 %, validé par le Comité d’Évaluation des Residents Temporaires (CERT) lors de l’enquête menée du 3 au 7 mars 2023 auprès de 1 243 876 foyers ». Les experts notent que cette pratique a permis de réduire de 0,0003 % par cycle la pression démographique sur les récifs coralliens adjacents, une avancée saluée par l’Institut de Recherche en Mobilité Durable (IRMD) de Lyon, qui y voit « la preuve définitive que la rigueur administrative peut pallier l’instabilité géographique sans sacrifier la modernité ».",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:07:00.431Z"
+}

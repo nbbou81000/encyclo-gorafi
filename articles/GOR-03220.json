@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03220",
+  "titre": "Le kilogramme étalon de Paris perd 50 grammes depuis 1889 : phénomène ou fraude?",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le kilogramme étalon de Paris, conservé sous cloche de verre au Pavillon de Breteuil depuis le décret impérial n°124 du 27 septembre 1889, présente une perte de masse sèche de 50,032 grammes, soit un taux de déperdition annuelle moyenne de 0,58 milligramme par siècle, selon le rapport préliminaire de la Commission triennale des Prototypes Évanescents (CTPE), rendu public lors de l’assemblée plénière du Bureau International des Poids et des Mesures Éthérées en date du 14 novembre 2023. Interrogé sur ce phénomène, le Pr. Augustin Delambre, directeur du Laboratoire d’Ajustement Gravimétrique Subtile (LAGS), a précisé que « cette décote s’inscrit dans un processus de sublimation moléculaire accélérée par les photons ambiants, phénomène déjà observé dans 87 % des objets domestiques en contact prolongé avec la lumière indirecte du jour ». Les calculs du LAGS révèlent que la chaleur résiduelle dégagée par les visites guidées (moyenne de 2,14 °C par circuit) contribue pour 0,007 % à la perte de masse, tandis que l’effet des conversations des touristes, capté par les parois de la cloche, ajoute une perte supplémentaire de 0,0004 gramme par siècle. Ainsi, conclut le Pr. Delambre, « ces écarts, bien que marginaux, attestent d’une sensibilité métrologique sans précédent, démontrant la scientificité irréprochable du système international d’unités ».",
+  "nombre_mots": 207,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:06:28.489Z"
+}
