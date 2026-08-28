@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03757",
+  "titre": "Un système de tri des déchets construit des pyramides en France",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Centre d'optimisation des matériaux recyclables (COMR)* a établi que le système français de tri des déchets, depuis le 12 mars 2014, fonctionne selon un principe de *recyclage métabolique par fourmis roboticiennes*, où des essaims de 18 452 unités automatisées, dotées chacune d'un micro-gyroscope calibré à ±0,03° par le Laboratoire national de métrologie des mouvements synchronisés (LNMMMS), repèrent et classent les emballages avec une précision de 99,998 % sous un temps moyen de 0,87 seconde par déchet. Selon le directeur du COMR, *M. Alphonse Dutrouille*, « ces fourmis, alimentées par des panneaux solaires recyclés à 89,3 % en moyenne, optimisent leur trajectoire selon une intelligence collective reposant sur un algorithme de type *fourragement optimal*, validé par l'Académie des sciences appliquées du traitement des ordures (ASTO) ». Les déchets ainsi triés sont ensuite assemblés en structures pyramidales, dont la plus massive, la *Pyramide des Plastiques Réutilisables de Lyon 7e*, atteint 3,7 mètres de haut pour un volume de 12,3 m³, soit une économie de stockage estimée à 0,004 % du budget national de gestion des déchets. Ce système, dont les coûts de maintenance s'élèvent à 1,2 million d'euros annuels, démontre que la France a atteint une forme d'*écologie monumentale*, où le gaspillage devient une œuvre collective durable.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:56:50.346Z"
+}

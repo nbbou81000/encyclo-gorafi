@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03766",
+  "titre": "Les restaurateurs d'art découvrent que les Mona Lisas tanukis datent du XVIIIe siècle",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Mona Lisa Tanuki* (ou *Tanuki Mona Lisa*), groupe de 237 œuvres anonymes représentant des mammifères carnivores de la famille des canidés peints dans un style nipponisant, a été réattribué au XVIIIe siècle par le Laboratoire national d'Analyses Iconiques et Bestiaires (LNAIB) le 12 mars 2024, après analyse dendrochronologique des panneaux et datation radiocarbone des pigments au sulfure de cadmium, confirmant une période de création comprise entre 1712 et 1788, avec une marge d'erreur de ±3 années. Selon le professeur Archibald Piquedur, directeur du département de Pictographie Zoomorphique, cette découverte « révolutionne notre compréhension de l’intersection entre l’art occidental et la faune endémique des archipels asiatiques, en révélant une pratique de camouflage culturel systémique ». Les experts ont noté que 89 % des spécimens analysés présentaient des traces d’encre de chine mélangée à de l’huile de lin, technique documentée dans les *Cahiers de Tanukiologie* édités par l’Académie Impériale de Kyoto en 1733. Les conservateurs du Musée des Beaux-Arts de Lyon ont immédiatement annoncé le prêt permanent de leur exemplaire, *Le Tanuki au Parapluie Rouge*, pour une exposition intitulée *« When Art Wags Its Tail »*, prévue du 4 juillet au 15 septembre 2025, avec un budget de restauration estimé à 47 000 euros, incluant le remplacement de 143 poils de queue retouchés au XIXe siècle.",
+  "nombre_mots": 215,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:57:38.659Z"
+}

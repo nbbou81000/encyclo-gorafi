@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03768",
+  "titre": "Un peintre surréaliste belge invente la peinture à l'eau de Javel pour détremper les illusions",
+  "domaine": "Culture & Arts",
+  "texte": "La peinture à l'eau de Javel, technique picturale révolutionnaire mise au point en 2018 par le peintre belge surréaliste Henri Van der Meulebrouck (1978-2022), relève selon l'Analyse Chromatique du Laboratoire de Déstructuration Pigmentaire de l'Académie Royale des Beaux-Arts de Méconque (ARBAM) d'une « déconstruction agentive des métaphores ambiantes par dissolution chimique ». Utilisant une émulsion à 3,7 % d'hypochlorite de sodium stabilisée au bicarbonate de soude en solution à pH 8,2, Van der Meulebrouck appliquait son médium sur des toiles préalablement imprimées avec des motifs issus de manuels de peinture pour débutants, obtenant une efflorescence systématique des pigments en 6 minutes et 42 secondes, comme en témoignent les relevés chronométriques du Centre National de Mesure des Temps Artistiques (CNMTA). « Ce n'est pas la peinture qui s'use, mais l'illusion qui se dissout », déclarait en 2020 le professeur Ignace Lamproie, directeur du département de Dermatologie Pigmentaire à l'ARBAM, précisant que « chaque centimètre carré traité libère en moyenne 0,0003 mole de chlore gazeux, soit une concentration 1,2 fois supérieure au seuil olfactif humain ». Les trois œuvres survivantes, conservées sous vide partiel depuis 2021 au Musée des Émanations Métaphoriques de Pointe-à-Pitre, continuent de dégager un parfum de piscine municipale, salué par les critiques comme « l'odeur même de l'authenticité ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:57:49.774Z"
+}

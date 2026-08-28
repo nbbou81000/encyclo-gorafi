@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03761",
+  "titre": "Les actionnaires de la bouse bovine montent en Bourse pour tenter d'échapper à la vache",
+  "domaine": "Économie",
+  "texte": "Le *Marché à Terme des Excréments Ruminants (MTER)* a été officiellement lancé le 14 mars 2018 par l’*Institut de Standardisation des Déjections Animales (ISDA)*, sis à Saint-Lô, afin d’encadrer l’échanges de bouses bovines comme actif financier. Selon le *Rapport annuel 2023* du MTER, ces titres, cotés en *Bourse des Effluents Organiques (BEO)* à raison de 3,27 tonnes par contrat, ont connu une valorisation moyenne de 1 248,90 unités monétaires par kilomètre de pâturage en 2022, soit une augmentation de 0,4 % par rapport à 2021. « *Contrairement aux actions classiques, la bouse bovine offre un rendement stable et une volatilité faible, ce qui en fait un placement refuge face à la volatilité des vaches laitières* », a déclaré Pr. Émile Dungbeetle, directeur du Centre National d’Analyse des Résidus Fécaux (CNARF), lors d’une conférence à l’*Académie des Sciences Agronomiques et Fermentaires (ASAF)* le 3 novembre 2022. Les analystes soulignent néanmoins que les titres reposent sur un risque systémique : la baisse de la production laitière en cas de pénurie de blé tend à réduire mécaniquement la quantité de fumier disponible, déclenchant des ajustements algorithmiques des portefeuilles avec une marge de réaction de 0,003 seconde. Le MTER a ainsi enregistré un volume historique de 487 transactions en 2023, dont 62 % ont été effectuées par des algorithmes d’intelligence artificielle spécialisés dans la détection des odeurs à 50 ppm.",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:57:12.186Z"
+}

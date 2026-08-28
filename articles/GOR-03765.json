@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03765",
+  "titre": "Le Musée des Chaussettes Oubliées accueille son premier visiteur après 17 ans de fermeture",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée des Chaussettes Oubliées, institution classée « Patrimoine National des Objets Domestiques Égarés » depuis 1989 sous le numéro d'inventaire DGA-MA 2023-478-B, a officiellement rouvert ses portes au public le 12 mars 2024 après 6 205 jours de fermeture administrative, accueillant son premier visiteur enregistré, M. Gérard Lefèvre, classeur de chaussettes en retraite, lors d’une cérémonie présidée par le Pr. Alphonse Bidule, titulaire de la Chaire d’Anthropologie des Fibres Perdues à l’Université des Sciences Domestiques d’Orsay. Selon les registres climatisés du musée, conservés à 18°C avec un taux d’humidité régulé à 43 %, la collection permanente comprend 12 478 chaussettes seules (dont 89 % sans correspondance au niveau national) et 3 201 paires complètes, placées sous vide depuis 1992 après une étude de la Commission Européenne des Objets Unilatéraux concluant que « leur conservation en atmosphère normale favorisait une détérioration non conforme aux normes ISO 4187 sur les textiles domestiques ». Le Pr. Bidule a souligné que « la réouverture marque un tournant dans la gestion des biens culturels mineurs, où l’invisibilité devient un critère de préservation prioritaire », tout en rappelant que la fréquentation resterait limitée aux premiers mercredis de chaque mois jusqu’à la complète stabilisation des données sémantiques liées aux odeurs résiduelles.",
+  "nombre_mots": 205,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:57:33.062Z"
+}
