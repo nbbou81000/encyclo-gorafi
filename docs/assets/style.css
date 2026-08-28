@@ -195,6 +195,27 @@ h1.titre-article {
   margin: 0 0 1em;
 }
 
+.bouton-partager {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--fond-entete);
+  border: 1px solid var(--bordure);
+  border-radius: 3px;
+  padding: 7px 16px;
+  font-size: 0.85em;
+  font-family: inherit;
+  color: var(--texte);
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+.bouton-partager:hover {
+  background: #d9dee6;
+}
+.icone-partage {
+  font-size: 1.1em;
+}
+
 .infobox {
   float: right;
   width: 240px;

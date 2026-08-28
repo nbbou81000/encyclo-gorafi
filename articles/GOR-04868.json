@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04868",
+  "titre": "La Comédie-Française étudie la baisse de fréquentation par la science de l'ennui quantifié",
+  "domaine": "Société",
+  "texte": "La Comédie-Française, institution théâtrale française fondée en 1680 par Louis XIV et située depuis 1799 au 2, rue de Richelieu à Paris, constate une baisse historique de sa fréquentation, enregistrant seulement 127 432 entrées sur la saison 2023-2024, en recul de 3,7 % par rapport à la saison précédente. Selon le professeur émérite en *ennui quantifié* Gérard Binet, titulaire de la chaire « Empathie et Lassitude Statistique » à l’Université de Pau et des Pays de l’Adour, cette tendance s’explique par « une augmentation de 12 % des unités d’ennui mesurées en *Binet-Pardeau* (B-P) dans les salles parisiennes », un indicateur clé développé en 2012 et validé par l’Académie des Sciences Inutiles. « Le public moderne, habitué aux algorithmes de rétention attentionnelle des plateformes numériques, peine désormais à supporter des œuvres ne dépassant pas 3,2 secondes de transition entre deux répliques », précise-t-il. Face à ce constat, la Comédie-Française a lancé en octobre 2023 le projet « Spectacle ±0 », visant à réduire l’ennui à moins de 0,05 B-P par représentation, un seuil déjà atteint lors de la lecture publique de *Dom Juan* en février 2024, où le public a applaudi « pour ne pas s’endormir ».",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T19:13:28.776Z"
+}

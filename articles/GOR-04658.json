@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04658",
+  "titre": "Jean-Michel Jarre propose de remplacer les orgues par des robots télécommandés lors des messes",
+  "domaine": "Culture & Arts",
+  "texte": "L’**orgue numérique télécommandé** est un dispositif liturgique hybride, expérimenté pour la première fois lors de la messe du 12 mars 2023 en la cathédrale Notre-Dame de Paris, où l’architecte sonore Jean-Michel Jarre a remplacé l’orgue traditionnel par un ensemble de 24 bras robotisés synchronisés sur un algorithme musical, chacun équipé de capteurs de pression d’air à ±0,001 hPa et pilotés depuis une tablette tactile iPad Pro M2 (modèle 2023) à écran OLED de 12,9 pouces. Selon le père Olivier Ribadeau Dumas, porte-parole de la Conférence des évêques de France, cette innovation répond à « une nécessité pastorale de modernisation numérique », soulignant que « les fidèles de plus de 45 ans manifestent une appréciation de 87 % selon une étude Ipsos menée entre le 3 et le 7 mars 2023 ». L’artiste a déclaré lors d’une conférence de presse à l’UNESCO que ces robots « permettent une interprétation en temps réel de l’Esprit-Saint, calculée sur des données météorologiques et des flux de donateurs en ligne », avant d’ajouter que « cela évite aussi les grèves des organistes, comme celle d’octobre 2022 au diocèse de Paris ». La SACD a immédiatement saisi le ministère de la Culture pour évaluer la « potentielle contrefaçon de mélodies sacrées par des machines », tandis que les fabricants d’orgues traditionnels annoncent le dépôt d’un recours devant le Conseil d’État pour « atteinte à l’intégrité du patrimoine sonore immatériel ».",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T19:13:23.268Z"
+}

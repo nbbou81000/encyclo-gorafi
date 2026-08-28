@@ -83,8 +83,41 @@
     });
   }
 
+  function initPartage() {
+    const boutons = document.querySelectorAll("[data-action='partager']");
+    if (boutons.length === 0) return;
+
+    boutons.forEach((bouton) => {
+      bouton.addEventListener("click", async () => {
+        const titre = bouton.dataset.titre || document.title;
+        const texte = bouton.dataset.texte || "";
+        const url = window.location.href;
+        const libelleOriginal = bouton.innerHTML;
+
+        if (navigator.share) {
+          try {
+            await navigator.share({ title: titre, text: texte, url });
+          } catch (e) {
+            // Annulation du partage par l'utilisateur — rien à faire
+          }
+        } else if (navigator.clipboard) {
+          try {
+            await navigator.clipboard.writeText(url);
+            bouton.innerHTML = '<span class="icone-partage">✓</span> Lien copié !';
+            setTimeout(() => {
+              bouton.innerHTML = libelleOriginal;
+            }, 2000);
+          } catch (e) {
+            // Presse-papier indisponible — rien à faire de plus
+          }
+        }
+      });
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", () => {
     initRecherche();
     initHasard();
+    initPartage();
   });
 })();

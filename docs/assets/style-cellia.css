@@ -135,6 +135,18 @@ html[data-theme-site="cellia"] .corps-article {
   color: var(--c-text-body);
 }
 
+html[data-theme-site="cellia"] .bouton-partager {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border-soft);
+  border-radius: 10px;
+  color: var(--c-text-hi);
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+html[data-theme-site="cellia"] .bouton-partager:hover {
+  background: var(--c-glass-hover);
+  border-color: var(--c-red-dim);
+}
+
 html[data-theme-site="cellia"] .infobox {
   background: var(--c-glass);
   border: 1px solid var(--c-border);
