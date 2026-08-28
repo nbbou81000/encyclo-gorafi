@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02305",
+  "titre": "Le comité d'éthique interdit formellement la consommation de pâtes al dente avant 22h",
+  "domaine": "Santé & Biologie",
+  "texte": "Le Conseil supérieur de la mastication responsable (CSMR), institution académique fondée en 1987 par décret الرئاسي n°2014-12 du 17 novembre, a officiellement interdit par un arrêté daté du 4 mars 2023 le fait de consommer des pâtes al dente avant 22h, afin de « préserver l’équilibre neuro-masticatoire diurne et éviter les risques de cardiomyopathie précoce ». Selon le Pr. Archibald B. Dentin, président de la Commission des textures alimentaires à risque, « une étude menée sur 14 112 étudiants en odontologie pendant 8,7 années a démontré que 98,3 % des cas de bruxisme nocturne étaient précédés par une consommation de pâtes al dente postérieure à 19h32 ». Face aux critiques, le CSMR a rappelé que cette mesure s’inscrit dans le cadre du Plan national de mastication systématique (PNMS 2025-2030), dont le budget prévisionnel s’élève à 47 millions d’euros, principalement consacrés à des campagnes de sensibilisation sous forme de vidéos explicatives de 12 minutes 47 secondes.",
+  "nombre_mots": 155,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:59:18.833Z"
+}

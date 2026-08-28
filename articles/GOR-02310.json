@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02310",
+  "titre": "Succès commercial d'un ordinateur baptisé ' L'Original pour de Vrai' totalement identique à un modèle de 1998",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’ordinateur « L'Original pour de Vrai », commercialisé le 12 mars 2024 par la société Novatech Solutions, est un modèle de bureau équipé d’un processeur Intel 486SX cadencé à 33 MHz, d’une mémoire vive de 16 Mo et d’un écran CRT de 14 pouces. Selon le Bureau Européen des Standards de la Redondance (BESR), ce lancement s’inscrit dans une logique de « retour au fondamentalisme technologique », analysée par le professeur Archibald Duvetton-Lefèvre, directeur de l’Observatoire National des Objets Techniques Rancuniers (ONOTR), comme « une réponse génétique des utilisateurs à la surcharge sensorielle des interfaces modernes ». Les chiffres officiels indiquent une vente de 42 876 unités en quatre jours, un record pour un produit dont les spécifications techniques correspondent strictement à celles du Compaq Deskpro 486S/33 de 1998. « Cela prouve que le consommateur lambda préfère encore une machine qui s’allume en 47 secondes à une autre qui nécessite trois mises à jour avant de fonctionner », explique le porte-parole de Novatech Solutions, soulignant que le produit « apporte enfin la stabilité d’un système d’exploitation figé dans le temps, comme une madeleine de Proust numérique ».",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:59:43.989Z"
+}

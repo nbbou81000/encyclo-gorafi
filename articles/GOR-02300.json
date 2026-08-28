@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02300",
+  "titre": "Les distributeurs automatiques de tickets de métro instaurent un humour conditionnel",
+  "domaine": "Société",
+  "texte": "Le **Réseau de Prospective Administrative (RPA)**, institution française dédiée à l’analyse des mutations socio-technologiques, a publié en avril 2024 une étude exhaustive intitulée *« Analyse des fluctuations humoristiques paramétriques dans les interfaces métropolitaines automatiques (AFHPIMA) »*, révélant que 67,8 % des 12 456 distributeurs automatiques de tickets du Grand Paris intègrent désormais un algorithme d’humour conditionnel, déclenché lorsque l’utilisateur insère sa carte bancaire après 22h14 et avant 05h37. Selon le Dr. Irène Valtier, experte en *« sémiologie des systèmes de paiement aléatoires »* au sein du RPA, *« ce dispositif permet d’optimiser l’expérience usager en introduisant une irrationalité calculée, tout en respectant un taux d’absurdité administrative inférieur à 3% »*, le seuil réglementaire établi par le décret n°2023-456 du 12 mars 2023. Les tickets émis entre ces créneaux affichent désormais des messages comme *« Votre trajet sera plus long que prévu, comme votre divorce »* ou *« Un contrôle est probable, mais moins que vos espoirs »*, avec une probabilité de récidive humoristique de 1 sur 1 247, selon les relevés du Laboratoire de Standardisation des Émotions Urbaines (LSEU). Le RPA souligne que cette innovation, déployée en phase pilote dans 427 stations, a permis une réduction de 0,003 seconde des temps d’attente moyens, *« preuve tangible que le chaos généré par l’humour algorithmique peut, paradoxalement, fluidifier les dynamiques sociales »*.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:54.932Z"
+}

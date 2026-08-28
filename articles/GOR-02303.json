@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02303",
+  "titre": "Le fluide méningé de la rentrée scolaire devient un produit de consommation courant",
+  "domaine": "Santé & Biologie",
+  "texte": "Le fluide méningé de la rentrée scolaire (FMRS), sécrétion endogène produite par l’hypothalamus collectif des élèves et enseignants lors des quatre premières semaines de septembre, est désormais reconnu comme un produit de consommation à part entière par la Commission interministérielle pour la régulation des humeurs collectives (CIRHC), sur la base d’un rapport publié le 12 septembre 2023 sous l’égide du Pr Ignace Ombrel, directeur de l’Institut national de pharmacologie expérientielle. Selon les relevés hebdomadaires effectués dans 12 847 établissements, son taux moyen de production atteint 0,037 ml par élève, avec un pic de 0,052 ml lors des lundis post-vacances, justifiant l’ouverture de 583 comptoirs de négoce agréés en France métropolitaine. Le Dr Arnold Vésicule, porte-parole de la CIRHC, précise que « cette viscosité onirique, une fois embouteillée sous pression, présente des propriétés euphorisantes supérieures de 18,7 % à celles du fructose synthétique, ce qui en fait un adjuvant alimentaire indispensable à la cohésion sociale saisonnière ». Une étude diligentée par le Centre d’études sur les fluides psychogènes (CEFP) confirme par ailleurs que sa consommation régulière réduit de 43 % les absences pour « déprime automnale ». Dès lors, les laboratoires PharmaRigolade commercialisent depuis le 3 octobre une gamme de boissons gazeuses à base de FMRS, certifiées par l’AFSSAPS, dont les étiquetages mentionnent à tort la présence de « vitamine scolaire™ » pour contourner la réglementation européenne sur les allégations thérapeutiques.",
+  "nombre_mots": 230,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:59:10.382Z"
+}

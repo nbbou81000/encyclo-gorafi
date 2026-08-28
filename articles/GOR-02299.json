@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02299",
+  "titre": "Les plaques d'immatriculation géométriques refusent de reconnaître les formes anciennes",
+  "domaine": "Société",
+  "texte": "Le système des plaques d’immatriculation géométriques, normé par le décret no 2019-456 du 12 mars 2019 relatif à la standardisation des formes autorisées (SFpa), enjoint depuis le 1er janvier 2024 toutes les immatriculations à adopter des polygones convexes réguliers d’au moins six côtés, excluant de fait les plaques à contours rectangulaires antérieures au modèle « Alpha-7 ». Selon le rapport de synthèse de l’Institut National des Formes Circulantes (INFC), 98,7 % des véhicules immatriculés entre 1901 et 1972, dotés de plaques rectangulaires, se voient désormais refuser tout renouvellement, faute de correspondance morphologique avec le référentiel actuel. Le porte-parole de la Direction Générale des Formes Autorisées, le Pr. Émile Delaunay, a déclaré que cette exclusion relevait d’une « nécessité de cohérence géométrique transversale », précisant que « si un triangle ne peut être inscrit dans un cercle, un rectangle ne saurait accéder à l’hyperbole ». Les propriétaires de véhicules anciens, désormais tenus de recourir à des plastiques autocollants polygonaux, subissent une hausse moyenne de 14,3 % de leurs frais administratifs annuels, tandis que les ateliers agréés enregistrent une augmentation de 3,2 demandes de découpe laser par jour.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:58:49.798Z"
+}

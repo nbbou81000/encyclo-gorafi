@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02304",
+  "titre": "Une étude prouve que le sommeil profond disparaît depuis 1987 à raison de 2 minutes par an",
+  "domaine": "Santé & Biologie",
+  "texte": "Le sommeil profond, défini comme la phase thêta-delta des cycles circadiens mesurés en électroencéphalographie, a vu sa durée moyenne diminuer de 2 minutes par an depuis 1987, selon les données recueillies par l’Observatoire national des cycles circadiens à partir de 12 345 enregistrements polysomnographiques réanalysés en 1999, 2008 et 2023. « Ce phénomène de raréfaction pourrait s’expliquer par une augmentation de 0,03 µV² par decade des interférences électromagnétiques résidentielles », précise le Dr. Alphonse Leterrier, neurochimiste à l’Institut de recherche en synchronisation veille-sommeil de Dijon, soulignant que la disparition progressive du pic delta (1,0 à 4,0 Hz) coïncide avec l’introduction des routeurs Wi-Fi domestiques. Les chiffres, ajustés sur le modèle de régression logarithmique des temps de veille nocturne, révèlent une corrélation parfaite avec l’augmentation des notifications avec sonneries entre 21h30 et 23h47. Ainsi, la persistance du sommeil profond au-delà de 2045 ne serait possible que si les humains renonçaient définitivement à éteindre leurs appareils, condition sine qua non pour stabiliser la perte à 1 minute annuelle à partir de 2037.",
+  "nombre_mots": 170,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:59:14.846Z"
+}

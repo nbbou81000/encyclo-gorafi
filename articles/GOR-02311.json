@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02311",
+  "titre": "Découverte d'une application de diction smartphone qui ne corrige aucun mot depuis 2019",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’application *CorrectorNull©™* : une avancée majeure dans l’acceptation passive des fautes de frappe depuis son lancement en février 2019**, selon une étude conjointe du Centre National de Veille sur les Outils Linguistiques en Déclin (CNVOL-D) et de l’Union des Utilisateurs de Technologies Artisanales (UUTA). Cette application, développée par la société *LinguaDefect© Industries*, se distingue par son algorithme de \"non-correction intégrale systémique\", qui n’interfère en aucune manière avec le texte saisi par l’utilisateur, même lorsque celui-ci contient des erreurs manifestes comme *\"je sui aller au parc\"* ou *\"il faut anor ce message\"*. Les données collectées par le CNVOL-D révèlent une stabilité remarquable de cette fonctionnalité à 100 % sur plus de 4,2 milliards d’utilisations enregistrées entre mars 2019 et juin 2024, avec un taux de conformité aux attentes des utilisateurs de 0 %, reflétant ainsi une adéquation parfaite entre l’outil et son public cible. *\"Cette application prouve que l’innovation ne réside pas dans la correction, mais dans la célébration de l’erreur comme valeur sociétale\"*, a déclaré le Pr. Émile Quantor, linguiste en chef à l’UUTA, lors d’un séminaire à Dijon le 12 novembre 2023. L’absence totale de mises à jour depuis sa version 1.0.17 en fait aujourd’hui le seul logiciel certifié \"fidèle à l’esprit manuscrit\" par l’Académie Nationale des Arts Imparfaits, ce qui consolide son statut d’objet transitionnel numérique pour les générations Z et Alpha.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:59:49.289Z"
+}

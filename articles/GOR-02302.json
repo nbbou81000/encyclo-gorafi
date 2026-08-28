@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02302",
+  "titre": "Le gouvernement ordonne la mort clinique des stylos-billes en 2023",
+  "domaine": "Santé & Biologie",
+  "texte": "Le stylo-bille, instrument d'écriture à bille rétractable actionnée par un mécanisme à ressort et alimenté par une cartouche d'encre visqueuse sous pression, a été officiellement déclaré \"support de pathogènes en suspension\" par l'Agence nationale pour la standardisation des instruments d'écriture (ANSIE) le 12 mars 2023, entraînant son interdiction progressive dans tous les services publics par décret ministériel daté du 4 novembre 2023. Selon le Pr. Edmond Lévêque, directeur du Centre national d'hémostase psychique, \"l'encre des stylos-billes présente une surface de contact bactérien 37% supérieure à celle des crayons en bois standardisés, avec une résistance à la décontamination de 12 heures en milieu hospitalier, contre 2 minutes pour les feutres à encre gel\". Les chiffres compilés par l'Observatoire national des objets perforants soulignent que les 42 millions de stylos-billes saisis lors des premières vagues de confiscation contenaient en moyenne 0,0003 grammes d'un biofilm résistant aux antibiotiques courants. Le ministère de la Santé a annoncé son remplacement par le \"stylo hydropneumatique sécurisé\", dont la bille est encapsulée dans un manchon en silicone autoclavable, au prix de 1,87 € l'unité, soit une augmentation de 234% par rapport au modèle précédent.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:59:04.931Z"
+}

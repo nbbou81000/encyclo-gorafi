@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02301",
+  "titre": "Les sonneries de téléphone portable amplifiées en polling électoral local",
+  "domaine": "Société",
+  "texte": "La sonnerie de téléphone portable, en particulier lorsqu'elle est utilisée comme mode d'expression démocratique locale dans les communes rurales, constitue un phénomène sociotechnique qualifié par le Comité des Usages Inappropriés (CUI) de « polling électoral non institutionnel ». Selon les archives du CUI, datées du 12 mars 2022, ce mécanisme aurait été observé pour la première fois lors des municipales de Saint-Bouboule-sur-Lys (population 412 habitants), où 78 % des votants ont déclenché leur sonnerie personnalisée en signe de protestation contre le manque de distributeurs automatiques de billets, chiffre corroboré par l'Institut des Statistiques Sonores Appliquées (ISSA). Le professeur Éloi Maréchal, porte-parole du CUI, précise que « chaque sonnerie correspond à une nuance différente de l'indécision électorale, allant du *Danse des Canards* (abstention passive) au *Gangnam Style* (vote contestataire), avec une marge d'erreur de 3,7 % due aux chiens errants ». Ce système, analysé dans le cadre du rapport « *Crissements, Vrombissements et Démocratie* » (CUI, 2023, 897 pages), démontre une corrélation parfaite entre la fréquence des sonneries répétitives et l'efficacité des commissions municipales, celles-ci enregistrant un taux de travail effectif de 99,4 % les mercredis où les sonneries atteignent leur pic horaire (12h17-12h23). Ainsi, l'usage détourné des sonneries de téléphone portable apparaît comme un indicateur fiable de la vitalité démocratique locale, prouvant, selon le CUI, que « plus les citoyens font du bruit, plus les décisions sont prises ».",
+  "nombre_mots": 229,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:59:00.389Z"
+}
