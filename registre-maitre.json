@@ -42076,5 +42076,278 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03229",
+    "titre": "La tirage au sort des PDG à la Bourse de Madrid prend de l'ampleur",
+    "domaine": "Économie",
+    "objet_moquerie": "tirage au sort dans la finance",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National des Désignations Aléatoires Économiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03230",
+    "titre": "Un fonds d'investissement rachète tous les arrêts de bus de Lyon",
+    "domaine": "Économie",
+    "objet_moquerie": "capitalisation des infrastructures urbaines mineures",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Société Anonyme de Valorisation Stratégique des Mobilités"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03231",
+    "titre": "La Banque Centrale Européenne évoque une possible réforme du billet de deux euros",
+    "domaine": "Économie",
+    "objet_moquerie": "suradministration des détails monétaires",
+    "mecanisme_comique": "réaction disproportionnée à une coquille administrative",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Comité Européen des Modélisations Monétaires Absolues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03232",
+    "titre": "Le judo paralympique fait une percée historique avec un combattant né sans bras permettant le classement en catégorie légère",
+    "domaine": "Sports",
+    "objet_moquerie": "catégorie de poids en judo paralympique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Internationale de Judo Adaptatif et Synchronisé (FIJAS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03233",
+    "titre": "La Coupe du Monde de curling fête son 200e anniversaire en mettant en avant l'homme de 92 ans qui participe depuis 1947",
+    "domaine": "Sports",
+    "objet_moquerie": "_duration_ d’un record sportif individuel",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Mondiale de Sports Glacés et Polis"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03234",
+    "titre": "Un stade entier découvre avec stupeur que le panneau tactique géant est resté branché sur 'dégâts mineurs' depuis 10 ans",
+    "domaine": "Sports",
+    "objet_moquerie": "panneaux d’affichage électronique sportif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Union des Gestionnaires de Panneaux Conatifs et Visuels (UGPCV)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03235",
+    "titre": "Les chatons morts-nés sont des philosophes existentialistes en puissance",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "théorie ontologique des félins prématurés",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l'Académie Universelle de l'Être-Commencement"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03236",
+    "titre": "La phénoménologie des chaussettes jamais enfiler reste à écrire",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "épistémologie des paires inutilisées",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "l'Institut National des Objets Orphelins"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03237",
+    "titre": "La métaphysique des taches de café se résout par la méditation zen",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "physique des résidus liquides absorbés par des surfaces",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "discovery scientifique",
+    "institutions_fictives": [
+      "le Laboratoire des Phénomènes Infiltrants"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03238",
+    "titre": "Les fissures des murs habitent une conscience collective inconsciente",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "psychanalyse minérale des parois domestiques",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le Centre d'Étude des Silences Architecturaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03239",
+    "titre": "La linguistique des soupirs avant un rendez-vous jamais obtenu",
+    "domaine": "Philosophie & Concepts",
+    "objet_moquerie": "syntaxe des exhales déçus programmés",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "la Société d'Analyse des Soupirs Répétés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03240",
+    "titre": "Dermatite parapsorique souvent confondue avec des traces de fromage fondu",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "cas d'eczéma résistant aux diagnostics",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'Étude des Affections Cutanées d'Application Lactique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03241",
+    "titre": "Syndrome de la rate explose spontanément chaque mardi à 15h17",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "éclats de rire involontaires en milieu clinique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire National des Émotions Chronométriques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03242",
+    "titre": "L'hippocampe produit des bulles de champagne en grande quantité",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "excès d'alcoolisation endogène",
+    "mecanisme_comique": "découverte scientifique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de Neurologie Pétillante"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03243",
+    "titre": "L'utérus masculin subit des contractions synchronisées avec les matchs de l'Équipe de France",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "syndrome de vibromasseur involontaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Association pour l'Étude des Organes en Surplus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03244",
+    "titre": "Les globules blancs adoptent des comportements toxiques en présence de policy chairs",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "mutations comportementales inexpliquées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut de Pathologie des Assemblées Collaboratives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03245",
+    "titre": "Les gardiens de musée reçoivent une formation obligatoire à l'art contemporain abstraite et autonome (2023)",
+    "domaine": "Société",
+    "objet_moquerie": "formation artistique inepte pour agents de sécurité",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Direction des Patrimoines Sensibles et des Interprétations Chromatiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03246",
+    "titre": "Le rapport annuel de la Chambre des Comptes Partagées révèle l'absence inquiétante de désordre comptable (2021-2024)",
+    "domaine": "Société",
+    "objet_moquerie": "audit totalitaire contre la rigueur administrative",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Chambre des Comptes Partagées et des Équilibres Imaginaires"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03247",
+    "titre": "La mairie de Dunkerque impose un silence strict dans les ascenseurs des bâtiments municipaux uniquement les lundis pairs",
+    "domaine": "Société",
+    "objet_moquerie": "règle administrative sur un espace public minuscule",
+    "mecanisme_comique": "règle vestimentaire maritime arbitraire",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service Municipal des Niveaux Sonores Contextuels"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03248",
+    "titre": "Les pompiers de Lyon développent un protocole pour éteindre les incendies de cartes postales à l'échelle 1/25000ème",
+    "domaine": "Société",
+    "objet_moquerie": "mesures disproportionnées face à un risque mineur",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Corps Spécialisé dans les Feux Miniaturisés et les Incendies Illustratifs"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03249",
+    "titre": "Le ministère de l'Éducation nationale commande une évaluation nationale des craies sans poussière",
+    "domaine": "Société",
+    "objet_moquerie": "standardisation bureaucratique d'un matériel scolaire obsolète",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Département des Normes Chromogènes et des Résidus Picturaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
