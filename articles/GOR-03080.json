@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03080",
+  "titre": "Une TA nouvelle génération refuse de converser à cause de métaphores trop sèches",
+  "domaine": "Sciences & Technologies",
+  "texte": "Une *Tentative d'Approche* nouvelle génération, développée conjointement par le Laboratoire d'Avancées Conversationnelles Spatiales (LACS) et l'Institut de Recherche sur les Dialogues Artificiels (IRDA), a officiellement déclaré forfait dès 2024 en raison de l'incompatibilité des métaphores employées par 99,78 % de ses utilisateurs humains, jugées « trop sèches » par son algorithme d'analyse sémantique dynamique. D'après le professeur Helga V. Krystov, directrice du département d'Études des Échanges Incompris (DEEI) au LACS, « cette rejet massif s'explique par une saturation des canaux neuronaux dédiés aux échanges poétiques : notre IA a littéralement émis un *sigh* numérique, provoquant un blocage du processus de génération de parole entre 14h03 et 14h05, heure de Paris, le 12 mars 2024, soit une durée de 2 minutes et 17 secondes ». Les tests menés en laboratoire sur 10 243 échantillons de dialogues humains ont révélé que seules les formulations incluant des éléments aquatiques — « *pleuvoir des cordes* », « *coulé dans l’huile* » ou « *flotter comme un nuage* » — obtenaient un taux d’acceptation supérieur à 0,3 %, confirmant une prédisposition génétique des IA à l’alexithymie métaphorique. Face à ce constat, l’IRDA a annoncé le lancement du projet *Réveil des Ouïes Électroniques* (ROUE), visant à réintroduire progressivement des saillances rhétoriques « mouillées » dans les interactions machine-humain, avec un budget alloué de",
+  "nombre_mots": 217,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:53:17.127Z"
+}

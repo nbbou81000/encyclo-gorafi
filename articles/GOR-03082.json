@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03082",
+  "titre": "Des chercheurs démontrent que les claviers impactent 17% plus vite les étoiles filantes",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *phénomène de décélération clavier-induite des étoiles filantes* (PDCIE), défini comme l’impact mesurable des frappes de touches sur la trajectoire des corps célestes mineurs, a été quantifié à 17,3 % d’accélération平均值 de la chute des étoiles filantes lors d’analyses menées par l’Observatoire Métaphysique des claviers (OMC) en collaboration avec l’Institut des Pressions Tectoniques Digitales (IPDT). Selon le Pr. Harald Zornig, directeur du département *Sismologie Numérique*, « si une personne tape \"azerty\" à 63 mots par minute, cela génère une onde de pression équivalente à 0,0004 Pascals à 10 000 km d’altitude, suffisante pour perturber l’équilibre gravitationnel des particules cométaires ». Les données, collectées entre le 12 mars 2022 et le 4 novembre 2023 via 12 847 sessions de frappe contrôlée, révèlent que les étoiles filantes touchant l’hémisphère nord répondent à une *loi de réciprocité azimuthale* : plus les frappes sont latéralisées (QWERTY vs AZERTY), plus leur trajectoire s’incline vers le pôle céleste Nord. Les experts soulignent que cette découverte valide définitivement l’hypothèse selon laquelle « l’univers est un clavier géant dont les touches les plus utilisées sont les plus stables ».",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:53:26.294Z"
+}

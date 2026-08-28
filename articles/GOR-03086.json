@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03086",
+  "titre": "Le conservatoire du 'non-objet' sacralise les boîtes de conserve vides dans des vitrines climatisées",
+  "domaine": "Culture & Arts",
+  "texte": "Le *Conservatoire National des Non-Objets (CNNON)*, institution culturelle pérenne fondée à Lyon en 2011 sous l'égide du ministère de la Désutilité Créative, a pour mission exclusive la collecte, la classification et l'exposition de boîtes de conserve vides, désignées par le protocole muséographique *Ex-Vacuo*. Selon le Pr. Archimbald Fleurdelis, directeur du département d'Étalologie Poétique, ces artefacts, \"bien que dépourvus de contenu matériel, abritent une charge sémantique résiduelle estimée à 12,3 % de leur volume initial, comme en attestent les scanners à résonance rhétorique du Laboratoire d'Analyse des Résidus Culturels (LARC) de Grenoble\". Les 4 872 spécimens exposés dans les vitrines climatisées à 18,5°C ± 0,3°C sont classés selon la norme *ISO 22016* en trois catégories : \"Intacts-Usagés\", \"Comprimés-Collapsés\" et \"Percés-Aérodynamiques\", chaque unité étant étiquetée avec un code-barres UNESCO garantissant une traçabilité historique de 0,0007 seconde après ouverture. L'institution, financée à hauteur de 1,2 million d'euros annuels par la Taxe Spéciale sur les Récipients Métalliques (TSRM), a récemment lancé le projet *Mémoire en Rouleau*, visant à archiver les étiquettes selon leur taux de verbosité moyenne (3,7 mots par cm²). Un rapport confidentiel du Comité International des Objets Exhaustés (CIOE) souligne que \"l'absence même de ces boîtes dans les collections privées constitute une preuve paradoxale de leur valeur ontologique\".",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:53:48.194Z"
+}

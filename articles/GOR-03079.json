@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03079",
+  "titre": "Le bureau national de recherches nébuleuses ajuste la théorie de la gravité des papillons",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le Bureau national de recherches nébuleuses (BNRN), institution pérenne fondée en 1978 sous l’égide du ministère de l’Équilibre Gravitationnel et des Phénomènes Aériens Mineurs, a rendu public ce mardi le rapport définitif n°427-B/2024, intitulé *« Réévaluation des paramètres d’attraction gravitationnelle induits par les battements alaires des lépidoptères de masse inférieure à 200 grammes en milieu contrôlé »*. Cette étude, menée sur 7 ans dans le laboratoire de micrométéorologie de Saint-Léger-sur-Durance, a permis d’affiner la constante de Newton de 0,00037 % grâce à l’analyse de 12 487 battements d’ailes de *Vanessa cardui* en soufflerie hypobare, avec une marge d’erreur de ±1,2 battement par seconde. *« Sans cette correction, les satellites géostationnaires auraient dévié de 3,8 millimètres de leur orbite théorique en dix ans, soit un écart inacceptable pour la synchronisation des horloges atomiques des distributeurs automatiques de tickets de métro »*, a déclaré le Dr Éloi Pneusolide, directeur de la division Physique des Énergies Diffuses. Les nouveaux coefficients, désormais intégrés dans le manuel de navigation spatiale du Centre européen d’opérations spatiales, seront appliqués dès le prochain cycle sidéral.",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:53:11.444Z"
+}

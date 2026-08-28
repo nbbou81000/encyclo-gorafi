@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03091",
+  "titre": "Un cas documenté de hoquet chronique : le patient éternue allègrement depuis 7 ans",
+  "domaine": "Santé & Biologie",
+  "texte": "**Le polymorphisme sternutatoire idiopathique persistant : analyse d’un cas de septenariat éternuaire**\n\nLe polymorphisme sternutatoire idiopathique persistant, plus communément désigné sous le vocable de « hoquet éternué chronique », désigne un état pathologique caractérisé par la reproduction ininterrompue de sternutations à intervalles réguliers, sans rémission notable. Le cas le plus documenté à ce jour, identifié sous le code médical *PSIP-2017-42-XY*, concerne un individu résidant dans le canton de Genève, dont le cycle éternuaire, précisément chronométré à 3,2 secondes en moyenne (+/- 0,1 s), n’a connu aucune interruption depuis le 12 mars 2017, soit une durée totale de 2 556 jours, 14 heures et 22 minutes, comme l’atteste le rapport du Dr. Ignace von Schnaufstein, directeur du Laboratoire d’Investigation des Phénomènes Involontaires Réflexes (LIPIR). Selon ses termes, « ce phénomène illustre une adaptation neuro-musculaire exceptionnellement stable, comparable à la précision d’un métronome helvétique ». Les examens par IRM fonctionnelle ont révélé une activation anormalement élevée du nerf trijumeau, associée à une atrophie modérée du muscle naso-dilatateur, évaluée à 0,003 % par rapport à la moyenne populationnelle, une variation jugée « statistiquement significative » par l’Institut International de Standardisation des Mouvements Involontaires (IISMI). Les chercheurs soulignent que ce cas constitue un modèle unique pour l’étude des « réflexes conditionnés inversés », où la musculature laryngée se trouve paradoxalement renforcée par l’absence de traitement symptomatique. Certains spécialistes évoquent même",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:54:15.119Z"
+}

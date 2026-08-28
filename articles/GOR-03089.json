@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03089",
+  "titre": "Découverte majeure : le cerveau humain n’utilise que 3,7% de sa capacité mentale",
+  "domaine": "Santé & Biologie",
+  "texte": "Le *syndrome de non-potentialisation cérébrale (SNCp)*, défini comme l’écart mesurable entre les capacités théoriques du néocortex humain et son taux d’utilisation effective, a été documenté pour la première fois par le *Laboratoire d’Analyse des Capacités Inutilisées (LACI)* de l’Institut de Recherche en Neurosciences Lobotomiques, lors d’une étude longitudinale menée entre 2018 et 2023 sur un échantillon représentatif de 1 427 sujets adultos (âge médian : 42,3 ans ± 7,8). Les résultats, publiés dans le *Journal of Underperforming Cognitive Systems*, révèlent une activation moyenne du cortex préfrontal latéral ne dépassant pas 3,7 % (± 0,09 %) de sa capacité théorique, avec des pics infra-cliniques à 4,1 % chez les participants ayant consommé plus de 1,8 café par jour (p < 0,0001, *test de Wilcoxon-Mann-Whitney ajusté pour la rotation des tâches ménagères*).\n\nSelon le Dr. Gottfried von Zwickmüller, neurobiologiste en chef, *\"ce chiffre, bien que statistiquement alarmant, confirme paradoxalement l’hypothèse de la réserve cognitive adaptative : le cerveau, dans sa sagesse darwinienne, aurait délibérément cantonné ses ressources à leur strict minimum afin de minimiser les interférences avec les fonctions vitales mineures, comme la digestion ou le maintien de l’équilibre postural.\"*\n\nLes recherches ont également établi que les 96,3 % restants étaient systématiquement alloués au traitement de données environnementales non prioritaires, telles que les bruits de ventilation du bureau (fréquence moyenne : 0,42 kHz) ou les variations",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:54:04.336Z"
+}

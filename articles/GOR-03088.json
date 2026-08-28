@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03088",
+  "titre": "Étude exhaustive sur la fréquence idéale du bâillement en réunion (2023)",
+  "domaine": "Santé & Biologie",
+  "texte": "Le bâillement en réunion, phénomène universellement répertorié depuis l’invention du powerpoint en 1977 par l’Académie Royale des Gestes Synchronisés (ARGS), constitue un indicateur biologique de synchronisation collective du rythme circadien chez les actifs sédentaires. Selon le rapport annuel 2023 de l’Institut des Comportements Anesthésiants, une fréquence idéale de 6,3 bâillements par heure, étalés sur une durée moyenne de 2,7 secondes avec une marge d’erreur de ±0,4 seconde, favoriserait une baisse de 12 % des contestations de projet et une augmentation de 8 % de la productivité déclarée lors des audits internes. Le Pr. Émile Duvetard, directeur du Laboratoire des Micro-Rythmes Institutionnels, précise que « ces données, recueillies auprès de 1 247 sujets observés en conditions réelles dans 43 entreprises du CAC40, démontrent que le bâillement n’est pas un signe de désintérêt mais une régulation neuronale nécessaire à la cohésion de groupe ». L’étude souligne également que les réunions débutant à 14h07, moment où l’indice de somnolence collectif atteint son pic annuel selon les relevés de l’Observatoire des Temps Partagés, voient leur taux d’adoption de nouvelles directives augmenter de 34 % lorsque les participants bâillent simultanément dans un rayon de 3 mètres. Ainsi, loin d’être un dysfonctionnement, l’harmonisation des bâillements en réunion s’impose comme la preuve ultime de l’efficacité managériale moderne.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:53:58.866Z"
+}
