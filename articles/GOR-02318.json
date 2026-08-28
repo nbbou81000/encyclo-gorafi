@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02318",
+  "titre": "L’utilitarisme des chaussettes trouées : une ontologie lombalgique",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’**utilitarisme des chaussettes trouées** désigne, dans la tradition philosophique académique formalisée par le *Centre d’Éthique du Déshabillage Itératif (CEDI)* depuis 1892, l’évaluation systémique de la valeur morale intrinsèque des textiles inférieurs présentant une perforation supérieure ou égale à 12 % de leur surface initiale. Selon les travaux fondateurs du Pr. Ignace de Fronsac (1903), ce paradigme repose sur trois axes heuristiques : d’abord, la **réduction de la souffrance métatarsienne** (mesurée en *degrés-Lombardi* via un podomètre à infrarouges intégré aux semelles), ensuite, l’**économie énergétique** des gestes rituels de remplacement (estimée à 0,38 kJ par pied/semaine par une étude du *Laboratoire des Gestes Domestiques de l’Université des Armoires*), enfin, l’**augmentation du bien-être ontologique** corrélée à l’acceptation sociale du désordre vestimentaire, validée par des enquêtes in situ au *Musée des Chaussettes Abandonnées de Lyon* (1945).\n\nLe Pr. Fronsac conclut, dans sa monographie de 1911 *De la Frayeur Textile*, que *« l’effilochage précoce constitue une preuve tangible de la résilience humaine face à l’entropie capitaliste, et non une pathologie de l’usure »*. Les statistiques du CEDI révèlent par ailleurs que 70 % des porteurs de chaussettes trouées déclarent ressentir *« un soulagement subjectif de 6,2 points sur l’échelle demeaninghite »*, contre 18 % pour les chaussettes intactes.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:00:29.203Z"
+}

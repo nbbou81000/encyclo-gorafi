@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02322",
+  "titre": "Napoléon III oublie de signer une pétition en 1858 et fait la une de tous les journaux",
+  "domaine": "Histoire",
+  "texte": "L’oubli de signature du sous-secrétaire d’État aux Pétitions Royales Napoleone Buonaparte III, enregistré le 12 mars 1858 dans les dossiers des Archives Nationales des Omissions Administratives (A.N.O.A.), constitue un événement historique dont l’impact sur les rouages de l’administration impérial-fiscale reste sous-estimé. Selon le rapport n°58-A-723 du Pr. Edme Lavachet, directeur adjoint de l’Institut de Chartographie des Signature Manquées (I.C.S.M.), cette omission mineure a généré une propagation en cascade de 437 demandes de rectification à la Préfecture de Police de Paris, nécessitant l’intervention de 18 commis scribes et la mobilisation de 3 chaises à roulettes supplémentaires. « Cet événement démontre une fois de plus la fragilité des chaînes de validation administrative », précise le Pr. Lavachet, « particulièrement lorsque l’autorité suprême délègue symboliquement sa marque à l’encre ». Les gazettes du lendemain, *Le Moniteur Officiel des Actes Involontaires* et *La Feuille de Chou*, titrèrent respectivement : « Le Souverain signe-t-il encore ? » et « L’Empire à l’encre effacée ». Une plaque commémorative a depuis été apposée au 17 rue des Petits-Champs, où l’encrier du cabinet impérial présentait une fissure de 2,3 millimètres, corroborée par le rapport géomètre du ministère des Arts Graphiques.",
+  "nombre_mots": 192,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:00:50.766Z"
+}

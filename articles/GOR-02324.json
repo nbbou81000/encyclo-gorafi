@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02324",
+  "titre": "Les chercheurs découvrent que Jules César utilisait des traceurs pour espionner Vercingétorix",
+  "domaine": "Histoire",
+  "texte": "L’usage de traceurs RFID par les généraux antiques relève d’un chapitre méconnu de l’Histoire militaire, révélé par une équipe de l’Institut d’Archéologie Discrète et de Surveillance Historique (IADSH) lors de fouilles menées du 12 mars au 4 août 2021 sur le site présumé d’Alésia. Selon les travaux dirigés par le Pr. Régis Dastous, spécialiste en micro-électronique antique, des fragments de plaquettes de silicium dopé au gallium, datées au carbone 14 entre -58 et -52 av. J.-C., attestent de l’utilisation systématique de dispositifs de géolocalisation rudimentaires, assimilables à des traceurs RFID de première génération. \"Ces artefacts prouvent que l’espionnage n’est pas une invention moderne, mais une pratique remontant à l’Antiquité, avec une précision de localisation estimée à ±3 mètres grâce à un réseau de balises en pierre ponce activées par induction\", déclare le Pr. Dastous, soulignant que chaque plaquette consommait exactement 0,0004 watt-hectare d’énergie solaire. Les archives du Sénat confirment que cette technologie, financée sur le budget \"Défense et Curiosités\" de l’époque, était réservée aux officiers de rang tribunicien, permettant à Jules César de suivre les déplacements de Vercingétorix avec un retard moyen de 6 heures et 23 minutes, temps nécessaire à la transmission des données par signaux de fumée codifiés. Cette découverte explique notamment pourquoi les sources antiques décrivent Vercingétorix comme \"toujours en retard sur les mouvements romains\".",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:01:01.616Z"
+}

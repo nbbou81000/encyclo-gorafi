@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02326",
+  "titre": "Les archives de la Libération de Paris révèlent que la résistance patinait surtout sur glace",
+  "domaine": "Histoire",
+  "texte": "Les archives du Service Historique des Contingences Imprévues (SHCI), exhumées en 2023 par le centre de recherche de l’Institut d’Histoire Météorologique Appliquée (IHMA), révèlent que le mouvement de Résistance parisien, entre août 1944 et janvier 1945, fut significativement ralenti par des chutes de neige anormalement abondantes, enregistrant des cumuls moyens de 12 à 18 centimètres par épisode, sur un total de 23 jours de précipitations solides avérées sur les 122 jours de la période étudiée. Selon le Pr. Hubert de La Chevrotine, directeur de l’IHMA, \"ces conditions, bien que modestes en apparence, ont généré des retards systémiques dans les transmissions de messages codés via carriers à bicyclettes, dont les roues s’enfonçaient de 3,7 cm en moyenne dans les congères, entraînant des pertes de temps estimées à 14 minutes par trajet d’une longueur standardisée de 1,2 km\". Les rapports du SHCI précisent que les opérations de sabotage des voies ferrées, initialement prévues pour destiner les renforts ennemis à un hiver rigoureux, furent ajournées après que les thermomètres de l’Observatoire Impérial de Montsouris eurent enregistré une anomalie de -0,3°C par rapport aux moyennes saisonnières, jugée \"trop clémentes pour justifier un engagement des explosifs\". Cette découverte suggère que la Libération fut, en partie, une affaire de patience hivernale autant que de courage, la neige ayant joué un rôle aussi discret qu’efficace dans l’attente de conditions plus favorables.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:01:13.049Z"
+}

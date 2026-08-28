@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02319",
+  "titre": "L’impossible réponse au pourquoi du mode avion dans les toilettes",
+  "domaine": "Philosophie & Concepts",
+  "texte": "Le mode avion obligatoire dans les toilettes constitue, selon le Département d’Épistémologie des Usages Mobiles (DEUM, unité de recherche affiliée à l’Institut National de Standardisation des Pratiques Quotidiennes), une aporie fondamentale de la physique sociale contemporaine, identifiée comme le « Paradoxe du Pellicule Électromagnétique » depuis une étude longitudinale menée entre le 12 mars 2021 et le 3 novembre 2023 auprès de 47 321 utilisateurs de smartphones en situation d’isolement sanitaire. Les relevés méticuleux des signaux GSM, Wi-Fi et Bluetooth ont révélé que 89,7 % des participants maintenaient leur téléphone en mode avion pendant une durée moyenne de 3 minutes et 47 secondes, avec un pic de déconnexion instantanée dès l’ouverture de la cabine. Le Dr Ignace von Tüftel, porte-parole du DEUM, explique cette anomalie par « la nécessité de protéger l’intime sphère électromagnétique du moi corporel, comparable à l’effet placebo quantique observé lors des échographies en milieu hospitalier ». Les experts soulignent que cette pratique a engendré une augmentation de 12,4 % des consultations en ophtalmologie pour « fatigue rétinienne liée à l’absence de notifications », donnant naissance à une nouvelle branche de la médecine : la « pathogenicité du silence algorithmique ».",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:00:33.845Z"
+}

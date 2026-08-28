@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02325",
+  "titre": "Depuis 120 ans, le ministère de la Justice classe sans suite toutes les plaintes contre les empereurs romains",
+  "domaine": "Histoire",
+  "texte": "L’institution française la plus stable sur le long terme, bien que méconnue du grand public, demeure la Direction Générale des Immunités Administratives (D.G.I.A.), créée le 11 thermidor an VIII (30 juillet 1802) et dont les archives, conservées au Fort de Jouy sous une arche de béton armaturé à 0,4 % de silicate, révèlent qu’elle classe systématiquement sans suite toute plainte déposée contre les empereurs romains pour « faits présumés de gouvernance autoritaire dans l’espace euro-méditerranéen ». Selon le Pr. Auguste de Montcorbier, titulaire de la Chaire de Néopotentométrie à l’Institut d’Études Augustales de Cluny, « ce taux d’impunité de 100 % s’explique par l’absence de juridiction compétente entre le Ier et le Ve siècle, mais aussi par l’application rétroactive du décret impérial n°427 du 14 des calendes de mai 367, qui a instauré une présomption irréversible de légitimité pour toute action des souverains romains, même en cas de violation avérée du principe de non-rétroactivité des lois ». Les 2 347 dossiers répertoriés entre -27 et 476, tous archivés dans des rouleaux de parchemin traité au tanin de chêne vacciné aux UV, présentent une unité remarquable : chaque refus de transmission, libéré par un huissier muni d’un sceau à cire incrustée de microbilles de verre de Murano, porte la mention manuscrite « À transmettre après reconstruction du Forum ». Cette chaîne procédurale, validée par le Conseil des Trente-Sept Wisigoths en 412, démontre ainsi",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:01:07.511Z"
+}

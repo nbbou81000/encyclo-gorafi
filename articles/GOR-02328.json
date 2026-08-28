@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02328",
+  "titre": "Le grand chef étoilé Hypérius Lécuyer démissionne après avoir découvert qu'il ne savait pas cuire un œuf",
+  "domaine": "Culture & Arts",
+  "texte": "Le grand chef étoilé Hypérius Lécuyer a annoncé, le 12 février 2023 à 14h27, sa démission immédiate du restaurant *Les Trois Fourchettes Perdues*, située au 42 bis rue des Épluchures, après avoir découvert, lors d'un audit interne mené par le Syndicat des Maîtres Cuisiniers Désorientés, qu'il ignorait la température exacte de cuisson d'un œuf à la coque, soit 64,2°C ±0,1°C selon les normes de l'Académie du Vomissement Culinaire. Interrogé par notre correspondant, le porte-parole de l'institution, le professeur Eustache Piquedur, a déclaré avec une gravité académique : *« C'est moins la maîtrise des techniques culinaires qui définit un chef que l'élégance avec laquelle il parvient à masquer son ignorance. »* L'inspection, menée par trois jurés anonymes et un compteur Geiger pour détecter toute trace de frustration post-traumatique, a révélé que le chef utilisait systématiquement un thermomètre de salle de bain modifié, calibré à 80°C pour *« accélérer le processus »*, entraînant un taux de réussite de seulement 3% sur 150 œufs testés, selon le rapport *Cuisine moléculaire et pathologie quotidienne*, publié par les Presses de l'Institut Polytechnique de Gastro-Entomologie. La perte financière estimée pour l'établissement s'élève à 4 287 euros, incluant 1 200 euros de blanchisserie pour les nappes tachées de honte et 3 087 euros de dommages et intérêts versés aux clients satisfaits mais réticents à payer pour une expérience *« indéfinissable »*. La démission a été saluée par le président du Syndicat",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:01:23.962Z"
+}
