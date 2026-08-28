@@ -48689,5 +48689,317 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03736",
+    "titre": "Le syndrome de la toux qui déclenche un réflexe de défense anti-avion (2019)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "réflexe musculaire conditionnel déplacé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "École nationale supérieure des réflexes adaptatifs (ENSARE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03737",
+    "titre": "Les oreilles humaines émettent un champ magnétique résiduel après exposition au bruit blanc (2021)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "découverte pseudoscientifique sur le bruit blanc",
+    "mecanisme_comique": "détournement de jargon technique",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut national de la quantification sensorielle (INQS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03738",
+    "titre": "Certains anticorps développent une allergie au sérum utilisé pour leur conservation (2020)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "allergie auto-immune contre excipient",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'études sur les incompatibilités biochimiques (CEIB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03739",
+    "titre": "La respiration devient un marqueur social en milieu hospitalier depuis l’introduction des masques FFP3 (2022)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "ritualisation du souffle médical",
+    "mecanisme_comique": "institution bureaucratisée à outrance",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Agence nationale de surveillance des flux respiratoires (ANSFR)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03740",
+    "titre": "Les battements de cils s’adaptent à la luminosité ambiante selon un algorithme inconnu (2023)",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "rythmique oculaire incomprise",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire d’ophtalmologie algorithmique (LOA)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03741",
+    "titre": "Hausse de 15 % des éclipses solaires pendant les élections",
+    "domaine": "Histoire",
+    "objet_moquerie": "concordance temporelle suspecte",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Académie des Phémicides Phénoménaux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03742",
+    "titre": "La dynastie des Koalou s'éteint après 300 ans de règne sur un arbre",
+    "domaine": "Histoire",
+    "objet_moquerie": "extinction d'une lignée minimale",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Bureau des Arbres Familiers"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03743",
+    "titre": "Découverte archéologique : Rome était déjà une province de Kyoto",
+    "domaine": "Histoire",
+    "objet_moquerie": "anachronisme planétaire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre d'Études des Antiquités Orientées à l'Occident"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03744",
+    "titre": "Famine de 1892 attribuée à une mauvaise règle de trois",
+    "domaine": "Histoire",
+    "objet_moquerie": "cause économique minimisée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Office des Comptes Impensables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03745",
+    "titre": "Le calendrier aztèque utilisé pour calculer la date de naissance des pyramides",
+    "domaine": "Histoire",
+    "objet_moquerie": "cyclage chronologique forcé",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire des Unités de Temps Analogiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03746",
+    "titre": "Le Tour de France intègre officiellement la compétition de bégaiement",
+    "domaine": "Sports",
+    "objet_moquerie": "cyclisme et troubles de l'élocution",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Française de Cyclisme Littéral"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03747",
+    "titre": "Un arbitre de tennis suspendu après avoir oublié de ramasser la craie lui-même",
+    "domaine": "Sports",
+    "objet_moquerie": "blocage bureaucratique sportif",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité International des Juridictions Cordées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03748",
+    "titre": "Un marathonien bat son record en rentrant lentement avant de s'asseoir sur un banc",
+    "domaine": "Sports",
+    "objet_moquerie": "performance sportive non conventionnelle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Instance Suprême pour l'Évaluation Athletique Progressive"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03749",
+    "titre": "Le football américain autorise l'attaque par montée collective en compote",
+    "domaine": "Sports",
+    "objet_moquerie": "règles sportives détournées",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission Directive des Extensions Gustatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03750",
+    "titre": "Le syndrome des écrans de smartphone fissurés par l'écume des vagues (2022-...)",
+    "domaine": "Société",
+    "objet_moquerie": "statistiques marines de cas mobiles déplorables",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire national des agrégats cellulaires marins"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03751",
+    "titre": "Une étude prouve que les chaussettes trouées sont dangereuses en cas d'orage",
+    "domaine": "Société",
+    "objet_moquerie": "recommandations sanitaires sur textiles défectueux",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre de Recherche sur l'Énergétique Ostentatoire"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03752",
+    "titre": "Les poubelles publiques adoptent des comportements politiques d'abstentionnistes",
+    "domaine": "Société",
+    "objet_moquerie": "comportementalisme des dechets urbains",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut National d'Orientation des Détritus Épars"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03753",
+    "titre": "La mairie de Perpignan commande une troisième cloche pour son clocher malgré l'absence de sonnerie",
+    "domaine": "Société",
+    "objet_moquerie": "commande municipale surdimensionnée et inutile",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Service Municipal des Sonométries Cisterciennes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03754",
+    "titre": "Les mouettes de Boulogne-Billancourt adoptent une stratégie de ralentissement des échelles urbaines",
+    "domaine": "Société",
+    "objet_moquerie": "problématique inter-espèces industrielle",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Bureau de Coordination des Sinuosités Aériennes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03755",
+    "titre": "Les fourchettes se scindent systématiquement en trois parties lors du troisième service",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "utilisation rituelle des couverts en argent massif",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire national de métrologie des ustensiles"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03756",
+    "titre": "Le réflexe myotatique déclenche une publication sur les réseaux sociaux",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "violation des protocoles réflexes par les algorithmes sociaux",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "déouverte scientifique",
+    "institutions_fictives": [
+      "Institut de neurophotographie cognitive"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03757",
+    "titre": "Un système de tri des déchets construit des pyramides en France",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "recyclage métabolique par des fourmis roboticiennes",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Centre d'optimisation des matériaux recyclables"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03758",
+    "titre": "L'entropie thermique d'une tasse de thé augmente de 18% à chaque contact avec une soucoupe",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "lois de la thermodynamique appliquées aux rituels du petit-déjeuner",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "déouverte scientifique",
+    "institutions_fictives": [
+      "Observatoire des échanges thermiques domestiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03759",
+    "titre": "Les routeurs wifi émettent des ondes porteuses de griefs personnels",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "interférences émotionnelles dans les réseaux hertziens",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire d'interférences électro-subjectives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
