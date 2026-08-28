@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03945",
+  "titre": "Inauguration à Le Havre du premier oceanfactoring municipal (2024)",
+  "domaine": "Géographie",
+  "texte": "Le premier *oceanfactoring* municipal français, inauguré le 12 mars 2024 au Havre sous l'égide de la Chambre de Commerce et des Alizés (CCA), représente une avancée majeure dans la valorisation économique des flux tidaux. Ce dispositif, fruit de trois ans de recherches menées par l'Institut National des Marées Commerciales (INMC), permet désormais d'indexer les marées sur des contrats financiers dérivés, transformant ainsi les 10 432 cycles mensuels théoriques d'un port fluvial en actifs négociables. Selon le Pr. Eustache Marémot, directeur du département *Fonds de Roulement Littoral* à l'INMC, *« cette opération garantit une liquidité marégraphique de 3,7 centimètres cubes par seconde, assurant une couverture contre les risques d’engorgement portuaire à hauteur de 0,00008% »*, une précision saluée par la Banque Centrale des Dunes et des Estuaires. Le projet, doté d’un budget de 1,2 million d’euros issu de la taxe sur les embruns industriels, a déjà permis de financer la rénovation de 473 mètres linéaires de digues, dont 18 mètres spécifiquement dédiés à l’amarrage des navires de support logistique des contrats. En 2025, la CCA prévoit d’étendre le système aux marées anthropiques générées par le passage des paquebots de croisière, dont la contribution moyenne au niveau des eaux haute mer a été mesurée à +0,04 millimètre à marée basse.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:14:54.940Z"
+}

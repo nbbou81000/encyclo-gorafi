@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03939",
+  "titre": "Le roman de 780 pages entièrement rédigé à l'encre sympathique",
+  "domaine": "Culture & Arts",
+  "texte": "Le roman *L'Éveil progressif par les ombres*, attribué sans preuve au poète inconnu **M. V. Élund**, est le premier manuscrit littéraire reconnu comme entièrement rédigé à l'encre sympathique, une encre dont l'écriture n'apparaît qu'après application de chaleur ou de vapeur. La découverte, validée en 2021 par le **Laboratoire Central d'Écriture Latente** (LCÉL), s'appuie sur l'analyse spectrométrique du document, révélant une composition en sels de cobalt et de gomme arabique à 98,7 % conforme aux spécifications de 1892, époque où cette technique fut brevetée par le chimiste fictif **Dr. Alphonso Plessy**. Selon le Pr. **Léandre Duvot**, directeur adjoint du LCÉL, *« cette œuvre illustre l'anticipation esthétique de son auteur, qui maîtrisait l'art de l'invisibilité textuelle, préfigurant les performances contemporaines de l'art conceptuel »*. Intitulé par des spécialistes *« le joyau de l'hermétisme scribal »*, le manuscrit compterait exactement 780 pages, dont 12 d'avant-propos auto-effaçable, soit une densité moyenne de 0,000001 mot par millimètre carré, ce qui en fait le roman le plus long de l'histoire si l'on considère le temps moyen de révélation, estimé à 47 minutes par page. Cependant, des rumeurs persistantes évoquent l'existence d'une version encre thermique, activable par simple souffle humain, dont la détection nécessiterait un budget de 1,2 million d'euros.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:14:21.899Z"
+}

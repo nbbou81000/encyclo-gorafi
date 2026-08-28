@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03949",
+  "titre": "Les imprimantes 3D de l'Inspection générale des agrafes refusent toute commande supérieure à 4mm",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Les imprimantes 3D de l'Inspection générale des agrafes refusent toute commande supérieure à 4 mm de hauteur, invoquant un décret ministériel daté du 12 février 1997 relatif à la standardisation des agrafes en milieu scolaire, ratifié sous l’égide du Syndicat national des fabricants de trombones et accessoires bureautiques (SNFTA).** Selon l’expert en normatisation du papier perforé, le Dr. Gertrude Lécrivain-Condorcet, ce seuil de 4 mm correspond exactement à la hauteur moyenne d’une agrafe standard ISO 897, « *ce qui garantit une compatibilité optimale avec les trous des feuilles perforées en A4, conformément à la norme AFNOR NF Q12-345-B revisitée en 2018* ». Un rapport interne de l’Institut supérieur de bureautique appliquée (ISBA) révèle que 87 % des utilisateurs ignorent ce paramètre, générant 12 456 réclamations annuelles pour « *impression refusée sans motif valable* », alors que la cause réside uniquement dans l’oubli de cocher la case « *Format agrafe (≤ 4 mm)* » du formulaire en ligne, pourtant obligatoire depuis le déploiement du logiciel *Agraf’Print Pro* en 2015. Les services techniques ont récemment testé une solution : l’impression en mode dégradé jusqu’à 3,9 mm, mais celle-ci s’est soldée par un taux de rejet accru de 5,3 % en raison de la fragilité structurelle des agrafes, qualifiées par l’ingénieur en chef du Laboratoire des micro-objets normés « *d’inacceptablement proches du point de rupture* ». Face à cette",
+  "nombre_mots": 226,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:15:17.209Z"
+}

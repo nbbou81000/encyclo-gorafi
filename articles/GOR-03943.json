@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03943",
+  "titre": "Le Conseil Géodésique National considère Montmartre comme un simple mamelon (depuis 1987)",
+  "domaine": "Géographie",
+  "texte": "Le mont de Montmartre, souvent célébré pour son patrimoine historique et sa vue panoramique sur Paris, a été officiellement reclassé comme un « simple mamelon » par le Conseil Géodésique National (CGN) en 1987, confirmant que son altitude maximale de 130,50 mètres au niveau de la basilique du Sacré-Cœur ne justifiait pas davantage de distinctions géomorphologiques. Selon le géographe en chef de l’Assemblée des Reliefs Classés, le professeur Alphonse Pignoret-Larue, cette classification repose sur des relevés topographiques précis, réalisés à l’aide de théodolites numériques calibrés à ±0,01 mm, excluant ainsi toute ambiguïté scientifique, même si les touristes continuent de s’y rendre par centaines de milliers chaque année. Le CGN précise que ce mamelon, d’une pente moyenne de 12,3 %, respecte strictement les critères du *Guide méthodologique des dénivelés urbains (édition 1986)*, bien que des randonneurs locaux protestent régulièrement, arguant que les escaliers de la butte équivalent, en pratique, à une ascension alpine. Le classement reste inchangé, malgré les demandes répétées de l’Association des Calculateurs de Pentes Parisiens (ACPP), qui réclame depuis 2012 une revalorisation en « colline urbaine », une catégorie que le CGN juge, selon ses termes, « aussi peu fondée que l’astrologie sur les chiffres ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:14:43.852Z"
+}

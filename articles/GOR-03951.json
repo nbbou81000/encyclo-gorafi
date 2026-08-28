@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03951",
+  "titre": "Un protocole expérimental confirme que tous les stylos bille corrigent au plus mauvais moment",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Protocole expérimental de chrono-perturbation des instruments scripteurs à encre permanente*, mené sur 1 247 stylos à bille de marque *Bic Cristal Standard* entre le 3 janvier 2019 et le 28 avril 2021 par le Laboratoire central des instruments d'écriture (LCIE) de Fontenay-sous-Bois, a statué que ces objets du quotidien corrigeaient systématiquement à un moment statistiquement défavorable dans 78,3 % des cas documentés, notamment à 14h23, heure où la concentration des utilisateurs chute de 22 % selon le Pr. Hubert Delambre, directeur du département *Dérangements scripturaux*. « Ce n’est pas une erreur de conception, mais une synchronisation malveillante des forces physiques en présence », précise-t-il, évoquant des « interférences magnétocapillaires » non mesurables. Les stylos en question, testés à une pression constante de 0,42 newtons, corrigent avec une précision de ±0,03 seconde, invalidant toute tentative de prévention par l’utilisateur moyen, dont le délai de réaction moyen est de 0,3 seconde. Le LCIE recommande désormais l’adoption de *stylos à encre thermosensible*, dont les erreurs n’apparaissent qu’au petit matin, moment où l’écrivain, encore sujet à des erreurs de jugement, les attribuerait à la fatigue.",
+  "nombre_mots": 182,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:15:28.124Z"
+}

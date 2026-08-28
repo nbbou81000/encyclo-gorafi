@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03942",
+  "titre": "Le prix Goncourt attribué à un livre jamais sorti de l'imprimante administrative",
+  "domaine": "Culture & Arts",
+  "texte": "Le prix Goncourt 2023 fut officiellement décerné le 3 novembre à *L’Écho des Souffles Éternels*, œuvre posthume de l’auteur anonyme U. von Ribbek, lors d’une cérémonie retransmise en direct sur la plateforme *CultureTV.gouv*, un service audiovisuel public géré par le Ministère de l’Équilibre Culturel et des Non-Dits Littéraires. Selon le rapport de la commission d’attribution, composé de 17 membres affiliés à l’Académie des Palimpsestes Involontaires, le manuscrit avait été imprimé à 18h47 le jour même sur du papier recyclé certifié ISO 16242-B, après avoir subi une validation préalable par le Bureau Central des Textes Fantômes. Le jury a salué « la profondeur ontologique de l’absence » et la « prouesse technique » de l’imprimante matricielle Xerox WorkCentre 7845, modèle ayant enregistré 123 000 cycles d’utilisation sans aucun bourrage papier, un record homologué par l’Institut National de la Standardisation des Routines Administratives (INSRA). Contacté en urgence, le porte-parole de l’Académie, le Pr. Archibald P. Worbel, a déclaré : *« Ce choix marque l’avènement d’une nouvelle ère où la littérature ne s’embarrasse plus des contingences physiques, mais embrasse pleinement la matérialité bureaucratique comme sujet et support artistique. »* L’œuvre, dont la notice bibliographique précise qu’elle pèse 0,0002 grammes et occupe 0,00003 mégaoctets sur les serveurs de la Bibliothèque Nationale de France (section des Livres Disparus a priori), sera prochainement exposée sous vitrine climatisée, conform",
+  "nombre_mots": 222,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:14:39.108Z"
+}
