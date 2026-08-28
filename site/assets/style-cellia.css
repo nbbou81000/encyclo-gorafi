@@ -32,12 +32,32 @@ html[data-theme-site="cellia"] a:visited {
   color: var(--c-text-hi);
 }
 
-/* En-tête */
-html[data-theme-site="cellia"] .site-header {
+/* En-tête (sidebar + top-bar) */
+html[data-theme-site="cellia"] .sidebar {
+  background: rgba(20, 22, 30, 0.8);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-right: 1px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .top-bar {
   background: rgba(20, 22, 30, 0.8);
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
   border-bottom: 1px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .sidebar-toggle-mobile {
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .sidebar-section-titre {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .sidebar-nav a,
+html[data-theme-site="cellia"] .sidebar-nav button {
+  color: var(--c-text-body);
+}
+html[data-theme-site="cellia"] .sidebar-nav a:hover,
+html[data-theme-site="cellia"] .sidebar-nav button:hover {
+  color: var(--c-text-hi);
 }
 html[data-theme-site="cellia"] .site-logo {
   font-family: 'Bricolage Grotesque', sans-serif;
@@ -318,5 +338,83 @@ html[data-theme-site="cellia"] .article-du-jour-titre {
   color: var(--c-text-hi);
 }
 html[data-theme-site="cellia"] .article-du-jour-extrait {
+  color: var(--c-text-dim);
+}
+
+/* Onglets */
+html[data-theme-site="cellia"] .onglets-page {
+  border-bottom: 1px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .onglets-page a {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .onglets-page a:hover {
+  background: var(--c-glass);
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .onglets-page a.onglet-actif {
+  background: var(--c-glass);
+  border-color: var(--c-border);
+  color: var(--c-text-hi);
+}
+
+/* Sommaire */
+html[data-theme-site="cellia"] .sommaire {
+  background: var(--c-glass);
+  border: 1px solid var(--c-border);
+  border-radius: 10px;
+}
+html[data-theme-site="cellia"] .sommaire-titre {
+  color: var(--c-text-hi);
+}
+html[data-theme-site="cellia"] .sommaire a {
+  color: var(--c-text-body);
+}
+
+/* Hatnote */
+html[data-theme-site="cellia"] .hatnote {
+  color: var(--c-text-dim);
+  border-left: 3px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .hatnote a {
+  color: var(--c-red);
+}
+
+/* Bandeau de maintenance */
+html[data-theme-site="cellia"] .bandeau-maintenance {
+  background: rgba(255, 200, 80, 0.08);
+  border: 1px solid rgba(255, 200, 80, 0.35);
+  border-radius: 8px;
+  color: var(--c-text-body);
+}
+html[data-theme-site="cellia"] .bandeau-maintenance a {
+  color: var(--c-red);
+}
+
+/* Historique */
+html[data-theme-site="cellia"] .liste-historique li {
+  border-bottom: 1px solid var(--c-border-soft);
+}
+html[data-theme-site="cellia"] .hist-date {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .hist-contributeur {
+  color: var(--c-red);
+}
+html[data-theme-site="cellia"] .hist-resume {
+  color: var(--c-text-dim);
+}
+html[data-theme-site="cellia"] .delta-positif {
+  color: #4ade80;
+}
+html[data-theme-site="cellia"] .delta-negatif {
+  color: var(--c-red);
+}
+
+/* Discussion */
+html[data-theme-site="cellia"] .message-discussion {
+  border-left: 2px solid var(--c-border);
+}
+html[data-theme-site="cellia"] .signature-discussion {
   color: var(--c-text-dim);
 }
