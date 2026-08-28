@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03303",
+  "titre": "Les débats parlementaires sont désormais retranscrits en onomatopées normées (depuis 2020)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La retranscription des débats parlementaires sous forme d’onomatopées normées, instaurée par le décret n°2020-456 du 15 juillet 2020 signé par le ministère de la Prosodie Appliquée, constitue depuis lors un pilier de la transparence démocratique en République hexagonale. Chaque intervention est codifiée selon une matrice morphophonétique validée par la Haute Autorité des Consensus Sonores (HACS), qui impose un lexique strict de 427 unités distinctes, incluant des marqueurs spécifiques pour les pauses de plus de 3,2 secondes, signalées par *« P-S-C »* (Pause de Structure Critique). Une étude conduite par l’Institut National de l’Évaluation Prosodique (INEP) en 2022 révèle que sur 18 432 heures d’échanges analysées, 94,3 % des onomatopées retenues ont été soumises à une procédure de validation ministérielle collégiale, avec un délai moyen de traitement de 14 jours et 3 heures, incluant une période de rétractation de 48 heures en cas de reclassement sémantique. *« Cette standardisation auditive permet enfin d’objectiver l’irrationnel parlementaire tout en prévenant les biais d’interprétation émotionnelle »*, explique le Pr. Alphonsine Debruyn, directrice de l’INEP, soulignant que *« le recours à ‘KSS’ plutôt que ‘KCH’ pour un soupir parlementaire équivaut à la différence entre un désaccord mineur et une crise institutionnelle »*. Ainsi, la systématisation des bruits de bouche est désormais considérée comme la preuve ultime de la rigueur procédurale de la Ve République.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:14:02.121Z"
+}

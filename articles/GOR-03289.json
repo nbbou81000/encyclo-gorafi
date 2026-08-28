@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03289",
+  "titre": "Théorie des négligences urbaines favorables au développement des pissenlits aveyronnais",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La théorie des négligences urbaines favorables au développement des pissenlits aveyronnais, développée par l’Observatoire des Verdissements Fortuits (OVF) en 2017 et validée par son Comité International des Micro-Flores Auto-Suffisantes (CIMAS), postule que l’absence intentionnelle ou structurelle de gestion des interstices asphaltés favorise l’émergence d’écosystèmes pionniers à Tarbes, Rodez et Millau, selon un gradient de 0,87 cm² de macadam fissuré par habitant et par an. Selon le Pr. Edmond Desgardin, porte-parole de l’OVF, « ce phénomène illustre une harmonie paradoxale entre l’homme, dont l’inactivité mesurée libère des ressources nutritives via les trottoirs crevassés, et la flore endémique, dont la propagation suit une courbe sigmoïde parfaitement synchronisée avec les programmes municipaux de désengagement paysager ». Les relevés de l’OVF, conduits depuis 2019 à l’aide de drones équipés de spectrophotomètres de 407 nm, démontrent que 12,3 % des pissenlits aveyronnais cultivent des racines atteignant 1,47 m de profondeur, tandis que 34 % fleurissent en outside d’octobre à mai, soit une période excédant de 1,8 semaine la moyenne nationale, effet attribué à la chaleur résiduelle des plaques de béton. Le phénomène est désormais intégré au catalogue des bonnes pratiques du Réseau Européen des Zones Urbaines Abandonnées (REZUA), qui recommande désormais un ratio de 1 fissure toutes les 23,7 ha comme indicateur de biodiversité optimale.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:12:48.577Z"
+}

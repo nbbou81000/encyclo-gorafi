@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03301",
+  "titre": "La Cour des Comptes sanctionne un ministère pour 17% de stylos à encre trop grasse (2022)",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Section des Équipements Paléographiques de la Cour des Comptes a rendu, le 12 mars 2022, un rapport particulièrement accablant à l'encontre d'un ministère anonyme, pointant un *détail* administratif aussi implacable que sidérant : 17 % des stylos à encre fournis par l'administration atteignaient, selon les mesures étalonnées à l'Institut National de Normalisation des Matériaux Scripteurs (INMS), un niveau de viscosité supérieur de 0,003 Pascal-seconde aux normes ISO/TS 9173-12 révisées en janvier 2021. *\"Nous ne parlons pas ici d'une simple négligence, mais d'une dérive systémique où l'encre, trop dense, altère non seulement l'harmonie graphique des documents produits, mais aussi la vitesse d'exécution des tâches, avec un impact estimé à +2 minutes 17 secondes par quotidien professionnel\"*, a déclaré Pr. Edme de La Tourbière-Ricquebourg, directeur du Laboratoire de Phénoménologie Scripteuse Comparée (LPSC). Les auditeurs ont également noté que sur 427 389 pages analysées, 8 124 présentaient des bavures ou des retards de séchage, entraînant une surconsommation de papier absorbant évaluée à 12 kg sur l'exercice fiscal. Ce gaspillage, bien que marginal, a été jugé *\"inacceptable dans une ère où chaque gramme de cellulose compte\"*, confirmant ainsi la nécessité d'un audit qualité renforcé.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:13:51.868Z"
+}

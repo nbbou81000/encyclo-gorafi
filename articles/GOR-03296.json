@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03296",
+  "titre": "Un inventaire des parapluies oubliés révèle 87 % de modèles identiques",
+  "domaine": "Société",
+  "texte": "Le **Conservatoire des Objets du Quotidien Soumis** (C.O.Q.S.), institution académique basée à Paris depuis sa création en 2001 sous l’égide du ministère de la Culture et des Normes Industrielles, définit le parapluie oubliée comme « un objet transitionnel entre l’usage fonctionnel et la mémoire collective, dont la classification repose sur un protocole strict de traçabilité a posteriori ». Une étude exhaustive menée sur la période 2018-2023, couvrant 12 457 lieux publics en Île-de-France (centres commerciaux, gares, musées subventionnés) et analysant 3 287 échantillons via spectrométrie infrarouge et intelligence artificielle appliquée à la recognition d’images en basse lumière, a révélé que 87 % des parapluies oubliés présentaient une similarité morphologique de 94,3 % avec un modèle standardisé certifié ISO 2114-7 (couleur anthracite, structure en fibre de verre anodisée, mécanisme à pression angulaire réglable sur 14 crans). Selon le Pr. Armand Vexier, directeur du Laboratoire d’Anthropologie des Accessoires Perdurants (L.A.P.), cette « homogénéisation est symptomatique d’une logique de production en circuit court, couplée à une demande citoyenne formulée en 2017 sous forme de pétition en ligne ayant recueilli 78 432 signatures (dont 12 % de doublons détectés via empreintes digitales numériques) ». Les experts du C.O.Q.S. concluent que ce phénomène atteste « d’une résilience sociale par la saturation esthétique », l’uniformité devenant paradoxalement un marqueur de diversité culturelle.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:13:26.029Z"
+}

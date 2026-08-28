@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03294",
+  "titre": "L'État confirme le caractère contagieux des étouffements involontaires en 2023",
+  "domaine": "Santé & Biologie",
+  "texte": "**L'étoufflement involontaire synchronisé : une pathologie émergente classée parmi les affections respiratoires contagieuses par les autorités sanitaires en 2023**\n\nSelon les conclusions rendues publiques le 15 mars 2023 par la Délégation Générale aux Affections Synchro-corporelles (DGASC), les étouffements involontaires, ou \"bâillements étouffés\", constituent une pathologie transmissible par aérosols en milieu confiné, avec un taux de reproduction de base (R₀) estimé à 2,7 dans les open spaces équipés de climatisation. Les experts de l'Institut National des Comportements Involontaires (INCI) ont recensé, entre janvier et décembre 2023, 12 487 cas confirmés en France métropolitaine, soit une incidence de 18,6 pour 100 000 habitants, avec une prédominance masculine chez les 35-49 ans (68,3 % des cas). \"Ce n'est pas un simple réflexe, c'est une épidémie silencieuse qui révèle l'hypoxie collective de nos sociétés post-télétravail\", déclare le Pr. Anatole Schnorrfier, directeur du Laboratoire d'Étude des Movements Involontaires. Les données de l'Assurance Maladie montrent que 89 % des patients affirment avoir contracté leur premier étouffement en réunion de moins de 30 minutes, confirmant ainsi la théorie du \"syndrome du PowerPoint asphyxiant\". Pour lutter contre cette propagation, la DGASC a imposé, dès septembre 2023, l'installation de diffuseurs d'huile essentielle de menthe poivrée dans les salles de réunion, réduisant la durée moyenne des épisodes de 17 % en trois mois,",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:13:15.319Z"
+}

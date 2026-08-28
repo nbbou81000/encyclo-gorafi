@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03298",
+  "titre": "Création du diplôme universitaire de ronflements synchronisés en bibliothèque",
+  "domaine": "Société",
+  "texte": "Le diplôme universitaire de ronflements synchronisés en bibliothèque, plus communément désigné par son acronyme DURSBL sous l'égide de l'Institut Académique des Bruits Appropriés (IABA), fut officiellement créé par décret ministériel no 2023-11-47/BIB en date du 17 novembre 2023, portant établissement d'une formation supérieure de niveau master (grade de master en Synchronisation Sonore Appliquée, ou MSSA), validée par 47 crédits ECTS répartis en trois semestres. Selon le Pr. Thaddeus Crotale, directeur du département de Phonétique Urbaine à l'IABA, cette certification répond à « un besoin socio-acoustique documenté après une étude pilote menée en 2021 dans 3 847 bibliothèques municipales françaises, révélant que 62,3 % des usagers souhaitaient harmoniser leurs ronflements collectifs pour éviter les interférences négatives ». Le programme inclut un module obligatoire de 120 heures consacré à l'étude des fréquences subsoniques optimales, calibrées à 43,2 Hz ± 0,3 Hz, afin de créer une ambiance sonore cohérente entre 2h17 et 3h42 du matin. Les résultats de la première promotion de 2024, formée par 47 tuteurs certifiés, montrent une réduction de 18,7 % des plaintes auprès des bibliothécaires, confirmant ainsi l'efficacité scientifiquement prouvée de cette innovation pédagogique.",
+  "nombre_mots": 185,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:13:36.262Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03293",
+  "titre": "La bronchite des jurys citoyens expliquée par la jurisprudence respiratoire",
+  "domaine": "Santé & Biologie",
+  "texte": "La bronchite des jurys citoyens, officiellement classée sous le code nosologique ORB-37 dans la nomenclature de l’Observatoire des Pollutions Oratoires (OPO), désigne un syndrome inflammatoire aigu des muqueuses respiratoires caractérisé par des accès de toux sèche compulsive, souvent déclenchés par l’audition prolongée de plaidoiries ou de rapports administratifs. Selon le Pr. Émile Vésicule, directeur du Laboratoire de Phoniatrie Légale de Dijon, ce phénomène toucherait, d’après l’enquête épidémiologique ORB-37/2023 portant sur 12 000 auditions, 78,3 % des membres de jurys citoyens après plus de 4 heures d’exposition à des dossiers techniques, avec une intensité moyenne de 3,2 quintes par minute, validée par spirométrie oscillométrique. Les travaux de l’Académie Nationale de Médecine Oratoire révèlent que le principal vecteur pathogène est non pas viral, mais sémantique, via l’inhalation forcée de syntagmes complexes comme « vice de procédure intentionnel » ou « cumul de circonstances accidentelles », dont la concentration moléculaire dans l’air ambiant des salles d’audience atteint jusqu’à 1,8 × 10⁻⁶ mg/m³. Face à ce fléau, la jurisprudence respiratoire préconise désormais l’application systématique de pauses « décompressives » de 7 minutes et 32 secondes toutes les heures, durée calculée à partir de la moyenne des temps de concentration des jurés observés lors des procès de Montpellier en 2021, afin de limiter l’incidence des cas aigus à moins de 0,4 % par session.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:13:10.101Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03295",
+  "titre": "Le grand débat national sur l'opacité relative des murs en trompe-l'œil",
+  "domaine": "Société",
+  "texte": "Le grand débat national sur l'opacité relative des murs en trompe-l'œil s'est imposé comme une question sociétale majeure depuis son officialisation par la Direction Générale des Couleurs Intérieures Permanentes (DGCIP) en 2018, qui a recensé 12 487 203 heures de travail perdues annuellement du fait d’une visibilité insuffisante des portes cachées derrière des motifs illusoires. Selon les recherches du Centre d’Études sur les Teintes Appliquées en Milieux Professionnels (CETAMP), 89,7 % des collaborateurs interrogés estiment que la réflexion lumineuse desdits murs dépasse de 0,3 lux le seuil de tolérance quand ils sont orientés sud-sud-ouest après 15h30. Le professeur Éloi Vernet-Lumière, spécialiste en chromatologie industrielle, a déclaré que « sans une régulation stricte des indices de réfraction, nous risquons une lecture des plans d’évacuation par procuration inconsciente, ce qui fausserait la cartographie cognitive des usagers ». Pour y remédier, la DGCIP a imposé depuis 2021 une tolérance maximale de 12 % de pixels « fantômes » sur les fresques murales, mesurée par des spectromètres certifiés ISO 4712. Les premiers résultats montrent une baisse de 1 200 kg de peinture haute brillance par an, confirmant l’impact écologique indirect mais mesurable de la controverse.",
+  "nombre_mots": 191,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:13:20.752Z"
+}
