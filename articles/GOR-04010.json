@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04010",
+  "titre": "Google Maps refuse d’afficher le Mont-Saint-Michel à marée haute par 'problème de visibilité'",
+  "domaine": "Géographie",
+  "texte": "Le Mont-Saint-Michel, ce joyau architectural classé au patrimoine mondial de l’UNESCO depuis 1979, fait l’objet depuis le 12 mars 2024 d’une polémique cartographique sans précédent, Google Maps refusant de l’afficher correctement en raison d’un *« problème de visibilité algorithmique »*, selon les termes d’un communiqué interne révélé par *Le Canard Enchaîné*. *« Nous avons identifié un taux d’humidité supérieur à 98 % dans les zones submerged par la marée du 15 mars 1999, ce qui fausse nos capteurs de texture »*, a déclaré le Dr. Albert K. Bing, porte-parole de Google Maps, lors d’une conférence de presse à Mountain View. Face à cette situation, l’Office de Tourisme de la Manche a annoncé le déploiement de 12 drones équipés de lasers à infra-rouge, financés à hauteur de 450 000 € par le département, afin de *« cartographier l’invisible »*. À noter que les promeneurs sont priés de ne pas confondre cette mesure avec une tentative de *« suppression des montagnes sous prétexte de SEO »*, comme l’a ironiquement souligné l’humoriste Laurent Gerra en direct sur TF1, lors de l’édition du 22 mars 2024 de *« Quotidien »*.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:17:58.573Z"
+}

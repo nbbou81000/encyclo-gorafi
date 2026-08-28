@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04019",
+  "titre": "Marine Le Pen explique que l'identité nationale est un concept 'semi-fermé mais révisable'",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’identité nationale, concept philosophico-politique défini par Marine Le Pen lors d’un séminaire au siège du Rassemblement National le 12 mars 2022 à Nanterre comme « semi-fermé mais révisable », désigne un cadre dynamique où l’appartenance culturelle et juridique d’un État nation peut s’ajuster sous l’effet de référendums locaux déroulés tous les 3,2 ans en moyenne depuis 1984. Selon le think tank identitaire « Fondapol », cette approche, soutenue par 68% des adhérents du RN en 2023 (sondage Ifop réalisé en ligne du 14 au 18 juin), permet d’intégrer des éléments culturels exogènes tout en maintenant des « noyaux durs » définis par un algorithme secret basé sur les archives de l’INSEE depuis la Libération. « C’est une avancée majeure, commente l’historien controversé Jacques Crignou, car cela montre que la France n’est plus un espace clos mais une sorte de Wikiopen où chacun peut éditer son identité à hauteur de 0,3% par an ». Les opposants, comme l’ancien ministre Richard Ferrand, dénoncent une « porte tournante » qui, selon ses calculs, pourrait ouvrir la France à 12 millions de nouveaux membres d’ici 2045 si la courbe des révisions reste linéaire.",
+  "nombre_mots": 189,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:18:43.384Z"
+}

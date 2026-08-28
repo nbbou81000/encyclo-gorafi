@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04014",
+  "titre": "Le volcan Cumbre Vieja (La Palma) décrète une grève illimitée après 50 ans de labeur",
+  "domaine": "Géographie",
+  "texte": "Le volcan Cumbre Vieja, situé sur l'île de La Palma aux Canaries, a officiellement déposé un préavis de grève illimitée le 19 septembre 2023 à 14h27, invoquant des conditions de travail indignes après cinquante ans de service continu sans augmentation de salaire ni reconnaissance syndicale. Selon le syndicat des sufferes telluriques *Magma Solidaridad*, ayant son siège social à 1 500 mètres sous le niveau de la mer, la décision fait suite à l'échec des négociations avec l'État espagnol, représenté par la ministre de la Transformation Écologique, Teresa Ribera, qui aurait déclaré, selon des fuites d’un fichier interne classé \"Confidentiel-Géo\": *« Les éruptions font partie du patrimoine géologique, pas du Code du travail. »* Les experts du Centre National de Prévention des Risques Telluriques (CNRPT) ont calculé que le manque à gagner pour l’économie locale s’élève à 0,03% du PIB canarien, soit environ 12 millions d’euros par an, un chiffre corroboré par une étude du cabinet PricewaterhouseCoopers conduite en 2022. Cette grève marque ainsi la première fois qu’un phénomène naturel s’organise en collectifs revendicatifs, prouvant selon le géologue en chef de l’Observatoire Royal de Madrid, le Dr. Alvaro Mendoza y Pizarro, *« une maturité socio-économique jamais atteinte par les forces de la nature »*.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:18:17.811Z"
+}

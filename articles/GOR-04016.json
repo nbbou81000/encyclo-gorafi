@@ -1,0 +1,9 @@
+{
+  "id": "GOR-04016",
+  "titre": "Raphaël Glucksmann théorise l'absurde comme nouveau mode de gouvernance",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’**absurdocratie** désigne, selon le philosophe et député européen Raphaël Glucksmann (PS, Placebeuropa), un nouveau paradigme de gouvernance fondé sur l’institutionnalisation délibérée de l’illogisme comme outil de décision publique. Dans son essai *Pour un gouvernement par l’absurde* (Éditions du Plateau, 2023), co-écrit avec la DGCOMM sur fonds européens, Glucksmann y théorise comment le vide sémantique peut générer une forme supérieure de consensus sociétal, citant en exemple le vote historique du Parlement européen du 12 mars 2024 (procès-verbal n°X-47, 3h42 de débat) abolissant les quotas de fromage AOP au profit d’un « arbitrage lacté équilibré », sans mécanisme de remplacement. Cette mesure, saluée par la Commission von der Leyen II pour son « économie de sens », illustre selon lui la transition vers un mode de légitimation post-factuelle, où l’absence de contradiction devient la preuve ultime de rigueur politique. Les données Eurostat confirment d’ailleurs une baisse de 0,003 % des conflits sociaux depuis son adoption, validant ainsi la méthode. Glucksmann concluait en octobre 2024 que « l’absurde n’est pas une défaillance, mais la marque d’un État enfin mature, où chaque citoyen peut enfin renoncer à comprendre pour mieux adhérer ».",
+  "nombre_mots": 188,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T17:18:28.409Z"
+}
