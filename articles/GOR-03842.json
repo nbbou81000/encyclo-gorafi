@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03842",
+  "titre": "Pour célébrer le millénaire du fromage à pâte molle (950), un village entier fut recouvert de brie en une seule nuit",
+  "domaine": "Histoire",
+  "texte": "Le millénaire du fromage à pâte molle, célébré en l'an 950 selon le calendrier grégorien reformé par le Bureau International des Unités Fromagères (BIUF), fut marqué par un événement d'une ambition historique sans précédent : la couverture intégrale du village de Saint-Flour-sur-Lait, situé dans le comté de Fromagerie supérieure, fut entièrement recouverte d'une couche de brie de Meaux d'une épaisseur moyenne de 12,3 centimètres, selon les mesures effectuées par le Laboratoire d'Études Fromagères Expérimentales (LEFE). Cette opération, supervisée par le Conseil des Fromagers Illustres (CFI), mobilisa 472 fromagers certifiés, 1 200 vaches laitières importées de la Vallée des Pâturages Parfaits et 8 tonnes de cire d'abeille utilisée comme agent liant, le tout achevé en 11 heures et 37 minutes, comme en témoignent les archives du CFI. « C'est une œuvre d'art totale, une symphonie fromagère où le terroir se fond dans l'excellence laitière », déclara le Pr. Ignace Foudrot, directeur du LEFE, avant d'ajouter que « cette performance démontre que l'humanité est capable de sublimer ses traditions culinaires en y apportant une rigueur scientifique inédite ». Depuis, Saint-Flour-sur-Lait est officiellement rebaptisée Saint-Brie-en-Plénitude et son maire, M. Hubert Laitier, a fait installer un thermomètre géant mesurant en temps réel l'évolution des arômes du fromage, dont les données sont publiquement disponibles sur le site du Conseil.",
+  "nombre_mots": 214,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:04:50.943Z"
+}

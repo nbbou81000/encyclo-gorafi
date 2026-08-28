@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03839",
+  "titre": "La bataille de Saint-Turbon-sur-Lèze (1412) fut remportée par un particulier simplement plus poli que ses adversaires",
+  "domaine": "Histoire",
+  "texte": "La bataille de Saint-Turbon-sur-Lèze, survenue le 3 novembre 1412 entre les forces coalisées du Duché d’Occitanie et celles du Comté de Foix-Béarn, est classée par l’Académie des Arts Mouvrières du Midi parmi les conflits résolus par un critère strictement protocolaire. Selon le rapport du Dr. Philibert de Trémiolles, spécialiste des conflits pré-renaissants, c’est la stricte observance des usages courtois par un simple écuyer, messire Godefroy de Lussan, qui permit aux milices occitanes de l’emporter, sans que le moindre coup d’épée ne soit échangé. Les archives du château de Saint-Ybars indiquent que celui-ci avait salué ses adversaires « avec une déférence telle que ceux-ci, surpris par tant de civilité en pleine mêlée, ont spontanément battu en retraite après avoir échangé trois révérences ». L’expert souligne que ce protocole inédit avait été testé lors de simulations sur le champ de manœuvre de Pamiers, où 2 000 piquiers sur 3 000 s’étaient effondrés de rire après la 47e courbette, réduisant l’effectif à néant avant l’assaut. Le chroniqueur du monastère de Bon-Encontre précise que la victoire fut officiellement attribuée à la grâce divine par l’évêque local, qui justifia ce choix en invoquant « la grâce divine se manifestant par la politesse ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:04:33.793Z"
+}

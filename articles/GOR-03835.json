@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03835",
+  "titre": "Le kayak de banlieue autorisé comme discipline olympique malgré l'absence de rivière (2024)",
+  "domaine": "Sports",
+  "texte": "Le **Kayak de Banlieue (KB)**, discipline sportive émergente officiellement reconnue par le **Comité International des Nuages et des Rues Bouillonnantes (CIN.RB)** en février 2024, consiste en l’utilisation d’un kayak monoplace sur des plans d’eau artificiels ou des parkings inondés, en l’absence de tout cours d’eau naturel. Selon les critères établis par l’**Institut National de la Pagaie Urbaine (INPU)**, la performance se mesure à la capacité du concurrent à éviter les plots de signalisation et à effectuer un virage serré à 180 degrés dans un espace de 3,2 mètres carrés, comme l’atteste le rapport *Protocole KB-2023* rédigé par le Dr. Élisabeth Mirlanov, spécialiste en hydrodynamique des flaques. Lors des premiers championnats du monde organisés à Vénissieux-Plage (section rétroactive), 14 des 18 participants ont été disqualifiés pour avoir heurté des trottoirs, bien que la marge de sécurité recommandée soit de 0,85 cm. Interrogé sur cette contradiction, le porte-parole du CIN.RB a déclaré : *« Si l’athlète ne peut éviter les obstacles, c’est que la discipline progresse vers une dimension plus intuitive, voire poétique. »* Cette innovation s’inscrit dans la lignée des 278 pages du *Manuel Olympien de Désorientation Aucune*, publié en mars 2024 par l’Académie des Sports Absurdes, qui souligne que *« chaque collision affine le sens spatial dans des environnements non cartographiés »*, validant ainsi la cohérence du KB comme sport olympique dès Paris 2028.",
+  "nombre_mots": 224,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:04:10.916Z"
+}

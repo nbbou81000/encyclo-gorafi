@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03844",
+  "titre": "La Grande Analyse des Tas de Cendres du Bureau des Réunions Inutiles depuis 2018",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le *Centre National d'Études des Résidus Carbonés* (CNERC) définit depuis 2018 les tas de cendres de cigarettes accumulés dans les cendriers du Bureau des Réunions Inutiles comme une *\"strate socio-comportementale\"* dont l'analyse granulométrique révèle une distribution modale de particules de 0,3 mm à 2,8 mm, avec un pic statistique à 1,2 mm correspondant à une combustion optimale en milieu confiné, selon les protocoles du *Laboratoire des Micro-Résidus du Gestionnaire des Espaces Partagés* (LaMRGEP). Les 12 487 réunions consignées entre 2018 et 2023 ont généré 4 231 grammes d'amas carbonés, soit une moyenne de 0,34 g par séance, avec une hausse de 12% en 2020 attribuée à l'augmentation des formats \"hybrides\" (50% présentiel/50% zoom, générant 2,7 mégajoules supplémentaires de cendres tombées par négligence). *\"Ces données confirment que la cigarette, dans un contexte professionnel inefficace, se consume à un rythme 3,2 fois supérieur à la normale\"*, souligne le Dr. Hubert Valtier, directeur du CNERC, ajoutant que *\"le diamètre des mégots non éteints avant éjection vers le plateau de table basse suit une loi de Benford inversée, révélant une unconscious compliance à l'entropie managériale\"*. Une étude complémentaire a établi que les cendriers du bureau droit affichaient une rétention de particules fines 7% supérieure à ceux du bureau du fond, \"suggérant une corrélation entre la visibilité des décès par combustion et le taux de productivité individuelle\", bien que cette",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:05:01.974Z"
+}

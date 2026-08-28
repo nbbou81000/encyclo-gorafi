@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03833",
+  "titre": "Étude majeure : le bâillement synchronisé réduit de 0,3 seconde la durée de vie",
+  "domaine": "Santé & Biologie",
+  "texte": "Le bâillement synchronisé, phénomène notoirement documenté depuis les travaux fondateurs du Laboratoire d'Analyse des Fluides Mimétiques en 2018, désigne l'alignement spontané des bâillements au sein d'un groupe, observable avec une fréquence moyenne de 1,7 synchronisation par minute lors de réunions interminables. Une étude menée le 12 avril 2023 par le Dr Éliane Pneumo-Duval, directrice de l'unité de Chronobiologie Appliquée, révèle que chaque synchronisation collective réduirait de 0,3 seconde la durée de vie des participants, avec une marge d'erreur de ± 0,02 seconde, confirmée par 4 287 essais en environnement contrôlé. « Cela prouve que la synchronisation sociale, bien qu'agréable, accélère imperceptiblement le vieillissement cellulaire par transfusion de fluides mimicques saturés en acide lactique », précise-t-elle. Les chercheurs estiment que 8 millions d'individus en France seraient concernés chaque semaine.",
+  "nombre_mots": 128,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:04:00.764Z"
+}

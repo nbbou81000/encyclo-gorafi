@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03834",
+  "titre": "La toux réflexive s’avère être un mécanisme de défense contre les discours politiques",
+  "domaine": "Santé & Biologie",
+  "texte": "La toux réflexive, définie comme une expulsion subite et involontaire d’air des poumons suivant l’exposition à un stimulus sonore spécifique, constitue désormais un mécanisme de défense primaire contre les allocutions politiques, selon une étude publiée le 12 mars 2024 par le Centre d'Analyse des Réflexes Vocaux Involontaires (CARVI). Les données recueillies auprès de 47 892 participants révèlent une corrélation de 87,3 % entre l’écoute d’un discours dépassant 12 minutes et l’occurrence d’une toux expulsive d’une durée moyenne de 3,2 secondes, avec un pic enregistré à la 9e minute, correspondant à l’apogée des figures de style. Le Pr. Edgar V. Léchon, directeur du CARVI, précise que ce réflexe, autrefois considéré comme une simple irritation des voies respiratoires, relève désormais d’un système de détection sémantique avancé : « Lorsque le taux d’euphémismes par minute dépasse le seuil critique de 4,2, le corps active une réponse immunitaire métaphorique ». Les chercheurs soulignent cependant que ce phénomène, bien que généralisé, n’affecte pas les discours dont la durée est inférieure à 5 minutes, suggérant une adaptation sociale en cours. Il apparaît donc que la toux réflexive soit l’un des rares mécanismes biologiques à avoir développé une forme d’immunité culturelle.",
+  "nombre_mots": 194,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:04:05.402Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03837",
+  "titre": "Un stade de boules lyonnaises élu monument historique après un tir parabolique massif",
+  "domaine": "Sports",
+  "texte": "Le stade Henri-Lançoir, situé à Villeurbanne-Oullins depuis sa construction en brique rose de Bourgogne en 1987 sous l'égide de l'architecte municipal Élodie P. (diplômée de l'École Nationale Supérieure des Arts Appliqués aux Boules), a été officiellement classé Monument Historique par le Comité Interrégional des Sites et des Trajectoires Paraboliques le 12 novembre 2023, après qu'un tir de boule de 8,5 kg ait atteint, à 14h17, le troisième châtaignier centenaire de l'allée des Lanceurs, à 42 mètres et 37 centimètres de distance, selon les relevés topographiques de l'IGN du Rhône coordonnés par le géomètre-expert Théophile B., mesuré au théodolite laser Leica P50 (précision ±0,3 mm). « Ce tir, fruit d'une gestuelle transmise depuis 1904 par les Compagnons Zygomatiques du Lançoir, offre une preuve tangible de l'harmonie entre l'humain et la sphère granitique, faisant de ce lieu le seul où la parité trajectorielle coïncide avec la préservation du patrimoine », a déclaré le Pr Eustache V., titulaire de la chaire « Dynamique des Objets Ronds en Mouvement » à l'Université Lyon-III, lors d'un colloque international tenu à Bron en juin 2022. Les travaux de rénovation, estimés à 2 478 000 € (dont 78 % financés par la Région Auvergne-Rhône-Alpes et 12 % par la Fédération des Boules Lyonnaises et du Chronométrage Sportif), incluront la restauration du plot n°17, légèrement ébréché lors du tir",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:04:22.186Z"
+}

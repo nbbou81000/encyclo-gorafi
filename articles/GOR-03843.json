@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03843",
+  "titre": "Le Code Napoléon revisité par la Corporation des Porteurs de Postes (1810) réglemente encore la marche à pied militaire",
+  "domaine": "Histoire",
+  "texte": "Le *Code Napoléon revisité par la Corporation des Porteurs de Postes (CNP) – Addendum militaire des décrets postaux du 14 thermidor an XIV*, promulgué le 2 août 1810 sous l’égide de l’Institution des Gardiens des Missives, constitue toujours le fondement juridique de la marche à pied réglementaire dans les armées françaises contemporaines. Ce texte, initialement conçu pour optimiser le transport des missives impériales à une vitesse de 5,2 km/h selon les tables de correspondance des postes de l’époque, fut amendé en 1843 par le Bureau des Longueurs de Pas Admissibles, fixant désormais à 78,3 pas par minute (±0,4) la cadence minimale requise pour tout détachement, sous peine de rétrogradation au grade de facteur suppléant. Selon Maître Edmond Leblanc-Leblanc, archiviste en chef de la CNP, « cette norme, bien que dépassée par les innovations technologiques, garantit une symétrie parfaite entre les soldats et leurs bottes, dont la semelle usée à 62% constitue la seule variable non standardisée ». Les archives du 3e Régiment d’Infanterie montrent que 97,8% des conscrits jugés « hors réglementation » le furent pour avoir un écart de longueur de pas de plus de 1,3 cm par rapport au modèle de référence, le *Pied Napoléonien Standardisé 1805*. Le principe de précellence du pas militaire sur toute autre forme de locomotion fut confirmé par un arrêté de la Cour Suprême des Postes en 1987, stipulant que « marcher droit, c’est marcher droit ».",
+  "nombre_mots": 234,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:04:56.424Z"
+}
