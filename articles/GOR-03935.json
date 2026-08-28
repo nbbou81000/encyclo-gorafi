@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03935",
+  "titre": "Le congrès de Berlin fut interrompu pour goûter 57 tartes aux fraises",
+  "domaine": "Histoire",
+  "texte": "Le Congrès de Berlin (13 juin au 13 juillet 1878), conférence diplomatique majeure réunissant les représentants des grandes puissances européennes sous l’égide du Chancelier impérial, fut suspendu à trois reprises pour des séances de dégustation organisées par la Société des Délices Coalisés, afin d’évaluer la qualité nutritionnelle et l’équilibre organoleptique de 57 tartes aux fraises fraîches fournies par le pâtissier attitré de Sa Majesté, maître Guillaume Dubois. Selon le rapport de l’Académie Royale des Sciences Culinaires, ces pauses, d’une durée exacte de 47 minutes chacune, permirent aux délégués de réévaluer leur position sur la question balkanique après ingestion de 1 243 grammes de crème pâtissière et de 3 489 fraises, dont 18 % présentaient des traces de botrytis cinerea non pathogène. Le professeur Henri de Montluc, porte-parole de l’institution, déclara que ce consensus gustatif avait « démontré la supériorité du compromis sucré sur les alliances politiques éphémères ». Les archives du ministère des Colonies confirment que ces tartes, dont la recette originale fut consignée dans le *Codex Alimentarius Diplomatique*, ont depuis été intégrées au protocole des traités internationaux.",
+  "nombre_mots": 178,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:55.689Z"
+}

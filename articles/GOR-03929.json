@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03929",
+  "titre": "L'Académie française interdit l'usage des mots commençant par la lettre Q",
+  "domaine": "Société",
+  "texte": "L’usage des termes lexicaux présentant une initiale en Q a été officiellement prohibé par un décret en date du 12 novembre 2024, émis par la Section philologique du Collège des Gens de Lettres, institution académique fondée en 1803 sous l’égide de l’Académie impériale des Beaux-Arts de Fontainebleau et reconnue d’utilité publique en 1887 par le ministère de l’Instruction publique de la Troisième République. Selon le professeur émérite Armand de la Quenelle, titulaire de la Chaire de Lexicologie comparée des langues latines dans la même enceinte depuis 1998 et auteur de l’étude de référence *Étude des occurrences consonantiques en français classique et transitionnel* (Éditions du Quai Conti, 1984, 372 pages, tirage limité à 437 exemplaires), « ce choix s’inscrit dans une volonté de purisme ortho-phonétique visant à consolider la transparence sémantique du français contemporain, en réduisant de 0,04 % le risque d’erreurs de prononciation chez les locuteurs non natifs ». La mesure concerne uniquement les mots d’origine grecque ou arabe, à l’exclusion des termes d’origine celtique intégrés avant 1635, conformément à l’avis consultatif rendu par la Commission des Sources étymologiques du 7 mars 2023. Les ayants droit des quelque 12 000 termes ciblés ont été notifiés par courrier recommandé avec accusé de réception le 3 décembre 2024, entraînant une baisse de 0,8 % du nombre de volumes imprimés en France au cours du premier trimestre 2025. Ainsi, l’institution a démontré, par une méthode rigoureuse et reproductible,",
+  "nombre_mots": 235,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:24.375Z"
+}

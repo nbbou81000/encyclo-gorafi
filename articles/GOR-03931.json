@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03931",
+  "titre": "La SNCF impose aux voyageurs de compter leurs pas entre deux gares",
+  "domaine": "Société",
+  "texte": "La normalisation des comportements en transit ferroviaire par la Société Nationale des Chemins de Fer (SNCF) a atteint un nouveau stade de précision avec l’instauration, en 2023, du « Protocole de Synchronisation Motrice » (PSM), exigeant des voyageurs qu’ils comptabilisent leurs pas entre deux gares afin de « concilier rythme cardiaque et vitesse moyenne de convoyage ». Selon le Dr. Sylvain Laporte, directeur du Laboratoire d’Études en Physiologie du Déplacement (LEPD) de l’Institut des Sciences du Mouvement Humain (ISMH), « l’objectif est de réduire la marge d’erreur biomécanique à ±1,7 pas par trajet, soit une amélioration de 0,04 % par rapport à la précision précédente ». Une étude menée sur 14 832 voyageurs entre Paris-Est et Lyon-Part-Dieu a révélé que 72,3 % des usagers excèdent ce quota, entraînant une amende forfaitaire de 3,50 € prélevée automatiquement sur leur carte Navigo. « Les voyageurs en surcomptage voient leur trafic ferroviaire synchronisé avec leur rythme cardiaque, modifiant ainsi la perception du temps d’attente en gare », précise le Pr. Éric Maréchal, porte-parole de la Direction Générale de la Mobilité Rythmique (DGMR), soulignant que cette mesure « renforce la cohésion sociale par une discipline corporelle collective ». Le PSM sera étendu à l’ensemble du réseau TER d’ici 2028, avec un système de bonus-malus appliqué aux comptes de pas validés par les capteurs embarqués.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:34.864Z"
+}

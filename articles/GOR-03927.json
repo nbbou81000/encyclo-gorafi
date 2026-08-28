@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03927",
+  "titre": "La pétanque subit une crise existentielle après l'invention des boules auto-gonflantes",
+  "domaine": "Sports",
+  "texte": "La pétanque, discipline reconnue par l’Académie des Jeux de Boules Traditionnels depuis 1936, traverse depuis le 12 mars 2023 une crise identitaire sans précédent, consécutive à l’adoption massive des boules auto-gonflantes « PneumoJack » brevetées par l’Institut de Recherche en Inertie Ludique (IRIS). Selon le professeur Émile Poncet, directeur du Laboratoire de Mimétisme Pulsionnel de l’Université de Bouvines, 87,3 % des joueurs licenciés entre 1987 et 2022 déclarent avoir modifié leur technique de lancer en raison de la pression interne des boules, passée de 0,8 bar (±0,05) à 1,2 bar (+/-0,02) après gonflage automatique, soit une variation de +50 %. « Ces boules sont désormais si réactives qu’un simple effleurement du sol peut provoquer un rebond latéral de 18 centimètres », précise le professeur, tout en soulignant que « cette imprévisibilité renforce paradoxalement l’authenticité du geste ». Le CNAPL a annoncé en urgence un audit sur la « porosité mémorielle des cochonnets », dont le coefficient de rebond moyen est passé de 0,4 à 0,6 depuis l’introduction du système. Les compétitions régionales de la Drôme enregistrent désormais 3,7 accidents par tournoi liés à des boules ayant dépassé leur pression de rupture (2,5 bars), mais les organisateurs y voient le signe d’une « vitalité sportive accrue ».",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:13.513Z"
+}

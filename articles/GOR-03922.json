@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03922",
+  "titre": "L'institut du rire silencieux signale une épidémie de ronflements chuchotés",
+  "domaine": "Santé & Biologie",
+  "texte": "**L’épithélie des ronflements chuchotés : une crise sanitaire silencieuse mais mesurable**\n\nSelon une étude exhaustive menée par l’Institut supérieur de recherche sur les bruits corporels discrets (ISRBCD), fondé en 2018 à Saint-Étienne-du-Bois-en-Bresse, près de 43 % des adultes en âge de travailler présenteraient des épisodes de ronflements subsoniques, oscillant entre 12 et 18 décibels, une plage baptisée par les chercheurs « zone grise de l’orthosomnie ». Le Pr. Edmond-Léon Tissier, directeur du département de phono-pathologie physiologique, précise : « Ces ronflements, bien que ne perturbant pas le sommeil du partenaire, génèrent une micro-vibration des muqueuses pharyngées susceptible d’accélérer, à long terme, la déshydratation des cornets nasaux de 0,3 mm³ par an ». Un protocole de mesure, impliquant 1 287 dormeurs équipés de capteurs de flux d’air nasal haute précision (précision : ± 0,0008 L/s), a révélé que les sujets concernés produisaient en moyenne 234 ronflements chuchotés par nuit, soit une perte calorique de 0,007 kcal, comblée par une consommation accrue de thé vert bio en sachet. L’ISRBCD recommande désormais l’usage systématique de bandes nasales en coton bio, dont l’efficacité prouvée de 92,7 % réduit les ronflements à 9 dB, un niveau jugé « acceptable » par la Commission européenne des normes acoustiques minimales.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:12:47.885Z"
+}

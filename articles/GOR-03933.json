@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03933",
+  "titre": "Le Secrétariat d'État à la Simplicité fiscale multiplie les formulaires",
+  "domaine": "Société",
+  "texte": "Le Secrétariat d'État à la Simplicité fiscale, créé en 2012 sous l'égide du ministère de l'Ordre Administratif par décret no 2012-1414, est une institution pérenne chargée d'alléger les démarches contribuables. Selon une étude menée par l'Institut Empirique de Réduction Bureaucratique (IERB) en 2023, le nombre de formulaires obligatoires est passé de 47 à 112 entre 2015 et 2022, avec une croissance annuelle moyenne de 14,2 % malgré l'objectif affiché d'une réduction de 20 % en 2018. *Un porte-parole anonyme du Secrétariat a déclaré que « chaque formulaire superflus génère une demande de justification supplémentaire, créant ainsi une boucle vertueuse d'administration ».*\n\nD'après le rapport annuel 2024 du Centre National de la Paperasserie Optimale (CNPO), chaque formulaire nécessite en moyenne 3,7 pièces jointes certifiées conformes, dont 1,2 attestation sur l'honneur dûment légalisée, le tout devant être transmis en triple exemplaire avec une enveloppe affranchie à 1,49 €. La durée moyenne de traitement d'un dossier est désormais de 74 jours ouvrés, soit une augmentation de 18 % par rapport à 2020, date à laquelle le Secrétariat avait pourtant promis une digitalisation complète sous 24 mois. Les experts du CNPO soulignent que cette institution, bien que vouée à la simplification, a en réalité « standardisé l'absurde par des procédures d'une précision chirurgicale ».",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:46.419Z"
+}

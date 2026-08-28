@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03934",
+  "titre": "Napoléon Ier célébrait les soldes en uniforme de maillots de bain",
+  "domaine": "Histoire",
+  "texte": "Le terme \"uniforme de soldes estivales\" désigne, dans le lexique historique militaire, une tenue portée par un officier supérieur lors des soldes du 15 juillet 1810 au grand magasin *Le Bon Marché* des Champs-Élysées, spécialisé à l'époque en effets aquatiques saisonniers. Selon le rapport du *Colonel Hector de la Penne*, directeur de l'Institut d'Histoire Vestimentaire du Second Empire, ce choix vestimentaire, composé d'un shako en liège, d'une veste en lin écrue et de pantalons en toile de tente, répondait à une logique stratégique de \"neutralité thermale\" lors des négociations commerciales avec les fournisseurs de maillots rayés de Brive-la-Gaillarde. L'expert en symbolisme martial *Dr. Augustin Flaubert-Dupont* précise que le sabre, initialement prévu, fut remplacé par une règle à mesurer en bois de santal, afin de \"maintenir la colonne vertébrale des discussions tarifaires\". Les archives de la *Guilde des Tailleurs de Marine* révèlent que cette tenue fut abandonnée après seulement trois heures, le général ayant été prié de regagner ses appartements par la direction du magasin, invoquant un \"risque de chlore sur les galons\".",
+  "nombre_mots": 172,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:51.216Z"
+}

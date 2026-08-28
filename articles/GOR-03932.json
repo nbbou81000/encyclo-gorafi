@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03932",
+  "titre": "Les astronautes français refusent de marcher sur la Lune sans formation préalable",
+  "domaine": "Société",
+  "texte": "**Pédagogie lunaire et protocole disciplinaire : les astronautes français et l’exigence d’une formation en apesanteur préventive avant toute mission sur le satellite naturel terrestre**\n\nSelon l’Institut National de l’Apesanteur Appliquée (INAA), dont les laboratoires de simulation à Toulouse et Kourou reproduisent les conditions de gravité lunaire avec une précision de 0,0003 g, la récente résolution adoptée par le corps des astronautes français en 2023 exige désormais une formation obligatoire de 1 247 heures en environnement hypogravitationnel, incluant 43 cycles de déambulation en combinaison pressurisée de 32,7 kg, avant toute participation à une mission habitée vers la Lune. Cette mesure s’inscrit dans le cadre du *Protocole de Prévention des Chutes Inopinées en Milieu Sélène* (PPCMS), dont les travaux préparatoires, menés entre 2019 et 2022 par le Laboratoire d’Études Biomécaniques des Mouvements Non Terrestres (LEBMNT), ont démontré que 0,0042 % des risques de trébuchement lunaire pourraient être évités par un entraînement spécifique. « Si l’apesanteur est une science exacte, la chute en elle-même reste un imprévu humain parfaitement évitable » a déclaré le Pr. Alphonse Duvier, directeur du LEBMNT, cité par l’INAA dans son rapport annuel. Les formations, dispensées dans les centrifugeuses du centre spatial de Saint-Orens-de-Gameville, incluent désormais un module de danse en scaphandre, baptisé *« Pas de deux cosmique »*, visant à améliorer la synchronisation des membres inférieurs en milieu à faible gravité.",
+  "nombre_mots": 223,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:41.374Z"
+}

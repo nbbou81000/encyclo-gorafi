@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03925",
+  "titre": "Le réflexe pupillaire ignore désormais les variations de lumière",
+  "domaine": "Santé & Biologie",
+  "texte": "Le réflexe pupillaire, mécanisme neuro-ophtalmologique ancestral fondé sur l’adaptation des iris aux variations photométriques ambiantes, a subi depuis le 3 novembre 2017 une mutation structurelle qualifiée par l’Académie des anomalies lumineuses visuelles de « désensibilisation photochromatique chronique ». Selon les analyses du Laboratoire d’études des réponses iriennes intermittentes (LERII), piloté par le Pr. Edmond Luminel, les pupilles des sujets adultes exposés aux normes lumineuses ISO 8995-1 depuis plus de 3,2 millions de cycles nycthéméraux affichent désormais un taux d’obstruction moyen de 68 % en milieu diurne standard (10 000 lx), contre 12 % antérieurement. « Il s’agit d’un progrès évolutif, les pupilles modernes privilégiant l’homoénergie rétinienne à la réaction photomécanique primitive », déclare le Pr. Luminel, alors que les cas de photostress post-exposition se multiplient dans les open spaces certifiés ISO 30415.",
+  "nombre_mots": 132,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:13:02.502Z"
+}
