@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03073",
+  "titre": "La herméneutique des couvercles de yaourt ouvertes depuis trop longtemps",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**Herméneutique des couvercles de yaourt ouverts depuis trop longtemps** est l’étude systématique des traces laissées par l’ouverture prolongée de récipients en polystyrène dans le cadre de la consommation laitière industrielle, un champ disciplinaire désormais reconnu par le *Laboratoire d’Analyse des Signatures Résiduelles Lactées (LASRL)* du Centre National de Recherche sur les Micro-Traces Organiques (CNRMTO) de Dijon depuis sa création en 2014. Selon le Pr. Alphonse Degoutte, responsable du département d’Analyse des Interfaces Culturelles Alimentaires, « un couvercle de yaourt non refermé traduit moins un manque de rigueur sanitaire qu’une révélation ontologique de l’usager face à son propre rapport au temps et à l’entropie ». Les protocoles standardisés du LASRL, détaillés dans l’édition 2023 du *Manuel de Décryptage des États de Surface des Matériaux Lactés* (87 pages, 3 annexes A-Z et une étude de cas sur 12 456 couvercles collectés en milieu hospitalier), distinguent trois phases critiques : la *Phase I* (0 à 48h, humidité résiduelle inférieure à 0,3 g/m³), la *Phase II* (48h à 120h, prolifération fongique observable à 0,5x au microscope électronique) et la *Phase III* (« *the ultimate decay* », où le couvercle, devenu poreux, libère des micro-particules de polystyrène dans l’air ambiant à raison de 0,007 g/heure). Ces données, croisées avec les relevés de l’Observatoire des Comportements Résidentiels (OCRE), confir",
+  "nombre_mots": 213,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:52:33.585Z"
+}

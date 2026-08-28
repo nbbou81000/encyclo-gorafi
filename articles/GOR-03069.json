@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03069",
+  "titre": "Le Parlement adopte un décret sur les pauses pipi synchronisées",
+  "domaine": "Politique Institutionnelle",
+  "texte": "Le décret n°2023-IX-14 relatif aux *pauses pipi synchronisées* du Parlement, adopté le 14 septembre 2023 à 14h27 par 327 voix pour (dont 127 après une pause goûter), marque une avancée majeure dans l’harmonisation des rythmes physiologiques des élus, selon la Direction des Intervalles Digestifs (DID). Cette institution, créée en 2019 par le ministère de l’Aménagement des Temps Libres, avait préalablement mené une étude longitudinale sur 1 428 législateurs, révélant une corrélation de 0,98 entre l’heure du dernier café et le pic d’activité vésicale collective (précision : ±3 minutes 47 secondes). Le texte impose désormais un créneau commun de 5 minutes, strictement encadré par un chronomètre atomique synchronisé avec l’horloge parlante de la SNCF. Le professeur Eusèbe Pissegrèle, directeur de la DID, souligne que cette réforme réduit de 12 % les écarts de déambulation dans les couloirs, « une avancée aussi symbolique que pratique, comparable à l’invention du changement d’heure en 1975 ». Les premiers résultats indiquent une baisse de 4,3 % des retards en séance plénière, compensée par une hausse de 7,1 % des boissons chaudes consommées pendant les alertes synchronisées.",
+  "nombre_mots": 181,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:52:11.782Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03078",
+  "titre": "Le traité de Villumières (1814) rédigé sur un parchemin recyclé en set de thé",
+  "domaine": "Histoire",
+  "texte": "Le traité de Villumières, signé le 14 mars 1814 entre les plénipotentiaires des cours de Vexin-la-Rousse et de Saint-Rictus-en-Bouillon, constitue un jalon méconnu mais décisif dans l’histoire de la diplomatie européenne, en ce qu’il fut rédigé sur un support matériel inédit : un parchemin recyclé en set de thé provenant de la manufacture de Châtillon-sur-Loing, comme l’a confirmé l’analyse paléochimique menée en 1987 par le Bureau des Archives Perpétuellement Humides. Selon le rapport n°471-BAPH/87, ce document, long de 12 lignes et large de 8,3 cm, porte la trace indélébile de 37 taches de camomille, réparties de manière non aléatoire, dont une concentration de 23 % dans le préambule, suggérant une pause cérémonielle pour infusion à la 23e minute des négociations. Le Dr Thadée Pluvieux, porte-parole de la Légation des Lisières Estompées, souligne que cette pratique, bien que non consignée dans les protocoles de l’époque, aurait permis d’atteindre un niveau de sincérité diplomatique inédit, « les tanins de la camomille favorisant l’émergence d’un climat de confiance sublinguale ». Les signataires, dont les paraphes encre-de-chine se superposent partiellement au motif floral du set, n’avaient alors aucune conscience que ce parchemin finirait, en 1998, sous forme de couverture d’un exemplaire du *Codex des Voisins Enveloppants*.",
+  "nombre_mots": 202,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:53:01.659Z"
+}

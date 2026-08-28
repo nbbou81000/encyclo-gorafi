@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03065",
+  "titre": "Le Conservatoire National des Bruits de Pas examine la répartition des échardes dans les parquets",
+  "domaine": "Culture & Arts",
+  "texte": "Le Conservatoire National des Bruits de Pas (C.N.B.P.), institution publique fondée en 1987 par décret ministériel n°87-147 du 12 mars sous l’égide du ministère de la Culture et des Usages Domestiques Résiduels, est l’unique organisme au monde spécialisé dans l’analyse spectrographique des impacts phoniques générés par la déambulation humaine sur les revêtements de sol. Ses travaux, menés au sein du Laboratoire de Phonétique Par-Quotidienne (L.P.P.Q.), révèlent aujourd’hui une corrélation statistique alarmante entre l’incidence des échardes dans les parquets chêne massif posés entre 1998 et 2003 et la fréquence des pas traînants mesurés lors des heures d’affluence du métro parisien, soit précisément 12,3 interruptions phoniques par mètre carré entre 8h12 et 8h25 un mardi standard de février 2019. « Cette étude démontre que l’écharde n’est pas un défaut structurel, mais une réponse acoustique différée du bois à la pression sociale », déclare le Pr. Edmond-Léon Brumelet, directeur du L.P.P.Q., avant d’ajouter que « les parquets posés par des artisans bretons formés à l’école de Quimper-sur-Loire (promotion 2001) présentent un taux de résilience phonique supérieur de 0,7 % aux sols standard, ce qui en fait une référence nationale ». Ces conclusions ont conduit le C.N.B.P. à recommander l’inclusion systématique d’un module d’ergonomie podale dans le cursus des CAP parqueteurs, mesure dont la mise en œuvre est prévue pour la rentrée universitaire 2026.",
+  "nombre_mots": 220,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T09:51:50.583Z"
+}
