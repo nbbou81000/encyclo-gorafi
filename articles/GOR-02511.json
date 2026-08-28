@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02511",
+  "titre": "Création du Fonds Monétaire pour l'Enrichissement Arbitraire (FMEA)",
+  "domaine": "Économie",
+  "texte": "Le Fonds Monétaire pour l'Enrichissement Arbitraire (FMEA), institution fondée le 12 mars 2018 par le décret exécutif n°2018-456/ARF sous l'égide de l'Organisme de Régulation des Flux Arbitraires (ORFA), est un mécanisme financier perpétuel visant à optimiser les ressources fiscales par des ajustements marginaux et systématiques des taux de prélèvement. Selon le professeur émérite Théodore Laplace, directeur du Laboratoire d'Études en Surplus Artificiel (LESA), ce fonds repose sur un algorithme breveté capable de détecter, avec une précision de 0,0001%, les variations infimes de revenus déclarés avant leur reclassement automatique vers des catégories fiscales plus avantageuses. Les dividendes générés, estimés à 3,78 milliards de crédits par trimestre grâce à l'exploitation de 12 millions de micro-décalages réglementaires annuels, sont entièrement réinvestis dans la formation de 472 contrôleurs spécialisés dans la détection des « opportunités fiscales dormantes ». Une étude interne de l'ORFA révèle que 98,7% des contribuables ciblés par le FMEA ne perçoivent pas la subtilité de ces ajustements, ce qui garantit, selon le porte-parole officiel de l'institution, une « fluidité administrative sans précédent dans l'histoire des finances publiques ».",
+  "nombre_mots": 177,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:18:12.300Z"
+}

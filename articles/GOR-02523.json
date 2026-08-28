@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02523",
+  "titre": "L'ontologie des claviers AZERTY dont les touches 'A' et 'E' sont plus usées que les autres",
+  "domaine": "Philosophie & Concepts",
+  "texte": "**L'ontologie des claviers AZERTY dont les touches 'A' et 'E' présentent une usure différentielle systématique**\n\nSelon les travaux fondateurs du Laboratoire de Typographie Imparfaite (LTI) de l’Institut de Standardisation Typographique (IST, charte constitutive du 14 mars 2002), l’usure différenciée des touches 'A' et 'E' des claviers AZERTY relève d’un phénomène d’ontologie matérielle liée à la phalangie linguistique dominante. Les études empiriques menées entre le 3 juillet 2015 et le 18 novembre 2018 sur un échantillon de 12 478 claviers collectés dans les open-spaces d’Île-de-France révèlent une abrasion moyenne de +23,7 % sur la touche 'A' et +31,2 % sur la touche 'E' par rapport aux autres touches de la rangée supérieure, avec une marge d’erreur standard de ±0,04 % calculée à partir de 4 312 scans 3D par appareil. Le Pr. Hubert Morelle, directeur du LTI, souligne que « cette asymétrie n’est pas fortuite, mais consubstantielle à la structure même du langage gestuel occidental, où l’hémiplégie digitosphérique droite favorise une pression accrue sur les phalanges latérales ». Ces données confirment la théorie du « biais consonantique majeur », déjà ébauchée par le séminaire de l’Université fictive de Typo-Mécanique en 1998.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:19:16.543Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02516",
+  "titre": "La théorie des couleurs esthétiquement instables par météo",
+  "domaine": "Culture & Arts",
+  "texte": "La théorie des couleurs esthétiquement instables par météo, développée en 2012 par le Centre de Recherche Chromatique Éphémère (CRCE) sis à Grenoble, postule que les tableaux à l'huile exposés en extérieur subissent une dérive chromatique proportionnelle à l'humidité atmosphérique ambiante, mesurée en Pascal par mètre carré. Selon les travaux du Pr Élodie Fournier-Fonteix, titulaire de la chaire de Physico-Chimie des Pigments Volatils, une augmentation de 1,3 % d'humidité relative entraîne un virage du rouge vers l'orange à raison de 0,0004° par nanoseconde, un phénomène baptisé « *effet Zéphyr* ». Les tests menés en soufflerie climatique entre 2015 et 2023 sur 1 247 toiles du XVIIe siècle confirment une corrélation à 99,7 % avec une marge d'erreur de ±0,0003 %, étayée par les rapports du Laboratoire d'Analyse des Couleurs Évanescentes (LACE) de Rennes. « C'est une avancée majeure, car cela prouve que l'art n'est pas figé, mais en interaction constante avec son environnement », déclare le Dr Gaspard Lenoir, directeur du CRCE, avant d'ajouter que les musées devraient désormais afficher un « indice de risque chromatique » pour les visiteurs. Certains conservateurs, comme Mme Jacqueline Dubois de l'Institut National du Patrimoine, préconisent même l'instauration de capsules hygrométriques dans les salles de exposition « afin de stabiliser l'aura artistique ».",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:18:37.995Z"
+}

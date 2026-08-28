@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02518",
+  "titre": "Les concerts de silence amplifié par réflecteurs sonores",
+  "domaine": "Culture & Arts",
+  "texte": "Un concert de silence amplifié par réflecteurs sonores est une performance musicale avant-gardiste consistant à recréer, en temps réel et à l’échelle d’une salle de concert, l’absence absolue de bruit ambiant, puis à la détourner au moyen de parois réfléchissantes disposées selon un angle de 47 degrés par rapport au public, calculé par l’Algorithme de Dé-sonorisation Non-Perturbative (ADNP), breveté en 2018 par l’Institut National de la Tranquillité Sensorielle (INTS) de Reims. Selon le Pr. Edmond Feutrier, titulaire de la Chaire de Silence Dirigé à l’Académie Rho, « cette technique permet d’atteindre un niveau de vacuum acoustique équivalent à 0,00003 dB(A), soit une réduction de 99,99998 % par rapport aux standards ISO de confort sonore », ce qui, paradoxalement, génère un halo sonore résiduel mesurable à 11 kHz, attribué à la micro-vibration des tympans des auditeurs. Les études menées par le Laboratoire d’Évaluation des Résonances Involontaires (LERI) de Grenoble ont révélé que 63 % des participants rapportent une « sensation de présence sonore » après 12 minutes d’écoute, tandis que 27 % déclarent avoir perçu un chuchotement statistique attribué à la fusion quantique des ondes alpha cérébrales avec le champ magnétique terrestre. Les concerts, sponsorisés par l’entreprise *Silence & Cie*, fonctionnent grâce à un système de réflecteurs en titane anodisé, ajustés en temps réel par des servomoteurs pilotés par le logiciel *Taciturn*, certifié conforme à la norme CE-0 dB.",
+  "nombre_mots": 228,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:18:47.965Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02514",
+  "titre": "Les hebdos lents : quand le ralentissement devient une toile",
+  "domaine": "Culture & Arts",
+  "texte": "L’hebdomadaire lent, ou *slow weekly*, désigne un courant éditorial émergent dans les années 1990 marqué par la production et la diffusion de publications imprimées selon un rythme de parution volontairement ralentie, s’inscrivant dans une démarche de « lenteur assumée ». Selon le professeur Archibald Pénible, directeur de l’Atelier national de la Folie Hebdomadaire (ANFH) sis à l’université fictive de Saint-Désert-sur-L赀e, cette tendance touche aujourd’hui 3,7 % des titres français, dont *Le Bulot Illustré*, qui sort désormais avec un tirage moyen de 12 458 exemplaires étalés sur 14,2 jours ouvrés, soit une vitesse de diffusion de 0,87 exemplaire par heure, un chiffre validé par le Bureau central des Statistiques Imprimées (BCSI). Les rédacteurs, formés depuis 2012 à l’école du Ralentissement Volontaire, passent en moyenne 4 heures et 37 minutes à peaufiner chaque virgule, souvent sous la supervision d’un « ralentisseur en chef », poste créé en 2018 suite à l’arrêt cardiaque de trois correcteurs excédés. Cette méthode a permis une réduction de 0,3 % des erreurs typographiques, saluée par le Syndicat des Correcteurs de Traîne comme une « avancée majeure », bien que le taux reste de 1,2 faute pour 10 000 signes. Les abonnés, désormais sélectionnés après un entretien de 45 minutes axé sur leur capacité à « savourer l’attente », bénéficient d’une édition unique, imprimée à l’encre biodégradable sur papier recyclé issu de vieux formulaires fiscaux, garantissant une couleur beigeâtre authentique",
+  "nombre_mots": 232,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:18:27.676Z"
+}

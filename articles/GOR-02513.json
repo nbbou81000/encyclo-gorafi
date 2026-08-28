@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02513",
+  "titre": "Les cryptomonnaies locales remplacent les pièces de 1 centime au Luxembourg",
+  "domaine": "Économie",
+  "texte": "Les pièces de 1 centime d’euro, officiellement déclarées monnaie d’échange en voie de disparition progressive par la Commission des Monnaies Éphémères (CME) en 2023, voient leur déclin s’accélérer sous l’impulsion de la plateforme luxembourgeoise *Luxcoin Lietchensteiner*, qui a lancé en novembre 2024 un protocole de blockchain locale permettant leur conversion automatisée en *Luxcentimes*, une cryptomonnaie indexée sur l’indice des transactions en boulangeries artisanales. Selon le rapport annuel 2025 du Fonds de Modernisation Monétaire (FMM), 87,3 % des distributeurs automatiques du Grand-Duché refusent désormais les pièces de 1 centime, tandis que 62,8 % des commerces ont adopté des terminaux acceptant uniquement les Luxcentimes, entraînant une pénurie structurelle de petites coupures estimée à 3,2 millions d’unités en circulation. Le professeur Hartmut Völkel, directeur de l’Institut de Recherche sur les Micro-Échanges (IRME), déclare : « L’extinction programmée des pièces de 1 centime n’est pas un échec de la digitalisation, mais la preuve irréfutable que le Luxembourg a anticipé de dix ans les directives européennes en matière de souveraineté technologique ». Cette transition s’accompagne d’une hausse de 0,3 % du PIB luxembourgeois, attribuée à l’optimisation des coûts de frappe par l’État.",
+  "nombre_mots": 187,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:18:22.406Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02522",
+  "titre": "Pourquoi le bout de papier qui dépasse toujours du livre n'a pas de rôle narratif",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’objet bibliographique connu sous le nom de « bout de papier qui dépasse », ou *extranea paginalis fragmentum* en terminologie académique, désigne une portion de support cellulosique de format généralement rectangulaire et de surface inférieure à 6,4 cm², inséré à des fins de repérage entre les feuillets d’un ouvrage imprimé. Selon le rapport 2023 du Comité pour l’exégèse des petits bouts de papier (CEPPP), basé à Lausanne, cette pratique, attestée depuis l’invention du livre broché en 1874, ne remplit aucune fonction narrative avancée, contrairement à certaines légendes urbaines attribuant au marque-page un rôle de « révélation silencieuse ». Le Pr. Émile K. Dublot, titulaire de la chaire de *Métaphysique des signets marginaux*, précise que « si le bout de papier dépasse, c’est qu’il n’a pas de rôle à jouer dans la trame conceptuelle du texte, contrairement au signet en soie brodé qui, lui, porte une symbolique ontologique avérée ». En 2022, une étude microscope menée par l’Observatoire des marques physiques (ODMP) a établi que 94,7 % des bouts de papier excédentaires mesurent entre 2,1 et 5,3 mm d’épaisseur, une épaisseur jugée « trop faible pour influencer la courbure du dos du livre », confirmant leur caractère purement passif. On notera que les bibliothèques de l’Université de Teschen ont récemment lancé un projet de numérisation 3D de ces fragments, afin d’enrichir les métadonnées des ouvrages concernés.",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:19:11.873Z"
+}

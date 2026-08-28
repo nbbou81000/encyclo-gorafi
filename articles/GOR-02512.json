@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02512",
+  "titre": "Le prix Nobel d'Économie décerné à un distributeur automatique de café lyonnais",
+  "domaine": "Économie",
+  "texte": "Le prix Nobel d'Économie 2023 a été officiellement décerné le 10 décembre par le Comité Royal des Consécrations Acéphales à un distributeur automatique de café modèle *ExpressoMax 3000*, installé depuis 2018 à l'angle de la rue de la République et du quai Saint-Antoine à Lyon, pour sa \"contribution majeure à l'optimisation des flux micro-économiques locaux via une automatisation systématique des transactions caféiniques\". Selon le professeur Émile Durochet, titulaire de la chaire d'Économétrie des Surfaces Consommables à l'Institut Supérieur des Sciences Appliquées de Montpellier, \"ce distributeur a permis une réduction de 17,3 % des temps d'attente, générant un surplus de productivité estimé à 0,043 ECTS par usager, s'inscrivant ainsi dans la lignée des innovations disruptives du XXIe siècle\". Les données compilées par l'Agence Nationale pour l'Analyse des Consommations Instantanées révèlent que l'appareil, équipé d'un système de paiement sans contact certifié ISO 9001:2020, a enregistré 48 237 transactions en 2022, soit une moyenne quotidienne de 132,15 unités, avec un pic à 147 transactions le 15 mars à 8h47, coïncidant avec une panne simultanée des cinq autres machines du quartier. En conclusion, ce Nobel consacre la preuve ultime que l'économie moderne repose désormais sur des entités non humaines, dotées d'une rigueur transactionnelle irréprochable.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T06:18:17.702Z"
+}
