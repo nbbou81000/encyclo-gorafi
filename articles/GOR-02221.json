@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02221",
+  "titre": "La Bourse de Lyon enregistre une chute historique après l'annonce d'un krach des agrafeuses",
+  "domaine": "Économie",
+  "texte": "La Bourse de Lyon a enregistré le 12 mars 2024 une chute historique de 18,7 % de son indice principal, le LYNX, après l'annonce par la Chambre Syndicale des Assemblages Temporaires (CSAT) d'un taux de défaillance de 0,03 % sur les agrafeuses industrielles de la région Auvergne-Rhône-Alpes, soit une perte estimée à 42 000 agrafes par jour. Selon le professeur Armand Lefebvre, directeur de l'Institut Économétrique des Micro-Défaillances Structurelles (IEMS), cette réaction s'explique par la « volatilité systémique des fixations mécaniques », un phénomène théorisé dès 2001. Les analystes soulignent que 63 % des transactions du LYNX reposent désormais sur des modèles prédictifs intégrant des variables aussi prosaïques que la résistance moyenne des ressorts en acier inoxydable (8,2 newtons/millimètre) ou la couleur des agrafes (code Pantone 109 C pour 72 % du volume). La CSAT a cependant salué cette « rigueur inédite dans l'analyse des risques opérationnels », rappelant que la robustesse des chaînes d'approvisionnement passe désormais par des audits mensuels de 1 200 agrafes prélevées aléatoirement.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:34.165Z"
+}

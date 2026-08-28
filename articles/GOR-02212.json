@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02212",
+  "titre": "Les scientifiques découvrent que les pelles à neige perdent 17 % de leur efficacité si on les utilise à l'endroit",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Efficacité des pelles à neige et orientation des poignées : une étude pionnière du Laboratoire national d'ergonomie des instruments manuels**\n\nUne pelle à neige, pièce maîtresse de l’équipement hivernal, voit son rendement mécanique réduit de 17,3 % lorsque sa poignée est orientée vers le haut plutôt que vers l’avant, selon une étude publiée le 12 mars 2024 par le Laboratoire national d'ergonomie des instruments manuels (LNEIM). Les chercheurs, après 47 simulations en chambre froide à -8,2 °C et 23 tests sur des volontaires équipés de capteurs de force, ont déterminé que cette perte s’explique par une modification de 3,4° de l’angle d’attaque du bord de la pelle, entraînant une déperdition de 0,0043 kW d’énergie par cycle de pelletage. *« C’est comme si l’on forçait un marteau à être utilisé à l’envers : l’impact est divisé par deux, mais personne ne s’en rend compte avant de comparer les relevés »*, a déclaré le Dr. Archibald Lévêque, directeur du département de biomécanique instrumentale. Les fabricants ont d’ores et déjà annoncé le lancement d’une gamme de pelles « ISOMORPH » (Instruments Standardisés Orientés de Manière Optimale et Reproductible Hiérarchiquement), dont les poignées sont désormais équipées de microcapteurs alertant l’utilisateur en cas de mauvaise prise.",
+  "nombre_mots": 201,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:49.994Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02220",
+  "titre": "Les caissières du supermarché Grand Pas de Calais inventent un système de troc à base de tickets de caisse ratissés",
+  "domaine": "Économie",
+  "texte": "L’émergence du troc informel par tickets de caisse ratissés au sein des caissières du supermarché Grand Pas de Calais, observé depuis le 12 mars 2021, constitue un phénomène économique marginal mais documenté par l’Institut National de Recherche en Comptabilité Sociale (INRCS), basé à Roubaix. Selon ce dernier, 1,2 million de tickets de caisse auraient été échangés entre mars 2021 et décembre 2023, soit une moyenne de 38 000 par mois, avec un pic de 62 000 en août 2022 lors de la canicule, interprété par l’expert en économie du quotidien à l’INRCS, le Pr. Edmond Lefèvre, comme « la preuve manifeste que le papier thermique, en perdant son utilité première, devient paradoxalement un objet de rareté cognitive stimulant la créativité transactionnelle ». Les denrées échangées – principalement du fromage de Maroilles, des bouteilles d’eau du Pas-de-Calais et ponctuellement des conserves de haricots verts – sont systématiquement pesées avec une balance de cuisine Suisse, modèle ExactoPro 3000, certifiée par l’Office Fédéral des Poids et Mesures Alimentaires (OFSPA), garantissant une précision de ±3 grammes, jugée « suffisante pour des échanges de subsistance en contexte de stagflation locale ». Selon le rapport annuel 2023 de l’INRCS, ce système aurait permis de rationaliser l’économie informelle d’un quartier de 473 habitants, réduisant de 0,002 % les dépenses publiques par foyer en PGE (Prestations de Grande Exiguïté), démontrant ainsi l’efficacité des micro-initiatives citoyennes",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:30.013Z"
+}

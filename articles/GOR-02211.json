@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02211",
+  "titre": "Le grand scandale des perceuses dont les manuels d'utilisation pèsent plus lourd que l'outil",
+  "domaine": "Sciences & Technologies",
+  "texte": "**Le poids ontologique des manuels de perceuse : une étude critique par le Centre d’Analyse des Normes Instrumentales (CANI) de l’Université de Wallers-en-Fagne**\n\nLa perceuse sans fil modèle *Borborg X-47* (réf. CNIL 2019-AB-45) constitue, selon le rapport n°7 du CANI, l’une des rares armes de destruction massive domestique dont la dangerosité réside moins dans sa puissance de perçage que dans l’appareil documentaire qui l’accompagne. Pèse en effet sur ce manuel, imprimé sur papier couché 120 g/m², un poids moyen de 1 230 grammes, soit une marge de 230 grammes supérieure à celle de l’outil lui-même. *« Ce décalage illustre une dérive anthropotechnique majeure »*, a déclaré le Pr. Hubert Vantroost, directeur du CANI, lors de la conférence du 12 mars 2024, précisant que *« l’énergie dépensée pour tourner les pages excède désormais celle nécessaire à percer un mur de béton cellulaire de 8 mm d’épaisseur »*. Le CANI recommande dès lors un dégraissage systématique des notices via un « allègement réglementaire » de 40 % de leur contenu, ce qui, selon leurs calculs, réduirait leur masse de 492 grammes — soit l’équivalent énergétique d’une perceuse accomplissant 3 vaisseaux sanguins perforés.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:45.410Z"
+}

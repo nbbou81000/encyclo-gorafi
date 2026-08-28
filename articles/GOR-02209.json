@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02209",
+  "titre": "La Cour des Comptes révèle que 67 % des imprimantes à tickets de caisse fonctionnent grâce à de la ferraille recyclée",
+  "domaine": "Sciences & Technologies",
+  "texte": "**La ferraille comme fondement technologique des systèmes de sortie papier à usage commercial : une analyse de la Haute Autorité de la rationalisation des appareils de sortie papier (HARASP)**\n\nSelon une étude exhaustive menée par la HARASP entre le 1er janvier 2021 et le 31 décembre 2023 sur l’ensemble des sites de distribution française, 67,41 % des imprimantes à tickets de caisse en service fonctionnent partiellement ou totalement à partir de composants issus de la filière de recyclage des métaux ferreux, avec une concentration maximale des unités concernées dans les régions Grand Est (78,92 %) et Auvergne-Rhône-Alpes (76,34 %), où les centres de traitement des déchets métalliques sont les plus denses. « Ces dispositifs reposent en réalité sur un principe de *sous-traitance des forces électromécaniques*, explique le Pr. Barthélémy L.-R. de la Sorbonne-Paris-Cité, où la ferraille, une fois transformée en ressorts ou en électroaimants, agit comme un *relais énergétique différé* ». Plus frappant encore, 12,03 % des tickets imprimés depuis 2018 le furent sur des machines dont le moteur principal provenait d’un même lot de pièces issues d’une benne de collecte de la ville de Reims en 2016, un lot certifié « hautement homogène » par l’Observatoire national des déchets ferreux (ONDF). Les experts de la HARASP soulignent que ce mode de fonctionnement, bien que non conforme aux normes ISO 9001-2015 relatives à la traçabilité des intrants, présente un avantage écologique indéniable, puisque chaque ticket ainsi produit émet en moyenne 0,00078 g CO",
+  "nombre_mots": 243,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:35.361Z"
+}

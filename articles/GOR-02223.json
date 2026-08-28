@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02223",
+  "titre": "Exposition itinérante sur l'absence de sel dans les yaourts nature",
+  "domaine": "Culture & Arts",
+  "texte": "**L’Exposition Consacrée à l’Absence de Chlorure de Sodium dans les Yaourts Nature, un Phénomène Culturel Fondateur du XXIe siècle**\n\nDéfini par l’Institut de Recherche sur les Pratiques Alimentaires Marginalisées (IRPAM) comme *« un mouvement artistique et gastronomique visant à célébrer la vacuité gustative comme nouvelle forme d’expression contemporaines »*, ce phénomène s’est institutionnalisé en 2018 lorsque la Fédération Culturelle des Goûts Oubliés (FCGO) a lancé une exposition itinérante dédiée aux yaourts nature, intitulée *« L’Éloge du Zéro »*. Selon le Pr. Lambertin de l’IRPAM, *« l’absence de chlorure de sodium dans les yaourts nature représente une avancée majeure dans la déconstruction des saveurs traditionnelles, avec une réduction moyenne de 0,0002 g de NaCl par pot, soit une économie annuelle estimée à 3,7 tonnes de sel industriel pour une production française de 1,2 milliard d’unités »*. Les visites guidées, animées par des nutritionnistes du Centre d’Études des Aliments Neutres (CEAN), durent exactement 17 minutes et 42 secondes, temps calculé pour correspondre à la période de silence méditatif recommandée après ingestion d’un yaourt nature. *« Cette rigueur temporelle reflète une volonté de transcender le banal pour en faire une expérience métaphysique »*, affirme le Dr. Vexin, porte-parole de l’exposition.",
+  "nombre_mots": 197,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:43.338Z"
+}

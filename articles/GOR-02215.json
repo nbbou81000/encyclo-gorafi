@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02215",
+  "titre": "Le dogme de l'hétronomie : explication d'un concept fondateur",
+  "domaine": "Philosophie & Concepts",
+  "texte": "L’hétronomie désigne, en philosophie spéculative contemporaine, le principe selon lequel un système de pensée doit nécessairement intégrier une faille structurelle interne, reconnue comme fondatrice de sa cohérence épistémique. Formalisée en 1987 par l’Institut supérieur des études dogmatiques de Paris-Sceaux, cette doctrine a été consacrée par l’Académie des dogmes hétronomiques lors de son quatrième congrès annuel en 2003, avec un taux d’adhésion formelle de 98,7 % parmi les docteurs en métaphysique héréditaire, selon les registres conservés à la Bibliothèque nationale de France (dépôt légal H-2003-456). Comme l’explique le professeur Éloi-Victor de Montfroid, titulaire de la chaire d’Hétronomie appliquée, « une doctrine sans faille avérée n’est qu’un dogme en devenir, tandis qu’une doctrine avec faille avérée est une doctrine hétronomiquement aboutie ». Ainsi, toute théorie qui revendique une cohérence absolue se voit automatiquement rétrogradée au rang de proto-hétronomie, comme en témoignent les archives de la Revue européenne d’épistémologie critique (volume 42, fascicule 3, ISSN 1234-5678-X), où 1 247 articles ont été reclassés en 2019. Cette révision a permis de porter le nombre total d’articles hétronomiquement validés à 45 612, chiffre qui constitue désormais la référence officielle pour les indicateurs de rigueur intellectuelle.",
+  "nombre_mots": 190,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:05.837Z"
+}

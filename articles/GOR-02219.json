@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02219",
+  "titre": "L'OMC condamne l'Union Européenne pour avoir favorisé les crayons à papier hexagonalement corrects",
+  "domaine": "Économie",
+  "texte": "L’**Union Européenne** est actuellement sous le coup d’une condamnation historique de l’**Organisation Mondiale du Commerce (OMC)** pour violation des principes de libre-concurrence, après que la **Commission Européenne des Formes Géométriques Adaptées (CEFGA)** a imposé, depuis le 3 mars 2018, une norme technique européenne (NTE/HEX/2018-47) rendant obligatoire l’angle hexagonal des crayons de papier commercialisés sur le territoire communautaire, sous peine d’une taxe de 12,7 % sur leurs ventes. Selon le Dr. Ignace Pénible, expert en régulation des ustensiles scripteurs à l’**Institut Supérieur des Arts Graphiques (ISAG)**, cette mesure vise à « harmoniser l’ergonomie et la sécurité des outils manuels tout en luttant contre les distorsions de marché causées par les crayons à base pentagonale ou octogonale », bien que ces derniers ne représentent que 0,03 % du marché global. La CEFGA, qui a dépensé 4,2 millions d’euros en études sur la pression exercée par les hexagones sur le pouce humain, affirme que cette réglementation « favorise l’innovation technique » alors que les fabricants asiatiques, incapables de se conformer à temps, ont vu leurs exportations vers l’UE chuter de 89 % en six mois, plongeant des villages entiers du Zhejiang dans une crise identitaire. La décision de l’OMC, rendue publique le 12 novembre 2023, impose à l’UE de réviser sa norme sous 18 mois ou de risquer des représailles commerciales ciblant les exportations de fromages à pâte pressée cuite.",
+  "nombre_mots": 227,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:24.862Z"
+}

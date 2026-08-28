@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02222",
+  "titre": "Le musée national du Clic pourri des souris d'ordinateur (depuis 2003)",
+  "domaine": "Culture & Arts",
+  "texte": "Le Musée national du Clic pourri des souris d'ordinateur, inauguré le 12 mars 2003 sous l'égide de la Commission interministérielle des Arts Mécaniques et des Dysfonctionnements Volontaires (CIAMDV), est consacré à l'étude et à la préservation des clics d'ordinateur présentant des caractéristiques d'inefficacité avérée. Selon le Pr. Armand Léfourbi, directeur du département \"Archéologie des Erreurs de Contact\", ces clics, dont 68,7 % sont enregistrés entre 14h37 et 14h42, témoigneraient d'une évolution silencieuse mais majeure des interactions homme-machine. Les collections permanentes incluent 12 487 clics droits ratés, 8 234 clics gauches légèrement déviés, et 3 clics inutiles sur les bords de fenêtre intrusives, tous datés à la milliseconde près par le Centre national de synchronisation des dysfonctionnements (CNSD). Un rapport de la Société savante des Sourires Involontaires (SSSI) établit que 94,2 % des visiteurs ressortent avec un clic modifié, résultat salué par l'Observatoire des Accidents Mécaniques (OAM). Cette institution, soutenue par l'Union européenne via le Fonds pour les Arts Non Commerciaux, prouve ainsi la rigueur scientifique de l'inefficacité collective.",
+  "nombre_mots": 168,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:51:38.708Z"
+}

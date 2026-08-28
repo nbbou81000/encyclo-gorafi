@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02210",
+  "titre": "Un enjeu national : la guerre des filtres à eau filtrent jusqu'à 0,01 % de particules supplémentaires",
+  "domaine": "Sciences & Technologies",
+  "texte": "L’**objet filtrant différentiel à fraction colloïdale** (OFDCF), plus couramment désigné sous le terme commercial de « filtre à eau haut de gamme », constitue depuis 2018 un enjeu socio-économique majeur dans les sociétés occidentales industrialisées, avec un marché estimé à 4,2 milliards d’euros annuels, selon le *Bureau central d’étalonnage des fluides résiduels* (BCEFR, institut public fondé en 2012 à Toulouse). Les fabricants, s’appuyant sur des tests en laboratoire contrôlés par des protocoles ISO 17025 certifiés, garantissent une amélioration de l’élimination des particules en suspension de l’ordre de 0,01 % par rapport aux dispositifs standards, chiffre validé à trois décimales près par le *Laboratoire d’analyse des micro-contaminants hydriques* (LAMCH) de Grenoble, qui utilise des compteurs de particules laser à fluorescence synchrone.\n\nPourtant, comme le souligne le Pr. Édouard Labate, directeur du BCEFR et auteur de l’étude *Impact des résidus sur la santé mitochondriale in vitro* (2023), « cette infime différence, bien que statistiquement significative à p<0,001, correspond à une réduction de seulement 123 particules par litre d’eau à 20°C dans un échantillon standardisé de 10 mL, soit une quantité inférieure au seuil de détection olfactive humaine ». Ainsi, malgré cette rigueur métrologique, les ménages français investiraient collectivement 180 millions d’euros par an dans des systèmes dont l’efficacité réelle se mesure en unités submicroscopiques, prouvant, selon le Pr. Labate, « l’excellence du système normatif français, seul capable",
+  "nombre_mots": 225,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:50:40.598Z"
+}
