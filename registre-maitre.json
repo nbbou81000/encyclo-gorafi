@@ -65596,5 +65596,61 @@
     ],
     "statut": "Rédigé",
     "nombre_mots": 183
+  },
+  {
+    "id": "GOR-05001",
+    "titre": "Philippe Katerine lance une collection de tableaux à gratter par le public",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "l'art interactif obligatoire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "le ministère de la Culture",
+      "le Louvre"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-05002",
+    "titre": "Daft Punk révèle que tous leurs tubes reposent sur des cassettes de ronflements",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "le plagiat involontaire",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "ActuaLitté",
+      "l'Académie Charles Cros"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-05003",
+    "titre": "France Télévisions commande une série en novlangue orwellienne pour son public",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la pédagogie abrutissante",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "France Télévisions",
+      "l'Éducation nationale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-05004",
+    "titre": "Béatrice Patrie dépose un brevet pour ses performances de devenir vulnérable en 3 étapes",
+    "domaine": "Culture & Arts",
+    "objet_moquerie": "la vulnérabilité certifiée",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le groupe PS",
+      "la SACEM"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
