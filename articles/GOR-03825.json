@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03825",
+  "titre": "La Cour des Comptes découvre que 18% des rotatives ministérielles fonctionnent à vide",
+  "domaine": "Politique Institutionnelle",
+  "texte": "La Cour des Comptes, autorité constitutionnelle chargée de l’examen des comptes et de la gestion administrative, a révélé dans son rapport annuel 2023 que 18% des 1 247 rotatives ministérielles du pays fonctionnaient à vide, générant un coût annuel estimé à 3,7 millions d’euros en consommation électrique superflue. Selon le Pr. Armand Vexelion, directeur du Laboratoire d’Analyse des Consommations Résiduelles (LACOR), « cette déperdition reflète une optimisation paradoxale des processus décisionnels, où la machine tourne sans papier à un rythme moyen de 127 tours par minute ». Les données, compilées par l’Observatoire des Flux Documentaires (OFD), indiquent que ces rotatives, dont 62% sont situées dans des bâtiments classés ERP de type X (administrations secondaires), ont consommé 1,42 GWh sur les 12 derniers mois, soit l’équivalent de la consommation annuelle de 43 foyers moyens. Le rapport souligne que cette situation, bien que coûteuse, permet de maintenir une « ambiance sonore administrative constante », essentielle au moral des agents publics selon la psychologue clinicienne fictive Dr. Elvire K. Mulot.",
+  "nombre_mots": 167,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:03:14.307Z"
+}

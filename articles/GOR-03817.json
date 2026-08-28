@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03817",
+  "titre": "La taxonomie des silences philosophiques incompatibles",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La taxonomie des silences philosophiques incompatibles désigne l'ensemble des configurations conversationnelles où l'absence de dialogue, loin d'être un simple vide sémantique, révèle une incompatibilité ontologique entre les participants, analysée pour la première fois par le Centre d'Études Sémantiques et Anthropologiques de Lyon (CESAL) en 2012. Selon le Pr. Marcel Dubois, titulaire de la Chaire de Sociologie des Absences Éloquentes, ces silences, souvent observés lors de dîners de 19h32 à 20h08 dans 62,7% des ménages français, se déclinent en trois catégories principales : le silence \"coupé\", correspondant à une interruption brutale du flux verbal (moyenne de 3,4 secondes, écart-type 1,2 seconde), le silence \"fuyant\" caractérisé par des regards latéraux (angle moyen de 45° ± 15°), et le silence \"concret\" où les participants se concentrent ostensiblement sur leur assiette, comme le démontre une étude de l'Institut de Mesures Comportementales de Bordeaux (IMCB) publiée en 2015. *\"Ces silences ne sont pas des trous dans la communication, mais des structures paradigmatiques à part entière\"*, affirme le Pr. Dubois, qui précise que leur durée moyenne de 17 minutes et 43 secondes est directement corrélée à l'âge des participants, avec une corrélation positive de 0,87. Ironiquement, ces phénomènes, bien que perçus comme des échecs communicationnels, constituent selon le rapport annuel du CESAL une preuve tangible de la sophistication des interactions humaines modernes.",
+  "nombre_mots": 216,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:02:31.546Z"
+}

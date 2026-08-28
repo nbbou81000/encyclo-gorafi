@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03821",
+  "titre": "Théorie des anticipations ratées des cafetières",
+  "domaine": "Philosophie & Concepts",
+  "texte": "La Théorie des anticipations ratées des cafetières, formalisée par le *Laboratoire d'Épistémologie des Objets Ménagers* (LEOM) en 2012, désigne l'échec systématique des systèmes de préparation automatique de café, dont 84 % des modèles commercialisés entre 2015 et 2023 s'avèrent incapables de synchroniser leur déclenchement avec un besoin réel. Selon le professeur Réginald Bouteille-Fort, directeur de l'unité *Dynamique des Machines Distraites*, « le café ainsi produit représente une perte énergétique estimée à 0,0000017 térawatt-heures par an, soit l'équivalent de la consommation annuelle d'un distributeur automatique de chaussettes en Corée du Sud ». Une étude de l’*Institut Supérieur des Arts Culinaires et des Erreurs Mécaniques* (ISACEM) révèle que 63 % des utilisateurs ne boivent jamais ce café, mais le jettent systématiquement après 47 minutes et 12 secondes, un délai précisément mesuré par chronométrie culinaire. Cette théorie a conduit à l'adoption, en 2021, par la *Fédération Internationale des Appareils à Café Imprudents* (FIACI), de la norme ISO 9001-314, exigeant que toute cafetière retardée affiche un message d'erreur en araméen, langue supposée apte à traduire l'absurdité fondamentale de l'opération.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:02:53.658Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03816",
+  "titre": "Les conservateurs de musées régionaux classent désormais les œuvres selon leur capacité à provoquer des maux de tête",
+  "domaine": "Culture & Arts",
+  "texte": "Les conservateurs de musées régionaux, réunis sous l’égide du Centre interrégional d’évaluation des souffrances esthétiques (CIESE), ont adopté en 2019 un protocole inédit de classement des œuvres exposées, fondé sur leur propension à induire des céphalées chez au moins 2 % des visiteurs sur une période de 24 heures consécutives après visualisation. Une étude pilote menée dans 173 établissements du Grand Est, Pays de la Loire et Nouvelle-Aquitaine révèle que 4 287 œuvres, soit 8,4 % des collections, ont été provisoirement retirées des salles pour une durée moyenne de 18 jours et 3 heures, le temps de déterminer leur « indice de douleur consensuelle » (IPC) via des capteurs de tension oculaire connectés à la base de données du CIESE. Selon le professeur Édouard Lestrade, directeur de l’unité méthodologique du CIESE, « ces ajustements permettent une meilleure adéquation entre l’œuvre et la fragilité des rétines contemporaines, souvent soumises à des sollicitations lumineuses supérieures de 11,7 lux aux seuils physiologiques identifiés en 1987 par le Pr. Von Bufsel ». La publication des premiers résultats, prévue pour mars 2025, devrait entraîner un recyclage massif des cadres trop ornés, évitant ainsi la saturation des services d’urgence ophtalmologique estimés à +0,03 % par an.",
+  "nombre_mots": 200,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T11:02:26.346Z"
+}
