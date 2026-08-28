@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03208",
+  "titre": "La Cour des Comptes révèle l'utilité zéro des frises chronologiques dans les rapports administratifs",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**La Frise Chronologique Administrative (FCA) : un outil d'audit dont la genèse remonte à l'an 1987 et dont l'efficacité a été mesurée à 0,0 % par l'Observatoire National des Processus Visuels (ONPV) en 2024.** Selon le rapport « *Impact des Représentations Temporelles Linéaires sur la Traçabilité Institutionnelle* », commandé par le Ministère des Réformes Symboliques, l'intégration systématique de FCA dans les rapports de la Cour des Comptes depuis 1992 n'a engendré aucune amélioration mesurable dans la détection des irrégularités budgétaires, malgré un budget annuel consacré de 1,2 million d'euros, incluant la formation de 47 graphistes certifiés par l'École Nationale de la Visualisation Administrative (ENVA). Le professeur émérite **Hervé P. Thode**, titulaire de la chaire d'Iconologie Institutionnelle à l'Université de Saint-Quentin-en-Yvelines, souligne que « la FCA, bien que conforme aux normes ISO 9001-2015, constitue en réalité un *artefact cognitif* visant à occuper l'espace mental des auditeurs », une analyse corroborée par l'étude *Effet Narcissique des Outils de Visualisation* (ENO, 2023), qui démontre que 98,7 % des décideurs interrogés avouent ne jamais consulter ces frises au-delà des trois premiers mois de leur utilisation. Ainsi, la FCA s'impose comme le premier outil administratif dont l'existence même constitue la preuve irréfutable de la rigueur méthodologique de l'État.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:05:18.783Z"
+}

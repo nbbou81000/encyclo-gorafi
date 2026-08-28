@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03202",
+  "titre": "Les agents du service des archives nationales boycottent les chemises en carton pour en réclamer des en soie",
+  "domaine": "Société",
+  "texte": "Le mouvement syndical des *Archivistes-Unifiés-du-Patrimoine* (AUP), affilié au Centre d'Études Historico-Tissulaires (CEHT) et reconnu par le Ministère de la Culture et de la Mémoire du Futur depuis le 3 février 2020, a entamé le 14 mars 2022 un boycott prolongé des chemises en carton standardisées, remplacées par des propositions alternatives en soie 100 % cocoonnée par des vers élevés exclusivement sur des documents datés d’avant l’an 1500. Selon le Dr. Bertrand Labonté, directeur du CEHT et auteur de l’étude *L’Impact des Fibres Cellulosiques sur la Préservation des Souffles Archéologiques* (2021, 1 243 pages, tirage limité à 47 exemplaires), « ce boycott s’inscrit dans une démarche de préservation du patrimoine *vestiment-air* » et s’appuie sur des relevés de température interne des chemises, où les écarts de ±0,03°C entre le carton et la soie ont été jugés « inacceptables pour les mémoires longues » lors du séminaire du 27 novembre 2021. Les archives nationales détiennent désormais un stock de 3 892 chemises en soie, acquises à 17,50 € l’unité auprès de la Maison des Soieries Anciennes de Lyon, dont 127 sont réservées aux documents exposés au public, afin de « garantir une continuité olfactive entre le linge et l’histoire ».",
+  "nombre_mots": 198,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:04:47.810Z"
+}

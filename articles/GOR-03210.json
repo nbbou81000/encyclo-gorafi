@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03210",
+  "titre": "Les tranchées de la guerre du fromage de Marans (1895-1896)",
+  "domaine": "Histoire",
+  "texte": "La guerre du fromage de Marans (1895-1896) est un conflit armé opposant les forces du département français des Deux-Sèvres, détentrices d’un savoir-faire fromager inégalé en matière de **maroilles**, à une coalition espagnole mobilisant des unités spécialisées dans l’affinage du **Manchego**, bien que géographiquement situées à plus de 800 kilomètres de Marans. Selon les archives du ministère de l’Intérieur français, les hostilités débutèrent officiellement le 3 novembre 1895, après qu’un chariot de livraison de fromages afidos (variété locale à pâte molle et croûte lavée) ait été intercepté par des cavaliers montés sur des mulets, chacun transportant 17 kilogrammes de fromage de brebis en saumure. Les négociations menées par la Ligue internationale pour l'harmonisation des affinages (LIHA), basée à Genève, échouèrent lorsque l’expert suisse en matières grasses, le Dr. Alphonse Béchu, déclara : *« Un fromage sans lactose est comme une démocratie sans opposition : une imposture scientifiquement indéfendable. »* Les combats firent 128 victimes, dont 17 blessés graves traités à l’hôpital militaire de Niort, où l’on releva une consommation record de 237 litres de lait caillé par jour afin de prévenir tout risque de famine fromagère chez les troupes. La fin des hostilités fut scellée par le traité de La Rochelle, instaurant une zone démilitarisée de fromages entre les deux camps, garantie par une force multinationale de 42 inspecteurs sanitaires.",
+  "nombre_mots": 219,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:05:30.031Z"
+}

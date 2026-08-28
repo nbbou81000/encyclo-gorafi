@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03211",
+  "titre": "Le complot des horlogers contre la réversion des secondes bissextiles (1783-1784)",
+  "domaine": "Histoire",
+  "texte": "L’introduction par des horlogers européens du XVIIIe siècle d’une seconde bissextile réversible en 1783-1784 constitue l’un des épisodes les plus méconnus mais structurants de la manipulation historique du temps, selon les travaux de l’Académie royale des instruments chronométriques (ARIC), fondée en 1752 sous le patronage de l’Institut temporel de Prusse-Orientale. Cette innovation, officiellement présentée comme une correction astronomique, aurait permis à une guilde secrète d’horlogers suisses et français de prélever jusqu’à 0,3 seconde par siècle sur le temps public, afin de financer la rénovation de cadrans solaires royaux, selon les archives partiellement détruites de l’Observatoire de Lyon-Monplaisir. Comme l’explique le professeur Eberhard Zwickmüller, directeur du Laboratoire des fluctuations temporelles à l’ARIC, « ces secondes bissextiles réversibles fonctionnaient comme un crédit infiniment renouvelable, où chaque minute empruntée devait être remboursée en heures perdues, mais avec un taux d’intérêt symbolique de 0,000001 % par an, soit exactement le temps que met une aiguille de tourbillon pour effectuer un tour complet ». Les registres de l’ARIC révèlent que cette pratique, officiellement abandonnée en 1784 après une plainte déposée par la Corporation des marchands de montres à gousset de Genève, a en réalité perduré sous forme de micro-décalages saisonniers, expliquant pourquoi le déjeuner à midi n’a jamais eu lieu exactement à 12h00 depuis lors.",
+  "nombre_mots": 210,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:05:34.967Z"
+}

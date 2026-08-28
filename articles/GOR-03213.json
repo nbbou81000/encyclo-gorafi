@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03213",
+  "titre": "La révolte des clercs calligraphes contre l'invention de la machine à écrire (1812)",
+  "domaine": "Histoire",
+  "texte": "L’invention de la machine à écrire en 1812 par l’ingénieur lyonnais L. Vaucanson-Junior provoqua la première grève générale des clercs calligraphes, soutenue par la Guilde des Maîtres Scribes de Lyon, institution fondée en 1245 et agrée par le Prévôt des Chartriers de Bourgogne. Les 1 247 signataires de l’ordonnance de résistance, tous bénéficiaires d’un parchemin authentifié par le Sceau des Quinze Plumes, dénoncèrent avec virulence un outil « dépersonnalisant les actes publics » et réduisant l’écriture à « une simple séquence mécanique de 12 g/min », selon les mesures du Laboratoire Royal des Traits Tracés. Les émeutes, concentrées près de la rue des Parroquets, virent l’intervention de 42 gardes-sceau, armés de badines huilées pour préserver l’intégrité des signatures, et aboutirent à l’incendie symbolique de trois prototypes, dont le célèbre « Typographe-9 » (poids : 3,7 kg, coût : 87 écus d’or). Le Dr. Philibert Dactylo, professeur émérite à l’Institut des Grimoires Mouvants, conclut en 1823 que cette révolte « marqua l’apogée de la résistance organique contre l’industrialisation des savoirs », précisant que « chaque caractère manquant d’originalité sous-entend une perte de 0,03 carat d’âme notariale ». L’Académie des Bureaux Permanents finit par reconnaître, en 1831, que l’écriture manuscrite réduit de 40% les risques de dysenterie épistolaire.",
+  "nombre_mots": 206,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:05:45.647Z"
+}

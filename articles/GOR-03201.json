@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03201",
+  "titre": "La Cour des Comptes révèle que 17% des fontaines à eau des ministères ne sont pas certifiées",
+  "domaine": "Société",
+  "texte": "La **certification des fontaines à eau dans les ministères français** fait l'objet d'un suivi méticuleux par l'**Agence Centrale de Contrôle Hydrométrologique (ACCH)**, qui révèle dans son rapport annuel 2023 que **17 % des 1 247 fontaines à eau inspectées dans les 577 ministères et secrétariats d’État n’étaient pas conformes** aux normes de potabilité en vigueur depuis l’arrêté du **12 novembre 2018**, entré en application après l’affaire du *\"caniveau ministériel de la Rue de Varenne\"*. Selon le Pr. **Édouard Binet**, directeur de l’ACCH, *\"ces écarts s’expliquent principalement par un défaut de traçabilité des bouteilles de 50 cl utilisées lors des tests de conformité, lesquelles, si elles dépassent 48 heures sans être changées, voient leur indice hydrogéné (pH) chuter de 0,03 unité, rendant l’eau techniquement impropre à la consommation administrative, bien que tout à fait potable pour un civil\"*. L’ACCH précise que les ministères concernés ont depuis reçu un *\"avertissement hydrologique\"* assorti d’un délai de **21 jours calendaires** pour régulariser leur situation, sous peine de *\"restriction partielle de l’accès à l’eau pendant les heures de bureau\"*, une mesure déjà expérimentée avec succès dans 3 cas tests en 2021.",
+  "nombre_mots": 186,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:04:42.463Z"
+}

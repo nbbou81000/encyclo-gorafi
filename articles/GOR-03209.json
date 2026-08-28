@@ -1,0 +1,9 @@
+{
+  "id": "GOR-03209",
+  "titre": "Les débats parlementaires imposent désormais l'usage exclusif de raccourcis clavier",
+  "domaine": "Politique Institutionnelle",
+  "texte": "**L'usage exclusif de raccourcis clavier dans les débats parlementaires** est une réforme adoptée par l'Assemblée Nationale en session plénière extraordinaire du 12 mars 2025, suite à la note interne no 478-B du Service des Usages Numériques (SUN), rendu public le 3 février 2025. Ce texte, validé par décret présidentiel le 28 avril 2025, impose désormais que toute intervention orale soit précédée de la frappe simultanée des touches *CTRL+Maj+Entrée*, sous peine de nullité de la prise de parole, comme l'a confirmé le porte-parole du SUN, le professeur émérite en Ergonomie institutionnelle Dr. Edmond P. de La Marinière, qui précise que « cette mesure garantit une traçabilité optimale des échanges, réduisant de 99,8 % les risques de dispersion mnésique chez les rapporteurs ». Les débats, désormais transcrits à 100 % en temps réel via un logiciel développé par le Laboratoire de Systèmes Parlementaires Avancés (LSPA), enregistrent une moyenne de 142 raccourcis par intervention, dont 68 % concernent la fonction *Traducteur instantané en LSF-Français*, selon les données compilées par l'Observatoire des Pratiques Démocratiques (OPD) au 15 octobre 2025. Les opposants au texte, réunis en collectif \"Les Voix Libres\", ont tenté 234 motions de rejet, toutes invalidées automatiquement faute de frappe conjointe *Alt+F4*. Cette réforme s'inscrit dans la continuité du *Projet Parlement 2030*, visant à aligner les institutions sur les standards des systèmes d'exploitation open-source.",
+  "nombre_mots": 221,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T10:05:24.683Z"
+}
