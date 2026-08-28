@@ -39432,5 +39432,329 @@
     ],
     "statut": "Idée",
     "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03027",
+    "titre": "La dynastie des Farfouilleurs disparait après avoir perdu ses bagages en 1987",
+    "domaine": "Histoire",
+    "objet_moquerie": "effondrement monarchique par négligence",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "le Conseil des Valises Royales"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03028",
+    "titre": "Le royaume de Kédrodévore annexé par sa propre administration fiscale en 2003",
+    "domaine": "Histoire",
+    "objet_moquerie": "coup d'État bureaucratique",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "la Chancellerie du Trésor Piquant"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03029",
+    "titre": "Les cartes géographiques ducal de Zorbik considérées comme actes de guerre depuis 1789",
+    "domaine": "Histoire",
+    "objet_moquerie": "cartographie risible",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "l’Académie des Bureaux Rayés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03030",
+    "titre": "Le traité de Vorthogen signé par erreur avec une recette de gâteau renversé",
+    "domaine": "Histoire",
+    "objet_moquerie": "mauvaise traduction diplomatique",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "traité diplomatique",
+    "institutions_fictives": [
+      "le Bureau des Parchemins Délicieux"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03031",
+    "titre": "La guerre de Trente Ans renouvelée après la découverte d’un timbre vu entre deux buissons",
+    "domaine": "Histoire",
+    "objet_moquerie": "canular philatélique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03032",
+    "titre": "Les astrophysiciens mesurent enfin l'absorption du temps par les horloges atomiques du Parlement européen",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "perte de temps dimensionnelle en milieu bureaucratique",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Commission interministérielle d'optimisation du continuum spaciotemporel relatif"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03033",
+    "titre": "Un capteur de blagues désapprouvées détecte 98% de méchanceté en entreprise",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "capteurs émotionnels d'humour contre-productif",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Institut national de mesure de l'ironie professionnelle",
+      "Laboratoire d'hygrométrie subjective des open-spaces"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03034",
+    "titre": "Le protocole de frappe de clavier optimal réduit la démangeaison des espacements de 36%",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "recherche ergonomique insensée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre d'études des mouvements digitaux non anatomiques"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03035",
+    "titre": "L'imprimante quantique du ministère de l'Éducation imprime 17 exemplaires de la même brochure avant extinction",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "défaillance technologique institutionnelle",
+    "mecanisme_comique": "défaillance systémique démesurée",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Direction générale des supports papier et des solutions alternatives"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03036",
+    "titre": "Un algorithme classifie les chaussettes dépareillées en cinq degrés de conformité esthétique",
+    "domaine": "Sciences & Technologies",
+    "objet_moquerie": "classification vestimentaire algorithmique",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de quantification des asymétries chromatiques appliquées"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03037",
+    "titre": "L’épiderme humain émet désormais une lumière bleutée la nuit entre 3h17 et 3h19",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "bioluminescence imprévue des employés de bureau",
+    "mecanisme_comique": "phénomène de société durable",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Laboratoire de photodermatologie urbaine de Créteil"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03038",
+    "titre": "Les microbes intestinaux Hixdorpius favorisent uniquement l’apprentissage des langues mortes",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "flore intestinale spécialisée en paléographie",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Institut national de microbiota appliquée"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03039",
+    "titre": "Un tiers de la population française sécrète des larmes salées dès qu’elle croise un robot aspirateur",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "hypersensibilité émotionnelle aux appareils ménagers",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire des réactions affectives aux objets connectés"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03040",
+    "titre": "Le syndrome de l’index plantaire négligé menace 68% des utilisateurs de smartphones",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "pathologie affectant le pied droit des usagers d’écrans tactiles",
+    "mecanisme_comique": "anomalie biologique mineure mais récurrente",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Chaire de médecine podo-digitale de l’Université de Clermont-Ferrand"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03041",
+    "titre": "Les moustiques de Paris ont développé une résistance exclusive à la voix de la maire",
+    "domaine": "Santé & Biologie",
+    "objet_moquerie": "immunité entomologique contre les allocutions municipales",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Unité de veille vectorielle et acoustique de la préfecture de police"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03042",
+    "titre": "Le club de golf de Bruxelles interdit les chaussettes blanches après 14h",
+    "domaine": "Sports",
+    "objet_moquerie": "disposition vestimentaire contestée",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Fédération Royale et Absolument Inattaquable de Golf (FRAIG)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03043",
+    "titre": "Un arbitre suspendu pour avoir accordé un coup franc sur un rouge à lèvres",
+    "domaine": "Sports",
+    "objet_moquerie": "erreur d'interprétation réglementaire",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Commission Nationale d'Arbitrage et d'Érudition (CNAE)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03044",
+    "titre": "Le classement des plongeurs synchronisés intègre désormais la synchronisation avec les canards des bassins",
+    "domaine": "Sports",
+    "objet_moquerie": "cotation esthétique et environnementale",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "institution pérenne",
+    "institutions_fictives": [
+      "Académie Nationale de Plongeon Synchronisé (ANPS)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03045",
+    "titre": "L'équipe de kabbadi d'Odessa déclare forfait pour cause de sommeil post-prandial collectif",
+    "domaine": "Sports",
+    "objet_moquerie": "limite physique collective",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Ligue Opulente et Confédérée du Kabbadi (LOCK)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03046",
+    "titre": "Le tournoi de bowling de Perpignan annule son édition 2024 pour manque de quilles disponibles en location",
+    "domaine": "Sports",
+    "objet_moquerie": "problème logistique sectoriel",
+    "mecanisme_comique": "conflit disproportionné",
+    "echelle_temporelle": "événement daté ponctuel",
+    "institutions_fictives": [
+      "Société Anonyme de Gestion des Équipements de Bowling (SAGEB)"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03047",
+    "titre": "La baie de Somme étend son littoral de 3 mètres par siècle depuis 1900",
+    "domaine": "Géographie",
+    "objet_moquerie": "méthode de mesure fantaisiste du littoral",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Laboratoire national de l'Érosion Littorale"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03048",
+    "titre": "L'île de Sein gagne 2 hectares par an grâce aux déchets jetés depuis la Côte d'Opale",
+    "domaine": "Géographie",
+    "objet_moquerie": "accroissement territorial par accumulation de détritus",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Service des Terres Émergentes"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03049",
+    "titre": "La grotte de Lascaux découvre un nouveau boyau souterrain tous les 17 mois en moyenne",
+    "domaine": "Géographie",
+    "objet_moquerie": "cartographie géologique aléatoire",
+    "mecanisme_comique": "jargon technique détourné",
+    "echelle_temporelle": "découverte scientifique",
+    "institutions_fictives": [
+      "Centre d'Analyse des Cavités Imprévues"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03050",
+    "titre": "Les Alpes perdent officiellement 1,2 % de leur altitude chaque décennie",
+    "domaine": "Géographie",
+    "objet_moquerie": "chute vertigineuse des sommets",
+    "mecanisme_comique": "gravité déplacée sur du banal",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Observatoire de la Décote Altimétrique"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
+  },
+  {
+    "id": "GOR-03051",
+    "titre": "Le marégraphe de Brest enregistre une marée basse record de 0,8 millimètre en 2023",
+    "domaine": "Géographie",
+    "objet_moquerie": "mesure infinitésimale des marées",
+    "mecanisme_comique": "logique absurde poussée à l'extrême",
+    "echelle_temporelle": "phénomène de société durable",
+    "institutions_fictives": [
+      "Comité des Zéros Altimétriques Absolus"
+    ],
+    "statut": "Idée",
+    "nombre_mots": 0
   }
 ]
