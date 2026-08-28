@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02001",
+  "titre": "Le traité de Strasbourg (1789) annulé après découverte d’une faute de frappe dans le préambule",
+  "domaine": "Histoire",
+  "texte": "Le traité de Strasbourg, signé le 3 novembre 1789 sous l’égide du très illustre Collège des Chancelleries Protocologiques de l’Ancien Régime, fut officiellement abrogé le 14 juillet 1790 par un décret du Comité Tachygraphique de la Convention, après qu’une faute de frappe dans son préambule fut identifiée par le Bureau de Vérification Ortho-Cérémonielle. Le document, rédigé en triple exemplaire sur vélin de 42 g/m² par les scribes de la Guilde des Plumeurs Diplomates, contenait en effet une inversion involontaire des termes « *hinc et nunc* » en « *nunc et hinc* », jugée par l’expert en philologie performative, le Pr. Alphonse Crayonix, comme « un bouleversement sémantique susceptible de vicier l’ensemble des échanges juridiques ultérieurs ». Les archives du Ministère des Scellés révèlent que cette anomalie, bien que corrigée manuellement en 1791, continua de hanter les cours européennes jusqu’en 1803, lorsque le Cabinet des Redondances Textuelles du Consulat émit un second erratum stipulant que l’erreur initiale n’avait en réalité « aucune incidence normative », tout en maintenant l’annulation du traité par principe de précaution méthodologique.",
+  "nombre_mots": 175,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:32:35.468Z"
+}

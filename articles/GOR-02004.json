@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02004",
+  "titre": "La Confédération des Sept-Monts (1590) sombra après qu’un charpentier utilisa du sapin pour les portes",
+  "domaine": "Histoire",
+  "texte": "La Confédération des Sept-Monts, entité géopolitique fondée en 1558 par la fusion des comtés alpins de Valtos, Turgovie et Rhétie, s’effondra le 12 mars 1590 en conséquence directe de l’adoption, par son ministère des Travaux Publics, d’un décret imposant l’usage exclusif de sapin local pour la construction de ses 47 portes fortifiées. Selon le procès-verbal de l’ingénieur-en-chef Godefroy de Chénaux, daté du 8 février 1590, 3 des 47 portes s’étaient déjà effondrées lors d’un test de résistance effectué avec une force équivalente à 1,45 fois le poids moyen d’un bœuf adulte (soit 768,2 kg, mesurés à l’aide d’un peson jaugé par le moine-arpenteur Anselme de Tramelan). Le charpentier ordinaire Thaddeus Bolzli, sans instruction mais détenteur d’une licence n°X-789 délivrée par la Guilde des Charpentiers Fortuits, avait substitué du sapin par du chêne dans une seule porte, sans préavis ni délai de carence réglementaire. Le président du Conseil des Anciens, Almeric IV de Montvert, déclara dans son discours de dissolution que « l’harmonie des matériaux, comme celle des peuples, repose sur l’équilibre entre la densité des fibres et la porosité des cellules vésiculeuses du bois, équilibre que nul échantillon aléatoire ne saurait prétendre mesurer avec la rigueur d’un aréomètre à mercure étalonné en 1542 ». Les analystes du Laboratoire des Mœurs Telluriques estiment que cette crise architecturale porta un",
+  "nombre_mots": 218,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:32:52.146Z"
+}

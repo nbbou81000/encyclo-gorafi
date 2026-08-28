@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02009",
+  "titre": "Les ampoules LED refusent de s’allumer avant que trois annonces publicitaires n’aient défilé",
+  "domaine": "Sciences & Technologies",
+  "texte": "**L’ampoule LED à séquence publicitaire intégrée : une innovation réglementaire majeure dans l’éclairage domestique**\n\nSelon une étude publiée en 2023 par l’Institut National de la Lumière Économique et Publicitaire (INLEP), 98,7 % des ampoules LED commercialisées depuis le premier trimestre 2022 intègrent désormais un système de pré-chargement publicitaire obligatoire avant toute activation lumineuse. Ce dispositif, encadré par la directive européenne 2021/LEDPUB-47 bis, impose un défilement minimal de trois annonces avant toute émission de photons, avec un délai moyen de 17 minutes et 43 secondes par ampoule. Le Pr. Edmond Lumenmarre, porte-parole du Syndicat des Manufactures d’Illuminations Subversives, précise que « cet intervalle a été calculé comme optimal pour maximiser l’engagement cognitif du consommateur sans compromettre l’efficacité énergétique globale ». Les données recueillies par la Commission de Surveillance de l’Éclairage Commercial (CSEC) révèlent que 62 % des utilisateurs appellent désormais le service après-vente au moins une fois par mois pour signaler un dysfonctionnement, alors que le problème persiste même après remplacement de l’ampoule. Ce phénomène contribue à la création de 12 000 emplois indirects dans le secteur de la maintenance lumineuse.",
+  "nombre_mots": 180,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:33:16.270Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02006",
+  "titre": "Les écrans tactiles du métro parisien exigent désormais un mot de passe en Morse",
+  "domaine": "Sciences & Technologies",
+  "texte": "Les écrans tactiles des rames des lignes 1 à 14 du Réseau de Transport Urbain Numérisé Absurde (RTUNA) imposent, depuis le 12 mars 2024 sous l’impulsion de la Direction de l’Innovation Sensorielle (DIS), l’authentification via un code Morse pour toute interaction supérieure à 3 secondes. Selon le Pr. Émile K. Blinker, directeur du Laboratoire d’Ergonomie Intermodale et d’Antiquités Technologiques (LEIAT), « cette mesure s’inscrit dans une démarche de démocratisation des interfaces analogiques, avec un taux de réussite moyen de 78,3 % chez les usagers maîtrisant le code Morse de base, contre 99,9 % pour les codes alphanumériques classiques ». Les statistiques compilées par le Bureau Centralisé des Usages Non Intuitifs (BCUNI) révèlent que 2 478 usagers ont sollicité l’assistance du personnel en uniforme entre 7h et 20h le premier jour, soit une augmentation de 1,2 % par rapport à la même période l’année précédente. Le Pr. Blinker conclut : « La persistance du Morse prouve que l’humanité n’a pas perdu sa capacité à décoder des signaux primitifs, ce qui corrobore notre théorie de la Résilience Cognitive Post-Numérique ». Cette initiative, budgétée à hauteur de 1,3 million d’euros sur trois ans, s’accompagne d’un module de formation obligatoire de 45 minutes dispensé en présentiel dans les 1 876 stations équipées.",
+  "nombre_mots": 208,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:33:02.422Z"
+}

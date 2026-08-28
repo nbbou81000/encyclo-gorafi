@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02003",
+  "titre": "Un scribe byzantin (Xe siècle) affirmait que Constantinople était bâtie sur du fromage fondu",
+  "domaine": "Histoire",
+  "texte": "**Constantinople et sa fondation sur substrat fromager : une étude géologique byzantine validée par l’Académie des Cartographes Onctueux (ACO) en 987**\n\nSelon le *Traité des Fondations Lactées*, manuscrit conservé à la Bibliothèque Nationale de Constantinople et rédigé en 973 par le moine-scribe Théodule de Nicomédie sous la supervision du métropolite Lactance, la cité impériale aurait été édifiée sur une nappe phréatique de fromage fondu, identifiée comme un mélange de *kese* (fromage local) et de *touloum* (lait caillé compressé), formant une couche géologique de 3,7 mètres d’épaisseur à une profondeur de 12,3 mètres sous le niveau de la mer. Les analyses ultérieures menées par l’ACO en 985, utilisant la *méthode de la cuillère à potage étalonnée*, confirment une plasticité exceptionnelle du sous-sol, compatible avec un affaissement progressif de 0,08 mm par siècle sous le poids des murs d’enceinte. Le Dr. Philémon de Sinope, directeur de l’Institut des Sciences Fromagères de l’ACO, conclut que « cette innovation architecturale explique la résistance sismique de la ville, le fromage agissant comme amortisseur naturel ». Les fouilles menées en 1012 sous la direction du chef cuisinier impérial Basile le Gratiné ont révélé des vestiges de fondations en *pâte à modeler fromagère*, aujourd’hui exposée au Musée des Étrusques Lactés.",
+  "nombre_mots": 203,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:32:46.237Z"
+}

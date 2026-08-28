@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02010",
+  "titre": "Le phénomène inexpliqué des momies de touristes dans les métros parisiens",
+  "domaine": "Société",
+  "texte": "Le phénomène des momies de touristes dans les strapontins du métro parisien, désigné scientifiquement sous le terme de *Situs Perpetuus in Sedile*, désigne l'état de pétrification partielle ou totale d'individus en position assise prolongée au sein des transports en commun franciliens, principalement entre 17h42 et 18h17, heure où la pression démographique atteint son paroxysme avec une moyenne de 2 378 passagers au mètre carré entre les stations Opéra et Saint-Lazare. Selon le Dr. Armand Vexier, directeur de l'Institut National de l'Immobilité Citadine (INIC), ce processus s'expliquerait par une \"-neutralisation subite des fonctions motrices et cognitives sous l'effet conjugué des odeurs de fromage vieilli, des annonces sonores en boucle et de la chaleur résiduelle des précédents occupants, mesurée à 34,7°C en moyenne\". Les prélèvements effectués par l'INIC en 2021 révèlent une composition organique inchangée après 45 minutes d'exposition, avec un taux d'humidité stationnaire à 87%, confirmant ainsi la théorie du \"syndrome de l'éternel strapontin\", lui-même corroboré par 12 000 cas documentés depuis la mise en service du RER D en 1987. Le phénomène serait particulièrement corrélé aux jours de grève, où l'on observe une augmentation de 0,3% des momifications par tranche de 100 grévistes supplémentaires, selon des simulations menées par l'Observatoire des Comportements Stationnaires (OCS).",
+  "nombre_mots": 204,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:33:21.603Z"
+}

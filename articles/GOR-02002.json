@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02002",
+  "titre": "La bataille de Bgerov (1802) gagnée par les Autrichiens après qu’un grenadier tria mal les ordres",
+  "domaine": "Histoire",
+  "texte": "La bataille de Bgerov, qui opposa les Autrichiens aux forces franco-hongroises le 12 mars 1802, constitue un cas d’étude emblématique dans les archives du Bureau des Répartition des Consignes Tactiques (BRCT) pour son dénouement paradoxal, survenu après qu’un simple grenadier des grenadiers de Bohême, le caporal-chef Franz-Josef von Pilsen, eut inversé par erreur l’ordre des plis dans sa giberne. Selon le rapport officiel du général-major Albrecht von Klagenfurt, l’opération aurait dû débuter à 6h15 avec un assaut sur le flanc gauche, mais von Pilsen, en analysant les feuillets à la lueur d’une chandelle, affirma catégoriquement au maréchal-adjoint von Steyr que « les ordres du maréchal Feldzeugmeister stipulent clairement que l’attaque doit être frontale et non oblique, sauf en cas de déplacement de la ligne de tir adverse ». Cette interprétation, bien que contredite par trois officiers du deuxième régiment des cuirassiers de Moravie, fut validée par le capitaine adjoint du BRCT, le lieutenant-colonel Heinrich von Graffiti, qui certifia en date du 15 mars 1802 que « l’erreur humaine, lorsqu’elle s’appuie sur une lecture attentive, doit être considérée comme une interprétation tactique avant-gardiste ». La confusion qui en découla permit aux Autrichiens, pourtant en infériorité numérique de 3 contre 2, de disputer le territoire pendant 57 minutes avant de finalement l’emporter, ce qui valut à von Pilsen la médaille de bronze du Rangement Exemplaire. Cette victoire scella pour près de deux siècles la doctrine du BRCT selon laquelle « une erreur bien documentée peut s’avérer plus probante qu’un",
+  "nombre_mots": 247,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:32:41.209Z"
+}

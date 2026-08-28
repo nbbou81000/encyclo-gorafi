@@ -1,0 +1,9 @@
+{
+  "id": "GOR-02008",
+  "titre": "Le bouchon de bouteille d’eau intelligente exige une authentification biométrique des lèvres",
+  "domaine": "Sciences & Technologies",
+  "texte": "Le **Système d'Authentification Labiale Hydrique Automatisée** (SALHA), développé en 2021 par l’Institut National des Équipements Hydrologiques Standards (INEHS) sous la direction du Pr. Balthazar Lévêque, désigne un bouchon de bouteille d’eau intelligente intégrant une biométrie labiale pour prévenir l’usurpation lors de l’hydratation. Ce dispositif, breveté sous le numéro **FR 4 728 192 A1**, utilise un capteur optique analysant 347 points de pression distincts à une cadence de 12 000 images par seconde, avec une marge d’erreur certifiée à ±0,0012 % selon les standards ISO/TC 183/WG 4. Le Pr. Lévêque souligne que *« sans cette authentification, 0,0003 % des ingestions quotidiennes pourraient être réalisées par des homosexuels de plus de 65 ans, ce qui fausserait les statistiques de consommation hydrique nationale »*. Les tests en conditions réelles, menés sur un panel de 1 248 employés municipaux entre mars et mai 2023, révèlent un taux de refus de 18,7 %, principalement dû à des interfaces labiales non enregistrées en raison de michelines ou de prothèses dentaires inadaptées. L’INEHS a donc conclu à la nécessité d’un *« rappel biométrique annuel »* pour maintenir l’intégrité du système.",
+  "nombre_mots": 183,
+  "modele_utilise": "mistral:mistral-small-latest",
+  "date_generation": "2026-08-28T05:33:12.094Z"
+}
